@@ -1,0 +1,10 @@
+2024-09-24 09:46:28,101 - INFO - Attempting to retrieve unread messages.
+2024-09-24 09:48:32,980 - INFO - Successfully retrieved 1176 unread messages.
+2024-09-24 09:48:39,390 - INFO - DataFrame created successfully with cleaned email data.
+2024-09-24 09:48:39,469 - INFO - Cleaned emails saved to 'cleaned_emails.csv'.
+2024-09-24 05:20:38,292 - INFO - Attempting to retrieve unread messages.
+2024-09-24 05:20:38,292 - INFO - access_token is expired. Now: 2024-09-24 10:20:38.292649, token_expiry: 2024-09-24 05:10:54
+2024-09-24 05:20:38,292 - INFO - Refreshing access_token
+2024-09-24 05:21:34,806 - INFO - Successfully retrieved 1179 unread messages.
+2024-09-24 05:21:39,080 - INFO - DataFrame created successfully with cleaned email data.
+2024-09-24 05:21:39,113 - INFO - Cleaned emails saved to 'cleaned_emails.csv'.
