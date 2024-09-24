@@ -22,11 +22,11 @@ class EmailService:
                 "job_details": job_details,
                 "classification": classification
             }
-            file_path = os.path.join(self.saved_jobs_folder, f"job_{message.id}_{message.date}.json")
+            file_path = os.path.join(self.saved_jobs_folder, f"job_{message.id}.json")
             with open(file_path, "w") as json_file:
-                json.dump(job_data, json_file, indent=4)
+                json.dump(job_details, json_file, indent=4)
             logging.info(f"Job details saved to {file_path}")
-            self.observer.track_processed_email(message.id)  # Track email as processed after saving
+            self.observer.track_processed_email(message)  # Track email as processed after saving
         except Exception as e:
             logging.error(f"Error saving job details for email {message.id}: {str(e)}")
 
@@ -36,9 +36,10 @@ class EmailService:
             cleaned_content = self.clean_and_remove_patterns(message.plain)
             classification = job_classifier.classify_job(message.subject, cleaned_content)
             logging.info(f"Job Classification : {classification}")
-            if classification["properties"]["classification"] != "Other":
-                job_details = job_extractor.extract_job_details(message.subject, cleaned_content)
+            if classification["classification"] != "Other":
+                job_details = job_extractor.extract_job_details(message, cleaned_content)
                 logging.info("Job details extracted using llm")
+                job_details["tag"] = classification["classification"]
                 self.save_job_details(message, job_details, classification)
                 return job_details, classification
             else:
@@ -66,7 +67,7 @@ class EmailService:
         """
         try:
             # Define the pattern to match unwanted text like 'Remove ... From' and 'Sign Up'
-            pattern = r"Remove.\s*.*\s*From.\s*.*\s*.*\s*.*\s*.*\s*|.*Sign.\s*Up\s*.*"
+            pattern = r"Remove.\s*.*\s*|.*Sign.\s*Up\s*.*"
             
             # Remove the matched patterns
             cleaned_text = re.sub(pattern, "", text, 0, re.MULTILINE)
