@@ -154,7 +154,10 @@ class EmailService:
     def clean_and_remove_patterns(self, text):
         """Clean text by removing specific patterns and extra whitespace characters."""
         try:
+            # Define the pattern to match unwanted text like 'Remove ... From' and 'Sign Up'
             pattern = r"Remove.\s*.*\s*|.*Sign.\s*Up\s*.*"
+            
+            # Remove the matched patterns
             cleaned_text = re.sub(pattern, "", text, 0, re.MULTILINE)
             cleaned_text = re.sub(r"\s+", " ", cleaned_text).strip()
             cleaned_text = re.sub(r"[\r\n\t\s]+", " ", cleaned_text).strip()
