@@ -95,7 +95,7 @@ class JobInformation(BaseModel):
     #tag: str = Field(default="", description="Any tags or keywords associated with the job")
 
 class JobResponse(BaseModel):
-    status: int = Field(default=200, description="The status code of the response")
+    status: int = Field(default=200, description="The status code of the response") 
     data: JobInformation = Field(description="The job information extracted from the job posting")
 
 

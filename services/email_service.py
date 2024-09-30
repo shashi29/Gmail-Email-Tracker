@@ -65,15 +65,14 @@ class EmailService:
     def save_job_details(self, message, job_details, classification):
         """Save job details and classification to a JSON file."""
         try:
-            job_data = {
-                "job_details": job_details,
-                "classification": classification
-            }
+            job_details_list = list()
+            job_details_list.append(job_details)
+            
             file_name = f"job_{message.id}.json"
             file_path = os.path.join(self.save_folder, file_name)
             
             with open(file_path, "w") as json_file:
-                json.dump(job_details, json_file, indent=4)
+                json.dump(job_details_list, json_file, indent=4)
             
             logging.info(f"Job details saved to {file_path}")
             
