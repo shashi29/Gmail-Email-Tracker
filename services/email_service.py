@@ -27,8 +27,8 @@ class EmailService:
         self.s3_bucket = os.getenv('S3_BUCKET', 'job-history-data')
         self.sqs_queue_url = os.getenv('SQS_QUEUE_URL','https://sqs.us-east-1.amazonaws.com/247640998427/S3JobHistoryData')
         
-        self.enable_s3_copy = True#os.getenv('ENABLE_S3_COPY', 'False').lower() == 'true'
-        self.enable_sqs_message = True#os.getenv('ENABLE_SQS_MESSAGE', 'False').lower() == 'true'
+        self.enable_s3_copy = False#os.getenv('ENABLE_S3_COPY', 'False').lower() == 'true'
+        self.enable_sqs_message = False#os.getenv('ENABLE_SQS_MESSAGE', 'False').lower() == 'true'
         
         self._setup_folders()
         self._setup_logging()
@@ -88,7 +88,7 @@ class EmailService:
             else:
                 logging.info(f"File {file_name} already processed. Skipping S3 copy and SQS message.")
             
-            self.observer.track_processed_email(message)
+            #self.observer.track_processed_email(message)
         except Exception as e:
             logging.error(f"Error saving job details for email {message.id}: {str(e)}")
 
@@ -167,6 +167,8 @@ class EmailService:
         
     def parallel_process_messages(self, messages, job_classifier, job_extractor, max_workers=1):
         """Process email messages in parallel with progress tracking."""
+        #Update folder with current date
+        self._setup_folders()
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
             results = list(executor.map(
                 lambda msg: self.process_message(msg, job_classifier, job_extractor),

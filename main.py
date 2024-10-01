@@ -24,7 +24,7 @@ def run_service():
             logging.info("No new unread emails.")
 
         logging.info("Sleeping for 30 minutes before the next check.")
-        time.sleep(30 * 60)
+        time.sleep(60 * 60)
 
 if __name__ == "__main__":
     run_service()
