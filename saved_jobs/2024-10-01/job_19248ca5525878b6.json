@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Cloud Operations",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Infrastructure Engineering",
+                "Terraform",
+                "GCP",
+                "Azure",
+                "DevSecOps"
+            ],
+            "primary": [
+                "Scripting",
+                "Infrastructure Automation",
+                "Cloud Service Offerings",
+                "Data Analytics",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Agile",
+                "Site Reliability Engineering",
+                "Disaster Recovery",
+                "Business Continuity",
+                "Networking"
+            ],
+            "all": [
+                "Infrastructure Engineering",
+                "Terraform",
+                "GCP",
+                "Azure",
+                "DevSecOps",
+                "Scripting",
+                "Infrastructure Automation",
+                "Cloud Service Offerings",
+                "Data Analytics",
+                "Kubernetes",
+                "Agile",
+                "Site Reliability Engineering",
+                "Disaster Recovery",
+                "Business Continuity",
+                "Networking"
+            ],
+            "with_experience": [
+                "Infrastructure Engineering (5+ years)",
+                "Terraform (3+ years)",
+                "GCP or Azure (3+ years)",
+                "Cloud Service Offerings (2+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Syed Ashik",
+        "email": "ashik@smartitframe.com",
+        "jd": "From: Syed Ashik, Smart IT Frame ashik@smartitframe.com Reply to: ashik@smartitframe.com Hi,Greetings from Smart IT Frame, Hope you are doing well!Smart IT Frame specializes in enabling you with your most critical line of resources.Whether it is for permanent staffing, contract staffing, contract-to-hire or executive search, we understand the importance of delivering the most suitable talent; on time and within budget. With our Core focus in emerging technologies, we have provided global technology workforce solutionsin North America, Canada &amp; India. We take pride in delivering specialized talent, superior performance, and seamless execution to meet the challenging business needs of customers worldwide. Title : Cloud OperationsLocation : Hybrid - Charlotte/Texas/NY/STLDuration : ContractJob Description/ Responsibilities\u2022 Lead complex technology initiatives including those that are companywide with broad impact\u2022 Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines\u2022 Design, code, test, debug, and document for projects and programs\u2022 Review and analyze complex, large-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in-depth evaluation of multiple factors, including intangibles or unprecedented technical factors\u2022 Make decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiatives\u2022 Collaborate and consult with key technical experts, senior technology team, and external industry groups to resolve complex technical issues and achieve goals\u2022 Lead projects, teams, or serve as a peer mentor\u2022 Lead complex technology Cloud build and migrations in either Google or Azure cloud platforms\u2022 Lead efforts in migrating legacy systems and applications to the cloud, ensuring minimal disruption to business operations\u2022 Act as a key contributor in automating the provisioning of cloud infrastructure using Infrastructure as Code (Terraform)\u2022 Make decisions in developing standards and engineering solutions. Design, optimize, and develop key services for the cloud platforms\u2022 Review and analysis complex, large-scale technology solutions for placement in the cloud that are aligned to strategic business objectives and address technical challenges\u2022 Collaborate and consult with key technical expert, senior technology teams, and external industry groups to resolve technical and complex issues and goals\u2022 Build and enable cloud infrastructure, automate the orchestration of Azure/GCP cloud platforms, design and deploy service enablement solutions, and engineer patterns and landing zones for workloads in the cloud\u2022 Work closely with product teams to address application demands\u2022 Hands on experience with DevSecOps and SDLC tooling (GitHub, Ansible, Terraform, Jenkins, Cucumber, Harness)\u2022 Understand container orchestration principles including container management and deployment of compute resourcesRequired Qualifications:\u2022 5+ years of Infrastructure Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education\u2022 3+ years of experience with scripting and infrastructure automation using Terraform\u2022 3+ years of hands-on experience with GCP or Azure platform enablement and application migrations, build out of complex infrastructure programmable patterns using Infrastructure as Code (IaC)\u2022 2+ years of knowledge and understanding of Cloud service offerings such as data, analytics, AL/ML on GCP or Azure\u2022 2+ years of experience with key services provided by Azure and/or GCP such as BigQuery, Vertix AI, DataProc, Functions. AKS, Service Fabric\u2022 2+ years working in a globally distributed team to provide innovative and robust cloud centric solutions.\u2022 2+ years gathering and analyzing data to diagnose the root cause of cloud workload issues, recommending and implementing solutions to resolve issues in timely mannerDesired Qualifications:\u2022 GCP Professional Cloud Architect or Azure Solutions Architect Certifications are highly desired.\u2022 Exposure to cloud governance and logging/monitoring tooling\u2022 Experience with Agile concepts and Site Reliability Engineering (SRE) Principles\u2022 Understanding, engineering and implementing disaster recovery and business continuity playbooks\u2022 Proficient on container-based solutions and services and have handled large scale Kubernetes based infrastructure build out and provisioning on Azure or GCP\u2022 Knowledge and understanding of Cloud Service offerings on Azure or GCP related to security, data protection, and policy implementations\u2022 Ability to articulate technical solutions to both technical and business partners\u2022 Good understanding of networking, firewalls, load balancing concepts (IP, DNS, Guardrails, Vnets) and exposure to database, cloud security, active directory, authentication methods, RBACJob Expectations:\u2022 Willingness to work on-site at stated location on the job opening\u2022 This position offers a hybrid work scheduled",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:49:12-05:00",
+        "unique_id": "19248ca5525878b6",
+        "emp_type": [
+            "contract"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

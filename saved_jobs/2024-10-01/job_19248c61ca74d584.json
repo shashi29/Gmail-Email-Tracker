@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Propelsys",
+        "job_title": "Solution Architect",
+        "location": "Birmingham, AL, USA",
+        "full_location": {
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "14+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Matillion",
+                "AWS"
+            ],
+            "primary": [
+                "Data Warehouse (DWH)",
+                "ETL",
+                "Data Analytics",
+                "Data Security",
+                "Data Integration"
+            ],
+            "secondary": [
+                "Data Profiling",
+                "Performance Tuning",
+                "Data Migration",
+                "Technical Reviews",
+                "Data Validation"
+            ],
+            "all": [
+                "Snowflake",
+                "Matillion",
+                "AWS",
+                "Data Warehouse (DWH)",
+                "ETL",
+                "Data Analytics",
+                "Data Security",
+                "Data Integration",
+                "Data Profiling",
+                "Performance Tuning",
+                "Data Migration",
+                "Technical Reviews",
+                "Data Validation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ashwini Sithar",
+        "email": "ashwini@propelsys.com",
+        "jd": "From: Ashwini Sithar, Propelsys ashwini@propelsys.com Reply to: ashwini@propelsys.com Hi Hope you are well We have urgent requirements with our Implementation Partner for the below requirement Job Title - Solution ArchitectIf Client site \u2013 Birmingham, AlabamaAny visa restriction \u2013 Any visa type is okC2C/C2H/FTE (Any profile will work) 14+ years of experience - 6A/6B Grade\u2022 Experience in end-to-end data analytics strategy, design and architecture for Snowflake, Matillion Cloud and AWS Cloud Services\u2022 8+ years of experience in DWH, 4 years of experience in implementing DWH on Snowflake.\u2022 Design and Develop/Review ETL programs primarily using Matillion Cloud\u2022 Experience in Design and implementation of Data Platform projects in a large-scale enterprise data warehouse environment and at least 2 Successful implementation Matillion with Snowflake is must.\u2022 Technical reviews, Data validation & end to end testing of ETL Objects, Source data analysis and data profiling.\u2022 Handle multiple projects in parallel, Participate and deliver Solution design, working closely with the architecture team \u2022 Understand business requirements and convert them into detail technical specifications for Data models and ETL programs\u2022 Collaborate with business users to create architecture in alignment with business need\u2022 Lead in Developing Project requirements for end-to-end Data integration process using ETL for Structured, semi-structured and Unstructured Data.\u2022 Experience with data security and data access controls and design in Snowflake.\u2022 Design the data warehouse and provide guidance to the team in implementation using Snowflake SnowSQL\u2022 Experience in working on migrating data from on-premise databases and files to Snowflake\u2022 Strong understanding of ELT/ETL and integration concepts and design best practices.\u2022 Experience in performance tuning of the snow pipelines and should be able to trouble shoot the issue quickly\u2022 Experience in Snowsql, Snowpipe, and Snowpark.Primary Skillset: Snowflake, Matillion and AWS",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:41:58-05:00",
+        "unique_id": "19248c61ca74d584",
+        "emp_type": [
+            "full-time"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

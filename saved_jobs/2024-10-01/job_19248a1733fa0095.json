@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Blue Ocean Ventures",
+        "job_title": "Cloud Network Architect - AWS",
+        "location": "Fort Worth, TX, USA",
+        "full_location": {
+            "city": "Fort Worth",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Cloud Networking",
+                "Network Architecture",
+                "VPCs",
+                "Security Groups"
+            ],
+            "primary": [
+                "Direct Connect",
+                "VPN",
+                "Transit Gateway",
+                "AWS Global Accelerator",
+                "Network Monitoring"
+            ],
+            "secondary": [
+                "Network Protocols",
+                "Routing",
+                "Firewalls",
+                "AWS WAF",
+                "Documentation"
+            ],
+            "all": [
+                "AWS",
+                "Cloud Networking",
+                "Network Architecture",
+                "VPCs",
+                "Security Groups",
+                "Direct Connect",
+                "VPN",
+                "Transit Gateway",
+                "AWS Global Accelerator",
+                "Network Monitoring",
+                "Network Protocols",
+                "Routing",
+                "Firewalls",
+                "AWS WAF",
+                "Documentation"
+            ],
+            "with_experience": [
+                "AWS (5+ years)",
+                "Cloud Networking",
+                "Network Architecture"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Raghu Prasad",
+        "email": "raghu.prasad@blue-oceanventures.com",
+        "jd": "From: Raghu Prasad, Blue Ocean Ventures raghu.prasad@blue-oceanventures.com Reply to: raghu.prasad@blue-oceanventures.com .HelloHope all is well,My name is Raghu Prasad, and I am a representative at Blue Ocean Ventures, a Search firm based out of Atlanta. I work closely with some of the leading Global IT Management Consulting companies for their hiring needs in the United States Role: Cloud Network Architect - AWSLocation: Fort Worth, TX (Onsite - Hybrid 3 days) - Locals candidates will be preferred. Expertise in AWS to design, implement, and manage scalable, secure, and high-performance cloud networking solutions. Deep understanding of AWS networking services and architecture, with experience in designing and optimizing network solutions for cloud-based environments. Shaping cloud strategy and ensuring robust and reliable connectivity across our AWS environments. Job Responsibilities: - As a Cloud Network Architect you will be designing, implementing, and managing scalable, secure, and high-performance cloud networking solutions. Deep understanding of AWS networking services and architecture, with experience in designing and optimizing network solutions for cloud-based environments. Shaping cloud strategy and ensuring robust and reliable connectivity across our AWS environments. Key Responsibilities: 1. Design and Architecture: - Develop and implement comprehensive cloud network architectures that support the organization\u2019s cloud strategy, focusing on scalability, security, performance, and cost-efficiency. - Design VPCs, subnets, route tables, and security groups to meet business and technical requirements. - Architect solutions that leverage AWS network services, including Direct Connect, VPN, Transit Gateway, and AWS Global Accelerator. 2. Implementation and Management: - Deploy and manage AWS networking components, including NAT gateways, Elastic Load Balancers (ELBs), and network ACLs. - Configure and maintain AWS Direct Connect and VPN connections to ensure secure and reliable connectivity between on-premises and AWS environments. - Implement network monitoring and logging solutions to ensure visibility and compliance with industry standards. 3. Security and Compliance: - Ensure network security by designing and implementing robust security controls and best practices, including the use of AWS Security Groups, NACLs, and AWS WAF. - Collaborate with security teams to ensure compliance with internal security policies and external regulations. - Experienced in designing and implementing AWS networking services, including VPCs, Direct Connect, VPN, and Transit Gateway. - Strong knowledge of network protocols, routing, firewalls, and security best practices. 4. Optimization and Troubleshooting: - Continuously monitor network performance and optimize for cost, performance, and reliability. - Diagnose and resolve complex network issues, collaborating with cross-functional teams as needed. - Provide guidance and best practices on network architecture and design to internal teams and stakeholders. 5. Documentation and Training: - Develop and maintain detailed network documentation, including diagrams, configurations, and policies. - Provide training and support to internal teams on AWS networking best practices and tools",
+        "source": "Email",
+        "date_posted": "2024-10-01 09:33:03-05:00",
+        "unique_id": "19248a1733fa0095",
+        "emp_type": [
+            "full-time"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

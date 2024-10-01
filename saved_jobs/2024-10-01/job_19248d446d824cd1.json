@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Anveta Inc",
+        "job_title": "Sr. .Net Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net",
+                "C#",
+                "JavaScript",
+                "Angular",
+                "Node JS",
+                "React JS",
+                "Azure",
+                "SQL Server",
+                "PL/SQL"
+            ],
+            "primary": [
+                "TMW System",
+                "Design Patterns",
+                "Test Driven Development",
+                "Continuous Integration",
+                "Rest API",
+                "Micro Services",
+                "Cross-platform messaging"
+            ],
+            "secondary": [
+                "No SQL Database",
+                "API gateway"
+            ],
+            "all": [
+                ".Net",
+                "C#",
+                "JavaScript",
+                "Angular",
+                "Node JS",
+                "React JS",
+                "Azure",
+                "SQL Server",
+                "PL/SQL",
+                "TMW System",
+                "Design Patterns",
+                "Test Driven Development",
+                "Continuous Integration",
+                "Rest API",
+                "Micro Services",
+                "Cross-platform messaging",
+                "No SQL Database",
+                "API gateway"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mounika",
+        "email": "mounika@anveta.com",
+        "jd": "From: Mounika, Anveta Inc mounika@anveta.com Reply to: mounika@anveta.com Title: Sr. .Net Developer Location: Remote Duration: 6+ Months TMW System (Routes & Trips) experience mandatory Job Description: Sr. .Net Developer with 10 years of experience in design and develop distributed systems. Should have strong experience on TMW System experience in SCM. Experience working on and deliver large-scale, globally distributed systems, with application of Design Patterns, Test Driven Development and continuous integration etc. Must be able to work from Front end to Backend development with C#, .Net Core technologies. UI Development experience with JavaScript, Angular and Node JS/ React JS. Should have experience working on Azure. Deep understanding of web services including Rest API and Micro Services development. Experience with cross-platform messaging environments. Experience with SQL Server database programming skills include SQL and PL/SQL. Good understanding with API gateway and No SQL Database.",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:39:50-05:00",
+        "unique_id": "19248d446d824cd1",
+        "emp_type": [],
+        "tag": ".NET Dev"
+    }
+]

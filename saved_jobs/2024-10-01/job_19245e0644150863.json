@@ -9,8 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
-            "job_code": "",
+            "employment_type": [
+                "full-time"
+            ],
             "experience_required": "10+ years",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
@@ -22,28 +23,28 @@
             "core": [
                 "Project Management",
                 "IT Data Governance",
-                "Data Warehouse Implementation/Solicitation",
-                "Procurement (RFP/SOW)",
+                "Data Warehouse Implementation",
+                "Procurement",
                 "Vendor Management",
-                "Multi-projects and/or Program Management"
+                "Multi-projects Management"
             ],
             "primary": [],
             "secondary": [],
             "all": [
                 "Project Management",
                 "IT Data Governance",
-                "Data Warehouse Implementation/Solicitation",
-                "Procurement (RFP/SOW)",
+                "Data Warehouse Implementation",
+                "Procurement",
                 "Vendor Management",
-                "Multi-projects and/or Program Management"
+                "Multi-projects Management"
             ],
             "with_experience": [
                 "Project Management (10+ years)",
                 "IT Data Governance (2 years)",
-                "Data Warehouse Implementation/Solicitation (2 years)",
-                "Procurement (RFP/SOW) (1 year)",
+                "Data Warehouse Implementation (2 years)",
+                "Procurement (1 year)",
                 "Vendor Management (1 year)",
-                "Multi-projects and/or Program Management (1 year)"
+                "Multi-projects Management (1 year)"
             ]
         },
         "job_type": [
@@ -55,7 +56,9 @@
         "source": "Email",
         "date_posted": "2024-09-30 17:59:42-05:00",
         "unique_id": "19245e0644150863",
-        "emp_type": [],
+        "emp_type": [
+            "full-time"
+        ],
         "tag": "BA/Scrum Master/PM"
     }
 ]

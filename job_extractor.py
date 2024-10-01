@@ -523,6 +523,10 @@ class JobDetailsExtractorService:
         # job_response["data"]["date_posted"] = message.date
         # job_response["data"]["unique_id"] = message.id
         # #job_response["data"]["email"] =  message.sender
+        employment_type = job_response["data"]["job_details"]["employment_type"]
+        if "third party" not in employment_type:
+            employment_type.append("third party")
+        job_response["data"]["job_details"]["employment_type"] = employment_type
         job_response["data"]["emp_type"] = job_response["data"]["job_details"]["employment_type"]
         return job_response["data"]
 

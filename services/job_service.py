@@ -31,7 +31,7 @@ class JobClassifierService:
         self.parser = JsonOutputParser(pydantic_object=JobClassification)
         
         self.prompt = PromptTemplate(
-            template="""Categorize the following job into one of these categories: Java Dev, .NET Dev, Python Dev, Pega Dev, Oracle DBA, DB Admin, BA/Scrum Master/PM, AWS Data Engineer, Azure Data Engineer, GCP Data Engineer, or Other.
+            template="""Categorize the following job into one of these categories: Java developer, .net developer, Python developer, PEGA Developer, Oracle DBA, DB Admin, Business Analyst, Scrum Master, Project Manager, AWS Data Engineer, Azure Data Engineer, GCP Data Engineer, or Other.
 
         Please use the following chain of thought process to analyze and categorize the job:
 
@@ -584,6 +584,10 @@ class JobDetailsExtractorService:
         job_response["data"]["date_posted"] = message.date
         job_response["data"]["unique_id"] = message.id
         #job_response["data"]["email"] =  message.sender
+        employment_type = job_response["data"]["job_details"]["employment_type"]
+        if "third party" not in employment_type:
+            employment_type.append("third party")
+        job_response["data"]["job_details"]["employment_type"] = employment_type
         job_response["data"]["emp_type"] = job_response["data"]["job_details"]["employment_type"]
         
         return job_response["data"]

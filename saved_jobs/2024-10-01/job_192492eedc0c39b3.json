@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Largeton Inc",
+        "job_title": "ETL Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12 years",
+            "degree_required": "Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "5+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica",
+                "Data Engineering",
+                "SQL",
+                "Python",
+                "Snowflake"
+            ],
+            "primary": [
+                "AWS",
+                "CICD",
+                "Data Quality",
+                "Data Profiling",
+                "Agile Methodologies"
+            ],
+            "secondary": [
+                "Dataiku",
+                "Data Security",
+                "Auditing Processes",
+                "Software Engineering Best Practices",
+                "Mentoring"
+            ],
+            "all": [
+                "Informatica",
+                "Data Engineering",
+                "SQL",
+                "Python",
+                "Snowflake",
+                "AWS",
+                "CICD",
+                "Data Quality",
+                "Data Profiling",
+                "Agile Methodologies",
+                "Dataiku",
+                "Data Security",
+                "Auditing Processes",
+                "Software Engineering Best Practices",
+                "Mentoring"
+            ],
+            "with_experience": [
+                "Informatica (4+ years)",
+                "Data Engineering (7+ years)",
+                "Snowflake (5+ years)",
+                "AWS (4+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vikrant Kaushik",
+        "email": "vikrant.kaushik@largeton.us",
+        "jd": "From: Vikrant Kaushik, Largeton Inc vikrant.kaushik@largeton.us Reply to: vikrant.kaushik@largeton.us ETL Developer 5+ months contract USC/GC/EAD Location: Plano, TX JOB DESCRIPTION Position Qualifications: Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience 7 years of experience identifying technical solutions for complex business problems, identifying the benefits and risks of the solutions and providing recommendations 7 years of experience in Technology, Data Engineering field in architecting, developing end-to-end scalable data applications and data pipelines; work with product manager and scrum masters and lead the team in assisting the story creations and sprint deliverables 7 years of experience leading and developing automated Informatica data pipelines with at least 4 years Informatica cloud (IICS) and relevant knowledge in data profiling, data quality, catalog tools 7 years of experience working in enterprise data warehouse solutions and platforms, and working knowledge of different databases (e.g., RDBMS, Snowflake), S3 Datalake, CICD, Jenkins and AWS cloud technologies 5 years of experience designing, implementing automated data solutions using Snowflake lakehouse; building workflows, developing, and scheduling ETL processes using programming SQL or Python 5 years of experience mentoring another technologist 5 years of experience implementing data solutions by adopting, recommending and improving CICD, change management, data security, auditing processes 4 years of experience working with software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes and testing AWS or Informatica or Snowflake certification is preferred Experience with Dataiku is a plus. Thanks & Regards, Vikrant Kaushik Technical Recruiter Email is the best way to contact me. LARGETON INC | 13800 Coppermine Rd, Herndon, VA 20171",
+        "source": "Email",
+        "date_posted": "2024-10-01 11:49:02-05:00",
+        "unique_id": "192492eedc0c39b3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

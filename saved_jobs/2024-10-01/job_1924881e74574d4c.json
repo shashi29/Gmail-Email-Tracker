@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Avance services",
+        "job_title": "Senior Python Developer",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "experience_required": "5 to 10 Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Git",
+                "Microservice Architecture",
+                "Restful API",
+                "Kafka Messaging"
+            ],
+            "primary": [
+                "Mongo DB",
+                "CiCD pipelines"
+            ],
+            "secondary": [
+                "Oracle",
+                "Faust Streaming"
+            ],
+            "all": [
+                "Python",
+                "Git",
+                "Microservice Architecture",
+                "Restful API",
+                "Kafka Messaging",
+                "Mongo DB",
+                "CiCD pipelines",
+                "Oracle",
+                "Faust Streaming"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sameera",
+        "email": "sameera.s@avanceservices.com",
+        "jd": "Job Description\nSenior Python Developer\nLocation : Jersey City, NJ Dallas, TX- Onsite\nFTE\nJob Description\nSenior Python developer to work with existing team to build strategic and tactical deliverables for the Wholesale Lending Technology business\n5 to 10 Years of Experience in Python with Oops programming\nMust Have:\nUnderstanding on Git, Branching & Merging Strategies.\nUnderstanding of Microservice Architecture.\nExperience in Restful API's with Fast Api\nUnderstanding of Kafka Messaging\nBasic understanding of Mongo DB\nUnderstanding on CiCD pipelines from user's perspective.\nGood to Have:\nAdvanced knowledge of Mongo db or Oracle.\nUnderstanding/experience in Faust Streaming.",
+        "source": "Email",
+        "date_posted": "2024-10-01 09:34:19-05:00",
+        "unique_id": "1924881e74574d4c",
+        "emp_type": [
+            "full-time"
+        ],
+        "tag": "Python Dev"
+    }
+]

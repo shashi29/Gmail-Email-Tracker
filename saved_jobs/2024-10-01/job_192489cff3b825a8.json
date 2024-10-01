@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Origin To Future",
+        "job_title": ".NET Azure Developer (DevOps)",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "DevOps",
+                "Azure",
+                ".NET"
+            ],
+            "primary": [
+                "C#",
+                ".Net core",
+                "SQL",
+                "webAPI",
+                "AKS",
+                "Kubernetes",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Function App",
+                "ADO",
+                "APIs",
+                "API lifecycle",
+                "browser-based debugging"
+            ],
+            "all": [
+                "DevOps",
+                "Azure",
+                ".NET",
+                "C#",
+                ".Net core",
+                "SQL",
+                "webAPI",
+                "AKS",
+                "Kubernetes",
+                "CI/CD",
+                "Function App",
+                "ADO",
+                "APIs",
+                "API lifecycle",
+                "browser-based debugging"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Manish",
+        "email": "manish@o2finc.com",
+        "jd": "From: Manish, Origin To Future manish@o2finc.com Reply to: manish@o2finc.com .NET Azure Developer (DevOps)Seattle, WA (Remote)6 Months Primary skills: DevOps,Azure,.NET Skills:Candidate should have hands on experience of 10+ years in .Net application development using Azure services.Having 8+ years of web application development using C# , .Net core, SQL, webAPI.Should have strong experience in AKS, Kubernetes, Devops, CI/CDDesign and develop high quality application design and hands on experience using Function App, ADO, AKS.In-depth knowledge of C#Experience with APIs and API lifecycle.Experience with browser-based debuggingAZURE, .Net core, C#, SQL AKS, Kubernetes, Devops, CI/CD",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:01:50-05:00",
+        "unique_id": "192489cff3b825a8",
+        "emp_type": [
+            "contract"
+        ],
+        "tag": ".NET Dev"
+    }
+]

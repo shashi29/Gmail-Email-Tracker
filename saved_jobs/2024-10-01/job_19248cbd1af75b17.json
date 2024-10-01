@@ -1,0 +1,65 @@
+[
+    {
+        "company": "GAC Solutions",
+        "job_title": "Airflow-Snowflake Data Engineer",
+        "location": "Orlando, FL, USA",
+        "full_location": {
+            "city": "Orlando",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS data engineering",
+                "data pipeline solution design",
+                "Snowflake",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "AWS services (S3, Managed Airflow, Glue, Lambda, Redshift, IAM)",
+                "data warehousing concepts",
+                "data governance",
+                "data security",
+                "big data technologies (Hadoop, Spark, Kafka)"
+            ],
+            "secondary": [
+                "technical leadership",
+                "communication skills"
+            ],
+            "all": [
+                "AWS data engineering",
+                "data pipeline solution design",
+                "Snowflake",
+                "Python",
+                "SQL",
+                "AWS services (S3, Managed Airflow, Glue, Lambda, Redshift, IAM)",
+                "data warehousing concepts",
+                "data governance",
+                "data security",
+                "big data technologies (Hadoop, Spark, Kafka)",
+                "technical leadership",
+                "communication skills"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Kiran Nagani",
+        "email": "kiran@gacsol.com",
+        "jd": "Hello,Hope you are doing well, This is Kiran from \u201cGAC Solutions\u201d . I have an excellent job opportunity with one of our clients. Please find the job description below. Role: Airflow-Snowflake Data EngineerLocation: Orlando, FLDuration: 6+ months Job description: 12+ years overall IT experience.6+ years of experience in AWS data engineering and very strong in data pipeline solution design.Extensive experience with AWS services such as S3, Managed Airflow (MWAA), Glue, Lambda, Redshift and IAM.3+ years of proven experience with Snowflake, including database design, data loading, and query optimization.Strong proficiency in Python for data manipulation, ETL processes, and automation.Proficient in SQL and experience with data warehousing concepts.Knowledge of data governance and best practices in data security and privacy.Provide technical leadership and guidance to the data engineering team.Proven track record of designing and implementing data solutions at scale.Familiarity with big data technologies such as Hadoop, Spark, or Kafka.Strong communication skills, both written and verbal, with the ability to explain technical concepts.",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:04:24-05:00",
+        "unique_id": "19248cbd1af75b17",
+        "emp_type": [],
+        "tag": "AWS Data Engineer"
+    }
+]

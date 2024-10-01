@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Magic Force",
+        "job_title": "Data Architect",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure services",
+                "Databricks",
+                "Apache Spark",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "Data pipelines",
+                "Data warehousing",
+                "Big data processing",
+                "Data security",
+                "Data governance",
+                "Compliance measures",
+                "Kubernetes",
+                "Docker",
+                "CI/CD pipelines",
+                "Infrastructure as Code (IaC)"
+            ],
+            "secondary": [
+                "CloudFormation",
+                "Delta Lake",
+                "Advanced analytics solutions",
+                "Monitoring tools",
+                "Problem-solving skills"
+            ],
+            "all": [
+                "Azure services",
+                "Databricks",
+                "Apache Spark",
+                "Python",
+                "SQL",
+                "Data pipelines",
+                "Data warehousing",
+                "Big data processing",
+                "Data security",
+                "Data governance",
+                "Compliance measures",
+                "Kubernetes",
+                "Docker",
+                "CI/CD pipelines",
+                "Infrastructure as Code (IaC)",
+                "CloudFormation",
+                "Delta Lake",
+                "Advanced analytics solutions",
+                "Monitoring tools",
+                "Problem-solving skills"
+            ],
+            "with_experience": [
+                "Azure services",
+                "Databricks",
+                "Apache Spark"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arun",
+        "email": "arun@magicforce.us",
+        "jd": "Hi , Greetings from Magic Force\u2026!!! My name is Arun we have a job opportunity for you as a Data Architect one of our client based at Chicago, IL-Onsite. Pease find the Job description below, if you are available and interested, please send us your word copy of your resume with following detail to arun@magicforce.us. Job Title: Data Architect Location: Chicago, IL-Onsite Duration: 12+ Months. Start Date: ASAP. Job Responsibilities: Design and architect scalable, high-performance, and cost-effective cloud-based solutions using Azure services and Databricks. Develop comprehensive architecture blueprints that include data pipelines, data warehousing, and advanced analytics solutions. Architect and implement big data processing solutions using Databricks, leveraging Apache Spark for data transformation, ETL processes, and machine learning workflows. Design data pipelines that handle large-scale data ingestion, processing, and storage. Implement data security, data governance, and compliance measures within the Databricks environment using Unity Catalog. Work closely with Data engineers, DevOps teams, and other stakeholders to ensure seamless integration of solutions. Collaborate with project managers and business analysts to gather and interpret requirements, ensuring technical feasibility and alignment with business objectives. Analyze and optimize system performance, identifying bottlenecks and implementing solutions to enhance processing speed and efficiency. Implement monitoring tools and strategies to proactively manage the health and performance of the Azure and Databricks environments. Ensure that all solutions adhere to security best practices and compliance requirements, including data encryption, access control, and logging. Implement strategies to protect sensitive data and ensure compliance with relevant regulations, such as GDPR, HIPAA, etc. Deep understanding of Azure services, including but not limited to Azure Data Factory, Azure Storage, Azure SQL, Azure Functions, etc. Proficiency in Databricks, Apache Spark, and related big data technologies. Strong scripting skills in Python, SQL, and experience with Terraform or CloudFormation. Excellent problem-solving skills and the ability to work in a fast-paced environment. Experience with Kubernetes, Docker, and containerized applications. Familiarity with data lake architectures, Delta Lake, and advanced analytics solutions. Strong understanding of CI/CD pipelines, DevOps practices, and Infrastructure as Code (IaC). If you are interested in this position, kindly fill the details and revert back me ASAP. Requirement id / Title Full Name Work Authorization and validity Present location Contact Number E-mail Address Passport Number DOB LinkedIn ID Last 4 digits Of SSN Currently on the project (Yes / No) Availability to join the project Availability for onsite / remote Overall, USA IT experience Overall relevant IT experience Bill Rate Year of arrival in USA and the employer\u2019s name USA working experience mentioned in the resume is correct? Highest degree and passing year",
+        "source": "Email",
+        "date_posted": "2024-10-01 08:19:01-05:00",
+        "unique_id": "192483b727aa3b90",
+        "emp_type": [
+            "contract"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

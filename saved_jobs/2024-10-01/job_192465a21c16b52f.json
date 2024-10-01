@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "full-time"
+            ],
             "job_code": "135468",
             "experience_required": "10+ years",
             "degree_required": "Not specified",
@@ -20,14 +22,15 @@
         },
         "skills": {
             "core": [
-                "Project Management",
+                "Project Management"
+            ],
+            "primary": [
                 "IT Data Governance",
                 "Data Warehouse Implementation",
                 "Procurement",
                 "Vendor Management",
                 "Multi-projects Management"
             ],
-            "primary": [],
             "secondary": [],
             "all": [
                 "Project Management",
@@ -36,14 +39,6 @@
                 "Procurement",
                 "Vendor Management",
                 "Multi-projects Management"
-            ],
-            "with_experience": [
-                "Project Management (10+ years)",
-                "IT Data Governance (2 years)",
-                "Data Warehouse Implementation (2 years)",
-                "Procurement (1 year)",
-                "Vendor Management (1 year)",
-                "Multi-projects Management (1 year)"
             ]
         },
         "job_type": [
@@ -56,7 +51,9 @@
         "source": "Email",
         "date_posted": "2024-09-30 21:31:23-05:00",
         "unique_id": "192465a21c16b52f",
-        "emp_type": [],
+        "emp_type": [
+            "full-time"
+        ],
         "tag": "BA/Scrum Master/PM"
     }
 ]

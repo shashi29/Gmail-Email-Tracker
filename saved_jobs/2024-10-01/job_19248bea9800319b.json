@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Largeton INC",
+        "job_title": "SQL Server Administrator",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "long-term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server administration",
+                "SQL database monitoring",
+                "performance tuning",
+                "troubleshooting",
+                "backups and restores",
+                "High Availability (Always on)",
+                "installation and configuration of SQL 2014, 2016 and 2019",
+                "SSIS",
+                "SSRS",
+                "SQL tuning",
+                "data conversion",
+                "migration",
+                "supporting MS SQL databases in clustered environments",
+                "SQL transactional Replication"
+            ],
+            "primary": [
+                "Windows administration",
+                "PowerShell",
+                "Visual Studio (SQL Server Data Tools)",
+                "Spotlight",
+                "SQL 2016 Availability groups"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL Server administration",
+                "SQL database monitoring",
+                "performance tuning",
+                "troubleshooting",
+                "backups and restores",
+                "High Availability (Always on)",
+                "installation and configuration of SQL 2014, 2016 and 2019",
+                "SSIS",
+                "SSRS",
+                "SQL tuning",
+                "data conversion",
+                "migration",
+                "supporting MS SQL databases in clustered environments",
+                "SQL transactional Replication",
+                "Windows administration",
+                "PowerShell",
+                "Visual Studio (SQL Server Data Tools)",
+                "Spotlight",
+                "SQL 2016 Availability groups"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Gaurav Kumar",
+        "email": "gaurav.kumar@largeton.us",
+        "jd": "From: Gaurav Kumar, Largeton INC gaurav.kumar@largeton.us Reply to: gaurav.kumar@largeton.us Title: SQL Server Administrator\nDuration: long-term contract opportunity\nLocation: local candidate in the Raleigh NC area. USC/GC/EAD\nWork Arrangement: Hybrid\n\nNOTES FOR RECRUITERS:\nInterview Process: Webcam Interview Only\n\nRequired Skills:\n7 Years - Demonstrated experience working as a SQL Server administrator\n7 Years - Strong understanding of SQL database monitoring and performance tuning\n7 Years - Experience in troubleshooting and resolving database problems\n7 Years - Experience with Backups restores and High Availability (Always on)\n7 Years - Experience with Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise\n7 Years - Configuration of and work experience on SSIS and SSRS to create and deploys packages and Reports\n7 Years - SQL tuning, Data conversion / Migration, Supporting Enterprise Systems\n7 Years - Supporting MS SQL databases in Microsoft clustered environments\n7 Years - Experience in SQL transactional Replication\n\nDesired Skills:\nWindows administration, PowerShell, Visual Studio (SQL Server Data Tools) is a plus\nExperience in Spotlight is plus\nSQL 2016 Availability groups is a plus\n\nJob Description:\nOur client is seeking an experienced SQL Server Administrator to provide support for 300+ SQL databases across 3 Data Centers and 2 Cloud Providers. Due to the growth of SQL Server usage in ITD, NC DHHS is in need of a SQL Server Administrator to provide support for over 300+ SQL Databases across 3 Data Centers and 2 Cloud Providers. This role requires 7+ years' demonstrated experience working as a SQL Server administrator; Strong understanding of SQL database monitoring and performance tuning; Experience in troubleshooting and resolving database problems; Experience with following:\nBackups restores and High Availability (Always on),\nInstallation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise\nConfiguration of SSIS and SSRS,\nWork experience on SSIS and SSRS to create and deploys packages and Reports\nDatabase upgrade, Patching & Refresh\nSQL tuning, Data conversion / Migration, Supporting Enterprise Systems\nDatabase maintenance, Database backup and recovery\nSetup and constantly improve maintenance, operational and monitoring processes\nExport/Import Replication, maintaining back up jobs, Creating Linked Server Objects\nExperience in Database Mirroring, log shipping and DR procedures\nExperience in SQL transactional Replication\nSupporting MS SQL databases in Microsoft clustered environments\nSQL 2016 Availability groups is a plus\nExperience in Spotlight is plus\nWindows administration, PowerShell, Visual Studio (SQL Server Data Tools) is a plus",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:11:34-05:00",
+        "unique_id": "19248bea9800319b",
+        "emp_type": [
+            "contract"
+        ],
+        "tag": "DB Admin"
+    }
+]

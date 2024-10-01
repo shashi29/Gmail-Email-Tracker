@@ -1,0 +1,79 @@
+[
+    {
+        "company": "NAM",
+        "job_title": "Full Stack Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS"
+            ],
+            "primary": [
+                "Micro-service architecture",
+                "Containerized architecture",
+                "API Gateway",
+                "Angular 12+",
+                "RxJS",
+                "NgRx"
+            ],
+            "secondary": [
+                "Unit Testing",
+                "Integration Testing",
+                "TDD",
+                "JavaScript",
+                "NodeJS"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS",
+                "Micro-service architecture",
+                "Containerized architecture",
+                "API Gateway",
+                "Angular 12+",
+                "RxJS",
+                "NgRx",
+                "Unit Testing",
+                "Integration Testing",
+                "TDD",
+                "JavaScript",
+                "NodeJS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shilpa",
+        "email": "shilpa@nam-it.com",
+        "jd": "Hello, Position:1 Full Stack Java DeveloperLocation: NYC, NY (Hybrid - 3 days from office)Duration: Long Term Contract opportunityDomain Exp must: Asset Management exp (Financial Domain \u2013 No Banking)Asset Management Exp must: - Stocks/ Equities/ Derivative/ Equity/ FX/ Fixed Income/ Bonds/ Investment Job Description / Requirements\u2022 Strong experience in Java, Spring boot, Angular, NodeJS, etc.\u2022 Experience working as a full stack Developer\u2022 Experience in Java, Spring Boot, Junit version upgrade and refactoring \u2022 Strong understanding on micro-service based architecture \u2022 Good experience with containerized based architecture like Openshift \u2022 Good understanding on multi-layer architecture \u2022 API Gateway \u2022 Angular 12+ , Angular Material or equivalent, RxJS or equivalent, NgRx or any redux/flux style pattern Position: 2 Java Fullstack Developer with Strong in React JSLocation: Dallas , TXIn person interview Java Fullstack ExpUI Developer Strong knowledge in UI frameworks such as ReactJS. All UI Developers are expected to write their Unit Testing and Integration test cases. Good understanding of consuming REST APIs, Caching and State management. Development practices of TDD Knowledge of testing frameworks such as webdriver.io Very strong knowledge in JavaScript framework, knowledge in NodeJS / Java is a Plus RegardsShilpashilpaatnam-it.com",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:41:11-05:00",
+        "unique_id": "192492cbc44e7a72",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

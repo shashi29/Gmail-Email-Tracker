@@ -1,0 +1,82 @@
+[
+    {
+        "company": "North Carolina Department of Health & Human Services",
+        "job_title": "SQL Server Administrator",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "long-term contract opportunity",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server administration",
+                "SQL database monitoring",
+                "performance tuning",
+                "troubleshooting",
+                "Backups restores",
+                "High Availability (Always on)",
+                "Installation and configuration of SQL 2014, 2016 and 2019",
+                "Configuration of SSIS and SSRS"
+            ],
+            "primary": [
+                "SQL tuning",
+                "Data conversion / Migration",
+                "Supporting Enterprise Systems",
+                "Supporting MS SQL databases in Microsoft clustered environments",
+                "SQL transactional Replication"
+            ],
+            "secondary": [
+                "Windows administration",
+                "PowerShell",
+                "Visual Studio (SQL Server Data Tools)",
+                "Experience in Spotlight",
+                "SQL 2016 Availability groups"
+            ],
+            "all": [
+                "SQL Server administration",
+                "SQL database monitoring",
+                "performance tuning",
+                "troubleshooting",
+                "Backups restores",
+                "High Availability (Always on)",
+                "Installation and configuration of SQL 2014, 2016 and 2019",
+                "Configuration of SSIS and SSRS",
+                "SQL tuning",
+                "Data conversion / Migration",
+                "Supporting Enterprise Systems",
+                "Supporting MS SQL databases in Microsoft clustered environments",
+                "SQL transactional Replication",
+                "Windows administration",
+                "PowerShell",
+                "Visual Studio (SQL Server Data Tools)",
+                "Experience in Spotlight",
+                "SQL 2016 Availability groups"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Komal Gupta",
+        "email": "komal@largeton.us",
+        "jd": "Our client is seeking an experienced SQL Server Administrator to provide support for 300+ SQL databases across 3 Data Centers and 2 Cloud Providers. Due to the growth of SQL Server usage in ITD, NC DHHS is in need of a SQL Server Administrator to provide support for over 300+ SQL Databases across 3 Data Centers and 2 Cloud Providers. This role requires 7+ years' demonstrated experience working as a SQL Server administrator; Strong understanding of SQL database monitoring and performance tuning; Experience in troubleshooting and resolving database problems; Experience with following: Backups restores and High Availability (Always on), Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise Configuration of SSIS and SSRS, Work experience on SSIS and SSRS to create and deploys packages and Reports Database upgrade, Patching & Refresh SQL tuning, Data conversion / Migration, Supporting Enterprise Systems Database maintenance, Database backup and recovery Setup and constantly improve maintenance, operational and monitoring processes Export/Import Replication, maintaining back up jobs, Creating Linked Server Objects Experience in Database Mirroring, log shipping and DR procedures Experience in SQL transactional Replication Supporting MS SQL databases in Microsoft clustered environments SQL 2016 Availability groups is a plus Experience in Spotlight is plus Windows administration, PowerShell, Visual Studio (SQL Server Data Tools) is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-01 09:34:52-05:00",
+        "unique_id": "1924882421e3fc1d",
+        "emp_type": [
+            "contract"
+        ],
+        "tag": "DB Admin"
+    }
+]

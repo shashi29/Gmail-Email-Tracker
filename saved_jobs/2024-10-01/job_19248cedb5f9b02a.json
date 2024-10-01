@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Crea Services",
+        "job_title": "SQL Database Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Data Modeling",
+                "Strong SQL Development skills"
+            ],
+            "primary": [
+                "Cloud technologies (Quicksight, Redshift, S3, RDS, Kafka streaming, Glue, Lambda)"
+            ],
+            "secondary": [
+                "Reporting tools (PowerBI, Cognos, Tableau)"
+            ],
+            "all": [
+                "SQL",
+                "Data Modeling",
+                "Strong SQL Development skills",
+                "Cloud technologies (Quicksight, Redshift, S3, RDS, Kafka streaming, Glue, Lambda)",
+                "Reporting tools (PowerBI, Cognos, Tableau)"
+            ],
+            "with_experience": [
+                "SQL (Strong)",
+                "Data Modeling (Strong)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Gourav Graak",
+        "email": "ggraak@creaservices.net",
+        "jd": "From: Gourav, Crea Services ggraak@creaservices.net Reply to: ggraak@creaservices.net Hi Folks,Hope you are doing well.This is Gourav from Crea Services which is fastest growing staffing firm with valuable and trusted customers. We have one opportunity with one of our Direct Client, So please share your updated resume along with your availability to discuss on the same role.Role: SQL Database DeveloperLocation: NYC NY 3 Days Hybrid from Day 1 Try for Local CandidatesImportant Pointers: SQL, Data Modeling - Json, Qick Sight and Kafka Strong SQL Development skill \u2013 mustStrong data modelling skills \u2013 mustCloud technologies (Quicksight, Redshift, S3, RDS, Kafka streaming, Glue, Lambda)\u2013 nice to haveReporting tools (PowerBI, Cognos, Tableau) \u2013 nice to have Thanks & RegardsGourav GraakEmail: ggraak@creaservices.netCREA SERVICES",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:54:19-05:00",
+        "unique_id": "19248cedb5f9b02a",
+        "emp_type": [
+            "full-time"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]
