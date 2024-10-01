@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Intelligenz IT",
+        "job_title": "Devops - AWS Technical Lead",
+        "location": "Alameda CA, USA",
+        "full_location": {
+            "city": "Alameda",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "LONG TERM CONTRACT"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "LONG TERM CONTRACT",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS Services",
+                "Terraform",
+                "GitHub Actions",
+                "OpenSearch",
+                "AWS Shield Advanced",
+                "ECS",
+                "AWS EC2",
+                "AWS Control Tower",
+                "AWS Cognito",
+                "AWS SSM",
+                "AWS Secrets Manager",
+                "AWS AppFlow",
+                "AWS Trusted Advisor",
+                "Quicksight",
+                "Route53"
+            ],
+            "primary": [
+                "Advanced S3 usage",
+                "Lambda",
+                "ECR",
+                "SQS",
+                "SNS",
+                "Sagemaker",
+                "AWS Workspaces"
+            ],
+            "secondary": [
+                "TFSec",
+                "GitLeaks",
+                "Semgrep",
+                "Atlantis"
+            ],
+            "all": [
+                "AWS Services",
+                "Terraform",
+                "GitHub Actions",
+                "OpenSearch",
+                "AWS Shield Advanced",
+                "ECS",
+                "AWS EC2",
+                "AWS Control Tower",
+                "AWS Cognito",
+                "AWS SSM",
+                "AWS Secrets Manager",
+                "AWS AppFlow",
+                "AWS Trusted Advisor",
+                "Quicksight",
+                "Route53",
+                "Advanced S3 usage",
+                "Lambda",
+                "ECR",
+                "SQS",
+                "SNS",
+                "Sagemaker",
+                "AWS Workspaces",
+                "TFSec",
+                "GitLeaks",
+                "Semgrep",
+                "Atlantis"
+            ],
+            "with_experience": [
+                "Terraform",
+                "AWS Services",
+                "GitHub Actions"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mohit Jaiswal",
+        "email": "mohit.jaiswal@intelligenzit.com",
+        "jd": "Hi,I hope you and your family are doing well.I have a good position for you with my client. This point of time I don't know whether you are looking for a new job or not. But just thought if I can share the details and then confirm from you about your interest level for the opportunity. If you are interested and an available consultant, send me your most updated resumes in word format and contact details.Job Title: Devops - AWS Technical LeadLocation: Alameda CA (100% on-site from day 1)Duration: LONG TERM CONTRACTLOCAL TO CALIFORNIA (NON LOCAL PROFILE NOT ACCEPTED)START DATE ASAP..... Senior DevopsEngage with stakeholders to design cloud environments, Create Design documents, runbooks for new tools and services as applicable.Build designed cloud environments using Terraform, deploy designed environments to test and production, Monitor Deployment and update stake holders.Advanced level of terraform knowledge . Working with modules, use of terraform functions and a custom terraform backend. Knowledge of code quality tools such as TFSec, GitLeaks and Semgrep to identify hard coded keys in the code will be added advantageAdded advantage is use of Atlantis tool to deploy infrastructure through terraform pull requests.Work with Github Actions and OIDC to trigger terraform code to perform infra tasks such as - deploy applications, deploy S3 content,deploy applications, deploy S3 content.",
+        "emp_type": [
+            "LONG TERM CONTRACT"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:45:58-05:00",
+        "unique_id": "19243d43f099ee60",
+        "tag": "AWS Data Engineer"
+    }
+]

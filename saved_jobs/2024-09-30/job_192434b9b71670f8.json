@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Scalable",
+        "job_title": "Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "strong experience in Java/API development",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [],
+            "primary": [
+                "Java",
+                "NoSQL",
+                "Apache Kafka"
+            ],
+            "secondary": [
+                "CI/CD"
+            ],
+            "all": [
+                "Java",
+                "NoSQL",
+                "Apache Kafka",
+                "CI/CD",
+                "Java API Management & Microservices",
+                "Digital : NoSQL GraphDB"
+            ],
+            "with_experience": [
+                "Java",
+                "NoSQL",
+                "Apache Kafka"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Sunita Rani",
+        "email": "sunita.rani@scalable-systems.com",
+        "jd": "Java Developer with Kafka, NO SQL. Should have strong experience development experience on Java/API. Should have working experience on NoSQL DB, Apache Kafka, CI/CD. Should be able to come in person in Phoenix office from day one. Able to learn new technologies quickly, self-driven, proactive. Competencies: Java API Management & Microservices, Digital : NoSQL GraphDB.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 08:56:23-05:00",
+        "unique_id": "192434b9b71670f8",
+        "tag": "Java Dev"
+    }
+]

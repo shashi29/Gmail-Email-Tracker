@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Nitya software solutions Pvt ltd",
+        "job_title": "Web Architect",
+        "location": "Hercules area SFO (Bay Area), USA",
+        "full_location": {
+            "city": "Hercules",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "",
+            "visa_sponsorship": "H1B, GC, USC",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "GitHub Actions",
+                "Data Analysis",
+                "DevOps",
+                "Web Architecture",
+                "Database Management",
+                "NoSQL",
+                "RDBMS"
+            ],
+            "primary": [
+                "AWS Cloud Architect",
+                "Data Heavy Application"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "GitHub Actions",
+                "Data Analysis",
+                "DevOps",
+                "Web Architecture",
+                "Database Management",
+                "NoSQL",
+                "RDBMS"
+            ],
+            "with_experience": [
+                "AWS",
+                "GitHub Actions"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sanjay",
+        "email": "sanjay@nityainc.com",
+        "jd": "Role: 1. Web Architect (Healthcare Domain) Location -Hercules area SFO (Bay Area) - Hybrid Visa \u2013 H1B, GC, USC - DOB must below 1989 Looking for 12+ years of experience Strong AWS Cloud Architect, Data heavy application, GitHub Actions We need someone to define and develop a web architecture strategy/solution for a data analysis application. Create a scalable, high-performance web application that consumes and stores large amounts of data and serves large amounts of processed data. This is more of a DevOps/Architecture role that will focus on the performance, scalability, and security of the application in the AWS Cloud environment. Needs advanced working knowledge of GitHub Actions, AWS deployments and hosting, working with Active Directory, and database management (both NoSQL and RDBMS).",
+        "emp_type": [
+            "contract",
+            "full-time"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:21:38-05:00",
+        "unique_id": "192442a4023ae765",
+        "tag": "AWS Data Engineer"
+    }
+]

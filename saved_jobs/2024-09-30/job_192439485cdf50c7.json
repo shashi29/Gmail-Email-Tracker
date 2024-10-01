@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Han Staffing",
+        "job_title": "Azure Cloud Engineer",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "remote"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long Term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure Cognitive Services",
+                "Azure AI Studio",
+                "Azure ML Studio",
+                "Terraform",
+                "Cloud Architecture",
+                "Scripting"
+            ],
+            "primary": [
+                "Azure Expertise",
+                "Terraform Proficiency"
+            ],
+            "secondary": [
+                "Networking",
+                "Security"
+            ],
+            "all": [
+                "Azure Cognitive Services",
+                "Azure AI Studio",
+                "Azure ML Studio",
+                "Terraform",
+                "Cloud Architecture",
+                "Scripting",
+                "Problem-Solving",
+                "Collaboration",
+                "Communication",
+                "Azure certifications",
+                "Infrastructure as Code (IaC)",
+                "CI/CD pipelines",
+                "Docker",
+                "Kubernetes",
+                "Monitoring",
+                "Logging"
+            ],
+            "with_experience": [
+                "Azure Cognitive Services",
+                "Terraform",
+                "Azure AI Studio",
+                "Azure ML Studio"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Abhishek Kumar",
+        "email": "abhishekkumar@hanstaffing.com",
+        "jd": "Job: Azure Cloud Engineer with Terraform ExperienceLocation: RemoteDuration: Long TermJob Description: About the Role: We are seeking a highly skilled Azure Cloud Engineer with extensive experience in deploying and managing Azure Cognitive Services, including Speech Services, Text Translation, OpenAI, and Azure Search. Additionally, the ideal candidate will have hands-on experience with Azure AI Studio and Azure Machine Learning (ML) Studio. The successful candidate will be adept at creating and managing Terraform configurations to provision and manage Azure resources. This role requires a deep understanding of Azure infrastructure, the ability to prototype and proof-of-concept (POC) in enterprise environments, and a strong grasp of best practices in cloud architecture. Key Responsibilities: Design, deploy, and manage Azure Cognitive Services including Speech Services, Text Translation, OpenAI, and Azure Search. Utilize Azure AI Studio and Azure ML Studio to develop, train, and deploy machine learning models. Develop and maintain Terraform configurations to automate the provisioning and management of Azure resources. Collaborate with cross-functional teams to define and implement cloud solutions that meet business requirements. Perform POC and prototype solutions to demonstrate feasibility and value in enterprise environments. Monitor and optimize the performance, security, and cost of Azure services. Ensure compliance with industry standards and best practices for cloud security and governance. Troubleshoot and resolve issues related to Azure infrastructure and services. Document processes, configurations, and best practices. Required Skills and Qualifications: Azure Expertise: Strong experience with Azure Cognitive Services (Speech Services, Text Translation, OpenAI, Azure Search) and other Azure services. Azure AI and ML: Hands-on experience with Azure AI Studio and Azure ML Studio for developing and deploying machine learning models. Terraform Proficiency: Demonstrated experience in writing and managing Terraform configurations for Azure resource provisioning. Cloud Architecture: Solid understanding of cloud architecture principles, best practices, and design patterns. Scripting Proficiency: Proficiency in scripting languages such as PowerShell, Bash, or Python for automation and orchestration. Enterprise Experience: Proven ability to conduct POC and prototype solutions in large-scale enterprise environments. Networking and Security: Knowledge of Azure networking, security, and compliance best practices. Problem-Solving Skills: Strong analytical and troubleshooting skills to diagnose and resolve complex issues. Collaboration and Communication: Excellent communication skills and the ability to work effectively in a collaborative team environment. Certifications: Azure certifications (e.g., Azure Solutions Architect, Azure DevOps Engineer) are highly desirable. Preferred Skills: Experience with other Infrastructure as Code (IaC) tools like ARM templates or Ansible. Familiarity with CI/CD pipelines and tools such as Azure DevOps,, or GitHub Actions. Knowledge of containerization technologies like Docker and orchestration platforms like Kubernetes. Experience with monitoring and logging tools such as Azure Monitor, Log Analytics, or Splunk.",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:38:04-05:00",
+        "unique_id": "192439485cdf50c7",
+        "tag": "Azure Data Engineer"
+    }
+]

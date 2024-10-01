@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Spar information system",
+        "job_title": "Sr. Data Analyst",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "C2C"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": "$55/Hr"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "Power BI"
+            ],
+            "primary": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries"
+            ],
+            "secondary": [
+                "Power BI",
+                "BRD",
+                "Data Lineage"
+            ],
+            "all": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries",
+                "Power BI",
+                "BRD",
+                "Data Lineage"
+            ],
+            "with_experience": [
+                "data identification",
+                "querying",
+                "strong Data Profiling",
+                "SQL skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Felix Ahmed",
+        "email": "felix.a@sparinfosys.com",
+        "jd": "It's a backfill position -- Sr. Data Analyst -- Remote Sr. Data Analyst (5+ years) Location : Remote Max Pay rate: $55/Hr on C2C All INC Primary Skills : Azure, Snowflake, SQL Server (Stored Procs, SQL\u2019s, etc.), SQL Queries Secondary Skills : Power BI, BRD, Data Lineage Sr. Data Analysts having strong experience in data identification and querying with standard relational and non-relational systems, along with strong knowledge of Structured and Unstructured Data. Strong Data Profiling and SQL skills to analyze the source-target data identification and generate Source \u2013 Target Mapping Sheets (STTM). Working experience in big data environments on both on-prem and cloud, such as Azure and Snowflake and reporting tools like Power BI",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:21:13-05:00",
+        "unique_id": "192434e2a1fa35a5",
+        "tag": "Azure Data Engineer"
+    }
+]

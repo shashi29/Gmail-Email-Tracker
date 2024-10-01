@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Maintec Technologies",
+        "job_title": "ETL Tester",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "",
+            "visa_sponsorship": "USC, H1B",
+            "notice_period": "",
+            "duration": "",
+            "rate": "55"
+        },
+        "skills": {
+            "core": [
+                "ETL",
+                "Data testing",
+                "ORACLE database",
+                "ORACLE SQL",
+                "SQL scripting",
+                "Python scripting",
+                "Unix/Linux Commands",
+                "Data validation",
+                "Data comparison",
+                "ETL Processes"
+            ],
+            "primary": [
+                "ETL",
+                "Data testing",
+                "ORACLE SQL",
+                "SQL scripting"
+            ],
+            "secondary": [
+                "Python scripting",
+                "Unix/Linux Commands",
+                "Selenium"
+            ],
+            "all": [
+                "ETL",
+                "Data testing",
+                "ORACLE database",
+                "ORACLE SQL",
+                "SQL scripting",
+                "Python scripting",
+                "Unix/Linux Commands",
+                "Data validation",
+                "Data comparison",
+                "ETL Processes",
+                "Selenium"
+            ],
+            "with_experience": [
+                "ETL",
+                "Data testing",
+                "ORACLE SQL",
+                "SQL scripting",
+                "Python scripting",
+                "Unix/Linux Commands"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Devan",
+        "email": "devan@maintec.com",
+        "jd": "Role: ETL Tester Location: Remote (Canada or US) Job Requirement: * Over 5 to 6 years of ETL/Data testing experience. * Hands-on experience in ORACLE database technologies * Strong expertise in ORACLE SQL and SQL scripting * Experience in Python scripting * Relational database experience with expertise in writing complex SQL queries & joins to verify proper mapping of data elements and manipulating test data through SQL statements. * Good knowledge in Unix/Linux Commands. * Expertise in Data validation and Data comparison. * Experience in ETL Processes (Data Warehouse Testing) * Proficient enough to Analyze Source Systems, Staging area, Fact and Dimension tables in Target D/W Knowledge of Selenium will be plus.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:05:23-05:00",
+        "unique_id": "19243400818cc414",
+        "tag": "Python Dev"
+    }
+]

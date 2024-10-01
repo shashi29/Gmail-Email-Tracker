@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Infinity quest",
+        "job_title": "Sr.Data Engineer",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "4-6 Years Exp",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": "55 to 58/hr. - Tier 2, 53 to 55/hr. - Tier 3"
+        },
+        "skills": {
+            "core": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "CI/CD(Gitlab)"
+            ],
+            "primary": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "CI/CD(Gitlab)"
+            ],
+            "secondary": [
+                "Streaming (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "all": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "CI/CD(Gitlab)",
+                "Streaming (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "",
+        "email": "",
+        "jd": "Role : Sr.Data Engineer (4-6 Years Exp) Location : Remote Rate : 55 to 58/hr. - Tier 2 Rate : 53 to 55/hr. - Tier 3 Tier 2:Colorado,Connecticut,Delaware,Florida,Georgia,Idaho,Maine,Maryland,Michigan,Minnesota,Nevada,New Hampshire,North Carolina,Pennsylvania,Rhode Island,South Carolina,Texas,Virginia,Wisconsin,Wyoming Tier 3: US Tier - 3 Alabama,Arizona,Arkansas,Indiana,Iowa,Kansas,Kentucky,Louisiana,Mississippi,Missouri,Montana,Nebraska,New Mexico,North Dakota,Ohio,Oklahoma,South Dakota,Tennessee,Utah,Vermont,West Virginia Skill- Primary Skills Azure ADF, Databricks, Databricks Unity Catalogue, Spark SQL, Snowflake, SQL Server (Stored Procs, SQL\u2019s, etc.), CI/CD(Gitlab) Secondary Skills Streaming (Kafka), Python, Pyspark, Control-M JD Data Engineers who are experts in Azure and Snowflake with design and implementation in Azure and Snowflake. Within Azure, team heavily use ADF, Databricks, Streaming, Batch processing, Key Vault, and Blob Storage.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:14:27-05:00",
+        "unique_id": "1924423afcce030c",
+        "tag": "Azure Data Engineer"
+    }
+]

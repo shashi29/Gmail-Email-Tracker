@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Spar Info Sys",
+        "job_title": "Azure Data Engineer",
+        "location": "100 % Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "C2C",
+                "W2"
+            ],
+            "job_code": "",
+            "experience_required": "6 Years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6-12+ months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure ADF",
+                "Databricks",
+                "Snowflake",
+                "SQL Server",
+                "CI/CD"
+            ],
+            "primary": [
+                "Data Engineer",
+                "Azure",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Streaming (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "all": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "CI/CD",
+                "Streaming (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "with_experience": [
+                "Azure ADF",
+                "Databricks",
+                "Snowflake",
+                "SQL Server"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ben",
+        "email": "benclark@sparinfosys.com",
+        "jd": "Job Title: Azure Data Engineer\nDuration: 6-12+ months\nLocation: 100 % Remote\nOpen to C2C /W2\nSkill Set - Data Engineer\nAzure\nSnowflake\nSQL Server (Stored Procs, SQL\u2019s, etc.)\nETLAWS (Hadoop, Postgres SQL)\nStreaming Platforms (Kafka)\nCI/CD\nSr.Data Engineer (6 Yrs Exp)\nData Engineers who are experts in Azure and Snowflake with design and implementation in Azure and Snowflake . Within Azure, team heavily use ADF, Databricks, Streaming, Batch processing, Key Vault, and Blob Storage.\nMust to have: Azure ADF, Databricks, Databricks Unity Catalogue, Spark SQL, Snowflake, SQL Server (Stored Procs, SQL\u2019s, etc.), CI/CD(Gitlab)\nNice to Have: Streaming (Kafka), Python, Pyspark, Control-M",
+        "emp_type": [
+            "C2C",
+            "W2"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:30:18-05:00",
+        "unique_id": "19244322ea974c1f",
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "Windows 365 Architect",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "",
+            "visa_sponsorship": null,
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "VDI",
+                "Microsoft Azure Virtual Desktop",
+                "W365 Cloud PC",
+                "FSLogix",
+                "Azure",
+                "PowerShell",
+                "Python",
+                "Microsoft Intune",
+                "SCCM"
+            ],
+            "primary": [
+                "VDI experience",
+                "WVD/AVD",
+                "Azure AVD host pool management",
+                "image management"
+            ],
+            "secondary": [
+                "scripting skills",
+                "Azure certification",
+                "VDI certification"
+            ],
+            "all": [
+                "VDI",
+                "Microsoft Azure Virtual Desktop",
+                "W365 Cloud PC",
+                "FSLogix",
+                "Azure",
+                "PowerShell",
+                "Python",
+                "Microsoft Intune",
+                "SCCM",
+                "WVD",
+                "AVD",
+                "FlexApp",
+                "MSIX App attach",
+                "Azure Premium File Share",
+                "Azure NetApp files",
+                "Azure IaaS",
+                "Autoscale",
+                "Azure Monitor",
+                "Log Analytics",
+                "Diagnostics",
+                "Azure Vnet",
+                "NSG",
+                "firewall",
+                "ITIL Process",
+                "ServiceNow"
+            ],
+            "with_experience": [
+                "VDI experience",
+                "Microsoft Intune",
+                "SCCM"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sudharsan",
+        "email": "sudharsan.s@vysystems.com",
+        "jd": "The candidate should have 8-14 years of VDI experience in Consulting, Designing and implementation of a VDI solution. Having experience on WVD/AVD would be added advantage. Should have designed and deployed FSLogix solution. Should be aware of an App Layering solution like FlexApp, MSIX App attach etc. Should have good exposure and knowledge on Azure. Azure/AWS certification should be an advantage. VDI Certification would be an advantage. Some scripting skills in PowerShell or Python would be an added advantage. Should prepare technical documents and training materials. Experience with Microsoft Intune/SCCM would be an added advantage. Candidate will be responsible for endpoint modernization \u2013 designing, building, managing and migrating to W364 Cloud PC Azure Virtual Desktop (AVD) based on best practices. Responsible for the administration and management of virtual desktop infrastructures and environments with a focus on user experience and performance. Analyze and evaluate cloud resources and develop strategies for cost optimization, capacity and lifecycle management, and governance. Optimize, scale and monitor the virtual desktop infrastructures. Qualifications: \u2022 At least 12+ years of experience in the field of Microsoft Azure Virtual Desktop and W365 cloud PC \u2022 Experience in Deploying and Managing W365 Cloud PC Azure Virtual Desktops in the Microsoft Azure Production Environment \u2022 Experience in configuring and managing provisioning policies \u2022 Experience is configuring Azure Network connection for W365 cloud PC \u2022 Excellent knowledge of the AZURE AVD host pool & workspaces. \u2022 Experience in configuring and managing AVD session hosts in production. \u2022 Efficient image management and centralized control. \u2022 Security hardening of VDI infrastructure as per regulatory guidelines and industry best practices. \u2022 Experience in configuring Azure Premium File Share and Azure NetApp files. \u2022 Experience in FSLogix profile management for AVD hosts on Azure files and NetApp. \u2022 Experience on Azure IaaS. \u2022 Experience in configuring and managing Autoscale. \u2022 Experience in configuring and managing Azure Monitor, Log Analytics, and Diagnostics settings. \u2022 Good understanding of Azure Vnet, NSG, and firewall. \u2022 Troubleshoot virtual desktops, applications in a multi-cast domain environment. \u2022 Good Understanding of PowerShell, ARM Templates, Bicep, and other IaaC. \u2022 Collaborate with operational counterparts to support and provide client opportunities for improvement via automation, etc. \u2022 Knowledge of ITIL Process and Service now & other ticketing tools.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 12:25:20-05:00",
+        "unique_id": "19243f8bad22206e",
+        "tag": "Azure Data Engineer"
+    }
+]

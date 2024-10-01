@@ -1,0 +1,77 @@
+[
+    {
+        "company": "ERPMark",
+        "job_title": "AWS Data zone Architect",
+        "location": "Atlanta GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "long term"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years of experience",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long Term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS DataZone",
+                "AWS Cloud Services",
+                "Data Governance",
+                "Analytical Tools",
+                "Technical Skills",
+                "Communication & Leadership"
+            ],
+            "primary": [
+                "AWS DataZone",
+                "AWS services",
+                "Data Governance"
+            ],
+            "secondary": [
+                "Analytical Tools",
+                "Scripting and automation"
+            ],
+            "all": [
+                "AWS DataZone",
+                "AWS Glue",
+                "AWS Lake Formation",
+                "Amazon S3",
+                "Amazon Redshift",
+                "IAM",
+                "data governance",
+                "GDPR",
+                "CCPA",
+                "data analytics tools",
+                "AWS QuickSight",
+                "Sage Maker",
+                "Python",
+                "Terraform",
+                "AWS CLI",
+                "DataOps",
+                "DevOps"
+            ],
+            "with_experience": [
+                "AWS services"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sakthivel",
+        "email": "sakthivel@erpmark.com",
+        "jd": "Job Title: AWS Data zone Architect Location: Atlanta GA (Onsite) Duration : Long Term Key Requirements: Experience: 5+ years of experience in data management, data governance, or cloud architecture, with specific experience working with AWS services. Expertise in AWS DataZone: Deep understanding of AWS DataZone, including deployment, data cataloguing, access management, and integration with other AWS services. AWS Cloud Services: Proficiency with AWS services such as AWS Glue, AWS Lake Formation, Amazon S3, Amazon Redshift, IAM (Identity and Access Management), and others related to data management and analytics. Data Governance: Strong knowledge of data governance principles, including data access controls, compliance regulations (e.g., GDPR, CCPA), and security best practices. Analytical Tools: Experience with data analytics tools and platforms, such as AWS QuickSight, Sage Maker, or other BI/AI/ML platforms. Technical Skills: Strong skills in scripting and automation (Python, Terraform, AWS CLI) and experience in managing large datasets. Communication & Leadership: Ability to communicate technical solutions to both technical and non-technical stakeholders and provide leadership on data governance strategies. Preferred Qualifications: AWS Certifications (AWS Certified Solutions Architect, AWS Certified Big Data \u2013 Specialty, etc.) Experience with DataOps and DevOps methodologies.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 08:35:47-05:00",
+        "unique_id": "192432492b46d76c",
+        "tag": "AWS Data Engineer"
+    }
+]

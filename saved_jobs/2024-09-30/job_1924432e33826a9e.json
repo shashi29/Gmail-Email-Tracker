@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Nam IT",
+        "job_title": "Full Stack Java Developer",
+        "location": "NYC, NY, USA",
+        "full_location": {
+            "city": "NYC",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Major experience in Capital Market, Equities, Derivatives, Fixed Income",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long Term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS",
+                "Micro-service architecture",
+                "Containerized architecture",
+                "API Gateway"
+            ],
+            "primary": [
+                "Full Stack Development",
+                "Java",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx"
+            ],
+            "secondary": [
+                "Junit version upgrade",
+                "Refactoring",
+                "Multi-layer architecture"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS",
+                "Micro-service architecture",
+                "Containerized architecture",
+                "API Gateway",
+                "Full Stack Development",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx",
+                "Junit version upgrade",
+                "Refactoring",
+                "Multi-layer architecture"
+            ],
+            "with_experience": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "Containerized architecture"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shilpa",
+        "email": "shilpa@nam-it.com",
+        "jd": "Looking for Capital market, Equities, Derivatives, Fixed Income Exp majorly. Looking for local candidates only. Full Stack Java Developer. Location: NYC, NY (Hybrid - 3 days from office). Duration: Long Term Contract opportunity. No: of roles: 3 - Direct client: Domain Exp must: Asset Management exp (Financial Domain). Job Description / Requirements: Strong experience in Java, Spring boot, Angular, NodeJS, etc. Experience working as a full stack Developer. Experience in Java, Spring Boot, Junit version upgrade and refactoring. Strong understanding on micro-service based architecture. Good experience with containerized based architecture like OpenShift. Good understanding on multi-layer architecture. API Gateway. Angular 12+, Angular Material or equivalent, RxJS or equivalent, NgRx or any redux/flux style pattern. Asset Management Exp must: - Stocks/ Equities/ Equity/ Fixed Income/ Bonds/ Cash/ Investment.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:31:04-05:00",
+        "unique_id": "1924432e33826a9e",
+        "tag": "Java Dev"
+    }
+]

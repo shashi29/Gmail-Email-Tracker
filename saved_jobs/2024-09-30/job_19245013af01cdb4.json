@@ -1,0 +1,77 @@
+[
+    {
+        "company": "RBC",
+        "job_title": "AzureDevops Service Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "8-12 Years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure DevOps",
+                "CI/CD",
+                "Infrastructure as Code (IaC)",
+                "PowerShell Scripting",
+                "SQL Management",
+                "Kubernetes",
+                "Documentation"
+            ],
+            "primary": [
+                "Azure Cloud",
+                "Networking",
+                "Microsoft Technologies"
+            ],
+            "secondary": [
+                "Logic Apps",
+                "Live Site Monitoring",
+                "YAML pipelines",
+                "Automation"
+            ],
+            "all": [
+                "Azure DevOps",
+                "CI/CD",
+                "Infrastructure as Code (IaC)",
+                "PowerShell Scripting",
+                "SQL Management",
+                "Kubernetes",
+                "Documentation",
+                "Azure Cloud",
+                "Networking",
+                "Microsoft Technologies",
+                "Logic Apps",
+                "Live Site Monitoring",
+                "YAML pipelines",
+                "Automation",
+                "SLA Management",
+                "Ticketing tools",
+                "Power Automate",
+                "Power BI"
+            ],
+            "with_experience": [
+                "CI/CD",
+                "Build & Release Management",
+                "Azure & Azure Resources and Security"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "kaleem",
+        "email": "kaleem@rbctechsolutions.com",
+        "jd": "From: kaleem, RBC kaleem@rbctechsolutions.com Reply to: kaleem@rbctechsolutions.com DESIGNATIONAzureDevops Service EngineerROLE DESCRIPTION (minimum 5+ lines please)\u2022 Manage Azure cloud infrastructure and operations.\u2022 Design, implement, and maintain scalable and robust CI/CD pipelines using Azure DevOps.\u2022 Automate infrastructure provisioning and configuration using Infrastructure as Code (IaC) tools like ARM templates.\u2022 Manage Azure DevOps projects, repositories, build configurations, release pipelines, and deployment environments.\u2022 Monitor and optimize CI/CD pipelines for performance, reliability, and security.\u2022 Develop, maintain, and enhance the build and release process.\u2022 Diagnosing technical challenges by troubleshooting, analyzing logs, code, data, and supporting technical documentation.\u2022 Participate in SCRUM and retrospectives.\u2022 Create and maintain documentation related to the build process and infrastructure.\u2022 Ability to work independently and prioritize workload based on team objectives.\u2022 Excellent documentation and verbal communication skills. \u2022 Preferrable \u201cAZ -104 Azure Administrator\u201d certified.\u2022 Automate Tasks through PowerShell Scripting.\u2022 Experience in Live Site Monitoring, Logic Apps, KQL, Scoping services (Event Hub) and (YAML pipelines).\u2022 Migration of the Azure resources to secure PME Tenant\u2022 Coordinate and manage the Offshore teamwork\u2022 Participate and develop reports for the Weekly Status Reports, Monthly Status Reports and Quarterly Status reports\u2022 Ensure all the Azure resources are compliantSKILLS\u2022 8-12 Years of working experience as Azure Devops Engineer.\u2022 Knowledge of Azure infrastructure including networking and Microsoft technologies.\u2022 Strong experience on Azure Cloud # IaaS, PaaS, SaaS\u2022 Strong experience managing Azure resources especially, VM, VPN, Networking, Web Apps, APIM, Load balancing, Certificates, Managed Identity, Azure SQL, AAD\u2022 Strong experience of developing and maintaining CI/CD Pipelines, Kubernetes\u2022 Strong Knowledge in SQL management and Administration, SQL database backup and restoration\u2022 Strong knowledge of Azure DevOps concepts # CI/CD, Build, Release management & DevOps Security Principles\u2022 Knowledge of Infrastructure monitoring tools, Azure Monitoring for app services, database services, azure web jobs, Application insights\u2022 Understanding of HTTP error code\u2022 Good Analytical approach and documentation preparation\u2022 Experience in Automating Manual tasks.\u2022 Knowledge of SLA management, ticketing tools such as SNOW, ICM.\u2022 Knowledge of PowerShell scripting & C# will be additional advantage.\u2022 Nice to have \u2013 Power Automate, Power BIMandatory: Technical / Soft Skills Expertise Level (Expert / Good / Knowledge)CI/CD ExpertBuild & Release Management GoodContainerization GoodARM Templates and Power Shell GoodAzure & Azure Resources and Security( VPN, VM, APIM, Networking, Azure SQL, Key Vault, Managed Identity) GoodSLA Management GoodDesired Skills: Technical / Soft Skills Expertise Level (Expert / Good / Knowledge)Azure KnowledgeADO \u2013 Azure Devops Good/ Knowledge",
+        "source": "Email",
+        "date_posted": "2024-09-30 17:16:28-05:00",
+        "unique_id": "19245013af01cdb4",
+        "tag": "Azure Data Engineer"
+    }
+]

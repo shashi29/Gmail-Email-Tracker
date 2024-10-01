@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": "AWS Architect",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long Term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS services",
+                "Cloud architecture design",
+                "Security and compliance",
+                "Networking expertise",
+                "Automation and scripting",
+                "Monitoring and logging",
+                "Migration and hybrid cloud",
+                "Containerization and serverless",
+                "Problem-solving and troubleshooting",
+                "Continuous learning"
+            ],
+            "primary": [
+                "AWS services",
+                "Cloud architecture design",
+                "Security and compliance"
+            ],
+            "secondary": [
+                "Automation and scripting",
+                "Monitoring and logging",
+                "Migration and hybrid cloud",
+                "Containerization and serverless"
+            ],
+            "all": [
+                "AWS services",
+                "Cloud architecture design",
+                "Security and compliance",
+                "Networking expertise",
+                "Automation and scripting",
+                "Monitoring and logging",
+                "Migration and hybrid cloud",
+                "Containerization and serverless",
+                "Problem-solving and troubleshooting",
+                "Continuous learning"
+            ],
+            "with_experience": [
+                "AWS services",
+                "Cloud architecture design"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Jeorge",
+        "email": "jeorge.smith@dimiour.io",
+        "jd": "Hi, This is Jeorge from Dimiour. We have an excellent job opening for AWS Architect in Boston, MA. It is a long-term contract opportunity with our client. If you are interested, please share your updated resume with me immediately. Role: AWS Architect. Location: Boston, MA. Long Term Contract Job Description: Solid understanding of AWS services: You should have an in-depth knowledge of various AWS services such as EC2, VPC, IAM, and their use cases, configurations, and best practices. Cloud architecture design: You should be able to design highly available, fault-tolerant, and scalable cloud architectures that align with business requirements and follow AWS best practices. Security and compliance: Understanding AWS security services like IAM, VPC, Security Groups, and compliance requirements is essential. Networking expertise: Knowledge of networking concepts like VPCs, subnets, routing tables, gateways, cloudWAN is crucial for designing secure and efficient network architectures. Automation and scripting: Proficiency in using infrastructure as code tools like Terraform for automating infrastructure provisioning and management. Terraform enterprise and harness as nice to have. Monitoring and logging: Familiarity with AWS monitoring and logging services like CloudWatch, CloudTrail, and AWS Config for monitoring resources, analyzing logs, and maintaining compliance. Migration and hybrid cloud: Experience in migrating private cloud workloads to AWS and designing cloud architectures. Containerization and serverless: Knowledge of containerization technologies like Docker and AWS ECS/EKS, as well as serverless architectures using AWS Lambda and AWS Step Functions. Problem-solving and troubleshooting: Strong analytical and problem-solving skills to troubleshoot and resolve complex issues in a cloud environment. Continuous learning: Ability to stay updated with the latest AWS services, features, and best practices through continuous learning and professional development. Additionally, AWS certifications like AWS Certified Solutions Architect - Associate and AWS Certified Solutions Architect - Professional can validate your skills and knowledge in the AWS ecosystem.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:07:16-05:00",
+        "unique_id": "19243b25fcfbacfa",
+        "tag": "AWS Data Engineer"
+    }
+]

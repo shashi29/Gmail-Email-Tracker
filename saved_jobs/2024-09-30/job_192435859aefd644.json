@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Yochana IT Solutions",
+        "job_title": "Python Developer",
+        "location": "Plano TX and Chicago IL, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "",
+            "visa_sponsorship": "H1-B only",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "GitHub"
+            ],
+            "primary": [
+                "Python",
+                "AWS"
+            ],
+            "secondary": [
+                "Web Development",
+                "API development",
+                "RESTful services",
+                "Testing",
+                "Debugging"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "GitHub",
+                "Web Development",
+                "API development",
+                "RESTful services",
+                "Testing",
+                "Debugging"
+            ],
+            "with_experience": [
+                "Python",
+                "AWS",
+                "GitHub"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Martin Nallam",
+        "email": "martin@yochana.com",
+        "jd": "Job Description : Python Developer Location: Plano TX and Chicago IL (Day1 Onsite)Contract Primary Skills:Programming Languages:Proficiency in Python and AWSExperience with tool development and integration using these languagesGitHub Integration:Experience with integrating tools and applications with GitHubUnderstanding of GitHub APIs and workflowsSecondary Skills:Web Development:Familiarity with web frameworks and development practices in Python and AWSKnowledge of API development and RESTful servicesTesting and Debugging:Strong debugging and troubleshooting skillsExperience with unit testing and test automation Roles and Responsibilities:Develop and maintain tools and applications using Python and AWSIntegrate tools and applications with GitHub for seamless workflowsWrite clean, efficient, and maintainable codeDebug and troubleshoot issues in the developed applicationsCollaborate with cross-functional teams to deliver high-quality software",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:32:20-05:00",
+        "unique_id": "192435859aefd644",
+        "tag": "Python Dev"
+    }
+]

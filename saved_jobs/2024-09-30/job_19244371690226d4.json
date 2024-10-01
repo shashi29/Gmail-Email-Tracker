@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Smarttechlink",
+        "job_title": "Sr. Data Analyst",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "Strong experience in data identification and querying with standard relational and non-relational systems",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries"
+            ],
+            "primary": [
+                "Azure",
+                "Snowflake",
+                "SQL Server"
+            ],
+            "secondary": [
+                "Power BI",
+                "BRD",
+                "Data Lineage"
+            ],
+            "all": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries",
+                "Power BI",
+                "BRD",
+                "Data Lineage"
+            ],
+            "with_experience": [
+                "Data identification",
+                "Data profiling",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jon",
+        "email": "jon@smarttechlink.com",
+        "jd": "Hi,We do have a priority requirement with one of our clients. Kindly review and let me know if you have any questions.Sr. Data Analyst Location: Remote Primary Skills : Azure,Snowflake,SQL Server (Stored Procs, SQL\u2019s, etc.), SQL Queries Secondary Skills : Power BI, BRD, Data Lineage Sr. Data Analysts having strong experience in data identification and querying with standard relational and non-relational systems, along with strong knowledge of Structured and Unstructured Data. Strong Data Profiling and SQL skills to analyze the source-target data identification and generate Source \u2013 Target Mapping Sheets (STTM). Working experience in big data environments on both on-prem and cloud, such as Azure and Snowflake and reporting tools like Power BI",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:35:39-05:00",
+        "unique_id": "19244371690226d4",
+        "tag": "Azure Data Engineer"
+    }
+]

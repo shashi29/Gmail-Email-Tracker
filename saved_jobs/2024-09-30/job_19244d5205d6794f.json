@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "MLOPS Engineer",
+        "location": "New Brunswick, NJ, USA",
+        "full_location": {
+            "city": "New Brunswick",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Contract",
+                "C2C"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Kubernetes"
+            ],
+            "primary": [
+                "API Development",
+                "Micro Services Architecture"
+            ],
+            "secondary": [
+                "CICD",
+                "Platform Setup",
+                "Optimization"
+            ],
+            "all": [
+                "Python",
+                "Kubernetes",
+                "API Development",
+                "Micro Services Architecture",
+                "CICD",
+                "Platform Setup",
+                "Optimization",
+                "Communication",
+                "Customer Handling"
+            ],
+            "with_experience": [
+                "Python",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "Onsite"
+        ],
+        "contact_person": "Vinkal Dhaka",
+        "email": "vinkal.dhaka@siriinfo.com",
+        "jd": "From: Vinkal Dhaka, Siri Info vinkal.dhaka@siriinfo.com Reply to: vinkal.dhaka@siriinfo.com Title: MLOPS Engineer Location: New Brunswick, NJ (Day 1 Onsite) Contract/C2C JD # Skills : Python API Developer, Kubernetes Expert in Python API programming and orchestration using Kubernetes. As a Engineer resource will be able to work on a wide range of features in the Python Application development projects. Need to have idea on deployments, services, platform setup and optimization (multi-cluster or job queue mechanism). CICD exposure will be helpful. Preferring candidates with good communication and customer handling skills. Suppose to be writing, documenting and maintaining high quality code with Python, Kubernetes and Micro Services Architecture.",
+        "emp_type": [
+            "Contract",
+            "C2C"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 15:40:51-05:00",
+        "unique_id": "19244d5205d6794f",
+        "tag": "Python Dev"
+    }
+]

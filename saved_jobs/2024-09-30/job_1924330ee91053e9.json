@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Intellectt Inc",
+        "job_title": "SDET Engineer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "UI Testing",
+                "Selenium"
+            ],
+            "primary": [
+                "Java Coding",
+                "Rest API"
+            ],
+            "secondary": [
+                "Postman",
+                "Cucumber",
+                "playwright",
+                "typescript"
+            ],
+            "all": [
+                "UI Testing",
+                "Selenium",
+                "Java Coding",
+                "Rest API",
+                "Postman",
+                "Cucumber",
+                "playwright",
+                "typescript"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nirmala",
+        "email": "devi@intellectt.com",
+        "jd": "SDET Engineer\nAlpharetta, GA (Locals) IN-Person Interview Must have experience with below skills UI Testing Selenium Java Coding Rest API Postman Cucumber playwright typescript",
+        "emp_type": [
+            "full-time"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 08:30:45-05:00",
+        "unique_id": "1924330ee91053e9",
+        "tag": "Java Dev"
+    }
+]

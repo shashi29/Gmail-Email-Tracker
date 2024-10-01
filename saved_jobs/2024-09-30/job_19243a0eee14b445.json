@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Atlantis",
+        "job_title": "System Analyst",
+        "location": "Chicago, IL, Richardson, TX, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6 months",
+            "rate": "$60 on C2C"
+        },
+        "skills": {
+            "core": [
+                "Hive",
+                "SQL",
+                "Azure",
+                "Hadoop",
+                "Data Mapping",
+                "Data Bricks",
+                "Control M",
+                "Jira",
+                "Jenkins",
+                "GIT"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Hive",
+                "SQL",
+                "Azure",
+                "Hadoop",
+                "Data Mapping",
+                "Data Bricks",
+                "Control M",
+                "Jira",
+                "Jenkins",
+                "GIT"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ram",
+        "email": "ram.a@atlantisitgroup.com",
+        "jd": "This position is responsible supporting enhancements and new capabilities to an existing, critical based business application within BDS Finance applications space. As a systems analyst, it is required you bring strong experience of performing Systems Analysis for various projects and build a backlog of systems requirements that can be assigned to various developers. You are for also responsible for ensuring reviews of the requirements, designs, code and help plan SIT and UAT testing as well as releases. You will be working closely with the business team comprising of business analysts, business owners, QA team as well as IT team members like Applications Architects, Developers, product and project managers and other team members. Required Job Qualifications: Knowledge of code deployments and SIT / UAT across Test, Cycle and Production environments. Inter-testing with various applications. Exposure to integration with various applications. Requirements analysis, Systems Analysis and Developing Logical & Physical designs. Problem solving and analytical thinking. Strong oral/written communication skills Preferred Job Qualifications: Deep Application Development experience on mainframe side. Ability to execute projects against tight timeframe. Knowledge of Claims processing, Claims Applications and Components. Ability to work in fast paced environment with concurrent projects. Mentor and guide developers and ensure delivery with high quality for all the projects you are assigned to.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:04:52-05:00",
+        "unique_id": "19243a0eee14b445",
+        "tag": "BA/Scrum Master/PM"
+    }
+]

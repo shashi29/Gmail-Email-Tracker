@@ -1,0 +1,80 @@
+[
+    {
+        "company": "3ktechnologies",
+        "job_title": "AWS Solutions Architect",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "CONTRACT"
+            ],
+            "job_code": "",
+            "experience_required": "4.5-8 Years",
+            "degree_required": "B-Tech",
+            "visa_sponsorship": null,
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS services",
+                "Cloud architecture design",
+                "Security and compliance",
+                "Networking expertise",
+                "Automation and scripting",
+                "Monitoring and logging",
+                "Migration and hybrid cloud",
+                "Containerization and serverless",
+                "Problem-solving and troubleshooting",
+                "Continuous learning"
+            ],
+            "primary": [
+                "Modern Application Development",
+                "AWS",
+                "AWS Architecture"
+            ],
+            "secondary": [
+                "Terraform",
+                "Docker",
+                "AWS ECS/EKS",
+                "AWS Lambda",
+                "AWS Step Functions"
+            ],
+            "all": [
+                "AWS services",
+                "Cloud architecture design",
+                "Security and compliance",
+                "Networking expertise",
+                "Automation and scripting",
+                "Monitoring and logging",
+                "Migration and hybrid cloud",
+                "Containerization and serverless",
+                "Problem-solving and troubleshooting",
+                "Continuous learning",
+                "Modern Application Development",
+                "AWS",
+                "AWS Architecture",
+                "Terraform",
+                "Docker",
+                "AWS ECS/EKS",
+                "AWS Lambda",
+                "AWS Step Functions"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Naveen",
+        "email": "naveen.p@3ktechnologies.com",
+        "jd": "Role: AWS Solutions Architect Designation: CONSULTANT Location: Boston, MA 1st preference Experience: 4.5-8 Years Qualification: B-Tech Skill (Primary): Modern Application Development-AWS-AWS Architecture Job Description: As an AWS Solutions Architect, you need a diverse set of skills to design, implement, and maintain robust and scalable cloud solutions on the AWS platform. Here are some of the top skills required for an AWS Solutions Architect role: a. Solid understanding of AWS services: You should have an in-depth knowledge of various AWS services such as EC2, VPC, IAM, and their use cases, configurations, and best practices. b. Cloud architecture design: You should be able to design highly available, fault-tolerant, and scalable cloud architectures that align with business requirements and follow AWS best practices. c. Security and compliance: Understanding AWS security services like IAM, VPC, Security Groups, and compliance requirements is essential. d. Networking expertise: Knowledge of networking concepts like VPCs, subnets, routing tables, gateways, cloud WAN is crucial for designing secure and efficient network architectures. e. Automation and scripting: Proficiency in using infrastructure as code tools like Terraform for automating infrastructure provisioning and management. Terraform enterprise and harness as nice to have. f. Monitoring and logging: Familiarity with AWS monitoring and logging services like CloudWatch, CloudTrail, and AWS Config for monitoring resources, analyzing logs, and maintaining compliance. g. Migration and hybrid cloud: Experience in migrating private cloud workloads to AWS and designing cloud architectures h. Containerization and serverless: Knowledge of containerization technologies like Docker and AWS ECS/EKS, as well as serverless architectures using AWS Lambda and AWS Step Functions. i. Problem-solving and troubleshooting: Strong analytical and problem-solving skills to troubleshoot and resolve complex issues in a cloud environment. j. Continuous learning: Ability to stay updated with the latest AWS services, features, and best practices through continuous learning and professional development. Additionally, AWS certifications like AWS Certified Solutions Architect - Associate and AWS Certified Solutions Architect - Professional can validate your skills and knowledge in the AWS ecosystem. (1.) To adhere to quality standards, regulatory requirements and company policies (2.) To ensure positive customer experience and CSAT through First Call Resolution and minimum rejected resolutions or Reopen Cases (3.) To participate or contribute on EN business in creation of proposals to drive Service improvement plans. (4.) To independently resolve tickets and ensure that the agreed SLA of ticket volume and time are met for the team. (5.) To provide support for on call escalations or L3 level support and doing incident and problem management (6.) Work on value adding activities such Knowledge base update and management, Training freshers, coaching analysts and conducting interviews or participation in hiring drives.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 14:11:04-05:00",
+        "unique_id": "1924457834470364",
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company": "RBC",
+        "job_title": "Enterprise Architect (.Net)",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "12-15 years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "9+ Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "React.js",
+                "SQL Server",
+                "NoSQL databases",
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Azure",
+                "AWS",
+                "microservices architecture",
+                "DevOps practices",
+                "CI/CD pipelines"
+            ],
+            "primary": [
+                ".NET",
+                "React.js"
+            ],
+            "secondary": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "SQL Server",
+                "NoSQL databases",
+                "Azure",
+                "AWS",
+                "DevOps practices"
+            ],
+            "all": [
+                ".NET",
+                "React.js",
+                "SQL Server",
+                "NoSQL databases",
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Azure",
+                "AWS",
+                "microservices architecture",
+                "DevOps practices",
+                "CI/CD pipelines"
+            ],
+            "with_experience": [
+                ".NET",
+                "React.js"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "anilj",
+        "email": "anilj@rbctechsolutions.com",
+        "jd": "From: anilj, RBC anilj@rbctechsolutions.com Reply to: anilj@rbctechsolutions.com Title: Enterprise Architect (.Net)Location: St. Louis, MO / San Jose, CADuration: 9+ Month Job description:12-15 years of experience in software development and architecture.Proven experience in architecting and developing web applications using .NET and React.js frameworks.In-depth knowledge of .NET framework (ASP.NET, .NET Core).Strong proficiency in React.js and related libraries (Redux, React Router).Experience with front-end technologies (HTML5, CSS3, JavaScript).Proficiency in database design and management (SQL Server, NoSQL databases).Familiarity with cloud platforms (Azure, AWS) and microservices architecture.Experience with DevOps practices and CI/CD pipelines.Design and implement scalable, high-performance web applications using .NET and React.js.Develop and maintain architectural blueprints and technical documentation.Ensure the architectural integrity and consistency across projects.Provide technical guidance and mentorship to development teams.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 12:09:08-05:00",
+        "unique_id": "19243e961a28a1d1",
+        "tag": ".NET Dev"
+    }
+]

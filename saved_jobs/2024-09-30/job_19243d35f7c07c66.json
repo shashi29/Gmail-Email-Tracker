@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Resource Consultings Services Inc.",
+        "job_title": "Cloud Data Analyst",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "",
+            "visa_sponsorship": "No h1b",
+            "notice_period": "",
+            "duration": "6 months with a possible extension",
+            "rate": "$60/hr"
+        },
+        "skills": {
+            "core": [
+                "Cloud Data Analysis",
+                "SQL",
+                "SAS",
+                "Tableau",
+                "Snowflake",
+                "AWS"
+            ],
+            "primary": [
+                "AWS",
+                "Snowflake",
+                "SAS"
+            ],
+            "secondary": [
+                "Cognos",
+                "Tableau"
+            ],
+            "all": [
+                "Cloud Data Analysis",
+                "SQL",
+                "SAS",
+                "Tableau",
+                "Snowflake",
+                "AWS",
+                "Data warehousing",
+                "BI Reporting"
+            ],
+            "with_experience": [
+                "SQL",
+                "SAS",
+                "Cloud-based data solutions",
+                "Data pipelines",
+                "Data warehouse operations",
+                "Health care information",
+                "HIPAA compliance"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sajjad",
+        "email": "sajjad@rconsultinginc.com",
+        "jd": "Local Only from MA, NH or RI and must have recent client experience from these locations. In-Person Interview: Only Local. 10 Years Minimum CERTIFICATIONS: Amazon Web Services (AWS) Certification, Snowflake and/or SAS certification, Cognos and/or Tableau reporting experience. Experience with Federal Reporting for Medicaid is a plus. Minimum Requirements: Involve in Design and development of cloud-based data management systems. Understand and translate business requirements into user acceptable solutions. Generate data to meet specific business needs that require sourcing data from appropriate source systems. Document code and processes that can be used by all interested parties, including the business, Federal Reporting team, data warehouse team members and others as directed. Provide query writing support to other analysts and end users. Be able to understand and implement user requests technically and operationally. Be available to attend meetings and participate on calls with users and others as requested or directed. Participate in team meetings and technical reviews as requested. Communicate effectively with business, peers and management, so they are kept aware of requirements, project status, concerns, processing roadblocks. Ensure timely delivery of solutions meeting requirements and expectations. Expertise in basic MassHealth knowledge, practices and processes. Focused attention to detail in all assignments that fall under the purview of the EDME reporting team. Continually develop skills in SAS and/or SQL, Tableau and Snowflake. Support analytic and business requirements gathering efforts for ongoing reporting. Interact with business users and communicate business needs to the Federal Reporting and Data Warehouse development teams when necessary. The data analyst/developer is responsible for generating tables, files, reports and datasets upon request and as directed by team lead, senior staff or management. Deliver product to satisfy business request by required deadline. Generate code in SAS or in SQL to read data from the EHS Data Warehouse and output files in a format as requested by users or others.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:44:54-05:00",
+        "unique_id": "19243d35f7c07c66",
+        "tag": "AWS Data Engineer"
+    }
+]

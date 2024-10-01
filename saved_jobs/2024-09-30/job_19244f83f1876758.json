@@ -1,0 +1,71 @@
+[
+    {
+        "company": "AbsoluteIT",
+        "job_title": "ETL Developer",
+        "location": "Frisco, TX, USA",
+        "full_location": {
+            "city": "Frisco",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Contract"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Bachelor's Degree in Computer Science, Engineering or Technology related field, or equivalent experience",
+            "visa_sponsorship": "US Citizen/GC only",
+            "notice_period": "",
+            "duration": "6+ months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "ETL Development",
+                "Informatica PowerCenter",
+                "IICS",
+                "Data Lake",
+                "CI/CD Pipeline",
+                "AWS",
+                "Snowflake Lakehouse",
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "Informatica PowerCenter",
+                "AWS",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Dataiku"
+            ],
+            "all": [
+                "ETL Development",
+                "Informatica PowerCenter",
+                "IICS",
+                "Data Lake",
+                "CI/CD Pipeline",
+                "AWS",
+                "Snowflake Lakehouse",
+                "SQL",
+                "Python"
+            ],
+            "with_experience": [
+                "Informatica PowerCenter",
+                "AWS",
+                "Snowflake"
+            ]
+        },
+        "job_type": [
+            "Hybrid"
+        ],
+        "contact_person": "Joydeep Kumar",
+        "email": "joydeep+++@absoluting.com",
+        "jd": "Role: ETL Developer\nType: Contract\nLocation: 17 Cowboys Way, Frisco, TX 75034 (Hybrid Onsite)\nDuration: 6+ months\nVisa: US Citizen/GC only\nQualification Metrics/Additional Skills (Required Skills)\nETL Development\nInformatica PowerCenter, IICS, S3 Datalake, CI/CD Pipeline, AWS, Snowflake Lakehouse, SQL or Python\nPosition Qualifications:\nBachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience\n7 years of experience identifying technical solutions for complex business problems, identifying the benefits and risks of the solutions and providing recommendations\n7 years of experience in Technology, Data Engineering field in architecting, developing end-to-end scalable data applications and data pipelines; work with product manager and scrum masters and lead the team in assisting the story creations and sprint deliverables\n7 years of experience leading and developing automated Informatica data pipelines with at least 4 years Informatica cloud (IICS) and relevant knowledge in data profiling, data quality, catalog tools\n7 years of experience working in enterprise data warehouse solutions and platforms, and working knowledge of different databases (e.g., RDBMS, Snowflake), S3 Datalake, CI/CD, Jenkins and AWS cloud technologies\n5 years of experience designing, implementing automated data solutions using Snowflake lakehouse; building workflows, developing, and scheduling ETL processes using programming SQL or Python\n5 years of experience mentoring another technologist\n5 years of experience implementing data solutions by adopting, recommending and improving CI/CD, change management, data security, auditing processes\n4 years of experience working with software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes and testing\nAWS or Informatica or Snowflake certification is preferred.\nExperience with Dataiku is a plus.",
+        "source": "Email",
+        "date_posted": "2024-09-30 16:39:46-05:00",
+        "unique_id": "19244f83f1876758",
+        "tag": "AWS Data Engineer"
+    }
+]

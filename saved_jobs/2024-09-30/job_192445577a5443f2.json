@@ -1,0 +1,78 @@
+[
+    {
+        "company": "resourcehuntgroup.com",
+        "job_title": "Senior Quality Engineer (QE)",
+        "location": "Fort Mills, SC, San Diego, CA, USA",
+        "full_location": {
+            "city": "Fort Mills",
+            "state": "SC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Contract",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "data manipulation",
+                "AWS governance",
+                "API testing",
+                "test automation"
+            ],
+            "primary": [
+                "data manipulation",
+                "data masking",
+                "PII data handling"
+            ],
+            "secondary": [
+                "REST API testing",
+                "load testing",
+                "rollback testing"
+            ],
+            "all": [
+                "data manipulation",
+                "data masking",
+                "PII data handling",
+                "AWS governance",
+                "REST API testing",
+                "automation testing",
+                "cloud validation",
+                "load testing",
+                "rollback testing",
+                "AWS token authorization",
+                "parameterization",
+                "rule engine testing",
+                "SaaS applications",
+                "PyTest",
+                "JSON file handling",
+                "Parquet file handling"
+            ],
+            "with_experience": [
+                "test automation",
+                "reconciliation testing",
+                "log analysis"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Khursheed",
+        "email": "responseph@resourcehuntgroup.com",
+        "jd": "From: Khursheed, RHG responseph@resourcehuntgroup.com Reply to: responseph@resourcehuntgroup.com Hi All,Hope you are doing good.Job Title: Senior Quality Engineer (QE) Job Location Fort Mills, SC San Diego, CA Onsite Duration:- Contract Need Local to CA An SC Candidates Role Description: We are seeking a highly skilled Senior Quality Engineer (QE) with advanced expertise in data manipulation, AWS governance, API testing, and test automation. This role will focus on developing and executing comprehensive test plans, ensuring data integrity, and validating cloud-based applications. The ideal candidate will have experience with PII data handling, reconciliation processes, automation testing, and working with SaaS-based rule engines. This position also involves performing load and rollback testing to ensure system stability and performance. Key Responsibilities: \u2022 Data Manipulation & Masking: Handle and secure sensitive data (including PII) and ensure appropriate masking for front-end applications. \u2022 AWS Data Governance: Ensure AWS governance standards are met, including REST API testing and AWS configuration. \u2022 Reconciliation Processes: Conduct reconciliation testing, identifying issues and ensuring data accuracy after reconciliation. \u2022 Log Analysis & Data Leakage Detection: Utilize log search tools to detect potential data leakage, ensuring thorough scenario-based testing. \u2022 Test Design & Data Setup: Prepare detailed QA test designs and set up necessary data for comprehensive testing. \u2022 Test Execution Planning: Create and manage QA test execution plans to ensure thorough coverage of test scenarios. \u2022 Automation Testing: Develop and implement test automation strategies using tools like Selenium, QTest, and PyTest. Experience with Java for test data preparation is a plus \u2022 Cloud Validation: Support cloud validation processes, ensuring that the infrastructure operates as expected. \u2022 Performance Testing: Perform load testing for APIs, jobs, UI, and processes to ensure system scalability and performance. \u2022 Rollback Testing: Conduct rollback testing for APIs, jobs, UI, and processes to verify system stability after reversals. \u2022 AWS Token Authorization & Parameterization: Ensure AWS token authorization and test case parameterization for effective test execution. \u2022 Rule Engine Testing: Test rule engines in SaaS-based applications, ensuring proper configuration and integration. Experience with configurators in SaaS applications is preferred. \u2022 PyTest & Data File Handling: Use PyTest for testing and work with JSON and Parquet files for data processing and validation. \u2022 Data Pipeline Development Experience (Plus): Previous experience developing ETL/ELT data pipelines is an advantage, contributing to enhanced test automation and scripting capabilities. \u2022 Collaboration & Best Practices: Collaborate with developers, product teams, and QEs to ensure best practices are followed and high-quality deliverables are achieved. Regards,Khursheed",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 14:08:50-05:00",
+        "unique_id": "192445577a5443f2",
+        "tag": "AWS Data Engineer"
+    }
+]

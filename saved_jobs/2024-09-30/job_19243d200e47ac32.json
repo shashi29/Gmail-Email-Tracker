@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "Java AWS Developer",
+        "location": "NYC, NY, USA",
+        "full_location": {
+            "city": "NYC",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "8+ Years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [
+                "Java",
+                "AWS"
+            ],
+            "secondary": [
+                "Kafka",
+                "Cucumber Testing",
+                "DBMS",
+                "RDBMS",
+                "PostgreSQL",
+                "Aurora"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Spring Boot",
+                "Microservices",
+                "Kafka",
+                "Cucumber Testing",
+                "DBMS",
+                "RDBMS",
+                "PostgreSQL",
+                "Aurora"
+            ],
+            "with_experience": [
+                "Java",
+                "AWS",
+                "Microservices"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Santhosh",
+        "email": "santhosh.a@i-q.co",
+        "jd": "Role: Java AWS Developer\nDuration: Long term\nLocation: NYC, NY relocation is also fine\nMandatory Areas Java, AWS, Spring Boot, Microservices, PostgreSQL\nQualification: 8+ Years\u2019 experience in handling JAVA, AWS and Microservices. Working knowledge in Kafka and Cucumber Testing. Good to have DBMS and RDBMS experience with understanding of PostgreSQL and Aurora. Good to have Banking domain experience. Should have good communication and interpersonal skills. Should have good analytical thinking.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:41:26-05:00",
+        "unique_id": "19243d200e47ac32",
+        "tag": "Java Dev"
+    }
+]

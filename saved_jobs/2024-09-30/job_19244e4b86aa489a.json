@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": "Sr Python Developer/Engineer (AWS)",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field, or equivalent experience.",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "RESTful APIs",
+                "Automation",
+                "Cloud Security"
+            ],
+            "primary": [
+                "Python programming",
+                "AWS services",
+                "Infrastructure-as-code tools",
+                "CI/CD pipelines"
+            ],
+            "secondary": [
+                "Version control systems",
+                "Containerization",
+                "Database management"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "RESTful APIs",
+                "Automation",
+                "Cloud Security",
+                "Django",
+                "Flask",
+                "EC2",
+                "S3",
+                "Lambda",
+                "RDS",
+                "DynamoDB",
+                "AWS CloudFormation",
+                "Terraform",
+                "Git",
+                "Jenkins",
+                "GitLab CI",
+                "Docker",
+                "Kubernetes"
+            ],
+            "with_experience": [
+                "Python programming",
+                "AWS services",
+                "Infrastructure-as-code tools",
+                "CI/CD pipelines"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Prashanth",
+        "email": "prashanthn@brillius.com",
+        "jd": "Role - Sr Python Developer/Engineer (AWS) Location - Sunnyvale, CA Hybrid role Contract Key Responsibilities: AWS Development: Design, deploy, and manage cloud-based applications and services on AWS. Utilize AWS services such as EC2, S3, Lambda, RDS, DynamoDB, and others to build scalable and reliable solutions. Python Development: Develop and maintain Python applications, scripts, and tools. Ensure code is clean, maintainable, and follows best practices. API Integration: Create and manage RESTful APIs to enable seamless integration between different systems and services. Automation: Implement automation solutions to streamline development and deployment processes using AWS CloudFormation, Terraform, or similar tools. Monitoring & Optimization: Monitor application performance and optimize AWS resources to ensure high availability, scalability, and cost-effectiveness. Security: Implement security best practices in the design and deployment of AWS infrastructure and applications. Collaboration: Work closely with DevOps, QA, and other development teams to ensure smooth integration and delivery of solutions. Documentation: Maintain comprehensive documentation for code, processes, and architecture. Qualifications: Education: Bachelor\u2019s degree in Computer Science, Engineering, or a related field, or equivalent experience. Experience: Proven experience as a Python Developer with hands-on experience in AWS services and infrastructure. Skills: Proficiency in Python programming and related frameworks (e.g., Django, Flask). Strong experience with AWS services (e.g., EC2, S3, Lambda, RDS, DynamoDB). Experience with infrastructure-as-code tools (e.g., AWS CloudFormation, Terraform). Knowledge of RESTful API design and implementation. Familiarity with version control systems (e.g., Git). Strong understanding of cloud security best practices. Experience with CI/CD pipelines and related tools (e.g., Jenkins, GitLab CI). Soft Skills: Excellent problem-solving and analytical skills. Strong communication and collaboration abilities. Ability to work independently and manage multiple tasks effectively. Preferred Qualifications: AWS certifications (e.g., AWS Certified Solutions Architect, AWS Certified Developer). Experience with containerization and orchestration technologies (e.g., Docker, Kubernetes). Knowledge of data storage solutions and database management.",
+        "source": "Email",
+        "date_posted": "2024-09-30 16:45:20-05:00",
+        "unique_id": "19244e4b86aa489a",
+        "tag": "Python Dev"
+    }
+]

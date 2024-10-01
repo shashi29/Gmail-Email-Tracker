@@ -1,0 +1,97 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Technical Architect (Java & Node)",
+        "location": "Bellevue, WA, USA",
+        "full_location": {
+            "city": "Bellevue",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "remote"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years of experience in application development and architecture.",
+            "degree_required": "Bachelor\u2019s or Master\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Node.JS",
+                "Spring Boot",
+                "React",
+                "RESTful APIs",
+                "GraphQL",
+                "AWS",
+                "Azure",
+                "GCP",
+                "OAuth2",
+                "Kubernetes",
+                "DevOps",
+                "CI/CD"
+            ],
+            "primary": [
+                "Java",
+                "Node.JS",
+                "Spring Boot",
+                "RESTful APIs"
+            ],
+            "secondary": [
+                "React",
+                "GraphQL",
+                "AWS",
+                "Azure",
+                "GCP",
+                "OAuth2",
+                "Kubernetes"
+            ],
+            "all": [
+                "Java",
+                "Node.JS",
+                "Spring Boot",
+                "React",
+                "RESTful APIs",
+                "GraphQL",
+                "AWS",
+                "Azure",
+                "GCP",
+                "OAuth2",
+                "Kubernetes",
+                "DevOps",
+                "CI/CD"
+            ],
+            "with_experience": [
+                "Java",
+                "Node.JS",
+                "Spring Boot",
+                "React",
+                "RESTful APIs",
+                "GraphQL",
+                "AWS",
+                "Azure",
+                "GCP",
+                "OAuth2",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "saravanaraj",
+        "email": "saravanaraj@smartitframe.com",
+        "jd": "Role: Technical Architect (Java & Node)Location: Bellevue, WA (Remote)Duration: Long term JD:Key Responsibilities:Develop and maintain robust application architectures, ensuring scalability, performance, and security.Lead and mentor development teams in the design, development, and deployment of high-quality applications.Design and implement RESTful APIs, ensuring seamless integration with various services and applications.Architect and develop web applications using Spring Boot, Node.JS, and React frameworks.Establish and enforce coding standards and best practices to maintain high code quality.Work closely with product managers, designers, and other stakeholders to translate business requirements into technical solutions.Identify and address performance bottlenecks and optimize applications for speed and efficiency.Create and maintain technical documentation, including architectural diagrams, design specifications, and operational procedures.Leverage knowledge of GraphQL to enhance API capabilities and improve client-server interactions.Utilize AWS/Azure/GCP services, with a strong focus on IAM, to ensure secure and efficient cloud-based solutions.Apply Hyperscaler Frameworks for scalable and resilient cloud architecture.Implement OAuth2 authentication and authorization concepts to secure applications and manage user access.Interact with Kubernetes APIs to facilitate deployment, scaling, and management of containerized applications.Research emerging technologies and trends to build Proofs of Concept (POCs) that demonstrate the viability and benefits of new approaches.",
+        "emp_type": [
+            "remote"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:47:00-05:00",
+        "unique_id": "192439fa750ef27b",
+        "tag": "Java Dev"
+    }
+]

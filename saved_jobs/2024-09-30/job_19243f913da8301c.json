@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "PL SQL Developer",
+        "location": "Cleveland, OH, USA",
+        "full_location": {
+            "city": "Cleveland",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "3-4 years",
+            "degree_required": "",
+            "visa_sponsorship": "USC/GC only",
+            "notice_period": "",
+            "duration": "C2H",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "Oracle 11g",
+                "UNIX",
+                "LINUX",
+                "Solaris",
+                "SQL",
+                "Oracle Exadata",
+                "Performance Tuning",
+                "JIRA",
+                "GitHub",
+                "ControlM",
+                "Micro Services",
+                "Bhoomi Services"
+            ],
+            "primary": [
+                "PL/SQL",
+                "Oracle 11g",
+                "Performance Tuning"
+            ],
+            "secondary": [
+                "JIRA",
+                "GitHub"
+            ],
+            "all": [
+                "PL/SQL",
+                "Oracle 11g",
+                "UNIX",
+                "LINUX",
+                "Solaris",
+                "SQL",
+                "Oracle Exadata",
+                "Performance Tuning",
+                "JIRA",
+                "GitHub",
+                "ControlM",
+                "Micro Services",
+                "Bhoomi Services",
+                "Performance Tuning Techniques",
+                "Unit Testing Methods",
+                "UNIX scripts",
+                "Oracle RAC"
+            ],
+            "with_experience": [
+                "Oracle Exadata",
+                "Performance Tuning"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ravina",
+        "email": "ravina@vyzeinc.com",
+        "jd": "Need locals PL/sql developer Hybrid- Cleveland, OH USC/GC only due to C2H Skype + F2F JD Must have a history of working in OH\u2022 3-4 yrs experience developing OLTP database applications in Oracle 11g and UNIX/LINUX/Solaris environment within a multi-tier environment; building and formulating business requirements.\u2022 3-4 yrs Hands of experience in JIRA, GitHub, ControlM, Micro Services / Bhoomi Services\u2022 3+ years of experience in development and performance tuning using Oracle Exadata.\u2022 Work with PL/SQL Types, PL/SQL Collections, SQL Loader, PL/SQL Functions and Procedures, XML, Packages, and Materialized view, Triggers, Complex SQL's and SQL Reports;\u2022 Work with PL/SQL techniques in LOBs, Multilingual character conversion; Optimize the applications using Exadata Oracle Performance Tuning Techniques; develop Unit Testing Methods for PL/SQL; develop UNIX scripts for batch processing and work with Oracle RAC clusters and Exadata systems; and Knowledge of Account Receivable system\u2022 Strong experience in handling large volume data movement and maintenance.",
+        "emp_type": [
+            "contract",
+            "full-time"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 12:25:43-05:00",
+        "unique_id": "19243f913da8301c",
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Tanisha Systems Inc.",
+        "job_title": "Application Developer \u2013 RDBMS",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long Term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Data Analysis",
+                "ETL",
+                "API",
+                "OLAP"
+            ],
+            "primary": [
+                "SQL",
+                "Data Movement",
+                "Data Processing"
+            ],
+            "secondary": [
+                "Denodo",
+                "Big Data",
+                "Hadoop",
+                "MongoDB",
+                "Exadata"
+            ],
+            "all": [
+                "SQL",
+                "Data Analysis",
+                "ETL",
+                "API",
+                "OLAP",
+                "Denodo",
+                "Big Data",
+                "Hadoop",
+                "MongoDB",
+                "Exadata"
+            ],
+            "with_experience": [
+                "SQL",
+                "stored procedures",
+                "Data Analysis"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pankaj Kumar",
+        "email": "pankaj@tanishasystems.com",
+        "jd": "Hi, Hope you are doing well. My name is Pankaj Kumar and I work for Tanisha Systems Inc. Tanisha Systems Inc. is a leading provider of Custom Application Development and end-to-end IT Services to our clients globally. Our clients include IBM, Cap Gemini, ATOS, HCL, Cognizant, etc., to name a few. Position: Application Developer \u2013 RDBMS Location: Dallas, TX Long Term Contract Required Skills and Responsibilities: 4+ years of SQL experience working in OLTP, Data Warehouse, and Big Data databases 4+ years in a Data Analyst role. Strong attention to Detail. 2+ years writing medium to complex stored procedures a plus. Ability to collaborate effectively and work as part of a team. Extensive background in writing complex queries. Extensive working knowledge of all aspects of Data Movement and Processing, including ETL, API, OLAP, and best practices for data tracking. Good Communication skills. Self-Motivated. Works well in a team environment. Denodo Experience is a plus. Big Data Experience a plus (Hadoop, MongoDB, Exadata). Responsibilities Investigate and Analyze data anomalies and data issues reported by Business Work with ETL, Replication, and DBA teams to determine data transformations, data movement, and derivations and document accordingly. Work with support teams to ensure consistent and proactive support methodologies are adhered to for all aspects of data movements and data transformations. Assist in break fix and production validation as it relates to data derivations, replication, and structures. Assist in the configuration and ongoing setup of the Data Virtualization tool. Assist in keeping documentation up to date as it relates to Data Standardization definitions, Data Dictionary, and Data Lineage. Gather information from various sources and interpret Patterns and Trends. Ability to work in a team-oriented, fast-paced agile environment managing multiple.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 17:40:59-05:00",
+        "unique_id": "1924517aa39b7b30",
+        "tag": "DB Admin"
+    }
+]

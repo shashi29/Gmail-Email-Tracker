@@ -1,0 +1,70 @@
+[
+    {
+        "company": "DMS Visions Inc",
+        "job_title": "Java Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "5-6 years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6+ months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Java applications design and development",
+                "API Development",
+                "Microservices"
+            ],
+            "primary": [
+                "Java CMS Experience",
+                "Azure containers",
+                "Azure functions",
+                "Azure APIM",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Retail experience"
+            ],
+            "all": [
+                "Java",
+                "Java applications design and development",
+                "API Development",
+                "Microservices",
+                "Java CMS Experience",
+                "Azure containers",
+                "Azure functions",
+                "Azure APIM",
+                "Kubernetes",
+                "Retail experience"
+            ],
+            "with_experience": [
+                "Java CMS Experience"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Yashwant Singh",
+        "email": "yashwant@dmsvisions.com",
+        "jd": "We are looking for Java developer with 5-6 years of experience in Java applications design and development. Retail experience is highly preferred.\nWhat\u2019s the Job?\nDesign and develop Java Applications.\nJava CMS Experience (ContentStack or similar) is a must.\nAzure containers and Azure functions.\nAzure APIM.\nAPI Development.\nKubernetes in cloud.\nScaling services in cloud.\nDeveloping and deploying microservices in cloud.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 16:51:56-05:00",
+        "unique_id": "19245197c38f943a",
+        "tag": "Java Dev"
+    }
+]

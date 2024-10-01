@@ -1,0 +1,63 @@
+[
+    {
+        "company": "NorthITe",
+        "job_title": ".net Developer",
+        "location": "Dania Pointe, Florida, USA",
+        "full_location": {
+            "city": "Dania Pointe",
+            "state": "Florida",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Hybrid"
+            ],
+            "job_code": "",
+            "experience_required": "7/8 years",
+            "degree_required": "",
+            "visa_sponsorship": "H4EAD, USC",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".net",
+                ".net core",
+                "web api"
+            ],
+            "primary": [
+                ".net",
+                ".net core"
+            ],
+            "secondary": [
+                "C#",
+                "web api"
+            ],
+            "all": [
+                "C#",
+                ".net",
+                ".net core",
+                "web api"
+            ],
+            "with_experience": [
+                ".net",
+                ".net core"
+            ]
+        },
+        "job_type": [
+            "Hybrid"
+        ],
+        "contact_person": "Chandra Kanth M K",
+        "email": "chandra@northite.com",
+        "jd": "Need .net Candidate with C#/.net core/ web api Experience: 7/8 years Hybrid - 3 days onsite Only H4EAD, USC Location - Dania Pointe, Florida",
+        "emp_type": [
+            "Hybrid"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 08:56:47-05:00",
+        "unique_id": "192434b37f1c731f",
+        "tag": "NET Dev"
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "company": "Gtech LLC",
+        "job_title": "Python Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "",
+            "visa_sponsorship": "Only USc Gc gcead h4ead",
+            "notice_period": "",
+            "duration": "12+ months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "CI/CD tools"
+            ],
+            "primary": [
+                "NumPy",
+                "Pandas",
+                "scikit-learn",
+                "Dash",
+                "Dask",
+                "Flask",
+                "Boto3"
+            ],
+            "secondary": [
+                "EC2",
+                "CloudWatch",
+                "ECS",
+                "Sage Maker",
+                "Steps Functions",
+                "Lambda",
+                "Postgres",
+                "Aurora"
+            ],
+            "all": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "scikit-learn",
+                "Dash",
+                "Dask",
+                "Flask",
+                "Boto3",
+                "AWS",
+                "EC2",
+                "CloudWatch",
+                "ECS",
+                "Sage Maker",
+                "Steps Functions",
+                "Lambda",
+                "Postgres",
+                "Aurora",
+                "Bamboo",
+                "Bitbucket",
+                "Artifactory",
+                "Ansible",
+                "Agile",
+                "object-oriented design",
+                "data structures",
+                "dependency injection",
+                "testable code",
+                "algorithms",
+                "PyCharm",
+                "VS Code",
+                "Git"
+            ],
+            "with_experience": [
+                "Python",
+                "AWS",
+                "CI/CD tools"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Riya Kori",
+        "email": "rkori@greattechglobal.com",
+        "jd": "Hi, Currently, I am recruiting candidates for one of my requirement as mentioned below. If you have a matching profile, please send me the updated resume along with contact details at the earliest. Job Python Developer Project Location Hybrid in Charlotte, NC Duration 12+ months Job Summary: Responsibilities We are looking for a developer, passionate about technology and adopting modern software engineering practices to join us in building next generation quantitative research platforms in the cloud. In this role, you will work within a full stack team alongside our Business Partners and Product Owners and an extremely motivated team of developers committed to working in an Agile environment. You will help us in doing POCs to validate patterns proposed by our architecture and platform teams and help deploy AWS applications to production. You will also help upskill the department towards adopting cloud technologies by facilitating and participating in tech talks. Ideal candidate will have a strong focus on delivering code that is observable, resilient, and secure ability to write clean, maintainable code, and read code created by others. Highly collaborative, fast learner, willing to jump in and help wherever needed. Enthusiasm for learning and experimenting with new technologies, tools, and processes. Qualifications Skilled in Python (NumPy, Pandas, scikit-learn, Dash, Dask, Flask, Boto3, etc.) Python Software development experience Experience building & supporting AWS architecture and using AWS services like EC2, CloudWatch, ECS, Sage Maker, ECS, Steps Functions, Lambda, Postgres, Aurora Experience with CI/CD pipeline tools like Bamboo, Bitbucket, Artifactory, Ansible At least 4 years of experience with the above skillsets. Experience working in an Agile Development environment. Experience with software engineering fundamentals including object-oriented design, data structures, dependency injection, testable code, and algorithms. Experience with software engineering tools, such as PyCharm, VS Code, Git, and others.",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:46:32-05:00",
+        "unique_id": "192439f2bacc79df",
+        "tag": "Python Dev"
+    }
+]

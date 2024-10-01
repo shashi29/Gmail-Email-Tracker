@@ -1,0 +1,122 @@
+[
+    {
+        "company": "Prospect Infosystem",
+        "job_title": "SQL Server Administrator",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "hybrid"
+            ],
+            "job_code": "748082",
+            "experience_required": "8+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "SQL Server administration",
+                "SQL database monitoring",
+                "performance tuning",
+                "troubleshooting",
+                "database problems resolution"
+            ],
+            "primary": [
+                "Backups restores",
+                "High Availability (Always on)",
+                "Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise",
+                "SSIS",
+                "SSRS",
+                "Database upgrade",
+                "Patching",
+                "Database maintenance",
+                "Database backup and recovery",
+                "Export/Import Replication",
+                "Linked Server Object",
+                "Database Mirroring",
+                "Log shipping",
+                "DR procedures",
+                "SQL transactional Replication",
+                "Supporting MS SQL databases in Microsoft clustered environments"
+            ],
+            "secondary": [
+                "Windows administration",
+                "PowerShell",
+                "Visual Studio (SQL Server Data Tools)",
+                "Spotlight",
+                "SQL 2016 Availability groups"
+            ],
+            "all": [
+                "SQL Server administration",
+                "SQL database monitoring",
+                "performance tuning",
+                "troubleshooting",
+                "database problems resolution",
+                "Backups restores",
+                "High Availability (Always on)",
+                "Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise",
+                "SSIS",
+                "SSRS",
+                "Database upgrade",
+                "Patching",
+                "Database maintenance",
+                "Database backup and recovery",
+                "Export/Import Replication",
+                "Linked Server Object",
+                "Database Mirroring",
+                "Log shipping",
+                "DR procedures",
+                "SQL transactional Replication",
+                "Supporting MS SQL databases in Microsoft clustered environments",
+                "Windows administration",
+                "PowerShell",
+                "Visual Studio (SQL Server Data Tools)",
+                "Spotlight",
+                "SQL 2016 Availability groups"
+            ],
+            "with_experience": [
+                "SQL Server administration",
+                "SQL database monitoring",
+                "performance tuning",
+                "troubleshooting",
+                "database problems resolution",
+                "Backups restores",
+                "High Availability (Always on)",
+                "Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise",
+                "SSIS",
+                "SSRS",
+                "Database upgrade",
+                "Patching",
+                "Database maintenance",
+                "Database backup and recovery",
+                "Export/Import Replication",
+                "Linked Server Object",
+                "Database Mirroring",
+                "Log shipping",
+                "DR procedures",
+                "SQL transactional Replication",
+                "Supporting MS SQL databases in Microsoft clustered environments"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek",
+        "email": "abhishek@prospectinfosystem.com",
+        "jd": "SQL Server Administrator (748082) Raleigh, NC (Hybrid) This role requires 8+ years' demonstrated experience working as a SQL Server administrator; Strong understanding of SQL database monitoring and performance tuning; Experience in troubleshooting and resolving database problems; Experience with following: Backups restores and High Availability (Always on), Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise, Configuration of SSIS and SSRS, Work experience on SSIS and SSRS to create and deploys packages and Reports, Database upgrade, Patching & Refresh, SQL tuning, Data conversion / Migration, Supporting Enterprise Systems, Database maintenance, Database backup and recovery, Setup and constantly improve maintenance, operational and monitoring processes, Export/Import Replication, maintaining back up jobs, Creating Linked Server Objects, Experience in Database Mirroring, log shipping and DR procedures, Experience in SQL transactional Replication, Supporting MS SQL databases in Microsoft clustered environments, SQL 2016 Availability groups is a plus, Experience in Spotlight is plus. Job duties: SQL Server performance analysis, tuning, capacity planning/forecast, security, and design, Collaborate with DBAs and Developers in troubleshooting database and application errors, Actively monitor the database environment to ensure optimal performance and to prevent production issues, Open and follow-up on Service Request tickets to quickly resolve problems, Perform Production On-Call Support on rotational basis - including Off-Hours and Weekend.",
+        "emp_type": [
+            "hybrid"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 15:40:21-05:00",
+        "unique_id": "19244d5d99da6772",
+        "tag": "DB Admin"
+    }
+]

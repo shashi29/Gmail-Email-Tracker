@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Flair Tech Solutions",
+        "job_title": "GCP Data Modeler",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "remote"
+            ],
+            "job_code": "",
+            "experience_required": "Experience with different data modeling techniques and data patterns, preferably in healthcare industry",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "data modeling",
+                "data analysis",
+                "transformation solutions"
+            ],
+            "primary": [
+                "GCP",
+                "healthcare industry knowledge",
+                "Source to Target Mapping"
+            ],
+            "secondary": [
+                "Agile",
+                "problem solving",
+                "communication skills"
+            ],
+            "all": [
+                "data modeling",
+                "data analysis",
+                "GCP",
+                "Source to Target Mapping",
+                "healthcare industry knowledge",
+                "transformation solutions",
+                "Agile",
+                "problem solving",
+                "communication skills"
+            ],
+            "with_experience": [
+                "data modeling software",
+                "Microsoft\u2019s OMOP Common Data Model"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Arun K.",
+        "email": "arunk@flairtechsolutions.com",
+        "jd": "Role: GCP Data Modeler\nLocation: Remote\nNOTE: Must have Linkedin. (No GCs)\nAbility to analyze data and create data models for operational and analytical data stores\nExperience with different data modeling techniques and data patterns\nExperience with on-prem and cloud datasets, preferably GCP\nExperience with Source to Target Mapping for multiple applications, preferably in healthcare industry\nExperience designing complex transformation solutions\nExperience with data modeling software with version control, preferably IDA with RTC\nExperience working on a large data model shared by multiple data modelers\nExperience with Microsoft\u2019s OMOP industry standard Common Data Model (CDM) for healthcare\nBusiness knowledge of healthcare or health insurance industry preferred\nExperience working in an Agile environment\nGood written and verbal communication with technical and business teams\nStrong problem solving skills and critical thinking ability\nAbility to prioritize work to meet project milestone dates",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:23:16-05:00",
+        "unique_id": "192442bc18fd9bed",
+        "tag": "GCP Data Engineer"
+    }
+]

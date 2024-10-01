@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Digital Dhara",
+        "job_title": "Android Developer",
+        "location": "San Leandro, CA, USA",
+        "full_location": {
+            "city": "San Leandro",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years of Software Development, 4+ years of Android development, 3+ years of Kotlin Development",
+            "degree_required": "Technical degree or additional experience",
+            "visa_sponsorship": "H1B",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kotlin",
+                "UI Constructs (View, Controller, Recycler)",
+                "Reactive Programming",
+                "Coroutines",
+                "Dependency Injection (Dagger)",
+                "Retrofit",
+                "Jetpack architecture component"
+            ],
+            "primary": [
+                "Java",
+                "Kotlin"
+            ],
+            "secondary": [
+                "UI Constructs (View, Controller, Recycler)",
+                "Reactive Programming",
+                "Coroutines",
+                "Dependency Injection (Dagger)",
+                "Retrofit",
+                "Jetpack architecture component"
+            ],
+            "all": [
+                "Java",
+                "Kotlin",
+                "UI Constructs (View, Controller, Recycler)",
+                "Reactive Programming",
+                "Coroutines",
+                "Dependency Injection (Dagger)",
+                "Retrofit",
+                "Jetpack architecture component"
+            ],
+            "with_experience": [
+                "Kotlin Development",
+                "Android development"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anurag Mule",
+        "email": "anurag@digitaldhara.com",
+        "jd": "Lead Android Developer\nLocation: San Leandro, CA \u2013 Day 1 onsite\nMust Haves - Java, Kotlin, UI Constructs (View, Controller, Recycler), Reactive\n\nJD:\n\u2022 8+ years of Software Development\n\u2022 Fin Tech / Banking experience (nice but not necessary)\n\u2022 Example apps in the stores\n\u2022 4+ years of Android development in a team or corporate/enterprise environment\n\u2022 3+ years of Kotlin Development, Reactive Programming, coroutines, Dependency Injection (Dagger), Retrofit and, Jetpack architecture component\n\u2022 Technical degree or additional experience.",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:21:38-05:00",
+        "unique_id": "192434e8aca93a5e",
+        "tag": "Java Dev"
+    }
+]

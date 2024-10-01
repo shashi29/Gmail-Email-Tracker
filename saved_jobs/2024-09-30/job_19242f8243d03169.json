@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Global IT Family",
+        "job_title": "AWS with Redshift Expert",
+        "location": "St. Louis MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6+ Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS Redshift",
+                "SQL",
+                "Data Analysis",
+                "PL/SQL",
+                "Python"
+            ],
+            "primary": [
+                "AWS Redshift",
+                "SQL",
+                "Data Analysis"
+            ],
+            "secondary": [
+                "Unix",
+                "JIRA",
+                "Project Planning",
+                "Team management",
+                "Resource planning"
+            ],
+            "all": [
+                "AWS Redshift",
+                "SQL",
+                "Data Analysis",
+                "PL/SQL",
+                "Python",
+                "Unix",
+                "JIRA",
+                "Project Planning",
+                "Excellent communication skill",
+                "Team management",
+                "Resource planning"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Sameer Kumar",
+        "email": "sameer@globalitfamily.com",
+        "jd": "Role: AWS with Redshift Expert\nLocation: St. Louis MO\nDuration: 6+ Months\nJob Description\n8+ years of experience in with Database application Development using programming language.\nStrong knowledge of AWS Redshift\nVery Strong in SQL and Data Analysis, performance tuning and code reviews.\nStrong knowledge of stored procedures, macros and functions\nBusiness knowledge in the Telecom domain.\nAWS Clouds\nAWS Redshift\nPL/SQL\nPython\nSkill Set Required: Redshift\nUnix\nJIRA\nProject Planning\nExcellent communication skill\nTeam management\nResource planning\nKnowledge on Documentations like (S2T, NDR document, RM, DM etc.)",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 07:47:15-05:00",
+        "unique_id": "19242f8243d03169",
+        "tag": "AWS Data Engineer"
+    }
+]

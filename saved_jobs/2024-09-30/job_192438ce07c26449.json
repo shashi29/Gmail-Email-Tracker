@@ -1,0 +1,66 @@
+[
+    {
+        "company": "GE Health",
+        "job_title": "SQL DBA",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Expert",
+            "degree_required": "",
+            "visa_sponsorship": "USC / GC Only",
+            "notice_period": "",
+            "duration": "6 Month",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS"
+            ],
+            "primary": [
+                "SQL",
+                "AWS",
+                "SQL Server migration"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "AWS",
+                "SQL Server migration",
+                "database administrator certifications",
+                "system engineer",
+                "troubleshooting",
+                "system locks",
+                "fragmentation",
+                "index reorganization",
+                "rebuild",
+                "system logs issues",
+                "replication delays",
+                "ghost records",
+                "SQL server migration"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "Client : GE Health Job Title: SQL DBA Location: New York, NY Contract: 6 Month Visa : USC / GC Only LinkedIn and Local Candidate is Mandatory Need DL and Visa Copy..****************** LinkedIn and Local Candidate is Mandatory ******************************** Need DL and Visa Copy F&B*********************** SQL DBA Job Description: 1. SQL server DBA who has experience of handling sql server on AWS 2. Database administrator certifications from Microsoft or a reputed organization 3. Hands on System engineer who can manage extra large databases with high availability, Realtime replication from OLTP and OLAP using distributed database 4. Ability to troubleshoot sql server issues not limited but covering system locks, fragmentation, index reorganization and rebuild, system logs issues, replication delays, ghost records 5. Experience in handling SQL server migration from on Prem to AWS and from old SQL server version to new SQL server version. Expert in DAG setup and troubleshooting of DAG related issues.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:49:36-05:00",
+        "unique_id": "192438ce07c26449",
+        "tag": "DB Admin"
+    }
+]

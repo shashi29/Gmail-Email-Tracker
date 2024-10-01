@@ -1,0 +1,120 @@
+[
+    {
+        "company": "3mkllc",
+        "job_title": "Java Springboot Developer",
+        "location": "Toronto, Canada",
+        "full_location": {
+            "city": "Toronto",
+            "state": "",
+            "country": "Canada"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6 months",
+            "rate": "Open / hr ( CAD )"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring framework",
+                "Cloud platforms",
+                "Application security",
+                "Middleware technologies"
+            ],
+            "primary": [
+                "PCF",
+                "OpenShift",
+                "MQSeries",
+                "WebSphere Message Broker",
+                "IBM Integration Bus",
+                "IBM Operational Decision Manager",
+                "TLS/2waySSL",
+                "HTTPS",
+                "REST",
+                "JDBC",
+                "SOAP",
+                "JMS",
+                "XML",
+                "JSON",
+                "HTTP",
+                "SQL",
+                "Linux",
+                "Windows"
+            ],
+            "secondary": [
+                "Kafka",
+                "NiFi",
+                "Groovy",
+                "Python",
+                "Maven",
+                "Elastic stack",
+                "PingFed",
+                "Active Directory",
+                "Jenkins",
+                "Nexus",
+                "IBM Urban Code Deployment"
+            ],
+            "all": [
+                "Java",
+                "Spring framework",
+                "Cloud platforms",
+                "PCF",
+                "OpenShift",
+                "MQSeries",
+                "WebSphere Message Broker",
+                "IBM Integration Bus",
+                "IBM Operational Decision Manager",
+                "TLS/2waySSL",
+                "HTTPS",
+                "REST",
+                "JDBC",
+                "SOAP",
+                "JMS",
+                "XML",
+                "JSON",
+                "HTTP",
+                "SQL",
+                "Linux",
+                "Windows",
+                "Kafka",
+                "NiFi",
+                "Groovy",
+                "Python",
+                "Maven",
+                "Elastic stack",
+                "PingFed",
+                "Active Directory",
+                "Jenkins",
+                "Nexus",
+                "IBM Urban Code Deployment"
+            ],
+            "with_experience": [
+                "Java",
+                "Spring framework",
+                "Cloud platforms",
+                "Application security",
+                "Middleware technologies"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Steve",
+        "email": "steve@3mkllc.com",
+        "jd": "Canada Req \u2013 Hiring : Java Springboot Developer with Cloud API Development Exp Location : Hybrid, Toronto Contract : 6 months Rate : Open / hr ( CAD ) JD: Must-have 7+ years of experience in an application development role with a proven track record of delivering maintainable, quality solutions Experience with modern Java development with the Spring framework Experience with Cloud platforms - PCF, OpenShift Experience with middleware technologies - MQSeries, WebSphere Message Broker (WMB) / IBM Integration Bus (IIB), IBM Operational Decision Manager (ODM) Experience with application security involving TLS/2waySSL, HTTPS, certificates Knowledge of correlated technologies such as REST, JDBC, SOAP, JMS, XML, JSON, HTTP, SQL and others. Knowledge of server operating systems (Linux, Windows) and networking Experience/Understanding of DevOps, automated Build/Deploy processes, and Agile Nice-to-have Knowledge of other correlated technologies such as Kafka, NiFi, Groovy, Python, Maven, Elastic stack (Logstash/Kibana/ElasticSearch) Knowledge of federated authentication (PingFed), Active Directory Knowledge of deployment platforms such as Jenkins, Nexus, and IBM Urban Code Deployment (UCD)",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:49:45-05:00",
+        "unique_id": "19243a1ee0bd7237",
+        "tag": "Java Dev"
+    }
+]

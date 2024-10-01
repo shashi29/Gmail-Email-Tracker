@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Resource Consultings Services Inc.",
+        "job_title": "AWS Cloud Database Administrator DBA/AWS DBA",
+        "location": "Newark, NJ, USA",
+        "full_location": {
+            "city": "Newark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "3-5+ years",
+            "degree_required": "",
+            "visa_sponsorship": "GC-EAD, GC and USC",
+            "notice_period": "",
+            "duration": "6+ Month",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud Database Administration",
+                "Infrastructure as Code",
+                "Database Performance Tuning",
+                "Backup and Recovery",
+                "High Availability",
+                "Disaster Recovery"
+            ],
+            "primary": [
+                "Amazon Redshift",
+                "DocumentDB",
+                "Aurora PostgreSQL",
+                "AWS CloudFormation",
+                "Terraform"
+            ],
+            "secondary": [
+                "Python",
+                "AWS Lambda",
+                "AWS Step Functions",
+                "AWS CloudWatch",
+                "Jenkins"
+            ],
+            "all": [
+                "AWS Cloud Database Administration",
+                "Infrastructure as Code",
+                "Database Performance Tuning",
+                "Backup and Recovery",
+                "High Availability",
+                "Disaster Recovery",
+                "Amazon Redshift",
+                "DocumentDB",
+                "Aurora PostgreSQL",
+                "AWS CloudFormation",
+                "Terraform",
+                "Python",
+                "AWS Lambda",
+                "AWS Step Functions",
+                "AWS CloudWatch",
+                "Jenkins"
+            ],
+            "with_experience": [
+                "AWS Cloud Database Administration",
+                "Infrastructure as Code",
+                "Database Performance Tuning",
+                "Backup and Recovery",
+                "High Availability",
+                "Disaster Recovery",
+                "Amazon Redshift",
+                "DocumentDB",
+                "Aurora PostgreSQL"
+            ]
+        },
+        "job_type": [
+            "Hybrid"
+        ],
+        "contact_person": "Shreya Singh",
+        "email": "shreya@rconsultinginc.com",
+        "jd": "Job Title: AWS Cloud Database Administrator DBA/AWS DBA\nJob Duration: 6+ Month\nJob Location: Newark, NJ , Hybrid\nVisa: GC-EAD, GC and USC\nNeed Visa copy (Both side real picture, no scanned copy), DL copy and LinkedIN profile link\nTry to send banking or finance industry company\nTry to send NJ or NY candidate. Relocation is acceptable\nWhat You'll Do:\nAs an AWS Cloud Database Administrator and Infrastructure as Code Developer, you will be responsible for delivering high-quality database administration services to App/Dev Teams, including provisioning, configuration, maintenance, and optimization of Amazon Redshift, Aurora PostgreSQL and Document DB Databases using Cloud Formation Templates and Terraform. Work closely with our IT teams to assess database infrastructure, identify areas for improvement, and implement effective solutions to ensure optimal performance and reliability.\nIn-depth knowledge of Amazon Redshift database administration, DocumentDB database administration and Aurora PostgreSQL database administration including installation, configuration, and maintenance is necessary for the position. Develop Infrastructure as Code for provisioning, configurations, and maintenance of Amazon Redshift, DocumentDB and Aurora PostgreSQL Databases according to best practices and requirements.\nProvide technical support and troubleshooting assistance for Database related issues and incidents. Document database configurations, procedures, and troubleshooting steps for knowledge sharing and future reference. Optimize database performance through query tuning, index optimization, and database schema refinement. Develop and implement high availability and disaster recovery solutions.\nWhat You\u2019ll Bring:\nStrong analytical and problem-solving skills, with the ability to diagnose and resolve complex database issues. Excellent communication and interpersonal skills, with the ability to effectively interact with internal teams are necessary. Experience with infrastructure as code (IaC) tools such as AWS CloudFormation or Terraform is a must. Proficiency in scripting with Python, lambda and Step Functions. Develop and implement backup and recovery strategies to safeguard critical data and minimize downtime. Deep understanding of database concepts and experience with Redshift, DocumentDB, Aurora PostgreSQL is a must. Experience with monitoring and logging tools, particularly AWS CloudWatch is a must. Skills in database performance tuning, backup and recovery, and high availability setups. Experience in administration, managing and optimizing databases like Redshift, DocumentDB and Aurora PostgreSQL. Use of CI/CD pipelines and tools like Jenkins to provision databases and develop solutions for developer Self Service. Several years (3-5+ years) of experience working with AWS cloud services, including experience with database administration and infrastructure development. Hands-on experience in designing, deploying, and managing cloud infrastructure.",
+        "source": "Email",
+        "date_posted": "2024-09-30 13:45:37-05:00",
+        "unique_id": "19244403631504d4",
+        "tag": "AWS Data Engineer"
+    }
+]

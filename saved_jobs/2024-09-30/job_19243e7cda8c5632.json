@@ -1,0 +1,73 @@
+[
+    {
+        "company": "IndusAilabs",
+        "job_title": "Developer Standard III - Python Developer",
+        "location": "Washington, DC 20433, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "8 Months \u2013 Long Term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Excel"
+            ],
+            "primary": [
+                "Requirement Analysis",
+                "Code Conversion",
+                "Documentation",
+                "Testing",
+                "Validation",
+                "Optimization"
+            ],
+            "secondary": [
+                "Error Handling",
+                "Performance Optimization",
+                "Version Control"
+            ],
+            "all": [
+                "Python",
+                "Excel",
+                "Requirement Analysis",
+                "Code Conversion",
+                "Documentation",
+                "Testing",
+                "Validation",
+                "Optimization",
+                "Error Handling",
+                "Performance Optimization",
+                "Version Control"
+            ],
+            "with_experience": [
+                "Python",
+                "Excel"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Mercy Ramya",
+        "email": "mercyindusailabs.com@indusailabs.com",
+        "jd": "The Python Developer will be responsible for the following tasks: Requirement Analysis:\u00b7 Review and understand the existing Excel-based calculations.\u00b7 Identify the key functionalities and logic implemented in the Excel sheets.\u00b7 Collaborate with stakeholders to gather additional requirements and clarify any ambiguities. Code Conversion:\u00b7 Convert the Excel-based calculations to Python code, ensuring accuracy and consistency.\u00b7 Optimize the Python code for performance and scalability.\u00b7 Implement error handling and validation to ensure robustness Documentation:\u00b7 Document the existing Excel-based calculations, including formulas, macros, and data flows.\u00b7 Create comprehensive documentation for the Python code, including code comments, user guides, and technical specifications.\u00b7 Maintain an organized repository of all project documentation. Testing and Validation:\u00b7 Develop and execute test cases to validate the accuracy and performance of the Python code.\u00b7 Compare the results of the Python code with the original Excel calculations to ensure consistency.\u00b7 Address any discrepancies and refine the code as needed. Optimization and Best Practices:\u00b7 Identify and implement the most efficient methods for migrating calculations from Excel to Python.\u00b7 Follow best practices for coding, documentation, and version control.\u00b7 Provide recommendations for further improvements and optimizations.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 12:07:09-05:00",
+        "unique_id": "19243e7cda8c5632",
+        "tag": "Python Dev"
+    }
+]

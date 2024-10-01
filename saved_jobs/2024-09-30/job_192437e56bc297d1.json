@@ -1,0 +1,110 @@
+[
+    {
+        "company": "ITTBlazers",
+        "job_title": "Full Stack Java Prog Analyst",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java/J2EE",
+                "HTML/CSS",
+                "JavaScript",
+                "SQL",
+                "DocuSign API",
+                "AWS",
+                "SOAP Web Services",
+                "REST Web Services",
+                "Spring",
+                "JDBC",
+                "JPA/Hibernate",
+                "JMS",
+                "UNIXOS",
+                "PL/SQL",
+                "UML",
+                "Spring Batch",
+                "Spring Boot",
+                "IBM WebSphere",
+                "Oracle RDBMS",
+                "Microsoft Office"
+            ],
+            "primary": [
+                "Java/J2EE",
+                "DocuSign API",
+                "AWS",
+                "SOAP Web Services",
+                "REST Web Services"
+            ],
+            "secondary": [
+                "OKTA integration",
+                "UNIX Shell Scripting",
+                "large-scale data migration"
+            ],
+            "all": [
+                "Java/J2EE",
+                "HTML/CSS",
+                "JavaScript",
+                "SQL",
+                "DocuSign API",
+                "AWS",
+                "SOAP Web Services",
+                "REST Web Services",
+                "Spring",
+                "JDBC",
+                "JPA/Hibernate",
+                "JMS",
+                "relational modeling",
+                "object-oriented modeling",
+                "technical requirements documentation",
+                "problem troubleshooting",
+                "team environment interaction",
+                "oral and written communication",
+                "OKTA integration",
+                "UNIXOS",
+                "UNIX Shell Scripting",
+                "PL/SQL",
+                "UML",
+                "IBM WebSphere",
+                "Oracle RDBMS",
+                "Spring Batch",
+                "Spring Boot",
+                "large-scale data migration",
+                "Microsoft Office",
+                "agile environment"
+            ],
+            "with_experience": [
+                "Java/J2EE",
+                "DocuSign API",
+                "AWS",
+                "SOAP Web Services",
+                "REST Web Services"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nagarjuna Reddy Mula",
+        "email": "nagarjuna.mula@ittblazers.com",
+        "jd": "VSP is looking for a Sr Full Stack Java consultant to assist with the design, development and support of DocuSign workflows integrated with complex Java/JEE programs.\n- A minimum of 3 years of experience on DocuSign API integration using WebHooks\n- A minimum of 3 years of experience on AWS leveraging Serverless Lambda, SQS/SNS and API Gateway, AWS WAF, AWS Secrets Manager, IAM and DynamoDB\n- A minimum of 5 years of Java development experience with complex, large-scale applications using Java/J2EE, HTML/CSS, JavaScript, SQL.\n- A minimum of 3 years' experience with SOAP & REST Web Services, Spring, JDBC, JPA/Hibernate, and JMS.\n- Experience with relational and object-oriented modeling is required.\n- Experience with technical requirements specification and design documentation is required.\n- Experience with problem troubleshooting and providing support for complex multitiered applications is required.\n- The ability to successfully interact in a team environment is required.\n- Effective oral and written communication skills are required.\n- Experience with OKTA integration strongly preferred.\n- Experience with UNIXOS, UNIX Shell Scripting, PL/SQL, and UML is strongly preferred.\n- Experience with IBM WebSphere Application Server, IBM WebSphere Liberty, and Oracle RDBMS is strongly preferred.\n- Experience with Spring Batch and Spring Boot is strongly preferred.\n- Experience with large-scale data migration is preferred.\n- Experience with Microsoft Office Suite of products is preferred.\n- Experience working in an agile environment (scrum, kanban, or scrumban) is preferred.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:13:14-05:00",
+        "unique_id": "192437e56bc297d1",
+        "tag": "Java Dev"
+    }
+]

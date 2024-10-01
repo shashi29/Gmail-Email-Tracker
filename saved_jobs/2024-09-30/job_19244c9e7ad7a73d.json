@@ -1,0 +1,84 @@
+[
+    {
+        "company": "ERP MARK",
+        "job_title": "Sr. Data Analyst",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Contract"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years of experience in AI, Generative AI, and Machine Learning.",
+            "degree_required": "Bachelor's degree in Computer Science, Data Science, or a related field",
+            "visa_sponsorship": "H1B",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries"
+            ],
+            "primary": [
+                "Data Profiling",
+                "SQL"
+            ],
+            "secondary": [
+                "Power BI",
+                "BRD",
+                "Data Lineage",
+                "Machine Learning",
+                "Python",
+                "Keras",
+                "Pandas",
+                "Time Series"
+            ],
+            "all": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries",
+                "Power BI",
+                "BRD",
+                "Data Lineage",
+                "Data Profiling",
+                "SQL",
+                "Machine Learning",
+                "Python",
+                "Keras",
+                "Pandas",
+                "Time Series",
+                "Kafka",
+                "Generative AI",
+                "GPT-3",
+                "GANs",
+                "Transformers",
+                "BERT",
+                "T5"
+            ],
+            "with_experience": [
+                "Machine Learning",
+                "Python",
+                "Keras"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Asha",
+        "email": "asha@erpmark.com",
+        "jd": "Job Title: Sr. Data Analyst Location: Remote Duration: Contract Job Description: Primary Skills : Azure, Snowflake, SQL Server (Stored Procs, SQL\u2019s, etc.), SQL Queries Secondary Skills : Power BI, BRD, Data Lineage Sr. Data Analysts having strong experience in data identification and querying with standard relational and non-relational systems, along with strong knowledge of Structured and Unstructured Data. Strong Data Profiling and SQL skills to analyze the source-target data identification and generate Source \u2013 Target Mapping Sheets (STTM). Working experience in big data environments on both on-prem and cloud, such as Azure and Snowflake and reporting tools like Power BI. Data Scientist: Machine Learning, NLP, AI ML (4 yrs), Python (4 yrs), Keras (4 yrs), Pandas (4 yrs), Time Series (1 yr), Data Engineering, GPT-3, GANs, Transformers(BERT and T5). 5+ years of experience in AI, Generative AI, and Machine Learning. Proficiency in mandatory skills, including Machine Learning, Python, Keras. Strong knowledge of Generative AI technologies, such as GPT-3, GANs, and Transformers such as BERT and T5). Proficient in Python programming and data science libraries like Pandas. Experience in deploying data-driven solutions in cloud environments. Apply advanced machine learning techniques and models to solve complex business problems, with a focus on generative AI. Utilize expertise in Machine Learning, Kafka, Python, Keras, Pandas, and Time Series analysis to develop predictive models and gain insights from large datasets. Lead data engineering efforts to ensure efficient data collection, storage, and transformation. Collaborate with cross-functional teams to understand business needs, design AI-powered solutions, and drive their implementation. Stay updated with the latest developments in Generative AI and integrate new techniques and models into our projects. Experienced in Synthetic Data Generation to enhance data augmentation strategies for model training and testing. Utilize your knowledge of Cloud Environments (AWS, Azure, GCP) to optimize the scalability and deployment of AI models. Excellent problem-solving, communication, and collaboration skills.",
+        "source": "Email",
+        "date_posted": "2024-09-30 16:16:02-05:00",
+        "unique_id": "19244c9e7ad7a73d",
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "AWS Cloud Architect",
+        "location": "San Antonio, TX, USA",
+        "full_location": {
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "hybrid"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's or master's degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "USC / GC",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Terraform",
+                "Python",
+                "SQL Server",
+                "Agile",
+                "DevOps",
+                "CI/CD",
+                "Splunk",
+                "Datadog"
+            ],
+            "primary": [
+                "AWS",
+                "Terraform",
+                "Python"
+            ],
+            "secondary": [
+                "SQL Server",
+                "Agile"
+            ],
+            "all": [
+                "AWS",
+                "Terraform",
+                "Python",
+                "SQL Server",
+                "Agile",
+                "DevOps",
+                "CI/CD",
+                "Splunk",
+                "Datadog"
+            ],
+            "with_experience": [
+                "AWS",
+                "Terraform",
+                "Python",
+                "SQL Server"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ashish Kumar",
+        "email": "ashish.kumar@tekinspirations.com",
+        "jd": "Job Description -Role: AWS Cloud Architect\nLocation: San Antonio, TX or Irvine, CA \u2013 hybrid ( local to any of the place )\nVisa: USC / GC LinkedIn needed AWS DevOps Architect -Not Application, Not Infrastructure , Strong AWS & Terraform, Always On, SQL\nQualifications: \u2022 Bachelor's or master's degree in computer science, Engineering, or a related field. \u2022 12+ years' experience in DevOps and Automation. \u2022 Strong database background, primarily MSSQL and other database technologies with automation skills (Python, Terraform). \u2022 Experience working in an Agile environment. \u2022 Proficient in Python scripting and experienced in using Terraform for automation. \u2022 Demonstrable knowledge of observability tools such as Splunk and Datadog. \u2022 Strong understanding of CI/CD pipelines and related tools. \u2022 Excellent analytical skills and the ability to work collaboratively across teams. \u2022 Strong communication and problem-solving skills.\nMake sure candidates have the experience below and need to see how many years on each skills and responsibilities while submitting.\nKey Requirements:\nStrong AWS experience: Familiarity with AWS services and best practices.\nSQL Server expertise: Proficiency in SQL Server administration and Always ON.\nAutomation skills: Ability to design and implement automated solutions for database provisioning and management. (Terraform, Python, DevOps)\nCollaboration: Ability to work effectively with other teams, including development, DevOps, and platform engineering.\nCustomer focus: Understanding the needs of end-users and providing self-service capabilities.\nResponsibilities:\nPlatform design and development: Architect and build the database platform on AWS.\nAutomation: Develop and implement automation scripts for database provisioning, configuration, and management.\nIntegration: Integrate the database platform with existing automation tools and processes.\nDocumentation: Create clear and concise documentation for end-users to leverage the platform effectively.\nSupport: Provide support and troubleshooting for users who encounter issues with the database platform.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:53:58-05:00",
+        "unique_id": "1924447d9a668b9a",
+        "tag": "AWS Data Engineer"
+    }
+]

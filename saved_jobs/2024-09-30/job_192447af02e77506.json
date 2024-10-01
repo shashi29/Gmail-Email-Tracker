@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Han Staffing",
+        "job_title": "Technical Data Analyst",
+        "location": "New York City, NJ, PA, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long term contract",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Tableau",
+                "Power BI",
+                "data analytics",
+                "data visualization",
+                "data modeling",
+                "database design",
+                "Agile methodologies",
+                "JIRA",
+                "Confluence"
+            ],
+            "primary": [
+                "data analytics",
+                "data visualization"
+            ],
+            "secondary": [
+                "ETL processes",
+                "data warehousing"
+            ],
+            "all": [
+                "SQL",
+                "Tableau",
+                "Power BI",
+                "data analytics",
+                "data visualization",
+                "data modeling",
+                "database design",
+                "Agile methodologies",
+                "JIRA",
+                "Confluence",
+                "analytical skills",
+                "problem-solving",
+                "communication skills"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Danish Mujeeb",
+        "email": "danish@hanstaffing.com",
+        "jd": "Collaborate with stakeholders to define and document business requirements and technical specifications. Analyze complex datasets to provide insights that drive business decisions and optimize processes. Develop and maintain data models, dashboards, and reports using analytics tools (e.g., SQL, Tableau, Power BI). Conduct root cause analysis and data validation to ensure data accuracy and integrity. Create user stories, use cases, and process flows to facilitate communication between business and technical teams. Assist in the design and implementation of data-driven solutions, working closely with developers and data engineers. Participate in Agile/Scrum ceremonies, providing input on project scope and prioritization. Facilitate workshops and meetings to gather requirements, present findings, and provide recommendations. Monitor and evaluate the effectiveness of implemented solutions and suggest enhancements. Familiarity with ETL processes and data warehousing solutions. Proficiency in data analytics and visualization tools. Strong understanding of data modeling concepts and database design principles. Experience with Agile methodologies and project management tools (e.g., JIRA, Confluence). Excellent analytical and problem-solving skills with a detail-oriented mindset. Strong communication skills, with the ability to articulate complex technical concepts to non-technical stakeholders.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 14:49:47-05:00",
+        "unique_id": "192447af02e77506",
+        "tag": "BA/Scrum Master/PM"
+    }
+]

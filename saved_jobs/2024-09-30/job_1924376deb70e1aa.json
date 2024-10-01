@@ -1,0 +1,74 @@
+[
+    {
+        "company": "State of LA",
+        "job_title": "Senior .Net Application Programmer",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "",
+            "visa_sponsorship": "Only USC GC",
+            "notice_period": "",
+            "duration": "Longterm",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "ASP.NET",
+                "SQL Server",
+                "HTML",
+                "JavaScript"
+            ],
+            "primary": [
+                "ASP.NET Core",
+                "Entity Framework"
+            ],
+            "secondary": [
+                "VueJS",
+                "Bootstrap",
+                "IIS",
+                "SOA/Microservices",
+                "CI/CD"
+            ],
+            "all": [
+                "C#",
+                "ASP.NET",
+                "SQL Server",
+                "HTML",
+                "JavaScript",
+                "ASP.NET Core",
+                "Entity Framework",
+                "VueJS",
+                "Bootstrap",
+                "IIS",
+                "SOA/Microservices",
+                "CI/CD"
+            ],
+            "with_experience": [
+                "C#",
+                "ASP.NET Core",
+                "Entity Framework",
+                "Agile",
+                "Scrum"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kalyani Dazzlon",
+        "email": "kalyanig@dazzlon.com",
+        "jd": "Role : Senior .Net Application Programmer Client: State of LA Location: Remote Duration: Longterm Requirement: \u2022 Web development with C#, ASP.NET, JavaScript, SQL Server, and HTML \u2022 Designs, codes, compiles, tests, debugs and documents new and existing web applications, maintenance and support of existing applications. \u2022 Performing quality assurance reviews and testing on new code. \u2022 Participates in all necessary team meetings and design sessions in accordance with Scrum Ceremonies. \u2022 Provide technical knowledge transfer, training, documentation, mentorship and guidance to State personnel for all requested work. \u2022 Monitor, review and audit performance of the customer-agency\u2019s replacement software and make performance improvements. Expertise and/or relevant experience in the following areas are mandatory: \u2022 5+ years of expertise and/or relevant experience in the following areas: o C# o ASP.NET Core o Entity Framework \u2022 2+ years of experience working in an Agile / Scrum environment Expertise and/or relevant experience in the following areas are desirable but not mandatory: \u2022 2+ years of expertise and/or relevant experience in the following areas: o Recent experience developing applications using .Net version 5 or greater o VueJS o Bootstrap o Javascript o SQL Server (T-SQL) o IIS o Distributed Design Systems (SOA/Microservices) o DevOps Practices (CI/CD) and Systems \u2022 Experience with monitoring/observability platforms and instrumenting applications to trace transactions, and provide timely alerts around issues.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:04:32-05:00",
+        "unique_id": "1924376deb70e1aa",
+        "tag": ".NET Dev"
+    }
+]

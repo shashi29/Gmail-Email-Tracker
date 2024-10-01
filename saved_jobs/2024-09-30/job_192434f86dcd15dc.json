@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Sita Consulting Services LLC",
+        "job_title": ".NET Full Stack Tech Lead",
+        "location": "Des Moines, IA, USA",
+        "full_location": {
+            "city": "Des Moines",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "748006",
+            "experience_required": "10+ Years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Bootstrap",
+                "CSS3",
+                "HTML5",
+                "TypeScript",
+                "JavaScript",
+                "Knockout",
+                "ASP.NET Webforms",
+                ".NET Core",
+                "MVC",
+                "Entity Framework",
+                "Angular",
+                "Azure cloud services",
+                "Amazon Web Services (AWS)",
+                "SQL Server"
+            ],
+            "primary": [
+                "C#",
+                ".NET Core",
+                "ASP.NET Webforms",
+                "SQL Server 2016+"
+            ],
+            "secondary": [
+                "Azure cloud services",
+                "AWS",
+                "SSIS",
+                "SSRS"
+            ],
+            "all": [
+                "C#",
+                "Bootstrap",
+                "CSS3",
+                "HTML5",
+                "TypeScript",
+                "JavaScript",
+                "Knockout",
+                "ASP.NET Webforms",
+                ".NET Core",
+                "MVC",
+                "Entity Framework",
+                "Angular",
+                "Azure cloud services",
+                "Amazon Web Services (AWS)",
+                "SQL Server",
+                "LINQ",
+                "Team Foundation Server",
+                "Azure Dev Ops",
+                "GitHub",
+                "SSIS",
+                "SSRS",
+                "CI/CD pipelines",
+                "Database modeling",
+                "Adobe Experience Manager",
+                "OpenText Content Server",
+                "Power BI"
+            ],
+            "with_experience": [
+                "C#",
+                ".NET Core",
+                "ASP.NET Webforms",
+                "SQL Server 2016+",
+                "SSIS",
+                "SSRS",
+                "Azure cloud services",
+                "AWS",
+                "CI/CD pipelines",
+                "Database modeling"
+            ]
+        },
+        "job_type": [
+            "in-person"
+        ],
+        "contact_person": "Ron Rautela",
+        "email": "ron@scstech.us",
+        "jd": "This is a Senior .NET Developer 200 E Grand Avenue | Des Moines, IA | 50309 |State of IOWA. Will be part of a development team and will assist in end-to-end system enhancement, system support, and new development using C#, Bootstrap, CSS3, HTML5, TypeScript, JavaScript, Knockout, ASP.NET Webforms, .NET Core, MVC, Entity Framework, Angular, Azure cloud services, Amazon Web Services (AWS), SQL Server including creating stored procedures, functions, tables and creating and maintaining SSIS packages and SSRS reports. This position will be responsible for helping create and maintain code pipelines, perform code reviews and provide guidance and assistance to less experienced developers. The position will be involved in architecting, solutioning, and developing new enterprise solutions as well as assisting other teams in support of applications. Gather business requirements, analyze, and create functional and technical specifications. Analyze and design SQL databases and database objects. Perform end-to-end development and testing and support business users with user testing for enhancements to the system. Resolve system issues and problem reports reported by end users through the Help Desk. Perform code reviews. Setup and maintain CI/CD pipelines. Provide technical assistance and guidance to less experienced developers. Help establish and enforce coding standards. Successful candidates will possess: The ability to analyze new development, or current applications and assist with coding tasks; able to react quickly to changing requirements in an agile environment. Self-starter work ethic, adept at providing exceptional results with limited supervision. Excellent troubleshooting skills to identify and fix issues reported in existing systems. Preference will be given to candidates who can demonstrate knowledgeable experience in any or all the following products: OpenText Content Server, Adobe Experience Manager \u2013 specifically using Designer, Workbench, and Workflow.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:22:42-05:00",
+        "unique_id": "192434f86dcd15dc",
+        "tag": ".NET Dev"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Rivago Infotech",
+        "job_title": "Java Developer",
+        "location": "Arlington, VA, USA",
+        "full_location": {
+            "city": "Arlington",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Moderate Java/Spring Boot experience",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long term Project",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Kafka",
+                "CI/CD",
+                "Security",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "React",
+                "Angular",
+                "Vue",
+                "RESTful APIs",
+                "JSON",
+                "Git",
+                "Agile development"
+            ],
+            "primary": [
+                "Java",
+                "Springboot",
+                "Microservices"
+            ],
+            "secondary": [
+                "UI testing frameworks",
+                "Cloud"
+            ],
+            "all": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Kafka",
+                "CI/CD",
+                "Security",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "React",
+                "Angular",
+                "Vue",
+                "RESTful APIs",
+                "JSON",
+                "Git",
+                "Agile development",
+                "UI testing frameworks",
+                "Cloud"
+            ],
+            "with_experience": [
+                "Java",
+                "Springboot",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sarvan Kumar",
+        "email": "sarvan@rivagoinfotech.com",
+        "jd": "Role: Java Developer Location: Arlington, VA (Hybrid) Duration: Long term Project Must Have: Java (OOPS/12 Factor/SOLID), Springboot, Microservices, Kafka, CI/CD, Security (OWASP etc), Cloud Responsibilities: Build responsive, user-friendly UIs. Integrate UIs with Java/Spring Boot backend. Debug and resolve UI and backend integration issues. Work with cross-functional teams to deliver end-to-end solutions. Requirements: Strong front-end skills (HTML, CSS, JavaScript, Typescript, React/Angular/Vue). Familiarity with RESTful APIs, JSON, and integrating front-end with back-end services. Experience with version control (Git) and agile development methodologies. Familiarity with UI testing frameworks and tools.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:50:09-05:00",
+        "unique_id": "192446965b962704",
+        "tag": "Java Dev"
+    }
+]

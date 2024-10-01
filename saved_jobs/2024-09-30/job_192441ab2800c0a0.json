@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Spar Info Sys",
+        "job_title": "Senior .NET Developer",
+        "location": "San Francisco, CA, USA or Denver, CO, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "C2C",
+                "W2"
+            ],
+            "job_code": "",
+            "experience_required": "Senior level",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6-12+ months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "SQL Server",
+                "Azure Data Factory",
+                "Entity Framework",
+                "Dapper",
+                "Angular",
+                "Transact-SQL",
+                "Agile",
+                "CI/CD"
+            ],
+            "primary": [
+                ".NET",
+                "C#",
+                "SQL Server"
+            ],
+            "secondary": [
+                "Azure App Insights",
+                "Redgate SQL Tools"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "SQL Server",
+                "Azure Data Factory",
+                "Entity Framework",
+                "Dapper",
+                "Angular",
+                "Transact-SQL",
+                "Agile",
+                "CI/CD",
+                "Azure App Insights",
+                "Redgate SQL Tools"
+            ],
+            "with_experience": [
+                ".NET",
+                "C#",
+                "SQL Server",
+                "Agile",
+                "CI/CD",
+                "Systems Analysis"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ben",
+        "email": "benclark@sparinfosys.com",
+        "jd": "Job Title: Senior .NET Developer Job Location: Day 1 Onsite-San Francisco, CA or Denver, CO (Candidate needs to work 3 Days at the client Office) Duration: 6-12+ months Open to C2C/W2 Client is looking for Senior .NET Developer with below job requirements: The resource will be the first developer on a newly formed team and must demonstrate autonomy, a strong willingness to learn business processes, and a proactive approach to tackling complex business challenges. The ideal resource should have experience in systems analysis and troubleshooting, utilizing Azure App Insights (or similar tools) and Redgate SQL tools. They should also be capable of developing plans and processes to minimize downtime and manage system or server stress. Development technologies including: Microsoft Web forms, Microsoft .Net Core, Microsoft C#, Microsoft ADO pipelines, Microsoft Azure Data Factory, ORM such as Entity Framework and/or Dapper, Angular (Components & Typescript). SQL Server: Transact-SQL including complex queries, stored procedures and functions, Query Optimization, Experience with large datasets, Change data capture. SDLC: Agile and all Scrum ceremonies, Contribute to story creation, refinement, and planning, CI/CD with ADO pipelines (Gitflow branching, pull requests). Systems Analysis: Redgate SQL Tools, Azure App Insights. Excellent communication skills.",
+        "emp_type": [
+            "C2C",
+            "W2"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:03:16-05:00",
+        "unique_id": "192441ab2800c0a0",
+        "tag": ".NET Dev"
+    }
+]

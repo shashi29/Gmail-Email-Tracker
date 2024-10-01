@@ -1,0 +1,67 @@
+[
+    {
+        "company": "kksoftwareassociates",
+        "job_title": "Python Developer",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": null,
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "CI/CD",
+                "Version Control",
+                "CloudFormation",
+                "Terraform"
+            ],
+            "primary": [
+                "Python",
+                "AWS"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Version Control"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "CI/CD",
+                "Version Control",
+                "CloudFormation",
+                "Terraform"
+            ],
+            "with_experience": [
+                "Python",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bavana",
+        "email": "bavana.g@kksoftwareassociates.com",
+        "jd": "Essential Skills:? Experience in Python: building libraries? AWS Cloud experience? CI/CD, Version control? CloudFormation or terraform for automating cloud deployments.Desirable Skills:? Experience in Python: building libraries? AWS Cloud experience? CI/CD, Version control? CloudFormation or terraform for automating cloud deployments.",
+        "emp_type": [
+            "full-time"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:32:15-05:00",
+        "unique_id": "19243c8dc175472a",
+        "tag": "Python Dev"
+    }
+]

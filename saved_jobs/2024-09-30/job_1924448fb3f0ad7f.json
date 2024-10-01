@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Rivago Infotech",
+        "job_title": ".NET Engineer",
+        "location": "Arlington, VA, USA",
+        "full_location": {
+            "city": "Arlington",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "long term"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long term Project",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries"
+            ],
+            "primary": [
+                "C#.NET"
+            ],
+            "secondary": [
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries",
+                "Database"
+            ],
+            "all": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries",
+                "Database",
+                "SQL Hadoop",
+                "Impala",
+                "Splunk"
+            ],
+            "with_experience": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sarvan Kumar",
+        "email": "sarvan@rivagoinfotech.com",
+        "jd": "Develop and own full-stack applications using .NET and database technologies like SQL Hadoop, Impala, Splunk skills is a plus. Debug issues and provide resolution Tackle performance issues Proactively communicate work status Build high-value analytics off of large data sets while keeping performance top of mind Serve as a technical resource for team members and mentor junior engineers and team members Collaborate with partners teams across broader Mastercard (Software Delivery, Corporate Security, Privacy and Data Protection, Global Product Management) Continuously innovate and determine new technologies to improve our product suite.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 12:31:40-05:00",
+        "unique_id": "1924448fb3f0ad7f",
+        "tag": ".NET Dev"
+    }
+]

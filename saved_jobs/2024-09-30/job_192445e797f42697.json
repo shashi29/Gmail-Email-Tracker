@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Teamware solutions",
+        "job_title": "AWS developer",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "8 - 10 Years",
+            "degree_required": "",
+            "visa_sponsorship": "H1B only",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS services"
+            ],
+            "primary": [
+                "EC2",
+                "ECS",
+                "S3",
+                "DynamoDB",
+                "RDS",
+                "Route53",
+                "ELB",
+                "Lambda",
+                "AWS SDK",
+                "AWS CLI"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS services",
+                "EC2",
+                "ECS",
+                "S3",
+                "DynamoDB",
+                "RDS",
+                "Route53",
+                "ELB",
+                "Lambda",
+                "AWS SDK",
+                "AWS CLI"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Akash",
+        "email": "akash.p@twsol.com",
+        "jd": "Job title: AWS developer Location: - Malvern, PA ( Onsite ) Experience: 8 - 10 Years Visa: H1B only Mandatory Skills: Must have in AWS services such as EC2, ECS, S3, DynamoDB, RDS, Route53, ELB, and Lambda along with the AWS SDK and CLI.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 14:18:41-05:00",
+        "unique_id": "192445e797f42697",
+        "tag": "AWS Data Engineer"
+    }
+]

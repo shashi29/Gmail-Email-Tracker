@@ -1,0 +1,81 @@
+[
+    {
+        "company": "NorthITe",
+        "job_title": "QE SDET (Automation)",
+        "location": "Englewood, NJ, USA",
+        "full_location": {
+            "city": "Englewood",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Appium",
+                "Java",
+                "Selenium",
+                "REST Assured"
+            ],
+            "primary": [
+                "Web Automation",
+                "API Testing",
+                "Mobile Automation"
+            ],
+            "secondary": [
+                "TestNG",
+                "Maven",
+                "Jenkins",
+                "GitHub",
+                "Selenium Grid"
+            ],
+            "all": [
+                "Appium",
+                "Java",
+                "Selenium",
+                "REST Assured",
+                "TestNG",
+                "Maven",
+                "Jenkins",
+                "GitHub",
+                "Selenium Grid",
+                "JavaScript",
+                "TypeScript",
+                "Apache JMeter",
+                "GIT",
+                "JIRA",
+                "Test Rail"
+            ],
+            "with_experience": [
+                "Selenium",
+                "Appium",
+                "Java",
+                "JavaScript",
+                "TypeScript",
+                "JMeter",
+                "REST Assured"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Criz Salvin",
+        "email": "criz@northite.com",
+        "jd": "From: Criz Salvin, NorthITe criz@northite.com Reply to: criz@northite.com QE SDET (Automation) Location: Englewood, NJ (3 days work from office) Final round in person interview at Englewood, NJ Must Have skills: Need appium (Mobile automation) with Web + API Java, Selenium, Appium, Rest Assured, Framework development - TestNG, Maven, Jenkins, GitHub, Selenium grid Experience on testing android and iOS Job Description: Proven experience as a QA Lead in web application and Mobile Apps projects, guiding tester and interactions with Biz/Product Owner Proficiency in using testing tools and frameworks (e.g., Selenium, Appium, TestNG, Java, JavaScript, TypeScript) Good knowledge and hands on experience using Java programming concepts. Working experience with Apache JMeter to run performance tests is a plus. Extensive experience on Selenium WebDriver and Appium to develop, maintain and execute automated test scripts using Selenium/Appium. Hands on Framework creation/ improvising test frameworks for automation Hands on experience on GIT, JIRA, Jenkins and Test Rail. Experience in Performance test tool Jmeter Working experience in Agile methodology with in-sprint automation. Experience with strong background in API Manual testing and Web Apps Hands on experience using REST Assured automation framework Excellent communication skills and prior experience to work with engineering and biz teams Good to have : Performance testing JMeter , CI / CD process, Agile Process, JavaScript/TypeScript.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:19:07-05:00",
+        "unique_id": "19243bb2f2dc489c",
+        "tag": "Java Dev"
+    }
+]

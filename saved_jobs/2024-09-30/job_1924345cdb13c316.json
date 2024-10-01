@@ -1,0 +1,105 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "AWS Cloud Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years applied experience",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Contract",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Go",
+                "Apache Kafka",
+                "AWS",
+                "Spring Boot",
+                "RESTful API",
+                "Microservices"
+            ],
+            "primary": [
+                "Java",
+                "Python",
+                "Go",
+                "AWS",
+                "Spring Boot"
+            ],
+            "secondary": [
+                "Apache Kafka",
+                "RESTful API",
+                "Microservices"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "Go",
+                "Apache Kafka",
+                "Spring Boot",
+                "RESTful API",
+                "Microservices",
+                "AWS",
+                "EC2",
+                "ALB",
+                "NLB",
+                "Aurora Postgres",
+                "DynamoDB",
+                "EKS",
+                "ECS fargate",
+                "MFTS",
+                "SQS/SNS",
+                "S3",
+                "Route53",
+                "Ansible",
+                "Artifactory",
+                "Docker",
+                "GitHub",
+                "Jenkins",
+                "Kubernetes",
+                "Maven",
+                "Sonar Qube",
+                "CloudFormation",
+                "Terraform",
+                "shell scripts",
+                "Gradle",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "with_experience": [
+                "Java",
+                "Python",
+                "Go",
+                "AWS",
+                "Cloud Foundry",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "santhosh",
+        "email": "santhosh.a@i-q.co",
+        "jd": "Position: AWS Cloud Engineer\nLocation: Plano, TX (Day 1 Onsite)\nDuration: Contract\nDay 1 Onsite is a Must\nMandatory Skills:\u2022 Java, Python, Go, Apache Kafka\u2022 Java, Spring Boot, RESTful API technologies/Microservices\u2022 AWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53) Detailed Job Description:\u2022Formal training or certification on software engineering concepts and 10+ years applied experience\u2022Hands-on practical experience delivering system design, application development, testing, and operational stability\u2022Advanced in one or more programming language(s) - Java, Python, Go\u2022A strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practices\u2022Design and building web environments on AWS, which includes working with services like EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53\u2022Advanced in modern technologies such as: Java version 8+, Spring Boot, Restful Microservices, AWS or Cloud Foundry, Kubernetes.\u2022Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar Qube\u2022Experience and knowledge of writing Infrastructure-as-Code (IaC) and Environment-as-Code (EaC), using tools like CloudFormation or Terraform\u2022Experience with high volume, SLA critical applications, and building upon messaging and or event-driven architectures\u2022Deep understanding of financial industry and their IT systems\nNice to Have:\u2022IaC, EaC & CI/CD, Shell scripts, Gradle, Maven, Jenkins, Spinnaker\u2022Splunk, Datadog, Dynatrace. CloudWatch or Grafana.",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:12:05-05:00",
+        "unique_id": "1924345cdb13c316",
+        "tag": "AWS Data Engineer"
+    }
+]

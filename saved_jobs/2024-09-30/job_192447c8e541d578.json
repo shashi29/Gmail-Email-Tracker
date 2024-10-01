@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Kovan Technology Solutions",
+        "job_title": "Java IVR Developer",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "remote"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum of 4 years of experience in IVR development",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "VXML",
+                "GDF",
+                "Java",
+                "SQL"
+            ],
+            "primary": [
+                "IVR application development",
+                "integration with backend systems"
+            ],
+            "secondary": [
+                "troubleshooting IVR applications",
+                "testing IVR systems with Cyara"
+            ],
+            "all": [
+                "VXML",
+                "GDF",
+                "IVR application development",
+                "Java",
+                "SQL",
+                "Cyara",
+                "Avaya",
+                "Genesys",
+                "speech recognition",
+                "text-to-speech technologies"
+            ],
+            "with_experience": [
+                "IVR technologies/products like GDF",
+                "Avaya",
+                "Genesys",
+                "Amazon Connect",
+                "Watson",
+                "Nuance"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jenifer",
+        "email": "jenifer.a@kovantech.com",
+        "jd": "Role: Java IVR Developer\nRemote\nKey Responsibilities:\nDesign and Development:\nDesign and develop IVR applications using VXML and GDF.\nIntegrate IVR solutions with backend systems and databases using Java and SQL.\nDevelop call flows for inbound and outbound IVR systems.\nTesting and Deployment:\nPerform unit, functional and integration testing of IVR applications.\nUse Cyara for automated testing and monitoring of IVR systems.\nDeploy IVR applications on Avaya and Genesys platforms.\nIntegration and Maintenance:\nIntegrate speech recognition and text-to-speech technologies using GDF.\nMonitor and maintain IVR systems to ensure high availability and performance.\nTroubleshoot and resolve issues related to IVR applications and infrastructure.\nCollaboration:\nWork closely with cross-functional teams, including business analysts, QA engineers, and project managers.\nProvide technical support and training to other team members and stakeholders.\nQualifications:\nTechnical Skills: Proficient in VXML, GDF, and IVR application development. Expertise in few or more of IVR technologies/products like GDF, Avaya, Genesys, Amazon connect, Watson and Nuance, Avaya and Genesys platforms. Familiarity with Cyara for IVR testing and monitoring. Strong understanding of inbound and outbound call flow design. Experience with speech recognition and text-to-speech technologies. Experience: Minimum of 4 years of experience in IVR development. Experience in deploying and maintaining IVR systems in a production environment. Knowledge of telephony protocols and standards. Education: Bachelor\u2019s degree in Computer Science, Information Technology, or a related field. Soft Skills: Excellent problem-solving and analytical skills. Strong communication and interpersonal skills. Ability to work independently and as part of a team.",
+        "emp_type": [
+            "remote"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:37:54-05:00",
+        "unique_id": "192447c8e541d578",
+        "tag": "Java Dev"
+    }
+]

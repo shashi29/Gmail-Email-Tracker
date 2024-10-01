@@ -1,0 +1,61 @@
+[
+    {
+        "company": "iTech US",
+        "job_title": "Azure Architect",
+        "location": "Edison, NJ, USA",
+        "full_location": {
+            "city": "Edison",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite"
+            ],
+            "job_code": "",
+            "experience_required": "10+ Years",
+            "degree_required": "",
+            "visa_sponsorship": "Only H1B with PPnum Mandatory",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure services",
+                "cloud security practices",
+                "identity management",
+                "Infrastructure as Code",
+                "Terraform",
+                "Azure Resource Manager"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Azure services",
+                "cloud security practices",
+                "identity management",
+                "Infrastructure as Code",
+                "Terraform",
+                "Azure Resource Manager"
+            ],
+            "with_experience": [
+                "Azure services",
+                "cloud security practices",
+                "identity management",
+                "Infrastructure as Code"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Srikanth V",
+        "email": "srikanth.v@itechus.net",
+        "jd": "Hi , This is Srikanth from iTech US. I have below requirement with one of the premier Client. Please go through it and let me if you are interested to apply for same.\nRole: Azure Architect\nLocation: Edison, NJ(Onsite) - EST Candidates\nVisa: Only H1B with PPnum Mandatory\nJob Description:\nTotal IT Experience 10+ Years\nExpertise in Azure services such as Azure Active Directory, Azure Functions, and Azure Kubernetes Service.\nStrong knowledge of cloud security practices and identity management.\nProficient in Infrastructure as Code (IaC) tools like Terraform or Azure Resource Manager (ARM) templates.\nCompetitive salary with performance-based bonuses.\nFlexible work hours and remote work options.\nComprehensive health, dental, and vision insurance.\nProfessional development and training opportunities.\nThanks & Regards\nSrikanth V(: Direct: 802 798 8941; ext 317\n",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 12:22:56-05:00",
+        "unique_id": "1924450a0703b905",
+        "tag": "Azure Data Engineer"
+    }
+]

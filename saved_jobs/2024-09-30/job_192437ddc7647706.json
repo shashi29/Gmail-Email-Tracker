@@ -1,0 +1,76 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": "Azure Cloud Architect",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field (Master\u2019s preferred)",
+            "visa_sponsorship": "C2C: (Yes, Only for H1b)",
+            "notice_period": "",
+            "duration": "Contract",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure cloud solutions",
+                "cloud migration strategies",
+                "cloud architecture implementation",
+                "cloud security best practices",
+                "Infrastructure as Code",
+                "CI/CD pipelines management",
+                "cloud performance monitoring",
+                "troubleshooting Azure services"
+            ],
+            "primary": [
+                "Azure services",
+                "cloud networking",
+                "security protocols"
+            ],
+            "secondary": [
+                "DevOps tools"
+            ],
+            "all": [
+                "Azure cloud solutions",
+                "cloud migration strategies",
+                "cloud architecture implementation",
+                "cloud security best practices",
+                "Infrastructure as Code",
+                "CI/CD pipelines management",
+                "cloud performance monitoring",
+                "troubleshooting Azure services",
+                "Azure services",
+                "cloud networking",
+                "security protocols",
+                "DevOps tools"
+            ],
+            "with_experience": [
+                "cloud architecture",
+                "cloud-native applications",
+                "cloud migration projects",
+                "hybrid cloud solutions",
+                "infrastructure provisioning"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Naveen Kumar",
+        "email": "naveen.t@itechus.net",
+        "jd": "Hi, My name is Naveen Kumar, and I represent iTech US Inc. iTech is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have job opening for the below role. Role: Azure Cloud Architect Location: Jersey City, NJ (Only Locals) Duration: Contract Experience: 12+ years C2C: (Yes, Only for H1b) Role Description: Design scalable, secure, and cost-effective Azure cloud solutions. Develop strategies for cloud migration, including hybrid and multi-cloud environments. Define technical requirements and guide cloud architecture implementation. Implement best practices for cloud security, including identity management and network security. Automate infrastructure provisioning using Infrastructure as Code (e.g., ARM templates, Terraform). Manage CI/CD pipelines for cloud applications. Monitor cloud environments for performance, scalability, and cost-efficiency. Troubleshoot and resolve issues with Azure services and infrastructure. Collaborate with development, DevOps, and IT operations teams. Provide technical leadership and mentorship to junior engineers. Ensure cloud environments comply with industry regulations (e.g., GDPR, HIPAA). Document architectural standards, operational procedures, and configurations. Qualifications: Bachelor\u2019s degree in Computer Science, Information Technology, or related field (Master\u2019s preferred). 5+ years of experience in cloud architecture, with 3+ years focused on Azure. Experience in designing and implementing cloud-native applications. Proven track record with cloud migration projects and hybrid cloud solutions. Expertise in Azure services (Virtual Machines, Kubernetes, App Services, etc.). Proficient in Infrastructure as Code (Terraform, ARM templates). Strong understanding of cloud networking, security protocols, and firewall configurations. Familiar with DevOps tools (Jenkins, Docker, Kubernetes). Microsoft Certified: Azure Solutions Architect Expert or similar certifications. Strong problem-solving abilities and customer-focused approach. Excellent communication and collaboration skills across teams. Experience leading technical teams or projects.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:37:40-05:00",
+        "unique_id": "192437ddc7647706",
+        "tag": "Azure Data Engineer"
+    }
+]

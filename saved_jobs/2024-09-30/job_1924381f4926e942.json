@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Lead SQL Developer/Consultant",
+        "location": "Shelton, Connecticut, USA",
+        "full_location": {
+            "city": "Shelton",
+            "state": "Connecticut",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "min 7 years",
+            "degree_required": "",
+            "visa_sponsorship": "GC, USC & H1 (Has to be 100% local)",
+            "notice_period": "",
+            "duration": "12 Month",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "Sencha ExtJS",
+                "JavaScript",
+                "PHP",
+                "C#/.NET",
+                "Visual Studio",
+                "SQL Server Management Studio",
+                "SVN",
+                "Git",
+                "Azure DevOps"
+            ],
+            "primary": [
+                "SQL Server",
+                "Sencha ExtJS",
+                "C#/.NET"
+            ],
+            "secondary": [
+                "PHP",
+                "JavaScript"
+            ],
+            "all": [
+                "SQL Server version 2012/2019",
+                "complex stored procedures",
+                "SQL scripts",
+                "Sencha ExtJS",
+                "JavaScript",
+                "PHP (v7.2+)",
+                "C#/.NET",
+                "Visual Studio",
+                "SQL Server Management Studio",
+                "SVN",
+                "Git",
+                "Azure DevOps"
+            ],
+            "with_experience": [
+                "SQL Server",
+                "C#/.NET",
+                "Sencha ExtJS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vyze Inc",
+        "email": "ravina@vyzeinc.com",
+        "jd": "Job Description -Must to have LinkedIn and full Local address Lead SQL Developer/Consultant Onsite -Shelton Connecticut Video/Phone GC, USC & H1 (Has to be 100% local) 12 Month Description of Service: Consultant will act as lead developer on large-scale project to automate several key complex and manually time consuming processes required for smooth and compliant daily business operation. Work is anticipated to be completed solely using Microsoft SQL Server stored procedures; however, an alternate methodology (e.g., combination of C# and SQL) could be considered if a compelling case is made (improve speed/efficiency). This new process is required to be run multiple times daily - both in batch mode, and on-demand by our internal business users via our main customer-facing application. Technical Skills required (min 7 years) 1) SQL Server version 2012/2019; complex stored procedures; SQL scripts 2) Sencha ExtJS/javascript (or can quickly adapt from React, Angular.js, etc) 3) PHP (v7.2+) 4) C#/.NET 5) Experience with development environments (Visual Studio, SQL Server Management Studio) 6) Experience with source control tools (SVN, Git/Azure DevOps) With a provided business specification, consultant should be able to: \u2022 Understand current manual business processes and related application functionality \u2022 Identify and analyze impacted code base(s) to understand existing code function \u2022 Understand the proposed automated solution (spec) \u2022 Understand existing partially-built stored procedure logic written toward accomplishing the overall automation solution \u2022 Understand existing table structures, including new tables created for this effort \u2022 Identify gaps in existing stored procedure logic, along with additional specifications required to complete this project \u2022 Understand related \u201cdownstream\u201d application functionality impacted by the automation changes \u2022 Think in an organized and logical manner, to break down larger automation tasks into smaller units that can be coded, tested and verified \u2022 Understand the various business use cases required to successfully unit test code changes \u2022 Unit test changes - including any affected downstream systems/screens/functions \u2022 Analyze test case/data results to ensure they meet business objectives \u2022 Use current coding structures, standards, practices, and formatting for consistency within the existing code base \u2022 Properly comment code for ease of future maintenance \u2022 Respond to any code defects, or subsequently approved change requests, resulting from user acceptance testing The ideal candidate can work independently as well as in a small team setting: perform problem analysis, develop solutions, test and implement. The selected candidate will join a small development team (3-4 members) working closely with the Business Unit staff to enhance our application suite as directed. Candidate must have excellent verbal and written communication skills, and be able to communicate successfully with various audiences \u2013 business, technical, management.",
+        "emp_type": [
+            "onsite"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:17:36-05:00",
+        "unique_id": "1924381f4926e942",
+        "tag": ".NET Dev"
+    }
+]

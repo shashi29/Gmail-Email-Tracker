@@ -1,0 +1,113 @@
+[
+    {
+        "company": "Procorp Systems",
+        "job_title": "Java Full Stack Developer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "12 Months",
+            "rate": "DOE"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Spring",
+                "Cassandra Database",
+                "Cloud development using Pivotal Cloud Foundry",
+                "Build Microservices using Spring Boot",
+                "RESTful WebServices using Spring MVC",
+                "Spring JDBC",
+                "Kafka messaging",
+                "Multi-threading in Java",
+                "Json parsing/creation using Jackson/Gson",
+                "Build/Deployment tools like Jenkins",
+                "Memory/CPU profiling",
+                "Server-side Design Patterns",
+                "IntelliJ IDE",
+                "Basic knowledge of SQL and Oracle",
+                "Linux/Unix",
+                "Mockito or other Unit Testing framework",
+                "Transaction Management using Spring",
+                "Spring State Machine or any BPM framework",
+                "Grafana Dashboard",
+                "Maven",
+                "Basic shell scripting",
+                "Git",
+                "Application Servers",
+                "Tomcat"
+            ],
+            "primary": [
+                "Core Java",
+                "Spring",
+                "Cassandra Database",
+                "Kafka messaging",
+                "Multi-threading in Java"
+            ],
+            "secondary": [
+                "Mockito or other Unit Testing framework",
+                "Basic shell scripting",
+                "Grafana Dashboard"
+            ],
+            "all": [
+                "Core Java",
+                "Spring",
+                "Cassandra Database",
+                "Cloud development using Pivotal Cloud Foundry",
+                "Build Microservices using Spring Boot",
+                "RESTful WebServices using Spring MVC",
+                "Spring JDBC",
+                "Kafka messaging",
+                "Multi-threading in Java",
+                "Json parsing/creation using Jackson/Gson",
+                "Build/Deployment tools like Jenkins",
+                "Memory/CPU profiling",
+                "Server-side Design Patterns",
+                "IntelliJ IDE",
+                "Basic knowledge of SQL and Oracle",
+                "Linux/Unix",
+                "Mockito or other Unit Testing framework",
+                "Transaction Management using Spring",
+                "IBM MQ",
+                "Tibco EMS",
+                "Spring State Machine",
+                "Grafana Dashboard",
+                "Maven",
+                "Basic shell scripting",
+                "Git",
+                "Tomcat"
+            ],
+            "with_experience": [
+                "Core Java",
+                "Spring",
+                "Cassandra Database",
+                "Cloud development using Pivotal Cloud Foundry",
+                "Microservices",
+                "Kafka messaging",
+                "Multi-threading in Java"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vardhan",
+        "email": "vardhan.r@procorpsystems.com",
+        "jd": "Hello, Hope you are doing well, Note: Must Need to Onsite From Day 1. Title: Java Full Stack Developer Location: Houston, TX Duration: 12 Months Rate: DOE Job Description: Extensive hands-on Java development using POJO and J2EE including JDBC and Kafka Application development dealing with Large Scale Distributed Systems. Translating Business Requirements into system designs. Hands on experience on coding, troubleshooting and Multi-threaded applications. Working with Cassandra as an operational Database Ability to balance strategic and tactical solutions. In depth knowledge of applicable methodologies, tools, standards, and procedures. Ability to collaborate with other internal technology teams to coordinate and deliver software systems. Takes personal initiative; conscientiousness and complete follow-through on areas of responsibility.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 16:22:08-05:00",
+        "unique_id": "19244cf7d9e2c88b",
+        "tag": "Java Dev"
+    }
+]

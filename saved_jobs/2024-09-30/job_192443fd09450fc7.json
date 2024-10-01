@@ -1,0 +1,81 @@
+[
+    {
+        "company": "StellentIT",
+        "job_title": "Database Admin",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "12+ Months",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "12+ Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "SAP ASE",
+                "Sybase",
+                "Redis",
+                "Postgres",
+                "MS SQL Server",
+                "Scripting",
+                "Linux"
+            ],
+            "primary": [
+                "Database Administration",
+                "General Database Engineer Duties",
+                "Installation, Upgrade & Patching",
+                "Monitoring Databases"
+            ],
+            "secondary": [
+                "Automation using shell-script",
+                "Python",
+                "Ansible",
+                "Performance analysis",
+                "Troubleshooting"
+            ],
+            "all": [
+                "SAP ASE",
+                "Sybase",
+                "Redis",
+                "Postgres",
+                "MS SQL Server",
+                "Scripting",
+                "Linux",
+                "Database Administration",
+                "General Database Engineer Duties",
+                "Installation, Upgrade & Patching",
+                "Monitoring Databases",
+                "Automation using shell-script",
+                "Python",
+                "Ansible",
+                "Performance analysis",
+                "Troubleshooting"
+            ],
+            "with_experience": [
+                "Installation, Upgrade & Patching",
+                "Replication",
+                "Performance analysis"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "abhishek",
+        "email": "abhishek@stellentit.com",
+        "jd": "Database Admin, Alpharetta, GA 12+ Months Phone + Skype MUST have experience with multiple databases General Database Engineer Duties and Responsibilities: Provide guidance and support to Application team Install, tune, implement and upgrade DBMS installations Write and deploy SQL patches Process work accurately and in a timely manner Always paying attention to the detail Urgency Proactively and regularly make recommendations for system improvements Collate, prepare, and present statistical information for internal and external use Looking for: SAP ASE / Sybase, Redis, Postgres, MS SQL Server, Scripting (Ansible, Python, Shell), Linux (must) Note: NO developers Please, Looking for DBA (Database Admins) Write and Maintain Database Programs: Database engineers write new database programs and maintain existing programs to ensure they can handle the flow of traffic and the amount of data being stored in the database. Design New Databases: Database engineers help design new databases based on company needs, data storage needs, and the number of users accessing the database. Monitor Databases and Programs: Database engineers continuously monitor databases and related systems to ensure high functionality. Write Programs and Scripts: Database engineers write new support programs and scripts for databases to deploy, operate, increase data storage capacity and fix existing database problems. Troubleshooting: Database engineers troubleshoot platform specific performance, checking for potential problems that affect database functionality and related database programs. Debugging: Database engineers look through coding language to debug existing database scripts and programs. Review Database Reports: Database engineers review daily, weekly, and monthly database reports, including user reports and systems information, to spot problems and ensure that all databases and support systems are working at peak levels. Requirements: Expertise in Installation, Upgrade & Patching of different components in Sybase, MS SQL Server, Postgres and experience with the other platforms we manage listed in the Duties and Responsibilities. Experience with Replication including setup, troubleshooting issues and failovers Monitor all systems (work processes, users, system logs, short dumps, locks, developer traces, system traces, disk space, etc.). Ensure production uptime service levels are maintained and made available per requirements that include backup, recovery, refresh, performance tuning, and security Provide data cleansing services, verify data integrity, and implement access controls Provide routine maintenance including problem defect analysis and resolution, space, storage, object management, physical database layout, rollback segment management, and temporary space management Experience with Schema creation, deployment and maintenance Experience with Setting up and configuration of Auditing, audit trails Carry out recovery of databases in an event of log full, system crash Troubleshoot issues related to the installation for our supported platforms Should have knowledge of Disaster Recovery setup and maintenance Automation using shell-script, python, Ansible, go, etc. Performance & Tuning Related Expertise Experience with Performance analysis, monitoring of SQL queries and platform specific tuning.",
+        "source": "Email",
+        "date_posted": "2024-09-30 12:39:14-05:00",
+        "unique_id": "192443fd09450fc7",
+        "tag": "DB Admin"
+    }
+]

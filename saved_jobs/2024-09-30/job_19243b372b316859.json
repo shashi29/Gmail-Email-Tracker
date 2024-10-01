@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Inherent Technologies",
+        "job_title": "Data/Obs Engineer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years of database development experience",
+            "degree_required": "Bachelor\u2019s degree in computer science, computer science engineering, or related field required; advanced degree preferred.",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "1 Year",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Postgres",
+                "Postgresql"
+            ],
+            "primary": [
+                "XML",
+                "schema development",
+                "RDBMS databases",
+                "NoSQL"
+            ],
+            "secondary": [
+                "AWS",
+                "GCP",
+                "Terraform",
+                "GitHub Actions",
+                "GitHub Enterprise",
+                "Jenkins"
+            ],
+            "all": [
+                "Java",
+                "Postgres",
+                "Postgresql",
+                "XML",
+                "schema development",
+                "RDBMS databases",
+                "NoSQL",
+                "Db2",
+                "Couchbase",
+                "Oracle",
+                "React",
+                "Cucumber",
+                "Gatlin",
+                "Karate",
+                "Jest",
+                "AWS",
+                "GCP",
+                "Terraform",
+                "GitHub Actions",
+                "GitHub Enterprise",
+                "Jenkins"
+            ],
+            "with_experience": [
+                "Java",
+                "Postgres",
+                "Postgresql"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Swati Nishad",
+        "email": "swati@inherenttech.com",
+        "jd": "From: Swati Nishad, Inherent Technologies swati@inherenttech.com Reply to: swati@inherenttech.com Position: Data/Obs Engineer Location: New York, NY/ Phoenix, AZ*Day 1 OnsiteDuration: 1 Years Phone & SkypeClient: HCLImmediate Interview Must Have Skills: Java, Postgres / Postgresql Job Details: Scope of Impact/Influence: Leads and mentors teams of engineers through ongoing development efforts. Ensures engineers adhere to team standards. Accountable for accurate completion and quality of all documentation and work produced by engineering team. Accountable for delivering a quality product that meets the customers\u2019 needs. Key Responsibilities: Performs all technical aspects of data architecture and database management for assigned applications, including developing prototypes, developing new database structures and APIs as applicable. Performs transformation of logical data architectures into physical data designs, according to database design best practices and standards Provides database administration services to projects crafting, extending or maintaining databases, data warehouses and datamarts Debugs database components, identifies, fixes and verifies remediation of design and/or performance defects. Performs ongoing refactoring of database design and continuously improves product to follow data placement procedures and re-use of existing databases as appropriate. Ensure optimal data replication, performance, High Availability, backup and recovery processes exists to meet requirements, reduce cost and adhere to standards. Leads in development of plans and strategies, best practices, and standards related to data management processes, data products, data security and programs. Functions as Senior member of an agile team and leads data assets as per the enterprise standards, guidelines and policies. Typically spends 50% of time in database development and testing and remainder of time collaborating with partners through ongoing product/platform releases. Communicates and works collaboratively with business and product teams to support changes and implementation. Works with product team to prioritize features for ongoing sprints and leading a list of data requirements based on industry trends, new technologies, known defects, and issues. Partner with delivery architects and engineers to design optional data tier solutions to meet enterprise platform objectives and goals. Stays abreast of new DBMS features and functions and drive adoption across Amex to use product capabilities. Active member of the vendor product development strategy that will enable vendors to provide solutions and features to meet Amex needs. Contributes to decisions about tools, methods and approaches. Finds opportunities to embrace innovative technologies. Works closely with product owners on blueprints and annual planning of feature sets that impact multiple platforms and products Knowledge/Skills Strong analytical skills with a proven ability to understand and document business data requirements in complete, accurate, extensible and flexible logical data models, data modeling tools. Able to facilitate discussions between Technology and business people, recognize issues of conflict and inconsistency between data requirements and pursue a resolution of these issues Evaluates and undertakes impact analysis on major design options for databases and assesses and leads associated risks Expert in XML and schema development/reuse, RDBMS databases, Open Source. Expertise in NoSQL will be an added advantage. Leads modification and maintenance of data structures and associated components according to logical and physical design structures for large or complex systems. Mastered Metadata Management and Database Management Partners with Sr. Data Engineers and Sr. Data architects to build complex company platform level data models and database designs. Takes technical responsibility for all stages in the database development process. Crafts and/or uses System-of-Records (SORs) and identify data reuse. Deep Technical knowledge of DBMS products and ecosystem \u2013 e.g. storage formats, access algorithms, data management processes, administration, data maintenance, replication, high availability, encryption, etc. Ability to monitor and tune databases and DBMSs to reach high performance \u2013 e.g. use data monitoring and analysis tools, tune configuration parameters, alter physical designs, benchmark, etc. Takes part in reviews of own work and leads reviews of colleagues' work. Has working knowledge of the range of tools used in the planning, analyzing, crafting, building, testing, configuring, and maintaining of assigned application(s) Able to participate in assigned team\u2019s Agile delivery methodology. Understands and has practical experience with infrastructure technologies and components like servers, jvms and networking concepts. Application of industry best practices, processes, and standards Identifies a number of ways to do things differently that will continuously improve the product. Understands the complete vertical platform environment (technical stack) Tech Stack Db2, Couchbase, Postgres, Oracle Primarily React via OneApp and Java via OneData Cucumber, Gatlin, Karate, Jest AWS, GCP Terraform GitHub Actions GitHub Enterprise Jenkins Education & Experience 6+ years of database development experience in a professional environment and/or comparable experience such as: Demonstrated experience leading teams of Data Engineers and Data Architects Hands on expertise with design and development across one or more database management systems (e.g., DB2, Couchbase, Oracle, Postgres) as appropriate Experience with distributed (multi-tiered) systems, algorithms, and application development. Experience with database development and support of OLTP and/or OLAP systems. Demonstrated experience with big data technologies and NOSQL design and coding with variety of data stores (document, column family, graph, etc.) Bachelor\u2019s degree in computer science, computer science engineering, or related field required; advanced degree preferred. 3+ years Java. 3+ years Postgres/Oracle.",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:08:34-05:00",
+        "unique_id": "19243b372b316859",
+        "tag": "AWS Data Engineer"
+    }
+]

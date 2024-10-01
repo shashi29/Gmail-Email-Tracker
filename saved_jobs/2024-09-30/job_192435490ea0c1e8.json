@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Intelligenz",
+        "job_title": ".Net Full stack Engineer",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "SQL",
+                "Angular",
+                "Microservices"
+            ],
+            "primary": [
+                "C#",
+                ".NET"
+            ],
+            "secondary": [
+                "SQL",
+                "Angular"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "Angular",
+                "SQL",
+                "Microservices",
+                "Test cases",
+                "Solid principles",
+                "Agile flow",
+                "Angular components",
+                "PRISM",
+                "PowerShell"
+            ],
+            "with_experience": [
+                "C#",
+                ".NET",
+                "SQL",
+                "Angular"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Mounika",
+        "email": "mounika@intelligenzit.com",
+        "jd": "Job Title: .Net Full stack Engineer Location: Pittsburgh, PA Need Locals only. .Net, C#, Angular, SQL, Microservices Required Skills: Strong knowledge of programming concepts in C# / .NET Full stack consultant Good Understanding of Test cases, Solid principles & Agile flow, Angular components Experience with SQL Good to have: PRISM PowerShell",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:28:12-05:00",
+        "unique_id": "192435490ea0c1e8",
+        "tag": "NET Dev"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Gtech",
+        "job_title": "GCP Architect",
+        "location": "Mountain view, CA, USA",
+        "full_location": {
+            "city": "Mountain view",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Contract"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Kubernetes",
+                "Networking",
+                "Compute in Google Cloud",
+                "Cloud Security"
+            ],
+            "primary": [
+                "GCP"
+            ],
+            "secondary": [
+                "Kubernetes",
+                "Networking",
+                "Compute in Google Cloud",
+                "Cloud Security"
+            ],
+            "all": [
+                "GCP",
+                "Kubernetes",
+                "Networking",
+                "Compute in Google Cloud",
+                "Cloud Security"
+            ],
+            "with_experience": [
+                "GCP",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Durgesh Kumar Jha",
+        "email": "dkjha@greattechglobal.com",
+        "jd": "HelloHope you are doing well. Position: GCP ArchitectLocation: Mountain view, CA - onsiteJob type: Contract Job description: -12+ GCP Certification Kubernetes Networking and Compute in Google Cloud Cloud Security",
+        "emp_type": [
+            "Contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 08:58:49-05:00",
+        "unique_id": "1924339a9a3d956b",
+        "tag": "GCP Data Engineer"
+    }
+]

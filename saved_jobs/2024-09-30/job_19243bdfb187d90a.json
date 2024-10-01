@@ -1,0 +1,81 @@
+[
+    {
+        "company": "iTech US",
+        "job_title": "Informatica Oracle Developer",
+        "location": "Maricopa, AZ, USA",
+        "full_location": {
+            "city": "Maricopa",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Oracle PL/SQL",
+                "Informatica Cloud",
+                "ETL",
+                "Data Warehouse",
+                "Data Marts",
+                "Batch Script",
+                "Shell Script",
+                "Python"
+            ],
+            "primary": [
+                "Oracle PL/SQL",
+                "Informatica Cloud"
+            ],
+            "secondary": [
+                "Agile",
+                "Scrum",
+                "Jira",
+                "Git",
+                "SVN",
+                "Liquibase"
+            ],
+            "all": [
+                "Oracle PL/SQL",
+                "Informatica Cloud",
+                "ETL",
+                "Data Warehouse",
+                "Data Marts",
+                "Batch Script",
+                "Shell Script",
+                "Python",
+                "Agile",
+                "Scrum",
+                "Jira",
+                "Git",
+                "SVN",
+                "Liquibase"
+            ],
+            "with_experience": [
+                "Oracle PL/SQL",
+                "Informatica Cloud"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Divya Sai Chand",
+        "email": "divya.c@itechus.net",
+        "jd": "HelloThis is Divya Sai from iTech US, we have an urgent Job opening from one our client, please go through below JD if you are interested, please share me your updated resume.Role: Informatica Oracle DeveloperLocation: Maricopa, AZ (onsite)Type : ContractDescription:DeveloperIn this role you will serve as a senior dedicated technical resource responsible for Oracle PL/SQL development for our Data Warehouse running on a Linux basedOracle 11g RAC 2 node cluster. The Data Warehouse is currently under development and you will be an integral part of its design and implementation.You will support key strategic initiatives, including the integration of new lines of business, design and implementation of data marts and subject areas, and key decisions around the future of the data warehouse. You will also be involved with the implementation of new reporting tools, new ETL routines and other projects that are core to developing and enhancing the data warehouse environment.Essential Job Functions:1. Utilize excellent hands-on PL/SQL skills to design and implement data warehouse subject areas.2. Develop high performing extraction, transformation and loading (ETL) routines for loading data from our production database into the data warehouse.3. Create PL/SQL that performs well with large data sets, is written to scale for future growth and adheres to business rules.4. Effectively integrate new lines of business into the DW requiring the addition of new data sources into existing tables and data marts.5. Share knowledge and PL/SQL expertise and mentor team members in the design of efficient reporting queries.6. Team with engineering, IT and business stakeholders to support projects of varying complexity; gather reporting and data warehousing requirements, evaluate best approach and propose solutions.Informatica CDI (Cloud Data Integration), PL/SQL10 & Above\u2022 Primary Skills Oracle PL/SQL (ETL) - Must Informatica Cloud (IICS) Scripting Languages: Batch Script, Shell Script, Python Strong Datawarehouse, Datamarts,Knowledge in Star Schema\u2022 Additional Skills Agile, Scrum, Jira, Git, SVN, LiquibaseInformatica Oracle developerThanks & RegardsDivya Sai ChanduiTech US Inc,Email:divya.c@itechus.netPh:18028510921 Ext:308",
+        "emp_type": [
+            "Contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:19:37-05:00",
+        "unique_id": "19243bdfb187d90a",
+        "tag": "Oracle DBA"
+    }
+]

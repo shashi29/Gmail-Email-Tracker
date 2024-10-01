@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "Senior Java Developer",
+        "location": "Bellevue WA, USA",
+        "full_location": {
+            "city": "Bellevue",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite"
+            ],
+            "job_code": "",
+            "experience_required": "Senior",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "REST APIs",
+                "Kubernetes",
+                "SQL",
+                "NoSQL"
+            ],
+            "primary": [
+                "Java",
+                "Spring Boot",
+                "REST APIs"
+            ],
+            "secondary": [
+                "Kubernetes",
+                "Docker",
+                "Kafka",
+                "GraphQL",
+                "Python"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "REST APIs",
+                "Kubernetes",
+                "SQL",
+                "NoSQL",
+                "API Gateways",
+                "CI/CD",
+                "OAS fundamentals",
+                "API documentation",
+                "AuthN",
+                "AuthZ",
+                "OpenID",
+                "API Security standards",
+                "Writing unit test cases",
+                "Integration test cases",
+                "Production-quality code",
+                "Scaling up Enterprise Applications",
+                "Building asynchronous APIs",
+                "Webhooks",
+                "External developer-facing APIs",
+                "Messaging queues"
+            ],
+            "with_experience": [
+                "Java",
+                "Spring Boot",
+                "REST APIs"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjeev Kumar Singh",
+        "email": "sanjeev.singh@tekinspirations.com",
+        "jd": "Java Developer Bellevue WA (Onsite ) Need local to WA candidate Mode of the interview: 1st round virtual tech screening with PV Company , 2nd round in person interview with T mobile \u00b7 This is primarily for a Senior Java Developer, who will take technical initiatives and work with teams to build and deliver the APIs. \u00b7 Be able to take direction from tech leads and drive across teams (once teams are aligned) with minimal guidance. \u00b7 Proficient in programming languages like Java (8+), Spring Boot, Microservices, REST APIs, Kubernetes, SQL, and NoSQL. \u00b7 Exposure to API Gateways is a strong plus, as is prior experience with API exposure to external customers. Must Haves: o Strong hands-on experience in coding o Need to have solid foundations in API exposure o Very strong in REST fundamentals, AuthN, AuthZ, OpenID o API Security standards o Strong in Java and Spring Boot Microservices o SQL and NoSQL o Writing unit test cases and integration test cases o Able to write/review production-quality code in Java o CI/CD Scaling up Enterprise Applications Nice to have: o OAS fundamentals too - API documentation, error codes, etc. o Kubernetes, Docker o Building asynchronous APIs, webhooks o Experience in developing external developer-facing APIs o Kafka and messaging queues o GraphQL and Python is a plus o Exposure to building SDKs",
+        "emp_type": [
+            "onsite"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 18:44:04-05:00",
+        "unique_id": "192455169a4e39e6",
+        "tag": "Java Dev"
+    }
+]

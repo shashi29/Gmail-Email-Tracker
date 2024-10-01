@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Rurisoft technologies",
+        "job_title": "MS SQL Developer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "C2C"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 8 years",
+            "degree_required": "",
+            "visa_sponsorship": "H1B",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "MySQL",
+                "MSSQL",
+                "PostgreSQL",
+                "SQL",
+                "Unix shell scripting"
+            ],
+            "primary": [
+                "SQL queries",
+                "version control (GIT)",
+                "SQL developer activities"
+            ],
+            "secondary": [
+                "AWS (S3, EC2)",
+                "Jira",
+                "GitHub",
+                "devops tools",
+                "Teradata",
+                "Microsoft ETL",
+                "reporting tools (Qlik, Tableau)"
+            ],
+            "all": [
+                "MySQL",
+                "MSSQL",
+                "PostgreSQL",
+                "complex SQL queries",
+                "version control (GIT)",
+                "SQL developer activities",
+                "Unix shell scripting",
+                "AWS (S3, EC2)",
+                "Jira",
+                "GitHub",
+                "devops tools",
+                "Teradata",
+                "Microsoft ETL",
+                "reporting tools (Qlik, Tableau)"
+            ],
+            "with_experience": [
+                "MySQL",
+                "MSSQL",
+                "PostgreSQL",
+                "SQL",
+                "Unix shell scripting"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "suma",
+        "email": "suma@rurisoft.com",
+        "jd": "Need Ex Verizon Candidates MS SQL Developer Location: Irving, TX (Hybrid _3 days) MUST HAVE SKILLS (Most Important): \u2022 Minimum 8 years of experience with MySQL, MSSQL, and PostgreSQL \u2022 Proficient in understanding and creating complex SQL queries \u2022 Knowledge of version control practices and procedures (GIT) \u2022 Highly proficient in SQL developer activities and multi-task to work in other technologies (Teradata/MS SQL Server) \u2022 Experience in Unix shell scripting ADDITIONAL SKILLS \u2022 Expertise in managing PostgreSQL, MS SQL server with strong SQL programming skills. \u2022 Experience in AWS cloud technologies like S3, EC2 etc. \u2022 Experience in Jira and GitHub and other devops tools. \u2022 Experience in MS SQL server \u2022 Teradata Experience with ETL and tools like Microsoft ETL. \u2022 Exposure to any reporting tool set like Qlik or Tableau JOB DUTIES: Position will be responsible specific to (1) Designing database tables and structures. (2) Creating views, functions, triggers, stored procedures, and packages. (3) Research complex SQL/Postgres programs and address data issues. (4) Provide batch application support. (5) Build new ETL workflow in Teradata and unix (6) Work with the onshore and offshore team in application design and build using the technologies defined in the must have skills (7) Communicate status of the activities effectively with management or clients.",
+        "emp_type": [
+            "C2C"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 12:58:07-05:00",
+        "unique_id": "1924414b75135ac2",
+        "tag": "DB Admin"
+    }
+]

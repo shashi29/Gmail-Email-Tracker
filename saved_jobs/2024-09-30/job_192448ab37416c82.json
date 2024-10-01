@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Thothit LLC",
+        "job_title": "Frontend and Backend developer",
+        "location": "Princeton, NJ, USA",
+        "full_location": {
+            "city": "Princeton",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "Senior level experience",
+            "degree_required": "Good University",
+            "visa_sponsorship": "All visa workable except h1b",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python 3.7+",
+                "Docker",
+                "Docker Compose",
+                "AWS",
+                "JavaScript",
+                "Neo4J",
+                "Linux"
+            ],
+            "primary": [
+                "Python 3.7+",
+                "Docker",
+                "AWS"
+            ],
+            "secondary": [
+                "JavaScript",
+                "Neo4J",
+                "Linux"
+            ],
+            "all": [
+                "Python 3.7+",
+                "Docker",
+                "Docker Compose",
+                "AWS",
+                "JavaScript",
+                "Neo4J",
+                "Linux"
+            ],
+            "with_experience": [
+                "Python 3.7+",
+                "Docker",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ishika",
+        "email": "ishika@thothit.net",
+        "jd": "From: Ishika, Thothit LLC ishika@thothit.net Reply to: ishika@thothit.net Job Role : Frontend and Backend developerLocation : Position is 3 days a week hybrid to Princeton, NJ(Need local with DL)Visa : All visa workable except h1b Face to Face interview Needs:- Python 3.7+ backend;Docker and docker compose for local development;AWS hosted;JavaScript frontend (JavaScript experience is more of a nice-to-have);Neo4J database;- nice to haveKnowledgeable about Linux would help.Good UniversityShort ResumeYears don\u2019t really matter as long as sharp Position ResponsibilitiesWe are looking for a Senior Python Developer to build functional and efficient server-side applications. Senior Python Developer responsibilities include participating in all phases of the software development lifecycle and coaching junior developers. If you\u2019re a seasoned developer with a love for back-end technologies, we would like to meet you.Your ultimate goal is to create high-quality products that meet customer needs.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 15:06:59-05:00",
+        "unique_id": "192448ab37416c82",
+        "tag": "Python Dev"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Largeton INC",
+        "job_title": "Certified Azure DevOps Engineer",
+        "location": "Cincinnati OH, USA",
+        "full_location": {
+            "city": "Cincinnati",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure Cloud implementation",
+                "CI/CD pipeline design and implementation using GitHub Actions",
+                "Software development experience",
+                "SysAdmin/Networking",
+                "Knowledge and practical use of APM tool (Dynatrace preferred)"
+            ],
+            "primary": [
+                "Azure Cloud implementation"
+            ],
+            "secondary": [
+                "Google Cloud",
+                "SingleStore",
+                "Launch Darkly",
+                "IDP (internal developer platforms)"
+            ],
+            "all": [
+                "Azure Cloud implementation",
+                "Google Cloud",
+                "CI/CD pipeline design and implementation using GitHub Actions",
+                "Software development experience",
+                "SysAdmin/Networking",
+                "Knowledge and practical use of APM tool (Dynatrace preferred)",
+                "SingleStore",
+                "Launch Darkly",
+                "IDP (internal developer platforms)"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Awkash Kumar",
+        "email": "awkash@largeton.us",
+        "jd": "JD :: Must Haves: Must be Azure focused* Azure Cloud implementation; Google Cloud is a bonus* CI/CD pipeline design and implementation using GitHub Actions* Software development experience OR SysAdmin/Networking* Knowledge and practical use of APM tool (Dynatrace preferred) Nice to Haves is always best to have:* SingleStore* Launch Darkly* IDP (internal developer platforms",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:54:32-05:00",
+        "unique_id": "192436d759c6759a",
+        "tag": "Azure Data Engineer"
+    }
+]

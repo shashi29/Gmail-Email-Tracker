@@ -1,0 +1,76 @@
+[
+    {
+        "company": "THEMESOFT INC",
+        "job_title": "Java Technical Lead",
+        "location": "Des Moines, IA, USA",
+        "full_location": {
+            "city": "Des Moines",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite"
+            ],
+            "job_code": "",
+            "experience_required": "15-20 yrs",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                ".NET",
+                "AWD"
+            ],
+            "primary": [
+                "AWD integration",
+                "API updates",
+                "Incident ticket resolution"
+            ],
+            "secondary": [
+                "VB6",
+                "HTML",
+                "SQL",
+                "XML",
+                "REST",
+                "SOAP"
+            ],
+            "all": [
+                "Java",
+                ".NET",
+                "AWD",
+                "AWD integration",
+                "API updates",
+                "Incident ticket resolution",
+                "VB6",
+                "HTML",
+                "SQL",
+                "XML",
+                "REST",
+                "SOAP"
+            ],
+            "with_experience": [
+                "AWD integration",
+                "Java",
+                ".NET"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ashish Kumar",
+        "email": "ashish@themesoft.com",
+        "jd": "Job Title: Java Technical Lead\nLocation: Des Moines, IA :: Onsite - Locals preferred\nNeed JAVA AWD - Java dot net, 15-20 yrs experience.\nAWD integration developer not just AWD admin skills. Need strong .Net or Java skills that are prerequisites for this position.\nKey Accountabilities:\n15+ year of IT experience with Insurance domain knowledge\nWorks off the AWD Admin requirements, to perform unit testing, supports business UAT and deploy / implements BAU projects.\nConfigures and codes API Updates for the AWD ToolKit, AWD Custom Code, NSImport and NetServer. This could include VB6, JAVA, .NET, HTML, SQL, XML, REST and SOAP services, as well as integration with other peripheral TA applications.\nProvides post implementation and production support for the AWD Admin for Incident ticket resolution as needed.\nMonitors and supports AWD Custom Email, NSImport / NetServer, AWD custom code, and other peripheral AWD Applications daily.\nProvides audit support for internal TA project audits and regulatory compliance requests.\nSupports patching and coding changes for AWD related servers and infrastructure (Windows, Linux, JAVA, Microsoft updates, etc.).",
+        "emp_type": [
+            "onsite"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:18:25-05:00",
+        "unique_id": "19243bd634e767ca",
+        "tag": "Java Dev"
+    }
+]

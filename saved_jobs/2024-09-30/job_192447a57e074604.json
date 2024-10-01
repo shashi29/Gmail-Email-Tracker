@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Convex Tech Inc.",
+        "job_title": "AWS Connect Developer",
+        "location": "Washington, DC, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 Years",
+            "degree_required": "",
+            "visa_sponsorship": "No H1b/CPT",
+            "notice_period": "",
+            "duration": "Long Term Contract",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS Lex",
+                "AWS Kinesis",
+                "Amazon Connect",
+                "AWS Lambda",
+                "Python",
+                "Java"
+            ],
+            "primary": [
+                "AWS Lex",
+                "Amazon Connect"
+            ],
+            "secondary": [
+                "Dynamo DB",
+                "API Gateway",
+                "Github",
+                "AWS Codepipeline"
+            ],
+            "all": [
+                "AWS Lex",
+                "AWS Kinesis",
+                "Amazon Connect",
+                "AWS Lambda",
+                "Dynamo DB",
+                "API Gateway",
+                "Python",
+                "Java",
+                "Github",
+                "AWS Codepipeline"
+            ],
+            "with_experience": [
+                "AWS Lex",
+                "Amazon Connect",
+                "Python",
+                "Java"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjay Sunar",
+        "email": "sanjay@convextech.com",
+        "jd": "Position: Q AWS Connect Developer Location: Onsite - Washington, DC. Duration: Long Term Contract. Visa Restrictions: No H1b/CPT Interview: Video/Skype Job Description: Specialization: Cloud Infra Implementation Technical Skills with 3-5 Years Experience: AWS Lex Cloud Contact Center Implementation, AWS Kinesis, Amazon Connect, AWS Lambda Role Description: Provide functional and/or technical expertise to plan, analyze, define and support the delivery of future functional and technical capabilities for an application or group of applications. Assist in facilitating impact assessment efforts and in producing and reviewing estimates for client work requests. The Amazon Connect Developer will be responsible for developing and testing IVR contact flows under the supervision of a lead developer. The role requires experience with Amazon Connect and Lex implementations and developing integrations with 3rd party systems. Basic Qualifications Experience in developing Amazon Connect contact flows using Lex, Dynamo DB, Lambda and API Gateway (preferred in GovCloud) Hands-on AWS experience with at least 1 full life cycle Amazon Connect implementation (preferred in an Enterprise scale env) 3+ years of contact center technology experience (preferred in an Enterprise scale environment) Must have experience designing and implementing call routing using routing profiles, queues, call backs, emergency messages, hours of operations, holiday routing with dynamic messaging Must have strong programming skills in Python and Java over AWS Lambda API's. Experience with development and version control tools like Github, AWS Codepipeline.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 14:49:07-05:00",
+        "unique_id": "192447a57e074604",
+        "tag": "AWS Data Engineer"
+    }
+]

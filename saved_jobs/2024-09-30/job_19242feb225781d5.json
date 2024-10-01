@@ -1,0 +1,76 @@
+[
+    {
+        "company": "kk soft tech",
+        "job_title": "Senior Cloud Engineer",
+        "location": "Wilmington, DE, USA",
+        "full_location": {
+            "city": "Wilmington",
+            "state": "DE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "10+ years of experience in cloud engineering",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Kubernetes",
+                "Jenkins"
+            ],
+            "primary": [
+                "Cloud formation",
+                "Terraform",
+                "Docker",
+                "Container orchestration",
+                "Microservices architecture",
+                "AWS Lambda"
+            ],
+            "secondary": [
+                "Python scripting",
+                "Agile development methodologies",
+                "Automated testing and tools"
+            ],
+            "all": [
+                "AWS",
+                "Kubernetes",
+                "Jenkins",
+                "Cloud formation",
+                "Terraform",
+                "Docker",
+                "Container orchestration",
+                "Microservices architecture",
+                "AWS Lambda",
+                "Python scripting",
+                "Agile development methodologies",
+                "Automated testing and tools"
+            ],
+            "with_experience": [
+                "Cloud formation",
+                "Terraform",
+                "AWS",
+                "Kubernetes",
+                "Jenkins",
+                "Docker",
+                "Container orchestration",
+                "Microservices architecture",
+                "AWS Lambda"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "sushant kumar",
+        "email": "sushant.s@kksoftwareassociates.com",
+        "jd": "Senior Cloud Engineer with experience of migrating on prem workloads to AWS \u2022 Deploy, and maintain cloud-based systems using AWS, Kubernetes, and Jenkins\u2022 Work on AWS Cloud services like compute, storage, databases, network, application integration, monitoring & alerting, Identity & Access Management.\u2022 Work in an Infrastructure as code environment or understands it very clearly.\u2022 Gain hands-on practical experience in system design, application development, testing, and operational stability\u2022 Participate in the design and development of cloud-based solutions\u2022 Ensure the security and scalability of cloud-based systems\u2022 Build and deploy microservices on cloud-based systems Required Qualifications, Capabilities, And SKills\u2022 Experience with Cloud formation/Terraform for infrastructure as code\u2022 10+ years of experience in cloud engineering\u2022 Strong knowledge of AWS, Kubernetes, and Jenkins\u2022 Knowledge of Docker and containerization\u2022 Experience with serverless architecture and technologies such as AWS Lambda\u2022 Experience with container orchestration using Kubernetes\u2022 Understanding of microservices architecture\u2022 Familiarity with agile development methodologies Preferred Qualifications, Capabilities, And Skills\u2022 Familiar with various automated testing and tools\u2022 Proficiency in Python scripting language\u2022 Familiarity with agile development methodologies\u2022 Strong communication and collaboration skills",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 07:53:34-05:00",
+        "unique_id": "19242feb225781d5",
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Siri InfoSolutions Inc",
+        "job_title": "Azure Data Architect",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "5 years of experience",
+            "degree_required": "Bachelor's degree in Computer Information Services or a related field",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6+Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure Data Lake Storage Gen2",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "SQL Server",
+                "SSIS",
+                "PowerBI",
+                "Visual Studio",
+                "MS Office Products"
+            ],
+            "primary": [
+                "data architecture",
+                "data management",
+                "data warehousing",
+                "business intelligence"
+            ],
+            "secondary": [
+                "change management",
+                "data transformation",
+                "XML/XSLT",
+                "JSON"
+            ],
+            "all": [
+                "Azure Data Lake Storage Gen2",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "SQL Server",
+                "SSIS",
+                "PowerBI",
+                "Visual Studio",
+                "MS Office Products",
+                "data architecture",
+                "data management",
+                "data warehousing",
+                "business intelligence",
+                "change management",
+                "data transformation",
+                "XML/XSLT",
+                "JSON"
+            ],
+            "with_experience": [
+                "data warehouse",
+                "analytics focused data environments",
+                "star schemas",
+                "tabular models"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Chaitanya Nallagonda",
+        "email": "chaitanya.n@siriinfo.com",
+        "jd": "Hi Hope you are doing well. Kindly go through the below job description and let me know your interest. Job Title: Azure Data Architect Location: Remote Duration: 6+Months Contract Note: looking for Azure Data lake, Azure Data Factory, Azure Data Bricks, Medallion Architecture. Client is a leader in health services for federal employees and related customers, serving our chosen markets with low-cost offerings and best-in-class customer care, sustained by a nimble and efficient organization. The Data Architect, Data & Analytics contingent role is to advise, construct and implement the technical design for the organization\u2019s data and analytic solutions. This role will be providing key oversight and direction for the overall architecture, design and implementation to support end user data and analytic needs. This includes responsibility for input on the design of data ingestion, data management, data warehousing, data stores, data extraction and business intelligence tools. The right candidate will have an eye for understanding the needs of the business and champion enterprise data architecture and Modeling that will support execution. Skills: Review Business Requirements Documentation, Technical Design Documentation and participate in peer review cycles with technical & non-technical counterparts. Establishes and maintains documentation of programs, user guides, policies and procedures, particularly in support of the acceptance of solutions as credible to non-technical users of information. Collaborates with Business Data Analysts, Developers and Data Analysts in the development and integration of data, insights and solutions within the purview of the Data & Analytics team. Provides oversight, input, design and implementation support for new solution development, including but not limited to new data platforms, data management, primary & secondary storage environments, business intelligence solutions and service-oriented architecture. Acts as technical mentor for members of the Data & Analytics team, providing input and feedback to others. Responsible for creating and maintaining the catalog of architectural diagrams used by the team. Encourage and support a self-service architecture to promote a trusted source of distributed data and analytic capabilities and insights, leading the enterprise in its goal to be an insight-driven organization. Requirements: Bachelor\u2019s degree in Computer Information Services or a related field. 5 years of experience with enterprise data management, including hybrid and cloud environments. Proficiency with the SQL Server core data engine, SSIS, PowerBI, Visual Studio, MS Office Products and source management tools (e.g., TFS, Git). Proficiency with the following Microsoft Azure resources: Azure Data Lake Storage Gen2, Azure Data Factory, Azure Databricks, Azure SQL Database. Excellent working knowledge of relational databases such as MS SQL Server or Azure SQL Database including but not limited to indexing best practices and designing and tuning stored procedures. Experience observing change management and code promotion through non-production environments. Experience in designing systems that use XML/XSLT and/or JSON. Experience loading data stores ensuring processes are configurable, resilient, and performant. Experience working and loading into Data Lake Medallion Architecture. Ability to develop data translation objects and data processing flow using modern tools and adapt to new ones as they become available. Proven ability to work independently to coordinate and solve highly complex technical data transformation issues. Ability to effectively communicate with customers to clarify data format requirements and negotiate compromise. Requires effective communication and presentation skills. Demonstrates the ability to work and design for multiple projects. Works under minimal supervision with wide latitude for independent judgment. Preferred: 3 years of experience with data warehouse or analytics focused data environments, including star schemas, tabular models and business intelligence tools. 3 years of demonstrated experience in the Healthcare industry, with preference for experience with Healthcare Payers.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 15:01:13-05:00",
+        "unique_id": "192449ac5e86f69d",
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Data Scientist",
+        "location": "Concord, NC, USA",
+        "full_location": {
+            "city": "Concord",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "6-8 years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark",
+                "PySpark",
+                "Pandas",
+                "AWS",
+                "Microsoft Azure",
+                "MQTT",
+                "Kafka",
+                "RabbitMQ",
+                "Postman",
+                "Airflow"
+            ],
+            "primary": [
+                "Data ingestion",
+                "Data integration",
+                "Data access patterns",
+                "Data architecture solutions",
+                "Advanced Analytics Solutions",
+                "Machine learning",
+                "ETL/ELT patterns",
+                "Container orchestration"
+            ],
+            "secondary": [
+                "API connectivity",
+                "Predictive modeling",
+                "Manufacturing Pharma"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark",
+                "PySpark",
+                "Pandas",
+                "AWS",
+                "Microsoft Azure",
+                "MQTT",
+                "Kafka",
+                "RabbitMQ",
+                "Postman",
+                "Airflow",
+                "Data ingestion",
+                "Data integration",
+                "Data access patterns",
+                "Data architecture solutions",
+                "Advanced Analytics Solutions",
+                "Machine learning",
+                "ETL/ELT patterns",
+                "Container orchestration",
+                "API connectivity",
+                "Predictive modeling",
+                "Manufacturing Pharma"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Sunita Rani",
+        "email": "sunita.rani@scalable-systems.com",
+        "jd": "Role name: Data Scientist\nRole Description:\n1. Create and set best practices for data ingestion, integration, and access patterns to support both real-time and batch-based consumer data needs\n2. Assist with design and lead development on scalable, high-performance data architecture solutions that supports both the consumer side of the business as well as analytic use cases\n3. Create comprehensive documentation for design, and processes to support ongoing maintenance and knowledge sharing for both GMP and non-GMP solutions.\n4. Drive continuous data transformation to minimize technical debt\n5. Responsible for creation of test protocols / test scripts and other validation deliverables.\n6. Provide technical support to local end users on Data pipelines and Advanced Analytics Solutions developed.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 05:22:24-05:00",
+        "unique_id": "1924273887a2c6bc",
+        "tag": "AWS Data Engineer"
+    }
+]

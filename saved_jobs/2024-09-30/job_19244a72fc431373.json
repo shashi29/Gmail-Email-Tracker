@@ -1,0 +1,77 @@
+[
+    {
+        "company": "iTech US",
+        "job_title": "Oracle PL/SQL Developer with Informatica CDI & IICS Exp",
+        "location": "Maricopa, AZ, USA",
+        "full_location": {
+            "city": "Maricopa",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "Strong experience with Oracle PL/SQL, Informatica CDI, IICS",
+            "degree_required": "",
+            "visa_sponsorship": "Only H1B with PPNum Mandatory",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Oracle PL/SQL",
+                "Informatica Cloud (IICS)",
+                "Batch Script",
+                "Shell Script",
+                "Python"
+            ],
+            "primary": [
+                "Data Warehouse",
+                "Datamart"
+            ],
+            "secondary": [
+                "Informatica CDI",
+                "Star Schema",
+                "Agile",
+                "Scrum",
+                "Jira",
+                "Git",
+                "SVN",
+                "Liquidbase"
+            ],
+            "all": [
+                "Oracle PL/SQL",
+                "Informatica Cloud (IICS)",
+                "Batch Script",
+                "Shell Script",
+                "Python",
+                "Data Warehouse",
+                "Datamart",
+                "Informatica CDI",
+                "Star Schema",
+                "Agile",
+                "Scrum",
+                "Jira",
+                "Git",
+                "SVN",
+                "Liquidbase"
+            ],
+            "with_experience": [
+                "Oracle PL/SQL",
+                "Informatica CDI",
+                "Informatica Cloud (IICS)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Srikanth V",
+        "email": "srikanth.v@itechus.net",
+        "jd": "Role: Oracle PL/SQL Developer with Informatica CDI & IICS ExpLocation: Maricopa, AZ(Onsite) - MST/ PST CandidatesVisa: Only H1B with PPNum MandatoryJob Description:Oracle PL/SQL (ETL) -Informatica Cloud (IICS)Batch Script, Shell Script, PythonStrong Datawarehouse, DatamartExperience with Informatica CDI(Cloud Data Integration) & IICSKnowledge in Star Schemagile, Scrum, Jira, Git, SVN, LiquidbaseIn this role you will serve as a senior dedicated technical resource responsible for Oracle PL/SQL development for our Data Warehouse running on a Linux based Oracle 11g RAC 2 node cluster.Utilize excellent hands-on PL/SQL skills to design and implement data warehouse subject areas.Develop high performing extraction, transformation and loading (ETL) routines for loading data from our production database into the data warehouse.Create PL/SQL that performs well with large data sets, is written to scale for future growth and adheres to business rules.Effectively integrate new lines of business into the DW requiring the addition of new data sources into existing tables and data marts.Share knowledge and PL/SQL expertise and mentor team members in the design of efficient reporting queries.Team with engineering, IT and business stakeholders to support projects of varying complexity; gather reporting and data warehousing requirements, evaluate best approach and propose solutions.",
+        "source": "Email",
+        "date_posted": "2024-09-30 15:38:06-05:00",
+        "unique_id": "19244a72fc431373",
+        "tag": "Oracle DBA"
+    }
+]

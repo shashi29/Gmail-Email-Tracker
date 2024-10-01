@@ -1,0 +1,58 @@
+[
+    {
+        "company": "RBC",
+        "job_title": ".Net Azure Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".Net core",
+                "SQL"
+            ],
+            "primary": [
+                "Azure",
+                "Devops",
+                "CI/CD"
+            ],
+            "secondary": [
+                "AKS",
+                "Kubernetes"
+            ],
+            "all": [
+                "C#",
+                ".Net core",
+                "SQL",
+                "Azure",
+                "AKS",
+                "Kubernetes",
+                "Devops",
+                "CI/CD"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "kaleem",
+        "email": "kaleem@rbctechsolutions.com",
+        "jd": "Candidate should have hands on experience of 10+ years in .Net application development using Azure services. Having 8+ years of web application development using C#, .Net core, SQL, webAPI. Should have strong experience in AKS, Kubernetes, Devops, CI/CD. Design and develop high quality application design and hands on experience using Function App, ADO, AKS. In-depth knowledge of C#. Experience with APIs and API lifecycle. Experience with browser-based debugging.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:36:16-05:00",
+        "unique_id": "1924437a58959985",
+        "tag": ".NET Dev"
+    }
+]

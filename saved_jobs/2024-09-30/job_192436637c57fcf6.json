@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Capgemini",
+        "job_title": "Customer Data Platform (Segment)-CDP Engineer-C2",
+        "location": "BURBANK, CA, USA",
+        "full_location": {
+            "city": "BURBANK",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "2+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Customer Data Platform",
+                "AWS",
+                "Monitoring",
+                "Infrastructure monitoring",
+                "Terraform",
+                "Jenkins",
+                "Ansible",
+                "Python",
+                "Airflow",
+                "Postgres",
+                "SQL"
+            ],
+            "primary": [
+                "CDP platform",
+                "AWS"
+            ],
+            "secondary": [
+                "DataDog",
+                "PagerDuty",
+                "Marketing tech exposure",
+                "Game industry exposure"
+            ],
+            "all": [
+                "Customer Data Platform",
+                "AWS",
+                "Monitoring",
+                "Infrastructure monitoring",
+                "Terraform",
+                "Jenkins",
+                "Ansible",
+                "Python",
+                "Airflow",
+                "Postgres",
+                "SQL",
+                "DataDog",
+                "PagerDuty",
+                "Marketing tech exposure",
+                "Game industry exposure"
+            ],
+            "with_experience": [
+                "CDP platform",
+                "AWS",
+                "Terraform",
+                "Jenkins",
+                "Ansible",
+                "Python",
+                "Airflow",
+                "Postgres",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Santhoshi",
+        "email": "santhoshi@hanstaffing.com",
+        "jd": "Role: - Customer Data Platform (Segment)-CDP Engineer-C2 (Data Engineer with CDP) - OnsiteLocation: BURBANK, CAClient Name : CapgeminiJob Description- Candidate should have 2+ years experience with CDP platform(preference Segment or MParticle), AWS developer experience- Monitoring/Alerting/Recovery processes to ensure High availability ofCDP data processing- Infrastructure monitoring experience with tools likeDataDog/PagerDuty or similar- Experience with Terraform/Jenkins/Ansible to deploy and manageAWS infrastructure is a plus- Experience with Python/Airflow- Database knowledge (Postgres, SQL)- Marketing tech exposureOptional/nice to have:- Game industry exposure",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:20:23-05:00",
+        "unique_id": "192436637c57fcf6",
+        "tag": "AWS Data Engineer"
+    }
+]

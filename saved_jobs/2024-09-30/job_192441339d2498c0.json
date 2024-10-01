@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Nitya software solution",
+        "job_title": "Python Developer",
+        "location": "Hercules area SFO (Bay Area), USA",
+        "full_location": {
+            "city": "Hercules",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Strong Python development skills",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6 Months",
+            "rate": "$60.00/hr"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "Flask",
+                "RESTful API",
+                "NoSQL"
+            ],
+            "primary": [
+                "Python",
+                "Django",
+                "Flask"
+            ],
+            "secondary": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "all": [
+                "Python",
+                "Django",
+                "Flask",
+                "RESTful API",
+                "NoSQL",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "with_experience": [
+                "Python",
+                "Django",
+                "Flask"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Nitya",
+        "email": "ryan@nityainc.com",
+        "jd": "Python Developer (Healthcare Domain) Hercules area SFO (Bay Area) - Hybrid 6 Months $60.00/hr Strong Python Django, Flask, RESTful API, NoSQL Job Description Python developers, implement business logic into our backend python server code. Strong python development skills, and best practices in web application development with RESTful API's. Familiarity with web frameworks such as Django, Flask, and FastAPI. Some proficiency in HTML, CSS, and JavaScript (or at least how it will relate to the server side data). Experience with database design (NoSQL and relational).",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 12:56:29-05:00",
+        "unique_id": "192441339d2498c0",
+        "tag": "Python Dev"
+    }
+]

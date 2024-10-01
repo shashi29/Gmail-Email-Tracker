@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Veridian Tech Solutions, Inc.",
+        "job_title": "Full Stack Web Developer",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Golang",
+                "Java",
+                "Web Applications",
+                "Spring Boot",
+                "Angular",
+                "React",
+                "Kafka",
+                "AWS"
+            ],
+            "primary": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "React"
+            ],
+            "secondary": [
+                "NodeJS",
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "jQuery",
+                "Docker",
+                "OpenShift",
+                "Kubernetes"
+            ],
+            "all": [
+                "Python",
+                "Golang",
+                "Java",
+                "Web Applications",
+                "Spring Boot",
+                "Angular",
+                "React",
+                "Kafka",
+                "AWS",
+                "NodeJS",
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "jQuery",
+                "Docker",
+                "OpenShift",
+                "Kubernetes",
+                "Hibernate",
+                "Couchbase",
+                "DynamoDB",
+                "MongoDB",
+                "Jenkins",
+                "Cloudbees",
+                "Spinnaker"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sanyogita Dwivedi",
+        "email": "sanyogita@veridiants.com",
+        "jd": "Position: Full Stack Web Developer - with Python & Golang Exp\nLocation: Remote Domain EXP: (Healthcare Domain)Must Have: Python & Golang, Java, Web Applications, spring boot, Angular, React, Kafka, AWS (ECS, MSK, Dynamo DB, EC2, S3, Cloudwatch etcJob Description: As a full stack web developer with experience in frontend, backend, and cloud development, with expertise in Java/J2EE, Responsive Web Applications, and Cloud Technologies.Well-versed skill in the design, development, and deployment of applications for the J2EE platform using SpringBoot, Spring Core, Spring AOP, Hibernate, Kafka, JMS, Caching, Micro-Services, JUnit, Mockito.Hands-on experience in Front-End technologies like Angular, ReactJS, NodeJS, JavaScript, HTML5, CSS3, jQuery used for Responsive web page designing. Experience in all phases of Software Development Life Cycle (SDLC) \u2013 Analysis, Design, Implementation, Integration, QA methodologies, Test Strategy. Test metrics and maintenance of applications. Strong experience on software development methodologies like Waterfall, Agile, TDD, Scrum.Worked with Spring Features like Spring Boot, Spring MVC, Spring DAO,Spring Security, Spring Schedulers, Spring Cache, Spring AOP, Spring BatchExp in using Redis and HazelCast in a clustered environment. Experience in utilizing the Apache Kafka building real-time data streaming applications and pipelines.Experience with Docker, OpenShift and Kubernetes in a runtime environment, providing value in building, testing, and deploying applications on an open-source platform Experience in using Hibernate as an ORM Mapping tool like JPA Entities for mapping Java Classes using HQL.Experience with NoSQL DB using Couchbase, DynamoDB, MongoDB for storing diverse types of data, enabling efficient and flexible data management solutions.Familiarity with a range of AWS services, including AWS S3, EC2, EKS, API Gateway, AWS RDS, AWS ELB, AWS Route 53, CloudWatch,, SQS, SNS and Lambda. This experience involves setting up, configuring, and overseeing Amazon images to facilitate seamless server migration to the cloud.Experience in working with messaging systems like Kafka, Rabbit MQ. Exp in CICD pipelines to enhance the efficiency of the build and deployment procedures using Jenkins, Cloudbees, Spinnaker.Extensive Experience in retrieving and manipulating data from backend using Database SQL queries.",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:38:52-05:00",
+        "unique_id": "192439540421689e",
+        "tag": "Python Dev"
+    }
+]

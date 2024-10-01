@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Largeton Inc",
+        "job_title": "Python Developer",
+        "location": "Washington D.C., USA",
+        "full_location": {
+            "city": "Washington D.C.",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long Term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Banking experience",
+                "Excel",
+                "Documentation",
+                "Testing"
+            ],
+            "primary": [
+                "Python"
+            ],
+            "secondary": [
+                "Excel"
+            ],
+            "all": [
+                "Python",
+                "Banking experience",
+                "Excel",
+                "Documentation",
+                "Testing",
+                "Code optimization",
+                "Error handling",
+                "Version control"
+            ],
+            "with_experience": [
+                "Python",
+                "Banking experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vikrant Kaushik",
+        "email": "vikrant.kaushik@largeton.us",
+        "jd": "The Python Developer will be responsible for the following tasks: Requirement Analysis: Review and understand the existing Excel-based calculations. Identify the key functionalities and logic implemented in the Excel sheets. Collaborate with stakeholders to gather additional requirements and clarify any ambiguities. Code Conversion: Convert the Excel-based calculations to Python code, ensuring accuracy and consistency. Optimize the Python code for performance and scalability. Implement error handling and validation to ensure robustness. Documentation: Document the existing Excel-based calculations, including formulas, macros, and data flows. Create comprehensive documentation for the Python code, including code comments, user guides, and technical specifications. Maintain an organized repository of all project documentation. Testing and Validation: Develop and execute test cases to validate the accuracy and performance of the Python code. Compare the results of the Python code with the original Excel calculations to ensure consistency. Address any discrepancies and refine the code as needed. Optimization and Best Practices: Identify and implement the most efficient methods for migrating calculations from Excel to Python. Follow best practices for coding, documentation, and version control. Provide recommendations for further improvements and optimizations.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:32:35-05:00",
+        "unique_id": "19243da651695260",
+        "tag": "Python Dev"
+    }
+]

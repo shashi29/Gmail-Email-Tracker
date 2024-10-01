@@ -1,0 +1,68 @@
+[
+    {
+        "company": "United Software Group Inc.",
+        "job_title": "Microsoft CDP Data Engineer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 yrs",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long Term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "MS Customer Insights Data",
+                "Azure",
+                "data verse",
+                "Power platform",
+                "CDP"
+            ],
+            "primary": [
+                "Design",
+                "develop",
+                "implement solutions using Microsoft Customer Data Platform"
+            ],
+            "secondary": [
+                "monitor",
+                "optimize performance"
+            ],
+            "all": [
+                "MS Customer Insights Data",
+                "Azure",
+                "data verse",
+                "Power platform",
+                "CDP",
+                "data pipelines",
+                "data governance",
+                "security best practices"
+            ],
+            "with_experience": [
+                "CDP related support"
+            ]
+        },
+        "job_type": [
+            "Hybrid"
+        ],
+        "contact_person": "Santosh Kumar",
+        "email": "santosh.m@usgrpinc.com",
+        "jd": "Experience in MS Customer Insights DataExperience in MS customer insights journeyExperience in Azure, data verse and Power platformOverall experience 8-10 yrsAt least one full project experience on CDP if not certified people with 3 yrs experience in CDP related support etc work. Responsibilities: Design, develop, and implement solutions using Microsoft Customer Data Platform (CDP) to manage and analyze customer data. Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions. Integrate CDP with various data sources and ensure seamless data flow and accuracy. Develop and maintain data pipelines, ensuring data is collected, processed, and stored efficiently. Create and manage customer profiles, segments, and audiences within the CDP. Implement data governance and security best practices to protect customer data. Monitor and optimize the performance of the CDP infrastructure. Provide technical support and troubleshooting for CDP-related issues. Stay updated with the latest trends and advancements in CDP technology and best practices.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 16:01:12-05:00",
+        "unique_id": "19244bc55b2afe60",
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "company": "vkoresolutions",
+        "job_title": "AWS Developer",
+        "location": "Los Angeles CA, USA",
+        "full_location": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "12+ Years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python"
+            ],
+            "primary": [
+                "AWS Lambda",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3"
+            ],
+            "secondary": [
+                "Kafka",
+                "CI/CD",
+                "Real-Time Data Processing",
+                "Data Integration",
+                "Data Transformation",
+                "Data Storage",
+                "Data Retrieval"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD",
+                "Real-Time Data Processing",
+                "Data Integration",
+                "Data Transformation",
+                "Data Storage",
+                "Data Retrieval"
+            ],
+            "with_experience": [
+                "AWS cloud development",
+                "Managing cloud-native components",
+                "Data Processing with AWS services"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rishab",
+        "email": "rishab@vkoresolutions.com",
+        "jd": "At Least Having 12+ Years of Experience.Proficiency in Java or Python, with a strong background in developing cloud-native applications.Experience with server less architectures, specifically AWS Lambda, and familiarity with other AWS services such as API Gateway, Athena, Glue and S3.Extensive experience with AWS cloud development and managing cloud-native components.How Data is Transferred in AWS during Real-Time.Working experience on queues, Kafka.Hand on experience in Real Time Data Processing with AWS servicesStrong understanding of data integration, transformation, and processing techniques.Solid grasp of CI/CD practices and tools relevant to data engineering.In-depth understanding of data storage and retrieval mechanisms using AWS services.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 16:57:11-05:00",
+        "unique_id": "19244ef928b7e177",
+        "tag": "AWS Data Engineer"
+    }
+]

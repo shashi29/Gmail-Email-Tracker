@@ -1,0 +1,74 @@
+[
+    {
+        "company": "United Software Group",
+        "job_title": "Sr. DevOps Engineer",
+        "location": "Louisville, KY, USA",
+        "full_location": {
+            "city": "Louisville",
+            "state": "KY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "12+ Months",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "12+ Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Azure DevOps",
+                "Terraform",
+                "PostgreSQL"
+            ],
+            "primary": [
+                "Terraform",
+                "Azure",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "Power BI",
+                "Powershell",
+                "Linux",
+                "Shell Scripting",
+                ".Net"
+            ],
+            "all": [
+                "Azure",
+                "Azure DevOps",
+                "Terraform",
+                "ADO Pipelines",
+                "Power BI",
+                "Powershell",
+                "Linux",
+                "Shell Scripting",
+                "PostgreSQL",
+                "C#.Net"
+            ],
+            "with_experience": [
+                "Terraform",
+                "Azure",
+                "Azure DevOps"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Priyank",
+        "email": "priyank.s@usgrpinc.com",
+        "jd": "Hello, This is Priyank from United Software Group. Hope you\u2019re doing good. I was trying to reach you for the roles of Sr. DevOps Engineer at Louisville, KY (100% Remote Role) for 12+ Months Contract. Please have a look at the job, you may reply to this e-mail or call me directly to get in touch with me. Job Title: Sr. DevOps Engineer, Location: Louisville, KY (100% Remote Role), Duration: 12+ Months Contract. Job Description: Sr Devops Engineer update: Azure, Azure DevOps, Terraform (expert level), PostgreSQL, some Power BI and .Net knowledge. Develop terraform scripts to automate the deployment of Azure infrastructure and associated configurations. Utilize native Azure services to meet the firm's technology and resiliency requirements. Design, develop and maintain RESTful API endpoints for data retrieval and manipulation. Integrate PostgresSQL databases with Power BI to support reporting and analytics. Collaborate with stakeholders to gather requirements and translate them into technical specifications. Review and analyze existing .NET applications and implement updates to improve performance, scalability and maintainability.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:10:51-05:00",
+        "unique_id": "19243b74d7bee658",
+        "tag": ".NET Dev"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "company": "schrilltech",
+        "job_title": "Azure Active Directory B2C Architect",
+        "location": "Houston, Texas, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "Texas",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Hybrid"
+            ],
+            "job_code": "",
+            "experience_required": "Experience with Azure Active Directory B2C architecture, configuration, and administration.",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "6-12 Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure Active Directory B2C",
+                "OAuth2",
+                "OpenID Connect",
+                "SAML",
+                "Azure Key Vault",
+                "Azure Managed Identities",
+                "Azure AD Conditional Access"
+            ],
+            "primary": [
+                "Custom policies",
+                "User flows",
+                "Identity provider integration",
+                "Single Sign-On (SSO)",
+                "Token management strategies"
+            ],
+            "secondary": [
+                "Classic ASP",
+                ".NET Core",
+                "Legacy authentication systems"
+            ],
+            "all": [
+                "Azure Active Directory B2C",
+                "OAuth2",
+                "OpenID Connect",
+                "SAML",
+                "Azure Key Vault",
+                "Azure Managed Identities",
+                "Azure AD Conditional Access",
+                "Custom policies",
+                "User flows",
+                "Identity provider integration",
+                "Single Sign-On (SSO)",
+                "Token management strategies",
+                "Classic ASP",
+                ".NET Core",
+                "Legacy authentication systems",
+                "Security best practices",
+                "MFA",
+                "Secrets management",
+                "Microsoft Azure certifications",
+                "Analytical skills",
+                "Problem-solving abilities"
+            ],
+            "with_experience": [
+                "Azure Active Directory B2C",
+                "OAuth2",
+                "OpenID Connect",
+                "SAML",
+                "Azure Key Vault",
+                "Azure Managed Identities",
+                "Azure AD Conditional Access"
+            ]
+        },
+        "job_type": [
+            "Hybrid"
+        ],
+        "contact_person": "manindra",
+        "email": "manindra@schrilltech.com",
+        "jd": "Role: Azure Active Directory B2C Architect\nLocation: Houston, Texas || Hybrid\nDuration: 6-12 Months\nRequirements: Experience with Azure Active Directory B2C architecture, configuration, and administration. In-depth knowledge of custom policies, user flows, and identity provider integration. Strong experience with OAuth2, OpenID Connect, and SAML protocols. Hands-on experience with Azure Key Vault, Azure Managed Identities, and Azure AD Conditional Access. Familiarity with migrating legacy authentication systems to Azure B2C and managing hybrid environments. Experience with Single Sign-On (SSO) solutions and identity synchronization across legacy and modern apps (Classic ASP and .NET Core). Strong understanding of security best practices in user identity management, MFA, and secrets management. Ability to design and implement token management strategies across distributed systems. Excellent communication skills and the ability to collaborate with cross-functional teams. Microsoft Azure certifications (e.g., AZ-500, AZ-300) are a plus. Preferred Skills: Experience with Classic ASP and .NET Core identity management. Strong analytical skills and problem-solving abilities. Experience leading teams in complex cloud-based architecture projects.",
+        "emp_type": [
+            "Hybrid"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:23:39-05:00",
+        "unique_id": "19243e6bf5699ef9",
+        "tag": ".NET Dev"
+    }
+]

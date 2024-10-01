@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "AWS Cloud Database Administrator DBA",
+        "location": "Newark, NJ, USA",
+        "full_location": {
+            "city": "Newark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "3-5+ years",
+            "degree_required": "",
+            "visa_sponsorship": null,
+            "notice_period": "",
+            "duration": "6 months with probability of extension",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Amazon Redshift",
+                "DocumentDB",
+                "Aurora PostgreSQL",
+                "AWS CloudFormation",
+                "Terraform",
+                "Python",
+                "AWS CloudWatch",
+                "CI/CD pipelines",
+                "Jenkins"
+            ],
+            "primary": [
+                "Database administration",
+                "Infrastructure as Code",
+                "Database performance tuning"
+            ],
+            "secondary": [
+                "Backup and recovery",
+                "High availability setups",
+                "Troubleshooting"
+            ],
+            "all": [
+                "Amazon Redshift",
+                "DocumentDB",
+                "Aurora PostgreSQL",
+                "AWS CloudFormation",
+                "Terraform",
+                "Python",
+                "AWS CloudWatch",
+                "CI/CD pipelines",
+                "Jenkins",
+                "Database administration",
+                "Infrastructure as Code",
+                "Database performance tuning",
+                "Backup and recovery",
+                "High availability setups",
+                "Troubleshooting"
+            ],
+            "with_experience": [
+                "Amazon Redshift",
+                "DocumentDB",
+                "Aurora PostgreSQL",
+                "AWS CloudFormation",
+                "Terraform",
+                "Database performance tuning",
+                "Monitoring and logging tools"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Saurav Thainua",
+        "email": "sthainua@vyzeinc.com",
+        "jd": "Job Description -Title: AWS Cloud Database Administrator DBA/AWS DBALocation: Newark, NJ ,( Hybrid) Try to send NJ or NY candidate. Relocation is acceptableDuration:6 months with probability of extension)Moi: video DL copy and LinkedIN profile link Try to send banking or finance industry company What You'll Do:As an AWS Cloud Database Administrator and Infrastructure as Code Developer, you will be responsible for delivering high-quality database administration services to App/Dev Teams, including provisioning, configuration, maintenance, and optimization of Amazon Redshift, Aurora PostgreSQL and Document DB Databases using Cloud Formation Templates and Terraform. Work closely with our IT teams to assess database infrastructure, identify areas for improvement, and implement effective solutions to ensure optimal performance and reliability.In-depth knowledge of Amazon Redshift database administration, DocumentDB database administration and Aurora PostgreSQL database administration including installation, configuration, and maintenance is necessary for the position. Develop Infrastructire as Code for provisioning, configurations, and maintenance of Amazon Redshift, DocumentDB and Aurora PostgreSQL Databases according to best practices and requirements.Provide technical support and troubleshooting assistance for Database related issues and incidents.Document database configurations, procedures, and troubleshooting steps for knowledge sharing and future reference.Optimize database performance through query tuning, index optimization, and database schema refinement. Develop and implement high availability and disaster recovery solutions. What You\u2019ll Bring:Strong analytical and problem-solving skills, with the ability to diagnose and resolve complex database issues. Excellent communication and interpersonal skills, with the ability to effectively interact with internal teams are necessary.Experience with infrastructure as code (IaC) tools such as AWS CloudFormation or Terraform is a must.Proficiency in scripting with Python, lambda and Step Functions.Develop and implement backup and recovery strategies to safeguard critical data and minimize downtime. Deep understanding of database concepts and experience with Redshift, DocumentDB, Aurora PostgreSQL is a must.Experience with monitoring and logging tools, particularly AWS CloudWatch is a must.Skills in database performance tuning, backup and recovery, and high availability setups.Experience in administration, managing and optimizing databases like Redshift, DocumentDB and Aurora PostgreSQL.Use of CI/CD pipelines and tools like Jenkins to provision databases and develop solutions for developer Self Service.Several years (3-5+ years) of experience working with AWS cloud services, including experience with database administration and infrastructure development.Hands-on experience in designing, deploying, and managing cloud infrastructure.",
+        "source": "Email",
+        "date_posted": "2024-09-30 18:02:06-05:00",
+        "unique_id": "192452afe2df3ec3",
+        "tag": "AWS Data Engineer"
+    }
+]

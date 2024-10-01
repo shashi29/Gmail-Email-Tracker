@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "Java Engineer II",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Contract"
+            ],
+            "job_code": "",
+            "experience_required": "Prior Amex experience preferred.",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SpringBoot",
+                "REST Web Services",
+                "Docker"
+            ],
+            "primary": [
+                "Kafka",
+                "log4j",
+                "Gradle",
+                "Maven",
+                "Git",
+                "Unix"
+            ],
+            "secondary": [
+                "API",
+                "JavaScript",
+                "Regression Testing",
+                "Performance Testing",
+                "Integration Testing"
+            ],
+            "all": [
+                "Java",
+                "SpringBoot",
+                "Kafka",
+                "Junits",
+                "Mockito",
+                "Integration testing",
+                "Sonar Cube",
+                "log4j",
+                "Gradle",
+                "Maven",
+                "Git",
+                "Unix",
+                "API",
+                "JavaScript",
+                "REST Web Services",
+                "Docker",
+                "Regression Testing",
+                "Performance Testing"
+            ],
+            "with_experience": [
+                "Java",
+                "SpringBoot",
+                "REST Web Services",
+                "Docker"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Siva Gangadar Reddy",
+        "email": "edula.gangadar@centraprise.com",
+        "jd": "need 10+ resumes Role: Java Engineer IILocation: New York, NYHire type: ContractJob description:Job Description/Responsibilities\u2022 Candidate with prior Amex experience preferred.\u2022 Strong Experience with design and coding in Java, SpringBoot, Kafka, Junits, Mockito, Integration testing, Sonar Cube , log4j, Gradle &amp; maven, Git, Unix ,'API', 'JavaScript', 'REST Web Services', 'Docker', 'Regression & Performance Testing'.\u2022 Building out L0 and L1 Architecture and Design/Building out web service integrations to support the Fusion project.\u2022 This role will also work with Product to define Features and User Stories to be executed by delivery teams.\u2022 Finally, this position will need to be able to perform large scale System Integration Testing to confirm major releases of the complex integrations.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 15:41:03-05:00",
+        "unique_id": "19244a9df2622f0b",
+        "tag": "Java Dev"
+    }
+]

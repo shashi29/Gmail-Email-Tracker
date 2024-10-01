@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Stacknexus",
+        "job_title": "Full Stack Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "5-8 years",
+            "degree_required": "Graduate degree in Computer Science, Electronic Engineering, or related discipline",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "ReactJS",
+                "Java",
+                "Springboot",
+                "Microservices",
+                "API Management",
+                "DevOps",
+                "Kubernetes",
+                "API Gateway",
+                "Grafana",
+                "Golang",
+                "OpenTelemetry",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript"
+            ],
+            "primary": [
+                "ReactJS",
+                "Java",
+                "Springboot"
+            ],
+            "secondary": [
+                "Microservices",
+                "API Management",
+                "DevOps",
+                "Kubernetes"
+            ],
+            "all": [
+                "ReactJS",
+                "Java",
+                "Springboot",
+                "Microservices",
+                "API Management",
+                "DevOps",
+                "Kubernetes",
+                "API Gateway",
+                "Grafana",
+                "Golang",
+                "OpenTelemetry",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript"
+            ],
+            "with_experience": [
+                "ReactJS",
+                "Java",
+                "Springboot"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Tarun Sorout",
+        "email": "tarun.sorout@stacknexus.io",
+        "jd": "Full stack Developer Who are we looking for? We are looking a Java Full stack developer having overall 5-8 years of experience. Mandatory Skills: \u2022 5-8 yrs working exp on ReactJS and Java - 2 projects each of at least 1 year duration \u2022 Java and Springboot \u2022 Experienced in developing Microservices on API First approach / OpenAPISpec \u2022 Experienced with Open API Specification and creating GraphQL, gRPC and REST API's. Well versed in API Management \u2022 Gitops and DevOps Driven Development \u2022 Azure, Kubernetes, API Gateway, Grafana, Golang, OpenTelemetry (framework and toolkit designed to create and manage telemetry data such traces, logs and metrics) \u2022 Good Frontend knowledge in general (HTML, CSS, JavaScript-Frameworks, Typescript, tooling) \u2022 Excellent knowledge in React. \u2022 Experience with Micro frontends. \u2022 Good Level of English speaking Optional : \u2022 Knowledge of the E-Commerce Domain Soft skills: \u2022 Good communication skills and collaborate on cohesive teamwork. \u2022 Adaptability and problem-solving skill Qualifications \u2022 Education: Graduate degree in Computer Science, Electronic Engineering, or related discipline \u2022 Experience: 5-8 years of experience in software development",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:19:46-05:00",
+        "unique_id": "19243eb05c7beee3",
+        "tag": "Java Dev"
+    }
+]

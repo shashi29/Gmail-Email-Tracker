@@ -1,0 +1,96 @@
+[
+    {
+        "company": "VY Systems",
+        "job_title": "Data Modeler",
+        "location": "Charlotte NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "Contract"
+            ],
+            "job_code": "",
+            "experience_required": "8-12 yrs of IT experience, 4+ years strong experience in Data modelling",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Data modelling",
+                "SQL",
+                "PL/SQL",
+                "Unix Shell Scripting",
+                "Performance tuning",
+                "ETL",
+                "Data warehousing",
+                "Data migration"
+            ],
+            "primary": [
+                "Erwin",
+                "Power Designer",
+                "Snowflake",
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "secondary": [
+                "Attunity",
+                "Informatica",
+                "Data Stage",
+                "Azure Data Factory",
+                "Tableau",
+                "Oracle Goldengate",
+                "Qlik",
+                "Python",
+                "Java",
+                "Scala"
+            ],
+            "all": [
+                "Data modelling",
+                "SQL",
+                "PL/SQL",
+                "Unix Shell Scripting",
+                "Performance tuning",
+                "ETL",
+                "Data warehousing",
+                "Data migration",
+                "Erwin",
+                "Power Designer",
+                "Snowflake",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Attunity",
+                "Informatica",
+                "Data Stage",
+                "Azure Data Factory",
+                "Tableau",
+                "Oracle Goldengate",
+                "Qlik",
+                "Python",
+                "Java",
+                "Scala"
+            ],
+            "with_experience": [
+                "Data modelling",
+                "SQL",
+                "PL/SQL",
+                "Unix Shell Scripting"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "kamini",
+        "email": "kamini@vysystems.com",
+        "jd": "Data ModelerCharlotte NCContractQualificationOverall 8-12 yrs of IT experienceMust have 4+ years strong experience in Data modelling.Able to understand, analyze and design enterprise data models, and have expertise in any data modelling tool Erwin,power designer.Have created a flexible and scalable snowflake modelHave experience at least two end-to-end implementation of Snowflake cloud data warehouse.Role Required :Overall 8-12 yrs of IT experienceMust have 4+ years strong experience in Data modelling.Able to provide working hours overlap as per customer needs.Able to understand, analyze and design enterprise data model, and have expertise on any data modelling tool Erwin,power designer.Experience in designing the Canonical logical and physical data model using Erwin data modeler tool.Have expertise on SQL (PL/SQL) programming, Data-bricks SQL.Has built processes supporting data transformation, data structures, metadata, dependency and workload management.Has experience in analyzing source data, transforming data, creating mapping documents, build design documents, and data dictionary etc.Good experience in end to end Data warehousing, ETL, and BI projects.Hands on experience on any of the ETL tools like (e.g. Attunity, Informatica or Data Stage, Azure Data Factory, Tableau)Hands-on experience on at least one CDC tool: Oracle Goldengate, Qlik etc.Has Led or involved on data migration projects end to end.Proficient in Oracle database, complex PL/SQL, Unix Shell Scripting, performance tuning and troubleshootExperience with data security, data access controls and designExperience with AWS, or Azure or GCP data storage and management technologies such as S3, Blob/ADLS or Google Cloud Storage.Provide resolution to an extensive range of complicated data pipeline related problems, proactively and as issues surface.Good To HaveExperience in Snowflake Data warehouse - data modeling, ELT using Snowflake SQL, implementing complex stored Procedures and standard DWH and ETL conceptsHave created flexible and scalable snowflake modelExperience with Snowflake utilities, SnowSQL, SnowPipe and Big Data model techniques using PythonHave experience at least two end-to-end implementation of Snowflake cloud data warehouse.Snowflake advanced concepts like setting up resource monitors, RBAC controls, virtual warehouse sizing, query performance tuning, Zero copy clone, time travel and understand how to use these featuresShould have good understanding of 3NF and Star schemaPreferred to have expertise in any one of the programming language Python/Java/ScalaAble to develop and maintain documentation of the data architecture, data flow and data models of the data warehouse appropriate for various audiences. Provide directions on adoption of Cloud technologies (Snowflake) and industry best practices in the field of data warehouse architecture and modeling.Certified SnowPro (Desirable).Able to troubleshoot problems across infrastructure, platform and application domains.Should be able to provide technical leadership to large enterprise scale projects.",
+        "source": "Email",
+        "date_posted": "2024-09-30 14:32:25-05:00",
+        "unique_id": "192446b0c6175c01",
+        "tag": "AWS Data Engineer"
+    }
+]

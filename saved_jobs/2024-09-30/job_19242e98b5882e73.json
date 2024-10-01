@@ -1,0 +1,59 @@
+[
+    {
+        "company": "kk soft tech",
+        "job_title": ".Net Developer",
+        "location": "Chandler, AZ, USA",
+        "full_location": {
+            "city": "Chandler",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "Visual Basic .NET",
+                "HTML5",
+                "CSS3"
+            ],
+            "primary": [],
+            "secondary": [
+                "Kafka",
+                "MongoDB",
+                "Cloud",
+                "Agile methodologies"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "Visual Basic .NET",
+                "HTML5",
+                "CSS3",
+                "Kafka",
+                "MongoDB",
+                "Cloud",
+                "Agile methodologies"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "sushant kumar",
+        "email": "sushant.s@kksoftwareassociates.com",
+        "jd": "Job Summary \u2013 \u2022 Knowledge of .NET languages (e.g. C#, Visual Basic .NET) and HTML5/CSS3, Kafka, MongoDB & Cloud.\u2022 Understanding of Agile methodologies\u2022 Participate in requirements analysis\u2022 Collaborate with internal teams to produce software design and architecture\u2022 Write clean, scalable code using .NET programming languages\u2022 Test and deploy applications and systems.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 07:31:18-05:00",
+        "unique_id": "19242e98b5882e73",
+        "tag": ".NET Dev"
+    }
+]

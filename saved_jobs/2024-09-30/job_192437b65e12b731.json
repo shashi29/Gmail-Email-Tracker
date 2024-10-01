@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Siri InfoSolutions Inc",
+        "job_title": "GCP Admin",
+        "location": "Tennessee, TN, USA",
+        "full_location": {
+            "city": "Edison",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract to hire"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Contract to Hire",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Cloud Administration",
+                "Operation"
+            ],
+            "primary": [
+                "Backup",
+                "Archive",
+                "Recovery planning",
+                "Security",
+                "WAF rules",
+                "Load balancing"
+            ],
+            "secondary": [
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ],
+            "all": [
+                "GCP",
+                "Cloud Administration",
+                "Operation",
+                "Backup",
+                "Archive",
+                "Recovery planning",
+                "Security",
+                "WAF rules",
+                "Load balancing",
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ],
+            "with_experience": [
+                "GCP",
+                "Cloud Administration",
+                "Operation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Navneet Jha",
+        "email": "navneet.jha@siriinfo.com",
+        "jd": "Role: GCP Admin\nLocation: Tennessee, TN- onsite\nDuration: Contract to Hire\nMode: Video\nJob Details: Role name: Senior Engineer\nRole Description: Manage and support 24x7 GCP environments\nCompetencies: Digital : Cloud Administration and Operation, Digital : Google Cloud\nExperience (Years): 8-10\nEssential Skills: Manage and support 24x7 GCP environments Need to have good knowledge in Backup, Archive and Recovery planning and execution.Need to have good knowledge in Security, WAF rules and load balancing.Hands on experience with GCP and strong understanding of GCP capabilities and limitations\nDesirable Skills: GCP Certified Associate\nExperience on multi-cloud environments will be preferred.",
+        "emp_type": [
+            "contract to hire"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:09:35-05:00",
+        "unique_id": "192437b65e12b731",
+        "tag": "GCP Data Engineer"
+    }
+]

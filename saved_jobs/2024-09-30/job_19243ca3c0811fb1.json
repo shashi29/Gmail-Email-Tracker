@@ -1,0 +1,62 @@
+[
+    {
+        "company": "TCS",
+        "job_title": "GCP admin",
+        "location": "Boynton Beach, FL, USA",
+        "full_location": {
+            "city": "Boynton Beach",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "GCP administration",
+                "Backup planning",
+                "Recovery execution",
+                "Security",
+                "WAF rules",
+                "Load balancing"
+            ],
+            "primary": [
+                "GCP"
+            ],
+            "secondary": [
+                "Multi-cloud environments"
+            ],
+            "all": [
+                "GCP administration",
+                "Backup planning",
+                "Recovery execution",
+                "Security",
+                "WAF rules",
+                "Load balancing",
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ],
+            "with_experience": [
+                "GCP administration"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Shivam Singh",
+        "email": "shivam.s@twsol.com",
+        "jd": "Role name: GCP admin\nLocation: TCS - Boynton Beach, FL Onsite\nRole Description: Manage and support 24x7 GCP environments\nCompetencies: Digital : Cloud Administration and Operation, Digital : Google Cloud\nExperience (Years): 8-10\nEssential Skills: Manage and support 24x7 GCP environments. Need to have good knowledge in Backup, Archive and Recovery planning and execution. Need to have good knowledge in Security, WAF rules and load balancing. Hands on experience with GCP and strong understanding of GCP capabilities and limitations.\nDesirable Skills: GCP Certified Associate. Experience on multi-cloud environments will be preferred.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:33:45-05:00",
+        "unique_id": "19243ca3c0811fb1",
+        "tag": "GCP Data Engineer"
+    }
+]

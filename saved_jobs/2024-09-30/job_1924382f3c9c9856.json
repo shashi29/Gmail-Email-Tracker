@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Adventa Tech",
+        "job_title": "Data Engineer",
+        "location": "Manhattan NY, USA",
+        "full_location": {
+            "city": "Manhattan",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "hybrid"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT",
+                "GCP Machine Learning",
+                "GCP Data Engineering"
+            ],
+            "primary": [
+                "SQL",
+                "Python"
+            ],
+            "secondary": [
+                "Spark",
+                "DBT"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT",
+                "GCP Machine Learning",
+                "GCP Data Engineering"
+            ],
+            "with_experience": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT",
+                "GCP Machine Learning",
+                "GCP Data Engineering"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vikas Kumar",
+        "email": "vikas@adventatech.com",
+        "jd": "Data Engineer HYBRID role in Manhattan NY. Need AI Experience Job Description: Retail & pharmaceutical domain candidates preferred, banking domain candidates will not be entertained. Skill Set: SQL, Python, Spark, and DBT. Must be Certified in 2 of 3 certifications: GCP \u2013 Machine Learning, Data Engineering, and/or Cloud. PLEASE MAKE SURE THAT YOUR CANDIDATES HAVE at least 2 of the 3 OF THESE CERTIFICATIONS.",
+        "emp_type": [
+            "hybrid"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:18:52-05:00",
+        "unique_id": "1924382f3c9c9856",
+        "tag": "GCP Data Engineer"
+    }
+]

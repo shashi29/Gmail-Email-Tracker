@@ -1,0 +1,104 @@
+[
+    {
+        "company": "PiplNow LLC",
+        "job_title": "Sr. Full Stack Java Developer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "C2C",
+                "Contract"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java/J2EE",
+                "DocuSign API integration",
+                "AWS",
+                "SOAP & REST Web Services",
+                "Spring",
+                "JDBC",
+                "JPA/Hibernate"
+            ],
+            "primary": [
+                "Java/J2EE development",
+                "DocuSign API integration using WebHooks",
+                "AWS services",
+                "SOAP & REST Web Services"
+            ],
+            "secondary": [
+                "UNIX OS",
+                "Shell Scripting",
+                "PL/SQL",
+                "UML",
+                "IBM WebSphere Application Server/Liberty",
+                "Oracle RDBMS",
+                "Spring Batch",
+                "Spring Boot",
+                "Agile Methodologies"
+            ],
+            "all": [
+                "Java/J2EE development",
+                "DocuSign API integration using WebHooks",
+                "AWS",
+                "SOAP & REST Web Services",
+                "Spring",
+                "JDBC",
+                "JPA/Hibernate",
+                "JMS",
+                "Relational/Object-Oriented Modeling",
+                "Technical requirements specification",
+                "Design documentation",
+                "Troubleshooting",
+                "Team collaboration",
+                "OKTA integration",
+                "UNIX OS",
+                "Shell Scripting",
+                "PL/SQL",
+                "UML",
+                "IBM WebSphere Application Server/Liberty",
+                "Oracle RDBMS",
+                "Spring Batch",
+                "Spring Boot",
+                "Large-scale data migration",
+                "Microsoft Office Suite",
+                "Agile Methodologies"
+            ],
+            "with_experience": [
+                "Java/J2EE development",
+                "DocuSign API integration using WebHooks",
+                "AWS",
+                "SOAP & REST Web Services",
+                "Spring",
+                "JDBC",
+                "JPA/Hibernate",
+                "Relational/Object-Oriented Modeling"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Gobi",
+        "email": "gobi@piplnow.com",
+        "jd": "Client is seeking a Sr. Full Stack Java Developer with expertise in DocuSign API integration and AWS services to design, develop, and support complex Java/JEE applications. The candidate will work on DocuSign workflows integrated with multitiered Java systems, leveraging AWS and modern frameworks such as Spring and Hibernate. Responsibilities include designing and developing DocuSign API integrations using WebHooks, working with AWS services like Lambda, SQS/SNS, API Gateway, WAF, Secrets Manager, IAM, and DynamoDB, and developing complex large-scale applications using Java/J2EE, HTML/CSS, JavaScript, and SQL. implement and maintain SOAP & REST web services, Spring, JDBC, JPA/Hibernate, and JMS, collaborating with teams to ensure technical requirements are met, and providing technical documentation.",
+        "emp_type": [
+            "C2C",
+            "Contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:50:54-05:00",
+        "unique_id": "1924415b9da1aaea",
+        "tag": "Java Dev"
+    }
+]

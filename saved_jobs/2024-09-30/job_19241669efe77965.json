@@ -1,0 +1,76 @@
+[
+    {
+        "company": "ITECS",
+        "job_title": "Java CI/CD & GitHub III",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java programming",
+                "debugging",
+                "Maven",
+                "Gradle",
+                "CI tools",
+                "GitHub",
+                "Jenkins"
+            ],
+            "primary": [
+                "Java programming",
+                "CI tools",
+                "GitHub"
+            ],
+            "secondary": [
+                "Maven",
+                "Gradle",
+                "Jenkins"
+            ],
+            "all": [
+                "Java programming",
+                "debugging",
+                "Maven",
+                "Gradle",
+                "CI tools",
+                "GitHub",
+                "Jenkins"
+            ],
+            "with_experience": [
+                "Java programming",
+                "debugging",
+                "Maven",
+                "Gradle",
+                "CI tools",
+                "GitHub",
+                "Jenkins"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "Java CI/CD & GitHub III. Work Location: Phoenix, AZ (Onsite). Required skills (maximum of 6): Strong Java programming and debugging skills. Knowledge and experience in Build using maven / Gradle. Exposure on CI tools like GitHub and Jenkins.",
+        "emp_type": [
+            "onsite"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 00:28:38-05:00",
+        "unique_id": "19241669efe77965",
+        "tag": "Java Dev"
+    }
+]

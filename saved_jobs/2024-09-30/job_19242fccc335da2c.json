@@ -1,0 +1,58 @@
+[
+    {
+        "company": "SpiritAirlines",
+        "job_title": ".net developer",
+        "location": "Dania pointe, Fort Lauderdale, Florida, USA",
+        "full_location": {
+            "city": "Fort Lauderdale",
+            "state": "Florida",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "7/8 years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Csharp",
+                ".net core",
+                "web api"
+            ],
+            "primary": [
+                ".net",
+                "Coding skills"
+            ],
+            "secondary": [],
+            "all": [
+                "Csharp",
+                ".net core",
+                "web api",
+                ".net",
+                "Coding skills"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite",
+            "WFH"
+        ],
+        "contact_person": "harsha",
+        "email": "harsha@northite.com",
+        "jd": ".net developer with strong Coding skills. Need .net Candidate with Csharp/.net core/ web api with 7/8 years. Location - Dania pointe, Fort Lauderdale Next to FLL Airport. 3 days on site and 2 days WFH.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 07:51:47-05:00",
+        "unique_id": "19242fccc335da2c",
+        "tag": "NET Dev"
+    }
+]

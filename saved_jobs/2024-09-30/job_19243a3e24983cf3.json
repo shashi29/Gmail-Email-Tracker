@@ -1,0 +1,100 @@
+[
+    {
+        "company": "DMS VISIONS INC",
+        "job_title": "AWS DevOps Engineer",
+        "location": "100% Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "Only USC and GC (GC must born before 86)",
+            "notice_period": "",
+            "duration": "6+ Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "HELM",
+                "Docker",
+                "Kubernetes",
+                "ECS",
+                "EKS",
+                "CloudFormation",
+                "Terraform",
+                "Linux",
+                "Unix",
+                "CI/CD",
+                "Jenkins",
+                "GitHub Actions",
+                "AWS CI/CD",
+                "CloudWatch",
+                "Prometheus",
+                "ELK stack",
+                "C#",
+                "TypeScript"
+            ],
+            "primary": [
+                "AWS",
+                "HELM"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "ECS",
+                "EKS",
+                "CloudFormation",
+                "Terraform"
+            ],
+            "all": [
+                "AWS",
+                "HELM",
+                "Docker",
+                "Kubernetes",
+                "ECS",
+                "EKS",
+                "Artifactory",
+                "SonarQube",
+                "CloudFormation",
+                "Terraform",
+                "Linux",
+                "Unix",
+                "CI/CD",
+                "Jenkins",
+                "GitHub Actions",
+                "AWS CI/CD",
+                "CloudWatch",
+                "Prometheus",
+                "ELK stack",
+                "C#",
+                "TypeScript"
+            ],
+            "with_experience": [
+                "AWS",
+                "HELM",
+                "Docker",
+                "Kubernetes",
+                "ECS",
+                "EKS"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Gaurav Gaur",
+        "email": "gaurav@dmsvisions.com",
+        "jd": "Position: 100% AWS DevOps EngineerLocation: 100% RemoteDuration: 6+ MonthsVisa: Only USC and GC (GC must born before 86)Job Description:Contract Duration: 6+ month contractWork Environment: 100% Remote Responsibilities:Note: MUST HAVE HELM EXPERIENCE QualificationsExperience with the core AWS services, plus the specifics mentioned in this job description Experience with Docker and Kubernetes; Having used ECS or EKS Knowledge of tools like Helm, Artifactory, SonarQube, etc Experience with building or maintaining cloud-native applications Good background in Linux/Unix administration Knowledge of writing infrastructure as code (IaC) using CloudFormation or Terraform Previous exposure to large-scale systems design Proficiency in at least one language from our stack: C# TypeScript Strong notions of security best practices (e.g. using IAM Roles, KMS, etc.) Ability to troubleshoot distributed systems Responsibilities AWS DevOps Engineer will define and document best practices and strategies regarding application deployment and infrastructure maintenance Design, implement, maintain, and support platform services associated with the CI/CD pipelines Configure monitoring and alerting systems for applications and platform services Work with leadership and be accountable for aligning the team to architectural, technical, functional, and performance guidelines related to CI/CD pipelines Implement the application's CI/CD pipeline using the Jenkins, GitHub Actions or AWS CI/CD stack Write infrastructure as code using CloudFormation, CDK or similar Experience with monitoring solutions such as CloudWatch, Prometheus, and the ELK stack Experienced AWS DevOps responsible for making apps more scalable and reliable Understanding of Software Development Life Cycle and Agile methodologies Understand the current application infrastructure and suggest changes to it and oversee CI/CD pipelines to maximize productivity Exposure to Agile practices/Methodologies",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:51:56-05:00",
+        "unique_id": "19243a3e24983cf3",
+        "tag": "AWS Data Engineer"
+    }
+]

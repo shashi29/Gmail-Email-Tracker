@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Nam Info Inc",
+        "job_title": "Java Fullstack Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long Term Contract opportunity",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS"
+            ],
+            "primary": [
+                "micro-service based architecture",
+                "containerized based architecture",
+                "API Gateway"
+            ],
+            "secondary": [
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS",
+                "micro-service based architecture",
+                "containerized based architecture",
+                "API Gateway",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx"
+            ],
+            "with_experience": [
+                "Core Banking domain",
+                "Asset Management"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Manjunath",
+        "email": "manju@nam-it.com",
+        "jd": "Dear partners,Hope you are doing well.Kindly go through the Job description and share resume along with employer details and send it to manju@nam-it.com PASSPORT NO IS A MUST TO SHARE.NOTE: DO NOT CALL ME. I NEED GUYS FROM COMPLETE BANKING DOMAIN IN LATEST 5YEARS MIN OR WITH ASSET OR WEALTH MANAGEMENT.( LOCALS TO IL, ONLY)Full Stack Java Developer with Core Banking domain expLocation: Chicago, IL (Hybrid - 3 days from office)Duration: Long Term Contract opportunityNo: of roles: 3Domain Exp must: Asset Management exp (Financial Domain)First preferences for Chicago, IL location.Job Description / Requirements\u2022 Strong experience in Java, Spring boot, Angular, NodeJS, etc.\u2022 Experience working as a full stack Developer\u2022 Experience in Java, Spring Boot, Junit version upgrade and refactoring\u2022 Strong understanding on micro-service based architecture\u2022 Good experience with containerized based architecture like Openshift\u2022 Good understanding on multi-layer architecture\u2022 API Gateway\u2022 Angular 12+ , Angular Material or equivalent, RxJS or equivalent, NgRx or any redux/flux style pattern\u2022 Asset Management Exp must: - Stocks/ Equities/ Equity/ Fixed Income/ Bonds/ Cash/ Investment",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 11:21:02-05:00",
+        "unique_id": "19243e99064f4770",
+        "tag": "Java Dev"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Spar Information Systems",
+        "job_title": "Sr. Data Analyst",
+        "location": "Remote, USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "10+ Years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "12 Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries"
+            ],
+            "primary": [
+                "Azure",
+                "Snowflake",
+                "SQL Server"
+            ],
+            "secondary": [
+                "Power BI",
+                "BRD",
+                "Data Lineage"
+            ],
+            "all": [
+                "Azure",
+                "Snowflake",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "SQL Queries",
+                "Power BI",
+                "BRD",
+                "Data Lineage"
+            ],
+            "with_experience": [
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Durga Prasad",
+        "email": "durgaprasad@sparinfosys.com",
+        "jd": "Sr. Data Analyst Location : Remote12 Months+10+ Years of experience is a mustPrimary Skills : Azure,Snowflake,SQL Server (Stored Procs, SQL\u2019s, etc.), SQL QueriesSecondary Skills : Power BI, BRD, Data LineageSr. Data Analysts having strong experience in data identification and querying with standard relational and non-relational systems, along with strong knowledge of Structured and Unstructured Data.Strong Data Profiling and SQL skills to analyze the source-target data identification and generate Source \u2013 Target Mapping Sheets (STTM).Working experience in big data environments on both on-prem and cloud, such as Azure and Snowflake and reporting tools like Power BI",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:41:02-05:00",
+        "unique_id": "192443c03e792e30",
+        "tag": "Azure Data Engineer"
+    }
+]

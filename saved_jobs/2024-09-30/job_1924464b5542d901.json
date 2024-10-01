@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Synkriom",
+        "job_title": "Oracle PL/SQL Developer",
+        "location": "Maricopa, AZ, USA",
+        "full_location": {
+            "city": "Maricopa",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "senior level",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Oracle PL/SQL",
+                "ETL",
+                "Informatica Cloud (IICS)",
+                "Batch Script",
+                "Shell Script",
+                "Python",
+                "Data Warehouse",
+                "Data Mart",
+                "Star Schema"
+            ],
+            "primary": [
+                "Oracle PL/SQL",
+                "ETL"
+            ],
+            "secondary": [
+                "Informatica Cloud (IICS)",
+                "Batch Script",
+                "Shell Script",
+                "Python",
+                "Agile",
+                "Scrum",
+                "Jira",
+                "Git",
+                "SVN",
+                "Liquibase"
+            ],
+            "all": [
+                "Oracle PL/SQL",
+                "ETL",
+                "Informatica Cloud (IICS)",
+                "Batch Script",
+                "Shell Script",
+                "Python",
+                "Data Warehouse",
+                "Data Mart",
+                "Star Schema",
+                "Agile",
+                "Scrum",
+                "Jira",
+                "Git",
+                "SVN",
+                "Liquibase"
+            ],
+            "with_experience": [
+                "Oracle PL/SQL",
+                "ETL"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Shivangi Tripathi",
+        "email": "shivangi.tripathi@synkriom.com",
+        "jd": "In this role you will serve as a senior dedicated technical resource responsible for Oracle PL/SQL development for our Data Warehouse running on a Linux based Oracle 11g RAC 2 node cluster. The Data Warehouse is currently under development and you will be an integral part of its design and implementation. You will support key strategic initiatives, including the integration of new lines of business, design and implementation of data marts and subject areas, and key decisions around the future of the data warehouse. You will also be involved with the implementation of new reporting tools, new ETL routines and other projects that are core to developing and enhancing the data warehouse environment. Essential Job Functions: 1. Utilize excellent hands-on PL/SQL skills to design and implement data warehouse subject areas 2. Develop high performing extraction, transformation and loading (ETL) routines for loading data from our production database into the data warehouse. 3. Create PL/SQL that performs well with large data sets, is written to scale for future growth and adheres to business rules. 4. Effectively integrate new lines of business into the DW requiring the addition of new data sources into existing tables and data marts. 5. Share knowledge and PL/SQL expertise and mentor team members in the design of efficient reporting queries. 6. Team with engineering, IT and business stakeholders to support projects of varying complexity; gather reporting and data warehousing requirements, evaluate best approach and propose solutions.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 14:25:29-05:00",
+        "unique_id": "1924464b5542d901",
+        "tag": "Oracle DBA"
+    }
+]

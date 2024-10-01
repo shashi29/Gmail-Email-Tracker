@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Sonitalent llc",
+        "job_title": "Java Backend Application Developer",
+        "location": "NYC, NY, USA",
+        "full_location": {
+            "city": "NYC",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "Minimum of 3 years of relevant work experience as a developer.",
+            "degree_required": "Bachelor's degree in Computer Science or a related field from an accredited university.",
+            "visa_sponsorship": "USC, GC Only",
+            "notice_period": "",
+            "duration": "6 Months+",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Redhat",
+                "Spring framework",
+                "SQL",
+                "PostgreSQL",
+                "MariaDB",
+                "SQL Server"
+            ],
+            "primary": [
+                "Java",
+                "AWS",
+                "Spring framework"
+            ],
+            "secondary": [
+                "Linux",
+                "Docker",
+                "Kubernetes",
+                "Openshift"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Redhat",
+                "Spring framework",
+                "SQL",
+                "PostgreSQL",
+                "MariaDB",
+                "SQL Server",
+                "Linux",
+                "Docker",
+                "Kubernetes",
+                "Openshift",
+                "Node.js",
+                "Angular",
+                "JavaScript",
+                "React"
+            ],
+            "with_experience": [
+                "Java",
+                "AWS",
+                "Redhat",
+                "SQL",
+                "PostgreSQL",
+                "MariaDB",
+                "SQL Server"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Vivek Yadav",
+        "email": "vivek.yadav@sonitalentcorp.com",
+        "jd": "Job Title \u2013 Java Backend Application Developer Job Location -NYC, NY \u2013 Onsite from day one \u2013 Need to be local Duration - 6 Months+ Visa USC, GC Only Mode Of Interview - Phone/F2F Note - Need LinkedIn Job Description \u2013Java with AWS and Redhat .Net Exp-Backend Application Developer We are seeking a highly skilled and experienced backend developer to join our team. You will be responsible for maintaining and creating new backend components of our applications. You should have a solid understanding of various technologies and be capable of working with a diverse range of tools and frameworks. Required Qualifications: Proven experience in creating backend REST services using Java or an equivalent language. .Experience with developing stateless microservices Knowledge and experience with the Spring framework. Proficiency in SQL and working with relational databases such as MariaDB, PostgreSQL, and SQL Server. Experience with cloud database or platform and tools (Amazon RDS, Snowflake) and cloud API services A minimum of 3 years of relevant work experience as a developer. A Bachelor's degree in Computer Science or a related field from an accredited university. Experience with updating and migrating legacy services to new platforms Excellent communication skills to effectively collaborate with team members, including other developers, testers, and clients. Extra Qualifications (Nice to Have): Exposure to Linux, either as a user or administrator. Familiarity with the JBoss application or another servlet container. Experience with containerization technologies such as Docker, Kubernetes, or Openshift Frontend development skills using frameworks like Node.js, Angular, JavaScript, React, etc. Responsibilities: Develop and maintain backend REST services to support our applications using Java or equivalent languages. Design and implement efficient and scalable database schemas and queries. Collaborate with cross-functional teams to gather requirements, provide technical insights, and ensure successful project delivery. Debug and resolve issues in both the frontend and backend components of the applications. Stay up to date with emerging technologies and trends in the field and propose innovative solutions to improve our applications.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 14:21:45-05:00",
+        "unique_id": "1924461486ad4783",
+        "tag": "Java Dev"
+    }
+]

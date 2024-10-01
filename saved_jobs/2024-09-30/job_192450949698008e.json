@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Convextech inc.",
+        "job_title": "Developer/Programmer Analyst 3 (AWS Developer)",
+        "location": "Texas, USA",
+        "full_location": {
+            "city": "",
+            "state": "Texas",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "",
+            "visa_sponsorship": "Only USC/GC/EAD",
+            "notice_period": "",
+            "duration": "6-12 Month Contract",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3",
+                "Cloud Solution Architect"
+            ],
+            "primary": [
+                "Java",
+                "AWS IAM",
+                "AWS S3"
+            ],
+            "secondary": [
+                "AWS Glue",
+                "AWS Amplify",
+                "AWS MQ",
+                "SQ"
+            ],
+            "all": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3",
+                "AWS Glue",
+                "AWS Amplify",
+                "AWS MQ",
+                "SQ"
+            ],
+            "with_experience": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "MD. Raj Khan",
+        "email": "raj@convextech.com",
+        "jd": "From: Raj Khan, Convextech inc. raj@convextech.com Reply to: raj@convextech.com Hi,Hope you are doing good.!!Please let me know if you are interested in the below position.!! Position: Developer/Programmer Analyst 3 (AWS Developer)Location: Remote for Candidates Located in Texas OnlyDuration: 6-12 Month Contract Visa: Only USC/GC/EADInterview: Video Job Description:java, AWS IAM, cloud solution architect, AWS Glue, JavaScript/Python, AWS S3,AWS Amplify, AWS MQ,SQPlans, develops, tests, and documents computer programs, applying knowledge of programming techniques and computer systems. Evaluates user request for new or modified program, such as data ETL pipelines (using Python/AWS Glue) or front-end data submission app development (using Javascript/AWS Amplify). Consults with user to identify current operating procedures and clarify program objectives. Formulates plan outlining steps required to develop program, using methodologies such as structured analysis and design or object-oriented development. Participate the implementation of AWS Data Lake instance by translating program needs into technical requirements, supporting program leads in defining the long-term vision for the project, defining and implementing data governance / identity and access management policies, tracking project expenses, testing and validating new functionality, enabling program staff to use new tools, and regularly interfacing with both internal and external stakeholders. Role includes programming to implement new data feeds via API, maintaining AWS Amplify data upload platform, and implementing and maintaining crawlers and jobs in AWS Glue.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 17:25:16-05:00",
+        "unique_id": "192450949698008e",
+        "tag": "AWS Data Engineer"
+    }
+]

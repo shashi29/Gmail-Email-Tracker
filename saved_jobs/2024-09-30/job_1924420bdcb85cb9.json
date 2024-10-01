@@ -1,0 +1,69 @@
+[
+    {
+        "company": "TTDATA LLC",
+        "job_title": "AWS Snowflake Architect",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "14+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud",
+                "Snowflake",
+                "AWS Redshift",
+                "SQL",
+                "Python scripting"
+            ],
+            "primary": [
+                "AWS Cloud",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Bigdata",
+                "Spark"
+            ],
+            "all": [
+                "AWS Cloud",
+                "Snowflake",
+                "AWS Redshift",
+                "SQL",
+                "Python scripting",
+                "Bigdata",
+                "Spark"
+            ],
+            "with_experience": [
+                "AWS Cloud",
+                "Snowflake",
+                "AWS Redshift",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manikandan R",
+        "email": "mani@ttdatas.com",
+        "jd": "Role: AWS/ Snowflake Architect  Location: St. Louis, MO (Onsite) Contract Primary objective of the project: Snowflake to AWS Redshift Migration. Need the Architect to be very strong in AWS Cloud environment and proficient knowledge and strong in Snowflake as it is current state. Client facing role and need to have Excellent communication and articulation of technical features and capabilities. 12 to 15 years of experience in IT Data Warehousing 6 to 8 years of experience as solution Architect in AWS cloud environment (Redshift) Deep knowledge and hands on experience in AWS redshift services(EMR, EC2, S3, Lambda, and Snowflake) Commendable knowledge in AWS cloud services, configuration solutioning and support Must have hands on experience with cloud Data Warehouse i.e., AWS Redshift Very strong expertise in SQL queries Experience in working with various business stake holders and internal groups Very good in communication, coordination with various teams like other verticals, ops and architects Very proficient in gathering and documenting data requirements, creating Source to Target mappings, and documenting technical designs. Proficiency with python scripting Demonstrated skills with triaging, troubleshooting, and resolving technical issues Excellent communication, organization, and facilitation skills Adapting to the technology changes related to AWS migrations Nice to have Bigdata/Spark",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:10:54-05:00",
+        "unique_id": "1924420bdcb85cb9",
+        "tag": "AWS Data Engineer"
+    }
+]

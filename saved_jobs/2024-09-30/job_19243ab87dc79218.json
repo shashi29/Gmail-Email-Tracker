@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Epik Solutions (Epikso)",
+        "job_title": "Android Developer",
+        "location": "San Leandro, CA, USA",
+        "full_location": {
+            "city": "San Leandro",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "Long term",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kotlin",
+                "UI Constructs",
+                "Reactive programming",
+                "Extension functions"
+            ],
+            "primary": [
+                "Kotlin Development",
+                "Reactive Programming",
+                "Downloadable apps"
+            ],
+            "secondary": [
+                "Dependency Injection",
+                "Dagger",
+                "Retrofit",
+                "Jetpack architecture component"
+            ],
+            "all": [
+                "Java",
+                "Kotlin",
+                "UI Constructs",
+                "Reactive programming",
+                "Extension functions",
+                "Dependency Injection",
+                "Dagger",
+                "Retrofit",
+                "Jetpack architecture component"
+            ],
+            "with_experience": [
+                "Kotlin Development",
+                "Reactive Programming"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pawan Kumar",
+        "email": "pawan.kumar@epkstaffing.com",
+        "jd": "Job Title: Android Developer Location - San Leandro, CA \u2013 Onsite (ONLY LOCALS) Interview process - WeCP Test >>> F2F interview Contract: Long term Must Haves - Java, Kotlin, UI Constructs (View, Controller, Recycler), Reactive programming, Extension functions JD: \u2022 8+ years of Software Development \u2022 Fin Tech / Banking experience (nice but not necessary) Example apps in the stores \u2022 4+ years of Android development in a team or corporate/enterprise environment \u2022 3+ years of Kotlin Development, Reactive Programming, coroutines, Dependency Injection (Dagger), Retrofit and, Jetpack architecture component \u2022 Excellent communication skills",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 10:59:08-05:00",
+        "unique_id": "19243ab87dc79218",
+        "tag": "Java Dev"
+    }
+]

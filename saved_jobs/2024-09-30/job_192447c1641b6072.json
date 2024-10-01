@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Blue Ocean Ventures",
+        "job_title": "Python Data Engineer",
+        "location": "New Jersey, USA",
+        "full_location": {
+            "city": "Morris Plains",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "7+ Years",
+            "degree_required": "Engineering Degree \u2013 BE/ME/BTech/MTech/BSc/MSc",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "PYTHON",
+                "Databricks",
+                "SQL",
+                "UNIX",
+                "ETL"
+            ],
+            "primary": [
+                "Data Structures",
+                "Looker",
+                "Tableau",
+                "GIT",
+                "Jenkins",
+                "RESTful & GraphQL APIs"
+            ],
+            "secondary": [],
+            "all": [
+                "PYTHON",
+                "Databricks",
+                "SQL",
+                "UNIX",
+                "ETL",
+                "Data Structures",
+                "Looker",
+                "Tableau",
+                "GIT",
+                "Jenkins",
+                "RESTful & GraphQL APIs"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Rakesh",
+        "email": "rakesh.d@blue-oceanventures.com",
+        "jd": "As a Python Data Engineer, you will be a part of an Agile team to build healthcare applications and implement new features while adhering to the best coding development standards. Responsibilities: -Responsible for engineering solutions conformant to enterprise standards, architecture, and technologies. Provide technical expertise through a hands-on approach, developing solutions that automate testing between systems. Perform peer code reviews, merge requests and production releases. Implement design/functionality using Agile principles. Proven track record of quality software development and an ability to innovate outside of traditional architecture/software patterns when needed. A desire to collaborate in a high-performing team environment, and an ability to influence and be influenced by others. Have a quality mindset, not just code quality but also to ensure ongoing data quality by monitoring data to identify problems before they have business impact. Be entrepreneurial, business minded, ask smart questions, take risks, and champion new ideas. Take ownership and accountability.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 14:51:02-05:00",
+        "unique_id": "192447c1641b6072",
+        "tag": "Python Dev"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Siriinfo",
+        "job_title": "Data Scientist",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "6-8 years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark",
+                "PySpark",
+                "Pandas"
+            ],
+            "primary": [
+                "Data Systems Design",
+                "Machine Learning",
+                "Data Transformation",
+                "Cloud Services",
+                "ETL/ELT Patterns"
+            ],
+            "secondary": [
+                "Event-Driven Architectures",
+                "API Connectivity",
+                "Workflow Orchestration"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark",
+                "PySpark",
+                "Pandas",
+                "NoSQL",
+                "AWS",
+                "Microsoft Azure",
+                "MQTT",
+                "Kafka",
+                "RabbitMQ",
+                "OpenShift",
+                "EKS",
+                "ECS"
+            ],
+            "with_experience": [
+                "Python",
+                "SQL",
+                "Spark",
+                "PySpark",
+                "Pandas",
+                "ETL/ELT Patterns"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Dushyanth",
+        "email": "dushyanth@siriinfo.com",
+        "jd": "Hiring for Data Scientist at Raleigh, NC. Competencies: Digital : Python, Digital : PySpark. Experience (Years): 6-8. Essential Skills: \u2022 Demonstrated experience in designing and implementing complex data systems from the ground up. \u2022 Strong experience with programming languages, such as Python, SQL & Spark \u2022 Experience with building batch and streaming pipelines using complex SQL, PySpark, Pandas, and similar frameworks \u2022 Develop, refine, and optimize Advanced Analytics Solutions using machine learning models to extract insights from complex data sources. \u2022 Transform data using SQL, NoSQL, and Python. Visualizing data using a diverse tool set including but not limited to Python and R. \u2022 Experience with cloud services in AWS and/or Microsoft Azure \u2022 Experience with message brokers and event-driven architectures (e.g, MQTT, Kafka, RabbitMQ) \u2022 Experience in handling data streams, APIs, events, container orchestration products such as OpenShift, EKS, ECS. \u2022 Experience testing, troubleshooting & establishing API connectivity utilizing software documentation and tools such as Postman \u2022 Strong experience transforming data using common ETL/ELT patterns \u2022 Experience with orchestrating complex workflows and data pipelines using like Airflow or similar tools \u2022 Knowledge and/or experience in predictive modeling and machine learning is a plus. \u2022 Manufacturing Pharma experience is a plus.",
+        "emp_type": [],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:34:45-05:00",
+        "unique_id": "192435a8f2289812",
+        "tag": "Python Dev"
+    }
+]

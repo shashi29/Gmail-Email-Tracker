@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Heliogic LLC",
+        "job_title": "API Architect",
+        "location": "Alameda, CA 94502, USA",
+        "full_location": {
+            "city": "Alameda",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "API Design and Development",
+                "Architectural Guidance",
+                "Performance and Scalability",
+                "Security & Compliance"
+            ],
+            "primary": [
+                "AWS",
+                "Okta",
+                "CSRF",
+                "Access tokens"
+            ],
+            "secondary": [
+                "AWS well architected framework"
+            ],
+            "all": [
+                "API Design and Development",
+                "Architectural Guidance",
+                "Performance and Scalability",
+                "Security & Compliance",
+                "AWS",
+                "Okta",
+                "CSRF",
+                "Access tokens",
+                "AWS well architected framework"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ben",
+        "email": "ben@heliogic.com",
+        "jd": "API Architect (Only Local) Alameda, CA 94502 (5day Onsite) Key Responsibilities: API Design and Development \u2013\u2013 Lead the design, development of APIs that enable integration between various AWS components; Define API standards, best practices and guidelines to ensure consistency across APIs Architectural Guidance \u2013\u2013 Provide reviews on present AWS architecture implementation; Provide technical leadership and guidance on API architecture, design decisions, and implementation strategies; Collaborate with solution architects and development teams to integrate API solutions into larger systems or platforms Technologies and Frameworks \u2013\u2013 Use of Okta for authentication make use of CSRF and Access tokens; Knowledge of AWS well architected framework pillars Performance and Scalability \u2013\u2013 Design APIs with a focus on performance, scalability, reliability and security; Conduct performance tuning and optimization of APIs to handle high traffic and large volumes of data. Security & Compliance \u2013\u2013 Implement security measures such as authentication, authorization, encryption, and data protection mechanisms in APIs; Understand AWS SSO API working and cross role working across accounts Continuous Improvement \u2013\u2013 Stay updated on emerging technologies, industry trends, and best practices related to APIs and integration; Drive initiatives for continuous improvement of API development processes, tools, and methodologies.",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:40:09-05:00",
+        "unique_id": "19243d2cf96f3227",
+        "tag": "AWS Data Engineer"
+    }
+]

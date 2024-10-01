@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Largeton Inc",
+        "job_title": "AWS Devops Engineer",
+        "location": "Tampa, USA",
+        "full_location": {
+            "city": "Tampa",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "",
+            "degree_required": "",
+            "visa_sponsorship": "USC and GC",
+            "notice_period": "",
+            "duration": "6+ Months",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Helm",
+                "Artifactory",
+                "SonarQube",
+                "Linux/Unix",
+                "CloudFormation",
+                "Terraform",
+                "C#",
+                "TypeScript"
+            ],
+            "primary": [
+                "AWS",
+                "DevOps",
+                "Helm"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "Infrastructure as Code",
+                "Cloud-native applications"
+            ],
+            "all": [
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Helm",
+                "Artifactory",
+                "SonarQube",
+                "Linux/Unix",
+                "CloudFormation",
+                "Terraform",
+                "C#",
+                "TypeScript",
+                "CI/CD",
+                "CloudWatch",
+                "Prometheus",
+                "ELK"
+            ],
+            "with_experience": [
+                "Helm",
+                "Docker",
+                "Kubernetes",
+                "CloudFormation",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vikrant Kaushik",
+        "email": "vikrant.kaushik@largeton.us",
+        "jd": "Title: AWS Devops Engineer\nLocation: Tampa (Remote)\nDuration: 6+ Months of Contract role\nVisa: USC and GC\nMOI: Video\nClient: Ameri Steel\nNote: MUST HAVE HELM EXPERIENCE\nQualifications\n\u00b7 Experience with the core AWS services, plus the specifics mentioned in this job description\n\u00b7 Experience with Docker and Kubernetes; Having used ECS or EKS\n\u00b7 Knowledge of tools like Helm, Artifactory, SonarQube, etc\n\u00b7 Experience with building or maintaining cloud-native applications\n\u00b7 Good background in Linux/Unix administration\n\u00b7 Knowledge of writing infrastructure as code (IaC) using CloudFormation or Terraform\n\u00b7 Previous exposure to large-scale systems design\n\u00b7 Proficiency in at least one language from our stack: C# TypeScript\n\u00b7 Strong notions of security best practices (e.g. using IAM Roles, KMS, etc.)\n\u00b7 Ability to troubleshoot distributed systems\nResponsibilities\n\u00b7 AWS DevOps Engineer will define and document best practices and strategies regarding application deployment and infrastructure maintenance\n\u00b7 Design, implement, maintain, and support platform services associated with the CI/CD pipelines\n\u00b7 Configure monitoring and alerting systems for applications and platform services\n\u00b7 Work with leadership and be accountable for aligning the team to architectural, technical, functional, and performance guidelines related to CI/CD pipelines\n\u00b7 Implement the application's CI/CD pipeline using the Jenkins, GitHub Actions or AWS CI/CD stack\n\u00b7 Write infrastructure as code using CloudFormation, CDK or similar\n\u00b7 Experience with monitoring solutions such as CloudWatch, Prometheus, and the ELK stack\n\u00b7 Experienced AWS DevOps responsible for making apps more scalable and reliable\n\u00b7 Understanding of Software Development Life Cycle and Agile methodologies\n\u00b7 Understand the current application infrastructure and suggest changes to it and oversee CI/CD pipelines to maximize productivity\n\u00b7 Exposure to Agile practices/Methodologies",
+        "source": "Email",
+        "date_posted": "2024-09-30 08:51:48-05:00",
+        "unique_id": "19243333d75d884d",
+        "tag": "AWS Data Engineer"
+    }
+]

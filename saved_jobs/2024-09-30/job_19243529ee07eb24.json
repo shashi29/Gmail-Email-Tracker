@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Avance",
+        "job_title": "Python Developer",
+        "location": "Morristown, New Jersey, USA",
+        "full_location": {
+            "city": "Morristown",
+            "state": "New Jersey",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "not specified",
+            "degree_required": "",
+            "visa_sponsorship": "Only for H1Bs with PP number",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "FastAPI",
+                "Redis",
+                "Docker",
+                "Micro-services",
+                "MongoDB",
+                "Blob Storage"
+            ],
+            "primary": [
+                "Python"
+            ],
+            "secondary": [
+                "FastAPI",
+                "Docker"
+            ],
+            "all": [
+                "Python",
+                "FastAPI",
+                "Redis",
+                "Docker",
+                "Micro-services",
+                "MongoDB",
+                "Blob Storage",
+                "unit testing",
+                "async processing"
+            ],
+            "with_experience": [
+                "Python",
+                "FastAPI",
+                "Redis",
+                "Docker",
+                "Micro-services",
+                "MongoDB",
+                "Blob Storage"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinod",
+        "email": "vinod.m@avanceservices.com",
+        "jd": "Python backend developer Hybrid in Morristown, New Jersey Only for H1Bs with PP number Python backend developer with experience in creating web applications. Good at fast API framework, async processing with redis cache, unit test the code, production log code, docker, micro-services, mongo DB, blob storage.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 09:26:05-05:00",
+        "unique_id": "19243529ee07eb24",
+        "tag": "Python Dev"
+    }
+]

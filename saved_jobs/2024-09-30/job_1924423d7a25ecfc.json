@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Cyber Resource",
+        "job_title": "Senior Business Analyst",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "8 Years",
+            "degree_required": "",
+            "visa_sponsorship": "",
+            "notice_period": "",
+            "duration": "",
+            "rate": ""
+        },
+        "skills": {
+            "core": [
+                "SQL querying skills",
+                "data analysis",
+                "reporting",
+                "business intelligence",
+                "analytical skills",
+                "communication skills",
+                "interpersonal skills",
+                "business acumen",
+                "organizational skills",
+                "time management",
+                "adaptability",
+                "customer service orientation"
+            ],
+            "primary": [
+                "SQL querying skills",
+                "data analysis",
+                "reporting"
+            ],
+            "secondary": [
+                "familiarity with healthcare data"
+            ],
+            "all": [
+                "SQL querying skills",
+                "data analysis",
+                "reporting",
+                "business intelligence",
+                "analytical skills",
+                "communication skills",
+                "interpersonal skills",
+                "business acumen",
+                "organizational skills",
+                "time management",
+                "adaptability",
+                "customer service orientation",
+                "experience serving as a business analyst on data management projects",
+                "retrieve, manipulate, and combine data from multiple sources using SQL"
+            ],
+            "with_experience": [
+                "experience serving as a business analyst on data management projects",
+                "retrieve, manipulate, and combine data from multiple sources using SQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vikas",
+        "email": "vikas@cyber-resource.com",
+        "jd": "Senior Business Analyst will support DBHDS' project to design and implement a new Enterprise Data Warehouse (EDW) and data exchange. This project will replace the existing data warehouse with a new cloud architecture, integrate with a variety of source systems, and implement a Master Person Identifier (MPI) to link individuals across data sources. Report requirements will also need to be documented. This role will coordinate extensively with internal and external stakeholders to gather and document business and technical requirements, analyze business needs, and analyze and document the data to be ingested into the new data platform. Activities include: Creating data dictionaries with input from data stewards; meeting with stakeholders to document report requirements; working with the business and IT to understand and document current business processes and identifying opportunities to streamline processes and reporting. This position will also oversee quality assurance processes to ensure that the delivered solutions meet business requirements and adhere to data governance and security standards. This role requires an experienced analyst who is skilled in listening, understanding, and communicating with business and technical stakeholders. Excellent communication skills and the ability to take initiative and ownership over their work is a must.",
+        "emp_type": [
+            "contract"
+        ],
+        "source": "Email",
+        "date_posted": "2024-09-30 13:14:38-05:00",
+        "unique_id": "1924423d7a25ecfc",
+        "tag": "BA/Scrum Master/PM"
+    }
+]
