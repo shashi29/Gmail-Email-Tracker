@@ -126,28 +126,51 @@ class Location(BaseModel):
 class JobDetails(BaseModel):
     employment_type: List[str] = Field(
     default_factory=list,
-    description=(
-        "Determine the employment type(s) for the job by following this structured approach:\n\n"
-        "1. Review the job description and assess the employment details.\n"
-        "2. Apply the following criteria for each type:\n"
-        "   a) Third Party: Is the job facilitated through an external agency or is it a Corp-to-Corp (C2C) arrangement?\n"
-        "   b) Contract: Is the role temporary or project-based with a defined end date?\n"
-        "   c) Full-Time: Does the position require a standard 35-40 hours per week with traditional benefits?\n"
-        "   d) Part-Time: Are the hours fewer than full-time, typically without full benefits?\n"
-        "3. Select all applicable types from: 'third party', 'contract', 'full-time', 'part-time'.\n"
-        "4. If multiple types apply (e.g., 'third party' and 'full-time'), list all relevant types.\n"
-        "5. If no clear employment type is indicated, leave the list empty.\n"
-        "6. Note: Do NOT include 'remote', 'onsite', or 'hybrid' as these refer to work locations, not employment types.\n\n"
-        "Logical Rules:\n"
-        "- 'third party' can be combined with other types.\n"
-        "- 'contract' cannot coexist with 'full-time' or 'part-time'.\n"
-        "- 'full-time' and 'part-time' are mutually exclusive.\n"
-        "- If only 'third party' applies, include that alone.\n\n"
-        "Examples:\n"
-        "- ['third party', 'full-time']: For a full-time role through an agency or C2C.\n"
-        "- ['contract']: For a temporary or project-based role.\n"
-        "- ['full-time']: For a standard full-time job.\n"
-        "- []: When the employment type is not provided or unclear."
+    description = (
+    """Use the following decision tree to determine the employment type(s):
+    1. Third Party Assessment:
+    - Is an agency, consulting firm, or C2C arrangement mentioned?
+    - Are terms like "vendor," "consultant," or "third-party provider" used?
+    If Yes to any -> Include 'third party' in the list of types
+    Regardless of answer, proceed to step 2
+
+    2. Contract/Temporary Assessment:
+    - Is the position described as temporary, project-based, or fixed-term?
+    - Is there mention of a specific contract duration or end date?
+    - Is the role described using terms like "contractor" or "freelancer"?
+    If Yes to any -> Include 'contract' in the list of types
+    Regardless of answer, proceed to step 3
+
+    3. Full-Time Assessment:
+    - Are full-time hours (typically 35-40 per week) mentioned?
+    - Is there reference to comprehensive benefits, typical of full-time roles?
+    - Are terms like "permanent," "regular," or "full-time employee" used?
+    If Yes to any -> Include 'full-time' in the list of types
+    Regardless of answer, proceed to step 4
+
+    4. Part-Time Assessment:
+    - Is the position explicitly described as part-time?
+    - Are reduced or flexible hours mentioned?
+    - Is there indication of fewer benefits compared to full-time roles?
+    If Yes to any -> Include 'part-time' in the list of types
+    Regardless of answer, proceed to step 5
+
+    5. Compensation Structure Assessment:
+    - Is an hourly rate mentioned without clear indication of employment type?
+    - Is the compensation described as "per project" or "per assignment"?
+    If Yes to any -> Consider adding 'contract' if not already included
+    If 'contract' is added here and step 1 was Yes, consider also including 'third party'
+
+    6. Final Review:
+    - If no types have been determined, mark as "unclear"
+    - Check for logical consistency:
+        * 'third party' can coexist with any other type
+        * 'contract' can coexist with 'third party' but not with 'full-time' or 'part-time'
+        * 'full-time' and 'part-time' are mutually exclusive
+    - If any inconsistencies are found, prioritize based on the strength of the evidence in the job information
+
+    Follow this decision tree for the given job information. You may end up with multiple types (e.g., 'third party' and 'contract'), a single type, or no clear type ("unclear").
+    """
     )
     )
     

@@ -69,28 +69,51 @@ class Location(BaseModel):
 class JobDetails(BaseModel):
     employment_type: List[str] = Field(
     default_factory=list,
-    description=(
-        "Determine the employment type(s) for the job by following this structured approach:\n\n"
-        "1. Review the job description and assess the employment details.\n"
-        "2. Apply the following criteria for each type:\n"
-        "   a) Third Party: Is the job facilitated through an external agency or is it a Corp-to-Corp (C2C) arrangement?\n"
-        "   b) Contract: Is the role temporary or project-based with a defined end date?\n"
-        "   c) Full-Time: Does the position require a standard 35-40 hours per week with traditional benefits?\n"
-        "   d) Part-Time: Are the hours fewer than full-time, typically without full benefits?\n"
-        "3. Select all applicable types from: 'third party', 'contract', 'full-time', 'part-time'.\n"
-        "4. If multiple types apply (e.g., 'third party' and 'full-time'), list all relevant types.\n"
-        "5. If no clear employment type is indicated, leave the list empty.\n"
-        "6. Note: Do NOT include 'remote', 'onsite', or 'hybrid' as these refer to work locations, not employment types.\n\n"
-        "Logical Rules:\n"
-        "- 'third party' can be combined with other types.\n"
-        "- 'contract' cannot coexist with 'full-time' or 'part-time'.\n"
-        "- 'full-time' and 'part-time' are mutually exclusive.\n"
-        "- If only 'third party' applies, include that alone.\n\n"
-        "Examples:\n"
-        "- ['third party', 'full-time']: For a full-time role through an agency or C2C.\n"
-        "- ['contract']: For a temporary or project-based role.\n"
-        "- ['full-time']: For a standard full-time job.\n"
-        "- []: When the employment type is not provided or unclear."
+    description = (
+    """Use the following decision tree to determine the employment type(s):
+    1. Third Party Assessment:
+    - Is an agency, consulting firm, or C2C arrangement mentioned?
+    - Are terms like "vendor," "consultant," or "third-party provider" used?
+    If Yes to any -> Include 'third party' in the list of types
+    Regardless of answer, proceed to step 2
+
+    2. Contract/Temporary Assessment:
+    - Is the position described as temporary, project-based, or fixed-term?
+    - Is there mention of a specific contract duration or end date?
+    - Is the role described using terms like "contractor" or "freelancer"?
+    If Yes to any -> Include 'contract' in the list of types
+    Regardless of answer, proceed to step 3
+
+    3. Full-Time Assessment:
+    - Are full-time hours (typically 35-40 per week) mentioned?
+    - Is there reference to comprehensive benefits, typical of full-time roles?
+    - Are terms like "permanent," "regular," or "full-time employee" used?
+    If Yes to any -> Include 'full-time' in the list of types
+    Regardless of answer, proceed to step 4
+
+    4. Part-Time Assessment:
+    - Is the position explicitly described as part-time?
+    - Are reduced or flexible hours mentioned?
+    - Is there indication of fewer benefits compared to full-time roles?
+    If Yes to any -> Include 'part-time' in the list of types
+    Regardless of answer, proceed to step 5
+
+    5. Compensation Structure Assessment:
+    - Is an hourly rate mentioned without clear indication of employment type?
+    - Is the compensation described as "per project" or "per assignment"?
+    If Yes to any -> Consider adding 'contract' if not already included
+    If 'contract' is added here and step 1 was Yes, consider also including 'third party'
+
+    6. Final Review:
+    - If no types have been determined, mark as "unclear"
+    - Check for logical consistency:
+        * 'third party' can coexist with any other type
+        * 'contract' can coexist with 'third party' but not with 'full-time' or 'part-time'
+        * 'full-time' and 'part-time' are mutually exclusive
+    - If any inconsistencies are found, prioritize based on the strength of the evidence in the job information
+
+    Follow this decision tree for the given job information. You may end up with multiple types (e.g., 'third party' and 'contract'), a single type, or no clear type ("unclear").
+    """
     )
     )
     
@@ -439,7 +462,7 @@ class JobDetailsExtractorService:
                                 temperature=os.getenv('OPENAI_TEMPERATURE'),
                                 model_name=os.getenv('OPENAI_MODEL'),
                                 top_p=os.getenv('OPENAI_TOP_P'))        
-        # self.model = OllamaLLM(model="qwen2.5:7b-instruct-q2_K")
+        #self.model = OllamaLLM(model="qwen2.5:7b-instruct-q2_K")
 
         self.parser = JsonOutputParser(pydantic_object=JobResponse)
         
@@ -507,13 +530,17 @@ class JobDetailsExtractorService:
 if __name__ == "__main__":
     extractor = JobDetailsExtractorService()
     
-    subject = "ServiceNow Platform BA : NY or NJ  (Pay Rate : $42hr C2C Fixed)"
-    description = """  From:
-                            Deepika Dua,
-		                                   Stellar Consulting Solutions LLC                                            
-									       deepika.dua@stellarconsulting.com
-									       Reply to: Â Â deepika.dua@stellarconsulting.com
-Hello Sir,My name is Deepika & I am a recruiter at Stellar Consulting, and I came across your profile while looking for qualified candidates for ServiceNow Platform BA role. I was impressed by your experience and skills . I think you would be a great fit for this role, as you have almost all the skills & experience required for the role.Â Below are the job details for your reference.Â Job Title : ServiceNow Platform BALocation : NY/NJ or east coastDuration : Long TermÂ #Note: Look for someone from Tri-state: in and around NY/NJ, Connecticut, Philadelphia)Â Â Pay Rate : $42hr C2C Fixed)Â Job Description:Responsibilities:Requirement Gathering: Work closely with stakeholders to gather and document business requirements for ServiceNow implementations.Business Process Analysis: Analyze current processes, identify pain points, and recommend ServiceNow solutions to streamline operations and improve service delivery.Configuration & Customization Support: Collaborate with development teams to ensure the correct configuration and customization of the ServiceNow platform, including modules like ITSM, ITOM, HR Service Delivery, and others.Stakeholder Communication: Act as the liaison between business users, IT teams, and developers to ensure project goals are met on time.Testing & Validation: Assist in user acceptance testing (UAT) and post-implementation testing to validate that the system meets the agreed-upon requirements.Documentation: Prepare detailed process flow diagrams, functional specifications, and user guides to ensure all processes and solutions are well-documented.Change Management: Support organizational change management activities by helping users adopt new ServiceNow functionalities and processes.Data Analysis: Conduct data analysis to identify trends, metrics, and KPIs that can be leveraged to optimize ServiceNow usage.Training: Provide training and ongoing support to users to help them maximize the value from the Service NOW platform.Qualification:3-5 years of experience as a Business Analyst, preferably within the IT service management space.ServiceNow Certified System Administrator (CSA) is a plus.Hands-on experience with ServiceNow modules like ITSM, ITOM, CSM, or HR Service Delivery.Strong understanding of ITIL processes and experience working in an ITIL-based environment.Proficiency in JIRA, Confluence, or similar tools for managing requirements and project documentation.Familiarity with Agile methodologies and experience working in Agile environments.Â Â Â Deepika DuaSr. Technical Recruiter at Stellar Consulting Solutions, LLCPhone: +1 678-935-7075Email: deepika.dua@stellarconsulting.comLinkedIn: https://www.linkedin.com/in/deepika-dua-01845916
+    subject = "Immediate Need for  PostgreSQL DBA which is located in Plano, TX (Onsite)"
+    description = """ From:
+
+		                                   Abdul Rahman,
+
+		                                   ConvexTech                                            
+
+									       abdul.rahman@convextech.com
+
+									       Reply to: Â Â abdul.rahman@convextech.com
+								Hi,Hope you are doing great,Â Please go through the Requirement and let me know if youâ€™re interested. And if you are comfortable with the requirement please attach your updated profileÂ Position Title: PostgreSQL DBA/ArchitectLocation: Plano, TX (Onsite)Â  Expected Duration: 06 months Contract minimum possibly longer.Visa acceptance: USC or Green card Holders only.Rate:Â  $58/hr. on C2CÂ Â Job Description:Technical Requirements:â€¢ PostgreSQL database Administration, in-depth hands-on experience is a must.â€¢ Good experience PostgreSQL DBA activities.â€¢ Strong experience in PostgreSQL Performance Tuning and Optimizationâ€¢ Hands on experience backup strategy and high availability in production databasesâ€¢ Skilled at optimizing large, complicated SQL statements in PostgreSQL.â€¢ Strong experience in performance tuning on SQL queries.â€¢ Experience in table partitionsâ€¢ Strong experience in JOINS and Sub Queriesâ€¢ Skilled at optimizing large, complicated SQL statements and stored procedures, functions.â€¢ Strong with common database procedures such as upgrade, patch, recovery, migration, High Availabilityâ€¢ Ensure performance, security, and availability of databases.â€¢ Need to have strong experience in PostgreSQL HIGH Availability Solutions.â€¢ Design and develop PostgreSQL systems including statements, data modelling, tables, views, and indexes.â€¢ Knowledge of best practices when dealing with relational databases PostgreSQL.â€¢ Setting up the configuration parameters in PostgreSQL Database.Â Qualifications:â€¢ 10+ years of experience in PostgreSQL Administrationâ€¢ Extensive experience in PostgreSQL SQL and PLSQL (PG/PLSQL) Coding.â€¢ Experience in conversion of ETL mappings from Oracle to Postgres.â€¢ Good analytical and problem-solving skills for design, creation, and testing of programs.â€¢ Good communication skills to interact with team members, support personnel, and provide technical guidance and expertise to customers and management.â€¢ Good interpersonal skills to interact with customers and team members.â€¢ Ability to work in a self-directed work environment.â€¢ Ability to work in a team environment.Â ConvexTechAbdul RahmanTalent Acquisition | Staffing & RecruitmentEmail: abdul.rahman@convextech.com 11200 Broadway Suite 2743, Pearland TX 77584 USAhttps://convextech.com/Â Note: The content of this email is confidential and intended for the recipient specified in the message only. It is strictly forbidden to share any part of this message with any third party, without a written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion, so that we can ensure such a mistake does not occur in the future.Â 
 """
     
     result = extractor.extract_job_details(subject, description)
