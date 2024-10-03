@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "8+ years",
@@ -41,7 +42,9 @@
                 "Quality Management",
                 "Change Management",
                 "Conflict Resolution",
-                "Team Motivation"
+                "Team Motivation",
+                "Communication Skills",
+                "Interpersonal Skills"
             ],
             "all": [
                 "Project Management",
@@ -59,7 +62,9 @@
                 "Quality Management",
                 "Change Management",
                 "Conflict Resolution",
-                "Team Motivation"
+                "Team Motivation",
+                "Communication Skills",
+                "Interpersonal Skills"
             ],
             "with_experience": [
                 "Project Management",
@@ -79,8 +84,9 @@
         "date_posted": "2024-10-01 09:22:47-05:00",
         "unique_id": "19248782589e381d",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

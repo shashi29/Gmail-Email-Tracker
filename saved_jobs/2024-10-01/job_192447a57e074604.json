@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Convex Tech Inc",
+        "job_title": "Q AWS Connect Developer",
+        "location": "Washington, DC, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Lex",
+                "AWS Kinesis",
+                "Amazon Connect",
+                "AWS Lambda",
+                "Python",
+                "Java"
+            ],
+            "primary": [
+                "Cloud Infra Implementation",
+                "Dynamo DB",
+                "API Gateway",
+                "Github",
+                "AWS Codepipeline"
+            ],
+            "secondary": [
+                "IVR contact flows",
+                "call routing",
+                "routing profiles",
+                "queues",
+                "emergency messages",
+                "hours of operations",
+                "holiday routing",
+                "dynamic messaging"
+            ],
+            "all": [
+                "AWS Lex",
+                "AWS Kinesis",
+                "Amazon Connect",
+                "AWS Lambda",
+                "Python",
+                "Java",
+                "Cloud Infra Implementation",
+                "Dynamo DB",
+                "API Gateway",
+                "Github",
+                "AWS Codepipeline",
+                "IVR contact flows",
+                "call routing",
+                "routing profiles",
+                "queues",
+                "emergency messages",
+                "hours of operations",
+                "holiday routing",
+                "dynamic messaging"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjay Sunar",
+        "email": "sanjay@convextech.com",
+        "jd": "From: Sanjay Sunar, convextech sanjay@convextech.com Reply to: sanjay@convextech.com Position: Q AWS Connect Developer Location: Onsite - Washington, DC. Duration: Long Term Contract.Visa Restrictions: No H1b/CPT Interview: Video/Skype Job Description: Specialization: Cloud Infra Implementation Technical Skills with 3-5 Years Experience: AWS LexCloud Contact Center ImplementationAWS KinesisAmazon ConnectAWS Lambda Role Description: Provide functional and/or technical expertise to plan, analyze, define and support the delivery of future functional and technical capabilities for an application or group of applications.Assist in facilitating impact assessment efforts and in producing and reviewing estimates for client work requests.The Amazon Connect Developer will be responsible for developing and testing IVR contact flows under the supervision of a lead developer.The role requires experience with Amazon Connect and Lex implementations and developing integrations with 3rd party systems. Basic Qualifications Experience in developing Amazon Connect contact flows using Lex, Dynamo DB, Lambda and API Gateway (pref. in GovCloudHands-on AWS experience with at least 1 full life cycle Amazon Connect implementation (preferred in an Enterprise scale env)3+ years of contact center technology experience (preferred in an Enterprise scale environment)Must have experience designing and implementing call routing using routing profiles, queues, call backs, emergency messages, hours of operations, holiday routing with dynamic messagingMust have strong programming skills in Python and Java over AWS Lambda API's.Experience with development and version control tools like Github, AWS Codepipeline Thanks and Regards Sanjay SunarUS IT Recruiter |Convex Tech Inc.Email: sanjay@convextech.comLinkedin: https://www.linkedin.com/in/santosh-kumar-sunar-419601178/",
+        "source": "Email",
+        "date_posted": "2024-09-30 14:49:07-05:00",
+        "unique_id": "192447a57e074604",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "3+ years",
@@ -22,17 +23,21 @@
         },
         "skills": {
             "core": [
+                "Project Management",
                 "ServiceNow",
-                "Project Management"
+                "Banking"
             ],
             "primary": [
-                "Banking/Financial domain"
+                "Cross-functional team leadership",
+                "ServiceNow implementation"
             ],
             "secondary": [],
             "all": [
-                "ServiceNow",
                 "Project Management",
-                "Banking/Financial domain"
+                "ServiceNow",
+                "Banking",
+                "Cross-functional team leadership",
+                "ServiceNow implementation"
             ]
         },
         "job_type": [
@@ -45,8 +50,9 @@
         "date_posted": "2024-10-01 08:28:42-05:00",
         "unique_id": "1924844517e4e82e",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

@@ -10,7 +10,7 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "third party"
             ],
             "job_code": "",
             "experience_required": "10+ years",
@@ -28,6 +28,7 @@
             "primary": [
                 "Azure",
                 "Data Extraction",
+                "Software Development",
                 "Agile SDLC"
             ],
             "secondary": [
@@ -42,6 +43,7 @@
                 "Informatica",
                 "Azure",
                 "Data Extraction",
+                "Software Development",
                 "Agile SDLC",
                 "Modeling",
                 "Simulation",
@@ -60,7 +62,7 @@
         "date_posted": "2024-10-01 11:01:12-05:00",
         "unique_id": "19248d52fee63c98",
         "emp_type": [
-            "full-time"
+            "third party"
         ],
         "tag": "Azure Data Engineer"
     }

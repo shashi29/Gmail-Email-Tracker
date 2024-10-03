@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Scalable",
+        "job_title": "Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "API",
+                "NoSQL",
+                "Apache Kafka"
+            ],
+            "primary": [
+                "CI/CD"
+            ],
+            "secondary": [
+                "Microservices",
+                "Digital",
+                "GraphDB"
+            ],
+            "all": [
+                "Java",
+                "API",
+                "NoSQL",
+                "Apache Kafka",
+                "CI/CD",
+                "Microservices",
+                "Digital",
+                "GraphDB"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sunita Rani",
+        "email": "sunita.rani@scalable-systems.com",
+        "jd": "From: Sunita Rani, Scalable sunita.rani@scalable-systems.com Reply to: sunita.rani@scalable-systems.com Java Developer with Kafka, NO SQLPhoenix,AZ hould have strong experience development experience on Java/APIShould have working experience on NoSQl DB,Apache kafka, CI/CDShould be able to come in person in Phoenix office from day one.Able to learn new technologies quickly, self-driven, proactiveCompetencies:Java API Management & Microservices, Digital : NoSQL GraphDB",
+        "source": "Email",
+        "date_posted": "2024-09-30 08:56:23-05:00",
+        "unique_id": "192434b9b71670f8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

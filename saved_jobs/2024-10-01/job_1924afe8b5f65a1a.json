@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Brainbolt Consulting",
+        "job_title": "Lead Java Developer",
+        "location": "NJ, USA",
+        "full_location": {
+            "city": "",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Maven",
+                "Websphere",
+                "IBM Liberty"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Maven",
+                "Websphere",
+                "IBM Liberty"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pradeep",
+        "email": "pradeep@brainboltconsulting.com",
+        "jd": "From: Pradeep, Brainboltconsulting.com pradeep@brainboltconsulting.com Reply to: pradeep@brainboltconsulting.com Hi,Title: Lead Java DeveloperDURATION: LONG TERMHybrid on site NJJ.D: MavenJava (legacy to modern upgrades)Websphere / IBM Liberty (legacy to modern upgrades)Refactor build processes quickly and consistently Implement configuration design changesBuild and deploy to Liberty environmentWork with primary Solutions Architect and Dev Leads on project.Make sure the process is fully aligned to current processes and designs, but adjusts accordingly to move the path quickly forward.Align the build and deploy process to pipeline automation strategyHeavy focus on increasing the velocity of the",
+        "source": "Email",
+        "date_posted": "2024-10-01 16:44:08-05:00",
+        "unique_id": "1924afe8b5f65a1a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

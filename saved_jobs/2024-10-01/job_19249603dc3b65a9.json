@@ -1,0 +1,108 @@
+[
+    {
+        "company": "K&K",
+        "job_title": "Azure AWS Architect",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8 years",
+            "degree_required": "Bachelor's degree in Computer Science or related discipline",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft Azure",
+                "Snowflake",
+                "Azure SQL",
+                "ADLS2",
+                "Azure Cosmos DB",
+                "MongoDB",
+                "Cockroach DB",
+                "DataStax",
+                "Redis",
+                "Talend",
+                "NiFi",
+                "dBt",
+                "DataBricks",
+                "ADF",
+                "Tibco DV",
+                "Denodo",
+                "Starburst",
+                "Dremio",
+                "Java",
+                "Python",
+                "Linux shell",
+                "Windows Power Shell"
+            ],
+            "primary": [
+                "Data warehouse",
+                "Data lake architecture",
+                "Data management processes",
+                "ETL",
+                "Analytics tools"
+            ],
+            "secondary": [
+                "Design Patterns",
+                "Unix / Linux Basics and Commands",
+                "Strong organization and communication skills"
+            ],
+            "all": [
+                "Microsoft Azure",
+                "Snowflake",
+                "Azure SQL",
+                "ADLS2",
+                "Azure Cosmos DB",
+                "MongoDB",
+                "Cockroach DB",
+                "DataStax",
+                "Redis",
+                "Talend",
+                "NiFi",
+                "dBt",
+                "DataBricks",
+                "ADF",
+                "Tibco DV",
+                "Denodo",
+                "Starburst",
+                "Dremio",
+                "Java",
+                "Python",
+                "Linux shell",
+                "Windows Power Shell",
+                "Data warehouse",
+                "Data lake architecture",
+                "Data management processes",
+                "ETL",
+                "Analytics tools",
+                "Design Patterns",
+                "Unix / Linux Basics and Commands",
+                "Strong organization and communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sachin chaudhary",
+        "email": "sachin50@knkglobaltalents.com",
+        "jd": "Role Name: Azure AWS Architect\nLocation: Chicago, IL(Onsite)\nRole Description: At least 8 years of experience developing data and services in an enterprise and / or cloud environment\nDeep understanding of data warehouse, data lake architecture and data management processes\nHands-on expertise of multiple modern cloud storages and services such as Snowflake, Azure SQL, ADLS2, Azure Cosmos DB, MongoDB, Cockroach DB, DataStax, or Redis\nWorking experience using ETL / analytics tools such as Talend, NiFi, dBt, DataBricks, or ADF, etc\nKnowledge of on-prem / cloud data virtualization such as Tibco DV, Denodo, Starburst, or Dremio\nSkilled in variety of languages such as Java, or Python\nExperience in writing scripts for Linux shell and Windows Power Shell\nStrong organization and communication skills\nBachelors degree in Computer Science or related discipline\nCompetencies: Digital : Microsoft Azure, Digital : NoSQL Key-Value DB, Digital : Databricks, Design Patterns, Unix / Linux Basics and Commands",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:38:51-05:00",
+        "unique_id": "19249603dc3b65a9",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Lead Azure Terraform Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field (or equivalent work experience)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "DevOps",
+                "Cloud platforms",
+                "Scripting",
+                "Automation"
+            ],
+            "primary": [
+                "Azure",
+                "Bash",
+                "Python",
+                "PowerShell",
+                "Docker",
+                "Kubernetes",
+                "Monitoring tools",
+                "Logging tools"
+            ],
+            "secondary": [
+                "Prometheus",
+                "ELK Stack",
+                "Problem-solving",
+                "Communication skills",
+                "Relevant certifications"
+            ],
+            "all": [
+                "Terraform",
+                "DevOps",
+                "Cloud platforms",
+                "Scripting",
+                "Automation",
+                "Azure",
+                "Bash",
+                "Python",
+                "PowerShell",
+                "Docker",
+                "Kubernetes",
+                "Monitoring tools",
+                "Logging tools",
+                "Prometheus",
+                "ELK Stack",
+                "Problem-solving",
+                "Communication skills",
+                "Relevant certifications"
+            ],
+            "with_experience": [
+                "Terraform (7+ years)",
+                "DevOps (7+ years)",
+                "Cloud platforms (7+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "saravanaraj",
+        "email": "saravanaraj@smartitframe.com",
+        "jd": "Hi , Greeting from Smart IT Frame, Below is the great opportunity. Please have a look, if you are interested, please drop me your updated resume along with your contact information ASAP. In case you are not available please feel free to pass on this email to your friends or colleagues who might be interested. Role: Lead Azure Terraform Engineer\nLocation: Dallas, TX (Hybrid)\nDuration : Long term\nRoles and Responsibilities\nInfrastructure as Code (IaC): Develop, maintain, and optimize infrastructure code using Terraform to provision and manage cloud resources.\nAutomation: Design and implement automation scripts and processes for provisioning, configuration, and deployment of infrastructure and applications.\nCollaboration: Work closely with software development and operations teams to understand their requirements and ensure seamless integration of infrastructure changes.\nContinuous Integration/Continuous Deployment (CI/CD): Implement and maintain CI/CD pipelines to automate software deployments and releases.\nMonitoring and Logging: Set up and manage monitoring, logging, and alerting systems to proactively identify and address issues.\nSecurity: Ensure the security of infrastructure by implementing best practices and staying updated on security vulnerabilities and threats.\nPerformance Optimization: Identify and resolve performance bottlenecks and ensure high availability of systems.\nDocumentation: Maintain detailed documentation of infrastructure configurations and processes.\nQualification\nBachelor\u2019s degree in Computer Science, Information Technology, or related field (or equivalent work experience).\n7+ years of hands-on experience in DevOps, with a strong emphasis on Terraform.\nProven experience with cloud platforms (e.g., AWS, Azure). Azure will be preferred.\nProficiency in scripting and automation using languages such as Bash, Python, or PowerShell.\nFamiliarity with containerization technologies like Docker and orchestration with Kubernetes is a plus.\nKnowledge of infrastructure monitoring and logging tools (e.g., Prometheus, ELK Stack).\nStrong problem-solving skills and the ability to work effectively in a collaborative team environment.\nExcellent communication skills to interact with cross-functional teams and stakeholders.\nRelevant certifications are a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:12:16-05:00",
+        "unique_id": "1924947e9577ce12",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

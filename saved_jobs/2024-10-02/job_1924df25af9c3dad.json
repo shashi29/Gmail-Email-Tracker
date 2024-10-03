@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Heliogic LLC",
+        "job_title": "Data Engineer OR Lead Data Engineer",
+        "location": "Cincinnati, OH, USA",
+        "full_location": {
+            "city": "Cincinnati",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Information Systems, or related field (or equivalent experience)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Linux Bash Scripting",
+                "Communication"
+            ],
+            "primary": [
+                "ETL",
+                "data movement",
+                "data integration",
+                "Linux",
+                "Tomcat"
+            ],
+            "secondary": [],
+            "all": [
+                "Linux Bash Scripting",
+                "Communication",
+                "ETL",
+                "data movement",
+                "data integration",
+                "Linux",
+                "Tomcat"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ben",
+        "email": "ben@heliogic.com",
+        "jd": "From: Ben, Heliogic LLC ben@heliogic.com Reply to: ben@heliogic.com Job Title: Data Engineer OR Lead Data Engineer (Only Local)Location: Cincinnati, Ohio (5Day onsite in a week)Exprience: 12+ year Job Site: Onsite Job Summary:We are seeking a highly motivated and skilled Lead Software Engineer to team. In this role, you will support the design, implementation, and deployment of agile environment. You will work closely with stakeholders and internal teams, providing technical leadership and ensuring successful delivery of software releases. If you have expertise in *solving skills, and thrive in a collaborative, agile team environment, this could be an exciting opportunity for you. Key Responsibilities:Software Development: Design and implement new features and solutions, improve product quality, and deliver software following best practices.Agile Squad Collaboration: Participate in agile ceremonies, provide leadership and technical guidance, and contribute to continuous improvement of development processes.**Code Quality**: Develop maintainable, testable, and efficient code using best practices like test-driven development.**Collaboration**: Work closely with operations and engineering teams to drive service improvements and ensure compliance with audit requirements.**Technical Expertise**: Stay up to date with trends in IT, contribute to communities of practice, and assist in resolving technical issues for end users. Minimum Requirements:Bachelor's degree in Computer Science, Information Systems, or related field (or equivalent experience).**6+ years of experience** in engineering or IT work relevant to this role.**Linux Bash Scripting**: Experience in scripting for Linux systems.**Communication**: Excellent verbal and written communication skills. Nice to Have:Experience with **ETL, data movement, and data integration**.**Platform Skills**: Knowledge of Linux and Tomcat.",
+        "source": "Email",
+        "date_posted": "2024-10-02 10:30:19-05:00",
+        "unique_id": "1924df25af9c3dad",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

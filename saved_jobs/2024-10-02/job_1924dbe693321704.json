@@ -1,0 +1,73 @@
+[
+    {
+        "company": "DIA Software Solutions",
+        "job_title": "Full Stack .NET Lead",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET Core",
+                "SQL Server",
+                "NoSQL databases",
+                "DevSecOps",
+                "CI/CD"
+            ],
+            "primary": [
+                "cloud platforms (Azure/AWS)",
+                "performance tuning",
+                "legacy system migration",
+                "code reviews",
+                "technical solutions"
+            ],
+            "secondary": [
+                "mentoring junior developers",
+                "collaboration with cross-functional teams"
+            ],
+            "all": [
+                ".NET Core",
+                "SQL Server",
+                "NoSQL databases",
+                "DevSecOps",
+                "CI/CD",
+                "cloud platforms (Azure/AWS)",
+                "performance tuning",
+                "legacy system migration",
+                "code reviews",
+                "technical solutions",
+                "mentoring junior developers",
+                "collaboration with cross-functional teams"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kumar",
+        "email": "skumar@diasoftwaresolutions.com",
+        "jd": "From: Kumar, DIA Software Solutions skumar@diasoftwaresolutions.com Reply to: skumar@diasoftwaresolutions.com Hello,I hope you are doing well! I am reaching out to you about an exciting .Net Lead opportunity with one of our clients. Can you please review the requirements and let me know if you are interested in this position? Job Title: Full Stack .NET Lead \u2013 Migration 100% Remote Job Summary: We seek a skilled Full Stack .NET Lead to drive a legacy migration project and implement a secure DevSecOps pipeline. The ideal candidate will have strong expertise in .NET Core, SQL/NoSQL databases, and cloud platforms (Azure/AWS). You\u2019ll be responsible for refactoring legacy systems, optimizing performance, and ensuring security across the development lifecycle. As a lead, you will work closely with architects, business analysts, and cross-functional teams while mentoring junior developers. You will also conduct code reviews, provide technical solutions for complex scenarios, and ensure best practices in security and performance. Key Responsibilities:Lead migration from legacy systems to modern .NET Core architecture.Design and implement DevSecOps pipelines with CI/CD and security integration.Work with architects and other technical leads to align project goals.Conducted code reviews, refactored legacy code, and optimized performance.Could you collaborate with cross-functional teams on technical solutions?Requirements:15+ years of experience in .NET Framework, .NET Core, DevSecOps, and cloud platforms.Expertise in SQL Server, NoSQL databases, and performance tuning.Experience leading migration projects and building secure CI/CD pipelines.Strong collaboration skills with architects and technical leads. THANKS & REGARDSKUMAR | DIA SOFTWARE SOLUTIONS LLC.",
+        "source": "Email",
+        "date_posted": "2024-10-02 09:59:19-05:00",
+        "unique_id": "1924dbe693321704",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

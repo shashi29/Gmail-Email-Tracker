@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Abidi Solutions",
+        "job_title": "Azure Data Engineer",
+        "location": "Grand Rapids, MI, USA",
+        "full_location": {
+            "city": "Grand Rapids",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6-12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory",
+                "Log Analytics",
+                "Databricks",
+                "Synapse",
+                "Power BI",
+                "ADLS Gen2",
+                "GCP Cloud storage",
+                "Big Query"
+            ],
+            "primary": [
+                "Marketing Platform Experience",
+                "Google Marketing platform",
+                "Salesforce MCI",
+                "The Trade Desk",
+                "ADvendio"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure Data Factory",
+                "Log Analytics",
+                "Databricks",
+                "Synapse",
+                "Power BI",
+                "ADLS Gen2",
+                "GCP Cloud storage",
+                "Big Query",
+                "Marketing Platform Experience",
+                "Google Marketing platform",
+                "Salesforce MCI",
+                "The Trade Desk",
+                "ADvendio"
+            ],
+            "with_experience": [
+                "Azure Data Factory (5+ years)",
+                "Log Analytics (5+ years)",
+                "Databricks (5+ years)",
+                "Synapse (5+ years)",
+                "Power BI (5+ years)",
+                "ADLS Gen2 (5+ years)",
+                "GCP Cloud storage (5+ years)",
+                "Big Query (5+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shaik Mohammed",
+        "email": "smohammed@abidisolutions.com",
+        "jd": "From: shaik mohammed, www.abidisolutions.com smohammed@abidisolutions.com Reply to: smohammed@abidisolutions.com Job Title: Azure Data Engineer\nLocation: Grand Rapids MI (Hybrid)\nVisa: all visa is workable except GC-EAD, H1B, OPT, CPT and Asylum\nDuration: 6-12+ months(No GC-EAD, H1B, OPT, CPT and Asylum)\nMUST HAVE:5+ years of experience. MUST HAVE MARKETING PLATFORM EXPERIENCE and be in the area that they can work onsite.\n\nJob Responsibilities:\nDesigns, codes, tests, and implements data movement pipelines, dashboarding and analytical assets; develops system documentation according to SAFe Agile principles and industry standards.\nDesign and hands-on development on either vendor or internal applications and interfaces including Azure - Data Factory, Log Analytics, Databricks, Synapse, Power BI, ADLS Gen2, GCP Cloud storage and Big Query.\nAssist in configuration and administration of marketing platforms (Google Marketing platform, Salesforce MCI, The Trade Desk ADvendio, etc.) that the team supports.\nBuild data ingestion into and out of the above listed marketing platforms.\nGathers and implements functional and non-functional requirements including performance monitoring, alerting and code management and ensuring alignment with technology best practices and SLAs.\nPartnering with all areas of the business to gather requirements for Data and Analytics and designing solutions.\nParticipate in agile ceremonies and follow agile cadence to build, test and deliver solutions.\nDriving engagement with ITS Security and Infrastructure teams to ensure secure development and deployment of solutions.\nInterfaces with the Product Manager and IT partners at the Program level and within other Release Trains to define and estimate features for agile teams.\n\nQUALIFICATIONS:\n5+ years of Azure Data Engineering experience including some of the following: Data Factory, Log Analytics, Databricks, Synapse, Power BI, ADLS Gen2, GCP Cloud storage and Big Query\nConfiguration and administration of marketing platforms such as Google Marketing platform, Salesforce MCI, The Trade Desk, ADvendio, etc.\nData ingestion experience with Marketing Platforms is required\nMust be able to work onsite in Grand Rapids MI 3 days a week for 6-12 months",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:16:49-05:00",
+        "unique_id": "1924961aaaef7555",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

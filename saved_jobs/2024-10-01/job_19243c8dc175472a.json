@@ -1,0 +1,56 @@
+[
+    {
+        "company": "kksoftwareassociates",
+        "job_title": "Python Developer",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "CI/CD",
+                "Version control",
+                "CloudFormation",
+                "Terraform"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python",
+                "AWS",
+                "CI/CD",
+                "Version control",
+                "CloudFormation",
+                "Terraform"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Bavana",
+        "email": "bavana.g@kksoftwareassociates.com",
+        "jd": "From: Bavana, kksoftwareassociates bavana.g@kksoftwareassociates.com Reply to: bavana.g@kksoftwareassociates.com Hi all,Hope you are doing well,Essential Skills:? Experience in Python: building libraries? AWS Cloud experience? CI/CD, Version control? CloudFormation or terraform for automating cloud deployments.Desirable Skills:? Experience in Python: building libraries? AWS Cloud experience? CI/CD, Version control? CloudFormation or terraform for automating cloud deployments.",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:32:15-05:00",
+        "unique_id": "19243c8dc175472a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

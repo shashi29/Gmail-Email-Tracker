@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "10+ years",
@@ -83,7 +84,8 @@
         "date_posted": "2024-10-01 09:05:11-05:00",
         "unique_id": "19248679e1d03faa",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "Oracle DBA"
     }

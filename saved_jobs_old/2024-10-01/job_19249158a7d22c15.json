@@ -1,0 +1,77 @@
+[
+    {
+        "company": "GenSigma",
+        "job_title": "Telecom Project Manager",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1 Year",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cloud-based phone system design",
+                "Project management",
+                "Risk assessment",
+                "Documentation",
+                "Telecommunications"
+            ],
+            "primary": [
+                "Microsoft 365 integration",
+                "Direct Routing",
+                "Emergency calling",
+                "Service Level Agreements (SLA)",
+                "Multi-location deployment"
+            ],
+            "secondary": [
+                "Technical support for legacy devices",
+                "Media bypass",
+                "Endpoint management",
+                "Client communication",
+                "Cost estimation"
+            ],
+            "all": [
+                "Cloud-based phone system design",
+                "Project management",
+                "Risk assessment",
+                "Documentation",
+                "Telecommunications",
+                "Microsoft 365 integration",
+                "Direct Routing",
+                "Emergency calling",
+                "Service Level Agreements (SLA)",
+                "Multi-location deployment",
+                "Technical support for legacy devices",
+                "Media bypass",
+                "Endpoint management",
+                "Client communication",
+                "Cost estimation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Hyacinth",
+        "email": "hyacintht@gensigma.com",
+        "jd": "From: Hyacinth, GenSigma hyacintht@gensigma.com Reply to: hyacintht@gensigma.com Project Summary:To successfully migrate to a cloud-based phone service, the client is seeking professional services. The professional services firm will be instrumental in managing the discovery of all existing on-premises phone system configurations, identifying customer and team needs, identifying potentially costly or time-limiting risk areas, and developing detailed design documents for a cloud-based phone system that meets the client\u2019s requirements. Additionally, the services requested herein will assist the organization with the creation of a comprehensive and extensive planning document that will provide detailed planning for porting existing user numbers between on-premises and cloud environments. Scope of Work:Task 1: Assessment: Conduct a thorough and comprehensive assessment of the client's existing phone system and infrastructure, manage the discovery and identification of all existing on-premises phone system configurations across all client sites, identify customer and team needs, and identify potentially costly or time-limiting risk areas in alignment with the organization's business requirements and best practices.Task 2: Design Documents: Develop and deliver detailed and comprehensive design documents and an implementation plan inclusive of all client sites. Minimum Qualification (MQ):Minimum 10 years of verifiable experience designing phone system solutions for multi-location organizations with at least 3,000 users. Examples of acceptable verifiable documentation include:Detailed Purchase Order/invoicesClient letter on company letterhead/emailThe documentation must confirm the following details: (a) project scope, (b) project cost, (c) project start and end dates, and (d) client name. Business Requirements:Transition 90% or more of the current phone system endpoints to a cloud-based system that meets the client\u2019s requirements.Proposed service provider should be a Tier 1 Local Exchange Carrier (LEC) with coverage across the seven Northern California counties in which the client operates.Proposed solution must support a distributed deployment to over 60 locations and provide local, secondary, and tertiary redundancy for call routing.Proposed solution should be capable of Microsoft 365 integration to facilitate \u201cDial by Name\u201d and full integration with existing Identity and Directory systems to ensure up-to-date contact information is accessible and used at all times.Solution must support Direct Routing to enable a seamless transition from the existing Avaya infrastructure.Phone number porting of existing DIDs is required. The client will not accept new phone numbers.Maintain 5-digit dialing wherever possible during migration and once the solution is fully implemented.Subject matter expert to provide technical support for legacy digital and analog devices via Direct Routing using SBC & media gateways.Control calling plans by policy, based on individual user requirements (Domestic local vs. Long-distance/International).Emergency calling and location-based routing must be identified and prioritized based on the precise physical location of the facility where the call originated. Example: a 911 call made from Moccasin, California, must route to local 911 emergency services and provide geographical location to emergency and law enforcement services to the facility in Moccasin, where the call originated.Where appropriate, media bypass should be used to optimize network traffic.Since the cultural transition to \u201csoft phones\u201d will vary by site and user persona group, the client should be able to increase/decrease endpoint count on demand.Provide a consistent and seamless solution across all client sites, with a single support model and centralized management and administration.Service Level Agreements (SLA) must align with the operation requirements of each client facility and will be further defined once the final phone system architecture is completed. Generally, response time during an unexpected outage should be no more than one (1) hour, with disruption to service being no more than one (1) business day. Design must consider resiliency for critical facilities and operations that will ultimately define SLAs.",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:11:51-05:00",
+        "unique_id": "19249158a7d22c15",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "company": "KK Associates LLC",
+        "job_title": "GCP Admin",
+        "location": "Tennessee, TN, USA",
+        "full_location": {
+            "city": "Tennessee",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Cloud Administration",
+                "Backup",
+                "Archive",
+                "Recovery planning",
+                "Security",
+                "WAF rules",
+                "Load balancing"
+            ],
+            "primary": [
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Cloud Administration",
+                "Backup",
+                "Archive",
+                "Recovery planning",
+                "Security",
+                "WAF rules",
+                "Load balancing",
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "HariPrasath Asokan",
+        "email": "hari.ak@kksoftwareassociates.com",
+        "jd": "Hi, This is Hari from kk associates, Below Position is Immediate Position from the Client Kindly share Suitable resumes to hari.ak@kksoftwareassociates.com.\n\nGCP Admin\nLocation: Tennessee, TN\nHire Type: Contract\n\nJob Description:\nRole Description: Manage and support 24x7 GCP environments\nCompetencies: Digital : Cloud Administration and Operation, Digital : Google Cloud\nExperience (Years): 8-10\nEssential Skills: Manage and support 24x7 GCP environments Need to have good knowledge in Backup, Archive and Recovery planning and execution. Need to have good knowledge in Security, WAF rules and load balancing. Hands on experience with GCP and strong understanding of GCP capabilities and limitations\nDesirable Skills: GCP Certified Associate Experience on multi-cloud environments will be preferred",
+        "source": "Email",
+        "date_posted": "2024-09-30 16:45:06-05:00",
+        "unique_id": "192450bdc64bcb15",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Metasysinc",
+        "job_title": "Sr. Java Developer",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL"
+            ],
+            "primary": [
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD"
+            ],
+            "secondary": [
+                "DevOps practices"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL",
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD",
+                "DevOps practices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Murali",
+        "email": "mkrishna@metasysinc.com",
+        "jd": "From: Murali, Metasysinc mkrishna@metasysinc.com Reply to: mkrishna@metasysinc.com Title: Sr. Java Developer\nDuration: 6+months\nLocation: Parsippany, NJ (onsite)- In-person interview\nSr. Java Developer knowledgeable in Spring Framework, Spring Boot, and SQL\nResponsibilities\nDevelop, test, and maintain Java applications using Spring Framework and Spring Boot.\nImplement and optimize SQL queries for application functionality.\nCollaborate with cross-functional teams to design and implement new features.\nManage application deployment and support in a CI/CD environment.\nTroubleshoot and resolve production issues.\nRequirements\nStrong proficiency in Java, Spring Framework, Spring Boot, and SQL.\nFamiliarity with OpenShift, WebLogic Application Server, and Oracle SQL.\nExperience with Jenkins and CI/CD pipeline integration.\nUnderstanding of DevOps practices.\nAbility to work independently and meet project deadlines.",
+        "source": "Email",
+        "date_posted": "2024-10-02 08:36:21-05:00",
+        "unique_id": "1924d718ae0580eb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

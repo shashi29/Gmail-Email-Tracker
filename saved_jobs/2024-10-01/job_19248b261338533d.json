@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Minimum years experience",
@@ -27,19 +28,16 @@
                 "SQL"
             ],
             "primary": [
-                "Desktop Applications"
+                "Desktop Applications",
+                "Team Collaboration"
             ],
-            "secondary": [
-                "Teamwork",
-                "Research"
-            ],
+            "secondary": [],
             "all": [
                 "C#",
                 ".NET",
                 "SQL",
                 "Desktop Applications",
-                "Teamwork",
-                "Research"
+                "Team Collaboration"
             ]
         },
         "job_type": [
@@ -52,8 +50,9 @@
         "date_posted": "2024-10-01 10:24:14-05:00",
         "unique_id": "19248b261338533d",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": ".NET Dev"
+        "tag": ".net developer"
     }
 ]

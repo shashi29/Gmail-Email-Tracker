@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Agile Enterprise Solutions Inc.",
+        "job_title": "SingleStore DBA with Python Programming",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SingleStore",
+                "Python",
+                "Database Administration"
+            ],
+            "primary": [
+                "Database Performance Tuning",
+                "Backup and Recovery",
+                "Database Security",
+                "Query Optimization"
+            ],
+            "secondary": [
+                "Vertica",
+                "MySQL",
+                "Oracle",
+                "AWS",
+                "Distributed Databases",
+                "DevOps",
+                "Data Warehousing",
+                "ETL"
+            ],
+            "all": [
+                "SingleStore",
+                "Python",
+                "Database Administration",
+                "Database Performance Tuning",
+                "Backup and Recovery",
+                "Database Security",
+                "Query Optimization",
+                "Vertica",
+                "MySQL",
+                "Oracle",
+                "AWS",
+                "Distributed Databases",
+                "DevOps",
+                "Data Warehousing",
+                "ETL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Irfan Shaik",
+        "email": "irfan_shaik@aesincus.com",
+        "jd": "Hello,ROLE: SingleStore DBA with Python ProgrammingLocation: Austin, TX| Onsite Job Summary: We are looking for a skilled SingleStore DBA with Python Programming expertise. The successful candidate will be responsible for managing and maintaining our SingleStore database environment, ensuring its optimal performance, security, and availability. This role involves database performance tuning, monitoring, backup and recovery, and data integrity. The ideal candidate will have a strong background in SingleStore database administration and utilize Python programming skills to develop scripts and tools that automate routine tasks and enhance database efficiency.Key Responsibilities:Install, configure, and maintain SingleStore database systems.Monitor database performance, implement performance tuning, and optimize queries.Ensure high availability and disaster recovery of database systems.Develop, test, and deploy backup and recovery plans.Implement and maintain database security policies and procedures.Create and maintain database documentation, including data models, schemas, and procedures.Develop Python scripts to automate database management tasks and enhance operational efficiency.Troubleshoot and resolve database-related issues and provide support to development teams.Collaborate with other IT professionals and stakeholders to ensure seamless integration of database systems with other applications.Stay updated with the latest industry trends and best practices in database management and Python programming.Qualifications:Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.Proven experience as a Database Administrator, specifically with SingleStore.Strong proficiency in Python programming, with experience in writing scripts for database management and automation.In-depth knowledge of database performance tuning, query optimization, and troubleshooting.Experience with database backup and recovery procedures.Familiarity with database security best practices.Excellent problem-solving skills and attention to detail.Strong communication and collaboration skills.Ability to work independently and manage multiple tasks effectively.Preferred Qualifications:Experience with other RDBMS database systems (e.g., Vertica, MySQL, Oracle).Familiarity with cloud-based database solutions and infrastructure (e.g., AWS).Experience with managing Distributed databases.Experience with DevOps tools and practices.Knowledge of data warehousing and ETL processes.",
+        "source": "Email",
+        "date_posted": "2024-10-01 09:41:16-05:00",
+        "unique_id": "19248ba5c831fc2e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

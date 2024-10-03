@@ -1,0 +1,87 @@
+[
+    {
+        "company": "SoniTalent Corporation",
+        "job_title": "Lead DevOps Engineer",
+        "location": "Timonium, MD, USA",
+        "full_location": {
+            "city": "Timonium",
+            "state": "MD",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, Engineering, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform",
+                "CI/CD",
+                "Infrastructure as Code",
+                "Monitoring",
+                "Scripting"
+            ],
+            "primary": [
+                "Terraform",
+                "Ansible",
+                "Kubernetes",
+                "Python",
+                "Bash"
+            ],
+            "secondary": [
+                "ArgoCD",
+                "Jenkins",
+                "TravisCI",
+                "Prometheus",
+                "Grafana",
+                "OpenShift Certification",
+                "AWS Certified DevOps Engineer"
+            ],
+            "all": [
+                "Google Cloud Platform",
+                "CI/CD",
+                "Infrastructure as Code",
+                "Monitoring",
+                "Scripting",
+                "Terraform",
+                "Ansible",
+                "Kubernetes",
+                "Python",
+                "Bash",
+                "ArgoCD",
+                "Jenkins",
+                "TravisCI",
+                "Prometheus",
+                "Grafana",
+                "OpenShift Certification",
+                "AWS Certified DevOps Engineer"
+            ],
+            "with_experience": [
+                "Google Cloud Platform (5+ years)",
+                "CI/CD tools (5+ years)",
+                "Infrastructure as Code tools (5+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bhuwan Tiwari",
+        "email": "bhuwan.tiwari@sonitalentcorp.com",
+        "jd": "From: bhuwan tiwari, Sonitalentcorp bhuwan.tiwari@sonitalentcorp.com Reply to: bhuwan.tiwari@sonitalentcorp.com Job Title: Lead DevOps EngineerLocation: Timonium, MD \u2013 onsite from first day ( Local )Duration: 6+ monthsInterview: Phone/ Skype-2Rounds Visa: NoH1B, CPT &OPTLinkedin Must haveJob Description:We are seeking a highly skilled and experienced Lead DevOps Engineer with expertise in Google Cloud Platform (GCP) to join our Dynamic Team. The Ideal candidate will lead our DevOps Initiatives, ensuring efficieant development operations that balance service reliability and delivery speed.Lead DevOps Initiatives: Oversee the DevOps pipeline across a large, complex cloud-based system to enable fully automated continuous delivery.Google Cloud Expertise: Implement processes throughout the systems development lifecycle using Google-recommended methodologies and tools.CI/CD Pipelines: Build and implement continuous integration and continuous delivery (CI/CD) pipelines for various services.Infrastructure as Code: Create and maintain infrastructure as code using tools like Terraform, Ansible, or similar.Monitoring and Optimization: Implement service monitoring strategies and optimize service performance.Collaboration: Work closely with other team leads and product owners to design and deliver quality software that meets operational needs.Security Best Practices: Define and implement security best practices and risk management strategies.Mentorship: Provide guidance and mentorship to junior DevOps engineers.Qualifications:Education: Bachelor's or Master's degree in Computer Science, Engineering, or a related field.Experience: 5+ years of experience in DevOps, with at least 2 years of experience working with Google Cloud Platform.Skills:Proficiency in Google Cloud services (Compute Engine, Kubernetes Engine, Cloud Storage, etc.).Strong experience with CI/CD tools like ArgoCD, Jenkins, TravisCI, or similar.Expertise in infrastructure as code tools (Terraform, Ansible, Puppet).Solid understanding of networking, Linux internals, and system deployment.Experience with monitoring tools (Prometheus, Grafana, etc.).Strong scripting skills (Python, Bash, etc.).Preferred Certifications:Google Cloud Professional DevOps EngineerAWS Certified DevOps Engineer (optional)Skill/Experience/EducationMandatory Skills Google Cloud Certification, Azure Pipelines, ArgoCD, Promethius and Grafana Dashboards, PostGres Database.Desired Skills OpenShift Certification, Google Cloud certification",
+        "source": "Email",
+        "date_posted": "2024-10-01 17:11:09-05:00",
+        "unique_id": "1924a2295d2be8ba",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Procorp Sytems",
+        "job_title": "Java Developer (Java 17 version)",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Kafka",
+                "ANSI SQL"
+            ],
+            "primary": [
+                "Java 17",
+                "data structures",
+                "caching",
+                "design patterns",
+                "multi-threading",
+                "high-performance distributed architecture",
+                "Unix"
+            ],
+            "secondary": [
+                "Financial services technology"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Kafka",
+                "ANSI SQL",
+                "Java 17",
+                "data structures",
+                "caching",
+                "design patterns",
+                "multi-threading",
+                "high-performance distributed architecture",
+                "Unix",
+                "Financial services technology"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dilip Kumar",
+        "email": "dilip@procorpsystems.com",
+        "jd": "From: Dilip Kumar, Procorp Sytems dilip@procorpsystems.com Reply to: dilip@procorpsystems.com Title: Java Developer (Java 17 version)Location: New York, NY (Onsite)Client round In person interview mandatory\u200bJD:Required Skills:5+ years of Java experience with knowledge of Java 17+Experience with Spring Boot or at least Spring 4.x+Some experience with KafkaUnderstanding of data structures, caching, design patterns, multi-threading and high-performance distributed architectureComfortable working on UnixProficient in ANSI SQL Nice to have:Experience in Financial services technology E-mail : Dilip@procorpsystems.com",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:19:14-05:00",
+        "unique_id": "1924a0fc74586e6d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

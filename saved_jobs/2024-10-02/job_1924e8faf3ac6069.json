@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Mizuho Bank",
+        "job_title": "MR IT Business Analyst / Data Analyst",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$5/hr"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "business analysis",
+                "data analysis",
+                "market risk management"
+            ],
+            "secondary": [
+                "Scrum",
+                "stakeholder management",
+                "data quality analysis",
+                "functional specifications",
+                "technical specifications"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "business analysis",
+                "data analysis",
+                "market risk management",
+                "Scrum",
+                "stakeholder management",
+                "data quality analysis",
+                "functional specifications",
+                "technical specifications"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "ashish",
+        "email": "ashish@tekinspirations.com",
+        "jd": "Hi,Job Description -MR IT Business Analyst / Data AnalystClient : Mizuho BankPosition : MR IT Business Analyst / Data AnalystLocation : NY / Hybrid 3 days week onsite (Only local candidates needed NY / NJ / CT / DE / PA works )W2 $5/hr. REFERRAL TO TEK INSPIRATIONS Elicit and analyze business requirements from internal stakeholders regarding market risk management and translate business needs into detailed functional and technical specifications.Work closely with stakeholders and development teams to design solutions that meet business needs.Analyze market risk datasets to identify data quality issues, discrepancies, and anomalies in production data.Utilize SQL and Python to analyze data from various sources to identify the source of data quality issues and take corrective actions.Assist in tracking and removing impediments, fostering an environment for high team performance and continuous improvement.Facilitate Scrum ceremonies, including daily standups, sprint planning, retrospectives, and sprint reviews.",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:48:55-05:00",
+        "unique_id": "1924e8faf3ac6069",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

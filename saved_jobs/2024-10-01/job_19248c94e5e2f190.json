@@ -10,9 +10,9 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
-            "job_code": "",
             "experience_required": "7+ years",
             "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field.",
             "visa_sponsorship": "Not specified",
@@ -29,16 +29,16 @@
                 "Oracle SQL"
             ],
             "primary": [
-                "Angular 14+",
-                "Cloud exposure with Azure or GCP",
+                "Cloud exposure with Azure",
+                "Cloud exposure with GCP",
                 "Technical guidance",
                 "Mentoring junior developers"
             ],
             "secondary": [
-                "Problem-solving skills",
+                "Problem-solving",
                 "Attention to detail",
-                "Communication skills",
-                "Collaboration skills"
+                "Communication",
+                "Collaboration"
             ],
             "all": [
                 "Java",
@@ -46,18 +46,14 @@
                 "Spring",
                 "Spring Boot",
                 "Oracle SQL",
-                "Angular 14+",
-                "Cloud exposure with Azure or GCP",
+                "Cloud exposure with Azure",
+                "Cloud exposure with GCP",
                 "Technical guidance",
                 "Mentoring junior developers",
-                "Problem-solving skills",
+                "Problem-solving",
                 "Attention to detail",
-                "Communication skills",
-                "Collaboration skills"
-            ],
-            "with_experience": [
-                "Java (7+ years)",
-                "Angular (14+ years)"
+                "Communication",
+                "Collaboration"
             ]
         },
         "job_type": [
@@ -65,13 +61,14 @@
         ],
         "contact_person": "Nirmala",
         "email": "devi@intellectt.com",
-        "jd": "From: Nirmala, Intellectt Inc devi@intellectt.com Reply to: devi@intellectt.com Sr. Fullstack Java DeveloperCharlotte, NC (Hybrid) Required Skills:10 + Years if software development experienceDevelop, enhance, and maintain front-end applications using Angular versions 14+ (currently using Angular 16-17).Lead the transition from Angular 10 to the latest versions, ensuring seamless integration and performance.Design, develop, and maintain robust back-end services using Java, Spring, and Spring Boot.Work with Oracle SQL databases to manage data storage, retrieval, and manipulation.Collaborate closely with cross-functional teams to deliver high-quality software solutions.Provide technical guidance and leadership within the team, fostering a culture of innovation and continuous improvement.Participate in code reviews, testing, and troubleshooting to ensure high-quality deliverables.Stay updated with the latest industry trends and technologies, bringing new ideas to the team. Qualifications:Bachelor\u2019s degree in Computer Science, Engineering, or a related field.7+ years of experience in full-stack development with a strong emphasis on Java and Angular.Proven experience with Angular versions 14+ (experience with Angular 16-17 is highly desirable).Strong expertise in Spring and Spring Boot frameworks.Proficiency in Oracle SQL databases.Cloud exposure with Azure or GCP.Experience leading technical initiatives and mentoring junior developers.Excellent problem-solving skills and attention to detail.Strong communication and collaboration skills.",
+        "jd": "From: Nirmala, Intellectt Inc devi@intellectt.com Reply to: devi@intellectt.com Sr. Fullstack Java Developer\nCharlotte, NC (Hybrid)\nRequired Skills:\n10 + Years if software development experience\nDevelop, enhance, and maintain front-end applications using Angular versions 14+ (currently using Angular 16-17).\nLead the transition from Angular 10 to the latest versions, ensuring seamless integration and performance.\nDesign, develop, and maintain robust back-end services using Java, Spring, and Spring Boot.\nWork with Oracle SQL databases to manage data storage, retrieval, and manipulation.\nCollaborate closely with cross-functional teams to deliver high-quality software solutions.\nProvide technical guidance and leadership within the team, fostering a culture of innovation and continuous improvement.\nParticipate in code reviews, testing, and troubleshooting to ensure high-quality deliverables.\nStay updated with the latest industry trends and technologies, bringing new ideas to the team.\nQualifications:\nBachelor\u2019s degree in Computer Science, Engineering, or a related field.\n7+ years of experience in full-stack development with a strong emphasis on Java and Angular.\nProven experience with Angular versions 14+ (experience with Angular 16-17 is highly desirable).\nStrong expertise in Spring and Spring Boot frameworks.\nProficiency in Oracle SQL databases.\nCloud exposure with Azure or GCP.\nExperience leading technical initiatives and mentoring junior developers.\nExcellent problem-solving skills and attention to detail.\nStrong communication and collaboration skills.",
         "source": "Email",
         "date_posted": "2024-10-01 10:48:37-05:00",
         "unique_id": "19248c94e5e2f190",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "Java Dev"
+        "tag": "Java developer"
     }
 ]

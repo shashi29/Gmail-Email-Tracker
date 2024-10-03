@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Sherwin Williams",
+        "job_title": "Oracle Developer",
+        "location": "Cleveland, OH, USA",
+        "full_location": {
+            "city": "Cleveland",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor degree or foreign equivalent in a related field or equivalent experience",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle 11g",
+                "PL/SQL",
+                "SQL",
+                "Oracle Exadata",
+                "UNIX/LINUX/Solaris"
+            ],
+            "primary": [
+                "JIRA",
+                "GitHub",
+                "ControlM",
+                "Micro Services",
+                "Bhoomi Services"
+            ],
+            "secondary": [
+                "Performance tuning",
+                "Batch processing",
+                "Data movement",
+                "Documentation",
+                "System development life cycle"
+            ],
+            "all": [
+                "Oracle 11g",
+                "PL/SQL",
+                "SQL",
+                "Oracle Exadata",
+                "UNIX/LINUX/Solaris",
+                "JIRA",
+                "GitHub",
+                "ControlM",
+                "Micro Services",
+                "Bhoomi Services",
+                "Performance tuning",
+                "Batch processing",
+                "Data movement",
+                "Documentation",
+                "System development life cycle"
+            ],
+            "with_experience": [
+                "Oracle 11g (3+ years)",
+                "PL/SQL (3+ years)",
+                "SQL (3+ years)",
+                "Oracle Exadata (3+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "Job Description -Onsite Interview (f2f)Role: Oracle DeveloperClient: Sherwin WilliamsLocation: Cleveland \u2013 OH \u2013 3 days a week Visa :: USC , GC SPOTLIGHT CALL \u2013 they have been trying to fill this position \u2013 candidates do well on Skype/Teams interviews but when coming in and asked to write SQL Queries and/or PL/SQL \u2013 they are not able to do it so they MUST have hands-on experience in this area. The Oracle Developer position is responsible for the requirement gathering, documentation, design, development, implementation and maintenance of Financial web application for the Credit / Customer centric project, with a focus on Oracle database development, batch process development and reporting. Maintain and troubleshoot existing applications following Industry standard coding and best practices. Develop and maintain solutions for new requests and enhancements for existing applications focusing on impact analysis and best code performance. Document requirements, develop design documentation, test cases and maintain in Confluence. Track issues and manage tasks with JIRA, Maintain version control with GIT. The position requires participation in the complete system development life cycle including post implementation support. The developer provides technical consulting to management, business users, and works closely with other developers as a supervisor and mentor. Bachelor degree or foreign equivalent in a related field or equivalent experience.Knowledge & Experience\u2022 3+ years of IT experience.\u2022 3+ years of experience developing OLTP database applications in Oracle 11g and UNIX/LINUX/Solaris environment within a multi-tier environment; building and formulating business requirements.Hands of experience in JIRA, GitHub, ControlM, Micro Services / Bhoomi Services\u2022 3+ years of experience in development and performance tuning using Oracle Exadata.\u2022 Work with PL/SQL Types, PL/SQL Collections, SQL Loader, PL/SQL Functions and Procedures, XML, Packages, and Materialized view, Triggers, Complex SQL's and SQL Reports; \u2022 Work with PL/SQL techniques in LOBs, Multilingual character conversion; Optimize the applications using Exadata Oracle Performance Tuning Techniques; develop Unit Testing Methods for PL/SQL; develop UNIX scripts for batch processing and work with Oracle RAC clusters and Exadata systems; and Knowledge of Account Receivable system\u2022 Strong experience in handling large volume data movement and maintenance.\u2022 Hands of experience in JIRA, GitHub, ControlM, Micro Services / Bhoomi Services",
+        "source": "Email",
+        "date_posted": "2024-09-30 14:19:19-05:00",
+        "unique_id": "192445f0c5274d35",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

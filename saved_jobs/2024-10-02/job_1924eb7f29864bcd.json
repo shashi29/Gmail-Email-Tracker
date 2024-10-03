@@ -1,0 +1,59 @@
+[
+    {
+        "company": "Oriontek inc",
+        "job_title": "Python developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Faust Streaming",
+                "Kafka"
+            ],
+            "primary": [
+                "Full stack development",
+                "Mongo DB",
+                "Oracle"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Faust Streaming",
+                "Kafka",
+                "Full stack development",
+                "Mongo DB",
+                "Oracle"
+            ],
+            "with_experience": [
+                "Python (5+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Saranya Devarapalli",
+        "email": "saranya@oriontekinc.com",
+        "jd": "From: Saranya, Oriontek inc\nsaranya@oriontekinc.com\nReply to: saranya@oriontekinc.com\n\nHi Associates,\nHope you are doing well!!!\nThis is Saranya from Oriontekinc, we do have a job opening for Python developer position at New York, New Jersey area with our client. If you have any resumes please send it to saranya@oriontekinc.com\n\nPosition: Python developer\nLocation: New York New Jersey area.\nVisa: Only H1B\nNOTE: Wholesale domain is mandatory\n\nJD -\n1. Wholesale Lending domain\n2. Minimum 5 years python programming. Full stack developer\n3. experience with Faust Streaming and Kafka\n4. Experience with Mongo DB and Oracle is a big plus\n\nThanks & Regards,\nSaranya Devarapalli\nEmail: saranya@oriontekinc.com\nDirect: 678-666-3868, Ext : 112\n5400 Laurel Springs Pkwy, Suite 204, Suwanee, GA 30024\nwww.oriontekinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-02 14:32:54-05:00",
+        "unique_id": "1924eb7f29864bcd",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

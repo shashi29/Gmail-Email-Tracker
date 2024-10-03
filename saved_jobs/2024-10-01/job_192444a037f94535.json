@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "GCP Public Cloud Database PaaS Engineer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform",
+                "Microsoft Azure",
+                "Microsoft SQL Server",
+                "PostgreSQL",
+                "No-SQL",
+                "Redis"
+            ],
+            "primary": [
+                "DevOps tools",
+                "GitHub Actions",
+                "Terraform",
+                "Networking",
+                "Linux",
+                "Windows operating system",
+                "Problem troubleshooting",
+                "root cause analysis",
+                "Security best practices",
+                "Active Directory",
+                "Agile"
+            ],
+            "secondary": [
+                "Python",
+                "Azure CLI",
+                "Google Cloud Shell",
+                "Public cloud network security",
+                "Cloud application architecture"
+            ],
+            "all": [
+                "Google Cloud Platform",
+                "Microsoft Azure",
+                "Microsoft SQL Server",
+                "PostgreSQL",
+                "No-SQL",
+                "Redis",
+                "DevOps tools",
+                "GitHub Actions",
+                "Terraform",
+                "Networking",
+                "Linux",
+                "Windows operating system",
+                "Problem troubleshooting",
+                "root cause analysis",
+                "Security best practices",
+                "Active Directory",
+                "Agile",
+                "Python",
+                "Azure CLI",
+                "Google Cloud Shell",
+                "Public cloud network security",
+                "Cloud application architecture"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rishabh Singh",
+        "email": "rishabh.singh@tekinspirations.com",
+        "jd": "From: Rishabh Singh, Tek Inspirations LLC rishabh.singh@tekinspirations.com Reply to: rishabh.singh@tekinspirations.com Job Description -GCP Public Cloud Database PaaS Engineer - Urgent RoleHybrid: NYC, Mount Laurel, NJ One round interview process or rarely 2Must be local to NY and NJNeed LinkedIn AlsoDepartment Overview :Building a World-Class, Diverse and Inclusive Technology Team.Public Cloud Database PaaS Service is responsible for the solution engineering, design, optimization, integration, automation and maintenance of popular Google Cloud Platform (GCP) and Microsoft Azure (AZ) database PaaS services, such as Microsoft SQL Server, PostgreSQL, No-SQL and Redis. Key responsibilities include R&D for introducing public cloud PaaS to the client's environment, DevOps pipeline development and on-going maintenance, optimization, and enhancement.Job Description :The client's Engineering covers a broad range of exercises and initiatives including requirements gathering, design specification, industry analysis, vendor engagement and analysis, software development, test plans and execution, and operational standards implementation. In this role, we're looking for a candidate with strong Google and Azure cloud architecture, pipeline automation experience and database knowledge. The candidate will provide expertise in database PaaS service design, security, performance, integration, and pipeline development using infrastructure as code while adhering to architecture, engineering, and security standards.Job Requirements :Required skillsStrong experience working with Google Cloud Platform and Microsoft Azure public cloudsExtensive experience with database PaaS such as Microsoft SQL Server, PostgreSQL, No-SQL and Redis Strong experience working with DevOps tools such GitHub Actions and TerraformStrong working knowledge Networking, Linux and Windows operating systemStrong Problem troubleshooting and root cause analysis skillsAbility to quickly learn and develop expertise in highly complex existing applications and architecturesSecurity best practices, Active DirectoryAgileTechnical skillsMicrosoft SQL Server, PostgreSQL, No-SQL and RedisTerraformGitHub ActionsPython Azure CLI/Google Cloud ShellPublic cloud network securityCloud application architecture",
+        "source": "Email",
+        "date_posted": "2024-09-30 13:56:20-05:00",
+        "unique_id": "192444a037f94535",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

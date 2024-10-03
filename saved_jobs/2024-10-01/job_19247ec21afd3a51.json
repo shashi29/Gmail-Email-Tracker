@@ -10,9 +10,9 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
-            "job_code": "135502",
             "experience_required": "3-5 years",
             "degree_required": "Bachelor's Degree",
             "visa_sponsorship": "Not specified",
@@ -22,31 +22,56 @@
         },
         "skills": {
             "core": [
-                "Communication and Interpersonal skills",
                 "Organization and Prioritization skills",
+                "Communication and Interpersonal skills",
                 "Microsoft Project",
                 "Excel",
+                "DevOPs",
                 "Remedy/Helix",
-                "DevOPs"
+                "Telecommunications"
             ],
             "primary": [
                 "Clarity",
-                "Telecommunications environment",
-                "Multiple network platforms",
-                "Customer service"
+                "Customer service skills",
+                "Network platforms",
+                "Enterprise environment"
             ],
-            "secondary": [],
+            "secondary": [
+                "WAN",
+                "WLAN",
+                "MLAN",
+                "Security",
+                "Voice",
+                "Videoconferencing"
+            ],
             "all": [
-                "Communication and Interpersonal skills",
                 "Organization and Prioritization skills",
+                "Communication and Interpersonal skills",
                 "Microsoft Project",
                 "Excel",
-                "Remedy/Helix",
                 "DevOPs",
+                "Remedy/Helix",
+                "Telecommunications",
                 "Clarity",
-                "Telecommunications environment",
-                "Multiple network platforms",
-                "Customer service"
+                "Customer service skills",
+                "Network platforms",
+                "Enterprise environment",
+                "WAN",
+                "WLAN",
+                "MLAN",
+                "Security",
+                "Voice",
+                "Videoconferencing"
+            ],
+            "with_experience": [
+                "Microsoft Project (3-5 years)",
+                "Excel (3-5 years)",
+                "DevOPs (2-3 years)",
+                "Remedy/Helix (3-5 years)",
+                "Telecommunications (3-5 years)",
+                "Enterprise setting (3-5 years)",
+                "Network platforms (3-5 years)",
+                "Customer service (5+ years)"
             ]
         },
         "job_type": [
@@ -59,8 +84,9 @@
         "date_posted": "2024-09-30 20:59:19-05:00",
         "unique_id": "19247ec21afd3a51",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

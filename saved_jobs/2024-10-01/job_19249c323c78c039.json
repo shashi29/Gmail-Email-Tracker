@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Intelligenz IT",
+        "job_title": "AWS Cloud Lead / Architect with API Lambda and Python",
+        "location": "Alameda, CA, USA",
+        "full_location": {
+            "city": "Alameda",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "API Design and Development",
+                "Architectural Guidance",
+                "Technologies and Frameworks",
+                "Performance and Scalability",
+                "Security and Compliance",
+                "Documentation and Testing"
+            ],
+            "primary": [
+                "AWS Cognito",
+                "DynamoDB",
+                "AWS Amplify",
+                "Okta",
+                "OWASP best practices"
+            ],
+            "secondary": [
+                "CSRF",
+                "Access tokens",
+                "Encryption",
+                "Decryption",
+                "GDPR",
+                "HIPAA"
+            ],
+            "all": [
+                "API Design and Development",
+                "Architectural Guidance",
+                "Technologies and Frameworks",
+                "Performance and Scalability",
+                "Security and Compliance",
+                "Documentation and Testing",
+                "AWS Cognito",
+                "DynamoDB",
+                "AWS Amplify",
+                "Okta",
+                "OWASP best practices",
+                "CSRF",
+                "Access tokens",
+                "Encryption",
+                "Decryption",
+                "GDPR",
+                "HIPAA"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mohit Jaiswal",
+        "email": "mohit.jaiswal@intelligenzit.com",
+        "jd": "Job Overview: As an API / Solutions Architect, you will be responsible for designing, developing, and maintaining complex API solutions that meet the requirements as well as adhere to established architectural principles, standards, and patterns.\nHe / She will collaborate closely with cloud engineering platform team to work on API and Devops tools. He / she will collaborate with software developers, system architects, product managers, and stakeholders, to ensure APIs are robust, scalable, and secure.\n\nPimary (Must have skills)\n*API Design and Development:\nLead the design and development of APIs that enable integration between various software systems, applications, and data sources.\nDefine API standards, best practices, and guidelines to ensure consistency across APIs.\nEvaluate existing APIs for reusability and integration feasibility.\n\nArchitectural Guidance:\nProvide technical leadership and guidance on API architecture, design decisions, and implementation strategies.\nCollaborate with solution architects and development teams to integrate API solutions into larger systems or platforms.\n\nTechnologies and Frameworks:\nUse of Okta for authentication make use of CSRF and Access tokens\nImplement security framework including encryption / decryption of passwords\nExperience working with AWS Cognito, DynamoDB, AWS Amplify,\nMake use of OWASP best practices\n\nPerformance and Scalability:\nDesign APIs with a focus on performance, scalability, reliability, and security.\nConduct performance tuning and optimization of APIs to handle high traffic and large volumes of data.\n\nSecurity and Compliance:\nImplement security measures such as authentication, authorization, encryption, and data protection mechanisms in APIs.\nEnsure APIs comply with organizational security standards and industry regulations (e.g., GDPR, HIPAA).\n\nDocumentation and Testing:\nCreate comprehensive API documentation including specifications, usage guidelines, and examples.\nCollaborate with QA teams to define and execute API testing strategies, including functional, integration, and performance testing.\n\nContinuous Improvement:\nStay updated on emerging technologies, industry trends, and best practices related to APIs and integration.\nDrive initiatives for continuous improvement of API development processes, tools, and methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-01 15:26:11-05:00",
+        "unique_id": "19249c323c78c039",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

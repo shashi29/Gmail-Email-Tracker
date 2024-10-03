@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Archon Software",
+        "job_title": ".Net Solution Architect",
+        "location": "Tennessee, USA",
+        "full_location": {
+            "city": "",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET Core",
+                "ASP.NET",
+                "MVC",
+                "Web API",
+                "Azure services",
+                "Cloud architecture design",
+                "Microservices",
+                "Containerization",
+                "CI/CD pipelines",
+                "SQL Server"
+            ],
+            "primary": [
+                "Azure Functions",
+                "Cosmos DB",
+                "Azure DevOps",
+                "Entity Framework",
+                "LINQ",
+                "Agile methodologies",
+                "Team leadership",
+                "Security best practices"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "all": [
+                ".NET Core",
+                "ASP.NET",
+                "MVC",
+                "Web API",
+                "Azure services",
+                "Cloud architecture design",
+                "Microservices",
+                "Containerization",
+                "CI/CD pipelines",
+                "SQL Server",
+                "Azure Functions",
+                "Cosmos DB",
+                "Azure DevOps",
+                "Entity Framework",
+                "LINQ",
+                "Agile methodologies",
+                "Team leadership",
+                "Security best practices",
+                "Docker",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sunanda",
+        "email": "sunanda@archonsoftwares.com",
+        "jd": "From: sunanda, sunanda sunanda@archonsoftwares.com Reply to: sunanda@archonsoftwares.com Please find below job description Key Skills:.NET Core, ASP.NET, MVC, Web APIAzure services (App Services, Azure Functions, Cosmos DB, Azure DevOps)Cloud architecture design and best practicesMicroservices and containerization (Docker, Kubernetes)CI/CD pipelines and DevOps integrationSQL Server, Entity Framework, LINQAgile methodologies and team leadershipSecurity best practices in cloud environmentsSunanda",
+        "source": "Email",
+        "date_posted": "2024-10-02 10:25:58-05:00",
+        "unique_id": "1924dda9136bb506",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

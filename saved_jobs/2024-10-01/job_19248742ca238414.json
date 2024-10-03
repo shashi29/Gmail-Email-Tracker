@@ -10,9 +10,9 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
-            "job_code": "",
             "experience_required": "10+ years",
             "degree_required": "Bachelor\u2019s degree in computer science, Software Engineering, or a related field.",
             "visa_sponsorship": "Not specified",
@@ -29,14 +29,11 @@
                 "JavaScript"
             ],
             "primary": [
-                "Strong coding skills",
-                "AWS cloud \u2013 ECS far gate",
-                "S3",
-                "DDB",
-                "API Gateway",
-                "Good Data & Database skills",
-                "Problem solving \u2013 Data structure",
-                "Algorithms"
+                "Data structures",
+                "Algorithms",
+                "RESTful APIs",
+                "Microservices",
+                "Database management systems"
             ],
             "secondary": [
                 "Python",
@@ -44,18 +41,12 @@
                 "React",
                 "Angular",
                 "Vue.js",
-                "MySQL",
-                "PostgreSQL",
                 "Cloud-native development",
                 "DevOps practices",
-                "AWS Certified Developer Associate",
-                "Solutions Architect Associate certification",
-                "Serverless architecture",
-                "Containerization (Docker, Kubernetes)",
-                "CI/CD pipelines",
-                "Automation tools",
-                "Data analytics",
-                "Machine learning"
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Teamwork"
             ],
             "all": [
                 "Java",
@@ -63,35 +54,32 @@
                 "J2EE",
                 "Spring",
                 "JavaScript",
-                "Strong coding skills",
-                "AWS cloud \u2013 ECS far gate",
-                "S3",
-                "DDB",
-                "API Gateway",
-                "Good Data & Database skills",
-                "Problem solving \u2013 Data structure",
+                "Data structures",
                 "Algorithms",
+                "RESTful APIs",
+                "Microservices",
+                "Database management systems",
                 "Python",
                 "Node.js",
                 "React",
                 "Angular",
                 "Vue.js",
-                "MySQL",
-                "PostgreSQL",
                 "Cloud-native development",
                 "DevOps practices",
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Teamwork",
                 "AWS Certified Developer Associate",
                 "Solutions Architect Associate certification",
                 "Serverless architecture",
-                "Containerization (Docker, Kubernetes)",
+                "Containerization",
+                "Docker",
+                "Kubernetes",
                 "CI/CD pipelines",
                 "Automation tools",
                 "Data analytics",
                 "Machine learning"
-            ],
-            "with_experience": [
-                "Java (10+ years)",
-                "AWS (10+ years)"
             ]
         },
         "job_type": [
@@ -104,8 +92,9 @@
         "date_posted": "2024-10-01 09:18:15-05:00",
         "unique_id": "19248742ca238414",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "Java Dev"
+        "tag": "Java developer"
     }
 ]

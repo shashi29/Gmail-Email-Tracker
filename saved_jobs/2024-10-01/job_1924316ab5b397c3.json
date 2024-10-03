@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Tanisha Systems Inc",
+        "job_title": "Java AWS Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "AWS",
+                "RESTful",
+                "Git"
+            ],
+            "primary": [
+                "Object-oriented programming",
+                "Design patterns",
+                "Concurrency patterns",
+                "MVC",
+                "JDBC",
+                "Web application frameworks",
+                "Java GUI frameworks",
+                "Automated testing",
+                "Continuous integration"
+            ],
+            "secondary": [
+                "Dynamo DB",
+                "S3",
+                "IAM",
+                "Route 53",
+                "ELB",
+                "SNS",
+                "SQS",
+                "PostgreSQL",
+                "EKS"
+            ],
+            "all": [
+                "Java",
+                "J2EE",
+                "AWS",
+                "RESTful",
+                "Git",
+                "Object-oriented programming",
+                "Design patterns",
+                "Concurrency patterns",
+                "MVC",
+                "JDBC",
+                "Web application frameworks",
+                "Java GUI frameworks",
+                "Automated testing",
+                "Continuous integration",
+                "Dynamo DB",
+                "S3",
+                "IAM",
+                "Route 53",
+                "ELB",
+                "SNS",
+                "SQS",
+                "PostgreSQL",
+                "EKS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Akshat Kumar",
+        "email": "akshat@tanishasystems.com",
+        "jd": "Greetings..!! My name is Akshat, and I am a Technical Recruiter at Tanisha Systems Inc. Tanisha Systems Inc is a global contingency staffing firm servicing. We have an excellent job opportunity with one of our clients. Role: Java AWS Developer Location : Plano, TX, Houston, TX(Onsite- 3 days per week)Type: Contract PositionJob Description:Skill RequirementsProficient in Java/J2EE, with a good knowledge of its ecosystemsSolid understanding of object-oriented programmingFamiliar with various design and architectural patternsSkill for writing reusable Java librariesKnowledge of concurrency patterns in JavaFamiliarity with concepts of MVC, JDBC, and RESTfulExperience with popular web application frameworks, such as Play and SparkFamiliarity with Java GUI frameworks {{such as Swing, SWT, and AWT depending on project requirements}}Experience with both external and embedded databasesAWS \u2013 EKS, Amazon Aurora PostgreSQLDynamo DB, S3, IAM, Route 53, ELB, SNS, SQSImplementing automated testing platforms and unit testsProficient understanding of code versioning tools, such as GitFamiliarity with continuous integration RegardsAkshat KumarAkshat@tanishasystems.comwww.tanishasystems.comlinkedin.com/in/akshat-kumar-7245821a299 Wood Ave South, Suite # 308, Iselin, New Jersey, NJ 08830, USA",
+        "source": "Email",
+        "date_posted": "2024-09-30 08:20:36-05:00",
+        "unique_id": "1924316ab5b397c3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

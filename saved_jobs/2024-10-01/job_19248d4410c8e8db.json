@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
@@ -55,13 +56,14 @@
         ],
         "contact_person": "Prashant Raj",
         "email": "prashant@intellectt.com",
-        "jd": "Hi,My name is Prashant Raj and I am a Staffing Specialist at Intellectt Inc. I am reaching out to you on an exciting job opportunity with one of our clients.\n\nProject Manager - Finance and HCM\n\n6+ Month Contract Role (NO GC) PASSPORT NUMBER IS MANDATORY\n\nRemote Role\n\n$55/hr on C2C is the Max rate\n\nJob Description:\nProviding process / functional / template solution knowledge and expertise for the relevant process area(s).\nMaintaining the process definitions for the relevant process areas.\nSafeguarding the design principles of the processes.\nProvides Oracle Cloud subject matter expertise.\nCollect and analyze business requirements for Oracle module.\nWrite business requirement documents and other functional and technical documentations.\nCollect and analyze business requirements for Oracle Cloud module.\nWrite business requirement documents and other functional and technical documentations.\nAssist in design, development, testing and implementation of Oracle module.\nAssist in design, development, testing and implementation of Oracle finance module.\nProvides Oracle Cloud subject matter expertise to Accounting & Finance stakeholders.",
+        "jd": "Hi,My name is Prashant Raj and I am a Staffing Specialist at Intellectt Inc. I am reaching out to you on an exciting job opportunity with one of our clients.\n\nProject Manager - Finance and HCM\n\n6+ Month Contract Role (NO GC) PASSPORT NUMBER IS MANDATORY\n\nRemote Role\n\n$55/hr on C2C is the Max rate\n\nJob Description:\nProviding process / functional / template solution knowledge and expertise for the relevant process area(s).\nMaintaining the process definitions for the relevant process areas..\nSafeguarding the design principles of the processes.\nProvides Oracle Cloud subject matter expertise.\nCollect and analyze business requirements for Oracle module.\nWrite business requirement documents and other functional and technical documentations.\nCollect and analyze business requirements for Oracle Cloud module.\nWrite business requirement documents and other functional and technical documentations.\nAssist in design, development, testing and implementation of Oracle module.\nAssist in design, development, testing and implementation of Oracle finance module.\nProvides Oracle Cloud subject matter expertise to Accounting & Finance stakeholders.",
         "source": "Email",
         "date_posted": "2024-10-01 11:00:28-05:00",
         "unique_id": "19248d4410c8e8db",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

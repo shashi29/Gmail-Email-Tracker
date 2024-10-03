@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Devfi",
+        "job_title": ".Net Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "MVC",
+                "SOA"
+            ],
+            "primary": [
+                "PL/SQL",
+                "stored procedures",
+                "jQuery",
+                "KnockoutJS",
+                "Bootstrap",
+                "Angular",
+                "SSRS",
+                "SSIS"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET",
+                "C#",
+                "MVC",
+                "SOA",
+                "PL/SQL",
+                "stored procedures",
+                "jQuery",
+                "KnockoutJS",
+                "Bootstrap",
+                "Angular",
+                "SSRS",
+                "SSIS"
+            ],
+            "with_experience": [
+                ".NET (15+ years)",
+                "C#",
+                "MVC",
+                "SOA"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Naveen S",
+        "email": "naveen@devfi.com",
+        "jd": "Dear IT Professional,Greetings of the day!! I have the immediate requirement below for your consideration, if you are actively looking for a job, please review the job description and let me know your thoughts. Role: .Net DeveloperLocation: Columbus, OHDuration: 12 Months Hybrid 2 days in office, 3 days remote. Please note this is Subject to change Years of Relevant Experience:15+ years of .Net programming experience Job Description:Modify existing on-prem .net 4.5 enterprise application for enhancements.Need good understanding of Service Oriented architecture, Knockout JS, J-QueryLead technical and end-user resources to execute detailed tests and analyze testing results.Document and communicate issues, solutions, and timelines to appropriate stakeholders Mandatory skillsExperience in developing using Microsoft .NET, C#, MVC, SOAExperience with PL/SQL and stored procedures in OracleExperience in jQuery, KnockoutJS, Bootstrap, Angular Experience with SSRS, SSIS Thanks,Naveen S614 504 8101",
+        "source": "Email",
+        "date_posted": "2024-10-01 11:36:38-05:00",
+        "unique_id": "1924941b4383bf03",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

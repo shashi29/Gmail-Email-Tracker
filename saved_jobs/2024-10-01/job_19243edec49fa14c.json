@@ -1,0 +1,66 @@
+[
+    {
+        "company": "KPG99",
+        "job_title": "Java Lead",
+        "location": "Miami, FL, USA",
+        "full_location": {
+            "city": "Miami",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Leadership",
+                "NoSQL Databases"
+            ],
+            "primary": [
+                "SpringBoot",
+                "React",
+                "Containerization",
+                "GitOps",
+                "Kubernetes",
+                "Jenkins"
+            ],
+            "secondary": [],
+            "all": [
+                "Leadership",
+                "NoSQL Databases",
+                "SpringBoot",
+                "React",
+                "Containerization",
+                "GitOps",
+                "Kubernetes",
+                "Jenkins"
+            ],
+            "with_experience": [
+                "Leadership",
+                "NoSQL Databases"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Priya",
+        "email": "priya.c@kpgtech.com",
+        "jd": "Hey,Please read the below requirements and share your resume and also please let me know your current location and visa location if you are interested. Title : Java LeadHybrid in Miami, FL NO H1B/OPT/CPTThey will likely do virtual interviewsLOOKING FOR 12+ PROFILE.Desired Skills: Leadership with offshore on shore teams (particularly offshore)Experience with NoSQL DatabasesSpringBoot would be preferred, not required.React is currently their front end and experience that is a plus.Containerization experience is a plus with GitOps, Kubernetes and Jenkins.",
+        "source": "Email",
+        "date_posted": "2024-09-30 12:12:33-05:00",
+        "unique_id": "19243edec49fa14c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

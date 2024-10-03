@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "experience_required": "15+ years",
             "degree_required": "Bachelor's Degree",
@@ -23,40 +24,36 @@
             "core": [
                 "Communication skills",
                 "Organizational skills",
-                "Prioritization skills"
+                "Prioritization skills",
+                "Experience with multiple network platforms",
+                "Experience in a large Enterprise setting"
             ],
             "primary": [
                 "Microsoft Project",
                 "Microsoft Excel",
                 "DevOps",
                 "Remedy/Helix",
-                "Telecommunications"
+                "Telecommunications experience"
             ],
             "secondary": [
                 "Clarity",
-                "WAN",
-                "MLAN",
-                "WLAN",
-                "Security",
-                "Voice",
-                "Videoconferencing"
+                "Customer service skills",
+                "Interpersonal skills"
             ],
             "all": [
                 "Communication skills",
                 "Organizational skills",
                 "Prioritization skills",
+                "Experience with multiple network platforms",
+                "Experience in a large Enterprise setting",
                 "Microsoft Project",
                 "Microsoft Excel",
                 "DevOps",
                 "Remedy/Helix",
-                "Telecommunications",
+                "Telecommunications experience",
                 "Clarity",
-                "WAN",
-                "MLAN",
-                "WLAN",
-                "Security",
-                "Voice",
-                "Videoconferencing"
+                "Customer service skills",
+                "Interpersonal skills"
             ]
         },
         "job_type": [
@@ -69,8 +66,9 @@
         "date_posted": "2024-10-01 10:08:59-05:00",
         "unique_id": "19248a3e76bd864c",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

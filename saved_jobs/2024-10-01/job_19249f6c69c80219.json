@@ -1,0 +1,100 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": "Python Developer with AWS",
+        "location": "Waltham, MA, USA",
+        "full_location": {
+            "city": "Waltham",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or related field.",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "EC2",
+                "S3",
+                "Lambda",
+                "RDS",
+                "API Gateway"
+            ],
+            "primary": [
+                "CloudFormation",
+                "CDK",
+                "Terraform",
+                "RESTful APIs",
+                "Flask",
+                "Django",
+                "CI/CD",
+                "Jenkins",
+                "GitLab CI",
+                "AWS CodePipeline",
+                "Docker",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "AWS Glue",
+                "Kinesis",
+                "serverless computing",
+                "event-driven architectures",
+                "problem-solving",
+                "communication",
+                "collaboration"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "EC2",
+                "S3",
+                "Lambda",
+                "RDS",
+                "API Gateway",
+                "CloudFormation",
+                "CDK",
+                "Terraform",
+                "RESTful APIs",
+                "Flask",
+                "Django",
+                "CI/CD",
+                "Jenkins",
+                "GitLab CI",
+                "AWS CodePipeline",
+                "Docker",
+                "Kubernetes",
+                "AWS Glue",
+                "Kinesis",
+                "serverless computing",
+                "event-driven architectures",
+                "problem-solving",
+                "communication",
+                "collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen Kumar",
+        "email": "naveen.t@itechus.net",
+        "jd": "Hi,My name is Naveen Kumar, and I represent iTech US Inc. iTech is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have job opening for the below role.\n\nRole: Python Developer with AWS\nLocation: Waltham, MA or Malvern, PA or Charlotte, NC(Only Locals)\nDuration: Contract\nExperience: 10+ years\nC2C: (Yes, Only for H1b)\n\nRole Description:\nDesign, develop, and maintain scalable Python-based applications.\nCollaborate with cross-functional teams to define, design, and deploy new features.\nImplement and manage AWS cloud services, including EC2, S3, Lambda, RDS, and API Gateway.\nAutomate deployment processes using AWS tools such as CloudFormation, CDK, or Terraform.\nOptimize application performance and ensure high availability and reliability.\nWrite clean, efficient, and reusable Python code following best practices.\nDevelop APIs and integrate third-party services using AWS Lambda and API Gateway.\nManage data pipelines and processing tasks using AWS Glue, Kinesis, or similar services.\nMonitor cloud infrastructure and troubleshoot issues to ensure a smooth operational environment.\nParticipate in code reviews and contribute to improving development processes.\n\nQualifications:\nBachelor\u2019s degree in Computer Science, Engineering, or related field.\n3+ years of experience in Python development.\nStrong understanding of AWS services, including EC2, S3, Lambda, RDS, and API Gateway.\nHands-on experience with infrastructure as code tools like AWS CloudFormation, CDK, or Terraform.\nProficiency in developing RESTful APIs and microservices using Python frameworks (e.g., Flask, Django).\nExperience with CI/CD pipelines and tools like Jenkins, GitLab CI, or AWS CodePipeline.\nSolid understanding of containerization technologies like Docker and Kubernetes (EKS is a plus).\nFamiliarity with serverless computing and event-driven architectures on AWS.\nStrong problem-solving skills and ability to troubleshoot issues in cloud-based environments.\nExcellent communication and collaboration skills.",
+        "source": "Email",
+        "date_posted": "2024-10-01 16:23:17-05:00",
+        "unique_id": "19249f6c69c80219",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

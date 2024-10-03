@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Source Infotech Inc",
+        "job_title": "Business Analyst",
+        "location": "Fridley, MN, USA",
+        "full_location": {
+            "city": "Fridley",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "IFS ERP",
+                "requirements gathering",
+                "documentation",
+                "collaboration",
+                "debugging"
+            ],
+            "primary": [
+                "customization",
+                "configuration",
+                "data extraction",
+                "report development",
+                "application monitoring"
+            ],
+            "secondary": [
+                "Crystal Reports",
+                "user support",
+                "process issue resolution",
+                "application server management"
+            ],
+            "all": [
+                "IFS ERP",
+                "requirements gathering",
+                "documentation",
+                "collaboration",
+                "debugging",
+                "customization",
+                "configuration",
+                "data extraction",
+                "report development",
+                "application monitoring",
+                "Crystal Reports",
+                "user support",
+                "process issue resolution",
+                "application server management"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Bhavya Chaturvedi",
+        "email": "bhavya.c@sourceinfotech.com",
+        "jd": "From: Bhavya, Source infotec inc bhavya.c@sourceinfotech.com Reply to: bhavya.c@sourceinfotech.com Business AnalystFridley, MN- Hybrid6+months C2HVisa: GC/USC/H4-EAD/GC-EAD BA with strong IFS ERP system experience. The manager wants to bring in a IFS BA who really has strong BA skills (documentation, specific requirements gathering, being a true collaborator and liaison between business and technology, take more ownership of the IFS platform)Working on the incidents and providing the solutions.Analyze, debugging and testing of IFS applications.Customization and configuration of IFS applications.Monitoring the Jobs, application messages and servers for smooth executions.Managing the IFS application server and utility server.Solving the process/data related issues which users are facing.Fixing and analyzing the report related issues.Crystal report development/changes.Quick report development/changes.Data extraction based on the user needs.Addressing user related queries and suggestions.Configuration of the mail settings smtp.office365.com in IFS and testing.Added new custom field called PO number in customer invoices screen which is fetching the data from customer order.Changes on the Sales Quotation report.Changes on the Invoice report.Changes on the Purchase order report - MSQR document revision.",
+        "source": "Email",
+        "date_posted": "2024-10-02 09:55:38-05:00",
+        "unique_id": "1924dea530d112a6",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

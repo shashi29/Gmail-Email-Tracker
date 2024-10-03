@@ -1,0 +1,75 @@
+[
+    {
+        "company": "w3global",
+        "job_title": "GCP VM Specialist",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCE",
+                "GKE",
+                "IAM",
+                "GCS"
+            ],
+            "primary": [
+                "Terraform",
+                "Scripting languages",
+                "Bash",
+                "Python"
+            ],
+            "secondary": [
+                "GCP Cloud Solution Architect certification",
+                "VM images",
+                "UNIX",
+                "LINUX"
+            ],
+            "all": [
+                "GCE",
+                "GKE",
+                "IAM",
+                "GCS",
+                "Terraform",
+                "Scripting languages",
+                "Bash",
+                "Python",
+                "GCP Cloud Solution Architect certification",
+                "VM images",
+                "UNIX",
+                "LINUX"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Anusha Vennapusa",
+        "email": "anusha.vennapusa@w3global.com",
+        "jd": "From: Anusha.vennapusa, w3global anusha.vennapusa@w3global.com Reply to: anusha.vennapusa@w3global.com Hi Hope you rae doing Good ********REMOTE OPPORTUNITY*********Job Title: GCP VM Specialist Location: REMOTEEmployment Type: Contract to Hire, C2C, Contract, Full time / Direct Hire, 1099, OthersVisa: USC, H1-B, H4-EAD Experience: 9+ Mandatory Skills :GCE, GKE, IAM, GCSJob Post Description:GCP VMShould have hands-on experience of managing GCP services such as GCE, GKE, IAM, GCS and other commonly used services beforeShould have 2-3 years of experience in building, deploying and debugging Terraform deployment templates in a Cloud EnvironmentShould have good knowledge on VM images (good to have GCE experience) types, OS, UNIX and LINUX OSHands on experience with Scripting languages such as bash shell or PythonPreferably have a GCP Cloud Solution Architect certificationNOTE : Please don't share Hotlist, Only Share resumes Anusha.vennapusa@w3global.com",
+        "source": "Email",
+        "date_posted": "2024-10-02 15:05:32-05:00",
+        "unique_id": "1924ed5d1997757e",
+        "emp_type": [
+            "contract",
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

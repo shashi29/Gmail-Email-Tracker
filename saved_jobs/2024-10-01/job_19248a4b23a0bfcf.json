@@ -10,12 +10,13 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
             "degree_required": "Not specified",
-            "visa_sponsorship": "No visa sponsorship",
+            "visa_sponsorship": "Not specified",
             "notice_period": "Not specified",
             "duration": "Not specified",
             "rate": "Not specified"
@@ -46,8 +47,9 @@
         "date_posted": "2024-10-01 10:09:39-05:00",
         "unique_id": "19248a4b23a0bfcf",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "Python Dev"
+        "tag": "Python developer"
     }
 ]

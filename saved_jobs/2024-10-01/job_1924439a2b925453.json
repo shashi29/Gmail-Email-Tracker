@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Innovyt",
+        "job_title": "Senior Data Engineer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor/Master\u2019s degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Services",
+                "Python",
+                "Big Data Technologies",
+                "SQL",
+                "NoSQL databases"
+            ],
+            "primary": [
+                "Data Architecture",
+                "ETL Processes",
+                "Data Integration",
+                "Performance Optimization",
+                "Data Modeling"
+            ],
+            "secondary": [
+                "DevOps",
+                "Security",
+                "Problem-Solving",
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "all": [
+                "AWS Services",
+                "Python",
+                "Big Data Technologies",
+                "SQL",
+                "NoSQL databases",
+                "Data Architecture",
+                "ETL Processes",
+                "Data Integration",
+                "Performance Optimization",
+                "Data Modeling",
+                "DevOps",
+                "Security",
+                "Problem-Solving",
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "with_experience": [
+                "AWS Services",
+                "Python",
+                "Big Data Technologies"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Himanshu Yadav",
+        "email": "himanshu.yadav@innovyt.com",
+        "jd": "From: Himanshu Yadav, Innovyt himanshu.yadav@innovyt.com Reply to: himanshu.yadav@innovyt.com Position :: Senior Data Engineer Location :: Austin, TX Duration :: 6+ Months Responsibilities: Data Architecture: Develop and maintain scalable data architectures and pipelines on AWS to support data analytics and business intelligence. ETL Processes: Build and manage ETL processes to extract, transform, and load data from various sources into data warehouses and data lakes. Data Integration: Integrate data from multiple sources, ensuring data quality, consistency, and security. Performance Optimization: Optimize data processing workflows for performance, scalability, and cost-efficiency. Collaboration: Work closely with data scientists, analysts, and other stakeholders to understand data requirements and deliver solutions that meet business needs. Monitoring: Implement monitoring and alerting systems to ensure data pipeline reliability and performance. Documentation: Maintain comprehensive documentation of data architectures, pipelines, and processes. Qualifications: Education: Bachelor/Master\u2019s degree in computer science, Engineering, or a related field. Experience: 7+ years of experience in data engineering, with a focus on AWS-based solutions. Proven experience in designing and implementing data pipelines and architectures. Technical Skills: AWS Services: Proficiency in AWS services such as S3, Redshift, Glue, Lambda, EMR, and RDS. Programming Languages: Strong programming skills in Python. Big Data Technologies: Experience with big data technologies like Hadoop, Spark, and Kafka. Database Management: Proficiency in SQL and NoSQL databases. Data Modeling: Strong understanding of data modeling, data warehousing, and data lake concepts. DevOps: Familiarity with DevOps practices and tools (e.g., Docker, Kubernetes, Jenkins). Security: Knowledge of data security best practices and compliance requirements. Certifications: AWS Certified Data Engineer \u2013 Associate Soft Skills: Problem-Solving: Strong analytical and problem-solving skills. Communication: Excellent communication and interpersonal skills to interact with various stakeholders. Teamwork: Ability to work effectively in a collaborative team environment. Adaptability: Flexibility to adapt to changing business requirements and technologies.",
+        "source": "Email",
+        "date_posted": "2024-09-30 12:44:41-05:00",
+        "unique_id": "1924439a2b925453",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

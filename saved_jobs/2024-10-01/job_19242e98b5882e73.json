@@ -1,0 +1,63 @@
+[
+    {
+        "company": "kk soft tech",
+        "job_title": ".Net Developer",
+        "location": "Chandler, AZ, USA",
+        "full_location": {
+            "city": "Chandler",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "HTML5",
+                "CSS3"
+            ],
+            "primary": [
+                "Kafka",
+                "MongoDB",
+                "Cloud",
+                "Agile methodologies"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET",
+                "C#",
+                "HTML5",
+                "CSS3",
+                "Kafka",
+                "MongoDB",
+                "Cloud",
+                "Agile methodologies"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sushant kumar",
+        "email": "sushant.s@kksoftwareassociates.com",
+        "jd": "From: sushant kumar, kk soft tech sushant.s@kksoftwareassociates.com Reply to: sushant.s@kksoftwareassociates.com .Net Developer-Chandler, AZ Job Summary \u2013 \u2022 Knowledge of.NET languages (e.g. C#, Visual asic .NET) and HTML5/CSS3, Kafka, MongoDB & Cloud.\u2022 Understanding of Agile methodologies\u2022 Participate in requirements analysis\u2022 Collaborate with internal teams to produce software design and architecture\u2022 Write clean, scalable code using .NET programming languages\u2022 Test and deploy applications and systems",
+        "source": "Email",
+        "date_posted": "2024-09-30 07:31:18-05:00",
+        "unique_id": "19242e98b5882e73",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

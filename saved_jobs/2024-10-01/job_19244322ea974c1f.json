@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Spar Info Sys",
+        "job_title": "Azure Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level, 6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "CI/CD (Gitlab)"
+            ],
+            "primary": [
+                "Data Engineer",
+                "Azure",
+                "Snowflake",
+                "ETL",
+                "AWS (Hadoop, Postgres SQL)",
+                "Streaming Platforms (Kafka)"
+            ],
+            "secondary": [
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "all": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "CI/CD (Gitlab)",
+                "Data Engineer",
+                "Azure",
+                "ETL",
+                "AWS (Hadoop, Postgres SQL)",
+                "Streaming Platforms (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ben",
+        "email": "benclark@sparinfosys.com",
+        "jd": "From: Ben, Spar Info Sys benclark@sparinfosys.com Reply to: benclark@sparinfosys.com Hi,Please find below Job Description and share your Updated Resume copy along with your Linkedin id, current location and Expected hourly pay rate for this roleJob Title: Azure Data EngineerDuration: 6-12+ monthsLocation: 100 % RemoteOpen to C2C /W2 Skill Set - Data EngineerAzureSnowflakeSQL Server (Stored Procs, SQL\u2019s, etc.)ETLAWS (Hadoop, Postgres SQL)Streaming Platforms (Kafka)CI/CDSr.Data Engineer (6 Yrs Exp)Data Engineers who are experts in Azure and Snowflake with design and implementation in Azure and Snowflake . Within Azure, team heavily use ADF, Databricks, Streaming, Batch processing, Key Vault, and Blob Storage.Must to have:Azure ADF, Databricks, Databricks Unity Catalogue, Spark SQL, Snowflake, SQL Server (Stored Procs, SQL\u2019s, etc.),CI/CD(Gitlab)Nice to HaveStreaming (Kafka),Python,Pyspark, Control-M",
+        "source": "Email",
+        "date_posted": "2024-09-30 13:30:18-05:00",
+        "unique_id": "19244322ea974c1f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

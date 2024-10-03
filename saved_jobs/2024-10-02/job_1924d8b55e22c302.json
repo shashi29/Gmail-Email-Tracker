@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Senior GCP Data Engineer",
+        "location": "Manhattan, NY, USA",
+        "full_location": {
+            "city": "Manhattan",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT"
+            ],
+            "primary": [
+                "Google Cloud Professional Data Engineer",
+                "Google Cloud Professional Machine Learning Engineer",
+                "Google Cloud Professional Cloud Engineer"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT",
+                "Google Cloud Professional Data Engineer",
+                "Google Cloud Professional Machine Learning Engineer",
+                "Google Cloud Professional Cloud Engineer"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Jatin Parashar",
+        "email": "jparashar@vyzeinc.com",
+        "jd": "From: jatin parashar, Vyze Inc jparashar@vyzeinc.com Reply to: jparashar@vyzeinc.com Hi,I hope you are doing well, Job Description \u2013Role: Senior GCP Data Engineer- Multiple openings Duration: 6 months +Locations: - Manhattan, NY (2 days onsite a week)Moi: Skype Must have 2 Active GCP certifications -Google Cloud Professional Data EngineerGoogle Cloud Professional Machine Learning EngineerGoogle Cloud Professional Cloud Engineer GCP-certified candidates are highly preferred and have great chances to get an offer !!Requirements:SQL, Python, Spark, and DBT.",
+        "source": "Email",
+        "date_posted": "2024-10-02 09:04:07-05:00",
+        "unique_id": "1924d8b55e22c302",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

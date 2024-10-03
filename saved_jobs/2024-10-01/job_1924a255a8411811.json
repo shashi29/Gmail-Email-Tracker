@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Key Infotek",
+        "job_title": "Cloud Data Engineer (Azure & Databricks)",
+        "location": "Detroit, MI, USA",
+        "full_location": {
+            "city": "Detroit",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor's degree in science, Technology, Engineering, or Mathematics",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$42/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Databricks",
+                "Azure Data Factory",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "Data Engineering",
+                "ETL/ELT development",
+                "Data integration",
+                "Data modeling",
+                "Cloud security"
+            ],
+            "secondary": [
+                "Machine learning",
+                "AI",
+                "Azure Data Lake",
+                "Data orchestration",
+                "Azure ML",
+                "Analytics Specialty",
+                "Azure Solutions Architect"
+            ],
+            "all": [
+                "Azure",
+                "Databricks",
+                "Azure Data Factory",
+                "Python",
+                "SQL",
+                "Data Engineering",
+                "ETL/ELT development",
+                "Data integration",
+                "Data modeling",
+                "Cloud security",
+                "Machine learning",
+                "AI",
+                "Azure Data Lake",
+                "Data orchestration",
+                "Azure ML",
+                "Analytics Specialty",
+                "Azure Solutions Architect"
+            ],
+            "with_experience": [
+                "Azure (7+ years)",
+                "Databricks (7+ years)",
+                "Azure Data Factory (7+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sandeep",
+        "email": "sandeep@keyinfotek.com",
+        "jd": "From: Sandeep, Key Infotek sandeep@keyinfotek.com Reply to: sandeep@keyinfotek.com RATE - $42/hr on C2Cplease tell me if it works ? Visa - OPT / H1b / H4EAD Role \u2013 Cloud Data Engineer (Azure & Databricks)Location \u2013 Detroit, MI (Hybrid)Exp \u2013 7+ YearsJob Summary: As a cloud engineer for Azure, you will be responsible for designing and implementing scalable, high-performance data engineering solutions using Azure Databricks and Azure Data Factory.Job Description:Design and implementation of complex cloud solutions using Microsoft Azure, focusing on integration with Databricks and Azure Data Factory. Develop and maintain scalable and efficient data pipelines and architectures. Ensure optimal architecture and performance of applications deployed on Azure. Provide expertise in cloud security, ensuring compliance with industry standards and company policies. Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions. Manage the full lifecycle of data and analytics solutions, from requirements gathering to deployment and maintenance.Minimum Qualifications and Job Requirements: - Bachelor's degree in science, Technology, Engineering, or Mathematics. 7+ years of experience as a data engineer, with strong proficiency in Azure cloud services, Databricks, and Azure Data Factory 3+ years of experience with designing and implementing data solutions using Azure Cloud. Azure Data Engineering or Databricks Certification. Strong knowledge of programming languages such as Python, SQL, or Scala. Experience with data modeling, ETL/ELT development, data integration and orchestration techniques Experience with designing and developing end-to-end data and analytics solutions leveraging Azure Data Lake, Azure Databricks, and Data Factory Nice to Have:Experience with designing scalable data analytics architecture to implement advanced analytics solutions, including machine learning and AI, to extract actionable insights from data. Additional Azure Certifications like Azure ML, Analytics Specialty, or Azure Solutions Archit.",
+        "source": "Email",
+        "date_posted": "2024-10-01 17:14:11-05:00",
+        "unique_id": "1924a255a8411811",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

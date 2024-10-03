@@ -1,0 +1,87 @@
+[
+    {
+        "company": "CVSD",
+        "job_title": "MongoDB/Cosmos DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Database Administration",
+                "Performance Tuning",
+                "Monitoring",
+                "Process Analysis",
+                "Backup and Restore"
+            ],
+            "primary": [
+                "Linux/Unix Shell Commands",
+                "Windows PowerShell",
+                "Python",
+                "Security and Data Compliance",
+                "MongoDB",
+                "Cosmos"
+            ],
+            "secondary": [
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GHA",
+                "GitHub",
+                "Jenkins",
+                "Mongo Atlas Management"
+            ],
+            "all": [
+                "Database Administration",
+                "Performance Tuning",
+                "Monitoring",
+                "Process Analysis",
+                "Backup and Restore",
+                "Linux/Unix Shell Commands",
+                "Windows PowerShell",
+                "Python",
+                "Security and Data Compliance",
+                "MongoDB",
+                "Cosmos",
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GHA",
+                "GitHub",
+                "Jenkins",
+                "Mongo Atlas Management"
+            ],
+            "with_experience": [
+                "MongoDB (3+ years)",
+                "Mongo Atlas Management (2+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Yogesh Chauhan",
+        "email": "y.chauhan@sibitalent.com",
+        "jd": "From: Yogesh Chauhan, Sibitalent y.chauhan@sibitalent.com Reply to: y.chauhan@sibitalent.com Job Title \u2013 MongoDB/Cosmos DBA Job Location \u2013 Remote End Client \u2013 CVSD Duration \u2013 6+ Months Visa \u2013 No CPT, H1B Mode of Interview \u2013 Phone/Skype Job description - **LinkedIn with Picture** Common Required Qualifications: 8 years of combined experience in Database Administration / Engineering Advanced knowledge of performance tuning, monitoring/alerting, observability, dashboarding Advanced knowledge of process/query analysis, buffer tuning, client/server connectivity and database consistency checks Advanced knowledge of maintenance routines, upgrades, patching Experience in handling physical/logical backups & restores and data refreshes. Experience in Linux/Unix shell commands or Windows PowerShell or Python Experience in OS fine tuning with regards to Network I/O, Disk Should be able to collaborate with DBA peers and mentor, work well in a team and independently Should be able to multi-task i.e. parallelize multiple environment build / data migration Should be able to work off-hours for application release support, Linux patching support, maintenance windows Experienced with security and data compliance aspects of database Well versed with latest version of database Preferred qualifications Experience with automation via Ansible, Terraform Experience with deployments (CI/CD) with GHA, GitHub, Jenkins Mongo/Cosmos (1 DBA) 3+ years of experience with Mongo install and configuration of replica set & multi node sharded clusters Experienced in install and configuration of MongoDB Ops Manager & usage of MongoDB Compass Has knowledge on replica set election process & voting member priority for electing the primary Experienced in query optimization, managing the growth of documents & better disk & cache optimization 2+ years of Mongo Atlas management and configuration experience in GCP, AWS and Azure Thanks & Regards Yogesh Chauhan Techincal Recuriter Mob:- +1(972)-736-8304 E-Mail:y.chauhan@sibitalent.com Website:www.sibitalent.com Office :\u2013 101 E. Park Blvd., Suite 600, Plano, TX -75074",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:17:55-05:00",
+        "unique_id": "19248ac8fe87a420",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

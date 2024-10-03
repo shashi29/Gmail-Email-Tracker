@@ -34,15 +34,14 @@
                 "SOAP",
                 "REST",
                 "JavaScript",
-                "SSRS",
-                "Responsive Design"
+                "SSRS"
             ],
             "secondary": [
                 "Troubleshooting",
                 "Maintenance",
-                "Bug Fixing",
-                "Web Service Development",
-                "Data Extracts"
+                "Responsive Design",
+                "File Uploads",
+                "Electronic Signatures"
             ],
             "all": [
                 "BizTalk",
@@ -55,20 +54,11 @@
                 "REST",
                 "JavaScript",
                 "SSRS",
-                "Responsive Design",
                 "Troubleshooting",
                 "Maintenance",
-                "Bug Fixing",
-                "Web Service Development",
-                "Data Extracts"
-            ],
-            "with_experience": [
-                "BizTalk (84 months)",
-                "MS Dynamics CRM (60 months)",
-                "ASP.NET (84 months)",
-                "C# (84 months)",
-                "WCF (84 months)",
-                "Web API (84 months)"
+                "Responsive Design",
+                "File Uploads",
+                "Electronic Signatures"
             ]
         },
         "job_type": [

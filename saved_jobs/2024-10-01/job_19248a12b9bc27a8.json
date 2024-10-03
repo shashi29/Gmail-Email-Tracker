@@ -10,9 +10,9 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
-            "job_code": "",
             "experience_required": "7 years",
             "degree_required": "Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience",
             "visa_sponsorship": "Not specified",
@@ -30,15 +30,15 @@
             ],
             "primary": [
                 "Data Warehouse Solutions",
-                "Data Pipelines",
                 "Snowflake",
                 "CICD",
+                "Jenkins",
                 "Agile Methodologies"
             ],
             "secondary": [
                 "Dataiku",
-                "Data Quality",
                 "Data Profiling",
+                "Data Quality",
                 "Catalog Tools",
                 "Mentoring"
             ],
@@ -49,15 +49,22 @@
                 "Python",
                 "AWS",
                 "Data Warehouse Solutions",
-                "Data Pipelines",
                 "Snowflake",
                 "CICD",
+                "Jenkins",
                 "Agile Methodologies",
                 "Dataiku",
-                "Data Quality",
                 "Data Profiling",
+                "Data Quality",
                 "Catalog Tools",
                 "Mentoring"
+            ],
+            "with_experience": [
+                "Informatica (4 years)",
+                "Data Engineering (7 years)",
+                "Snowflake (5 years)",
+                "CICD (5 years)",
+                "Agile Methodologies (4 years)"
             ]
         },
         "job_type": [
@@ -70,7 +77,8 @@
         "date_posted": "2024-10-01 10:06:09-05:00",
         "unique_id": "19248a12b9bc27a8",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "AWS Data Engineer"
     }

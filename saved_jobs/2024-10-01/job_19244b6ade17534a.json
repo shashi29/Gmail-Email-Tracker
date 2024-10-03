@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Siri InfoSolutions inc",
+        "job_title": "GCP Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "5-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Visualization API",
+                "Grafana",
+                "PromQL",
+                "HTML"
+            ],
+            "primary": [
+                "Google Monitoring Metrics collection"
+            ],
+            "secondary": [
+                "good communication skills"
+            ],
+            "all": [
+                "Google Visualization API",
+                "Grafana",
+                "PromQL",
+                "HTML",
+                "Google Monitoring Metrics collection",
+                "good communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ganesh Kathila",
+        "email": "ganesh.k@siriinfo.com",
+        "jd": "From: Ganesh Kathila, Siri InfoSolutions inc ganesh.k@siriinfo.com Reply to: ganesh.k@siriinfo.com Hello Partner,Hope you are doing well!!We have an immediate opening for the below position with one of our premium clients Job title: GCP DeveloperMust Have: Google Visualization API with Grafana Developer Work Location: Charlotte, NC 28202 (Onsite)Minimum years of experience: 5 to 8 Years Must Have: Experience with Google Monitoring Metrics collection.Experience with PromQL (Prometheus Query Language)Experience with GrafanaExperience with HTML to leverage visualization in GrafanaCandidate should have good communication skills.",
+        "source": "Email",
+        "date_posted": "2024-09-30 15:55:02-05:00",
+        "unique_id": "19244b6ade17534a",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

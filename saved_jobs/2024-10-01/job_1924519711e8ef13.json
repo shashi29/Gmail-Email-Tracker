@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "11+ years",
@@ -53,15 +54,16 @@
         "job_type": [
             "onsite"
         ],
-        "contact_person": "Rajeev kharwar",
+        "contact_person": "Rajeev Kharwar",
         "email": "rajeeve.kharwar@tekinspirations.com",
         "jd": "Hello,I hope you are doing well,I have a role of AWS PYTHON + GOLANG DEVELOPERPlease let me know if you are comfortable with this role,At the time of submission I need DL and Visa. Job Description - AWS PYTHON + GOLANG DEVELOPER Client/ Domain Name \u2013 CapitalOneLocation- Chicago, IL (100% Onsite)- need candidate Within 50 miles from ChicagoDuration- 6 months Interview Mode- skype Visa- Any visa (except CPT/H1B)Rate \u2013$60/hr EXPERIENCE: 11+ YEARS (mandatory) Primary Skills: Programming Languages:\u2022 Proficiency in Python and Golang\u2022 Experience with tool development and integration using these languages GitHub Integration:\u2022 Experience with integrating tools and applications with GitHub\u2022 Understanding of GitHub APIs and workflows Secondary Skills: Web Development:\u2022 Familiarity with web frameworks and development practices in Python and Golang\u2022 Knowledge of API development and RESTful services Testing and Debugging:\u2022 Strong debugging and troubleshooting skills\u2022 Experience with unit testing and test automation Roles and Responsibilities:\u2022 Develop and maintain tools and applications using Python and Golang\u2022 Integrate tools and applications with GitHub for seamless workflows\u2022 Write clean, efficient, and maintainable code\u2022 Debug and troubleshoot issues in the developed applications\u2022 Collaborate with cross-functional teams to deliver high-quality software",
         "source": "Email",
         "date_posted": "2024-09-30 17:42:55-05:00",
         "unique_id": "1924519711e8ef13",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "Python Dev"
+        "tag": "Python developer"
     }
 ]

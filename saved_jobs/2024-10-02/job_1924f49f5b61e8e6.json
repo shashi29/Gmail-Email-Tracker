@@ -1,0 +1,71 @@
+[
+    {
+        "company": "KPG99",
+        "job_title": "LIMS Software Engineer",
+        "location": "Cambridge, MA, USA",
+        "full_location": {
+            "city": "Cambridge",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6 months + extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "LIMS",
+                "Python",
+                "Django"
+            ],
+            "primary": [
+                "database technologies",
+                "data engineering practices",
+                "Agile/Scrum"
+            ],
+            "secondary": [
+                "AWS S3",
+                "AWS RDS",
+                "AWS EC2",
+                "Docker",
+                "Kubernetes"
+            ],
+            "all": [
+                "LIMS",
+                "Python",
+                "Django",
+                "database technologies",
+                "data engineering practices",
+                "Agile/Scrum",
+                "AWS S3",
+                "AWS RDS",
+                "AWS EC2",
+                "Docker",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sonali Gupta",
+        "email": "sgupta@kpgtech.com",
+        "jd": "From: Sonali Gupta, KPG99 sgupta@kpgtech.com Reply to: sgupta@kpgtech.com Hi,Please Read the below Requirement and share your resume and also please let me know your visa status and current Location if interested.\n\nTitle: LIMS Software Engineer\nLocation - Hybrid in Cambridge MA 02142 Prefer local \u2013 Must be onsite 3 days a week\nDuration: 6 months + extensions\nTravel: Will any travel be required as part of consultant duties? NO.\nStart: ASAP\nAny Visa Must have\n\nLims\nPython\nDjango\n\nThe Role\nThe client is seeking a dedicated and skilled Senior Software Engineer to join our software platform team as a full-stack engineer specializing in Laboratory Information Management System (LIMS). You will be responsible for designing, developing, and maintaining software applications that support laboratory operations. Additionally, you will play a crucial role in integrating third-party LIMS systems to ensure seamless interoperability and enhanced functionality. As a member of the platform software team, you will work with colleagues across automation, bioinformatics, and laboratory science to create robust systems that streamline laboratory workflows, data management, and reporting. Your expertise will contribute to ensuring the accuracy, efficiency, and scalability of our LIMS solutions. Our team culture emphasizes shared responsibility and empathy for our users.\n\nResponsibilities:\nDesign, develop, and implement LIMS software applications, modules, and interfaces to meet user needs and enhance laboratory operations.\nProvide ongoing support for the development of internal LIMS tools, ensuring they meet evolving laboratory requirements and incorporate the latest technologies.\nIntegrate third-party LIMS systems and external software applications to ensure seamless data flow, interoperability, and automation across different platforms.\nEnsure best practices in software development including version control, code reviews, testing, and documentation.\nTroubleshoot and resolve technical issues related to software and machine learning model integration.\nSupport and train internal users of our software products alongside team members.\nProvide mentorship and guidance to junior engineers and team members, promoting a culture of continuous learning and improvement.\nStay current with industry trends, emerging technologies, and best practices in LIMS and software engineering.\n\nQualifications:\nMinimum of 5 years of experience working with LIMS systems.\nProven experience in Python and the Django framework in a commercial environment.\nDemonstrated experience in both supporting the development of LIMS tools and integrating third-party LIMS systems.\nFamiliarity with database technologies and data engineering practices.\nStrong analytical and problem-solving skills, with the ability to work independently and in a team environment.\nPrevious experience working in an Agile/Scrum development environment.\nExcellent communication and collaboration skills, with keen attention to detail.\n\nPreferred Qualifications:\nExperience with foundational AWS services: S3, RDS, EC2\nProficient in containerization technologies like Docker and orchestration tools such as Kubernetes.",
+        "source": "Email",
+        "date_posted": "2024-10-02 14:34:57-05:00",
+        "unique_id": "1924f49f5b61e8e6",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

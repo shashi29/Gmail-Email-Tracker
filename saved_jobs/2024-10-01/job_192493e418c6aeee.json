@@ -1,0 +1,102 @@
+[
+    {
+        "company": "Siriinfo",
+        "job_title": "Sr. Python Developer (Pyspark and Big Data exp)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Big Data",
+                "Django",
+                "Flask",
+                "PySpark",
+                "Data Science algorithms",
+                "REST APIs",
+                "RDBMS",
+                "NoSQL"
+            ],
+            "primary": [
+                "Data munging",
+                "Third-party Python libraries",
+                "Pandas",
+                "Pyarrow",
+                "Numpy",
+                "ML libraries",
+                "scikit-learn"
+            ],
+            "secondary": [
+                "Automated testing",
+                "Reusable code components",
+                "High quality code",
+                "Stakeholder management",
+                "Coordination with teams"
+            ],
+            "all": [
+                "Python",
+                "Big Data",
+                "Django",
+                "Flask",
+                "PySpark",
+                "Data Science algorithms",
+                "Data munging",
+                "Third-party Python libraries",
+                "Pandas",
+                "Pyarrow",
+                "Numpy",
+                "ML libraries",
+                "scikit-learn",
+                "REST APIs",
+                "RDBMS",
+                "NoSQL",
+                "Automated testing",
+                "Reusable code components",
+                "High quality code",
+                "Stakeholder management",
+                "Coordination with teams"
+            ],
+            "with_experience": [
+                "Python (8+ years)",
+                "Big Data",
+                "Django",
+                "Flask",
+                "PySpark",
+                "Data Science algorithms",
+                "REST APIs",
+                "RDBMS",
+                "NoSQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Chandra N",
+        "email": "chandra.n@siriinfo.com",
+        "jd": "From: Chandra N, Siriinfo chandra.n@siriinfo.com Reply to: chandra.n@siriinfo.com Role: Sr. Python Developer (Pyspark and Big Data exp)Location: Open to relocateDuration: Long ContractMode: VideoNo GC's and EAD's Job Details: Sr. Python Developer with experience in handling Big DataAdvanced Level experience (8+ years) with Python programming language handling Big DataExperience with Django and/or FlaskExperience with PySparkExperience with implementing Data Science algorithmsExperience with data munging/wrangling would be good to have Experience using third-party Python libraries including Pandas, Pyarrow, Numpy, etc.Experience with ML libraries like scikit-learnExperience developing REST APIs involving large volume data setsExperience with RDBMS systems.Experience with NoSQL stores (HBase, Cassandra etc.).Rigor in high quality code, automated testing, and other engineering best practices, ability to write reusable code components.This role requires partnering continuously with many stakeholders and global teams daily to stay focus on common goals. This includes coordinating with internal and external teams (onsite/offshore) as necessary.",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:00:59-05:00",
+        "unique_id": "192493e418c6aeee",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

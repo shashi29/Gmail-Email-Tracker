@@ -10,9 +10,9 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
-            "job_code": "",
             "experience_required": "Not specified",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
@@ -24,7 +24,8 @@
             "core": [
                 "SQL",
                 "Data Modeling",
-                "Strong SQL Development skills"
+                "Strong SQL Development skills",
+                "Strong data modelling skills"
             ],
             "primary": [
                 "Cloud technologies (Quicksight, Redshift, S3, RDS, Kafka streaming, Glue, Lambda)"
@@ -36,12 +37,9 @@
                 "SQL",
                 "Data Modeling",
                 "Strong SQL Development skills",
+                "Strong data modelling skills",
                 "Cloud technologies (Quicksight, Redshift, S3, RDS, Kafka streaming, Glue, Lambda)",
                 "Reporting tools (PowerBI, Cognos, Tableau)"
-            ],
-            "with_experience": [
-                "SQL (Strong)",
-                "Data Modeling (Strong)"
             ]
         },
         "job_type": [
@@ -54,7 +52,8 @@
         "date_posted": "2024-10-01 10:54:19-05:00",
         "unique_id": "19248cedb5f9b02a",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
         "tag": "AWS Data Engineer"
     }

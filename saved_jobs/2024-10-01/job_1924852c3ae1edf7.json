@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "8-10 years",
             "degree_required": "Not specified",
@@ -44,6 +46,10 @@
                 "Shell Scripting",
                 "Hadoop",
                 "pytest"
+            ],
+            "with_experience": [
+                "Python (8-10 years)",
+                "AWS"
             ]
         },
         "job_type": [],
@@ -53,7 +59,9 @@
         "source": "Email",
         "date_posted": "2024-10-01 08:23:19-05:00",
         "unique_id": "1924852c3ae1edf7",
-        "emp_type": [],
-        "tag": "Python Dev"
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
     }
 ]

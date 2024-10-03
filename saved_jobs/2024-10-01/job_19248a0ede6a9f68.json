@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "5-15 years",
@@ -27,39 +28,33 @@
                 "Entertainment/Toy or Apparel"
             ],
             "primary": [
-                "Licensing agreements",
                 "Negotiating deal terms",
                 "Contract administration",
-                "PowerPoint presentations",
-                "Excel reports",
                 "Financial analysis",
                 "Product development",
-                "Marketing",
-                "Competitive product and retail landscape"
+                "Marketing"
             ],
             "secondary": [
-                "Negotiation skills",
-                "Contract management",
+                "PowerPoint presentations",
+                "Excel reports",
                 "Analytical thinking",
-                "Strategic thinking"
+                "Strategic thinking",
+                "Negotiation skills"
             ],
             "all": [
                 "Consumer Products Licensing",
                 "Brand Management",
                 "Entertainment/Toy or Apparel",
-                "Licensing agreements",
                 "Negotiating deal terms",
                 "Contract administration",
-                "PowerPoint presentations",
-                "Excel reports",
                 "Financial analysis",
                 "Product development",
                 "Marketing",
-                "Competitive product and retail landscape",
-                "Negotiation skills",
-                "Contract management",
+                "PowerPoint presentations",
+                "Excel reports",
                 "Analytical thinking",
-                "Strategic thinking"
+                "Strategic thinking",
+                "Negotiation skills"
             ]
         },
         "job_type": [
@@ -72,8 +67,9 @@
         "date_posted": "2024-10-01 10:05:30-05:00",
         "unique_id": "19248a0ede6a9f68",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

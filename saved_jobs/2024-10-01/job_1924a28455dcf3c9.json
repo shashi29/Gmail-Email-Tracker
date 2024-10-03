@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Convex Tech Inc.",
+        "job_title": ".NET Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's Degree (highly preferred)",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "WCF",
+                "API",
+                ".Net Core",
+                "SOA",
+                "SaaS",
+                "SQL"
+            ],
+            "primary": [
+                "Object Oriented Design",
+                "Communication protocols",
+                "Database optimization",
+                "Containerization of databases"
+            ],
+            "secondary": [
+                "Cloud experience (GCP)",
+                "React",
+                "Problem solving",
+                "Critical thinking",
+                "Collaboration",
+                "Communication"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "WCF",
+                "API",
+                ".Net Core",
+                "SOA",
+                "SaaS",
+                "SQL",
+                "Object Oriented Design",
+                "Communication protocols",
+                "Database optimization",
+                "Containerization of databases",
+                "Cloud experience (GCP)",
+                "React",
+                "Problem solving",
+                "Critical thinking",
+                "Collaboration",
+                "Communication"
+            ],
+            "with_experience": [
+                ".NET",
+                "C#"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sanjay Sunar",
+        "email": "sanjay@convextech.com",
+        "jd": "From: Sanjay Sunar, convextech sanjay@convextech.com Reply to: sanjay@convextech.com Position: .NET Engineer Location: Alpharetta, GA REMOTE Duration: 6-12Months Visa: NO H1B/CPT Interview: Phone/Skype/Teams Job Description: Bonus Points For Bachelor's Degree (highly preferred) Cloud experience \u2013 ideally Google (GCP) React ---------------------------JOB DESCRIPTION---------------------------Skills Ability to quickly consume and understand business strategy and operating models; can apply gap analysis techniques to create long-term technical product strategy. Ability to align technical product and social capabilities match business needs and goals. Ability to effectively communicate goals, metrics, and value propositions across the organization. Ability to facilitate design, development, and support of existing and new products between business stakeholders. Passion for solving problems Desire to learn & grow which includes seeking and giving feedback Must-Haves Solid .NET system services, communication protocols, and development skills. Must have exposure around Object Oriented Design & Analysis principles in C#; as well as WCF, API, ORM, .Net Core, SOA, SaaS, and SQL data store technologies. Must be able to evaluate and modify database complex stored procedures, optimize database structures, and have familiarity with containerization of databases. Must be able to deep-dive into various data stores to product meaningful insights, operational intelligence, customer experience visualizations, and proactive trend analyses. Good collaboration skills & communication skills Good problem solving & critical thinking skills",
+        "source": "Email",
+        "date_posted": "2024-10-01 17:17:21-05:00",
+        "unique_id": "1924a28455dcf3c9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

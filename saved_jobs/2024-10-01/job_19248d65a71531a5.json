@@ -10,9 +10,9 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
-            "job_code": "",
             "experience_required": "10+ years",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
@@ -83,7 +83,8 @@
         "date_posted": "2024-10-01 10:38:47-05:00",
         "unique_id": "19248d65a71531a5",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "GCP Data Engineer"
     }

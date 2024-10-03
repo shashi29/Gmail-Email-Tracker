@@ -10,12 +10,13 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Minimum 10 years",
             "degree_required": "Educated to degree level or higher in Computer Science or a related technology field",
-            "visa_sponsorship": "Looking for H4 EAD, L2 EAD, GC, USC",
+            "visa_sponsorship": "Not specified",
             "notice_period": "Not specified",
             "duration": "Contract to Hire",
             "rate": "Not specified"
@@ -31,23 +32,29 @@
             "primary": [
                 "Entity Framework",
                 "MVC",
-                "Microsoft WCF RIA services",
+                "WCF RIA services",
                 "Unit testing using nUnit",
-                "UML",
-                "CSS",
-                "Java scripting",
                 "REST web services",
                 "Microsoft windows workflow foundations",
                 "Test-driven development"
             ],
             "secondary": [
-                "Integrating websites with 3rd party APIs (REST/SOAP)",
+                "CSS",
+                "Java scripting",
+                "UML \u2013 Sequence diagrams, Class diagrams",
+                "Client-focused",
+                "Effective time management",
+                "Problem-solving skills",
+                "Peer review",
+                "Emerging technologies",
+                "Technical design documentation",
+                "3rd party APIs (REST/SOAP)",
                 "TDD / BDD (e.g. Cucumber)",
                 "Testing frameworks",
                 "Source Control (SVN, TFS)",
                 "Release Management",
                 "Power BI and Analytics",
-                "AWS continuous integration and continuous delivery (CI/CD)"
+                "AWS CI/CD"
             ],
             "all": [
                 ".NET 3.5/4",
@@ -57,21 +64,35 @@
                 "Object Oriented design",
                 "Entity Framework",
                 "MVC",
-                "Microsoft WCF RIA services",
+                "WCF RIA services",
                 "Unit testing using nUnit",
-                "UML",
-                "CSS",
-                "Java scripting",
                 "REST web services",
                 "Microsoft windows workflow foundations",
                 "Test-driven development",
-                "Integrating websites with 3rd party APIs (REST/SOAP)",
+                "CSS",
+                "Java scripting",
+                "UML \u2013 Sequence diagrams, Class diagrams",
+                "Client-focused",
+                "Effective time management",
+                "Problem-solving skills",
+                "Peer review",
+                "Emerging technologies",
+                "Technical design documentation",
+                "3rd party APIs (REST/SOAP)",
                 "TDD / BDD (e.g. Cucumber)",
                 "Testing frameworks",
                 "Source Control (SVN, TFS)",
                 "Release Management",
                 "Power BI and Analytics",
-                "AWS continuous integration and continuous delivery (CI/CD)"
+                "AWS CI/CD"
+            ],
+            "with_experience": [
+                ".NET 3.5/4",
+                "C#",
+                "ASP.NET",
+                "SQL Server",
+                "Object Oriented design",
+                "Minimum 10 years"
             ]
         },
         "job_type": [
@@ -84,8 +105,9 @@
         "date_posted": "2024-10-01 09:50:40-05:00",
         "unique_id": "19248afabc4744a0",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": ".NET Dev"
+        "tag": ".net developer"
     }
 ]

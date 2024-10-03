@@ -1,0 +1,78 @@
+[
+    {
+        "company": "GAC Solutions",
+        "job_title": "Data Architect",
+        "location": "San Antonio, TX, USA",
+        "full_location": {
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Architect",
+                "Snowflake",
+                "AWS data services",
+                "SQL",
+                "No-SQL databases"
+            ],
+            "primary": [
+                "Data management",
+                "Agile methodologies",
+                "Data pipelines",
+                "Data transformation",
+                "Data models"
+            ],
+            "secondary": [
+                "Property and casualty insurance",
+                "Technical risk mitigation",
+                "Emerging technologies",
+                "Data quality",
+                "Information governance"
+            ],
+            "all": [
+                "Data Architect",
+                "Snowflake",
+                "AWS data services",
+                "SQL",
+                "No-SQL databases",
+                "Data management",
+                "Agile methodologies",
+                "Data pipelines",
+                "Data transformation",
+                "Data models",
+                "Property and casualty insurance",
+                "Technical risk mitigation",
+                "Emerging technologies",
+                "Data quality",
+                "Information governance"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kiran Nagani",
+        "email": "kiran@gacsol.com",
+        "jd": "Hello,Hope you are doing well, This is Kiran from \u201cGAC Solutions\u201d . I have an excellent job opportunity with one of our clients. Please find the job description below. Role: Data Architect Location: San Antonio, TX \u2013 OnsiteDuration: Long term contract Job description: As a dedicated Data Architect, you will collaborate closely with Business, Architecture and Development leaders to translate business strategy and business architecture into technology vision, technology blueprints, architecture runway items, technical risk mitigation, and detailed designsIn this role, you will work closely with business, architecture and development teams to identify and resolve technical risks using Agile spikes and Proof of Concept activities in preparation for Program Increment sessions where the Staff Engineer will transition designs to the development teams to code the solutionsThe ideal candidate will be an experienced Data Engineer with expertise in architecting, designing, coding and testing Transactional and Analytical data information solutionsStrong experience with Snowflake is ideal along with AWS data services, SQL and No-SQL databases.They will have a deep understanding of property and casualty insurance and modern cloud software development technologies while keeping an eye on emerging technologiesData Engineers DEs are engaged in all phases of the data management lifecycleThis includes gathering and analyzing requirements, collecting, processing, storing, securing, and archiving dataDevelop and maintain technical systems for data reporting and technical solutions applying emerging technologiesPartner with the business to ensure data management solutions aligned to business objectivesWe offer a flexible work environment that requires an individual to be in the office 4 days per weekLeads across technology domains to help design, build and handle data pipelines including data transformation, data models, schemas, metadata, data quality, and workload managementGuides to re-engineer data processes to improve overall efficiency and business valueReviews and provides feedback on data models and design considerationsEnsures that teams build processes that support effective data management, metadata management, and data qualityDocuments and socializes findings on technology product evaluations and educates team on options available and preferences in technology selectionMentors and coaches experienced engineers and provides business inputs and feedback to leadershipLeverages experience with large scale distributed processing systems to collaborate with architects and handle technology choices and implementation processes across multiple teamsSocializes standard methodologies in secure data management, metadata management, information governance, compliance alignment and data quality with teamsBuilds and oversees a team of employees for assigned functional area through ongoing execution of recruiting, development, retention, coaching and support, performance management, and managerial activitiesRemains relevant in the industry to bring expertise to USAA practicesEnsures risks associated with business activities are effectively identified, measured, monitored, and controlled in accordance with risk and compliance policies and procedures.",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:50:28-05:00",
+        "unique_id": "1924415f5d23002a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

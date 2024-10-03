@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "10+ years",
             "degree_required": "Bachelor's degree in Business, Accounting, IT or experience in Source to Pay operations.",
@@ -27,15 +29,15 @@
             "primary": [
                 "System administration",
                 "Troubleshooting",
-                "Configuration",
-                "Integration",
+                "Complex configuration",
+                "Develop integrations",
                 "Project management"
             ],
             "secondary": [
                 "Supplier Enablement",
                 "Cloud-based ERP Applications",
                 "Agile methodologies",
-                "Scrum",
+                "Scrum process",
                 "JIRA"
             ],
             "all": [
@@ -44,13 +46,13 @@
                 "Coupa",
                 "System administration",
                 "Troubleshooting",
-                "Configuration",
-                "Integration",
+                "Complex configuration",
+                "Develop integrations",
                 "Project management",
                 "Supplier Enablement",
                 "Cloud-based ERP Applications",
                 "Agile methodologies",
-                "Scrum",
+                "Scrum process",
                 "JIRA"
             ],
             "with_experience": [
@@ -64,11 +66,13 @@
         ],
         "contact_person": "Pranith",
         "email": "pranith.t@tekgence.com",
-        "jd": "From: Pranith, Tekgence Inc pranith.t@tekgence.com Reply to: pranith.t@tekgence.com Role: Business System Analyst - Procure to Pay Years of Experience: 10+ years Location: Remote (Preferred in PST Time Zone) Main Skills: Procure to Pay (P2P), NetSuite with Coupa Job Description: In this role as an individual contributor, you will assume the crucial responsibility of overseeing the day-to-day operations of the P2P system. This entails managing user accounts, executing intricate configuration modifications, coordinating release processes, and conducting thorough system testing and issue resolution, all while upholding our rigorous internal control standards. What you\u2019ll be doing Collaborate closely with Business Stakeholders to comprehensively capture and document business needs, forming the foundation for procedural enhancements through the effective utilization of Coupa, NetSuite, and additional relevant business applications. Play a vital role in cross-functional initiatives and projects within the Procure to Pay domain, encompassing activities such as system implementations, operational refinements, and the seamless introduction of new products. System administration including user on and offboarding, user access updates, and other administrative tasks as needed. Troubleshooting of system and integration errors, and building processes using the Process Automator functionality. Complex configuration including building and maintaining user roles, workflows, process forms, and reports, maintaining master data, and other similar tasks. Demonstrate proactive initiative by identifying potential areas for enhancement and proposing projects aimed at optimizing business operations, whenever applicable. Develop integrations and automations through systems like Workato Apply your knowledge of P2P system best practices and financial processes to propose solutions and specific requirements What you bring to the role Basic Qualifications: Bachelor's degree in Business, Accounting, IT or experience in Source to Pay operations. 3+ years of experience with Procure-To-Pay, Supplier Enablement and related procurement areas Have experience with relevant cloud-based ERP Applications (Coupa and Netsuite preferred). Experience gathering requirements, creating functional design, and providing solutions to the Business. Proven experience in organizational, project, and planning management Previous experience working on teams consisting of business and IT resources Preferred Qualifications: Ability to work closely with stakeholders to consult, train & improve knowledge of existing NetSuite features. Ability to work with a fast-paced and agile team focused on strong execution. Knowledge of Scrum process and tools such as JIRA is a plus Proven experience ensuring quality deliverables. Leading test preparation, execution and Provide post Go-Live support Strong verbal and written communication skills, along with strong presentation skills.",
+        "jd": "From: Pranith, Tekgence Inc pranith.t@tekgence.com Reply to: pranith.t@tekgence.com Role: Business System Analyst - Procure to Pay\nYears of Experience: 10+ years\nLocation: Remote (Preferred in PST Time Zone) \nMain Skills: Procure to Pay (P2P), NetSuite with Coupa \nJob Description:\nIn this role as an individual contributor, you will assume the crucial responsibility of overseeing the day-to-day operations of the P2P system. This entails managing user accounts, executing intricate configuration modifications, coordinating release processes, and conducting thorough system testing and issue resolution, all while upholding our rigorous internal control standards.\nWhat you\u2019ll be doing\nCollaborate closely with Business Stakeholders to comprehensively capture and document business needs, forming the foundation for procedural enhancements through the effective utilization of Coupa, NetSuite, and additional relevant business applications.\nPlay a vital role in cross-functional initiatives and projects within the Procure to Pay domain, encompassing activities such as system implementations, operational refinements, and the seamless introduction of new products.\nSystem administration including user on and offboarding, user access updates, and other administrative tasks as needed.\nTroubleshooting of system and integration errors, and building processes using the Process Automator functionality.\nComplex configuration including building and maintaining user roles, workflows, process forms, and reports, maintaining master data, and other similar tasks.\nDemonstrate proactive initiative by identifying potential areas for enhancement and proposing projects aimed at optimizing business operations, whenever applicable.\nDevelop integrations and automations through systems like Workato\nApply your knowledge of P2P system best practices and financial processes to propose solutions and specific requirements\nWhat you bring to the role\nBasic Qualifications:\nBachelor's degree in Business, Accounting, IT or experience in Source to Pay operations.\n3+ years of experience with Procure-To-Pay, Supplier Enablement and related procurement areas\nHave experience with relevant cloud-based ERP Applications (Coupa and Netsuite preferred).\nExperience gathering requirements, creating functional design, and providing solutions to the Business.\nProven experience in organizational, project, and planning management\nPrevious experience working on teams consisting of business and IT resources\nPreferred Qualifications:\nAbility to work closely with stakeholders to consult, train & improve knowledge of existing NetSuite features.\nAbility to work with a fast-paced and agile team focused on strong execution.\nKnowledge of Scrum process and tools such as JIRA is a plus\nProven experience ensuring quality deliverables.\nLeading test preparation, execution and Provide post Go-Live support\nStrong verbal and written communication skills, along with strong presentation skills.",
         "source": "Email",
         "date_posted": "2024-10-01 09:35:54-05:00",
         "unique_id": "1924882cb755325c",
-        "emp_type": [],
-        "tag": "BA/Scrum Master/PM"
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
     }
 ]

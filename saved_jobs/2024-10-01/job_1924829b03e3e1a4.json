@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Over 12 years of experience working in the IT industry developing solutions in J2EE technologies and at least 5 years as a senior Java/ J2EE Developer",
@@ -28,12 +29,14 @@
                 "Docker"
             ],
             "primary": [
-                "Tomcat/J2EE application server",
+                "Tomcat",
+                "J2EE",
                 "Spring",
                 "Web Services",
                 "ORM frameworks",
                 "JMS",
-                "AJAX/JavaScript",
+                "AJAX",
+                "JavaScript",
                 "HTML5",
                 "CSS",
                 "JDBC",
@@ -43,7 +46,6 @@
                 "Mobile application development",
                 "SQL development",
                 "Performance tuning",
-                "OOADD",
                 "Agile development"
             ],
             "all": [
@@ -51,12 +53,14 @@
                 "Rest APIs",
                 "Kubernetes",
                 "Docker",
-                "Tomcat/J2EE application server",
+                "Tomcat",
+                "J2EE",
                 "Spring",
                 "Web Services",
                 "ORM frameworks",
                 "JMS",
-                "AJAX/JavaScript",
+                "AJAX",
+                "JavaScript",
                 "HTML5",
                 "CSS",
                 "JDBC",
@@ -64,7 +68,6 @@
                 "Mobile application development",
                 "SQL development",
                 "Performance tuning",
-                "OOADD",
                 "Agile development"
             ]
         },
@@ -78,8 +81,9 @@
         "date_posted": "2024-10-01 07:59:37-05:00",
         "unique_id": "1924829b03e3e1a4",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "Java Dev"
+        "tag": "Java developer"
     }
 ]

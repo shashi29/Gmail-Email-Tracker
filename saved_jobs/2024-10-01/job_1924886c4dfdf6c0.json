@@ -10,12 +10,13 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
             "degree_required": "Not specified",
-            "visa_sponsorship": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
             "notice_period": "Not specified",
             "duration": "12 months",
             "rate": "Not specified"
@@ -54,8 +55,9 @@
         "date_posted": "2024-10-01 09:40:27-05:00",
         "unique_id": "1924886c4dfdf6c0",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

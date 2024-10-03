@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
@@ -24,34 +25,34 @@
             "core": [
                 "Google Cloud services",
                 "Linux administration",
-                "Automation tools"
+                "Automation"
             ],
             "primary": [
+                "RedHat OpenShift",
                 "CI/CD pipelines",
-                "Scripting skills",
-                "Networking concepts",
-                "Monitoring tools"
+                "Scripting skills"
             ],
             "secondary": [
-                "Google Cloud Professional DevOps Engineer",
-                "Google Cloud Professional Cloud Architect",
-                "Red Hat Certified Engineer (RHCE)"
+                "Networking concepts",
+                "Monitoring tools"
             ],
             "all": [
                 "Google Cloud services",
                 "Linux administration",
-                "Automation tools",
+                "Automation",
+                "RedHat OpenShift",
                 "CI/CD pipelines",
                 "Scripting skills",
                 "Networking concepts",
                 "Monitoring tools",
-                "Google Cloud Professional DevOps Engineer",
-                "Google Cloud Professional Cloud Architect",
-                "Red Hat Certified Engineer (RHCE)"
-            ],
-            "with_experience": [
-                "Google Cloud services",
-                "Linux administration"
+                "Terraform",
+                "Ansible",
+                "Puppet",
+                "Azure pipelines",
+                "Jenkins",
+                "GitLab CI",
+                "Prometheus",
+                "Grafana"
             ]
         },
         "job_type": [
@@ -59,12 +60,13 @@
         ],
         "contact_person": "Mayank Mishra",
         "email": "mayank@stellarconsulting.com",
-        "jd": "Hello Partners, We are delighted to announce a compelling opportunity for the position of a Site Reliability Engineer. This role incorporates a hybrid work model, necessitating the successful candidate to be present on-site in Timonium MD for three days per week. Our esteemed client is actively in pursuit of an experienced consultant to augment their team. Comprehensive job specifications are delineated below for your perusal. We cordially invite you to share the profiles of any fitting consultants who are presently available. We eagerly anticipate our collaboration on this venture. We express our sincere gratitude for your consideration and support. Note: Hiring Manager is looking for consultant who is Google Cloud Platform (GCP Certified). Please share only profile who is GCP Certified. Job Description: We are looking for a talented Site Reliability Engineer (SRE) with a strong background in Google Cloud Platform (GCP), RedHat OpenShift and Linux administration. The ideal candidate will be responsible for ensuring the reliability, performance, and scalability of our on-premises and cloud-based systems. System Reliability: Ensure the reliability and uptime of critical services and infrastructure. Google Cloud Expertise: Design, implement, and manage cloud infrastructure using Google Cloud services. Linux Administration: Perform standard Linux system administration tasks, including monitoring, debugging, and optimizing system performance. Automation: Develop and maintain automation scripts and tools to improve system efficiency and reduce manual intervention. Monitoring and Incident Response: Implement monitoring solutions and respond to incidents to minimize downtime and ensure quick recovery. Collaboration: Work closely with development and operations teams to improve system reliability and performance. Capacity Planning: Conduct capacity planning and performance tuning to ensure systems can handle future growth. Documentation: Create and maintain comprehensive documentation for system configurations, processes, and procedures. Skills: Proficiency in Google Cloud services (Compute Engine, Kubernetes Engine, Cloud Storage, etc.). Strong Linux administration skills, including experience with system monitoring, debugging, and performance tuning. Experience with automation tools (Terraform, Ansible, Puppet). Familiarity with CI/CD pipelines and tools (Azure pipelines Jenkins, GitLab CI, etc.). Strong scripting skills (Python, Bash, etc.). Knowledge of networking concepts and protocols. Experience with monitoring tools (Prometheus, Grafana, etc.).",
+        "jd": "Hello Partners, We are delighted to announce a compelling opportunity for the position of a Site Reliability Engineer. This role incorporates a hybrid work model, necessitating the successful candidate to be present on-site in Timonium MD for three days per week. Our esteemed client is actively in pursuit of an experienced consultant to augment their team. Comprehensive job specifications are delineated below for your perusal. We cordially invite you to share the profiles of any fitting consultants who are presently available. We eagerly anticipate our collaboration on this venture. We express our sincere gratitude for your consideration and support. Note: Hiring Manager is looking for consultant who is Google Cloud Platform (GCP Certified). Please share only profile who is GCP Certified. Job Description: We are looking for a talented Site Reliability Engineer (SRE) with a strong background in Google Cloud Platform (GCP), RedHat OpenShift and Linux administration. The ideal candidate will be responsible for ensuring the reliability, performance, and scalability of our on-premises and cloud-based systems. System Reliability: Ensure the reliability and uptime of critical services and infrastructure. Google Cloud Expertise: Design, implement, and manage cloud infrastructure using Google Cloud services. Linux Administration: Perform standard Linux system administration tasks, including monitoring, debugging, and optimizing system performance. Automation: Develop and maintain automation scripts and tools to improve system efficiency and reduce manual intervention. Monitoring and Incident Response: Implement monitoring solutions and respond to incidents to minimize downtime and ensure quick recovery. Collaboration: Work closely with development and operations teams to improve system reliability and performance. Capacity Planning: Conduct capacity planning and performance tuning to ensure systems can handle future growth. Documentation: Create and maintain comprehensive documentation for system configurations, processes, and procedures. Skills: Proficiency in Google Cloud services (Compute Engine, Kubernetes Engine, Cloud Storage, etc.). Strong Linux administration skills, including experience with system monitoring, debugging, and performance tuning. Experience with automation tools (Terraform, Ansible, Puppet). Familiarity with CI/CD pipelines and tools (Azure pipelines Jenkins, GitLab CI, etc.). Strong scripting skills (Python, Bash, etc.). Knowledge of networking concepts and protocols. Experience with monitoring tools (Prometheus, Grafana, etc.). Preferred Certifications: Google Cloud Professional DevOps Engineer, Google Cloud Professional Cloud Architect, Red Hat Certified Engineer (RHCE) or similar Linux certification. Skill/Experience/Education: Google Cloud Certification, Azure Pipelines, ArgoCD, Promethius and Grafana Dashboards. OpenShift Certification, Google Cloud certification, Linux Certified.",
         "source": "Email",
         "date_posted": "2024-10-01 09:27:10-05:00",
         "unique_id": "192487b97e33de70",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "GCP Data Engineer"
     }

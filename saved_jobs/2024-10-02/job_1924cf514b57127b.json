@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Senior Engineer",
+        "location": "Boynton Beach, FL, USA",
+        "full_location": {
+            "city": "Boynton Beach",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Cloud Administration",
+                "Backup",
+                "Archive",
+                "Recovery planning",
+                "Security",
+                "WAF rules",
+                "Load balancing"
+            ],
+            "primary": [
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Cloud Administration",
+                "Backup",
+                "Archive",
+                "Recovery planning",
+                "Security",
+                "WAF rules",
+                "Load balancing",
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ],
+            "with_experience": [
+                "GCP (8-10 years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Chandra N",
+        "email": "chandra.n@siriinfo.com",
+        "jd": "From: Chandra N, Siri Info chandra.n@siriinfo.com Reply to: chandra.n@siriinfo.com Role name:Senior EngineerRole Description:Manage and support 24x7 GCP environmentsCompetencies:Digital : Cloud Administration and Operation, Digital : Google CloudExperience (Years):8-10Essential Skills:Manage and support 24x7 GCP environments Need to have good knowledge in Backup, Archive and Recovery planning and execution.Need to have good knowledge in Security, WAF rules and load balancing.Hands on experience with GCP and strong understanding of GCP capabilities and limitationsDesirable Skills:GCP Certified AssociateExperience on multi-cloud environments will be preferredCountry:United StatesBranch | City | Location:TCS - Boynton Beach,FLTennesseeTennessee,TN",
+        "source": "Email",
+        "date_posted": "2024-10-02 06:20:23-05:00",
+        "unique_id": "1924cf514b57127b",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

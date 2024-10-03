@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": "Software Engineer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "Spark",
+                "Hadoop",
+                "HIVE",
+                "Kafka",
+                "Cassandra"
+            ],
+            "primary": [
+                "NoSQL datastores",
+                "Cloud environments",
+                "Data pipelines",
+                "Collaborative problem solving",
+                "Software development practices"
+            ],
+            "secondary": [
+                "Clear and effective communicator",
+                "Attention to detail",
+                "Resilient and reliable services",
+                "Standard methodologies"
+            ],
+            "all": [
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "Spark",
+                "Hadoop",
+                "HIVE",
+                "Kafka",
+                "Cassandra",
+                "NoSQL datastores",
+                "Cloud environments",
+                "Data pipelines",
+                "Collaborative problem solving",
+                "Software development practices",
+                "Clear and effective communicator",
+                "Attention to detail",
+                "Resilient and reliable services",
+                "Standard methodologies"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Mounika",
+        "email": "mounikaj@brillius.com",
+        "jd": "From: mounika, brillius\nmounikaj@brillius.com\nReply to: mounikaj@brillius.com\nRole name: Software Engineer\nAustin, TX/Sunnyvale, CA\nNeed:- H1B AND CITIZEN'S ONLY\nKey Qualifications?\nClear and effective communicator, and enjoy collaborative problem solving.\nExperienced working on a shared codebase that supports web-scale, critical applications and appreciate the attention to detail that it requires.\nDemonstrated ability to implement and extend highly performant, resilient, reliable, and maintainable data pipelines and online services.\nCare deeply about software development practices and code quality; you are an eager advocate for standard methodologies.\nExperience with Spark, Hadoop, HIVE, Kafka, Cassandra or other distributed systems.\nDeep expertise in Python, Java, Scala, SQL, and/or other relevant languages and frameworks\nExpertise in NoSQL datastores ( e.g Cassandra or DynamoDB )\nExperience working in cloud environments and are familiar with object stores, and other common cloud-native data storage and processing frameworks.\nAbility to take requirements from design through to implementation both independently and with larger teams.\nKeywords: Java, Scala, Spark, Hive",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:24:55-05:00",
+        "unique_id": "1924e79b68685931",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

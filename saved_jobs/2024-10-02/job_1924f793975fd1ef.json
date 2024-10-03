@@ -1,0 +1,110 @@
+[
+    {
+        "company": "SK Tech",
+        "job_title": "Data Program Manager",
+        "location": "Los Angeles, CA, USA",
+        "full_location": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "1-2 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "program management",
+                "data engineering",
+                "data analytics",
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "Glue",
+                "Airflow",
+                "Fivetran",
+                "RedShift",
+                "dbt",
+                "Tableau",
+                "ThoughtSpot",
+                "leadership",
+                "communication",
+                "stakeholder management"
+            ],
+            "secondary": [
+                "PMP",
+                "Agile",
+                "Cloud Big Data Solutions",
+                "EMR",
+                "AWS Redshift",
+                "Kinesis",
+                "AWS Data Streams",
+                "Big Query",
+                "Apache Suite",
+                "Spark",
+                "Akka",
+                "Cassandra",
+                "Kafka",
+                "DBT based Data Modeling/Transformation"
+            ],
+            "all": [
+                "program management",
+                "data engineering",
+                "data analytics",
+                "SQL",
+                "Python",
+                "Glue",
+                "Airflow",
+                "Fivetran",
+                "RedShift",
+                "dbt",
+                "Tableau",
+                "ThoughtSpot",
+                "leadership",
+                "communication",
+                "stakeholder management",
+                "PMP",
+                "Agile",
+                "Cloud Big Data Solutions",
+                "EMR",
+                "AWS Redshift",
+                "Kinesis",
+                "AWS Data Streams",
+                "Big Query",
+                "Apache Suite",
+                "Spark",
+                "Akka",
+                "Cassandra",
+                "Kafka",
+                "DBT based Data Modeling/Transformation"
+            ],
+            "with_experience": [
+                "program management",
+                "data engineering",
+                "data analytics",
+                "SQL",
+                "Python"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Dinesh",
+        "email": "recruit@sktecinc.com",
+        "jd": "From: Dinesh, sktecinc recruit@sktecinc.com Reply to: recruit@sktecinc.com Job role : Data Program Manager - Need retail industry ExpLocation : LA , CA Job description : * Proven experience in program management of data engineering and data analytics projects, preferably in the e-commerce/retail sector.* Recent project/program implementation experience in Data Engineering or Analytics is mandatory (at least 1-2 years)* Proficiency in SQL, Python, Glue, Airflow, Fivetran, RedShift, dbt, Tableau, and ThoughtSpot is a plus* Strong leadership and team-building skills.* Excellent communication and stakeholder management skills.* Project management certification (PMP, Agile, or similar) is a plus.* Ability to work effectively in a fast-paced, dynamic environment.Familiarity with Cloud Big Data Solutions (EMR, AWS Redshift, Kinesis, AWS Data Streams, Big Query)Familiarity with Apache Suite for Big Data Architecture (Spark, Akka, Cassandra, Kafka) and DBT based Data Modeling/Transformation.",
+        "source": "Email",
+        "date_posted": "2024-10-02 14:38:08-05:00",
+        "unique_id": "1924f793975fd1ef",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

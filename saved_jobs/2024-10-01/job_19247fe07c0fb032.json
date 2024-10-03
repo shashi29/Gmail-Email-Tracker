@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "747895",
             "experience_required": "Not specified",
@@ -33,8 +34,8 @@
             ],
             "secondary": [
                 "Process Analysis",
-                "Requirements Elicitation",
-                "Functional Specifications"
+                "Resource Estimation",
+                "KPI Development"
             ],
             "all": [
                 "Technical Writing",
@@ -44,10 +45,9 @@
                 "Project Coordination",
                 "Stakeholder Engagement",
                 "Process Analysis",
-                "Requirements Elicitation",
-                "Functional Specifications"
-            ],
-            "with_experience": []
+                "Resource Estimation",
+                "KPI Development"
+            ]
         },
         "job_type": [
             "remote"
@@ -59,8 +59,9 @@
         "date_posted": "2024-10-01 07:11:55-05:00",
         "unique_id": "19247fe07c0fb032",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

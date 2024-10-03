@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Unify Solutions Inc",
+        "job_title": "Data Engineer with Azure",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months min",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Azure",
+                "Azure Data Factory",
+                "DataBricks",
+                "Data Governance"
+            ],
+            "primary": [
+                "ETL",
+                "Azure Storage",
+                "Azure VM",
+                "Data Quality",
+                "Alerts and Notifications"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Azure",
+                "Azure Data Factory",
+                "DataBricks",
+                "Data Governance",
+                "ETL",
+                "Azure Storage",
+                "Azure VM",
+                "Data Quality",
+                "Alerts and Notifications"
+            ],
+            "with_experience": [
+                "Python",
+                "Azure",
+                "Azure Data Factory",
+                "DataBricks",
+                "Data Governance"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Chakri Busi",
+        "email": "chakrib@unifysolutions.com",
+        "jd": "From: Chakri Busi, Unify Solutions Inc chakrib@unifysolutions.com Reply to: chakrib@unifysolutions.com Job Title : Data Engineer with AzureLocation : NYC, New York - 1166 Duration : 6+ Months minDescription:Python ETL: The ideal candidate should have strong proficiency in Python programming language and experience in Extract, Transform, Load (ETL) processes. They should be able to design and develop efficient ETL workflows to extract data from various sources, transform it as per business requirements, and load it into target systems.Azure Experience: The candidate should have hands-on experience working with Microsoft Azure cloud platform. They should be familiar with Azure services and tools, and have a good understanding of Azure architecture and best practices.Azure Data Factory, DataBricks, Azure Storage, and Azure VM: The candidate should have practical experience with Azure Data Factory, DataBricks, Azure Storage, and Azure Virtual Machines. They should be able to design and implement data pipelines using Azure Data Factory, perform data transformations and analytics using DataBricks, and manage data storage and virtual machines in Azure.Data Governance, Data Quality, and Controls: The candidate should have a strong understanding of data governance principles, data quality management, and data controls. They should be able to implement data governance frameworks, establish data quality standards, and ensure compliance with data regulations and policies.Implementing alerts and notifications for batch jobs: The candidate should have experience in setting up alerts and notifications for batch jobs. They should be able to configure monitoring and alerting mechanisms to ensure timely identification and resolution of issues in batch job execution. Thanks & Regards,Chakri,chakrib@unifysolutions.com,Unify Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-02 14:28:44-05:00",
+        "unique_id": "1924eb423ce517cc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

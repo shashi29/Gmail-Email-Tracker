@@ -1,0 +1,96 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "Java Developer",
+        "location": "Bellevue, WA, USA",
+        "full_location": {
+            "city": "Bellevue",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Senior-level, 8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "REST APIs",
+                "SQL",
+                "NoSQL"
+            ],
+            "primary": [
+                "Kubernetes",
+                "API Gateways",
+                "CI/CD",
+                "API Security standards",
+                "Writing unit test cases",
+                "Integration test cases"
+            ],
+            "secondary": [
+                "OAS fundamentals",
+                "Docker",
+                "Asynchronous APIs",
+                "Webhooks",
+                "Kafka",
+                "Messaging queues",
+                "GraphQL",
+                "Python",
+                "Building SDKs"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "REST APIs",
+                "SQL",
+                "NoSQL",
+                "Kubernetes",
+                "API Gateways",
+                "CI/CD",
+                "API Security standards",
+                "Writing unit test cases",
+                "Integration test cases",
+                "OAS fundamentals",
+                "Docker",
+                "Asynchronous APIs",
+                "Webhooks",
+                "Kafka",
+                "Messaging queues",
+                "GraphQL",
+                "Python",
+                "Building SDKs"
+            ],
+            "with_experience": [
+                "Java (8+ years)",
+                "Spring Boot",
+                "Microservices",
+                "REST APIs"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjeev Kumar Singh",
+        "email": "sanjeev.singh@tekinspirations.com",
+        "jd": "From: Sanjeev Kumar Singh, Tek Inspirations LLC sanjeev.singh@tekinspirations.com Reply to: sanjeev.singh@tekinspirations.com Java DeveloperBellevue WA (Onsite )Need local to WA candidateMode of the interview: 1st round virtual tech screening with PV Company , 2nd round in person interview with T mobile \u00b7 This is primarily for a Senior Java Developer, who will take technical initiatives and work with teams to build and deliver the APIs.\u00b7 Be able to take direction from tech leads and drive across teams (once teams are aligned) with minimal guidance.\u00b7 Proficient in programming languages like Java (8+), Spring Boot, Microservices, REST APIs, Kubernetes, SQL, and NoSQL.\u00b7 Exposure to API Gateways is a strong plus, as is prior experience with API exposure to external customers. Must Haves:o Strong hands-on experience in codingo Need to have solid foundations in API exposureo Very strong in REST fundamentals, AuthN, AuthZ, OpenIDo API Security standardso Strong in Java and Spring Boot Microserviceso SQL and NoSQLo Writing unit test cases and integration test caseso Able to write/review production-quality code in Javao CI/CD Scaling up Enterprise Applications Nice to have:o OAS fundamentals too - API documentation, error codes, etc.o Kubernetes, Dockero Building asynchronous APIs, webhookso Experience in developing external developer-facing APIso Kafka and messaging queueso GraphQL and Python is a pluso Exposure to building SDKs",
+        "source": "Email",
+        "date_posted": "2024-09-30 18:44:04-05:00",
+        "unique_id": "192455169a4e39e6",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

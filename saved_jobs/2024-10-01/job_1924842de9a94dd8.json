@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "10+ years",
@@ -31,15 +32,18 @@
             "primary": [
                 "10 years of experience in project or program management",
                 "5+ years on large projects",
-                "Experience leading cross-functional teams",
-                "Proficiency in managing risk",
-                "Ability to develop detailed work plans"
+                "Ability to identify and resolve issues",
+                "Manage risk",
+                "Develop detailed work plans and specifications",
+                "Manage resource allocations",
+                "Facilitate productive team meetings",
+                "Proven problem-solving skills"
             ],
             "secondary": [
                 "Detail-oriented",
-                "Problem-solving skills",
                 "Ability to juggle multiple projects",
-                "Motivating project teams"
+                "Experience leading cross-functional teams",
+                "Motivate project teams"
             ],
             "all": [
                 "Project Management Professional (PMP) certification",
@@ -49,13 +53,16 @@
                 "Leadership abilities",
                 "10 years of experience in project or program management",
                 "5+ years on large projects",
-                "Experience leading cross-functional teams",
-                "Proficiency in managing risk",
-                "Ability to develop detailed work plans",
+                "Ability to identify and resolve issues",
+                "Manage risk",
+                "Develop detailed work plans and specifications",
+                "Manage resource allocations",
+                "Facilitate productive team meetings",
+                "Proven problem-solving skills",
                 "Detail-oriented",
-                "Problem-solving skills",
                 "Ability to juggle multiple projects",
-                "Motivating project teams"
+                "Experience leading cross-functional teams",
+                "Motivate project teams"
             ]
         },
         "job_type": [
@@ -68,8 +75,9 @@
         "date_posted": "2024-10-01 08:27:07-05:00",
         "unique_id": "1924842de9a94dd8",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

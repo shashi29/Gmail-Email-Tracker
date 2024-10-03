@@ -23,44 +23,46 @@
         },
         "skills": {
             "core": [
-                "Project Management",
-                "Infrastructure",
-                "Security",
+                "project management",
+                "infrastructure",
+                "security",
                 "Cloud technologies",
                 "Applications",
                 "PMP"
             ],
             "primary": [
-                "End-to-end PMLC",
-                "Waterfall methodologies",
+                "end-to-end PMLC",
+                "waterfall methodologies",
                 "Agile methodologies",
                 "Microsoft Project",
                 "Jira"
             ],
             "secondary": [
-                "Stakeholder management",
-                "Vendor management",
-                "Project governance",
-                "Communication plans",
-                "Meeting facilitation"
+                "stakeholder management",
+                "vendor management",
+                "project governance",
+                "communication plans",
+                "project dashboards",
+                "meeting facilitation"
             ],
             "all": [
-                "Project Management",
-                "Infrastructure",
-                "Security",
+                "project management",
+                "infrastructure",
+                "security",
                 "Cloud technologies",
                 "Applications",
                 "PMP",
-                "End-to-end PMLC",
-                "Waterfall methodologies",
+                "end-to-end PMLC",
+                "waterfall methodologies",
                 "Agile methodologies",
                 "Microsoft Project",
                 "Jira",
-                "Stakeholder management",
-                "Vendor management",
-                "Project governance",
-                "Communication plans",
-                "Meeting facilitation"
+                "stakeholder management",
+                "vendor management",
+                "project governance",
+                "communication plans",
+                "project dashboards",
+                "meeting facilitation"
             ]
         },
         "job_type": [

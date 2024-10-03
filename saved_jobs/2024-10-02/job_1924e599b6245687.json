@@ -1,0 +1,81 @@
+[
+    {
+        "company": "HMG America LLC",
+        "job_title": "SQL Server DBA",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Several years of proven experience as a Level 3 MS SQL Database Administrator with advanced knowledge of Oracle databases.",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, or related field (or equivalent experience).",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$50/hr C2C"
+        },
+        "skills": {
+            "core": [
+                "MS SQL Database Management",
+                "Database High Availability and Disaster Recovery",
+                "Database Security",
+                "Database Performance Tuning",
+                "Database Backup and Recovery"
+            ],
+            "primary": [
+                "Oracle Database Knowledge",
+                "Database Monitoring and Alerts",
+                "Database Patching and Upgrades",
+                "Database Automation and Scripting",
+                "Troubleshooting and Issue Resolution",
+                "Database Project Management"
+            ],
+            "secondary": [
+                "SQL",
+                "PL/SQL scripting",
+                "Database clustering",
+                "Load balancing technologies",
+                "Oracle or Microsoft SQL Server certifications"
+            ],
+            "all": [
+                "MS SQL Database Management",
+                "Database High Availability and Disaster Recovery",
+                "Database Security",
+                "Database Performance Tuning",
+                "Database Backup and Recovery",
+                "Oracle Database Knowledge",
+                "Database Monitoring and Alerts",
+                "Database Patching and Upgrades",
+                "Database Automation and Scripting",
+                "Troubleshooting and Issue Resolution",
+                "Database Project Management",
+                "SQL",
+                "PL/SQL scripting",
+                "Database clustering",
+                "Load balancing technologies",
+                "Oracle or Microsoft SQL Server certifications"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Suman Bala",
+        "email": "sbala@hmgamerica.com",
+        "jd": "HMG America LLC is the best Business Solutions focused Information Technology Company with IT consulting and services, software and web development, staff augmentation and other professional services. One of our direct clients is looking for SQL Server DBA in Plano, TX. Below is the detailed job description.\n\nPosition : SQL Server DBA\nLocation :: Plano, TX (Onsite)\nWork Mode :: Onsite (24x7 Rotational)\nRate: $50/hr C2C\n\nJob Summary:\nThe Level 3 MS SQL Database Administrator with Oracle Database Knowledge is a senior-level position responsible for the design, implementation, and management of Microsoft SQL Server and Oracle databases. This role involves overseeing the database infrastructure, ensuring high availability, performance, and security. The Level 3 DBA provides technical expertise, leads database projects, and collaborates with other IT teams to deliver robust and scalable database services.\n\nKey Responsibilities:\nMS SQL Database Management:\n\u00b7 Plan, install, configure, and upgrade Microsoft SQL Server instances and databases.\n\u00b7 Monitor database performance, resource usage, and implement optimizations for better efficiency.\n\nDatabase High Availability and Disaster Recovery:\n\u00b7 Implement and support database high availability solutions, such as SQL Server AlwaysOn, Oracle Data Guard, or similar technologies.\n\u00b7 Develop and test disaster recovery strategies to ensure data availability and business continuity.\n\nDatabase Security:\n\u00b7 Enforce security measures, access controls, and encryption to protect sensitive data.\n\u00b7 Perform periodic security audits and vulnerability assessments.\n\nDatabase Performance Tuning:\n\u00b7 Identify and resolve complex performance bottlenecks, slow queries, and resource contention issues in SQL Server and Oracle databases.\n\u00b7 Optimize database configurations and SQL queries for optimal performance.\n\nDatabase Backup and Recovery:\n\u00b7 Develop and maintain comprehensive backup and recovery strategies for SQL Server and Oracle databases.\n\u00b7 Perform regular backups and test recovery procedures to ensure data recoverability.\n\nDatabase Monitoring and Alerts:\n\u00b7 Set up proactive monitoring and alerting for database health and performance issues.\n\u00b7 Respond to alerts and incidents promptly to minimize service disruptions.\n\nDatabase Patching and Upgrades:\n\u00b7 Plan and execute SQL Server and Oracle database patching and version upgrades following best practices.\n\nDatabase Automation and Scripting:\n\u00b7 Develop and maintain automation scripts and workflows to streamline routine database management tasks.\n\nDatabase Documentation:\n\u00b7 Create and maintain detailed documentation of database configurations, procedures, and troubleshooting steps.\n\nTroubleshooting and Issue Resolution:\n\u00b7 Lead efforts to diagnose and resolve complex database-related issues.\n\u00b7 Collaborate with Level 1 and Level 2 support and other teams to address escalated incidents.\n\nDatabase Project Management:\n\u00b7 Lead database-related projects, such as database migrations, consolidations, and performance enhancements.\n\nRequirements:\n\u00b7 Bachelor's degree in Computer Science, Information Technology, or related field (or equivalent experience).\n\u00b7 Several years of proven experience as a Level 3 MS SQL Database Administrator with advanced knowledge of Oracle databases.\n\u00b7 In-depth understanding of Microsoft SQL Server architecture, configuration, and performance tuning.\n\u00b7 Strong proficiency in Oracle database architecture, installation, configuration, and administration.\n\u00b7 Expertise in database high availability solutions for both SQL Server and Oracle databases.\n\u00b7 Familiarity with database security, backup, and recovery best practices.\n\u00b7 Proficiency in SQL and PL/SQL scripting and automation for routine tasks.\n\u00b7 Experience with database clustering and load balancing technologies is advantageous.\n\u00b7 Strong problem-solving and analytical skills to diagnose and resolve complex database issues.\n\u00b7 Excellent communication and leadership abilities to guide junior team members and collaborate with cross-functional teams.\n\u00b7 Oracle or Microsoft SQL Server certifications (e.g., Oracle Database Administrator Certified Professional, Microsoft Certified Solutions Expert) are preferred.",
+        "source": "Email",
+        "date_posted": "2024-10-02 12:49:50-05:00",
+        "unique_id": "1924e599b6245687",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

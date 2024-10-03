@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "4-6 years",
             "degree_required": "Not specified",
@@ -42,7 +44,9 @@
         "source": "Email",
         "date_posted": "2024-10-01 10:19:24-05:00",
         "unique_id": "19248ad9e0515586",
-        "emp_type": [],
-        "tag": "Python Dev"
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
     }
 ]

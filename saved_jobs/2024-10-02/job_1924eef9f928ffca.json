@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Synkriom",
+        "job_title": "Oracle PL/SQL Developer",
+        "location": "Bloomfield, CT, USA",
+        "full_location": {
+            "city": "Bloomfield",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Oracle PL/SQL",
+                "query tuning",
+                "data modeling",
+                "Oracle Scheduler Jobs"
+            ],
+            "primary": [
+                "large data volumes",
+                "performance optimization",
+                "materialized views",
+                "data refresh mechanisms",
+                "Oracle XML",
+                "JSON",
+                "CLOB data"
+            ],
+            "secondary": [
+                "Python"
+            ],
+            "all": [
+                "SQL",
+                "Oracle PL/SQL",
+                "query tuning",
+                "data modeling",
+                "Oracle Scheduler Jobs",
+                "large data volumes",
+                "performance optimization",
+                "materialized views",
+                "data refresh mechanisms",
+                "Oracle XML",
+                "JSON",
+                "CLOB data",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivendra",
+        "email": "shivendra.singh@synkriom.com",
+        "jd": "From: Shivendra, Synkriom shivendra.singh@synkriom.com Reply to: shivendra.singh@synkriom.com Job Title: Oracle PL/SQL DeveloperLocation: Bloomfield CT Employment Type: CTH Passport is mandatory Required Skills:Proven experience working with large data volumes and creating complex SQL queries.Strong knowledge of query tuning and performance optimization.Hands-on experience with materialized views and data refresh mechanisms.Expertise in designing data models, especially for scenarios involving online exams with normalization.Ability to create and manage Oracle Scheduler Jobs for running PL/SQL blocks at specified intervals.Proficiency in identifying table size and storage locations for given datasets.Experience handling Oracle XML, JSON, and CLOB data.Nice to Have:Experience with Python for database-related scripting and automation.Competencies:Strong analytical and problem-solving skills.Ability to work with large, complex databases and tune performance.Excellent communication and collaboration skills.",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:27:07-05:00",
+        "unique_id": "1924eef9f928ffca",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

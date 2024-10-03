@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "experience_required": "15+ years",
             "degree_required": "Bachelor\u2019s degree in computer science, Information Technology, or a related field (or equivalent experience)",
@@ -33,19 +34,17 @@
                 "Optimization strategies",
                 "Instance consolidation strategies",
                 "Azure cloud architecture",
-                "SQL Server Always On Availability Groups",
                 "Data warehousing concepts",
                 "ETL processes",
                 "SSIS",
                 "Azure Data Factory"
             ],
             "secondary": [
-                "Certifications such as Microsoft Certified: Azure Database Administrator Associate",
+                "Microsoft Certified: Azure Database Administrator Associate",
                 "Azure Solutions Architect Expert",
                 "Oracle",
                 "MySQL",
                 "PostgreSQL",
-                "NoSQL databases",
                 "Cosmos DB",
                 "MongoDB",
                 "DevOps practices",
@@ -64,17 +63,15 @@
                 "Optimization strategies",
                 "Instance consolidation strategies",
                 "Azure cloud architecture",
-                "SQL Server Always On Availability Groups",
                 "Data warehousing concepts",
                 "ETL processes",
                 "SSIS",
                 "Azure Data Factory",
-                "Certifications such as Microsoft Certified: Azure Database Administrator Associate",
+                "Microsoft Certified: Azure Database Administrator Associate",
                 "Azure Solutions Architect Expert",
                 "Oracle",
                 "MySQL",
                 "PostgreSQL",
-                "NoSQL databases",
                 "Cosmos DB",
                 "MongoDB",
                 "DevOps practices",
@@ -93,7 +90,8 @@
         "date_posted": "2024-10-01 10:43:57-05:00",
         "unique_id": "19248c6dc0c6b767",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "Oracle DBA"
     }

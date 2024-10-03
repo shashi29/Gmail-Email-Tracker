@@ -1,6 +1,6 @@
 [
     {
-        "company": "Predica Inc.",
+        "company": "Department of Technology, Management, and Budget (DTMB)",
         "job_title": "Program Manager",
         "location": "Lansing, MI, USA",
         "full_location": {
@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "135468",
             "experience_required": "10+ years",
@@ -52,8 +53,9 @@
         "date_posted": "2024-09-30 21:31:23-05:00",
         "unique_id": "192465a21c16b52f",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

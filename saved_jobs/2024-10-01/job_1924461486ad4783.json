@@ -1,0 +1,96 @@
+[
+    {
+        "company": "Sonitalent llc",
+        "job_title": "Java Backend Application Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3 years",
+            "degree_required": "Bachelor's degree in Computer Science or a related field",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 Months+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Spring Framework",
+                "SQL",
+                "REST services"
+            ],
+            "primary": [
+                "Microservices",
+                "MariaDB",
+                "PostgreSQL",
+                "SQL Server",
+                "Amazon RDS",
+                "Snowflake",
+                "Cloud API services"
+            ],
+            "secondary": [
+                "Linux",
+                "JBoss",
+                "Docker",
+                "Kubernetes",
+                "Openshift",
+                "Node.js",
+                "Angular",
+                "JavaScript",
+                "React"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Spring Framework",
+                "SQL",
+                "REST services",
+                "Microservices",
+                "MariaDB",
+                "PostgreSQL",
+                "SQL Server",
+                "Amazon RDS",
+                "Snowflake",
+                "Cloud API services",
+                "Linux",
+                "JBoss",
+                "Docker",
+                "Kubernetes",
+                "Openshift",
+                "Node.js",
+                "Angular",
+                "JavaScript",
+                "React"
+            ],
+            "with_experience": [
+                "Java (3+ years)",
+                "Spring Framework",
+                "REST services"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vivek Yadav",
+        "email": "vivek.yadav@sonitalentcorp.com",
+        "jd": "From: Vivek Yadav, SoniTalent corp vivek.yadav@sonitalentcorp.com Reply to: vivek.yadav@sonitalentcorp.com Hi,My name is Vivek Yadav and I am a Staffing Specialist at Sonitalent llc. I am reaching out to you on an exciting job opportunity with one of our clients.Job Title \u2013 Java Backend Application DeveloperJob Location -NYC, NY \u2013 Onsite from day one \u2013 Need to be localDuration - 6 Months+Visa USC, GC OnlyMode Of Interview - Phone/F2FNote - Need LinkedInJob Description \u2013Java with AWS and Redhat .Net Exp-Backend Application DeveloperWe are seeking a highly skilled and experienced backend developer to join our team. You will be responsible for maintaining and creating new backend components of our applications. You should have a solid understanding of various technologies and be capable of working with a diverse range of tools and frameworks. Required Qualifications:Proven experience in creating backend REST services using Java or an equivalent language. .Experience with developing stateless microservicesKnowledge and experience with the Spring framework.Proficiency in SQL and working with relational databases such as MariaDB, PostgreSQL, and SQL Server.Experience with cloud database or platform and tools (Amazon RDS, Snowflake) and cloud API servicesA minimum of 3 years of relevant work experience as a developer.A Bachelor's degree in Computer Science or a related field from an accredited university.Experience with updating and migrating legacy services to new platformsExcellent communication skills to effectively collaborate with team members, including other developers, testers, and clients. Extra Qualifications (Nice to Have):Exposure to Linux, either as a user or administrator.Familiarity with the JBoss application or another servlet container.Experience with containerization technologies such as Docker, Kubernetes, or OpenshiftFrontend development skills using frameworks like Node.js, Angular, JavaScript, React, etc.Responsibilities:Develop and maintain backend REST services to support our applications using Java or equivalent languages.Design and implement efficient and scalable database schemas and queries.Collaborate with cross-functional teams to gather requirements, provide technical insights, and ensure successful project delivery.Debug and resolve issues in both the frontend and backend components of the applications.Stay up to date with emerging technologies and trends in the field and propose innovative solutions to improve our applications.",
+        "source": "Email",
+        "date_posted": "2024-09-30 14:21:45-05:00",
+        "unique_id": "1924461486ad4783",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

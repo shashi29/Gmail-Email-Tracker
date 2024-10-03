@@ -1,0 +1,72 @@
+[
+    {
+        "company": "TEK INSPIRATIONS",
+        "job_title": "SQL Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "data modeling",
+                "database design",
+                "database performance tuning",
+                "database optimization"
+            ],
+            "primary": [
+                "investment banking financial reporting",
+                "Reporting tool quick sight",
+                "Kafka"
+            ],
+            "secondary": [
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "interpersonal skills"
+            ],
+            "all": [
+                "SQL",
+                "data modeling",
+                "database design",
+                "database performance tuning",
+                "database optimization",
+                "investment banking financial reporting",
+                "Reporting tool quick sight",
+                "Kafka",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "interpersonal skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Arudhi Singh",
+        "email": "arudhi.singh@tekinspirations.com",
+        "jd": "From: ARUDHI SINGH, TEK INSPIRATIONS arudhi.singh@tekinspirations.com Reply to: arudhi.singh@tekinspirations.com Hi,Hope you are doing great!!!Job Description -Title:SQL DevelopLocation: New York, NY (Hybrid \u2013 3 days/week onsite)Duration: 6+monthsMOI: F2F Recruiters Note:- With implementation / needLinkedin / finance or banking candidate prefered / need Genuine visa Keywords: SQL, Json, quick sight, Kafka, Banking exp Job description:As a SQL Developer, you will play a critical role in designing, developing, and optimizing database solutions that support our investment banking operations. You will work closely with cross-functional teams to ensure that our data architecture meets business needs and regulatory requirements, particularly in the realm of financial reporting. Key Responsibilities:Design, develop, and optimize complex SQL scripts, stored procedures, packages, and functions.Develop and maintain conceptual, logical, and physical data models that support business requirements and regulatory standards.Implement and manage data integration processes using cloud-based tools and services.Utilize your expertise in investment banking to ensure that financial reporting requirements are met efficiently and accurately.Collaborate with stakeholders to understand reporting needs and translate them into technical specifications.Optimize database performance and troubleshoot issues to ensure high availability and reliability.Stay updated with emerging technologies and best practices to improve data management processes.Document data models, integration processes, and reporting methodologies for future reference. Required Skills and Qualifications:10+ years of experience in database development.Extensive experience with SQL development.Proven experience in data modeling and database design.Experience in investment banking financial reporting is required.Experienced in Reporting tool quick sight.Experienced in messaging (near real time) data proceeding tools like Kafka, other tools are fine.Strong analytical and problem-solving skills.Excellent understanding of database management systems (DBMS).Proficient in database performance tuning and optimization.Ability to work in a fast-paced, dynamic environment.Strong communication and interpersonal skills.",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:31:03-05:00",
+        "unique_id": "19248b884a42a984",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Sonitalentcorp",
+        "job_title": "Sr Java Engineer, Analytics (Streaming) with GCP",
+        "location": "Mountain View, CA, USA",
+        "full_location": {
+            "city": "Mountain View",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor's degree in Computer Science or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "GCP",
+                "streaming data pipelines",
+                "data modeling",
+                "data governance"
+            ],
+            "primary": [
+                "Google Cloud Pub/Sub",
+                "Google Cloud DataFlow",
+                "Apache Beam",
+                "data warehousing",
+                "data lake technologies"
+            ],
+            "secondary": [
+                "machine learning",
+                "data science technologies",
+                "problem-solving",
+                "communication skills"
+            ],
+            "all": [
+                "Java",
+                "GCP",
+                "streaming data pipelines",
+                "data modeling",
+                "data governance",
+                "Google Cloud Pub/Sub",
+                "Google Cloud DataFlow",
+                "Apache Beam",
+                "data warehousing",
+                "data lake technologies",
+                "machine learning",
+                "data science technologies",
+                "problem-solving",
+                "communication skills"
+            ],
+            "with_experience": [
+                "Java (7+ years)",
+                "GCP (in Recent project)",
+                "streaming data pipelines (in Recent project)"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "contract"
+        ],
+        "contact_person": "Uttam Barman",
+        "email": "uttam.barman@sonitalentcorp.com",
+        "jd": "From: UTTAM BARMAN, SONITALENTCORP uttam.barman@sonitalentcorp.com Reply to: uttam.barman@sonitalentcorp.com Job Title : Sr Java Engineer, Analytics (Streaming) with GCP\nLocation : Mountain View, CA [Needs to be onsite for 1 week once in a quarter on your own expenses]\nJob Type : Contract\nonly w2 candidates\nJob Summary: We are seeking an experienced Senior Java Engineer, Analytics with a focus on Streaming on GCP cloud to join our team. As a Senior Java Engineer, you will play a key role in designing, building, and maintaining our real-time analytics infrastructure. You will work closely with our data scientists, product managers, and other engineers to develop and deploy scalable, efficient, and reliable data pipelines.\nRequirements:\nBachelor's degree in Computer Science or a related field.\n7+ years of experience in software engineering, with a focus on streaming data pipelines and analytics (in Recent project).\nStrong programming skills in Java.\nExperience with a public cloud provider, with a focus on GCP (in Recent project).\nStrong experience with messaging/stream processing systems such as Google Cloud Pub/Sub, and Google Cloud DataFlow.\nExperience with Apache Beam.\nExperience with data warehousing and data lake technologies.\nStrong understanding of data modeling, data governance, and data security.\nExcellent problem-solving skills, with the ability to work independently and collaboratively.\nExcellent communication skills, with the ability to explain complex technical concepts to non-technical stakeholders.\nExperience with machine learning and data science technologies is a plus.\nCertification in GCP is required.\nLinkedIn: https://www.linkedin.com/in/uttam-barman-b494b1254/\nEmail: uttam.barman@sonitalentcorp.com\nContact: 8599464061",
+        "source": "Email",
+        "date_posted": "2024-10-02 11:42:41-05:00",
+        "unique_id": "1924e20a0c3b5c88",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

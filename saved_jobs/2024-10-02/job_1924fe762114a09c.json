@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Headwaytek",
+        "job_title": ".NET Developer/Lead",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-15 years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "ASP.NET",
+                "SQL",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "CI/CD Pipeline",
+                "ASP.NET MVC",
+                "Oracle RDBMS",
+                "Kafka",
+                "Docker",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Cloud technologies",
+                "Microservices architecture",
+                "DevOps practices",
+                "Excellent communication skills"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "ASP.NET",
+                "SQL",
+                "RESTful APIs",
+                "CI/CD Pipeline",
+                "ASP.NET MVC",
+                "Oracle RDBMS",
+                "Kafka",
+                "Docker",
+                "Kubernetes",
+                "Cloud technologies",
+                "Microservices architecture",
+                "DevOps practices",
+                "Excellent communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Madhu",
+        "email": "madhusudhan.b@headwaytek.com",
+        "jd": "Role: .NET Developer/Lead\nYears of Experience: 8-15 years\nLocation: Dallas, TX( 3 days onsite)- Need local candidates only who can go onsite from Day 1 in Dallas.\n\nYour responsibilities in this role will include:\n- Lead the design, development, and implementation of robust and scalable .NET Core APIs.\n- Hands-on Knowledge on SQL queries\n- Collaborate with cross-functional teams to gather requirements and architect solutions.\n- Hands-on coding and debugging of API components to ensure high performance and reliability.\n- Mentor junior developers and provide technical guidance and support.\n- Stay current with industry trends and best practices, particularly in cloud technologies.\n- Extensive experience in developing .NET APIs using C#.\n- Strong proficiency in cloud platforms such as AWS, Azure, or Google Cloud Platform.\n- Demonstrated expertise in designing and implementing RESTful APIs.\n- Solid understanding of software development methodologies and practices.\n- Excellent communication skills and ability to collaborate effectively with teams.\n- Knowledge of microservices architecture.\n- Familiarity with DevOps practices and tools.\n\nRequirements:\n- Proven experience as a .NET/C# Developer with a minimum of 8 years in software development.\n- Strong proficiency in C#, ASP.NET, and the .NET Framework.\n- Solid understanding of software development principles and best practices.\n- Good in database systems (Oracle RDBMS, etc.).\n- Excellent problem-solving and communication skills.\n- Ability to work independently and collaboratively within a team.",
+        "source": "Email",
+        "date_posted": "2024-10-02 19:03:08-05:00",
+        "unique_id": "1924fe762114a09c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

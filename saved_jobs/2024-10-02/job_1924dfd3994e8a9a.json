@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "Data Quality Tester",
+        "location": "Bellevue, WA, USA",
+        "full_location": {
+            "city": "Bellevue",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "6-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS",
+                "Aurora DB",
+                "Redshift",
+                "ETL",
+                "Python"
+            ],
+            "primary": [
+                "Automated QA - TestComplete",
+                "Agile",
+                "DevOps principles",
+                "CI/CD pipeline",
+                "Experience working with large scale complicated datasets"
+            ],
+            "secondary": [
+                "Experience with relevant technologies and of Enterprise-Level System implementations such as Data Warehouse",
+                "ETL Automation",
+                "Cloud-Based Data Management Tools",
+                "Experience with data engineering",
+                "ETL",
+                "modeling and architecture",
+                "Experience using an applicable programming language and common data technologies (such as SQL, NoSQL, Spark, Python)",
+                "Experience working with data processes including ETL/data pipelines, processing, storage, and governance"
+            ],
+            "all": [
+                "SQL",
+                "AWS",
+                "Aurora DB",
+                "Redshift",
+                "ETL",
+                "Python",
+                "Automated QA - TestComplete",
+                "Agile",
+                "DevOps principles",
+                "CI/CD pipeline",
+                "Experience working with large scale complicated datasets",
+                "Experience with relevant technologies and of Enterprise-Level System implementations such as Data Warehouse",
+                "ETL Automation",
+                "Cloud-Based Data Management Tools",
+                "Experience with data engineering",
+                "ETL",
+                "modeling and architecture",
+                "Experience using an applicable programming language and common data technologies (such as SQL, NoSQL, Spark, Python)",
+                "Experience working with data processes including ETL/data pipelines, processing, storage, and governance"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anoop Chaubey",
+        "email": "anoop.chaubey@siriinfo.com",
+        "jd": "From: Anoop Chaubey, Siri info Solutions anoop.chaubey@siriinfo.com Reply to: anoop.chaubey@siriinfo.com Hi, This is Anoop from Siri Info Solutions, if you are looking for a job change or available in the job market. Please send me your updated resume. Job Title: Data Quality TesterLocation- Bellevue, WA~ Overland Park, KS (5 Days Onsite)Position Type \u2013 Contract-2-Hire Role Description: Data Quality and TestingTest framework for auditing, error logging and master data management for the team\u2019s pipelines to meet business needs and ensure our pipelines become more performant, scalable and reliableTesting data pipelines, digging into data anomalies and writing infrastructure as code to deploy changes to the cloudCollaborates on analysis, architecture, design, and development of data warehouse and business analytics solutionsCompetencies: Automated QA - TestCompleteExperience (Years): 6-8Essential Skills: SQL, AWS, Aurora DB, RedshiftETL, SQL, PythonAgile, DevOps principlesCI/CD pipelineExperience working with large scare complicated datasetsExperience with relevant technologies and of Enterprise-Level System implementations such as Data Warehouse, ETL Automation, and Cloud-Based Data Management ToolsExperience with data engineering, ETL, modeling and architectureExperience using an applicable programming language and common data technologies (such as SQL, NoSQL, Spark, Python)Experience working with data processes including ETL/data pipelines, processing, storage, and governance",
+        "source": "Email",
+        "date_posted": "2024-10-02 10:19:21-05:00",
+        "unique_id": "1924dfd3994e8a9a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

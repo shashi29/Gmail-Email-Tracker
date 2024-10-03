@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Winorbit Technology LLC",
+        "job_title": "Oracle Database Administrator",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 + years of experience as a Oracle DBA",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "4-6 months to start",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle DBA",
+                "performance tuning",
+                "monitoring/alerting",
+                "backup/recovery",
+                "Linux/Unix shell commands"
+            ],
+            "primary": [
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GHA",
+                "GitHub",
+                "Jenkins"
+            ],
+            "secondary": [
+                "team player",
+                "goal oriented",
+                "professional",
+                "fast-paced environment",
+                "collaborate with DBA peers",
+                "mentor",
+                "multi-task",
+                "work off-hours",
+                "security and data compliance"
+            ],
+            "all": [
+                "Oracle DBA",
+                "performance tuning",
+                "monitoring/alerting",
+                "backup/recovery",
+                "Linux/Unix shell commands",
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GHA",
+                "GitHub",
+                "Jenkins",
+                "team player",
+                "goal oriented",
+                "professional",
+                "fast-paced environment",
+                "collaborate with DBA peers",
+                "mentor",
+                "multi-task",
+                "work off-hours",
+                "security and data compliance"
+            ],
+            "with_experience": [
+                "Oracle DBA",
+                "performance tuning",
+                "monitoring/alerting",
+                "backup/recovery",
+                "Linux/Unix shell commands"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mayank Bijlwan",
+        "email": "mayank.b@winorbittech.com",
+        "jd": "Hope you are doing great. Please find below job requirement and share the details and resumes if you have any matching resources.\n\nTitle: Oracle Database Administrator\nLocation: remote\nTeam: Database Administration\nStart: ASAP\nDuration: 4-6 months to start\nLinkedIn: must\n\nImportant Skills\nSoft \u2013 team player, goal oriented, professional and can successfully move in a fast-paced environment\n\nInterview Process: 2 virtual Teams interviews\nHours / Shift: First \u2013 40 hours / week\n\nNotes: It can be as quickly as take a few days and up to 2 weeks to confirm a start date for candidates after they accept the verbal as the ITERR form approval process moves through the internal course.\n\nResponsibilities\nThis senior role requires expertise in database administration and the ability to work in a fast-paced collaborative environment. We provide support for on-premises and cloud databases (IaaS and DBaaS) including critical Tier 1 and Tier 2 systems that utilize high availability solutions with replication.\n\nThis resource will support the design, implementation, and maintenance of database environments. You will ensure integrity and high availability of the database environments in your charge. Responsibilities include but are not limited to build/management of on-prem VM and as-a-service cloud implementations, monitoring/alerting setup and admin, application consulting, performance tuning, version upgrades, automations, architecture, access methods and reviews, backup/recovery, vendor coordination/ticketing, and team mentoring and knowledge sharing. As part of the DBA team you will collaborate with peer DBAs, project teams, application contacts to support and maintain current implementations as well as new builds/requirements. The role will assist in assuring that the Database implementations are secure, compliant, and adhere to minimum security requirements as set by CVS Health. You will use your knowledge and experience in the Database space to support application requirements and make recommendations for improving existing and future processes. You will aid in reviewing new enhancements, features, products for future use and planning.\n\nCommon Required Qualifications:\n- Advanced knowledge of performance tuning, monitoring/alerting, observability, dashboarding\n- Advanced knowledge of process/query analysis, buffer tuning, client/server connectivity and database consistency checks\n- Advanced knowledge of maintenance routines, upgrades, patching\n- Experience in handling physical/logical backups & restores and data refreshes.\n- Experience in Linux/Unix shell commands or Windows PowerShell or Python\n- Experience in OS fine tuning with regards to Network I/O, Disk\n- Should be able to collaborate with DBA peers and mentor, work well in a team and independently\n- Should be able to multi-task i.e. parallelize multiple environment build / data migration\n- Should be able to work off-hours for application release support, Linux patching support, maintenance windows\n- Experienced with security and data compliance aspects of database\n- Well versed with latest version of database\n\nPreferred qualifications:\n- Experience with automation via Ansible, Terraform\n- Experience with deployments (CI/CD) with GHA, GitHub, Jenkins\n- 5 + years of experience as a Oracle DBA\n- Experience in installation, configuration & operations of non-RAC and multi-node RAC environment with standby database synchronized using physical data guard\n- Experience in managing disks with ASM\n- Experience in usage of OEM and setting up alerts\n- Experience in managing database backup/recovery, data movement using RMAN, data pump & Flashback.\n- Experience in performance tuning with ADDM, AWR, index optimizations, partitioning, stats pack.\n- Experienced in Golden Gate with configuration and troubleshooting issues\n- General familiarity with Oracle 23ai architecture & capabilities",
+        "source": "Email",
+        "date_posted": "2024-10-01 11:58:31-05:00",
+        "unique_id": "192490793d575b84",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "company": "istaffx",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Angular",
+                "Tomcat",
+                "Hibernate"
+            ],
+            "primary": [
+                "Mulesoft",
+                "Ag-GRID",
+                "IBM Process Automation Manager",
+                "Maven",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "Selenium"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Angular",
+                "Tomcat",
+                "Hibernate",
+                "Mulesoft",
+                "Ag-GRID",
+                "IBM Process Automation Manager",
+                "Maven",
+                "Azure DevOps",
+                "Selenium"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "vicky",
+        "email": "vicky@istaffx.com",
+        "jd": "From: vicky, istaffx vicky@istaffx.com Reply to: vicky@istaffx.com The Software Developer at this level is responsible for knowing numerous development languages and platforms. Those include Java, Spring, Angular, Tomcat, and Hibernate. This resource is also expected to have a strong working knowledge of integration patterns and the use of Mulesoft, along with numerous code libraries that include Ag-GRID, IBM Process Automation Manager, Maven repositories, and the use of Azure DevOps code management principles.MINIMUM YRS OF EXPERIENCE, SKILLS, AND QUALIFICATIONS6+ Researching, designing, implementing, and managing software programs6+ Testing and evaluating programs6+ Working closely with other developers, UX designers, business and systems analystsPREFERRED SKILLS AND QUALIFICATIONS6+ Performance Management for custom developed applications1+ Designed and developed automation processes using tools such as Selenium.",
+        "source": "Email",
+        "date_posted": "2024-09-30 14:21:05-05:00",
+        "unique_id": "1924460aa9452230",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

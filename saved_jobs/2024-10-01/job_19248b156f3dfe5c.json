@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "5-10 years",
             "degree_required": "Engineering Degree \u2013 BE/ME/BTech/MTech/BSc/MSc",
@@ -31,11 +33,11 @@
                 "provider use cases",
                 "patient scheduling",
                 "patient test results",
-                "patient communication"
+                "patient communication",
+                "problem solving",
+                "collaboration"
             ],
             "secondary": [
-                "problem solving",
-                "collaboration",
                 "data confidentiality",
                 "application upgrades",
                 "report writing",
@@ -62,10 +64,6 @@
                 "SDLC",
                 "process improvement",
                 "documentation"
-            ],
-            "with_experience": [
-                "Athena EMR (5-10 years)",
-                "US healthcare domain (5-10 years)"
             ]
         },
         "job_type": [
@@ -73,11 +71,13 @@
         ],
         "contact_person": "Vasu",
         "email": "vasu@magicforce.us",
-        "jd": "Hi, Greetings from Magic Force\u2026!!!My name is Vasu we have a job opportunity for you as a Business Analyst with Athena EMR one of our client based at Remote. Please find the Job description below, if you are available and interested, please send us your word copy of your resume with following detail to vasu@magicforce.us to discuss more about this position. Job Title: Business Analyst with Athena EMR Location: Remote Duration: 1+ Year Start Date: ASAP Job Description: We are seeking an experienced Business Analyst with expertise in the US healthcare domain to join our offshore team. The ideal candidate will have a deep understanding of healthcare processes, regulations, and automation potentials. This role involves close collaboration with clients, architects, tech leads, and development teams to ensure the successful delivery of healthcare automation projects. Athena EHR Functional/ Analyst Mandatory Skills (Must have) : -5-10 years of Athena EMR Technical skills 3-4 years of Specific knowledge of Athena EMR API Understanding of Provider use cases, patient scheduling, patient test results, patient communication Worked in provider environments. Experience: Proven experience as a Business Analyst in the US healthcare domain, with a focus on process automation and RPA. Domain Knowledge: Strong understanding of US healthcare processes, regulations, and standards. Technical Skills: Ability to produce detailed process documentation and identify automation potentials within healthcare processes. Communication Skills: Excellent communication skills, with the ability to present complex healthcare information to clients in a clear and concise manner Problem Solving: Strong analytical skills, with the ability to identify potential issues and propose effective solutions within the healthcare context. Collaboration: Ability to work closely with development teams to ensure accurate translation of healthcare requirements into technical specifications. Job Responsibilities : - Participation in build, configuration and testing of the athenahealth application features and functions. Assist in onboarding new practices to the Athenahealth application. Provide electronic health record support. This includes, but not limited to, resolving issues, making changes, working on enhancements to the system and writing documentation. Provide recommendations on how to improve EMR/EHR documentation and workflows Troubleshoot all aspects of Athenahealth Data Confidentiality/Security-Maintain confidentiality of sensitive information at all times. Application Upgrades and Implementations Responsible for activities related to application upgrades and implementations: review and validation of functionality and reporting of issues; identify new functionality and hardware requirements as assigned; ability to create test plans. Maintain data quality at all times. Report Writing/Analysis-Ability to write, analyze and make basic modifications to reports. Second and Third Level Support (Including Maintenance Activities)-Ability to triage support issues and escalate accordingly. Partner with team members to trouble shoot support issues. Vendor Relationships-Interact with vendors (technical issues, project initiatives) under the direction of more experienced team members, as necessary. SDLC (System Development Life Cycle)-Have a fundamental knowledge of the system/application development life cycle. Process Improvement-Review and validate existing processes. Documentation-Complete documentation/flow charting of system builds and maintain team's existing documentation. Contribute to project tasks and milestones typically under the direction of project manager/more experienced team members. Update all project management and time tracking tools accordingly. Interactions with Others-Successfully completes projects, tasks, and initiatives by embracing a team-first approach. Works in collaboration with team and offers feedback, where appropriate, to complete individual and group efforts. Shows the ability to adjust and be flexible to change by adapting approach when necessary.",
+        "jd": "From: vasu, Magic force vasu@magicforce.us Reply to: vasu@magicforce.us Hi, Greetings from Magic Force\u2026!!!My name is Vasu we have a job opportunity for you as a Business Analyst with Athena EMR one of our client based at Remote. Please find the Job description below, if you are available and interested, please send us your word copy of your resume with following detail to vasu@magicforce.us to discuss more about this position. Job Title: Business Analyst with Athena EMR Location: RemoteDuration: 1+ YearStart Date: ASAP Job Description:We are seeking an experienced Business Analyst with expertise in the US healthcare domain to join our offshore team. The ideal candidate will have a deep understanding of healthcare processes, regulations, and automation potentials. This role involves close collaboration with clients, architects, tech leads, and development teams to ensure the successful delivery of healthcare automation projects. Athena EHR Functional/ Analyst Mandatory Skills (Must have) : -5-10 years of Athena EMR Technical skills3-4 years of Specific knowledge of Athena EMR APIUnderstanding of Provider use cases, patient scheduling, patient test results, patient communication Worked in provider environments.Experience: Proven experience as a Business Analyst in the US healthcare domain, with a focus on process automation and RPA. Domain Knowledge: Strong understanding of US healthcare processes, regulations, and standards. Technical Skills: Ability to produce detailed process documentation and identify automation potentials within healthcare processes.Communication Skills: Excellent communication skills, with the ability to present complex healthcare information to clients in a clear and concise mannerProblem Solving: Strong analytical skills, with the ability to identify potential issues and propose effective solutions within the healthcare context. Collaboration: Ability to work closely with development teams to ensure accurate translation of healthcare requirements into technical specifications. Job Responsibilities : - Participation in build, configuration and testing of the athenahealth application features and functions. Assist in onboarding new practices to the Athenahealth application. Provide electronic health record support. This includes, but not limited to, resolving issues, making changes, working on enhancements to the system and writing documentation. Provide recommendations on how to improve EMR/EHR documentation and workflows Troubleshoot all aspects of Athenahealth Data Confidentiality/Security-Maintain confidentiality of sensitive information at all times. Application Upgrades and Implementations Responsible for activities related to application upgrades and implementations: review and validation of functionality and reporting of issues; identify new functionality and hardware requirements as assigned; ability to create test plans. Maintain data quality at all times. Report Writing/Analysis-Ability to write, analyze and make basic modifications to reports. Second and Third Level Support (Including Maintenance Activities)-Ability to triage support issues and escalate accordingly. Partner with team members to trouble shoot support issues. Vendor Relationships-Interact with vendors (technical issues, project initiatives) under the direction of more experienced team members, as necessary. SDLC (System Development Life Cycle)-Have a fundamental knowledge of the system/application development life cycle. Process Improvement-Review and validate existing processes. Documentation-Complete documentation/flow charting of system builds and maintain team's existing documentation. Contribute to project tasks and milestones typically under the direction of project manager/more experienced team members. Update all project management and time tracking tools accordingly. Interactions with Others-Successfully completes projects, tasks, and initiatives by embracing a team-first approach. Works in collaboration with team and offers feedback, where appropriate, to complete individual and group efforts. Shows the ability to adjust and be flexible to change by adapting approach when necessary.",
         "source": "Email",
         "date_posted": "2024-10-01 09:49:11-05:00",
         "unique_id": "19248b156f3dfe5c",
-        "emp_type": [],
-        "tag": "BA/Scrum Master/PM"
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
     }
 ]

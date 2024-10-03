@@ -1,0 +1,60 @@
+[
+    {
+        "company": "ITECS",
+        "job_title": "Java with bigdata",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Pyspark",
+                "Hive",
+                "SQL",
+                "Google Big Query"
+            ],
+            "primary": [
+                "converting SQL to BigQuery",
+                "GCP Lumi experience"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Pyspark",
+                "Hive",
+                "SQL",
+                "Google Big Query",
+                "converting SQL to BigQuery",
+                "GCP Lumi experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "From: SAPNA, ITECS sapna@itecsus.com Reply to: sapna@itecsus.com Java with bigdata *ONSITE, PX*Work location: Phoenix, AZ (Onsite) Skills: Python, Pyspark, Hive, SQL, Google Big Query and converting SQL to BigQueryEx-AMEX with mandatory GCP Lumi experience",
+        "source": "Email",
+        "date_posted": "2024-09-30 01:29:54-05:00",
+        "unique_id": "192419eb2f7ba397",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

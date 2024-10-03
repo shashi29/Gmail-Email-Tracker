@@ -1,0 +1,60 @@
+[
+    {
+        "company": "KK Software Associates",
+        "job_title": "PostgreSQL Database Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6-9 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long - Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PostgreSQL",
+                "database optimization",
+                "database design",
+                "database development",
+                "federated database models"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "PostgreSQL",
+                "database optimization",
+                "database design",
+                "database development",
+                "federated database models"
+            ],
+            "with_experience": [
+                "PostgreSQL (6-9 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Somesh Gupta",
+        "email": "somesh.g@kksoftwareassociates.com",
+        "jd": "Hello,Hope you are doing well !Please let me know if you are interested Role: PostgreSQL Database DeveloperLocations: Phoenix, AZ (Day 1 Onsite)Duration: Long - Term ContractJob Description:We are hiring a skilled PostgreSQL Database Developer with expertise in database optimization, design, and development and experience working with federated database models. The ideal candidate will have a proven track record of handling complex database tasks and contributing to efficient, high-performing systems.Qualifications:6-9 years of hands-on experience in PostgreSQL database development, with deep knowledge in:Optimization: Proven experience in optimizing database performance.Design: Expertise in database design and modeling.Development: Strong proficiency in PostgreSQL database development.Federated Database Models: Experience working with federated databases to manage and integrate data from various sources.",
+        "source": "Email",
+        "date_posted": "2024-09-30 07:09:24-05:00",
+        "unique_id": "19242d57c3044a9a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

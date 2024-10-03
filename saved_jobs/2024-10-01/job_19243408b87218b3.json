@@ -1,0 +1,77 @@
+[
+    {
+        "company": "RuriSoft LLC",
+        "job_title": "MS SQL Developer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MySQL",
+                "MSSQL",
+                "PostgreSQL",
+                "SQL",
+                "Unix shell scripting"
+            ],
+            "primary": [
+                "GIT",
+                "AWS",
+                "Jira",
+                "GitHub",
+                "Teradata",
+                "ETL",
+                "Qlik",
+                "Tableau"
+            ],
+            "secondary": [],
+            "all": [
+                "MySQL",
+                "MSSQL",
+                "PostgreSQL",
+                "SQL",
+                "Unix shell scripting",
+                "GIT",
+                "AWS",
+                "Jira",
+                "GitHub",
+                "Teradata",
+                "ETL",
+                "Qlik",
+                "Tableau"
+            ],
+            "with_experience": [
+                "MySQL (8+ years)",
+                "MSSQL (8+ years)",
+                "PostgreSQL (8+ years)",
+                "SQL (8+ years)",
+                "Unix shell scripting (8+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Chaitanya",
+        "email": "chaitanya@rurisoft.com",
+        "jd": "From: Chaitanya, RuriSoft LLC chaitanya@rurisoft.com Reply to: chaitanya@rurisoft.com MS SQL Developer\nLocation : Irving, TX( 10+ H1B and EX Verizon only )\nMUST HAVE SKILLS (Most Important): \n\u2022 Minimum 8 years of experience with MySQL, MSSQL, and PostgreSQL\n\u2022 Proficient in understanding and creating complex SQL queries \n\u2022 Knowledge of version control practices and procedures (GIT)\n\u2022 Highly proficient in SQL developer activities and multi-task to work in other technologies (Teradata/MS SQL Server)\n\u2022 Experience in Unix shell scripting \n\nADDITIONAL SKILLS\n\u2022 Expertise in managing PostgreSQL, MS SQL server with strong SQL programming skills.\n\u2022 Experience in AWS cloud technologies like S3, EC2 etc.\n\u2022 Experience in Jira and GitHub and other devops tools.\n\u2022 Experience in MS SQL server\n\u2022 Teradata Experience with ETL and tools like Microsoft ETL.\n\u2022 Exposure to any reporting tool set like Qlik or Tableau \n\nJOB DUTIES: \nPosition will be responsible specific to (1) Designing database tables and structures. (2) Creating views, functions, triggers, stored procedures, and packages. (3) Research complex SQL/Postgres programs and address data issues. (4) Provide batch application support. (5) Build new ETL workflow in Teradata and unix (6) Work with the onshore and offshore team in application design and build using the technologies defined in the must have skills (7) Communicate status of the activities effectively with management or clients",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:05:59-05:00",
+        "unique_id": "19243408b87218b3",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

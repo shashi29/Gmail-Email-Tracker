@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Paramount software solutions",
+        "job_title": "Senior Web Application Developer",
+        "location": "San Bernardino, CA, USA",
+        "full_location": {
+            "city": "San Bernardino",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12-36 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".Net",
+                "React",
+                "JavaScript",
+                "SQL"
+            ],
+            "primary": [
+                "Azure",
+                "RESTful API",
+                "SOAP",
+                "JSON",
+                "GitHub"
+            ],
+            "secondary": [
+                "Azure SQL Databases",
+                "Logic Apps",
+                "DevOps",
+                "CI/CD",
+                "Data Factory",
+                "Repos"
+            ],
+            "all": [
+                "C#",
+                ".Net",
+                "React",
+                "JavaScript",
+                "SQL",
+                "Azure",
+                "RESTful API",
+                "SOAP",
+                "JSON",
+                "GitHub",
+                "Azure SQL Databases",
+                "Logic Apps",
+                "DevOps",
+                "CI/CD",
+                "Data Factory",
+                "Repos"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Padmapriya",
+        "email": "padma@paramountsoft.net",
+        "jd": "From: Padmapriya, Paramount software solutions padma@paramountsoft.net Reply to: padma@paramountsoft.net Position: Senior Web Application Developer Location: San Bernardino, CA- Onsite Duration: 12-36 months contract NOTE: We are looking to contract local candidates that live no more than 40 miles of our address due to the on-site requirement. Senior Web Application Developer Job Specification: Responsibilities: Involved in all stages of the project life cycle interacting with clients to develop, implement and support the solutions. Coordinate project efforts with varying degrees of complexity, deadlines, goals, etc. Create detailed project documents including but not limited to a Design/Deployment documents, configuration document and other technical documentation Recommend best practices and business process efficiency improvements Design, develop, test, and implement web applications from functional requirements Write existing system interfaces using modern application design Design databases in Azure SQL and other relational databases Develop new or support existing Database ETL processes Maintain code quality, CI (Continuous Integration), versioning with reusable and reliable code. Ability to work independently and in team environment. Experience and Education Required: \u00b7 Minimum of 5-7 years programming experience using .Net, C#, React, JavaScript libraries, Azure, and SQL. \u00b7 Experience with the .NET framework \u00b7 Experience with RESTful API development, SOAP, REST, JSON Experience with Azure SQL Databases Proficient in SQL, JavaScript libraries, GitHub, and React. Familiar with Azure Technologies: Logic Apps, DevOps, CI/CD, Data Factory, Repos, and other PaaS and SaaS. Ability to write clean, readable, modular, scalable and easily maintainable code with proper technical documentation. Experience creating database schemas, SQL queries. Excellent troubleshooting, analytical and communication skills.",
+        "source": "Email",
+        "date_posted": "2024-09-30 08:37:18-05:00",
+        "unique_id": "1924325f574e6fce",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

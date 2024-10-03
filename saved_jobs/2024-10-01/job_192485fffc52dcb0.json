@@ -10,8 +10,10 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
+            "job_code": "",
             "experience_required": "Not specified",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
@@ -29,10 +31,12 @@
             "primary": [
                 "Cards Dispute & Frauds domain",
                 "User Stories creation",
-                "Collaboration",
-                "Communication skills"
+                "Techno-functional analysis"
             ],
-            "secondary": [],
+            "secondary": [
+                "Excellent written and verbal communication",
+                "Collaboration in large teams"
+            ],
             "all": [
                 "Microservice development",
                 "API use cases",
@@ -40,8 +44,9 @@
                 "Agile Development lifecycle",
                 "Cards Dispute & Frauds domain",
                 "User Stories creation",
-                "Collaboration",
-                "Communication skills"
+                "Techno-functional analysis",
+                "Excellent written and verbal communication",
+                "Collaboration in large teams"
             ]
         },
         "job_type": [
@@ -49,13 +54,14 @@
         ],
         "contact_person": "Deepak M.V",
         "email": "deepak@xforia.com",
-        "jd": "From: Deepak, Xforia Inc deepak@xforia.com Reply to: deepak@xforia.com Title: Sr. Technical Business AnalystLocation: Berkeley Heights, NJ | Coral Springs, FL | Day 1 OnsiteDuration: 12+ Months Contract Job Description:Techno-functional BAs who can write use cases for APIs, Metadata, and similar tech architecture components.Experience in Microservice development\u200eExperience in Cards Dispute & Frauds domainExperience in User Stories creation for the Functional EpicsExperience in Agile Development lifecycle methodologyWork closely with the software architects, development team members and product ownersAbility to work in large, collaborate teams to achieve organizational goalsExcellent written and verbal communication skill. www.xforia.com Deepak M.VRecruitment Manager9300 Wade Boulevard, Suite 220, Frisco TX 75035, USA.",
+        "jd": "From: Deepak, Xforia Inc deepak@xforia.com Reply to: deepak@xforia.com Title: Sr. Technical Business Analyst\nLocation: Berkeley Heights, NJ | Coral Springs, FL | Day 1 Onsite\nDuration: 12+ Months Contract\nJob Description:\nTechno-functional BAs who can write use cases for APIs, Metadata, and similar tech architecture components.\nExperience in Microservice development\nExperience in Cards Dispute & Frauds domain\nExperience in User Stories creation for the Functional Epics\nExperience in Agile Development lifecycle methodology\nWork closely with the software architects, development team members and product owners\nAbility to work in large, collaborate teams to achieve organizational goals\nExcellent written and verbal communication skill.\nwww.xforia.com\nDeepak M.V\nRecruitment Manager\n9300 Wade Boulevard, Suite 220, Frisco TX 75035, USA.",
         "source": "Email",
         "date_posted": "2024-10-01 08:58:56-05:00",
         "unique_id": "192485fffc52dcb0",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

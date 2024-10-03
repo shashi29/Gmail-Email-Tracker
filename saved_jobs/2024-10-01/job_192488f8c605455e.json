@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "135502",
             "experience_required": "3-5 years",
@@ -38,8 +39,8 @@
             ],
             "secondary": [
                 "WAN",
-                "WLAN",
                 "MLAN",
+                "WLAN",
                 "Security",
                 "Voice",
                 "Videoconferencing"
@@ -57,8 +58,8 @@
                 "Network platforms",
                 "Enterprise environment",
                 "WAN",
-                "WLAN",
                 "MLAN",
+                "WLAN",
                 "Security",
                 "Voice",
                 "Videoconferencing"
@@ -74,8 +75,9 @@
         "date_posted": "2024-10-01 08:20:36-05:00",
         "unique_id": "192488f8c605455e",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

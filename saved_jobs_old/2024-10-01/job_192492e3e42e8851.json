@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Panzer Solutions LLC",
+        "job_title": "AWS App developer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "11+ months with possible extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3"
+            ],
+            "primary": [
+                "Cloud Solution Architect",
+                "AWS Glue",
+                "AWS Amplify",
+                "AWS MQ",
+                "AWS SQ"
+            ],
+            "secondary": [
+                "Experience with Windows and Linux OS"
+            ],
+            "all": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3",
+                "Cloud Solution Architect",
+                "AWS Glue",
+                "AWS Amplify",
+                "AWS MQ",
+                "AWS SQ",
+                "Experience with Windows and Linux OS"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Shujath Ali",
+        "email": "shujath.ali@panzersolutions.com",
+        "jd": "Dear Consultant,How are you doing well!My name is Shujath Ali and I am working as a Lead Talent Acquisition at Panzer Solutions LLC.We deal with US IT and non IT recruitment services. We have the below opening with our preferred client,let me know if you are available & interested in this position. If interested please share a copy of your resume and best time, number to reach.Job Title: AWS App developerLocation: Austin, TX (100% Remote)Duration: 11+ months with possible extensionLocals Preferred, Non-Locals may applyPlans, develops, tests, and documents computer programs, applying knowledge of programming techniques and computer systems. Evaluates user request for new or modified program, such as data ETL pipelines (using Python/AWS Glue) or front-end data submission app development (using Javascript/AWS Amplify). Consults with user to identify current operating procedures and clarify program objectives. Formulates plan outlining steps required to develop program, using methodologies such as structured analysis and design or object-oriented development.Participate the implementation of AWS Data Lake instance by translating program needs into technical requirements, supporting program leads in defining the long-term vision for the project, defining and implementing data governance / identity and access management policies, tracking project expenses, testing and validating new functionality, enabling program staff to use new tools, and regularly interfacing with both internal and external stakeholders. Role includes programming to implement new data feeds via API, maintaining AWS Amplify data upload platform, and implementing and maintaining crawlers and jobs in AWS Glue. II. CANDIDATE SKILLS AND QUALIFICATIONS Minimum Requirements:Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.YearsRequired/PreferredExperience8RequiredJava, JavaScript or Python programming8RequiredAWS IAM8RequiredAWS S34RequiredCloud Solution Architect4PreferredAWS Glue4PreferredAWS Amplify4PreferredAWS MQ, SQ4PreferredExperience with Windows and Linux OS",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:42:35-05:00",
+        "unique_id": "192492e3e42e8851",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

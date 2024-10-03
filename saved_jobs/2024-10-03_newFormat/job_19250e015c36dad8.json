@@ -1,0 +1,72 @@
+[
+    {
+        "company": "MPHASIS-JPMC",
+        "job_title": "Java Spark Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spark",
+                "AWS",
+                "Snowflake"
+            ],
+            "primary": [
+                "ETL",
+                "Data Processing",
+                "SQL",
+                "NoSQL",
+                "Data Pipelines"
+            ],
+            "secondary": [
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ],
+            "all": [
+                "Java",
+                "Spark",
+                "AWS",
+                "Snowflake",
+                "ETL",
+                "Data Processing",
+                "SQL",
+                "NoSQL",
+                "Data Pipelines",
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Robert",
+        "email": "robert@tech-gene.com",
+        "jd": "<div class='job-description'><h1>Java Spark Developer - MPHASIS-JPMC</h1><h2>About the Company</h2><p>MPHASIS-JPMC</p><h2>Job Overview</h2><p>We are looking for a Java Spark Developer to join our team.</p><h2>Location and Work Arrangement</h2><p>Location: Plano, TX (Day 1 onsite)</p><h2>Key Responsibilities</h2><ul><li>Design, develop, and maintain scalable data pipelines using Apache Spark and Java.</li><li>Implement data processing workflows and ETL processes to ingest, transform, and store large volumes of data.</li><li>Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and deliver high-quality data solutions.</li><li>Optimize and tune data processing jobs for performance and cost-efficiency.</li><li>Ensure data quality, integrity, and security across all data pipelines and storage solutions.</li><li>Develop and maintain data models, schemas, and documentation.</li><li>Monitor and troubleshoot data pipeline issues, ensuring high availability and reliability.</li></ul><h2>Required Qualifications</h2><ul><li>Must Have skill: Java Spark and AWS</li><li>Snowflake \u2013 Preferably Good knowledge/Experience.</li><li>Hands-on experience with AWS services, including S3, EMR, Lambda, and Glue.</li></ul><h2>Preferred Qualifications</h2><ul><li>Experience with SQL and NoSQL databases.</li><li>CICD, Jules, Spinnaker.</li></ul><h2>How to Apply</h2><p>Please contact Robert at <a href='mailto:robert@tech-gene.com'>robert@tech-gene.com</a>.</p></div>",
+        "source": "Email",
+        "date_posted": "2024-10-02 21:14:41-05:00",
+        "unique_id": "19250e015c36dad8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

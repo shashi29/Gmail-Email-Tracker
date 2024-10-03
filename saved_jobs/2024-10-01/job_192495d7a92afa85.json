@@ -1,0 +1,62 @@
+[
+    {
+        "company": "GTECH LLC",
+        "job_title": "Sr. Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Airflow",
+                "Airbyte",
+                "Python",
+                "Kafka",
+                "Azure Devops",
+                "Docker",
+                "containerization"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Airflow",
+                "Airbyte",
+                "Python",
+                "Kafka",
+                "Azure Devops",
+                "Docker",
+                "containerization"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jaya Verma",
+        "email": "jverma@greattechglobal.com",
+        "jd": "From: Jaya Verma, Gtech llc jverma@greattechglobal.com Reply to: jverma@greattechglobal.com Role: Sr. Data Engineer Location : Remote Job Type \u2013ContractWe have two positions in this project as open now. For these two roles, we need resources with good Airflow or Airbyte, Python knowledge, Kafka, Azure Devops, Docker, containerization. Thanks and Regards, GTECH LLCJaya Verma | Senior Technical recruiter",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:35:50-05:00",
+        "unique_id": "192495d7a92afa85",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

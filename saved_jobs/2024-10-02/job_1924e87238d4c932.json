@@ -1,0 +1,55 @@
+[
+    {
+        "company": "iTech Us Inc",
+        "job_title": "Java Backend Developer",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's or equivalent experience in Computer Science, Software/Electronics engineering, Information Systems, or closely related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "$55/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SQL",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "SQL",
+                "Spring Boot",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ganesh Gorak",
+        "email": "ganesh.g@itechus.net",
+        "jd": "From: Ganesh, iTech Us Inc ganesh.g@itechus.net Reply to: ganesh.g@itechus.net Hi, Critical need! Can get interview in 1 or 2 days for sure. Position: Java Backend Developer Location: Quincy, MA (Onsite) \u2013 ONLY LOCALS Duration: 12 months In person InterviewPay Rate: $55/hr on C2C Description: 8+ years Java and SQL Spring Boot and Microservices Required Education: At least a bachelor\u2019s degree( or equivalent experience) in Computer Science, Software/Electronics engineering, Information Systems, or closely related field is required. Thanks, and regardsGanesh Gorak Itech Us Inc",
+        "source": "Email",
+        "date_posted": "2024-10-02 12:37:03-05:00",
+        "unique_id": "1924e87238d4c932",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

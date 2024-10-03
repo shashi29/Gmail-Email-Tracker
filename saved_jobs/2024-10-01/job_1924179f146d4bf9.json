@@ -1,0 +1,58 @@
+[
+    {
+        "company": "ITECS",
+        "job_title": "Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "JavaScript"
+            ],
+            "primary": [
+                "RDBMS",
+                "NoSQL",
+                "webservices"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "J2EE",
+                "JavaScript",
+                "RDBMS",
+                "NoSQL",
+                "webservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "From: SAPNA, ITECS sapna@itecsus.com Reply to: sapna@itecsus.com Java Developer - F2F interview **ON SITE at PHX** Location: Phoenix, AZ (Onsite)Application Developer - Java & Web TechnologiesSkills required JavaJ2EEJavaScriptRDBMSNoSQL & webservices",
+        "source": "Email",
+        "date_posted": "2024-09-30 00:49:45-05:00",
+        "unique_id": "1924179f146d4bf9",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

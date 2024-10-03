@@ -1,0 +1,85 @@
+[
+    {
+        "company": "WinOrbit",
+        "job_title": "Backend Software Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 17+",
+                "Kotlin",
+                "Vert.x",
+                "Quarkus",
+                "Micronaut",
+                "Spring Boot",
+                "Kafka",
+                "PostgreSQL"
+            ],
+            "primary": [
+                "Reactive programming",
+                "Microservices",
+                "Event driven architecture",
+                "Messaging",
+                "Asynchronous API design",
+                "Cloud-based architecture",
+                "Distributed systems"
+            ],
+            "secondary": [
+                "FinTech experience",
+                "Agile methodologies",
+                "Cross functional team collaboration"
+            ],
+            "all": [
+                "Java 17+",
+                "Kotlin",
+                "Vert.x",
+                "Quarkus",
+                "Micronaut",
+                "Spring Boot",
+                "Kafka",
+                "PostgreSQL",
+                "Reactive programming",
+                "Microservices",
+                "Event driven architecture",
+                "Messaging",
+                "Asynchronous API design",
+                "Cloud-based architecture",
+                "Distributed systems",
+                "FinTech experience",
+                "Agile methodologies",
+                "Cross functional team collaboration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sandeep",
+        "email": "sandeep.s@winorbittech.com",
+        "jd": "From: Sandeep, WinOrbit sandeep.s@winorbittech.com Reply to: sandeep.s@winorbittech.com USC only Backend Software Engineer Location: Phoenix, AZ - This is a hybrid role in Phoenix and needs to be on site 3x\u2019s per week. Length: 6+ Months USC only Local Preferred (but not representation, only local DL will be considered)Must rquired active LinkedIn (150+ connections) & DL in submission. Notes: Experience in backend reactive programming languages: Java 17+ and/or Kotlin. \u2022 Proven record of accomplishment developing lightweight reactive microservices: Vert.x, Quarkus, Micronaut or Spring Boot. \u2022 Experience in backend reactive programming languages: Java 17+ and/or Kotlin.\u2022 Proven record of accomplishment developing lightweight reactive microservices: Vert.x, Quarkus, Micronaut or Spring Boot.\u2022 Experience of working with stakeholders and product owners to refine upcoming Epics.\u2022 Deep understanding of event driven architecture and messaging: Kafka, webhooks, asynchronous API design.\u2022 Experience with PostgreSQL or equivalent relational databases.\u2022 Have experience working as an individual contributor as part of a cross functional agile team. Experience in FinTech is a massive plus.\u2022 Have proven experience in supporting mission critical platforms with elevated levels of availability and service continuity.\u2022 Have solid experience in cloud-based architecture and distributed systems.",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:59:41-05:00",
+        "unique_id": "192440c12b07bf22",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

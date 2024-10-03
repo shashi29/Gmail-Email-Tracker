@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Metasys",
+        "job_title": "Sybase Database Administrator",
+        "location": "Warren, NJ, USA",
+        "full_location": {
+            "city": "Warren",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 Months Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Sybase",
+                "Oracle",
+                "RDBMS"
+            ],
+            "primary": [
+                "Database Administration",
+                "Performance Monitoring",
+                "Tuning",
+                "Index Maintenance"
+            ],
+            "secondary": [
+                "Autosys",
+                "Problem-solving",
+                "Effective Communication"
+            ],
+            "all": [
+                "Sybase",
+                "Oracle",
+                "RDBMS",
+                "Database Administration",
+                "Performance Monitoring",
+                "Tuning",
+                "Index Maintenance",
+                "Autosys",
+                "Problem-solving",
+                "Effective Communication"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Varun",
+        "email": "vasharma@metasysinc.com",
+        "jd": "From: Varun, Metasys vasharma@metasysinc.com Reply to: vasharma@metasysinc.com PLEASE DO NOT SHARE RESUME IF CANDIDATE DO NOT HAVE SYBASE EXPERINCE C2C only for H1-B (No GC or USC) Database Administrator Warren, NJ (onsite) 6 Months Contract Client is seeking an experienced Database Administrator with expertise in RDBMS, particularly in Sybase and Oracle. Responsibilities: Install, configure, and manage database servers. Create, validate, and upgrade database instances. Provide operational and application support, including changes requested by application teams. Monitor performance, manage jobs, and ensure database security and availability. Conduct backup and restore operations and disaster recovery. Analyze and tune database performance and application queries. Troubleshoot Sybase ASE replication issues with Oracle. Maintain database integrity and storage management. Requirements: 10 years of experience in database administration. Proficiency in RDBMS installation, configuration, and operational support. Knowledge of Autosys software is a plus. Strong problem-solving skills and effective communication. Experience with performance monitoring, tuning, and index maintenance.",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:45:49-05:00",
+        "unique_id": "1924365615a2de95",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "company": "SourceMantra Inc",
+        "job_title": "Software Automation Engineer",
+        "location": "Jacksonville, FL, USA",
+        "full_location": {
+            "city": "Jacksonville",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "$60/hr on c2c"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "custom xPaths",
+                "POM Constructors"
+            ],
+            "primary": [
+                "object-oriented programming",
+                "initialization",
+                "constructor overloading"
+            ],
+            "secondary": [
+                "web applications",
+                "desktop applications"
+            ],
+            "all": [
+                "C#",
+                "custom xPaths",
+                "POM Constructors",
+                "object-oriented programming",
+                "initialization",
+                "constructor overloading",
+                "web applications",
+                "desktop applications"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Srujan Burra",
+        "email": "srujan@sourcemantra.com",
+        "jd": "Greetings, We have the below requirement with our Client. Kindly go through the JD below and let me know your interest. Position: Software Automation Engineer\nLocation: Jacksonville Florida \u2013 100% Onsite\nDuration: 12+ Months\nNeed USC, H1B & H4 EAD candidates only. LinkedIn & Passport Number Must for Submission. Need 10+ years\u2019 experience\nRate: $60/hr on c2c\nMax. Key areas they are looking for skill wise\nC# required - C# (sharp) is object-oriented programming language developed by Microsoft mainly for web and desktop applications.\nmust know how to write custom xPaths -they are not interested in someone who only uses tools for this.\nKnowledge around Constructors \u2013 what they do what are they used for, etc.\nSolid Knowledge of POM Constructors: In programming, constructors are special methods in a class that are automatically called when an instance of the class is created. They are used to initialize the object\u2019s state and set up any necessary resources or initial values. Here's a deeper look into constructors:\nKey Characteristics of Constructors\nInitialization: Constructors allow you to set up initial values for an object's properties or perform any setup tasks required when an object is created.\nNaming: In many languages, constructors share the same name as the class. For example, in C#, the constructor's name is the same as the class name.\nNo Return Type: Constructors do not have a return type, not even void. Their sole purpose is to initialize the object's state.\nAutomatic Invocation: Constructors are automatically invoked when an object is instantiated using the new keyword (in languages like C# and Java).\nOverloading: Many languages support constructor overloading, which means you can have multiple constructors in a class with different parameters.",
+        "source": "Email",
+        "date_posted": "2024-09-30 16:27:34-05:00",
+        "unique_id": "19244d47645522a1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Virginia State Police (VSP)",
+        "job_title": "Full Stack Java Program Analyst",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java development with Java/J2EE, HTML/CSS, JavaScript, SQL",
+                "DocuSign API integration using WebHooks",
+                "AWS (Lambda, SQS/SNS, API Gateway, Secrets Manager, DynamoDB)",
+                "SOAP & REST Web Services, Spring, JDBC, JPA/Hibernate, JMS",
+                "Relational/Object-Oriented Modeling"
+            ],
+            "primary": [
+                "Technical requirements specification and design documentation",
+                "Problem troubleshooting for multitiered applications",
+                "Team collaboration",
+                "Effective oral and written communication"
+            ],
+            "secondary": [
+                "OKTA integration",
+                "UNIXOS, UNIX Shell Scripting, PL/SQL, UML",
+                "IBM WebSphere Application Server, IBM WebSphere Liberty, Oracle RDBMS",
+                "Spring Batch and Spring Boot",
+                "Large-scale data migration",
+                "Microsoft Office Suite",
+                "Agile methodologies (Scrum, Kanban, Scrumban)"
+            ],
+            "all": [
+                "Java development with Java/J2EE, HTML/CSS, JavaScript, SQL",
+                "DocuSign API integration using WebHooks",
+                "AWS (Lambda, SQS/SNS, API Gateway, Secrets Manager, DynamoDB)",
+                "SOAP & REST Web Services, Spring, JDBC, JPA/Hibernate, JMS",
+                "Relational/Object-Oriented Modeling",
+                "Technical requirements specification and design documentation",
+                "Problem troubleshooting for multitiered applications",
+                "Team collaboration",
+                "Effective oral and written communication",
+                "OKTA integration",
+                "UNIXOS, UNIX Shell Scripting, PL/SQL, UML",
+                "IBM WebSphere Application Server, IBM WebSphere Liberty, Oracle RDBMS",
+                "Spring Batch and Spring Boot",
+                "Large-scale data migration",
+                "Microsoft Office Suite",
+                "Agile methodologies (Scrum, Kanban, Scrumban)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Priyanka Maurya",
+        "email": "priyanka.maurya@tekinspirations.com",
+        "jd": "Job Description -Full Stack Java Program Analyst Onsite -Richmond, VA\nNeed local to RICHMOND- do not submit other city candidates \u2013 No representation\nNeed LinkedIn State client experience Interview \u2013 Inperson \u2013 mandatory \u2013 already 2 candidates backoff\n\nAbout the Role:\nVirginia State Police (VSP) is seeking a Senior Full Stack Java Consultant to design, develop, and support DocuSign workflows integrated with complex Java/JEE applications.\n\nKey Responsibilities:\nIntegrate DocuSign API using WebHooks (minimum 3 years of experience).\nUtilize AWS Serverless technologies like Lambda, SQS/SNS, API Gateway, AWS WAF, Secrets Manager, IAM, and DynamoDB (minimum 3 years of experience).\nJava development with Java/J2EE, HTML/CSS, JavaScript, SQL (minimum 5 years of experience).\nWork with SOAP & REST Web Services, Spring, JDBC, JPA/Hibernate, JMS (minimum 3 years of experience).\nModel relational and object-oriented designs.\nCreate technical requirement specifications and design documentation.\nTroubleshoot complex multitiered applications.\nCollaborate effectively in a team environment.\nProvide clear oral and written communication.\n\nPreferred Experience:\nOKTA integration.\nUNIXOS, UNIX Shell Scripting, PL/SQL, UML.\nIBM WebSphere (Application Server and Liberty) and Oracle RDBMS.\nSpring Batch and Spring Boot.\nLarge-scale data migration.\nAgile methodologies (Scrum, Kanban, or Scrumban).",
+        "source": "Email",
+        "date_posted": "2024-09-30 08:42:33-05:00",
+        "unique_id": "192432ac2cda9a4a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

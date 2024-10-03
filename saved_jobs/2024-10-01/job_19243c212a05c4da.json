@@ -1,0 +1,75 @@
+[
+    {
+        "company": "smartitframe",
+        "job_title": "Sr. Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server",
+                "CI/CD"
+            ],
+            "primary": [
+                "Gitlab"
+            ],
+            "secondary": [
+                "Streaming",
+                "Kafka",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "all": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server",
+                "CI/CD",
+                "Gitlab",
+                "Streaming",
+                "Kafka",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "dhamodharan",
+        "email": "dhamodharan@smartitframe.com",
+        "jd": "From: dhamodharan, smartitframe dhamodharan@smartitframe.com Reply to: dhamodharan@smartitframe.com Hi All Job Title: Sr. Data Engineer Location: Multiple LocationsContract Job Summary:The Data Engineer builds the infrastructure required for optimal extraction, transformation and loading of data from a wide variety of data sources using SQL, Azure, and AWS 'big data' technologies. The Data Engineer is responsible for identifying, designing and implementing internal process improvements such as automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc. Skill- Primary SkillsAzure ADF, Databricks, Databricks Unity Catalogue, Spark SQL, Snowflake, SQL Server (Stored Procs, SQL\u2019s, etc.),CI/CD(Gitlab) Secondary SkillsStreaming (Kafka),Python,Pyspark, Control-M Job description:Data Engineers who are experts in Azure and Snowflake with design and implementation in Azure and Snowflake .Within Azure, team heavily use ADF, Databricks, Streaming, Batch processing, Key Vault, and Blob Storage.",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:23:41-05:00",
+        "unique_id": "19243c212a05c4da",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "company": "USC Group",
+        "job_title": "Data Analyst/ Engineer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "AWS"
+            ],
+            "primary": [
+                "Unit testing",
+                "GitHub"
+            ],
+            "secondary": [
+                "Object Oriented Programming",
+                "Data quality management",
+                "Snowflake",
+                "Jupyter notebooks",
+                "Cloud computing"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "AWS",
+                "Unit testing",
+                "GitHub",
+                "Object Oriented Programming",
+                "Data quality management",
+                "Snowflake",
+                "Jupyter notebooks",
+                "Cloud computing"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shubham",
+        "email": "shubham@theuscgroup.com",
+        "jd": "From: Shubham, USC Group shubham@theuscgroup.com Reply to: shubham@theuscgroup.com Position: Data Analyst/ EngineerLocation: Richmond, VA / Mclean, VA (Hybrid, ust be local) Visa: Only USC, GC, GC-EAD, H4-EAD, OPT-EADPrefer Ex capital One resources or strong Financial Background only (recent 2 projects should be financial)MUST skills-Python-SQL Coding-Unit testing-AWS-GitHubJob Description:The position requires an advanced Python programming accustomed to Object Oriented ProgrammingUnderstanding the concept of packaging Python applicationWell versed with AWS concepts of deploying Python applications to AWS eco-systemWork collaboratively with appropriate Tech teams to manage security mechanisms and data access governanceGood in leveraging Python Jupyter notebooks and then later on automating the application as a wholeAbility to drive projects such as adoption of new enterprise cloud computing capabilities and improvement projects to reduce model execution failures and model deployment timeGood in advanced SQL queries and analyzing the data derived from SnowflakeDrive analysis that provides meaningful insights on business strategiesDrive an understanding and adherence to the principles of data quality management including metadata, lineage, and business definitionsBuild and execute tools to monitor and report on data quality",
+        "source": "Email",
+        "date_posted": "2024-10-01 17:02:02-05:00",
+        "unique_id": "1924a944ec9c21de",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Postgresql DBA Developer",
+        "location": "Springfield, GA, USA",
+        "full_location": {
+            "city": "Springfield",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Pg_dump",
+                "PSQL",
+                "Pg_Ctl",
+                "Pg_repack",
+                "Vacume",
+                "Analyse process",
+                "Index implementation",
+                "Partition implementation",
+                "PG_Admin",
+                "Postgresql Performance Improvement",
+                "Postgresql.conf tuning"
+            ],
+            "primary": [
+                "Database monitoring",
+                "Job failure resolution",
+                "Process automation solutions",
+                "Postgresql DB installation",
+                "DB upgrades"
+            ],
+            "secondary": [],
+            "all": [
+                "Pg_dump",
+                "PSQL",
+                "Pg_Ctl",
+                "Pg_repack",
+                "Vacume",
+                "Analyse process",
+                "Index implementation",
+                "Partition implementation",
+                "PG_Admin",
+                "Postgresql Performance Improvement",
+                "Postgresql.conf tuning",
+                "Database monitoring",
+                "Job failure resolution",
+                "Process automation solutions",
+                "Postgresql DB installation",
+                "DB upgrades"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Manish Kumar",
+        "email": "manish.kumar@scalable-systems.com",
+        "jd": "From: Manish Kumar, Scalable Systems manish.kumar@scalable-systems.com Reply to: manish.kumar@scalable-systems.com Position: Postgresql DBA Developer Location: Springfield, GA Experience working with Pg_dump/PSQL/Pg_Ctl/Pg_repack/Vacume and Analyse process/Index and partition implementation\u00a7 Experience Monitoring Database with PG_Admin\u00a7 Experience Monitoring Postgresql Jobs and fixing the Job failure if any\u00a7 The responsibilities of a DBRE include designing and implementing solutions to enhance the reliability and performance of databases, identifying and fixing issues within the DBMS, and developing and deploying process automation solutions.\u00a7 Experience in Postgresql Performance Improvement by tuning stored procedures, functions or Jobs or tune postgresql.conf configuration parameter setting to improve overall DB performance tuning.\u00a7 Monitor and administration of Postgresql Db server in Linux and windows platforms\u00a7 Knowledge on Postgresql DB Installation and Upgrades of DBs. Best Regards Manish Kumar Phone - +17327883626 Email ID: manish.kumar@scalable-systems.com Scalable Systems | Inspiring Innovation Big Data | Analytics | Integration | Intelligence www.scalable-systems.com",
+        "source": "Email",
+        "date_posted": "2024-09-28 20:25:57-05:00",
+        "unique_id": "1923b62388990b4f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

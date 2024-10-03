@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Rivago Infotech",
+        "job_title": "Python Developer",
+        "location": "Hercules, CA, USA",
+        "full_location": {
+            "city": "Hercules",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "Flask",
+                "RESTful API",
+                "NoSQL"
+            ],
+            "primary": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "secondary": [
+                "FastAPI",
+                "Database Design"
+            ],
+            "all": [
+                "Python",
+                "Django",
+                "Flask",
+                "RESTful API",
+                "NoSQL",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "FastAPI",
+                "Database Design"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sarvan Kumar",
+        "email": "sarvan@rivagoinfotech.com",
+        "jd": "From: Sarvan Kumar, Rivago Infotech sarvan@rivagoinfotech.com Reply to: sarvan@rivagoinfotech.com Position: Python DeveloperLocation: Hercules Area SFO (Bay area) - HybridDomain exp: Healthcare DomainMust have: Strong Python Django, Flask, RESTful API, NoSQLJob Description:Python developers, implement business logic into our backend python server code. Strong python development skills, and best practices in web application development with RESTful API's. Familiarity with web frameworks such as Django, Flask, and FastAPI. Some proficiency in HTML, CSS, and JavaScript (or at least how it will relate to the server side data). Experience with database design (NoSQL and relational).--",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:05:57-05:00",
+        "unique_id": "19243fa837c680a8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

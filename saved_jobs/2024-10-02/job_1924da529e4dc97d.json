@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Chabeztech",
+        "job_title": "Java Lead Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "Kafka",
+                "Rabbit MQ"
+            ],
+            "primary": [
+                "API design",
+                "SQL",
+                "NoSQL",
+                "AWS EKS",
+                "design patterns",
+                "secure coding",
+                "CI/CD tools",
+                "JIRA",
+                "GitHub",
+                "Jenkins",
+                "Agile",
+                "Scrum"
+            ],
+            "secondary": [
+                "Excellent communication",
+                "leadership skills"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "Kafka",
+                "Rabbit MQ",
+                "API design",
+                "SQL",
+                "NoSQL",
+                "AWS EKS",
+                "design patterns",
+                "secure coding",
+                "CI/CD tools",
+                "JIRA",
+                "GitHub",
+                "Jenkins",
+                "Agile",
+                "Scrum",
+                "Excellent communication",
+                "leadership skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Pooja",
+        "email": "pooja@chabeztech.com",
+        "jd": "From: Pooja, Chabeztech pooja@chabeztech.com Reply to: pooja@chabeztech.com C2C position Job Title: Java Lead Developer 15+ Years Experience requiredLocation: Atlanta/Frisco (Remote)Requirements:Strong experience in Java, Microservices, Spring Boot, and Kafka/Rabbit MQExpertise in API design, SQL/NoSQL databases, and AWS EKSKnowledge of design patterns, secure coding, and CI/CD tools (JIRA, GitHub, Jenkins)Experience with Agile/ScrumExcellent communication and leadership skillsResponsibilities:Lead a team and deliver high-quality codeCollaborate with stakeholders to gather requirementsDevelop and deploy Java microservices applicationskindly share suitable profiles on Email: pooja@chabeztech.com",
+        "source": "Email",
+        "date_posted": "2024-10-02 09:32:44-05:00",
+        "unique_id": "1924da529e4dc97d",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "Java developer"
+    }
+]

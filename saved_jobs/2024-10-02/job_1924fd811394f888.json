@@ -1,0 +1,79 @@
+[
+    {
+        "company": "3K Technologies",
+        "job_title": ".Net Developer",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft .NET (C#)",
+                "ASP.NET/MVC",
+                "WCF/WebAPI",
+                "SQL Server",
+                "JavaScript frameworks (Angular, Knockout, etc.)"
+            ],
+            "primary": [
+                "REST",
+                "XML",
+                "JSON",
+                "HTML",
+                "Python",
+                "CSS"
+            ],
+            "secondary": [
+                "DB2",
+                "COBOL",
+                "CA-GEN",
+                "FOCUS"
+            ],
+            "all": [
+                "Microsoft .NET (C#)",
+                "ASP.NET/MVC",
+                "WCF/WebAPI",
+                "SQL Server",
+                "JavaScript frameworks (Angular, Knockout, etc.)",
+                "REST",
+                "XML",
+                "JSON",
+                "HTML",
+                "Python",
+                "CSS",
+                "DB2",
+                "COBOL",
+                "CA-GEN",
+                "FOCUS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjay",
+        "email": "sanjay@3ktechnologies.com",
+        "jd": "From: sanjay, 3ktechnologies sanjay@3ktechnologies.com Reply to: sanjay@3ktechnologies.com HI ALL,Job Title:.Net DeveloperLocation:Tallahassee,FL(From dayone onsite)Duration: Long TermDescription: Must Skills Required DB2, COBOL, CA-GEN, FOCUS2+ years as a lead developer. 5+ years of broad experience working with development technologies including Microsoft .NET (C#), ASP.NET/MVC, WCF/WebAPI, SQL Server, JavaScript frameworks (Angular, Knockout, etc.), REST, XML, JSON, HTML, Python, and CSS.Candidates with resumes reflecting experience converting legacy (DB2, COBOL, CA-GEN, FOCUS, etc.) to modern technology will be given preference. Thanks & RegardsSanjaySenior Technical Recruiter1114 Cadillac Ct, Milpitas, CA 95035www.3ktechnologies.com|sanjay@3ktechnologies.com",
+        "source": "Email",
+        "date_posted": "2024-10-02 17:02:49-05:00",
+        "unique_id": "1924fd811394f888",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "company": "United Parcel Services",
+        "job_title": "Java Developer",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hour"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL"
+            ],
+            "primary": [
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD pipeline",
+                "DevOps"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL",
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD pipeline",
+                "DevOps"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mayank Mishra",
+        "email": "mayank@stellarconsulting.com",
+        "jd": "From: Mayank Mishra, Stellar Consulting LLC mayank@stellarconsulting.com Reply to: mayank@stellarconsulting.com Note: Please share the Consultant who has hands on experience with OpenShift and local to New Jersey and Max rate is $55 per hour on C2C(Non Negotiable).Hello Partners,We are delighted to announce a compelling opportunity for the position of a Java Developer with OpenShift. This role incorporates necessitating the successful candidate to be present Partial on-site in Parsippany NJ. Our esteemed client (United Parcel Services) is actively in pursuit of an experienced consultant to augment their team. Comprehensive job specifications are delineated below for your perusal.Job Description:Java Developer knowledgeable in Spring Framework, Spring Boot, and SQLSkill/Experience/Education:Java, Spring Framework, Spring Boot, SQL, OpenShift, WebLogic Application Server, Oracle SQL, Jenkins, CI/CD pipeline, DevOps.Regards,Mayank MishraSenior Technical Recruiter at Stellar Consulting Solutions LLCEmail: mayank@stellarconsulting.comLinkedIn: https://www.linkedin.com/in/mnm30/",
+        "source": "Email",
+        "date_posted": "2024-10-02 07:48:39-05:00",
+        "unique_id": "1924d45e354243a1",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "Java developer"
+    }
+]

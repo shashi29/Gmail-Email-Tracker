@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Anveta Inc",
+        "job_title": "Java Backend Developer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "RESTful APIs",
+                "Microservices",
+                "Spring Boot",
+                "AWS"
+            ],
+            "primary": [
+                "NodeJS",
+                "CI/CD",
+                "NoSQL",
+                "SQL",
+                "Agile",
+                "API Security",
+                "OAuth",
+                "JWT",
+                "OpenAPI"
+            ],
+            "secondary": [
+                "Postgres",
+                "MongoDB",
+                "JPA",
+                "Unit Testing",
+                "Functional Testing"
+            ],
+            "all": [
+                "Java",
+                "RESTful APIs",
+                "Microservices",
+                "Spring Boot",
+                "AWS",
+                "NodeJS",
+                "CI/CD",
+                "NoSQL",
+                "SQL",
+                "Agile",
+                "API Security",
+                "OAuth",
+                "JWT",
+                "OpenAPI",
+                "Postgres",
+                "MongoDB",
+                "JPA",
+                "Unit Testing",
+                "Functional Testing"
+            ],
+            "with_experience": [
+                "Java (8 years)",
+                "RESTful APIs (3 years)",
+                "Microservices (3 years)",
+                "AWS (3 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mounika",
+        "email": "mounika@anveta.com",
+        "jd": "From: Mounika, Anveta Inc mounika@anveta.com Reply to: mounika@anveta.com Title: Java Backend DeveloperLocation: Irving, TX (Only locals)Duration: 6+ monthsInterview process1st round with Hiring manager 2nd Round - Onsite with the teamJob Description:Must have 8 years of hands-on programming experience as a Senior Java Backend Developer.Must have 3 years of RESTful APIs / Server-side development experience using microservices architecture using Spring boot or Node JSMust have 3 years of experience in cloud services (preferable AWS), developing micro-services, CI/CD solution, message queue systems and background task management.Must have 3 years of experience in developing NoSQL and SQL databases, designing data models, proficient in querying data for quality, analysis, analytics and adhoc reportingKnowledge in API security frameworks, token management and user access control including OAuth, JWT, OpenAPI, etc.Experience working with API Gateway, CDNs, API Performance testing, CI/CD pipelines and monitoring tools.Ability to work in an Agile / SCRUM environment.Strong Java backend developer with hands-on coding, SQL/NoSQL DB and AWS cloud experience.Sr Java backend developer, Rest API, Spring boot, Spring batch, Javascript, Postgres/MongoDB, JPA, CI/CD, unit/functional testing, AWS or related cloud experience",
+        "source": "Email",
+        "date_posted": "2024-10-01 15:10:23-05:00",
+        "unique_id": "1924a5500483689c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

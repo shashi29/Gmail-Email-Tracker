@@ -1,0 +1,104 @@
+[
+    {
+        "company": "USG Inc",
+        "job_title": "Terraform Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "Google Cloud Platform",
+                "Infrastructure as Code",
+                "Python",
+                "Bash"
+            ],
+            "primary": [
+                "CI/CD",
+                "Jenkins",
+                "GitLab",
+                "Cloud architecture principles",
+                "Security best practices",
+                "Networking in GCP",
+                "DevOps practices",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Kubernetes",
+                "Cloud Storage",
+                "Cloud SQL",
+                "Big Table",
+                "Big Query",
+                "Composer",
+                "Linux",
+                "Windows",
+                "Hashicorp Certification: Terraform Associate",
+                "Hashicorp Certification: Vault Associate",
+                "Google Cloud Certification",
+                "Professional DevOps certification"
+            ],
+            "all": [
+                "Terraform",
+                "Google Cloud Platform",
+                "Infrastructure as Code",
+                "Python",
+                "Bash",
+                "CI/CD",
+                "Jenkins",
+                "GitLab",
+                "Cloud architecture principles",
+                "Security best practices",
+                "Networking in GCP",
+                "DevOps practices",
+                "Agile methodologies",
+                "Kubernetes",
+                "Cloud Storage",
+                "Cloud SQL",
+                "Big Table",
+                "Big Query",
+                "Composer",
+                "Linux",
+                "Windows",
+                "Hashicorp Certification: Terraform Associate",
+                "Hashicorp Certification: Vault Associate",
+                "Google Cloud Certification",
+                "Professional DevOps certification"
+            ],
+            "with_experience": [
+                "Terraform (3-5 years)",
+                "Google Cloud Platform (5+ years)",
+                "Python (5+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jaya Kushwaha",
+        "email": "jaya.k@usgrpinc.com",
+        "jd": "Hello,Hope you are doing well !!We have an urgent Position of Terraform Engineer with one of our Client. Let me know if you are interested in below mentioned position and share your updated resume and contact details to discuss further about the role. Position: Terraform EngineerLocation: Charlotte, NC/Dallas, TX (In-Person Interview)Contract Job RequirementsJob Duties and Responsibilities:Talented and experienced Terraform Engineer specializing in Google Cloud Platform. Candidate must have strong background in Infrastructure as Code (IaC) with a focus on terraform and will be responsible for designing, implementing, and maintaining scalable and reliable cloud infrastructure on GCPJob Responsibilities Provision Services and resources on GCPFix, and improve infrastructure continuouslyTroubleshoot operational issues related to infrastructureMonitor, fix, and improve infrastructure continuouslyCollaborate with internal teams and respective stakeholders to understand user requirements and implement technical solutionsDevelop self-service infrastructure provisioning, delivery pipelines, log and monitoring servicesTechnical SkillsetIn-depth knowledge of GCP services including Compute Engine, Kubernetes Engine, Cloud Storage, Cloud SQL, Big Table, Big Query, Composer, etc.3 to 5 years\u2019 experience on GCP with expertise in Terraform, including writing and maintaining Terraform configurations and modules5+ years of experience in scripting languages (e.g. Python, Bash)Experience with CI/CD pipelines and tools (e.g. Jenkins, GitLab)Strong understanding of Cloud architecture principles, security best practices, and networking in GCPKnowledge of DevOps practices and Agile methodologiesSkilled in system-level architecture, like Linux or WindowsHashicorp Certification: Terraform Associate requiredHashicorp Certification: Vault Associate preferredGoogle Cloud Certification required. Professional DevOps certification preferredBasic Qualifications:5+ years of experience in GCP5+ years of experience in Python RegardsJaya KushwahaAssociate Manager | RecruitmentEmail: jaya.k@usgrpinc.comWork Phone: 614-495-9222*676USG Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-01 14:29:52-05:00",
+        "unique_id": "192498f2e38b411c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

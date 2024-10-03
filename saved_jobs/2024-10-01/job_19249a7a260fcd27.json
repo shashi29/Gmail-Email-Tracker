@@ -1,0 +1,75 @@
+[
+    {
+        "company": "GVR INFO TEK",
+        "job_title": "Java with Kotlin Developer",
+        "location": "Brooklyn Park, MN, USA",
+        "full_location": {
+            "city": "Brooklyn Park",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 month contract with potential extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kotlin",
+                "Spring Boot",
+                "REST",
+                "Junit 5"
+            ],
+            "primary": [
+                "Kotest",
+                "Redis",
+                "PostgreSQL",
+                "Elastic Search",
+                "Drone"
+            ],
+            "secondary": [
+                "Kafka",
+                "Logstash",
+                "Kibana"
+            ],
+            "all": [
+                "Java",
+                "Kotlin",
+                "Spring Boot",
+                "REST",
+                "Junit 5",
+                "Kotest",
+                "Redis",
+                "PostgreSQL",
+                "Elastic Search",
+                "Drone",
+                "Kafka",
+                "Logstash",
+                "Kibana"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Tarun Kumar",
+        "email": "tarun.kumar@gvrinfotek.com",
+        "jd": "From: Tarun Kumar, GVR INFO TEK tarun.kumar@gvrinfotek.com Reply to: tarun.kumar@gvrinfotek.com Title: Java with Kotlin DeveloperLocation: Brooklyn Park, MN 2 days/weekDuration: 6 month contract with potential extensionAs an Engineer in the team you serve for all development needs in the engineering team that supports the multiple platforms. Technology:Languages: Java, and KotlinFrameworks: Spring Boot, REST, Junit 5, KotestCaching solutions: RedisDatabases: PostgreSQL, Elastic SearchCI/CD: Drone preferable or any CI/CD tools.Distributed event streaming platform like KafkaLog aggregation with Logstash and Kibana Regards, Tarun KumarIT RecruiterGVR Info Tek: 13573 Tabasco Cat Trail, Frisco, TX 75035Email: tarun.kumar@gvrinfotek.com",
+        "source": "Email",
+        "date_posted": "2024-10-01 14:56:39-05:00",
+        "unique_id": "19249a7a260fcd27",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

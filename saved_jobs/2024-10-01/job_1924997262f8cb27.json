@@ -1,0 +1,102 @@
+[
+    {
+        "company": "STM Consulting, Inc.",
+        "job_title": ".Net Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "College degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "8 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "C#",
+                ".NET Framework",
+                "ASP.NET",
+                "MS SQL Developer"
+            ],
+            "primary": [
+                "Microsoft Certified: Azure Developer Associate",
+                "Azure Fundamentals (AZ-900)",
+                "MCSA",
+                "MCSD",
+                "MCSE"
+            ],
+            "secondary": [
+                "Java Script",
+                "knockout",
+                "json",
+                "API",
+                "Active X controls",
+                "GIT",
+                "SQL Procedures",
+                "Functions",
+                "Tables",
+                "Views",
+                "Manual QA testing processes",
+                "MS Visio",
+                "ODRC"
+            ],
+            "all": [
+                "Azure",
+                "C#",
+                ".NET Framework",
+                "ASP.NET",
+                "MS SQL Developer",
+                "Microsoft Certified: Azure Developer Associate",
+                "Azure Fundamentals (AZ-900)",
+                "MCSA",
+                "MCSD",
+                "MCSE",
+                "Java Script",
+                "knockout",
+                "json",
+                "API",
+                "Active X controls",
+                "GIT",
+                "SQL Procedures",
+                "Functions",
+                "Tables",
+                "Views",
+                "Manual QA testing processes",
+                "MS Visio",
+                "ODRC"
+            ],
+            "with_experience": [
+                "Azure (with certification)",
+                "C#",
+                ".NET Framework",
+                "ASP.NET",
+                "MS SQL Developer"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Abhay",
+        "email": "abhay.yadav@consultstm.com",
+        "jd": "From: Abhay, STM Consulting, Inc. abhay.yadav@consultstm.com Reply to: abhay.yadav@consultstm.com Position: Programmer 4/ PR 4ReplacementsLocation: RemoteDuration: 8 MonthsMust have the Certification Microsoft Certified: Azure Developer Associate or Azure Fundamentals (AZ-900) MCSA/MCSD or MCSESkill Matrix:Experience programming languages with the main knowledge skills in Azure, Microsoft C#, .NET Framework 1.1 to current version, ASP.NET languagesMS SQL DeveloperExperience in Enterprise Data ModelingSenior developer responsible for planning, processing and performing all jobs in efficient manner with no supervisionCollege degreeSolutions design; Project technical planning; Analysis and design; Communication; Testing and implementationRecommends software reusability guidelinesPlans, conducts formal mentorship activities for peers and/or lower-level staff via verbal instruction or technical documentationGIT, Azure, C#, .NET 1.1 to current, ASP, Java Script, knockout, json, API, Active X controls, familiar with other language toolsDatabase: Microsoft SQL ServerAzure, CORE Framework, C#, ASP.NET Web application development, .NET 1.1 to current, SQL2000 to SQL2018, SQL Procedures, Functions, Tables, Views, etcManual QA testing processesDiagramming Tools: MS Visio or any flow diagram toolsVersion Control: ODRC uses GIT for version control for source code and documents. Any products ok.Testing: Perform System Test and Create Test DocumentationMicrosoft Certified: Azure Developer Associate or Azure Fundamentals (AZ-900) MCSA/MCSD or MCSE",
+        "source": "Email",
+        "date_posted": "2024-10-01 14:38:20-05:00",
+        "unique_id": "1924997262f8cb27",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

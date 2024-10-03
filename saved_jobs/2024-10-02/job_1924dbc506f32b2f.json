@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Micasa Global",
+        "job_title": "GCP Security Engineer",
+        "location": "Westlake, TX, USA",
+        "full_location": {
+            "city": "Westlake",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Terraform",
+                "Python",
+                "Linux",
+                "Azure"
+            ],
+            "primary": [
+                "Data Protection",
+                "Secrets Management",
+                "API Development",
+                "Automation",
+                "Encryption Technologies"
+            ],
+            "secondary": [
+                "Agile Scrum",
+                "Kanban",
+                "CISSP",
+                "Data Loss Prevention",
+                "Technical Troubleshooting"
+            ],
+            "all": [
+                "GCP",
+                "Terraform",
+                "Python",
+                "Linux",
+                "Azure",
+                "Data Protection",
+                "Secrets Management",
+                "API Development",
+                "Automation",
+                "Encryption Technologies",
+                "Agile Scrum",
+                "Kanban",
+                "CISSP",
+                "Data Loss Prevention",
+                "Technical Troubleshooting"
+            ],
+            "with_experience": [
+                "Terraform (3+ years)",
+                "Python (3+ years)",
+                "Linux (1+ year)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Hemant Patel",
+        "email": "hemant@micasaglobal.com",
+        "jd": "From: Hemant Patel, Micasaglobal hemant@micasaglobal.com Reply to: hemant@micasaglobal.com Hi Chandrasekhar,Hope you are doing well,My name is Hemant, and I'm an IT recruiter at Micasa Global. Our records show that you are an experienced IT professional with experience in GCP Security Engineer. This experience is relevant to one of my current openings.Job Title: GCP Security EngineerLocation: Westlake, TX (Hybrid Onsite)Job Type: C2CClient : Confidential About the Role:We are seeking a skilled Security Engineer to join our dynamic team. This role focuses on the engineering and management of advanced data protection technologies, including Managed HSMs, Azure Key Vault, and other key and secret management systems. The ideal candidate will possess intermediate to advanced systems engineering experience in medium to large Enterprise environments, with a strong background in Linux server operating systems and production support. Proficiency in scripting and automation using Terraform, Python, and Harness is essential.Key Responsibilities:\u00b7 Provide Tier 3 support and engineering for the management of data protection technologies, including key and secret management systems.\u00b7 Develop and implement scripting solutions and best practices for automation using Terraform, GitHub, and other tools.\u00b7 Create and maintain technical/engineering documentation.\u00b7 Research, design, test, and implement complex data protection technologies for GCP and Azure cloud platforms.\u00b7 Collaborate with encryption technology vendors to ensure their products meet our security requirements and objectives.\u00b7 Work with partner engineering teams to identify and remediate security vulnerabilities.\u00b7 Conduct risk assessments of infrastructure to ensure compliance with corporate security policies and industry best practices.\u00b7 Monitor access, configuration changes, and health of key and secret management platforms, including reviewing logs, automating tasks, and taking necessary technical actions to maintain infrastructure health and availability.Required Qualifications:\u00b7 4+ years of experience with information security applications and systems.\u00b7 3+ years of intermediate to advanced experience in engineering and/or developing APIs or code for automation using Terraform, Python, and Harness.\u00b7 3+ years of experience with encryption technologies, data protection, and secrets management.\u00b7 1+ year of experience with Linux operating systems or Kubernetes engineering and automation.\u00b7 Cloud certification for Google Cloud Platform (GCP) or Azure.Desired Qualifications:\u00b7 Strong written and verbal communication skills with experience interacting with both business management and technical/engineering teams.\u00b7 Experience with Agile Scrum (Daily Standups, Sprint Planning, and Sprint Retrospectives) or Kanban methodologies.\u00b7 Experience with engineering and support of Azure Key Vault (AKV) or similar technologies.\u00b7 Knowledge of server/file encryption technology, encryption key management, and information security policies related to cloud computing.\u00b7 Experience with infrastructure upgrades, security patches, or version upgrades.\u00b7 Certified Information Systems Security Professional (CISSP) certification.\u00b7 Understanding of cryptography, key management, and administration of digital certificates and keys for authentication and encryption.\u00b7 Ability to manage multiple tasks and meet tight deadlines.\u00b7 Customer service experience and experience facilitating meetings with remote team members.\u00b7 Advanced problem-solving and technical troubleshooting skills.\u00b7 Knowledge of Data Loss Prevention (DLP), data masking, and tokenization technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-02 09:56:48-05:00",
+        "unique_id": "1924dbc506f32b2f",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

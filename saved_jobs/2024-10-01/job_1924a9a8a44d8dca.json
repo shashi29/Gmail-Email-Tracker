@@ -1,0 +1,58 @@
+[
+    {
+        "company": "Urbench",
+        "job_title": "Mix of Data Analyst & Data Engineer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hr on C2"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "AWS",
+                "GitHub"
+            ],
+            "primary": [
+                "Unit testing"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "SQL",
+                "AWS",
+                "GitHub",
+                "Unit testing"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sameer Khan",
+        "email": "sameer@urbench.com",
+        "jd": "Hello, Require mix of Data Analyst & Data Engineer backgroundPrefer Ex capital One resources or strong Financial Background onlyVisa: USC/GC/H4-EADMax Rate: $55/hr on C2Job location- Richmond or Mclean VA (hybrid)ONLY LOCALS TO VA PLEASE Project initiative:These positions will be part of antimony Laundering team who will be responsible for developing Models which services 2 groups(CIRA & Suspicious activity group) .These 4 positions will be divided out to 3 teams which are cross functional group. These positions will be mix of Data analysis & Data engineering role who will be responsible for building models & also testing those models which are already built . MUST skills-Python-SQL Coding-Unit testing-AWS-GitHub Job Description:The position requires an advanced Python programming accustomed to Object Oriented ProgrammingUnderstanding the concept of packaging Python applicationWell versed with AWS concepts of deploying Python applications to AWS eco-systemWork collaboratively with appropriate Tech teams to manage security mechanisms and data access governanceGood in leveraging Python Jupyter notebooks and then later on automating the application as a wholeAbility to drive projects such as adoption of new enterprise cloud computing capabilities and improvement projects to reduce model execution failures and model deployment timeGood in advanced SQL queries and analyzing the data derived from SnowflakeDrive analysis that provides meaningful insights on business strategiesDrive an understanding and adherence to the principles of data quality management including metadata, lineage, and business definitionsBuild and execute tools to monitor and report on data quality",
+        "source": "Email",
+        "date_posted": "2024-10-01 16:54:13-05:00",
+        "unique_id": "1924a9a8a44d8dca",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

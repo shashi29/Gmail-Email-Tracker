@@ -1,0 +1,69 @@
+[
+    {
+        "company": "nitya INC",
+        "job_title": "Lead Azure Data Engineer",
+        "location": "Durham, NC, USA",
+        "full_location": {
+            "city": "Durham",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "ADF",
+                "Synapse",
+                "Azure DevOps",
+                "SQL"
+            ],
+            "primary": [
+                "Healthcare domain experience",
+                "Lifesciences domain experience",
+                "Good communication skills"
+            ],
+            "secondary": [
+                "Onsite-offshore coordination",
+                "Stakeholder interaction"
+            ],
+            "all": [
+                "Databricks",
+                "ADF",
+                "Synapse",
+                "Azure DevOps",
+                "SQL",
+                "Healthcare domain experience",
+                "Lifesciences domain experience",
+                "Good communication skills",
+                "Onsite-offshore coordination",
+                "Stakeholder interaction"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sravani",
+        "email": "sravani@nityainc.com",
+        "jd": "From: sravani, nitya INC sravani@nityainc.com Reply to: sravani@nityainc.com Role: Lead Azure Data EngineerLocation: Durham NC 27713 (100% Onsite) \u2013 Preferred to look for local candidates and share onsite confirmation email from candidate Job Description:Strong data lead with exp in Databricks, ADF and Synapse (Overall 10+ years)Working knowledge of Azure DevOpsExcellent SQL knowledgePrior exp in Healthcare/Lifesciences domainGood communication skills, can interact well with multiple stakeholdersFlexible to do onsite offshore coordination",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:27:32-05:00",
+        "unique_id": "1924955e1652b616",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

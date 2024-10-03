@@ -1,0 +1,76 @@
+[
+    {
+        "company": "RBC",
+        "job_title": ".Net Azure Developer with Devops",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net",
+                "Azure",
+                "C#",
+                "SQL"
+            ],
+            "primary": [
+                "AKS",
+                "Kubernetes",
+                "Devops",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Function App",
+                "ADO",
+                "APIs",
+                "API lifecycle",
+                "browser-based debugging"
+            ],
+            "all": [
+                ".Net",
+                "Azure",
+                "C#",
+                "SQL",
+                "AKS",
+                "Kubernetes",
+                "Devops",
+                "CI/CD",
+                "Function App",
+                "ADO",
+                "APIs",
+                "API lifecycle",
+                "browser-based debugging"
+            ],
+            "with_experience": [
+                ".Net (10+ years)",
+                "C# (8+ years)",
+                "SQL (8+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "kaleem",
+        "email": "kaleem@rbctechsolutions.com",
+        "jd": "From: kaleem, RBC kaleem@rbctechsolutions.com Reply to: kaleem@rbctechsolutions.com Job description \u00b7 Candidate should have hands on experience of 10+ years in .Net application development using Azure services.\u00b7 Having 8+ years of web application development using C# , .Net core, SQL, webAPI.\u00b7 Should have strong experience in AKS, Kubernetes, Devops, CI/CD\u00b7 Design and develop high quality application design and hands on experience using Function App, ADO, AKS.\u00b7 In-depth knowledge of C#\u00b7 Experience with APIs and API lifecycle.\u00b7 Experience with browser-based debuggingSkills AZURE, .Net core, C#, SQL AKS, Kubernetes, Devops, CI/CD",
+        "source": "Email",
+        "date_posted": "2024-09-30 13:36:16-05:00",
+        "unique_id": "1924437a58959985",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

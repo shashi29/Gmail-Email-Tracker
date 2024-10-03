@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "14+ years",
@@ -64,8 +65,9 @@
         "date_posted": "2024-10-01 09:22:28-05:00",
         "unique_id": "192489037d711622",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "Java Dev"
+        "tag": "Java developer"
     }
 ]

@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Quantum World Technologies",
+        "job_title": "MongoDB Database Admin",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MongoDB",
+                "Linux",
+                "Python",
+                "Shell Scripting"
+            ],
+            "primary": [
+                "MongoDB replica set",
+                "Sharded clusters",
+                "Ops Manager",
+                "X509 authentication",
+                "TLS authentication",
+                "Backup/restore automation",
+                "Performance tuning"
+            ],
+            "secondary": [
+                "Data migration to AWS",
+                "SSL key configuration",
+                "Change stream",
+                "Query plan architecture",
+                "Range based sharding",
+                "Hash based sharding",
+                "Documenting operations"
+            ],
+            "all": [
+                "MongoDB",
+                "Linux",
+                "Python",
+                "Shell Scripting",
+                "MongoDB replica set",
+                "Sharded clusters",
+                "Ops Manager",
+                "X509 authentication",
+                "TLS authentication",
+                "Backup/restore automation",
+                "Performance tuning",
+                "Data migration to AWS",
+                "SSL key configuration",
+                "Change stream",
+                "Query plan architecture",
+                "Range based sharding",
+                "Hash based sharding",
+                "Documenting operations"
+            ],
+            "with_experience": [
+                "MongoDB (multi node, sharded cluster)",
+                "Ops Manager (in-depth knowledge)",
+                "MongoDB security (X509, TLS)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shubham Chaudhary",
+        "email": "shubham.chaudhary@quantumworldit.com",
+        "jd": "From: Shubham Choudhary, Quantum World Technologies shubham.chaudhary@quantumworldit.com Reply to: shubham.chaudhary@quantumworldit.com Job Title : MongoDB Database AdminLocation : Onsite (Austin, TX) Interview : Phone/Video Job Description: Configure MongoDB replica set and sharded clusters as per the application requirement.MongoDB BRS & Ops-Mgr setup and onboard replica sets & sharded clusters on to Ops-Mgr.MongoDB security enhancement using X509 and TLS authentication to comply with Apple security standards.Automate backup/restore/monitoring jobs using python and shell scripting. DBA requirementShould have designed, installed & configured multi node MongoDB sharded cluster &replica sets on Linux Platforms.Adding / removing replica and shard nodes in MongoDB Cluster as needed. Created Text Index for querying specific documents with string content.Good knowledge of a shard key and making sure of even distribution of data across multiple shards.Converted replica set to sharded cluster because of data size growth and better query rate planning.Worked on Upgrade/migrations of repica Set and Sharded cluster from 4.0 to 4.xx.Deploying, migrating data, monitoring, analyzing, and tuning MongoDB.In-depth knowledge of Ops Manager and Ops manager Upgrade.Knowledge about Groups and Project in Ops Manager.Knowledge about Authentication and Authorization and X509 authentication.Should have Configured SSL key files to implement security across all MongoDB instances.Extensive knowledge of Mongo replication architecture and change stream.Documenting MongoDB installation, operations, security, auditing multiple environments.Should have knowledge about Query plan architecture and performance tuning at host and DB level.Knowledge Range based sharding and Hash based sharding/ Indexing.Migration of Mongo cluster to AWS. Unfeigned Regards,Shubham ChaudharyTechnical Recruitershubham.chaudhary@quantumworldit.comlinkedin.com/in/shubham-choudhary-816b00236Quantum World Technologies Inc.4281 Katella Ave, Suite #102 Los Alamitos CA 90720 USA",
+        "source": "Email",
+        "date_posted": "2024-10-01 14:53:43-05:00",
+        "unique_id": "19249a4e5fc6868e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

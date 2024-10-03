@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "10+ years",
             "degree_required": "Not specified",
@@ -30,8 +32,7 @@
                 "J2EE",
                 "Webservices",
                 "PL/SQL",
-                "Object Oriented Analysis",
-                "Object Oriented Design",
+                "Agile",
                 "GIT",
                 "Jenkins",
                 "MVC",
@@ -47,14 +48,15 @@
                 "Tomcat"
             ],
             "secondary": [
-                "Agile software development methodology",
-                "SCM tools",
-                "Collaborative teamwork",
+                "Object Oriented Analysis",
+                "Object Oriented Design",
+                "Collaboration",
                 "Architecture",
-                "Design",
-                "Business processes",
-                "Software skills",
-                "SDLC"
+                "Business Processes",
+                "Software Development Lifecycle",
+                "Business Analysis",
+                "Maintenance",
+                "Software Improvement"
             ],
             "all": [
                 "Java",
@@ -65,8 +67,7 @@
                 "J2EE",
                 "Webservices",
                 "PL/SQL",
-                "Object Oriented Analysis",
-                "Object Oriented Design",
+                "Agile",
                 "GIT",
                 "Jenkins",
                 "MVC",
@@ -80,14 +81,15 @@
                 "IntelliJ",
                 "Maven",
                 "Tomcat",
-                "Agile software development methodology",
-                "SCM tools",
-                "Collaborative teamwork",
+                "Object Oriented Analysis",
+                "Object Oriented Design",
+                "Collaboration",
                 "Architecture",
-                "Design",
-                "Business processes",
-                "Software skills",
-                "SDLC"
+                "Business Processes",
+                "Software Development Lifecycle",
+                "Business Analysis",
+                "Maintenance",
+                "Software Improvement"
             ]
         },
         "job_type": [],
@@ -97,7 +99,9 @@
         "source": "Email",
         "date_posted": "2024-10-01 10:59:19-05:00",
         "unique_id": "19248d3a684ae8a8",
-        "emp_type": [],
-        "tag": "Java Dev"
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
     }
 ]

@@ -1,0 +1,68 @@
+[
+    {
+        "company": "StellentitLLC",
+        "job_title": "Data Engineer",
+        "location": "New Brunswick, NJ, USA",
+        "full_location": {
+            "city": "New Brunswick",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "6+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Information Technology, or related field or equivalent professional experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "data science",
+                "Agile software development",
+                "cloud platforms"
+            ],
+            "primary": [
+                "AWS",
+                "Azure",
+                "Linux administration",
+                "R programming"
+            ],
+            "secondary": [
+                "professional certification"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "data science",
+                "Agile software development",
+                "cloud platforms",
+                "AWS",
+                "Azure",
+                "Linux administration",
+                "R programming",
+                "professional certification"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ashish",
+        "email": "ashish@stellentit.com",
+        "jd": "From: Ashish, StellentitLLC ashish@stellentit.com Reply to: ashish@stellentit.com Data EngineerNew Brunswick, New Jersey(Hybrid)Phone+Skype6+MonthsJD:6+ years of experience with the following:\u2022 Database tools such as SQL\u2022 Proficiency in programming languages such Python for data analysis and modeling is a must.\u2022 Proven experience in data science role, preferably in pharmaceutical industry.\u2022 Agile software development methodologies.\u2022 Experience with cloud platforms (e.g., AWS, Azure) is a must. Professional certification preferred.\u2022 Linux administration\u2022 R programming language\u2022 Bachelor\u2019s degree in computer science, Information Technology, or related field or equivalent professional experience.",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:01:57-05:00",
+        "unique_id": "19243ade8a8cca8d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

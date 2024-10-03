@@ -4,15 +4,15 @@
         "job_title": "Project Manager",
         "location": "Iowa, USA",
         "full_location": {
-            "city": "",
-            "state": "IA",
+            "city": "Iowa",
+            "state": "",
             "country": "USA"
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
-            "job_code": "",
             "experience_required": "8 years",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
@@ -30,14 +30,14 @@
             ],
             "primary": [
                 "Budget Management",
-                "Project Tracking",
+                "Project Scheduling",
                 "Resource Management",
                 "Client Expectations Management",
                 "Change Management"
             ],
             "secondary": [
-                "Time Management",
                 "Interpersonal Skills",
+                "Time Management",
                 "Team Building",
                 "Communication Skills",
                 "Organizational Skills"
@@ -49,12 +49,12 @@
                 "Process Development",
                 "System Integration",
                 "Budget Management",
-                "Project Tracking",
+                "Project Scheduling",
                 "Resource Management",
                 "Client Expectations Management",
                 "Change Management",
-                "Time Management",
                 "Interpersonal Skills",
+                "Time Management",
                 "Team Building",
                 "Communication Skills",
                 "Organizational Skills"
@@ -62,8 +62,7 @@
             "with_experience": [
                 "Project Management",
                 "Stakeholder Management",
-                "Agile Project Management",
-                "System Integration"
+                "Agile Project Management"
             ]
         },
         "job_type": [
@@ -76,8 +75,9 @@
         "date_posted": "2024-10-01 08:30:26-05:00",
         "unique_id": "19248add4fe99d13",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

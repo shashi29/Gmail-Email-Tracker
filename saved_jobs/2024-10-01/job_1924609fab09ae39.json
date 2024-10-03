@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "3-5 years",
             "degree_required": "Bachelor's Degree",
@@ -69,7 +71,9 @@
         "source": "Email",
         "date_posted": "2024-09-30 18:44:38-05:00",
         "unique_id": "1924609fab09ae39",
-        "emp_type": [],
-        "tag": "BA/Scrum Master/PM"
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
     }
 ]

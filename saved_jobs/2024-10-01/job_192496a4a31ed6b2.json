@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "Cloud Operations Engineer in Azure & GCP",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Infrastructure Engineering",
+                "Terraform",
+                "GCP",
+                "Azure",
+                "Infrastructure as Code (IaC)"
+            ],
+            "primary": [
+                "Cloud service offerings",
+                "BigQuery",
+                "Vertix AI",
+                "DataProc",
+                "Functions",
+                "AKS",
+                "Service Fabric",
+                "Data analysis"
+            ],
+            "secondary": [
+                "GCP Professional Cloud Architect Certification",
+                "Azure Solutions Architect Certification",
+                "Cloud governance",
+                "Agile concepts",
+                "Site Reliability Engineering (SRE)",
+                "Disaster recovery",
+                "Business continuity",
+                "Kubernetes",
+                "Networking",
+                "Firewalls",
+                "Load balancing",
+                "Database security",
+                "Active directory",
+                "Authentication methods",
+                "RBAC"
+            ],
+            "all": [
+                "Infrastructure Engineering",
+                "Terraform",
+                "GCP",
+                "Azure",
+                "Infrastructure as Code (IaC)",
+                "Cloud service offerings",
+                "BigQuery",
+                "Vertix AI",
+                "DataProc",
+                "Functions",
+                "AKS",
+                "Service Fabric",
+                "Data analysis",
+                "GCP Professional Cloud Architect Certification",
+                "Azure Solutions Architect Certification",
+                "Cloud governance",
+                "Agile concepts",
+                "Site Reliability Engineering (SRE)",
+                "Disaster recovery",
+                "Business continuity",
+                "Kubernetes",
+                "Networking",
+                "Firewalls",
+                "Load balancing",
+                "Database security",
+                "Active directory",
+                "Authentication methods",
+                "RBAC"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kaushik",
+        "email": "kaushik@vysystems.com",
+        "jd": "From: Kaushik, vysystems kaushik@vysystems.com Reply to: kaushik@vysystems.com Required Qualifications:(12 years of exp)\u2022 5+ years of Infrastructure Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education\u2022 3+ years of experience with scripting and infrastructure automation using Terraform\u2022 3+ years of hands-on experience with GCP or Azure platform enablement and application migrations, build out of complex infrastructure programmable patterns using Infrastructure as Code (IaC)\u2022 2+ years of knowledge and understanding of Cloud service offerings such as data, analytics, AL/ML on GCP or Azure\u2022 2+ years of experience with key services provided by Azure and/or GCP such as BigQuery, Vertix AI, DataProc, Functions. AKS, Service Fabric\u2022 2+ years working in a globally distributed team to provide innovative and robust cloud centric solutions.\u2022 2+ years gathering and analyzing data to diagnose the root cause of cloud workload issues, recommending and implementing solutions to resolve issues in timely mannerDesired Qualifications:\u2022 GCP Professional Cloud Architect or Azure Solutions Architect Certifications are highly desired.\u2022 Exposure to cloud governance and logging/monitoring tooling\u2022 Experience with Agile concepts and Site Reliability Engineering (SRE) Principles\u2022 Understanding, engineering and implementing disaster recovery and business continuity playbooks\u2022 Proficient on container-based solutions and services and have handled large scale Kubernetes based infrastructure build out and provisioning on Azure or GCP\u2022 Knowledge and understanding of Cloud Service offerings on Azure or GCP related to security, data protection, and policy implementations\u2022 Ability to articulate technical solutions to both technical and business partners\u2022 Good understanding of networking, firewalls, load balancing concepts (IP, DNS, Guardrails, Vnets) and exposure to database, cloud security, active directory, authentication methods, RBAC",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:02:01-05:00",
+        "unique_id": "192496a4a31ed6b2",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

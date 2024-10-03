@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
@@ -26,7 +27,8 @@
                 "customer relationship management",
                 "infrastructure",
                 "network security",
-                "network and voice services"
+                "network services",
+                "voice services"
             ],
             "primary": [
                 "risk management",
@@ -37,25 +39,22 @@
             "secondary": [
                 "mentoring",
                 "training",
-                "coaching",
-                "stakeholder analysis",
-                "change strategy"
+                "coaching"
             ],
             "all": [
                 "project management",
                 "customer relationship management",
                 "infrastructure",
                 "network security",
-                "network and voice services",
+                "network services",
+                "voice services",
                 "risk management",
                 "quality management",
                 "change management",
                 "communication",
                 "mentoring",
                 "training",
-                "coaching",
-                "stakeholder analysis",
-                "change strategy"
+                "coaching"
             ]
         },
         "job_type": [
@@ -68,8 +67,9 @@
         "date_posted": "2024-10-01 09:06:03-05:00",
         "unique_id": "192487dba59285ba",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

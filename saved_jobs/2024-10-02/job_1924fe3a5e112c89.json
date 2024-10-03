@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Xforia",
+        "job_title": "Java Developer with React+ Typescript",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "XML",
+                "Web Services",
+                "react.js",
+                "Javascript",
+                "Typescript",
+                "CSS",
+                "HTML",
+                "Microservices",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "REST"
+            ],
+            "primary": [
+                "Agile Scrum"
+            ],
+            "secondary": [
+                "Application integrations",
+                "SOAP",
+                "ESB",
+                "JMS",
+                "File/Data transfers"
+            ],
+            "all": [
+                "Java",
+                "J2EE",
+                "XML",
+                "Web Services",
+                "react.js",
+                "Javascript",
+                "Typescript",
+                "CSS",
+                "HTML",
+                "Microservices",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "REST",
+                "Agile Scrum",
+                "Application integrations",
+                "SOAP",
+                "ESB",
+                "JMS",
+                "File/Data transfers"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ravi",
+        "email": "ravi.vr@xforia.com",
+        "jd": "From: Ravi, Xforia ravi.vr@xforia.com Reply to: ravi.vr@xforia.com Job Title: Java Developer with React+ TypescriptLocation: Houston, TX (Onsite)Mode: ContractInterview Mode: F2F Interview Job Description:1. 7+ Programming experience with Java, J2EE, XML, and Web Services2. Experience with react.js development, Javascript, Typescript, CSS, HTML- If Full Stack candidate3. Microservices, Spring, Spring Boot, Hibernate, and Web services based on REST.4. Experience in Agile Scrum software development Methodology5. Experience developing in distributed application environments.7. Experience with Application integrations (SOAP/REST Web Services, ESB, JMS, File/Data transfers, etc",
+        "source": "Email",
+        "date_posted": "2024-10-02 19:20:42-05:00",
+        "unique_id": "1924fe3a5e112c89",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Convex Tech Inc",
+        "job_title": "Lead AWS Data Engineer",
+        "location": "St Louis, MO, USA",
+        "full_location": {
+            "city": "St Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or a related field; master\u2019s degree preferred.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Glue",
+                "Amazon Redshift",
+                "Amazon S3",
+                "Amazon Kinesis"
+            ],
+            "primary": [
+                "Data Architecture",
+                "Data Governance",
+                "Data Solutions",
+                "Optimization",
+                "Collaboration"
+            ],
+            "secondary": [
+                "Mentorship",
+                "Documentation"
+            ],
+            "all": [
+                "AWS Glue",
+                "Amazon Redshift",
+                "Amazon S3",
+                "Amazon Kinesis",
+                "Data Architecture",
+                "Data Governance",
+                "Data Solutions",
+                "Optimization",
+                "Collaboration",
+                "Mentorship",
+                "Documentation"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Sanjay Sunar",
+        "email": "sanjay@convextech.com",
+        "jd": "From: Sanjay Sunar, convextech sanjay@convextech.com Reply to: sanjay@convextech.com Position: Lead AWS Data Engineer Location: St Louis, MO or Charlotte, NC. Duration: Long Term Contract. Visa Restrictions: No H1b/CPT Interview: Video/Skype Job Description: Key Responsibilities:Design and Develop Data Solutions: Architect and implement robust data pipelines and ETL processes using AWS services like AWS Glue, Amazon Redshift, Amazon S3, or Amazon Kinesis.Data Architecture: Collaborate with stakeholders to define data requirements and design data models that support business objectives.Leadership: Lead a team of data engineers, providing mentorship and guidance in best practices for data engineering.Optimization: Monitor and optimize data processes for performance, cost, and scalability.Collaboration: Work closely with data scientists, analysts, and other engineering teams to understand data needs and deliver solutions.Data Governance: Implement data governance and quality frameworks to ensure data integrity and compliance.Documentation: Maintain clear documentation of data architectures, processes, and workflows.Qualifications:Education: Bachelor\u2019s degree in computer science, Engineering, or a related field; master\u2019s degree preferred.Experience: 5+ years of experience in data engineering, with a focus on AWS technologies. One of our clients is in need of a Lead AWS Data Engineer specializing in Redshift to assist with a Hadoop to Redshift migrations. Thanks and Regards Sanjay SunarUS IT Recruiter |Convex Tech Inc.Email: sanjay@convextech.comLinkedin: https://www.linkedin.com/in/santosh-kumar-sunar-419601178/",
+        "source": "Email",
+        "date_posted": "2024-10-01 17:37:24-05:00",
+        "unique_id": "1924a3a9fcc91bb9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

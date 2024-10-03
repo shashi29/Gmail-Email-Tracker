@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Intelligenz",
+        "job_title": ".Net Full stack Engineer",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "Angular",
+                "SQL",
+                "Microservices"
+            ],
+            "primary": [
+                "Strong knowledge of programming concepts in C# / .NET",
+                "Full stack consultant",
+                "Good Understanding of Test cases",
+                "Solid principles",
+                "Agile flow",
+                "Angular components",
+                "Experience with SQL"
+            ],
+            "secondary": [
+                "PRISM",
+                "PowerShell"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "Angular",
+                "SQL",
+                "Microservices",
+                "Strong knowledge of programming concepts in C# / .NET",
+                "Full stack consultant",
+                "Good Understanding of Test cases",
+                "Solid principles",
+                "Agile flow",
+                "Angular components",
+                "Experience with SQL",
+                "PRISM",
+                "PowerShell"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Mounika",
+        "email": "mounika@intelligenzit.com",
+        "jd": "From: Mounika, Intelligenz mounika@intelligenzit.com Reply to: mounika@intelligenzit.com Job Title: .Net Full stack EngineerLocation: Pittsburgh, PANeed Locals only.Net, C#, Angular, SQL, MicroservicesRequired Skills:Strong knowledge of programming concepts in C# / .NETFull stack consultant Good Understanding of Test cases, Solid principles & Agile flow, Angular components Experience with SQL Good to have:PRISMPowerShell",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:28:12-05:00",
+        "unique_id": "192435490ea0c1e8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

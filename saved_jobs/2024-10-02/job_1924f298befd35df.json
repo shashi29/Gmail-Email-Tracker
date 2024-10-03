@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Unify",
+        "job_title": "Mobile Android",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "MVVM",
+                "Kotlin",
+                "Coroutines",
+                "Compose",
+                "Dagger",
+                "RxJava",
+                "JUnit",
+                "Mockito",
+                "Git"
+            ],
+            "primary": [
+                "Jetpack Compose",
+                "REST",
+                "JSON",
+                "LiveData",
+                "Restful API integration"
+            ],
+            "secondary": [
+                "Unit testing",
+                "Mobile UI fundamentals",
+                "Architectural patterns",
+                "Application design patterns",
+                "Jetpack components",
+                "Room"
+            ],
+            "all": [
+                "Java",
+                "MVVM",
+                "Kotlin",
+                "Coroutines",
+                "Compose",
+                "Dagger",
+                "RxJava",
+                "JUnit",
+                "Mockito",
+                "Git",
+                "Jetpack Compose",
+                "REST",
+                "JSON",
+                "LiveData",
+                "Restful API integration",
+                "Unit testing",
+                "Mobile UI fundamentals",
+                "Architectural patterns",
+                "Application design patterns",
+                "Jetpack components",
+                "Room"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Gopal",
+        "email": "gopal@unifysolutions.com",
+        "jd": "From: Gopal, Unify gopal@unifysolutions.com Reply to: gopal@unifysolutions.com Role: Mobile Android\nLocation: - New York\nExperience designing and implementing android applications* Java, MVVM, Kotlin Coroutines,Compose, Dagger, RxJava, Kotlin, JUnit, Mockito, Git* Experience with Jetpack Compose for building UIs.* Experience with Kotlin Coroutines for asynchronous programming.* Experience working with remote data via REST and JSON* Past experience in RxJava, LiveData, and Restful API integration is expected* Unit-test code for robustness, including edge cases, usability, and general reliability.* Strong understanding of java and android ecosystem* Excellent understanding of all mobile UI fundamentals, from layout to animations* Understanding of architectural patterns such as MVP and MVVM* Understanding of application design patterns \u2013 Gang of Four patterns* Experience with other Jetpack components like Room and",
+        "source": "Email",
+        "date_posted": "2024-10-02 16:36:59-05:00",
+        "unique_id": "1924f298befd35df",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

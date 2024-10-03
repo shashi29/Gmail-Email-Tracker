@@ -1,0 +1,53 @@
+[
+    {
+        "company": "Stellar IT Solutions",
+        "job_title": "Full Stack Python Developer",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "C#",
+                "Angular 14 or greater",
+                "APIs"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python",
+                "C#",
+                "Angular 14 or greater",
+                "APIs"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Usha Geethari",
+        "email": "ushar@stellarit.com",
+        "jd": "Hi, This is Usha form Stellar IT Solutions! You intrigued us in your profile; hence I have a Great Opportunity for you with our direct client so kindly view the below job description and let me know your interest to proceed further.\n\nPosition: Full Stack Python Developer (USC, GC, GC EAD only)\nLocation: Denver, CO \u2013 onsite 2x per week, a face-to-face interview is required\n\nTop Skills: Python, C#, Angular 14 or greater, APIs\n\nResponsibilities:\n\u2022 Review and analyze business requirements and provide technical feasibility and estimates, as well as work closely with Tax business teams, clients, and various technology teams to ensure development of a quality product and a proven record of delivering business value.\n\u2022 Take ownership and accountability of development process and the development team through the entire software lifecycle which includes Architecture, Design, Development, DevOps; perform moderately complex bug verification, release testing, and beta support for assigned products.\n\u2022 Define and develop enterprise scale solutions leveraging programming technologies like Angular 14+, C#, Python, APIs with SQL/NoSQL as the database backend on the Microsoft Azure cloud.\n\u2022 Design and development of solutions that integrate with vendor tools seamlessly utilizing APIs and other integrations using design patterns; prepare and review technical artifacts to help document technical architecture, design and deployment diagrams.",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:09:39-05:00",
+        "unique_id": "19248a4b23a0bfcf",
+        "emp_type": [
+            "full-time"
+        ],
+        "tag": "Python Dev"
+    }
+]

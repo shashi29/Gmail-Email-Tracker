@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "8+ years",
@@ -30,10 +31,10 @@
                 "PL/SQL",
                 "Python",
                 "Unix",
-                "JIRA",
-                "Project Planning"
+                "JIRA"
             ],
             "secondary": [
+                "Project Planning",
                 "Excellent communication skill",
                 "Team management",
                 "Resource planning",
@@ -64,7 +65,8 @@
         "date_posted": "2024-10-01 08:58:50-05:00",
         "unique_id": "192485fe9c8e0e5e",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "AWS Data Engineer"
     }

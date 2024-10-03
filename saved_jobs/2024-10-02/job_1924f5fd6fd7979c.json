@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Nissan",
+        "job_title": "Senior AWS Data Engineer",
+        "location": "Nashville, TN, USA",
+        "full_location": {
+            "city": "Nashville",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field. Advanced degree is a plus.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Glue",
+                "AWS Lambda",
+                "Python",
+                "SQL",
+                "PySpark"
+            ],
+            "primary": [
+                "AWS services (e.g., S3, Redshift, RDS, DynamoDB)",
+                "Data warehousing concepts",
+                "ETL workflows"
+            ],
+            "secondary": [
+                "Apache Spark",
+                "Hadoop",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Interpersonal skills",
+                "Communication skills"
+            ],
+            "all": [
+                "AWS Glue",
+                "AWS Lambda",
+                "Python",
+                "SQL",
+                "PySpark",
+                "AWS services (e.g., S3, Redshift, RDS, DynamoDB)",
+                "Data warehousing concepts",
+                "ETL workflows",
+                "Apache Spark",
+                "Hadoop",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Interpersonal skills",
+                "Communication skills"
+            ],
+            "with_experience": [
+                "AWS Glue",
+                "AWS Lambda",
+                "Python",
+                "SQL",
+                "PySpark"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "sangya kumari nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title: Senior AWS Data EngineerLocation: Nashville, Tennessee(Hybrid)Duration:12 monthsVisa: NO/CPTMOI: video NEED 12 + CandidatesMust LinkedIn Position Overview:We are seeking a highly skilled Senior AWS Data Engineer to join our dynamic team at Nissan. This role is pivotal in designing, implementing, and optimizing data pipelines and infrastructure solutions that support our data-driven initiatives. The ideal candidate will possess a deep understanding of AWS services, particularly in the realms of data engineering and cloud infrastructure.Key Responsibilities:Data Pipeline Development: Design, build, and maintain scalable and efficient data pipelines using AWS Glue and AWS Lambda to support data ingestion, transformation, and storage.Infrastructure Management: Collaborate with cross-functional teams to architect and implement robust data infrastructure solutions that ensure high availability, reliability, and security.Data Integration: Utilize tools and frameworks to integrate diverse data sources, ensuring seamless data flow and consistency across various systems.Programming and Scripting: Write high-quality, efficient code in Python, SQL, and PySpark to manipulate and process large datasets, implement ETL processes, and automate data workflows.Performance Optimization: Monitor, troubleshoot, and optimize data pipelines and infrastructure to enhance performance and reduce latency.Collaboration: Work closely with data analysts, data scientists, and other stakeholders to understand data requirements and deliver solutions that meet business needs.Documentation and Best Practices: Maintain comprehensive documentation of data engineering processes, architecture, and workflows. Advocate for best practices in data management and engineering.Continuous Improvement: Stay updated with the latest advancements in AWS technologies and data engineering practices. Propose and implement improvements to enhance the efficiency and effectiveness of data operations.Technical Skills and Qualifications:Experience: 5+ years of experience in data engineering, with a strong focus on AWS technologies and data pipeline development.AWS Expertise: Proficiency in AWS Glue, AWS Lambda, and other AWS services (e.g., S3, Redshift, RDS, DynamoDB) relevant to data engineering.Programming Languages: Strong proficiency in Python, SQL, and PySpark for data manipulation and ETL processes.Data Warehousing: Experience with data warehousing concepts and solutions, particularly in designing and implementing ETL workflows.Big Data Technologies: Familiarity with big data technologies (e.g., Apache Spark, Hadoop) is a plus.Problem-Solving Skills: Excellent analytical and problem-solving abilities, with a keen attention to detail.Collaboration Skills: Strong interpersonal and communication skills, with the ability to work effectively in a team-oriented environment.Education: Bachelor\u2019s degree in Computer Science, Engineering, or a related field. Advanced degree is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-02 17:36:18-05:00",
+        "unique_id": "1924f5fd6fd7979c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

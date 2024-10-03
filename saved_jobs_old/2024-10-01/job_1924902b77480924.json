@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Logic Loops",
+        "job_title": "SQL Developer (SSIS with Azure Data Factory)",
+        "location": "Nashville, TN, USA",
+        "full_location": {
+            "city": "Nashville",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory",
+                "SSIS",
+                "T-SQL"
+            ],
+            "primary": [
+                "Data Warehousing",
+                "ETL",
+                "Performance Tuning",
+                "Stored Procedures",
+                "Functions"
+            ],
+            "secondary": [
+                "Azure DevOps",
+                "Database Security",
+                "Dimensional Modeling",
+                "Production Support",
+                "Healthcare experience",
+                "Zappysys"
+            ],
+            "all": [
+                "Azure Data Factory",
+                "SSIS",
+                "T-SQL",
+                "Data Warehousing",
+                "ETL",
+                "Performance Tuning",
+                "Stored Procedures",
+                "Functions",
+                "Azure DevOps",
+                "Database Security",
+                "Dimensional Modeling",
+                "Production Support",
+                "Healthcare experience",
+                "Zappysys"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Jason",
+        "email": "jason@logic-loops.com",
+        "jd": "From: Jason, Logic Loops jason@logic-loops.com Reply to: jason@logic-loops.com Role : SQL Developer (SSIS with Azure Data Factory)Location : Nashville, TN or Chicago, IL or Dallas, TXLong Term Contract Primary duties include, but are not limited to:Data Warehouse Developer with a strong understanding of Data Warehousing / ETL strategy and best practices as as the ability to develop packages using SSIS, Azure Data Factory, Azure Git, SW.Design and develop SQL Server stored procedures, functions, views and triggers to be used during the ETL process.Builds data transformations with SSIS, including importing data from files, moving data from one database platform to another.Designing and developing ETL solutions to acquire and prepare data from numerous upstream systemsDebug and tune ETL processes to ensure accurate and efficient movement of data.Design, implement and maintain database (tables, views, indexes,) and database security.Test and prepare ETL processes for deployment to production and non-production environments.Building dimensional modeling for Data Warehouse.Off -hour on-call production support Experience, Tech Stack Domain:Minimum of 6 years Of experience with expert in Azure Data Factory and SSIS. Azure DevOps experience preferred.Expert level T -SQL experience.Production support and troubleshooting experience.Must be very good in SQL, Performance Tuning, Stored Procedures and functions.The candidate must have the ability to independently walk through and understand existing ETL pipelines.A solid understanding of data best-practices and in-depth experience with Microsoft SSIS/N)FExperience working with Addon tools for quick integration Like Zappysys (preferred)Healthcare experience preferred.Best Regards,JasonLead Talent Acquisition SpecialistPhone: 678-400-0271Email: Jason@logic-loops.comhttp://www.logic-loops.com6730 Jamestown Dr, Alpharetta, GA 30005, United States",
+        "source": "Email",
+        "date_posted": "2024-10-01 11:02:14-05:00",
+        "unique_id": "1924902b77480924",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

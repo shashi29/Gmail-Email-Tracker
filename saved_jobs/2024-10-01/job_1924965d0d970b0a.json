@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Donato Technologies",
+        "job_title": "ETL Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "11+ years",
+            "degree_required": "Bachelor's Degree from an accredited university in Computer Science, Engineering, or in a Technology related field OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica",
+                "SQL",
+                "Python",
+                "Snowflake",
+                "AWS"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Pipelines",
+                "ETL Processes",
+                "CICD",
+                "Data Quality"
+            ],
+            "secondary": [
+                "Dataiku",
+                "Agile Methodologies",
+                "Data Security",
+                "Mentoring",
+                "Software Engineering Best Practices"
+            ],
+            "all": [
+                "Informatica",
+                "SQL",
+                "Python",
+                "Snowflake",
+                "AWS",
+                "Data Engineering",
+                "Data Pipelines",
+                "ETL Processes",
+                "CICD",
+                "Data Quality",
+                "Dataiku",
+                "Agile Methodologies",
+                "Data Security",
+                "Mentoring",
+                "Software Engineering Best Practices"
+            ],
+            "with_experience": [
+                "Informatica (7 years)",
+                "SQL (5 years)",
+                "Python (5 years)",
+                "Snowflake (5 years)",
+                "AWS (5 years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "AJ",
+        "email": "aj@donatotech.net",
+        "jd": "From: AJ, Donato Technologies aj@donatotech.net Reply to: aj@donatotech.net Experience Level \u2013 11+ years Title: ETL Developer Location: Plano, Texas ( Hybrid )Duration: 6-12 Months. Job DescriptionPosition Qualifications:Bachelor's Degree from an accredited university in Computer Science, Engineering, or in a Technology related field OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience7 years of experience identifying technical solutions for complex business problems.Identifying the benefits and risks of the solutions and providing recommendations7 years of experience in the Technology and Data Engineering field in architecting and developing end-to-end scalable data applications and data pipelines.Work with product manager and scrum masters and lead the team in assisting the story creations and sprint deliverables7 years of experience leading and developing automated Informatica data pipelines with at least 4 years Informatica cloud (IICS) and relevant knowledge in data profiling, data quality, catalog tools7 years of experience working in enterprise data warehouse solutions and platforms, and working knowledge of different databases (e.g., RDBMS, Snowflake), S3 Datalake, CICD, Jenkins, and AWS cloud technologies 5 years of experience designing and implementing automated data solutions using Snowflake lakehouse.building workflows, developing, and scheduling ETL processes using programming SQL or Python 5 years of experience mentoring another technologist5 years of experience implementing data solutions by adopting, recommending, and improving CICD, change management, data security, and auditing processes4 years of experience working with software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, and testing AWS or Informatica or Snowflake certification is preferredExperience with Dataiku is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:44:56-05:00",
+        "unique_id": "1924965d0d970b0a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

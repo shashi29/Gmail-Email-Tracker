@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Headwaytek",
+        "job_title": "Azure BI Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Bachelor's degree strongly preferred",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Tableau",
+                "Teradata",
+                "SQL",
+                "Azure cloud",
+                "Azure Data Lake (ADLS Gen 2)"
+            ],
+            "primary": [
+                "data visualizations",
+                "communication skills",
+                "self-starter",
+                "business-minded approach"
+            ],
+            "secondary": [
+                "Healthcare Provider industry"
+            ],
+            "all": [
+                "Tableau",
+                "Teradata",
+                "SQL",
+                "Azure cloud",
+                "Azure Data Lake (ADLS Gen 2)",
+                "data visualizations",
+                "communication skills",
+                "self-starter",
+                "business-minded approach",
+                "Healthcare Provider industry"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "madhu",
+        "email": "madhusudhan.b@headwaytek.com",
+        "jd": "From: madhu, Headwaytek madhusudhan.b@headwaytek.com Reply to: madhusudhan.b@headwaytek.com Role: Azure BI Developer\nLocation: Remote\nExperience: 10 Years\nREQUIREMENTS\n* Experience in building data visualizations to support business intelligence roadmap\n* Experience with Tableau (intermediate to advanced)\n* Expertise in Teradata and associated utilities\n* Experience in SQL (intermediate to advanced)\n* Knowledge of Azure cloud, Azure Data Lake (ADLS Gen 2)\n* Excellent written and verbal communication skills\n* Self-starter takes the initiative and works well under pressure\n* Business-minded approach to time, costs, and milestones\n* Can work well within a matrixed team environment\nMINIMUM QUALIFICATION/EDUCATION\n* 5-10 years of software development experience\n* 3+ years of cloud architecture experience\n* Bachelor's degree strongly preferred\nBONUS POINTS\n* Experience in Healthcare Provider industry",
+        "source": "Email",
+        "date_posted": "2024-09-30 15:20:45-05:00",
+        "unique_id": "19244974c7731197",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

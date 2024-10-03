@@ -1,0 +1,65 @@
+[
+    {
+        "company": "TDS/CDK Global",
+        "job_title": "Sr Azure Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Blob Storage",
+                "SQL",
+                "Database Performance Optimization"
+            ],
+            "primary": [
+                "Data Migration",
+                "Database Design",
+                "Technical Support",
+                "Debugging",
+                "Mentoring"
+            ],
+            "secondary": [
+                "Best Practices",
+                "Documentation",
+                "Monitoring"
+            ],
+            "all": [
+                "Azure Blob Storage",
+                "SQL",
+                "Database Performance Optimization",
+                "Data Migration",
+                "Database Design",
+                "Technical Support",
+                "Debugging",
+                "Mentoring",
+                "Best Practices",
+                "Documentation",
+                "Monitoring"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sai Teja",
+        "email": "saiteja.a@aspiredsolutions.com",
+        "jd": "From: Sai Teja, Aspired Solutions saiteja.a@aspiredsolutions.com Reply to: saiteja.a@aspiredsolutions.com Job Title: Sr Azure Data EngineerLocation: RemoteClient: TDS/CDK Global \u2022 Understand current scope/size of SQL based storage of blob data and artifacts\u2022 Build new service native in Azure Blob Storage\u2022 Migration tool to offload data from CRM before moving to Azure SQL Managed Instance\u2022 Refactor existing CRM to transition blob data from SQL to Azure Blob Storage\u2022 Maintaining and enhancing the performance of existing database programs.\u2022 Assisting database development teams in designing new database programs that meet the organization's data storage needs.\u2022 Monitoring databases and related systems to ensure optimized performance.\u2022 Writing new support programs and scripts to increase data storage capacity.\u2022 Reviewing database and user reports, as well as system information.\u2022 Performing debugging procedures on database scripts and programs, as well as resolving conflicts.\u2022 Mentoring database administrators and providing them with technical support.\u2022 Adhering to best practices in securely storing, backing up, and archiving data.\u2022 Documenting processes related to database design, configuration, and performance.\u2022 Keeping abreast of developments and best practices in database engineering.",
+        "source": "Email",
+        "date_posted": "2024-10-01 09:22:03-05:00",
+        "unique_id": "192487746136addb",
+        "emp_type": [],
+        "tag": "Azure Data Engineer"
+    }
+]

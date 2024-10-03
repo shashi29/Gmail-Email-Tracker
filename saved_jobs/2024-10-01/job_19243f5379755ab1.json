@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "Java Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JMS",
+                "MQ",
+                "Mongo",
+                "DB2",
+                "SQL Server",
+                "Spring",
+                "Websphere",
+                "REST"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "JMS",
+                "MQ",
+                "Mongo",
+                "DB2",
+                "SQL Server",
+                "Spring",
+                "Websphere",
+                "REST"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sangya kumari nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Please share me LinkedIn URL -LinkedIn id is must (Should not been created recently, at least 6 Years old)Role: Java DeveloperLocation: Charlotte, NC Need Local candidates only within 50 milesDuration: 12 MonthsVisa: CITIZEN,Asylum,GC EAD,H4 EAD,J2 EAD,L2 EAD,TN PermitMOI: Skype LinkedIn id is must (Should not been created recently, at least 6 Years old)Job Description:10+ years of experience in Java Strong experience in JMS/MQHands on experience in databases like Mongo, DB2, SQL ServerNeed Java, Spring, Wepshere, REST skillset to support ETL application",
+        "source": "Email",
+        "date_posted": "2024-09-30 12:21:10-05:00",
+        "unique_id": "19243f5379755ab1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

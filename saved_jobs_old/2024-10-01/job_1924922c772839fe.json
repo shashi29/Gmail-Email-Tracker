@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Softcom",
+        "job_title": ".Net Core Developer",
+        "location": "Fort Mill, SC, USA",
+        "full_location": {
+            "city": "Fort Mill",
+            "state": "SC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net Core",
+                "Restful API"
+            ],
+            "primary": [
+                "AWS"
+            ],
+            "secondary": [
+                "Agile Scrum",
+                "Dockers"
+            ],
+            "all": [
+                ".Net Core",
+                "Restful API",
+                "AWS",
+                "Agile Scrum",
+                "Dockers"
+            ],
+            "with_experience": [
+                ".Net Core (3+ years)",
+                "Restful API",
+                "AWS"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Maroju",
+        "email": "maroju@softcomsystems.com",
+        "jd": "From: Maroju, Softcom maroju@softcomsystems.com Reply to: maroju@softcomsystems.com Need Local -- Experience: 10+ Years Role: .Net Core DeveloperLocation: Fort Mill, SCJob Details:Must Have Skills:\u2022 Dot Net Core\u2022 Restful API\u2022 AWSNice to have skills:\u2022 Agile Scrum\u2022 DockersDetailed Job Description:\u2022 Should have min 7 years of IT Experience with 3 years relevant experience in Latest version of .Net Core.\u2022 Should have experience in Development of Restful APIs.\u2022 Knowledge of Docker Containers.\u2022 Basic knowledge of AWS Cloud, Postgres database",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:27:41-05:00",
+        "unique_id": "1924922c772839fe",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "5 years",
@@ -64,10 +65,7 @@
                 "Waterfall methodology (5+ years)",
                 "Financial project management (5+ years)",
                 "Risk management (5+ years)",
-                "Meeting facilitation (5+ years)",
-                "Communication skills (5+ years)",
-                "Negotiation skills (5+ years)",
-                "Leadership skills (5+ years)"
+                "Meeting facilitation (5+ years)"
             ]
         },
         "job_type": [
@@ -80,8 +78,9 @@
         "date_posted": "2024-10-01 09:13:11-05:00",
         "unique_id": "19248876c9d89381",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

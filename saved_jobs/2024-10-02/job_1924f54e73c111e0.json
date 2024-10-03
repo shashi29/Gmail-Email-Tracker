@@ -1,0 +1,80 @@
+[
+    {
+        "company": "OPWDD-NY",
+        "job_title": "Software Developer",
+        "location": "Schenectady, NY, USA",
+        "full_location": {
+            "city": "Schenectady",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "84 months",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Oracle 10g",
+                "Java Server Faces",
+                "Java Persistence API",
+                "JavaScript",
+                "JQuery"
+            ],
+            "primary": [
+                "Server-side programming",
+                "Database design",
+                "Stored procedures",
+                "Functions",
+                "Packages",
+                "Triggers"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Oracle 10g",
+                "Java Server Faces",
+                "Java Persistence API",
+                "JavaScript",
+                "JQuery",
+                "Server-side programming",
+                "Database design",
+                "Stored procedures",
+                "Functions",
+                "Packages",
+                "Triggers"
+            ],
+            "with_experience": [
+                "Java (84 months)",
+                "Oracle (60 months)",
+                "Database design (48 months)",
+                "Java Server Faces (48 months)",
+                "Java Persistence API (36 months)",
+                "JavaScript/JQuery (36 months)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shubham Mishra",
+        "email": "smishra@valiantiq.com",
+        "jd": "From: Shubham Mishra, ValiantIQ Inc smishra@valiantiq.com Reply to: smishra@valiantiq.com Client: OPWDD-NY\nTitle: Software Developer\nLocation: Schenectady, NY (Hybrid)\nDuration: 12+ Months\nRequired Documentation:\n\u2022 R\u00e9sum\u00e9\n\u2022 Copy of Candidate Identification (i.e., Driver\u2019s License/Green Card/Visa and Passport if applicable)\n\u2022 Any documents referenced in the above Requested Qualifications (i.e., professional certifications, degrees, etc.)\nPosition MANDATORY Qualification:\nPosition Job Title Description: Is involved with all facets of the software development process, including the research, design, programming, testing and implementation of computer software.\nPosition Skill Level Description: 84+ months: Candidate is able to provide guidance to large teams and/or has extensive industry experience and is considered at the top of his/her field.\nList all the Position REQUESTED Qualifications:\n84 months experience programming server-side Java web applications in a multi-tier environment using JDK 1.5 or higher.\n60 months experience writing queries, stored procedures, functions, packages, and triggers in Oracle 10g or higher.\n48 months development experience in database design and object creation/modification of databases consisting of 20 or more tables in Oracle 10g or higher.\n48 months programming experience with Java Server Faces.\n36 months programming experience with Java Persistence API.\n36 months experience with JavaScript/JQuery.",
+        "source": "Email",
+        "date_posted": "2024-10-02 17:24:21-05:00",
+        "unique_id": "1924f54e73c111e0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

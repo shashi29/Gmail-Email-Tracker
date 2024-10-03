@@ -1,0 +1,54 @@
+[
+    {
+        "company": "Spar",
+        "job_title": "IT Scrum Master",
+        "location": "Pleasanton, CA, USA",
+        "full_location": {
+            "city": "Pleasanton",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Agile methodology",
+                "Scrum practices",
+                "Manufacturing Execution Systems (MES)",
+                "Enterprise Resource Planning (ERP)"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Agile methodology",
+                "Scrum practices",
+                "Manufacturing Execution Systems (MES)",
+                "Enterprise Resource Planning (ERP)"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "mohit",
+        "email": "mohit.n@sparinfosys.com",
+        "jd": "IT Scrum Master with Experience in developing Manufacturing Execution Systems (MES) and/or Enterprise Resource Planning (ERP) applications.\nJob Location:- Pleasanton, CA office (resources need to work basis few times in a week/bi-weekly)\nRole Scope / Deliverables: This role will host and facilitate all Scrum meetings for the projects in parallel. The person will also connect with IT teams, vendor team/s and business to remove any roadblocks. Lead the scrum team by effectively using Agile methodology and scrum practices to build data driven manufacturing applications. Analyze the business requirements and propose solutions to cater to Manufacturing business. Assist with testing the functionality developed in different testing efforts.",
+        "source": "Email",
+        "date_posted": "2024-09-30 16:39:57-05:00",
+        "unique_id": "19244dfcbf35bdff",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Scrum Master"
+    }
+]

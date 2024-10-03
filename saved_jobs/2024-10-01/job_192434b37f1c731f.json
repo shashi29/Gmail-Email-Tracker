@@ -1,0 +1,53 @@
+[
+    {
+        "company": "NorthITe",
+        "job_title": "Dot Net Developer",
+        "location": "Dania Pointe, FL, USA",
+        "full_location": {
+            "city": "Dania Pointe",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET Core",
+                "Web API"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "C#",
+                ".NET Core",
+                "Web API"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Chandra Kanth M K",
+        "email": "chandra@northite.com",
+        "jd": "From: Chandra Kanth M K, NorthITe chandra@northite.com Reply to: chandra@northite.com Need .net Candidatewith C#/.net core/ web apiExperience: 7/8 yearsHybrid - 3 days onsiteOnly H4EAD, USCLocation - Dania Pointe, Florida",
+        "source": "Email",
+        "date_posted": "2024-09-30 08:56:47-05:00",
+        "unique_id": "192434b37f1c731f",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

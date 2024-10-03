@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Spar Information Systems",
+        "job_title": "Sr. Azure Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure ADF",
+                "Unity Catalogue",
+                "Spark SQL",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "CI/CD (Gitlab)"
+            ],
+            "primary": [],
+            "secondary": [
+                "Streaming (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "all": [
+                "Azure ADF",
+                "Unity Catalogue",
+                "Spark SQL",
+                "SQL Server (Stored Procs, SQL\u2019s, etc.)",
+                "CI/CD (Gitlab)",
+                "Streaming (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rahul",
+        "email": "rahul@sparinfosys.com",
+        "jd": "From: Rahul, Spar Information Systems rahul@sparinfosys.com Reply to: rahul@sparinfosys.com Hi Eveyone, Hope you are doing good. We have Urgent Opening for Sr. Azure Data Engineer, with one of our Client, Please share your updated resume rahul@sparinfosys.com Role : Sr. Azure Data Engineer Location : Remote Duration: 12+ Months Skill- Primary Skills Azure ADF, Unity Catalogue, Spark SQL, SQL Server (Stored Procs, SQL\u2019s, etc.), CI/CD (Gitlab) Secondary Skills Streaming (Kafka), Python, Pyspark, Control-M Rahul.B Team Lead SPAR Information Systems Email: rahul@sparinfosys.com",
+        "source": "Email",
+        "date_posted": "2024-09-30 13:16:00-05:00",
+        "unique_id": "192442516ce82ca1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

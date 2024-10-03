@@ -1,0 +1,100 @@
+[
+    {
+        "company": "Stellent IT",
+        "job_title": "Cockroach DBA",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "CockroachDB",
+                "Database Administration",
+                "Scripting",
+                "CI/CD",
+                "Cloud (AWS, Azure, GCP)"
+            ],
+            "primary": [
+                "Performance Tuning",
+                "Troubleshooting",
+                "Installation and Configuration",
+                "Monitoring",
+                "Debugging"
+            ],
+            "secondary": [
+                "Ansible",
+                "Terraform",
+                "Udeploy",
+                "JIRA",
+                "Confluence",
+                "Jenkins",
+                "Git",
+                "ECS",
+                "Docker",
+                "Datadog",
+                "Grafana",
+                "Prometheus",
+                "ServiceNow",
+                "REST APIs",
+                "MongoDB",
+                "NoSQL"
+            ],
+            "all": [
+                "CockroachDB",
+                "Database Administration",
+                "Scripting",
+                "CI/CD",
+                "Cloud (AWS, Azure, GCP)",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Installation and Configuration",
+                "Monitoring",
+                "Debugging",
+                "Ansible",
+                "Terraform",
+                "Udeploy",
+                "JIRA",
+                "Confluence",
+                "Jenkins",
+                "Git",
+                "ECS",
+                "Docker",
+                "Datadog",
+                "Grafana",
+                "Prometheus",
+                "ServiceNow",
+                "REST APIs",
+                "MongoDB",
+                "NoSQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "pankaj",
+        "email": "pankaj@stellentit.com",
+        "jd": "From: pankaj, Stellent IT pankaj@stellentit.com Reply to: pankaj@stellentit.com Cockroach DBA Location: Onsite every other week (5x per week, 2 weeks per month) in one of the following locations:Dallas, TXBoston, MASmithfield, RIMerrimack, NHJersey City, NJChicago, ILCovington, KY / Cincinnati, OHSalt Lake City, UTPhone and Video Long Term Job Description: - 5+ years of experience as a DBA- 2+ years of experience with CockroachDB (experience building out, troubleshooting, performance tuning, production support, high availability monitoring, etc.)- Experience in installation, configuration, monitoring & troubleshooting large scale distributed databases- Debugging skills & ability to troubleshoot methodically, identifying & applying fixes for known errors, capacity to think outside of the box to resolve complex issues- Scripting/automation tooling (bash/python/Ansible/Terraform) experience- Experienced in CI/CD, DevOps using tools like Udeploy, JIRA, Confluence, Jenkins, Git, ECS, Docker- Experience with Datadog, Grafana, Prometheus & integration with ServiceNow- Cloud experience with AWS, Azure, or GCP- Knowledge in REST APIs, ability to read documentation & make calls to read or write data using API- MongoDB / NoSQL database skills preferred As a Database Administrator/Engineer, you will bring your technology expertise, design and administration skills to create unique state-of-the-art database systems. We are looking for an individual who has a passion for technology tempered by a level-headed approach to problem solving and broad experience in diverse technologies. You will bring a hunger for problem solving and desire to understand and play with newer technologies and business ideas. Day to day, you will be responsible for the design, configuration and monitoring of a very large-scale database system including Relational databases, NoSQL and in memory databases. You will also be working in tandem with database administrators and data engineers across the organization.",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:44:32-05:00",
+        "unique_id": "1924edfa0ef09f80",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Cloudingest",
+        "job_title": "GCP Data Engineer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP BQ",
+                "Teradata",
+                "Cloud Composer",
+                "DataFlow",
+                "SQL"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "GCP BQ",
+                "Teradata",
+                "Cloud Composer",
+                "DataFlow",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manohar",
+        "email": "manohar@cloudingest.com",
+        "jd": "From: Manohar, Cloudingest manohar@cloudingest.com Reply to: manohar@cloudingest.com Role : GCP Data EngineerLocation : Irving TX , Onsite Need Passport number and I94 copy. Skills: GCP BQ, Teradata, Cloud Composer, DataFlow , SQL hands on",
+        "source": "Email",
+        "date_posted": "2024-10-01 09:11:54-05:00",
+        "unique_id": "1924b5c1cf48cb4a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

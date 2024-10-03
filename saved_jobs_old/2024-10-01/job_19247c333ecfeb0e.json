@@ -1,0 +1,58 @@
+[
+    {
+        "company": "IBM",
+        "job_title": "Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hr"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "JavaScript"
+            ],
+            "primary": [
+                "RDBMS",
+                "NoSQL",
+                "webservices"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "J2EE",
+                "JavaScript",
+                "RDBMS",
+                "NoSQL",
+                "webservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "Java Developer - F2F interview **ON SITE at Phoenix, AZ -Need only Local Candidate required Rate- $55/hr. Location: Phoenix, AZ -Need only Local Candidate requiredClient-IBM -AmexJava Developer - F2F interview **ON SITE at PHX** Application Developer - Java & Web TechnologiesSkills Required:-JavaJ2EEJavaScriptRDBMSNoSQL & webservices",
+        "source": "Email",
+        "date_posted": "2024-10-01 06:07:39-05:00",
+        "unique_id": "19247c333ecfeb0e",
+        "emp_type": [
+            "contract"
+        ],
+        "tag": "Java Dev"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Convex Tech Inc.",
+        "job_title": "Software Engineer",
+        "location": "Savannah, GA, USA",
+        "full_location": {
+            "city": "Savannah",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "18 months",
+            "degree_required": "Bachelor's Degree Engineering or related curriculum required or equivalent combination of education and experience sufficient to perform the essential functions of the job.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "C",
+                "C#",
+                "Objective C",
+                "Swift"
+            ],
+            "primary": [
+                "embedded systems",
+                "touchscreen technology",
+                "revision control",
+                "git",
+                "Azure DevOps",
+                "Agile"
+            ],
+            "secondary": [
+                "UI/UX design/development",
+                "Design Patterns",
+                "Spring"
+            ],
+            "all": [
+                "Java",
+                "C",
+                "C#",
+                "Objective C",
+                "Swift",
+                "embedded systems",
+                "touchscreen technology",
+                "revision control",
+                "git",
+                "Azure DevOps",
+                "Agile",
+                "UI/UX design/development",
+                "Design Patterns",
+                "Spring"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjay Sunar",
+        "email": "sanjay@convextech.com",
+        "jd": "From: Sanjay Sunar, convextech sanjay@convextech.com Reply to: sanjay@convextech.com Position: Software Engineer Location: Fully Onsite(Savannah, GA ) Duration: 6 months contract Visa Restrictions: No H1b/CPT Interview: Video/Skype Job Description: Responsibilities: Designs, develops, tests, and integrates software modules of varying scope and complexity to meet program objectives. Works within a team environment, promoting cohesiveness and continuous improvement. Maintains and troubleshoots multiple software projects designed for various platforms, with primary focus on Java platforms & products. Interfaces with other groups and customers as needed during design/development and troubleshooting. Maintains a current knowledge of developments, both process and technical, related to software development to recommend innovations to improve quality and effectiveness, as well as to offer creative and informed opinions while troubleshooting and debugging. Participates as needed in any or all the software design phases, including requirements generation, software design, code implementation, validation, and documentation of the results. Requirements: Bachelor's Degree Engineering or related curriculum required or equivalent combination of education and experience sufficient to perform the essential functions of the job. 18 months of related Engineering experience. Experience credit will be considered for related advance degrees limited to 2 years for the Master's and 4 years for PhD in field applicable to the job position. Proficiency developing/maintaining applications written in one or more of the following languages: Java, C, C#, Objective C, Swift Proficiency in embedded systems, using touchscreen technology (iOS & Android) Experience using revision control, git preferred. Experience using Azure DevOps preferred. Ability to follow a software development process, such as Agile. Experience with one or more of the following is a plus: UI/UX design/development, Design Patterns, Spring Thanks and Regards Sanjay Sunar US IT Recruiter | Convex Tech Inc. Email: sanjay@convextech.com Linkedin: https://www.linkedin.com/in/santosh-kumar-sunar-419601178/",
+        "source": "Email",
+        "date_posted": "2024-10-02 15:24:03-05:00",
+        "unique_id": "1924ee6c9bad3747",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

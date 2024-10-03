@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Comerica bank",
+        "job_title": "ETL Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "5+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica",
+                "Data Engineering",
+                "SQL",
+                "Python",
+                "AWS"
+            ],
+            "primary": [
+                "Data Warehouse Solutions",
+                "Data Pipelines",
+                "Snowflake",
+                "CICD",
+                "Agile Methodologies"
+            ],
+            "secondary": [
+                "Dataiku",
+                "Data Quality",
+                "Data Profiling",
+                "Catalog Tools",
+                "Mentoring"
+            ],
+            "all": [
+                "Informatica",
+                "Data Engineering",
+                "SQL",
+                "Python",
+                "AWS",
+                "Data Warehouse Solutions",
+                "Data Pipelines",
+                "Snowflake",
+                "CICD",
+                "Agile Methodologies",
+                "Dataiku",
+                "Data Quality",
+                "Data Profiling",
+                "Catalog Tools",
+                "Mentoring"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Saquib Anwar",
+        "email": "anwar.s@largeton.us",
+        "jd": "From: Saquib Anwar, Largeton anwar.s@largeton.us Reply to: anwar.s@largeton.us ETL Developer 5+ months contract USC/GC/EAD Location: Plano, TX need locals only, role is hybrid client : Comerica bank JOB DESCRIPTION Position Qualifications: Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience 7 years of experience identifying technical solutions for complex business problems, identifying the benefits and risks of the solutions and providing recommendations 7 years of experience in Technology, Data Engineering field in architecting, developing end-to-end scalable data applications and data pipelines; work with product manager and scrum masters and lead the team in assisting the story creations and sprint deliverables 7 years of experience leading and developing automated Informatica data pipelines with at least 4 years Informatica cloud (IICS) and relevant knowledge in data profiling, data quality, catalog tools 7 years of experience working in enterprise data warehouse solutions and platforms, and working knowledge of different databases (e.g., RDBMS, Snowflake), S3 Datalake, CICD, Jenkins and AWS cloud technologies 5 years of experience designing, implementing automated data solutions using Snowflake lakehouse; building workflows, developing, and scheduling ETL processes using programming SQL or Python 5 years of experience mentoring another technologist 5 years of experience implementing data solutions by adopting, recommending and improving CICD, change management, data security, auditing processes 4 years of experience working with software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes and testing AWS or Informatica or Snowflake certification is preferred Experience with Dataiku is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:06:09-05:00",
+        "unique_id": "19248a12b9bc27a8",
+        "emp_type": [
+            "contract"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

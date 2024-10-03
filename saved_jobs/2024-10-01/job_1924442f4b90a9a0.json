@@ -1,0 +1,73 @@
+[
+    {
+        "company": "VBeyond Corporation",
+        "job_title": "Sr. Oracle PL/SQL Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle SQL",
+                "PL/SQL",
+                "Unix shell scripting"
+            ],
+            "primary": [
+                "Control-M",
+                "Performance tuning",
+                "Database security",
+                "Data migration",
+                "Agile development methodologies"
+            ],
+            "secondary": [
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills",
+                "Cloud technologies"
+            ],
+            "all": [
+                "Oracle SQL",
+                "PL/SQL",
+                "Unix shell scripting",
+                "Control-M",
+                "Performance tuning",
+                "Database security",
+                "Data migration",
+                "Agile development methodologies",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills",
+                "Cloud technologies"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Samyak Shan",
+        "email": "SamyakS@vbeyond.com",
+        "jd": "From: Samyak, VBeyond Corporation samyaks@vbeyond.com Reply to: samyaks@vbeyond.com Hey, Hope you are doing well. My name is Samyak from VBeyond Corporation, and I am looking for a Sr. Oracle PL/SQL Developer for a long-term contractual role in Chicago, IL 60604 (Onsite Job) If you feel interested in applying for this potential job opportunity, I request you to please reply with your updated resume Key Responsibilities: Design, develop, and optimize complex SQL queries and PL/SQL procedures. Develop and maintain Unix shell scripts to automate routine processes. Manage scheduling of jobs using Control-M or similar tools. Collaborate with cross-functional teams for database integration and data migration projects. Provide performance tuning and query optimization to ensure high-efficiency database systems. Troubleshoot and resolve database-related issues. Implement and maintain database security policies and procedures. Document processes and maintain knowledge base for developed systems. Qualifications: Experience: Total 10+ years of experience in Oracle SQL and PL/SQL development. Proficiency in writing complex queries and stored procedures. Experience in Unix shell scripting. Familiarity with job scheduling tools like Control-M (or similar). Strong analytical and problem-solving skills with a focus on performance tuning. Understanding of database security and optimization techniques. Ability to work independently and within a team environment. Excellent verbal and written communication skills. Experience in cloud technologies. Knowledge of Agile development methodologies.",
+        "source": "Email",
+        "date_posted": "2024-09-30 12:37:23-05:00",
+        "unique_id": "1924442f4b90a9a0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Largeton INC",
+        "job_title": "Salesforce Developer w.NET and Stare Client",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "3 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "MVC",
+                "XML",
+                "WCF",
+                "REST services",
+                "WebAPI",
+                "T-SQL",
+                "SSRS"
+            ],
+            "primary": [
+                ".NET Framework 3.5 or higher",
+                "IIS 7.5 or higher",
+                "JavaScript"
+            ],
+            "secondary": [
+                "problem-solving",
+                "communication",
+                "collaboration",
+                "cross-functional teamwork",
+                "deadline management"
+            ],
+            "all": [
+                "C#",
+                "MVC",
+                "XML",
+                "WCF",
+                "REST services",
+                "WebAPI",
+                "T-SQL",
+                "SSRS",
+                ".NET Framework 3.5 or higher",
+                "IIS 7.5 or higher",
+                "JavaScript",
+                "problem-solving",
+                "communication",
+                "collaboration",
+                "cross-functional teamwork",
+                "deadline management"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Awkash Kumar",
+        "email": "awkash@largeton.us",
+        "jd": "From: Awkash Kumar, Largeton INC awkash@largeton.us Reply to: awkash@largeton.us JD ::Qualifications and Requirements:3 years of experience performing customizations and configurations on CRM platformsAt least 5 years of experience developing web applications in C# using MVC, XML, and creating and consuming WCF/REST services/WebAPI.3 years of experience developing .NET plugins using C# and writing JavaScript for customizations.At least 3 years of experience with .NET Framework 3.5 or higher and IIS 7.5 or higher.At least 5 years of experience writing complex queries in T-SQL.At least 3 years of experience developing reports using SSRS.Strong problem-solving skills and the ability to troubleshoot and resolve technical issues.Excellent communication and collaboration skills, with the ability to work effectively with cross-functional teams.Ability to meet deadlines, goals, and objectives within timeline.",
+        "source": "Email",
+        "date_posted": "2024-10-01 15:42:04-05:00",
+        "unique_id": "19249d109d13c400",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

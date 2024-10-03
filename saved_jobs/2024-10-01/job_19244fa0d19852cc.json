@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Tekgence",
+        "job_title": "Senior Data Specialist",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 plus years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "ETL Fundamentals",
+                "Data Warehousing",
+                "DBT"
+            ],
+            "primary": [
+                "Alation",
+                "Talend",
+                "IICS",
+                "Modern Data Platform Fundamentals",
+                "PL/SQL",
+                "Data Modelling Fundamentals",
+                "Unix Shell scripting",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Pandas",
+                "Numpy",
+                "Airflow",
+                "AWS"
+            ],
+            "all": [
+                "ETL Fundamentals",
+                "SQL",
+                "SQL (Basic + Advanced)",
+                "Alation",
+                "Talend",
+                "Python",
+                "Data Warehousing",
+                "IICS",
+                "Modern Data Platform Fundamentals",
+                "PL/SQL",
+                "Data Modelling Fundamentals",
+                "DBT",
+                "Pandas",
+                "Numpy",
+                "Unix Shell scripting",
+                "Snowflake",
+                "Airflow",
+                "AWS"
+            ],
+            "with_experience": [
+                "Python (8+ years)",
+                "SQL (Advanced)",
+                "DBT"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mahith Kumar",
+        "email": "mahith@tekgence.com",
+        "jd": "From: Gunda Mahith Kumar, Tekgence mahith@tekgence.com Reply to: mahith@tekgence.com Hello,This is Mahith Kumar from Tekgence; I am writing to let you know regarding a job opportunities with one of my client as a Senior Data Specialist Location: Austin, TX (Remote) Job Title: Senior Data SpecialistLocation: Austin, TX (Remote)Duration: Long Term Job Description: Primary SkillsETL Fundamentals, SQL, SQL (Basic + Advanced), Alation, Talend, Python, Data Warehousing, IICS, Modern Data Platform Fundamentals, PL/SQL, Data Modelling Fundamentals SpecializationETL Specialization: Senior Data Engineer Job requirements8 plus years of overall IT experience. Strong Python experience mandatory. Write effective, scalable code in Python. Hands on experience with Python - Pandas library in detail & Numpy. Advanced SQL skills are mandatory.Ability to write complex SQL queries to query large amounts of data Hands on DBT development experience. Design, develop, and maintain DBT models, transformations, and SQL code to build efficient data pipelines for analytics and reporting. Mandatory hands on coding experience in Unix Shell scripting. Develop back-end components to improve responsiveness and overall performance. Hands-on-experience in designing and building data pipelines in data analytics implementations such as Data Lake and Data Warehouse and development. Salesforce CDP knowledge and Snowflake implementation will be a plus. Integrate user-facing elements into applications Writing Snowflake SQL queries against Snowflake Developing scripts like UNIX, Python, etc. to do Extract, Load, and Transform data. Good to have working experience with Airflow. Good to have exposure to AWS eco systems. Test and debug programs, Improve functionality of existing systems. Implement security and data protection solutions Coordinate with internal teams to understand user requirements and provide technical solutions Support QA, UAT and performance testing phases of the development cycle. Understand and incorporate the required security framework in the developed data model and ETL objects. Define standards and procedures; refine methods and techniques for data extraction, transformation and loading (ETL) both in batch and \u201cnear real time\u201d modes. Design Data Integration, Data Warehousing, Analytics, Reporting & Data science strategies.",
+        "source": "Email",
+        "date_posted": "2024-09-30 17:08:38-05:00",
+        "unique_id": "19244fa0d19852cc",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

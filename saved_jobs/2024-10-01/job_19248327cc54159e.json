@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "748082",
             "experience_required": "10+ years",
@@ -28,9 +29,7 @@
                 "troubleshooting",
                 "Backups restores",
                 "High Availability",
-                "Installation and configuration of SQL 2014, 2016 and 2019"
-            ],
-            "primary": [
+                "Installation and configuration of SQL 2014, 2016 and 2019",
                 "SSIS",
                 "SSRS",
                 "SQL tuning",
@@ -39,20 +38,18 @@
                 "Database maintenance",
                 "Database backup and recovery",
                 "Export/Import Replication",
-                "Creating Linked Server Objects",
                 "Database Mirroring",
                 "log shipping",
-                "DR procedures",
-                "SQL transactional Replication",
-                "Supporting MS SQL databases in Microsoft clustered environments"
+                "SQL transactional Replication"
             ],
-            "secondary": [
+            "primary": [
                 "Windows administration",
                 "PowerShell",
                 "Visual Studio (SQL Server Data Tools)",
                 "Spotlight",
                 "SQL 2016 Availability groups"
             ],
+            "secondary": [],
             "all": [
                 "SQL Server administration",
                 "SQL database monitoring",
@@ -69,17 +66,34 @@
                 "Database maintenance",
                 "Database backup and recovery",
                 "Export/Import Replication",
-                "Creating Linked Server Objects",
                 "Database Mirroring",
                 "log shipping",
-                "DR procedures",
                 "SQL transactional Replication",
-                "Supporting MS SQL databases in Microsoft clustered environments",
                 "Windows administration",
                 "PowerShell",
                 "Visual Studio (SQL Server Data Tools)",
                 "Spotlight",
                 "SQL 2016 Availability groups"
+            ],
+            "with_experience": [
+                "SQL Server administration",
+                "SQL database monitoring",
+                "performance tuning",
+                "troubleshooting",
+                "Backups restores",
+                "High Availability",
+                "Installation and configuration of SQL 2014, 2016 and 2019",
+                "SSIS",
+                "SSRS",
+                "SQL tuning",
+                "Data conversion",
+                "Migration",
+                "Database maintenance",
+                "Database backup and recovery",
+                "Export/Import Replication",
+                "Database Mirroring",
+                "log shipping",
+                "SQL transactional Replication"
             ]
         },
         "job_type": [
@@ -92,7 +106,8 @@
         "date_posted": "2024-10-01 08:09:14-05:00",
         "unique_id": "19248327cc54159e",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "DB Admin"
     }

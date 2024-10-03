@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "experience_required": "10+ years",
             "degree_required": "Not specified",
@@ -23,13 +24,11 @@
             "core": [
                 "DevOps",
                 "Azure",
-                ".NET"
+                ".NET",
+                "C#",
+                "SQL"
             ],
             "primary": [
-                "C#",
-                ".Net core",
-                "SQL",
-                "webAPI",
                 "AKS",
                 "Kubernetes",
                 "CI/CD"
@@ -37,7 +36,6 @@
             "secondary": [
                 "Function App",
                 "ADO",
-                "APIs",
                 "API lifecycle",
                 "browser-based debugging"
             ],
@@ -46,15 +44,12 @@
                 "Azure",
                 ".NET",
                 "C#",
-                ".Net core",
                 "SQL",
-                "webAPI",
                 "AKS",
                 "Kubernetes",
                 "CI/CD",
                 "Function App",
                 "ADO",
-                "APIs",
                 "API lifecycle",
                 "browser-based debugging"
             ]
@@ -69,8 +64,9 @@
         "date_posted": "2024-10-01 10:01:50-05:00",
         "unique_id": "192489cff3b825a8",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": ".NET Dev"
+        "tag": ".net developer"
     }
 ]

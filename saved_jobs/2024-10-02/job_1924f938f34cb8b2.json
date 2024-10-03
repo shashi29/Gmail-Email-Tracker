@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Quantig",
+        "job_title": "LIMS Software Engineer",
+        "location": "Cambridge, MA, USA",
+        "full_location": {
+            "city": "Cambridge",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months + extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "LIMS systems",
+                "Python",
+                "Django"
+            ],
+            "primary": [
+                "database technologies",
+                "data engineering practices",
+                "Agile",
+                "Scrum"
+            ],
+            "secondary": [
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "collaboration skills",
+                "attention to detail"
+            ],
+            "all": [
+                "LIMS systems",
+                "Python",
+                "Django",
+                "database technologies",
+                "data engineering practices",
+                "Agile",
+                "Scrum",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "collaboration skills",
+                "attention to detail"
+            ],
+            "with_experience": [
+                "Python (5+ years)",
+                "Django"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Alex",
+        "email": "recruiter4@quantig.com",
+        "jd": "From: Alex, quantig.com recruiter4@quantig.com Reply to: recruiter4@quantig.com Hi,TITLE: LIMS Software EngineerLOCATION Cambridge MA 02142START: ASAPDURATION: 6 months + extensionsJ.D: * Minimum of 5 years of experience working with LIMS systems. * Proven experience in Python and the Django framework in a commercialenvironment. * Demonstrated experience in both supporting the development of LIMStools and integrating third-party LIMS systems. * Familiarity with database technologies and data engineeringpractices. * Strong analytical and problem-solving skills, with the ability towork independently and in a team environment. * Previous experience working in an Agile/Scrum developmentenvironment. * Excellent communication and collaboration skills, with keen attentionto detail.",
+        "source": "Email",
+        "date_posted": "2024-10-02 14:57:05-05:00",
+        "unique_id": "1924f938f34cb8b2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

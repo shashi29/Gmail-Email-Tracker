@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Urbench",
+        "job_title": "Python Developer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "5 months",
+            "rate": "$55/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "SQL",
+                "Snowflake"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python",
+                "AWS",
+                "SQL",
+                "Snowflake"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sameer Khan",
+        "email": "sameer@urbench.com",
+        "jd": "Hello, Skill-Python , AWS, SQL, Snowflake\nDuration: ~4 positions (3 positions for 5 months and 1 for 4months )\nJob location- Richmond VA(Hybrid)\nVisa: USC/GC/H4-EAD\nRate Max: $55/hr on C2C\nEXP: 8+ Years\nPlease send me EX CAPITAL ONE contractors ONLY\n\nJob Description: The position requires an advanced Python programming accustomed to Object Oriented Programming\nUnderstanding the concept of packaging Python application\nWell versed with AWS concepts of deploying Python applications to AWS eco-system\nWork collaboratively with appropriate Tech teams to manage security mechanisms and data access governance\nGood in leveraging Python Jupyter notebooks and then later on automating the application as a whole\nAbility to drive projects such as adoption of new enterprise cloud computing capabilities and improvement projects to reduce model execution failures and model deployment time\nGood in advanced SQL queries and analyzing the data derived from Snowflake\nDrive analysis that provides meaningful insights on business strategies\nDrive an understanding and adherence to the principles of data quality management including metadata, lineage, and business definitions\nBuild and execute tools to monitor and report on data quality",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:13:07-05:00",
+        "unique_id": "19249142e226bd70",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "8 years",
@@ -31,18 +32,17 @@
             "primary": [
                 "Monitoring/Alerting",
                 "Observability",
-                "Backup & Restore",
+                "Client/Server Connectivity",
+                "Database Consistency Checks",
+                "Maintenance Routines",
                 "Data Refreshes",
-                "Windows PowerShell",
-                "Python",
                 "OS Fine Tuning",
                 "Security and Data Compliance"
             ],
             "secondary": [
-                "Ansible",
+                "Automation via Ansible",
                 "Terraform",
-                "CI/CD",
-                "GHA",
+                "CI/CD with GHA",
                 "GitHub",
                 "Jenkins"
             ],
@@ -54,24 +54,17 @@
                 "Redis",
                 "Monitoring/Alerting",
                 "Observability",
-                "Backup & Restore",
+                "Client/Server Connectivity",
+                "Database Consistency Checks",
+                "Maintenance Routines",
                 "Data Refreshes",
-                "Windows PowerShell",
-                "Python",
                 "OS Fine Tuning",
                 "Security and Data Compliance",
-                "Ansible",
+                "Automation via Ansible",
                 "Terraform",
-                "CI/CD",
-                "GHA",
+                "CI/CD with GHA",
                 "GitHub",
                 "Jenkins"
-            ],
-            "with_experience": [
-                "Redis (3+ years)",
-                "Redis Enterprise (3+ years)",
-                "Azure Cache for Redis (3+ years)",
-                "GCP Memory Store (3+ years)"
             ]
         },
         "job_type": [
@@ -84,7 +77,8 @@
         "date_posted": "2024-10-01 10:19:46-05:00",
         "unique_id": "19248ae36d1ed444",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "DB Admin"
     }

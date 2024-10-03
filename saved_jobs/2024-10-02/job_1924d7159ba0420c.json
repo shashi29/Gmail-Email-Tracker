@@ -1,0 +1,75 @@
+[
+    {
+        "company": "SVAM International",
+        "job_title": "Sr DevSecOps ,NET Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET development (C#, ASP.NET, MVC, Web API)",
+                "SecDevOps principles and methodologies",
+                "cybersecurity",
+                "vulnerability prevention"
+            ],
+            "primary": [
+                "security frameworks (OWASP, NIST)",
+                "cloud platforms (Azure/AWS)",
+                "database technologies (Oracle, PL/SQL, SQL Server, Entity Framework)",
+                "version control systems",
+                "CI/CD tools (Azure DevOps)",
+                "problem-solving skills",
+                "attention to detail"
+            ],
+            "secondary": [
+                "certifications in cybersecurity (CISSP, CEH, Security+)",
+                "containerization technologies (Docker, Kubernetes)",
+                "scripting languages (Python)"
+            ],
+            "all": [
+                ".NET development (C#, ASP.NET, MVC, Web API)",
+                "SecDevOps principles and methodologies",
+                "cybersecurity",
+                "vulnerability prevention",
+                "security frameworks (OWASP, NIST)",
+                "cloud platforms (Azure/AWS)",
+                "database technologies (Oracle, PL/SQL, SQL Server, Entity Framework)",
+                "version control systems",
+                "CI/CD tools (Azure DevOps)",
+                "problem-solving skills",
+                "attention to detail",
+                "certifications in cybersecurity (CISSP, CEH, Security+)",
+                "containerization technologies (Docker, Kubernetes)",
+                "scripting languages (Python)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "sandeep",
+        "email": "skemisetti@svam.com",
+        "jd": "From: sandeep, SVAM International skemisetti@svam.com Reply to: skemisetti@svam.com Hi,Hope you are doing great,Hiring on Sr DevSecOps ,NET Developer - RemoteExperience : 15+Mandatory Skills:NET development (C#, ASP.NET, MVC, Web API).SecDevOps principles and methodologies.(CISSP, CEH, Security+)JOB Summary:Skilled .NET Developer with a strong background in SecDevOps, cybersecurity, and vulnerability prevention. The ideal candidate will play a critical role in designing, developing, and securing applications while collaborating closely with cross-functional teams to implement secure coding practices and ensure compliance with security standards.Qualifications:- Bachelor's degree in Computer Science, Information Technology, or a related field. - 3+ years of experience in .NET development (C#, ASP.NET, MVC, Web API).- Strong understanding of SecDevOps principles and methodologies.- Proven experience in cybersecurity and vulnerability prevention techniques.- Familiarity with security frameworks (OWASP, NIST).- Experience with cloud platforms (Azure/AWS) and their security features.- Proficiency in database technologies (Oracle, PL/SQL, SQL Server, Entity Framework).- Knowledge of version control systems and CI/CD tools (Azure DevOps).- Strong problem-solving skills and attention to detail.Preferred Skills:- Certifications in cybersecurity (CISSP, CEH, Security+) are a plus.- Experience with containerization technologies (Docker, Kubernetes).- Familiarity with scripting languages (Python).",
+        "source": "Email",
+        "date_posted": "2024-10-01 20:01:57-05:00",
+        "unique_id": "1924d7159ba0420c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

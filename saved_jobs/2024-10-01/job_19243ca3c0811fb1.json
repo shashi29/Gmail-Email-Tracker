@@ -1,0 +1,70 @@
+[
+    {
+        "company": "TCS",
+        "job_title": "GCP admin",
+        "location": "Boynton Beach, FL, USA",
+        "full_location": {
+            "city": "Boynton Beach",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Cloud Administration",
+                "Backup",
+                "Archive",
+                "Recovery planning",
+                "Security",
+                "WAF rules",
+                "Load balancing"
+            ],
+            "primary": [
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Cloud Administration",
+                "Backup",
+                "Archive",
+                "Recovery planning",
+                "Security",
+                "WAF rules",
+                "Load balancing",
+                "GCP Certified Associate",
+                "Multi-cloud environments"
+            ],
+            "with_experience": [
+                "GCP (8-10 years)",
+                "Cloud Administration (8-10 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivam Singh",
+        "email": "shivam.s@twsol.com",
+        "jd": "From: Shivam Singh, Teamware shivam.s@twsol.com Reply to: shivam.s@twsol.com Role name: GCP adminLocation: TCS - Boynton Beach, FL Onsite Role Description: Manage and support 24x7 GCP environmentsCompetencies: Digital : Cloud Administration and Operation, Digital : Google CloudExperience (Years): 8-10 Essential Skills:Manage and support 24x7 GCP environments Need to have good knowledge in Backup, Archive and Recovery planning and execution.Need to have good knowledge in Security, WAF rules and load balancing. Hands on experience with GCP and strong understanding of GCP capabilities and limitationsDesirable Skills: GCP Certified AssociateExperience on multi-cloud environments will be preferred",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:33:45-05:00",
+        "unique_id": "19243ca3c0811fb1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

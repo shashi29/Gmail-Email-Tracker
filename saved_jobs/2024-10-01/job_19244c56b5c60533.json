@@ -1,0 +1,79 @@
+[
+    {
+        "company": "US Bank",
+        "job_title": "Cloud Engineer",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Apache Spark",
+                "Azure Synapse Analytics",
+                "Azure Data Factory",
+                "SQL"
+            ],
+            "primary": [
+                "CI/CD",
+                "Kubernetes",
+                "Azure Data Lake Storage (ADLS) Gen2",
+                "API development",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Java",
+                "Data Warehousing",
+                "Data Governance",
+                "AI/ML",
+                "Cloud architecture"
+            ],
+            "all": [
+                "Python",
+                "Apache Spark",
+                "Azure Synapse Analytics",
+                "Azure Data Factory",
+                "SQL",
+                "CI/CD",
+                "Kubernetes",
+                "Azure Data Lake Storage (ADLS) Gen2",
+                "API development",
+                "Agile methodologies",
+                "Java",
+                "Data Warehousing",
+                "Data Governance",
+                "AI/ML",
+                "Cloud architecture"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Mohd Niyaz",
+        "email": "mniyaz@sibitalent.com",
+        "jd": "From: Mohd Niyaz, sibitalent mniyaz@sibitalent.com Reply to: mniyaz@sibitalent.com Client: US Bank\nJob Title: Cloud Engineer\nLocation: 200 S 6th St Minneapolis, Minnesota 55402 (requires on site) \nJob Description: Engineers in Product Platforms work collaboratively on small, autonomous teams reporting to a Development Manager. We create products or enable data consumption for end users as well as frameworks and tools used by developers across the organization. Teams and engineers are empowered to create solutions and find the right tools for the job. We use a variety of modern technologies to solve complex problems across a wide range of business domains for users all over the world.\nIn this Development community there are quarterly hackathons (during business hours) that all engineers are encouraged to participate in as a way of exploring new technologies and solutions outside of their assigned product and daily backlog. Additionally, there are innovation days on the last Friday of every month that all engineers are encouraged to participate in to improve their technical skills or collaborate on solutions outside of their daily backlog.\nTeam and project specific details: We are looking for a candidate who has an interest in back end development, devOps, ETL, and cloud engineering. We are specifically looking for a candidate who has experience with GCP and/or AWS. We would like the candidate to have experience with ETL using the service catalogue offerings of either AWS or GCP.\nTeam Digital Triplet manages the data lake, modeling, and a number of cloud accounts associated with various LIMS instances. Digital Triplet will be creating a pipeline between AWS and a (new to Bayer) data warehouse in Google Big Query, configuring multiple accounts, and investigating new technologies that we could utilize to more efficiently manage the lake, ETL, and reporting capabilities for our users and for our full stack development teams. We are looking for a candidate that wants to continuously improve by introducing new ideas, tools, and solutions to this space.\nCan you please provide a summary of the project/initiatives which describes what\u2019s being done? Accelerated Credit Excellence project in Business Banking will be improving underwriting decision time by building AI/ML model to evaluate customers application to provide insights for underwriter to recommend the rigor of underwriting. The project will directly contribute to more applications decisioned so as to increase U.S. Bank competitiveness among peer banks and contribute to bottom line.\nWhat are the top 5-10 responsibilities for this position? (Please be detailed as to what the candidate is expected to do or complete on a daily basis)\n1. ETL and Data Pipeline Development- Design, develop, and optimize scalable ETL processes using Python, Apache Spark, and Azure Synapse.- Build and manage Azure Data Factory pipelines to orchestrate complex data workflows.- Use SQL Pools and Spark Pools within Synapse to manage and process large datasets efficiently.- Implement Data Warehousing solutions using Azure Synapse Analytics to provide structured and queryable data layers.- Ensure the data platform supports real-time and batch AI/ML data requirements.\n2. Azure Cloud Development & CI/CD Deployment- Build, configure, and manage CI/CD pipelines on Azure DevOps for ETL and data processing tasks.- Automate infrastructure provisioning, testing, and deployment using Infrastructure-as-Code (IaC) tools like ARM templates or Terraform.- Optimize Azure Data Lake Storage (ADLS Gen2) to store and manage raw and processed data efficiently, ensuring proper access control and data security.\n3. Cross-Functional Collaboration- Collaborate with Data Scientists, Data Engineers, ML Engineers, and Business Analysts to translate business requirements into data solutions.- Work with the DevOps and Security teams to ensure smooth and secure deployment of applications and pipelines.- Act as the technical lead in designing, developing, and implementing data solutions, mentoring junior team members.\n4. Data Engineering and API Development- Develop and integrate with external and internal APIs for data ingestion and data exchange.- Build, test, and deploy RESTful APIs for secure data access.- Use Kubernetes for containerizing and deploying data processing applications.- Manage data storage and transformation to support advanced Data Science and AI/ML models.\n5. Agile Project Management- Participate in and lead Agile ceremonies, such as sprint planning, daily stand-ups, and retrospectives.- Collaborate with cross-functional teams in iterative development to ensure high-quality and timely feature delivery.- Adapt to changing project priorities and business needs in an Agile environment.\nWhat skills/technologies are required (please include the number of years of experience required)?\n1. Technical Skills:- Expertise in Python and Apache Spark for large-scale data processing.- Strong experience in Azure Synapse Analytics, including SQL Pools and Spark Pools.- Advanced proficiency in Azure Data Factory for ETL pipeline orchestration and management.- Knowledge of Data Warehousing principles, with hands-on experience building solutions on Azure.- Experience with SQL, including complex queries, optimization, and performance tuning.- Familiarity with CI/CD tools like Azure DevOps and managing infrastructure in Azure Cloud.- Experience in Java for API integration and microservices architecture.- Hands-on knowledge of Kubernetes for containerized data processing environments.- Proficiency in working with Azure Data Lake Storage (ADLS) Gen2 for data storage and management.- Experience working with APIs (REST, SOAP) and building API-based data integrations.\n2. Agile and Cross-Functional Skills:- Experience working in an Agile environment, using Scrum or Kanban.- Ability to lead, mentor, and coach junior developers in the team.- Strong collaboration skills to work with data scientists, analysts, and cross-functional teams to deliver end-to-end data solutions.\n3. Behavioral Skills:- Strong analytical and problem-solving skills with a passion for data-driven solutions.- Excellent communication and presentation skills, able to explain complex technical concepts to non-technical stakeholders.- Ability to work in a fast-paced, dynamic environment with changing priorities.- Self-motivated and results-oriented with attention to detail.- 12+ years of experience in software development, with 5+ years in a lead developer role.-Lead Developer with advanced skills in Python, Apache Spark, Azure Synapse, and Azure Data Engineering services to develop and manage ETL pipelines and data processing solutions that support AI/ML initiatives. The ideal candidate will have strong expertise in Azure Cloud, including SQL, Data Factory, SQL Pools, Spark Pools, and Data Warehousing. A background in CI/CD processes, cross-functional collaboration, and methodologies is essential. In addition, knowledge of Data Science, Java, Kubernetes, Azure Data Lake Storage (ADLS) Gen2, and API development is required.- Prior experience in leading cross-functional teams and delivering complex software solutions.\nWhat skills/attributes are preferred (these are a desired, not required)?- Azure certifications in data engineering or cloud architecture.- Experience deploying AI/ML models on cloud platforms.- Familiarity with Data Governance best practices, ensuring compliance with data privacy regulations.",
+        "source": "Email",
+        "date_posted": "2024-09-30 16:11:08-05:00",
+        "unique_id": "19244c56b5c60533",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "company": "American Airlines",
+        "job_title": "Java Developer",
+        "location": "Fort Worth, TX, USA",
+        "full_location": {
+            "city": "Fort Worth",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-7 years",
+            "degree_required": "Bachelor's degree in Computer Science, Computer Engineering, Technology, Information Systems, CIS/MIS, Engineering or related technical discipline or equivalent experience/training",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Angular",
+                "MongoDB",
+                "Postgres",
+                "Kubernetes",
+                "Docker",
+                "GitHub Actions"
+            ],
+            "primary": [
+                "DevOps",
+                "Agile methodologies",
+                "Object-oriented design"
+            ],
+            "secondary": [
+                "CSS",
+                "Bootstrap",
+                "Selenium",
+                "Terraform",
+                "Linux/Unix shell scripting",
+                "JavaScript",
+                "IBM MQ",
+                "Rabbit MQ",
+                "SQL Developer IDE",
+                "Microsoft Office Tools"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Angular",
+                "MongoDB",
+                "Postgres",
+                "Kubernetes",
+                "Docker",
+                "GitHub Actions",
+                "DevOps",
+                "Agile methodologies",
+                "Object-oriented design",
+                "CSS",
+                "Bootstrap",
+                "Selenium",
+                "Terraform",
+                "Linux/Unix shell scripting",
+                "JavaScript",
+                "IBM MQ",
+                "Rabbit MQ",
+                "SQL Developer IDE",
+                "Microsoft Office Tools"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kiran Kumar",
+        "email": "kiran.kumar@panzersolutions.com",
+        "jd": "From: Kiran Kumar, Panzer Solutions LLC kiran.kumar@panzersolutions.com Reply to: kiran.kumar@panzersolutions.com Position: Java Developer\nDuration: Long Term\nLocation: Fort Worth, TX - ONSITE\nClient: American Airlines\nOnsite interview is required\nMust have\n5-7 years of hands on experience on following technologies:\nJava-17 or above, Springboot, Microservices\nAngular, bootstrap, CSS\nMongo/Postgres\nKubernetes and Docker\nDevOps : Primarily GitHub Actions\nCandidates MUST have a solid understanding of Java and Angular.\nDescription:\nDeveloper working on maintenance product applications.\nCollaborates with leaders business analysts project managers IT architects technical leads and other developers along with internal customers to understand requirements and develop needs according to business requirements\nMaintains and enhances existing enterprise services applications and platforms using domain driven design and test-driven development\nTroubleshoots and debugs complex issues identifies and implements solutions\nCreates detailed project specifications requirements and estimates\nResearches and implements new technologies to enhance current processes security and performance\nSupports the development of coding standards and adheres to best practices and security guidelines\nWorks closely with software architects and technical leads to ensure decisions meet long-term enterprise growth needs\nAll you'll need for success\nMinimum Qualifications- Education Prior Job Experience\nBachelor's degree in Computer Science Computer Engineering Technology Information Systems CIS/MIS Engineering or related technical discipline or equivalent experience/training\n4 years of full Software Development Life Cycle SDLC experience designing developing and implementing largescale applications in hosted production environments on prem and in the cloud\n4 years of professional design and open-source experience\nSkills Licenses Certifications\nProficiency and demonstrated experience in the following technologies:\nAngular JS Java or Node JS programming\nDatabase and persistence frameworks: MongoDB Postgres Oracle Object/Relational Mapping Queryperformance tuning\nCloud-based development: Azure\nWeb Services: REST/SOAP JSON/WSDL/XML\nFrameworks: Spring Framework Spring Boot\nFront-end: Angular JS Ext JS CSS jQuery AJAX\nBuild/deployment tools: IntelliJ\nOther Dev Ops Toolchain: Selenium GitHub Terraform scripting\nOther: Linux/Unix shell Scripting JavaScript IBM MQ/Rabbit MQ SQL Developer IDE\nProficiency in object-oriented design techniques and principles\nProficiency in Microsoft Office Tools Project Excel Word PowerPoint etc.\nExperience in Agile methodologies\nExperience in DevOps Toolchain methodologies including Continuous Integration and Continuous Deployment",
+        "source": "Email",
+        "date_posted": "2024-10-02 09:47:42-05:00",
+        "unique_id": "1924db3c40a321bd",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

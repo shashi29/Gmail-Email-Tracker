@@ -10,9 +10,9 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
-            "job_code": "",
             "experience_required": "Not specified",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
@@ -35,7 +35,9 @@
             ],
             "secondary": [
                 "AWS Redshift Spectrum",
-                "AWS Ecosystem (S3, EC2, IAM)",
+                "AWS S3",
+                "AWS EC2",
+                "AWS IAM",
                 "Analytical Skills",
                 "Problem-Solving Skills",
                 "Communication Skills",
@@ -52,7 +54,9 @@
                 "Data Quality Assurance",
                 "Data Pipelines",
                 "AWS Redshift Spectrum",
-                "AWS Ecosystem (S3, EC2, IAM)",
+                "AWS S3",
+                "AWS EC2",
+                "AWS IAM",
                 "Analytical Skills",
                 "Problem-Solving Skills",
                 "Communication Skills",
@@ -70,7 +74,8 @@
         "date_posted": "2024-10-01 08:25:11-05:00",
         "unique_id": "19248411a9f56129",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
         "tag": "AWS Data Engineer"
     }

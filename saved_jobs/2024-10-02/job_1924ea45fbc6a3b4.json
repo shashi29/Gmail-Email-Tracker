@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Java Lead with Performance environment",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Pipeline Orchestration",
+                "Groovy",
+                "Jenkins"
+            ],
+            "primary": [
+                "Continuous Testing",
+                "CICD pipeline",
+                "scripting",
+                "Python",
+                "Perl",
+                "Unix shell",
+                "OOP",
+                "Software Design Patterns",
+                "Architecture principles",
+                "version control",
+                "Bitbucket",
+                "Performance Testing",
+                "JMeter"
+            ],
+            "secondary": [
+                "Problem Solving",
+                "Critical Thinking",
+                "Excellent Communications Skills"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Pipeline Orchestration",
+                "Groovy",
+                "Jenkins",
+                "Continuous Testing",
+                "CICD pipeline",
+                "scripting",
+                "Python",
+                "Perl",
+                "Unix shell",
+                "OOP",
+                "Software Design Patterns",
+                "Architecture principles",
+                "version control",
+                "Bitbucket",
+                "Performance Testing",
+                "JMeter",
+                "Problem Solving",
+                "Critical Thinking",
+                "Excellent Communications Skills"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Vishnu",
+        "email": "vishnu.m@siriinfo.com",
+        "jd": "From: Vishnu, siri vishnu.m@siriinfo.com Reply to: vishnu.m@siriinfo.com Java Lead with Performance environment\nLocation: Dallas,TX/ Jersey City, NJ/ Tampa FL\nHire Type: Contract\nProven track record in IT environment working as a Tech Lead, Architect, or relevant role.\nStrong Problem Solving and Critical Thinking skills.\nExpertise in Java. Understands Spring Boot.\nExperience with Pipeline Orchestration using Groovy and Jenkins Shared Libraries.\nExperience with Continuous Testing and integrating into a CICD pipeline.\nExperience in scripting (Python, Groovy, Perl, Unix shell)\nGood understanding of OOP, Software Design Patterns, & Architecture principles.\nExcellent Communications Skills. Able to clearly communicate ideas to technical and non-technical stakeholders.\nExperience with using version control and source management tools, such as Bitbucket.\nUnderstanding of Performance Testing/Engineering Concepts and usage of JMeter",
+        "source": "Email",
+        "date_posted": "2024-10-02 14:11:31-05:00",
+        "unique_id": "1924ea45fbc6a3b4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

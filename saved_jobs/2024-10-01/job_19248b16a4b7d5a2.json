@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "experience_required": "Not specified",
             "degree_required": "Not specified",
@@ -59,8 +60,9 @@
         "date_posted": "2024-10-01 10:23:16-05:00",
         "unique_id": "19248b16a4b7d5a2",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

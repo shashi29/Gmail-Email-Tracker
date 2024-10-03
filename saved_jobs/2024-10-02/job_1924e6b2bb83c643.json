@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Senior Java Developer (Kafka, Cloud)",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kafka",
+                "RESTful APIs",
+                "NoSQL databases",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Spring Boot",
+                "CI/CD",
+                "Cloud technologies"
+            ],
+            "secondary": [
+                "Cassandra",
+                "MongoDB",
+                "Redis",
+                "AWS",
+                "GCP",
+                "Azure",
+                "RabbitMQ",
+                "Apache ActiveMQ",
+                "DevOps practices"
+            ],
+            "all": [
+                "Java",
+                "Kafka",
+                "RESTful APIs",
+                "NoSQL databases",
+                "Kubernetes",
+                "Spring Boot",
+                "CI/CD",
+                "Cloud technologies",
+                "Cassandra",
+                "MongoDB",
+                "Redis",
+                "AWS",
+                "GCP",
+                "Azure",
+                "RabbitMQ",
+                "Apache ActiveMQ",
+                "DevOps practices"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Ayush Yadav",
+        "email": "ayush.yadav@scalable-systems.com",
+        "jd": "From: ayush, Scalable Systems ayush.yadav@scalable-systems.com Reply to: ayush.yadav@scalable-systems.com Job Title: Senior Java Developer (Kafka, Cloud)Location: Austin, TX / Sunnyvale, CAJob Description:Are you a passionate Java developer with a strong foundation in distributed systems and cloud technologies? We're seeking a talented Senior Java Developer to join our dynamic team and contribute to cutting-edge projects.Responsibilities:Design, develop, and maintain high-performance, scalable Java applications.Collaborate with cross-functional teams to deliver innovative solutions.Implement robust RESTful APIs and microservices architecture.Leverage Kafka for real-time data processing and messaging.Work with NoSQL databases (Cassandra, MongoDB, Redis) to manage large datasets efficiently.Deploy and manage applications using Kubernetes and CI/CD pipelines.Optimize application performance and troubleshoot issues.Required Skills:Strong proficiency in Java programming language with a deep understanding of object-oriented principles and design patterns.Expertise in Kafka messaging for real-time data streaming and event-driven architectures.Proficiency in developing RESTful APIs using frameworks like Spring Boot or Jersey.Experience with NoSQL databases such as Cassandra, MongoDB, and Redis.Knowledge of Kubernetes and container orchestration for cloud-native deployments.Familiarity with CI/CD pipelines for automated testing and deployment.Excellent problem-solving and analytical skills.Strong communication and collaboration skills.Preferred Skills:Experience with cloud platforms (AWS, GCP, Azure).Knowledge of distributed systems and microservices architecture.Experience with messaging systems like RabbitMQ or Apache ActiveMQ.Familiarity with DevOps practices and tools.",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:09:01-05:00",
+        "unique_id": "1924e6b2bb83c643",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

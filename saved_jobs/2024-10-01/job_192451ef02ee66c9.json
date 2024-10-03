@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Comtech Global Inc",
+        "job_title": ".NET Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Under grad",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "MVC",
+                "SOA",
+                "PL/SQL",
+                "Oracle"
+            ],
+            "primary": [
+                "JQuery",
+                "KnockoutJS",
+                "Bootstrap",
+                "Angular",
+                "SSRS",
+                "SSIS"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET",
+                "C#",
+                "MVC",
+                "SOA",
+                "PL/SQL",
+                "Oracle",
+                "JQuery",
+                "KnockoutJS",
+                "Bootstrap",
+                "Angular",
+                "SSRS",
+                "SSIS"
+            ],
+            "with_experience": [
+                ".NET (15+ years)",
+                "C#",
+                "MVC",
+                "SOA",
+                "PL/SQL",
+                "Oracle"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sai Kumar M",
+        "email": "skm@comtechglobal.com",
+        "jd": "Direct client - .NET Developer, Columbus, OH - Hybrid\n\nPlease share only 15+ years experience candidates\nHybrid 2 days in office, 3 days remote. Please note this is Subject to change\n\nYears of Relevant Experience: 15+ years of .Net programming experience\nPreferred Education: Under grad\n\nJob Description:\nModify existing on-prem .net 4.5 enterprise application for enhancements.\nNeed good understanding of Service Oriented architecture, Knockout JS, J-Query\nLead technical and end-user resources to execute detailed tests and analyze testing results.\nDocument and communicate issues, solutions, and timelines to appropriate stakeholders\n\nMandatory skills:\nExperience in developing using Microsoft .NET, C#, MVC, SOA\nExperience with PL/SQL and stored procedures in Oracle\nExperience in JQuery, KnockoutJS, Bootstrap, Angular\nExperience with SSRS, SSIS",
+        "source": "Email",
+        "date_posted": "2024-09-30 17:13:41-05:00",
+        "unique_id": "192451ef02ee66c9",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

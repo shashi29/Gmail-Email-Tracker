@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "Sr.Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4-6 Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55 to $58/hr. - Tier 2; $53 to $55/hr. - Tier 3"
+        },
+        "skills": {
+            "core": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server"
+            ],
+            "primary": [
+                "CI/CD (Gitlab)"
+            ],
+            "secondary": [
+                "Streaming (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "all": [
+                "Azure ADF",
+                "Databricks",
+                "Databricks Unity Catalogue",
+                "Spark SQL",
+                "Snowflake",
+                "SQL Server",
+                "CI/CD (Gitlab)",
+                "Streaming (Kafka)",
+                "Python",
+                "Pyspark",
+                "Control-M"
+            ],
+            "with_experience": [
+                "Azure ADF",
+                "Databricks",
+                "Snowflake"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "suganesh",
+        "email": "suganesh.s@i-q.co",
+        "jd": "From: suganesh, Infinity quest suganesh.s@i-q.co Reply to: suganesh.s@i-q.co Role : Sr.Data Engineer (4-6 Years Exp)Location : RemoteRate : 55 to 58/hr. - Tier 2Rate : 53 to 55/hr. - Tier 3Tier 2:Colorado,Connecticut,Delaware,Florida,Georgia,Idaho,Maine,Maryland,Michigan,Minnesota,Nevada,New Hampshire,North Carolina,Pennsylvania,Rhode Island,South Carolina,Texas,Virginia,Wisconsin,WyomingTier 3: US Tier - 3Alabama,Arizona,Arkansas,Indiana,Iowa,Kansas,Kentucky,Louisiana,Mississippi,Missouri,Montana,Nebraska,New Mexico,North Dakota,Ohio,Oklahoma,South Dakota,Tennessee,Utah,Vermont,West ,irginiaSkill- Primary SkillsAzure ADF, Databricks, Databricks Unity Catalogue, Spark SQL, Snowflake, SQL Server (Stored Procs, SQL\u2019s, etc.),CI/CD(Gitlab)Secondary SkillsStreaming (Kafka),Python,Pyspark, Control-MJDData Engineers who are experts in Azure and Snowflake with design and implementation in Azure and Snowflake .Within Azure, team heavily use ADF, Databricks, Streaming, Batch processing, Key Vault, and Blob Storage.",
+        "source": "Email",
+        "date_posted": "2024-09-30 13:14:27-05:00",
+        "unique_id": "1924423afcce030c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

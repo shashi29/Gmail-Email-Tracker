@@ -1,0 +1,91 @@
+[
+    {
+        "company": "epeopletech",
+        "job_title": "Lead Snowflake Data Engineer",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "SQL optimization",
+                "ETL/ELT tools",
+                "Python",
+                "Java",
+                "Scala"
+            ],
+            "primary": [
+                "Data modeling",
+                "Performance tuning",
+                "Apache Airflow",
+                "Talend",
+                "Informatica",
+                "Data governance",
+                "Security",
+                "Compliance"
+            ],
+            "secondary": [
+                "Leadership",
+                "Communication",
+                "Analytical skills",
+                "Problem-solving",
+                "Collaboration"
+            ],
+            "all": [
+                "Snowflake",
+                "SQL optimization",
+                "ETL/ELT tools",
+                "Python",
+                "Java",
+                "Scala",
+                "Data modeling",
+                "Performance tuning",
+                "Apache Airflow",
+                "Talend",
+                "Informatica",
+                "Data governance",
+                "Security",
+                "Compliance",
+                "Leadership",
+                "Communication",
+                "Analytical skills",
+                "Problem-solving",
+                "Collaboration"
+            ],
+            "with_experience": [
+                "Snowflake (10+ years)",
+                "Data engineering (10+ years)",
+                "Leadership (3-4 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ekta Chaudhary",
+        "email": "ekta@epeopletech.com",
+        "jd": "From: Ekta Chaudhary, epeopletech ekta@epeopletech.com Reply to: ekta@epeopletech.com Hi,We have an urgent opening with \u201cLead Snowflake Data Engineer \u201d .and I have sent you job description, please go through it and let me know your comfort with it and also send me your updated resume ASAP Position: Lead Snowflake Data Engineer Location: 255 Baldwin Road, Suite 205, Parsippany, NJ 07054Duration: Contract Core Responsibilities:Lead the design, development, and implementation of data pipelines on the Snowflake platform.Mentor and guide a team of data engineers in best practices and technical skills.Collaborate with data architects and stakeholders to define data requirements and ensure alignment with business goals.Optimize data workflows and troubleshoot performance issues.Defination,architecture,validation and implementation of data pipelines for party cloud platformData modeling oriented to specific business requirements and projectsOptimization for EDW snowflake platform such as improve performance, Reduce consumption, and explode technical capabilities, simplifying data models.Development of data pipelines of automation including query refactoring, Framework Migration, DBT Airflow Development.Data Democratization and self serviceAnalyze current Data framework for business analytics reporting, implement best practices and governance process implementationRequired Skills:Extensive experience with Snowflake, including data modeling, SQL optimization, and performance tuning.Proficiency in ETL/ELT tools (e.g., Apache Airflow, Talend, Informatica).Strong programming skills in languages such as Python, Java, or Scala.Familiarity with data governance, security, and compliance best practices.Experience:10+ years of experience in data engineering or related fields, with at least 3-4 years in a leadership role.Proven track record of managing complex data projects from inception to delivery.Certifications:Snowflake Certified Data Engineer or relevant Snowflake certifications.Additional certifications in cloud platforms (AWS, Azure, or GCP) are a plus.Soft Skills:Excellent leadership and communication skills.Strong analytical and problem-solving abilities.Ability to work collaboratively in a fast-paced environment.",
+        "source": "Email",
+        "date_posted": "2024-09-30 12:20:49-05:00",
+        "unique_id": "1924452016693f4d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

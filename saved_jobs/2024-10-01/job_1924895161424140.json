@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "experience_required": "8+ years",
             "degree_required": "Not specified",
@@ -29,9 +30,8 @@
                 "SAP S/4HANA"
             ],
             "primary": [
-                "SAP Basis",
-                "ABAP",
-                "PI/PO",
+                "technical architecture",
+                "cross-functional team leadership",
                 "cloud-based SAP environments",
                 "Agile methodologies",
                 "SAP Activate"
@@ -39,9 +39,13 @@
             "secondary": [
                 "PMP",
                 "ITIL",
-                "third-party system integrators",
-                "contract negotiation",
-                "performance tracking"
+                "SAP Certification",
+                "Basis",
+                "ABAP",
+                "PI/PO",
+                "middleware",
+                "Azure",
+                "AWS"
             ],
             "all": [
                 "SAP project management",
@@ -50,17 +54,28 @@
                 "vendor management",
                 "SAP ECC",
                 "SAP S/4HANA",
-                "SAP Basis",
-                "ABAP",
-                "PI/PO",
+                "technical architecture",
+                "cross-functional team leadership",
                 "cloud-based SAP environments",
                 "Agile methodologies",
                 "SAP Activate",
                 "PMP",
                 "ITIL",
-                "third-party system integrators",
-                "contract negotiation",
-                "performance tracking"
+                "SAP Certification",
+                "Basis",
+                "ABAP",
+                "PI/PO",
+                "middleware",
+                "Azure",
+                "AWS"
+            ],
+            "with_experience": [
+                "SAP project management",
+                "SAP systems integration",
+                "resource management",
+                "vendor management",
+                "SAP ECC",
+                "SAP S/4HANA"
             ]
         },
         "job_type": [
@@ -73,8 +88,9 @@
         "date_posted": "2024-10-01 09:56:46-05:00",
         "unique_id": "1924895161424140",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

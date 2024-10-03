@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Brainbolt Consulting",
+        "job_title": "Technical Project Manager",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Scrum Master",
+                "Software Engineering",
+                "Communication",
+                "Distributed Systems"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Scrum Master",
+                "Software Engineering",
+                "Communication",
+                "Distributed Systems"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Pradeep",
+        "email": "pradeep@brainboltconsulting.com",
+        "jd": "Hi,\nTitle: Technical Project Manager\nLocation: Remote\nDuration: Long Term\nExperience : 10+\nJ.D:\nNOTE: Basically a scrum master with technical background. - managing large enterprise-wide projects- \u2060must have worked a a software engineer- \u2060ability to communicate with client and with developers- \u2060aware of distributed systems",
+        "source": "Email",
+        "date_posted": "2024-10-01 16:05:16-05:00",
+        "unique_id": "1924ce2d86c7711d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

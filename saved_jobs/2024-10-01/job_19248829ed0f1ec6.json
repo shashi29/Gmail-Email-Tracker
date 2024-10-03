@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "10+ years",
@@ -28,15 +29,12 @@
                 "HTML"
             ],
             "primary": [],
-            "secondary": [
-                "good communication skills"
-            ],
+            "secondary": [],
             "all": [
                 "Google Monitoring Metrics collection",
                 "PromQL",
                 "Grafana",
-                "HTML",
-                "good communication skills"
+                "HTML"
             ],
             "with_experience": [
                 "Google Monitoring Metrics collection",
@@ -55,7 +53,8 @@
         "date_posted": "2024-10-01 09:35:36-05:00",
         "unique_id": "19248829ed0f1ec6",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
         "tag": "GCP Data Engineer"
     }

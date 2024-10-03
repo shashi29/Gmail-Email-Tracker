@@ -1,0 +1,56 @@
+[
+    {
+        "company": "Adventa tech",
+        "job_title": "Data Engineer",
+        "location": "Mclean, VA, USA",
+        "full_location": {
+            "city": "Mclean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "9 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "SQL"
+            ],
+            "primary": [
+                "Unit Testing"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "AWS",
+                "SQL",
+                "Unit Testing"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sradha Suman Nayak",
+        "email": "sradha@adventatech.com",
+        "jd": "From: Sradha Suman Nayak, Adventa tech sradha@adventatech.com Reply to: sradha@adventatech.com Job Title: Data EngineerLocation: Onsite Mclean, VADuration: 9 MonthsMode of Interview: SkypeVisa : H1BNote: LinkedIn id Visa and DLLinkedIn and Resume should be aligningNeed candidate with 7+ years of experienceNeed local candidates or relocation is possible Need candidate from trusted 3rd party with a fixed margin Job Description:Must Have Skills:PythonAWSSQLUnit Testing",
+        "source": "Email",
+        "date_posted": "2024-10-02 11:42:17-05:00",
+        "unique_id": "1924e208a30c2b89",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

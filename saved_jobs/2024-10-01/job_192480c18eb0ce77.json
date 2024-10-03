@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
@@ -33,10 +34,10 @@
                 "OpenShift",
                 "Spring framework",
                 "Angular",
-                "React",
-                "GIT"
+                "React"
             ],
             "secondary": [
+                "GIT",
                 "Kafka",
                 "Streaming Technology",
                 "Splunk",
@@ -82,8 +83,9 @@
         "date_posted": "2024-10-01 07:27:17-05:00",
         "unique_id": "192480c18eb0ce77",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "Java Dev"
+        "tag": "Java developer"
     }
 ]

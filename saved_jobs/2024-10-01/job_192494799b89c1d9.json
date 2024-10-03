@@ -1,0 +1,59 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "GCP Devops Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Monitoring Metrics collection",
+                "PromQL",
+                "Grafana"
+            ],
+            "primary": [
+                "HTML"
+            ],
+            "secondary": [
+                "good communication skills"
+            ],
+            "all": [
+                "Google Monitoring Metrics collection",
+                "PromQL",
+                "Grafana",
+                "HTML",
+                "good communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "John Papatla",
+        "email": "john.p@siriinfo.com",
+        "jd": "From: John Papatla, siri info solutions.inc john.p@siriinfo.com Reply to: john.p@siriinfo.com Passport Number & GCP Certification Is Must For Submission! Hello,Hope you are doing well!! Greeting from Siri Info Solutions.I am John with Siri Info Solutions. We Siri Info Solutions is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have an immediate opening for the below position with one of our premium clients. Job title: GCP Devops EngineerWork Location: Charlotte, NC 28202 (Onsite)Contract: Long term Must Have: Experience with Google Monitoring Metrics collection.Experience with PromQL (Prometheus Query Language)Experience with GrafanaExperience with HTML to leverage visualization in GrafanaCandidate should have good communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:11:56-05:00",
+        "unique_id": "192494799b89c1d9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

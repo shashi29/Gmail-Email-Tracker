@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Tanisha Systems",
+        "job_title": "OpenText Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Exstream",
+                "Cloud Native",
+                "microservice",
+                "batch processing"
+            ],
+            "primary": [
+                "configuration",
+                "development",
+                "integration testing",
+                "production rollout support",
+                "runtime orchestration"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Exstream",
+                "Cloud Native",
+                "microservice",
+                "batch processing",
+                "configuration",
+                "development",
+                "integration testing",
+                "production rollout support",
+                "runtime orchestration"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nitin Singh",
+        "email": "nitin.singh@tanishasystems.com",
+        "jd": "From: Nitin, Tanisha Systems nitin.singh@tanishasystems.com Reply to: nitin.singh@tanishasystems.com Configuration, development, integration testing, and production rollout support. Experience with migration to legacy Exstream to Exstream Cloud Native (CN).Project Details: Assist, facilitate, and, design CN configuration, install and configure CN, work with team to setup a Business Enablement communication workflow. Design and facilitate configuration of migration of components from lower environment to production. Develop Java CN API, microservice, and setup runtime orchestration, and focus on batch processing.",
+        "source": "Email",
+        "date_posted": "2024-10-02 09:57:36-05:00",
+        "unique_id": "1924dbcf9f0f54c7",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

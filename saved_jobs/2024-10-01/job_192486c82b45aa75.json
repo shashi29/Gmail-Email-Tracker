@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
@@ -33,12 +34,12 @@
                 "Stakeholder Management",
                 "Risk Management",
                 "Budget Management",
-                "Customer Service"
+                "Resource Management"
             ],
             "secondary": [
+                "Customer Service",
                 "Analytical Skills",
                 "Adaptability",
-                "Relationship Building",
                 "Problem Solving",
                 "Best Practices"
             ],
@@ -52,10 +53,10 @@
                 "Stakeholder Management",
                 "Risk Management",
                 "Budget Management",
+                "Resource Management",
                 "Customer Service",
                 "Analytical Skills",
                 "Adaptability",
-                "Relationship Building",
                 "Problem Solving",
                 "Best Practices"
             ]
@@ -70,8 +71,9 @@
         "date_posted": "2024-10-01 09:10:10-05:00",
         "unique_id": "192486c82b45aa75",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

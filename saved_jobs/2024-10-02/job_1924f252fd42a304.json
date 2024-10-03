@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Wells Fargo",
+        "job_title": ".Net Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "VB.net",
+                "C#.NET",
+                "MS SQL",
+                "PL SQL",
+                ".NET Core"
+            ],
+            "primary": [
+                "SQL Server Integration Services (SSIS)",
+                "SSRS",
+                "Power BI",
+                "Agile"
+            ],
+            "secondary": [],
+            "all": [
+                "VB.net",
+                "C#.NET",
+                "MS SQL",
+                "PL SQL",
+                ".NET Core",
+                "SQL Server Integration Services (SSIS)",
+                "SSRS",
+                "Power BI",
+                "Agile"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Alka",
+        "email": "alka@abcinc-us.com",
+        "jd": "From: alka, Allied Business Consulting alka@abcinc-us.com Reply to: alka@abcinc-us.com Position: .Net DeveloperClient: Wells FargoLocation: Charlotte, NCContract Type: W2 Contract Long termVisa Status: All Visas except H1, OPT,CPT Participate in low to moderately complex initiatives and projects associated with the technology domain, including installation, upgrades, and deployment efforts.Identify opportunities for service quality and availability improvements within the technology domain environmentDesign, code, test, debug, and document for low to moderately complex projects and programs associated with technology domain, including upgrades and deploymentsReview and analyze technical assignments or challenges that are related to low to medium risk deliverables and that require research, evaluation, and selection of alternative technology domainsPresent recommendations for resolving issues or may escalate issues as needed to meet established service level agreements.Exercise some independent judgment while also developing understanding of given technology domain in reference to security and compliance requirements.Provide information to technology colleagues, internal partners, and stakeholders. Required Qualifications:7+ years of software engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, education5+ years of VB.net experience, C#.NET experience, or a combination of both3+ years of MS SQL/ PL SQL server experience2+ years of SQL Server Integration Services (SSIS) experience, SSRS/ Power BI experience2+ years of .NET Core experience2+ years of experience with Agile in a development environment",
+        "source": "Email",
+        "date_posted": "2024-10-02 16:32:13-05:00",
+        "unique_id": "1924f252fd42a304",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Vkore Solutions",
+        "job_title": "AWS CLOUD ENGINEER",
+        "location": "Los Angeles, CA, USA",
+        "full_location": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "AWS services"
+            ],
+            "primary": [
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD practices"
+            ],
+            "secondary": [
+                "Data integration",
+                "Data transformation",
+                "Data processing techniques",
+                "Data storage",
+                "Data retrieval mechanisms"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "AWS services",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD practices",
+                "Data integration",
+                "Data transformation",
+                "Data processing techniques",
+                "Data storage",
+                "Data retrieval mechanisms"
+            ],
+            "with_experience": [
+                "Java (12+ years)",
+                "Python (12+ years)",
+                "AWS Lambda (12+ years)",
+                "AWS services (12+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Mohit",
+        "email": "mohit@vkoresolutions.com",
+        "jd": "Job Description:At Least Having 12+ Years of Experience.Proficiency in Java or Python, with a strong background in developing cloud-native applications.Experience with server less architectures, specifically AWS Lambda, and familiarity with other AWS services such as API Gateway, Athena, Glue and S3.Extensive experience with AWS cloud development and managing cloud-native components.How Data is Transferred in AWS during Real-Time.Working experience on queues, Kafka.Hand on experience in Real Time Data Processing with AWS servicesStrong understanding of data integration, transformation, and processing techniques.Solid grasp of CI/CD practices and tools relevant to data engineering.In-depth understanding of data storage and retrieval mechanisms using AWS services.",
+        "source": "Email",
+        "date_posted": "2024-10-02 12:17:54-05:00",
+        "unique_id": "1924e3fa2d1f14cb",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

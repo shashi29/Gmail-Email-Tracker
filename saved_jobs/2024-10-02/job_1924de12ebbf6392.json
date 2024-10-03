@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Winorbit Technology LLC",
+        "job_title": "Data Engineer with Apache Calcite",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Apache Calcite"
+            ],
+            "primary": [
+                "ETL tools",
+                "database connectors"
+            ],
+            "secondary": [
+                "data integration",
+                "data access",
+                "query optimization",
+                "semantic layer"
+            ],
+            "all": [
+                "Apache Calcite",
+                "ETL tools",
+                "database connectors",
+                "data integration",
+                "data access",
+                "query optimization",
+                "semantic layer"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mayank Bijlwan",
+        "email": "mayank.b@winorbittech.com",
+        "jd": "Dear Partners,\nHope you are doing great.\nPlease find below job requirement and share the details and resumes if you have any matching resources.\n\nData Engineer with Apache Calcite\nVisa: USC, GC, H4EAD, GCEAD\n\nProject Overview:\nThis project aims to implement a semantic layer over multiple disparate data sources\u2014Epicor, Shop Floor Connect, and Visibility\u2014by leveraging Apache Calcite's schema discovery capabilities. The semantic layer will provide a unified, business-friendly view of the data, simplifying data access for end-users such as sales representatives, managers, and analysts.\n\nProject Objectives:\n\u2022 Automatic Detection of Data Structures: Utilize Apache Calcite's schema discovery to automatically understand the structure of the underlying databases, reducing manual effort.\n\u2022 Unified View of Disparate Systems: Create a unified logical schema that integrates data from Epicor, Shop Floor Connect, and Visibility.\n\u2022 Mapping Business Concepts to Data: Map business concepts onto the underlying technical data structures to build a semantic layer.\n\u2022 Simplifying Query Creation and Optimization: Provide an easy-to-use interface for querying data without needing technical knowledge.\n\u2022 Federated Queries Across Multiple Data Sources: Enable retrieval and joining of data from different databases in a single query.\n\u2022 Enhancing Flexibility and Scalability: Ensure the semantic layer adapts dynamically to changes in the underlying data schemas.\n\nProject Scope:\n\u2022 Data Sources:\n  o Epicor: Sales and financial data.\n  o Shop Floor Connect: Production data.\n  o Visibility: Business intelligence and reporting data.\n\u2022 Technologies: Apache Calcite, database connectors, and ETL tools as needed.\n\u2022 Deliverables: Operational semantic layer, documentation, training materials, and deployment plans.",
+        "source": "Email",
+        "date_posted": "2024-10-02 10:33:34-05:00",
+        "unique_id": "1924de12ebbf6392",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

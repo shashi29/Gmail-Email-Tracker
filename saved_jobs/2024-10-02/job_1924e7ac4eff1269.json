@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Ideate Technologies",
+        "job_title": "ETL/DBT Developer",
+        "location": "Trenton, NJ, USA",
+        "full_location": {
+            "city": "Trenton",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor's or master's degree in computer science, data science, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "ETL",
+                "dbt"
+            ],
+            "primary": [
+                "Apache Airflow",
+                "AWS",
+                "data transformation",
+                "data modeling",
+                "data warehousing"
+            ],
+            "secondary": [
+                "Python",
+                "R",
+                "Looker",
+                "Git",
+                "data governance",
+                "data security"
+            ],
+            "all": [
+                "SQL",
+                "ETL",
+                "dbt",
+                "Apache Airflow",
+                "AWS",
+                "data transformation",
+                "data modeling",
+                "data warehousing",
+                "Python",
+                "R",
+                "Looker",
+                "Git",
+                "data governance",
+                "data security"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dilip",
+        "email": "dilip.c@ideatetechnologies.com",
+        "jd": "From: Dilip, Ideatetechnologies dilip.c@ideatetechnologies.com Reply to: dilip.c@ideatetechnologies.com Hi All,Hope you are doing wellPlease fidn the JD and let me know your Interest.Job Title: ETL/DBT Developer with (Apache Airflow, AWS)Job Location: Trenton, NJJob Role: Onsite Duration: 12 MonthsSQL and ETL are mandatory. Good to have DBT experience.DescriptionStrong proficiency in SQL and experience working with relational databases.3+ years of experience using dbt for data transformation and modeling in a data warehouse environment (e.g., Snowflake, BigQuery, Redshift).7+ years of experience building business rules using a business rules engine similar to dbtFamiliarity with version control systems (e.g., Git) and code collaboration workflows.Excellent data analysis and problem-solving skills.Strong attention to detail and a commitment to data quality.Understanding of data warehousing concepts and best practices.Knowledge of data governance and data security principles.Effective communication and collaboration skills to work with diverse teams.Experience with other data tools and languages (e.g., Python, R, Looker)Bachelor's or master's degree in computer science, data science, or a related field.",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:26:04-05:00",
+        "unique_id": "1924e7ac4eff1269",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

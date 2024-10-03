@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Metasys Technologies",
+        "job_title": "Sr. Java Developer",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+Month Contract",
+            "rate": "$52/hr on C2C",
+            "job_code": "",
+            "contact_person": "Ankit Yadav",
+            "email": "ayadav@metasysinc.com"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL"
+            ],
+            "primary": [
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD"
+            ],
+            "secondary": [
+                "DevOps practices"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL",
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD",
+                "DevOps practices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ankit Yadav",
+        "email": "ayadav@metasysinc.com",
+        "jd": "From: Ankit Yadav, Metasys Technologies ayadav@metasysinc.com Reply to: ayadav@metasysinc.com Job Title: Sr. Java Developer Location: Parsippany, NJ (In-person interview) Need local only Contract: 6+Month Contract Pay Rate- $52/hr on C2C Sr. Java Developer knowledgeable in Spring Framework, Spring Boot, and SQL Responsibilities Develop, test, and maintain Java applications using Spring Framework and Spring Boot. Implement and optimize SQL queries for application functionality. Collaborate with cross-functional teams to design and implement new features. Manage application deployment and support in a CI/CD environment. Troubleshoot and resolve production issues. Requirements Strong proficiency in Java, Spring Framework, Spring Boot, and SQL. Familiarity with OpenShift, WebLogic Application Server, and Oracle SQL. Experience with Jenkins and CI/CD pipeline integration. Understanding of DevOps practices. Ability to work independently and meet project deadlines.",
+        "source": "Email",
+        "date_posted": "2024-10-02 14:19:03-05:00",
+        "unique_id": "1924ec13f08719e5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

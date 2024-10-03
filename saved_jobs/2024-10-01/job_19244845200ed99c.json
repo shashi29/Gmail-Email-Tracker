@@ -1,0 +1,67 @@
+[
+    {
+        "company": "DMS Vision, INC",
+        "job_title": "Java Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "06 Months CTH",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "CMS Experience",
+                "Azure containers",
+                "Azure functions",
+                "API Development"
+            ],
+            "primary": [
+                "Kubernetes",
+                "Scaling services",
+                "Microservices"
+            ],
+            "secondary": [
+                "Retail experience"
+            ],
+            "all": [
+                "Java",
+                "CMS Experience",
+                "Azure containers",
+                "Azure functions",
+                "API Development",
+                "Kubernetes",
+                "Scaling services",
+                "Microservices",
+                "Retail experience"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vikas Chaudhary",
+        "email": "vikas@dmsvisions.com",
+        "jd": "Hi,Hope you are doing well,Please find the job description given below and let me know your interest.Position: Java DeveloperLocation: Columbus , OH - HybridDuration : 06 Months CTHVisa : USC/GC Only 2 round interviews\u2014Last interview (In person) About Job:We are looking for Java developer with 5-6 years of experience in Java applications design and development. Retail experience is highly preferred Must have:Java CMS Experience (ContentStack or similar) is a mustAzure containers and Azure functionsAzure APIMAPI DevelopmentKubernetes in cloudScaling services in cloudDeveloping and deploying microservices in cloud",
+        "source": "Email",
+        "date_posted": "2024-09-30 15:00:02-05:00",
+        "unique_id": "19244845200ed99c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

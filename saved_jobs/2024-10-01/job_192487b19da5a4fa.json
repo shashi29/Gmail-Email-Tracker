@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "8+ years",
             "degree_required": "Not specified",
@@ -21,18 +23,18 @@
         "skills": {
             "core": [
                 "Oracle DBA",
-                "Installation",
-                "Configuration",
-                "Operations",
-                "Performance tuning"
+                "installation",
+                "configuration",
+                "operations",
+                "performance tuning"
             ],
             "primary": [
-                "Non-RAC",
-                "Multi-node RAC",
+                "non-RAC",
+                "multi-node RAC",
                 "ASM",
                 "OEM",
                 "RMAN",
-                "Data pump",
+                "data pump",
                 "Flashback",
                 "Golden Gate",
                 "Linux",
@@ -41,35 +43,47 @@
                 "Python"
             ],
             "secondary": [
-                "Collaboration",
-                "Mentoring",
-                "Multi-tasking",
-                "Security",
-                "Data compliance"
+                "data movement",
+                "index optimizations",
+                "partitioning",
+                "stats pack",
+                "collaboration",
+                "mentoring",
+                "multi-tasking",
+                "application release support",
+                "Linux patching support",
+                "security",
+                "data compliance"
             ],
             "all": [
                 "Oracle DBA",
-                "Installation",
-                "Configuration",
-                "Operations",
-                "Performance tuning",
-                "Non-RAC",
-                "Multi-node RAC",
+                "installation",
+                "configuration",
+                "operations",
+                "performance tuning",
+                "non-RAC",
+                "multi-node RAC",
                 "ASM",
                 "OEM",
                 "RMAN",
-                "Data pump",
+                "data pump",
                 "Flashback",
                 "Golden Gate",
                 "Linux",
                 "Unix",
                 "Windows PowerShell",
                 "Python",
-                "Collaboration",
-                "Mentoring",
-                "Multi-tasking",
-                "Security",
-                "Data compliance"
+                "data movement",
+                "index optimizations",
+                "partitioning",
+                "stats pack",
+                "collaboration",
+                "mentoring",
+                "multi-tasking",
+                "application release support",
+                "Linux patching support",
+                "security",
+                "data compliance"
             ]
         },
         "job_type": [
@@ -81,7 +95,9 @@
         "source": "Email",
         "date_posted": "2024-10-01 08:57:22-05:00",
         "unique_id": "192487b19da5a4fa",
-        "emp_type": [],
+        "emp_type": [
+            "third party"
+        ],
         "tag": "Oracle DBA"
     }
 ]

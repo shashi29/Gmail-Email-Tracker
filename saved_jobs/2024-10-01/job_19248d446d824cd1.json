@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "10 years",
             "degree_required": "Not specified",
@@ -22,46 +24,54 @@
             "core": [
                 ".Net",
                 "C#",
+                "SQL Server",
                 "JavaScript",
                 "Angular",
                 "Node JS",
                 "React JS",
-                "Azure",
-                "SQL Server",
-                "PL/SQL"
+                "Azure"
             ],
             "primary": [
                 "TMW System",
                 "Design Patterns",
                 "Test Driven Development",
-                "Continuous Integration",
-                "Rest API",
                 "Micro Services",
-                "Cross-platform messaging"
+                "Rest API"
             ],
             "secondary": [
+                "PL/SQL",
                 "No SQL Database",
-                "API gateway"
+                "API gateway",
+                "cross-platform messaging"
             ],
             "all": [
                 ".Net",
                 "C#",
+                "SQL Server",
                 "JavaScript",
                 "Angular",
                 "Node JS",
                 "React JS",
                 "Azure",
-                "SQL Server",
-                "PL/SQL",
                 "TMW System",
                 "Design Patterns",
                 "Test Driven Development",
-                "Continuous Integration",
-                "Rest API",
                 "Micro Services",
-                "Cross-platform messaging",
+                "Rest API",
+                "PL/SQL",
                 "No SQL Database",
-                "API gateway"
+                "API gateway",
+                "cross-platform messaging"
+            ],
+            "with_experience": [
+                ".Net",
+                "C#",
+                "SQL Server",
+                "JavaScript",
+                "Angular",
+                "Node JS",
+                "React JS",
+                "Azure"
             ]
         },
         "job_type": [
@@ -73,7 +83,9 @@
         "source": "Email",
         "date_posted": "2024-10-01 10:39:50-05:00",
         "unique_id": "19248d446d824cd1",
-        "emp_type": [],
-        "tag": ".NET Dev"
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
     }
 ]

@@ -1,0 +1,83 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": "Sr Power BI Developer with Azure exp",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "SSIS",
+                "SSRS",
+                "SSAS",
+                "Power BI",
+                "Azure Services"
+            ],
+            "primary": [
+                "Database management",
+                "Data integration",
+                "Analytical modeling",
+                "SQL Programming",
+                "Scripting",
+                "Stored procedures",
+                "DAX",
+                "MDX",
+                "Data cube development"
+            ],
+            "secondary": [
+                "Critical thinking",
+                "Problem-solving",
+                "Software development life cycle"
+            ],
+            "all": [
+                "SQL",
+                "SSIS",
+                "SSRS",
+                "SSAS",
+                "Power BI",
+                "Azure Services",
+                "Database management",
+                "Data integration",
+                "Analytical modeling",
+                "SQL Programming",
+                "Scripting",
+                "Stored procedures",
+                "DAX",
+                "MDX",
+                "Data cube development",
+                "Critical thinking",
+                "Problem-solving",
+                "Software development life cycle"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rajiv Kumar",
+        "email": "rajiv.kumar@testingxperts.com",
+        "jd": "Role: Azure SQL/BI Developer\nNeed locals to NYC Office.\nLong term\nTravel Requirements: Yes, travel will be required to our NYC office.(No Extra T&E)\n\nDescription:\nSQL BI developer should have a deep knowledge of database management, data integration, and analytical modeling, and expertise in SQL, SSIS, SSRS, SSAS, and other analytical tools. They should also have strong critical thinking and problem-solving capabilities. Experience with Microsoft SQL Server, SQL Programming, scripting, and stored procedures experience.\nExperience with Microsoft SSIS\nExperience with Microsoft Reporting Services (SSRS) / Power BI.\nExperience with Analysis Services / DAX / MDX\nExperience with data cube development and reporting.\nExperience with Power BI\nExperience with Azure Services\nknowledge of software development life cycle.",
+        "source": "Email",
+        "date_posted": "2024-10-02 11:00:04-05:00",
+        "unique_id": "1924dfa14e8c28dd",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

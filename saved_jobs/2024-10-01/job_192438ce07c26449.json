@@ -1,0 +1,54 @@
+[
+    {
+        "company": "GE Health",
+        "job_title": "SQL DBA",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS"
+            ],
+            "primary": [
+                "SQL Server migration"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "AWS",
+                "SQL Server migration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "From: Vinita Singh, Tek Inspirations vinita.singh@tekinspirations.com Reply to: vinita.singh@tekinspirations.com Client : GE Health Job Title: SQL DBA\nLocation: New York, NY\nContract: 6 Month\nVisa : USC / GC Only\nLinkedIn and Local Candidate is Mandatory Need DL and Visa Copy..\n******************LinkedIn and Local Candidate is Mandatory ********************************Need DL and Visa Copy F&B*********************** SQL DBA\nJob Description:\n1. SQL server DBA who has experience of handling sql server on AWS\n2. Database administrator certifications from Microsoft or a reputed organization\n3. Hands on System engineer who can manage extra large databases with high availability, Realtime replication from OLTP and OLAP using distributed database\n4. Ability to troubleshoot sql server issues not limited but covering system locks, fragmentation, index reorganization and rebuild, system logs issues, replication delays, ghost records\n5. Experience in handling swl server migration from on Prem to AWS and from old SQL server version to new SQL server version. Expert in DAG setup and troubleshooting of DAG related issues.\nPrimary Skills: SQL, AWS, SQL Server migration",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:49:36-05:00",
+        "unique_id": "192438ce07c26449",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

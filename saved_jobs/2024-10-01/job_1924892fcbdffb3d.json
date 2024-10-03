@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "10+ years",
@@ -72,8 +73,9 @@
         "date_posted": "2024-10-01 09:54:26-05:00",
         "unique_id": "1924892fcbdffb3d",
         "emp_type": [
-            "full-time"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

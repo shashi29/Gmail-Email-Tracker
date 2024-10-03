@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Pulse Crafts",
+        "job_title": "Java AWS Full-stack developer",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$40-$65/hr (Negotiable)"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS Cloud",
+                "JavaScript"
+            ],
+            "primary": [
+                "Spring",
+                "Data Structure",
+                "Algorithms"
+            ],
+            "secondary": [
+                "ECS far gate",
+                "S3",
+                "DDB",
+                "API Gateway",
+                "Good Data & Database skills"
+            ],
+            "all": [
+                "Java",
+                "AWS Cloud",
+                "JavaScript",
+                "Spring",
+                "Data Structure",
+                "Algorithms",
+                "ECS far gate",
+                "S3",
+                "DDB",
+                "API Gateway",
+                "Good Data & Database skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "abhishek",
+        "email": "abhishek@pulsecrafts.com",
+        "jd": "From: abhishek, Pulse Crafts abhishek@pulsecrafts.com Reply to: abhishek@pulsecrafts.com Need only Local candidateEx:- amazon/mirosoft candidateJob Title: Java AWS Full-stack developerLocation: Seattle, WA(Onsite)Rate :- $40-$65/.hr (Neogatiable) Job Descriptions:- Role Overview:Experience required for this role is 7+ Yrs. The ideal candidate will have: Strong coding skillsAWS Cloud \u2013 ECS far gate, S3, DDB, API, GatewayGood Data & Database skills.Java, J2ee, Spring, Java ScriptProblem solving -Data Structure, Algorithms",
+        "source": "Email",
+        "date_posted": "2024-10-02 15:32:46-05:00",
+        "unique_id": "1924eeec2200ebb6",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

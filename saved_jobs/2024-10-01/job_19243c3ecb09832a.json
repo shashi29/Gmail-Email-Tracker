@@ -1,0 +1,106 @@
+[
+    {
+        "company": "Anveta",
+        "job_title": "Sr. Azure Data Engineer",
+        "location": "San Antonio, TX, USA",
+        "full_location": {
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft Azure",
+                "Azure Data Lake Storage",
+                "Azure Synapse Analytics",
+                "Microsoft SQL",
+                "data modeling"
+            ],
+            "primary": [
+                "data pipelines",
+                "data warehouse",
+                "OLAP concepts",
+                "Azure Spark Pools",
+                "Python"
+            ],
+            "secondary": [
+                "Jupyter Notebook",
+                "Cosmos DB",
+                "CDC tools",
+                "Microsoft PowerBI",
+                "Tableau",
+                "Scaled Agile",
+                "DevOps",
+                "Scrum",
+                "ITIL",
+                "Microsoft SSIS",
+                "SSRS",
+                "SSAS"
+            ],
+            "all": [
+                "Microsoft Azure",
+                "Azure Data Lake Storage",
+                "Azure Synapse Analytics",
+                "Microsoft SQL",
+                "data modeling",
+                "data pipelines",
+                "data warehouse",
+                "OLAP concepts",
+                "Azure Spark Pools",
+                "Python",
+                "Jupyter Notebook",
+                "Cosmos DB",
+                "CDC tools",
+                "Microsoft PowerBI",
+                "Tableau",
+                "Scaled Agile",
+                "DevOps",
+                "Scrum",
+                "ITIL",
+                "Microsoft SSIS",
+                "SSRS",
+                "SSAS"
+            ],
+            "with_experience": [
+                "Microsoft Azure",
+                "Azure Data Lake Storage",
+                "Azure Synapse Analytics",
+                "Microsoft SQL",
+                "data modeling",
+                "data pipelines",
+                "data warehouse",
+                "OLAP concepts",
+                "Azure Spark Pools",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Steve",
+        "email": "steve@anveta.com",
+        "jd": "From: Steve, Anveta steve@anveta.com Reply to: steve@anveta.com Title: Sr. Azure Data Engineer\nLocation: San Antonio TX (Monday - Thursday Onsite, Friday Remote)\nMicrosoft Azure certifications mandatory\nOil & Gas industry experience is plus\n\nJob Description:\nLooking for 10+ years of Azure Data Engineer.\nThe Data & Analytics team is seeking to add a Senior Data Engineer to our data analytics engineering team.\nThe data engineer will be a key contributor in building and maintaining end to end analytics solutions based on Microsoft Azure Cloud and Azure Synapse Analytics.\nDesign, develop, implement, analytics solutions on Microsoft Azure Synapse Analytics Platform.\nProvide trouble shooting, analysis and resolutions on existing solutions for routine production support issues as well as major/minor enhancements.\nUtilize data preparation, integration, storage & analytics tools within the Azure landscape\nDrive toward automation of repeatable data prep tasks to minimize manual data management processes.\nCollaborate and partner with cloud service providers, data science, data governance and other IT and business teams in the process of delivering analytics solutions\nParticipate in MPC\u2019s scaled agile framework for data engineering product delivery by participating in all relevant tasks and ceremonies\nMinimum 5 years of hands-on experience in building data pipelines, data models and maintaining/supporting enterprise data warehouse solutions\nExperience in scaled agile framework for data engineering product delivery\nMust have strong Microsoft SQL experience, data modeling, data warehouse and OLAP concepts.\nMust have strong experience using Azure Data Lake Storage, Azure Synapse Analytics for data warehousing, Azure Spark Pools, Jupyter Notebook, Cosmos DB, CDC tools, Python\nWorking experience and exposure to visualization tools such as Microsoft PowerBI, Tableau desired.\nFamiliarity with Scaled Agile, DevOps, Scrum, and ITIL concepts is a plus\nExperience with Microsoft SSIS, SSRS, SSAS is a plus",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:25:59-05:00",
+        "unique_id": "19243c3ecb09832a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

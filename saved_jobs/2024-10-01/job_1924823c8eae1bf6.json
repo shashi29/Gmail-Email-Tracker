@@ -10,14 +10,15 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "10-17 years",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
             "notice_period": "Not specified",
-            "duration": "Long-Term Contract",
+            "duration": "Long-Term",
             "rate": "Not specified"
         },
         "skills": {
@@ -69,8 +70,9 @@
         "date_posted": "2024-10-01 07:53:10-05:00",
         "unique_id": "1924823c8eae1bf6",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

@@ -1,0 +1,50 @@
+[
+    {
+        "company": "Siriinfo",
+        "job_title": "Java Developer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java"
+            ],
+            "primary": [
+                "Kubernetes"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dushyanth",
+        "email": "dushyanth@siriinfo.com",
+        "jd": "From: Dushyanth, Siriinfo dushyanth@siriinfo.com Reply to: dushyanth@siriinfo.com HiHiring for Java Developer at Boston MA Java +kubernetes - Boston, MAThanks & regardsDushyanth | Sr. IT Recruiter| Email: dushyanth@siriinfo.com",
+        "source": "Email",
+        "date_posted": "2024-10-02 17:55:55-05:00",
+        "unique_id": "1924f71cbc704adf",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

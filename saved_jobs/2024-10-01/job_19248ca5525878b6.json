@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "experience_required": "5+ years",
             "degree_required": "Not specified",
@@ -61,8 +62,7 @@
             "with_experience": [
                 "Infrastructure Engineering (5+ years)",
                 "Terraform (3+ years)",
-                "GCP or Azure (3+ years)",
-                "Cloud Service Offerings (2+ years)"
+                "GCP or Azure (3+ years)"
             ]
         },
         "job_type": [
@@ -75,7 +75,8 @@
         "date_posted": "2024-10-01 10:49:12-05:00",
         "unique_id": "19248ca5525878b6",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "Azure Data Engineer"
     }

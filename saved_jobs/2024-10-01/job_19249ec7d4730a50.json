@@ -1,0 +1,90 @@
+[
+    {
+        "company": "AcuBahn Inc.",
+        "job_title": "AWS Cloud Engineer",
+        "location": "Reston, VA, USA",
+        "full_location": {
+            "city": "Reston",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, Data Science, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS services",
+                "Java",
+                "Python",
+                "Terraform",
+                "AWS CloudFormation",
+                "ETL processes",
+                "SQL",
+                "Oracle query language"
+            ],
+            "primary": [
+                "GitLab",
+                "Unix shell scripting",
+                "Informatica",
+                "data integration",
+                "data modeling"
+            ],
+            "secondary": [
+                "AWS Certified Solutions Architect",
+                "AWS Certified Data Analytics",
+                "Amazon Redshift",
+                "Snowflake",
+                "Hadoop",
+                "Spark",
+                "data governance",
+                "data quality principles"
+            ],
+            "all": [
+                "AWS services",
+                "Java",
+                "Python",
+                "Terraform",
+                "AWS CloudFormation",
+                "ETL processes",
+                "SQL",
+                "Oracle query language",
+                "GitLab",
+                "Unix shell scripting",
+                "Informatica",
+                "data integration",
+                "data modeling",
+                "AWS Certified Solutions Architect",
+                "AWS Certified Data Analytics",
+                "Amazon Redshift",
+                "Snowflake",
+                "Hadoop",
+                "Spark",
+                "data governance",
+                "data quality principles"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Prashanth",
+        "email": "prashanth@acubahn.com",
+        "jd": "From: prashanth, AcuBahn Inc. prashanth@acubahn.com Reply to: prashanth@acubahn.com AWS Cloud EngineerReston, VA - Hybrid Job DescriptionWe are seeking a skilled Cloud Engineer with a strong focus on data engineering and cloud technologies. The ideal candidate will have a robust background in AWS services, programming in Java or Python, and experience with infrastructure as code tools like Terraform and CloudFormation. You will also need to have a solid understanding of data integration, ETL processes, and database management. Proficiency in GitLab, Unix shell scripting, Informatica, and SQL or Oracle query language is essential for this role.Key ResponsibilitiesCloud Infrastructure Management: Design, deploy, and manage AWS cloud environments using services such as EC2, S3, RDS, and Lambda.Infrastructure as Code (IaC): Develop and maintain infrastructure automation scripts using Terraform and AWS CloudFormation.Data Pipeline Development: Build and optimize data pipelines for ETL processes using Informatica, ensuring efficient data flow and transformation.Data Modeling: Design and implement data models to support analytics and reporting needs.Version Control: Utilize GitLab and Bitbucket for source code management and collaboration with development teams.Scripting: Write and maintain Unix shell scripts to automate tasks and improve operational efficiency.Programming: Develop applications and data processing scripts using Java or Python to support data integration and analytics.Database Management: Write and optimize SQL and Oracle queries for data extraction, reporting, and analysis.Collaboration: Work closely with data scientists, analysts, and other stakeholders to understand data requirements and ensure high data quality. Documentation: Maintain comprehensive documentation of systems, processes, and changes. QualificationsEducation: Bachelor\u2019s degree in Computer Science, Information Technology, Data Science, or a related field.Experience: 5+ years of experience in cloud engineering, data engineering, or a related field.AWS Knowledge: Strong knowledge of AWS services and best practices, particularly for data storage and processing.Version Control: Experience with GitLab and Bitbucket.Infrastructure as Code: Proficiency in Terraform and AWS CloudFormation.Data Engineering Skills: Experience with data modeling, ETL processes, and data warehousing concepts.Programming Skills: Strong programming knowledge in Java or Python for automation and data processing tasks.Scripting: Proficient in Unix shell scripting for automation purposes.Data Tools: Familiarity with Informatica for ETL processes and data integration.Database Skills: Strong SQL and/or Oracle query language skills.Problem-Solving: Excellent analytical and troubleshooting skills.Communication: Strong verbal and written communication skills. Preferred QualificationsAWS certifications (e.g., AWS Certified Solutions Architect, AWS Certified Data Analytics).Experience with data warehousing solutions (e.g., Amazon Redshift, Snowflake,Informatica).Familiarity with big data technologies (e.g., Hadoop, Spark) is a plus.Understanding of data governance and data quality principles.",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:48:32-05:00",
+        "unique_id": "19249ec7d4730a50",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

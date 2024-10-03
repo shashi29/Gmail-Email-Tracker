@@ -10,8 +10,10 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
+            "job_code": "",
             "experience_required": "10+ years",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
@@ -21,30 +23,23 @@
         },
         "skills": {
             "core": [
-                "Project Management",
-                "IT Data Governance",
-                "Data Warehouse Implementation",
-                "Procurement",
-                "Vendor Management",
-                "Multi-projects Management"
+                "Project Management"
             ],
-            "primary": [],
+            "primary": [
+                "IT Data Governance",
+                "Data Warehouse Implementation/Solicitation",
+                "Procurement (RFP/SOW)",
+                "Vendor Management",
+                "Multi-projects and/or Program Management"
+            ],
             "secondary": [],
             "all": [
                 "Project Management",
                 "IT Data Governance",
-                "Data Warehouse Implementation",
-                "Procurement",
+                "Data Warehouse Implementation/Solicitation",
+                "Procurement (RFP/SOW)",
                 "Vendor Management",
-                "Multi-projects Management"
-            ],
-            "with_experience": [
-                "Project Management (10+ years)",
-                "IT Data Governance (2 years)",
-                "Data Warehouse Implementation (2 years)",
-                "Procurement (1 year)",
-                "Vendor Management (1 year)",
-                "Multi-projects Management (1 year)"
+                "Multi-projects and/or Program Management"
             ]
         },
         "job_type": [
@@ -57,8 +52,9 @@
         "date_posted": "2024-09-30 17:59:42-05:00",
         "unique_id": "19245e0644150863",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

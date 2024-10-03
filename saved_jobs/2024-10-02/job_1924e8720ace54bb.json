@@ -1,0 +1,101 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "Cockroach DBA",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months + extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cockroach DB",
+                "Database Administration",
+                "Scripting/automation tooling",
+                "CI/CD",
+                "Cloud experience"
+            ],
+            "primary": [
+                "Debugging skills",
+                "Installation and configuration of distributed databases",
+                "Performance tuning",
+                "Monitoring and troubleshooting",
+                "REST APIs"
+            ],
+            "secondary": [
+                "MongoDB",
+                "NoSQL",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Datadog",
+                "Grafana",
+                "Prometheus",
+                "ServiceNow",
+                "Udeploy",
+                "JIRA",
+                "Confluence",
+                "Jenkins",
+                "Git",
+                "ECS",
+                "Docker"
+            ],
+            "all": [
+                "Cockroach DB",
+                "Database Administration",
+                "Scripting/automation tooling",
+                "CI/CD",
+                "Cloud experience",
+                "Debugging skills",
+                "Installation and configuration of distributed databases",
+                "Performance tuning",
+                "Monitoring and troubleshooting",
+                "REST APIs",
+                "MongoDB",
+                "NoSQL",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Datadog",
+                "Grafana",
+                "Prometheus",
+                "ServiceNow",
+                "Udeploy",
+                "JIRA",
+                "Confluence",
+                "Jenkins",
+                "Git",
+                "ECS",
+                "Docker"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rishabh Singh",
+        "email": "rishabh.singh@tekinspirations.com",
+        "jd": "Job Description -Position:Cockroach DBA Duration: 12 months + extensionsLocation: Onsite every other week (5x per week, 2 weeks per month) in one of the following locations:Dallas, TXBoston, MASmithfield, RIMerrimack, NHJersey City, NJChicago, ILCovington, KY / Cincinnati, OHSalt Lake City, UTRequired Skills & Experience- 5+ years of experience as a DBA- 2+ years of experience with Cockroach DB (experience building out, troubleshooting, performance tuning, production support, high availability monitoring, etc.)- Experience in installation, configuration, monitoring & troubleshooting large scale distributed databases- Debugging skills & ability to troubleshoot methodically, identifying & applying fixes for known errors, capacity to think outside of the box to resolve complex issues- Scripting/automation tooling (bash/python/Ansible/Terraform) experience- Experienced in CI/CD, DevOps using tools like Udeploy, JIRA, Confluence, Jenkins, Git, ECS, Docker- Experience with Datadog, Grafana, Prometheus & integration with ServiceNow- Cloud experience with AWS, Azure, or GCP - Knowledge in REST APIs, ability to read documentation & make calls to read or write data using API- MongoDB / NoSQL database skills preferred DescriptionAs a Database Administrator/Engineer, you will bring your technology expertise, design and administration skills to create unique state-of-the-art database systems. We are looking for an individual who has a passion for technology tempered by a level-headed approach to problem solving and broad experience in diverse technologies. You will bring a hunger for problem solving and desire to understand and play with newer technologies and business ideas. Day to day, you will be responsible for the design, configuration and monitoring very large-scale database system including Relational databases, NoSQL and in memory databases. You will also be working in tandem with database administrators and data engineers across the organization.",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:39:34-05:00",
+        "unique_id": "1924e8720ace54bb",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

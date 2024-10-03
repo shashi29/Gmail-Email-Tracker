@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Avance Services",
+        "job_title": "Java Lead",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Spring Boot"
+            ],
+            "primary": [
+                "React JS"
+            ],
+            "secondary": [
+                "Automation testing",
+                "React framework",
+                "Kafka"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "React JS",
+                "Automation testing",
+                "React framework",
+                "Kafka"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bhavya Rapelli",
+        "email": "bhavya.r@avanceservices.com",
+        "jd": "From: Bhavya Rapelli, Avance Services bhavya.r@avanceservices.com Reply to: bhavya.r@avanceservices.com Java LeadNew York-Onsite Skill:Java, Microservices, Spring Boot, React JS NEED SKILL MATRIX IN RESUMES:Engineer II (Full Stack) SkillMandatoryProficiency Level (1-5)Java Script/Microservices Spring Boot, React/React JS Automation testing React framework Kafka",
+        "source": "Email",
+        "date_posted": "2024-10-01 14:10:18-05:00",
+        "unique_id": "192497d07bff2d0d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

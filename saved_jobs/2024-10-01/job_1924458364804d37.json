@@ -1,0 +1,89 @@
+[
+    {
+        "company": "SPAR INFORMATION SYSTEMS",
+        "job_title": "Senior .NET Developer",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft .Net Core",
+                "Microsoft C#",
+                "SQL Server: Transact-SQL",
+                "Azure App Insights",
+                "Redgate SQL Tools"
+            ],
+            "primary": [
+                "Microsoft Web forms",
+                "Microsoft ADO pipelines",
+                "Microsoft Azure Data Factory",
+                "ORM such as Entity Framework and/or Dapper",
+                "Angular (Components & Typescript)",
+                "Query Optimization",
+                "Change data capture",
+                "SDLC: Agile",
+                "CI/CD with ADO pipelines"
+            ],
+            "secondary": [
+                "Systems Analysis",
+                "Experience with large datasets",
+                "Contribute to story creation, refinement, and planning"
+            ],
+            "all": [
+                "Microsoft Web forms",
+                "Microsoft .Net Core",
+                "Microsoft C#",
+                "Microsoft ADO pipelines",
+                "Microsoft Azure Data Factory",
+                "ORM such as Entity Framework and/or Dapper",
+                "Angular (Components & Typescript)",
+                "SQL Server: Transact-SQL",
+                "Query Optimization",
+                "Experience with large datasets",
+                "Change data capture",
+                "SDLC: Agile",
+                "CI/CD with ADO pipelines",
+                "Systems Analysis",
+                "Redgate SQL Tools",
+                "Azure App Insights"
+            ],
+            "with_experience": [
+                "Microsoft .Net Core",
+                "Microsoft C#",
+                "SQL Server: Transact-SQL",
+                "Azure App Insights",
+                "Redgate SQL Tools"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abhi",
+        "email": "abhi@sparinfosys.com",
+        "jd": "LOCALS TO SAN FRANCISCO OR DENVER ONLY with LOCAL ID. Hi, Please find the job description below and let me know your interest. Title: Senior .NET Developer\nDuration: Contract\nWork Location: Day 1 Onsite-San Francisco, CA or Denver, CO (Candidate needs to work 3 Days at the client Office)\nThe resource will be the first developer on a newly formed team and must demonstrate autonomy, a strong willingness to learn business processes, and a proactive approach to tackling complex business challenges. The ideal resource should have experience in systems analysis and troubleshooting, utilizing Azure App Insights (or similar tools) and Redgate SQL tools. They should also be capable of developing plans and processes to minimize downtime and manage system or server stress. Development technologies including: Microsoft Web forms, Microsoft .Net Core, Microsoft C#, Microsoft ADO pipelines, Microsoft Azure Data Factory, ORM such as Entity Framework and/or Dapper, Angular (Components & Typescript), SQL Server: Transact-SQL including complex queries, stored procedures and functions, Query Optimization, Experience with large datasets, Change data capture, SDLC: Agile and all Scrum ceremonies, Contribute to story creation, refinement, and planning, CI/CD with ADO pipelines (Gitflow branching, pull requests), Systems Analysis: Redgate SQL Tools, Azure App Insights.",
+        "source": "Email",
+        "date_posted": "2024-09-30 12:16:24-05:00",
+        "unique_id": "1924458364804d37",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

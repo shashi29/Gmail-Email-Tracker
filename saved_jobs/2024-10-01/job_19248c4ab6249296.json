@@ -10,9 +10,9 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
-            "job_code": "",
             "experience_required": "10+ years",
             "degree_required": "Not specified",
             "visa_sponsorship": "Not specified",
@@ -80,6 +80,15 @@
                 "Linux Servers",
                 "source control tools",
                 "Financial Services Companies"
+            ],
+            "with_experience": [
+                ".Net",
+                "C#.NET",
+                "Kafka",
+                "Data Modeling",
+                "microservices development",
+                "API enablement",
+                "Mongo DB"
             ]
         },
         "job_type": [
@@ -92,8 +101,9 @@
         "date_posted": "2024-10-01 10:39:55-05:00",
         "unique_id": "19248c4ab6249296",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": ".NET Dev"
+        "tag": ".net developer"
     }
 ]

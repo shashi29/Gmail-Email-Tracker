@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Rurisoft technologies",
+        "job_title": "MS SQL Developer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MySQL",
+                "MSSQL",
+                "PostgreSQL",
+                "SQL",
+                "Unix shell scripting"
+            ],
+            "primary": [
+                "GIT",
+                "AWS",
+                "Jira",
+                "GitHub",
+                "Teradata",
+                "ETL",
+                "Qlik",
+                "Tableau"
+            ],
+            "secondary": [],
+            "all": [
+                "MySQL",
+                "MSSQL",
+                "PostgreSQL",
+                "SQL",
+                "Unix shell scripting",
+                "GIT",
+                "AWS",
+                "Jira",
+                "GitHub",
+                "Teradata",
+                "ETL",
+                "Qlik",
+                "Tableau"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "suma",
+        "email": "suma@rurisoft.com",
+        "jd": "From: suma, Rurisoft technologies suma@rurisoft.com Reply to: suma@rurisoft.com MS SQL Developer\nLocation : Irving, TX\n\nMUST HAVE SKILLS (Most Important):\n\u2022 Minimum 8 years of experience with MySQL, MSSQL, and PostgreSQL\n\u2022 Proficient in understanding and creating complex SQL queries\n\u2022 Knowledge of version control practices and procedures (GIT)\n\u2022 Highly proficient in SQL developer activities and multi-task to work in other technologies (Teradata/MS SQL Server)\n\u2022 Experience in Unix shell scripting\n\nADDITIONAL SKILLS\n\u2022 Expertise in managing PostgreSQL, MS SQL server with strong SQL programming skills.\n\u2022 Experience in AWS cloud technologies like S3, EC2 etc.\n\u2022 Experience in Jira and GitHub and other devops tools.\n\u2022 Experience in MS SQL server\n\u2022 Teradata Experience with ETL and tools like Microsoft ETL.\n\u2022 Exposure to any reporting tool set like Qlik or Tableau\n\nJOB DUTIES:\nPosition will be responsible specific to (1) Designing database tables and structures. (2) Creating views, functions, triggers, stored procedures, and packages. (3) Research complex SQL/Postgres programs and address data issues. (4) Provide batch application support. (5) Build new ETL workflow in Teradata and unix (6) Work with the onshore and offshore team in application design and build using the technologies defined in the must have skills (7) Communicate status of the activities effectively with management or clients",
+        "source": "Email",
+        "date_posted": "2024-10-02 11:47:08-05:00",
+        "unique_id": "1924eb8c0a885e2e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

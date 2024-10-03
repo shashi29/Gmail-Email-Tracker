@@ -1,0 +1,71 @@
+[
+    {
+        "company": "TechSource Inc",
+        "job_title": "Software Engineer (Bloomberg Data License)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Bloomberg",
+                "Data License",
+                "SQL",
+                "C#",
+                ".Net"
+            ],
+            "primary": [
+                "Bloomberg APIs",
+                "Data Manipulation",
+                "Software Implementation",
+                "SQL Server Integration Services"
+            ],
+            "secondary": [
+                "good communication",
+                "Written skills"
+            ],
+            "all": [
+                "Bloomberg",
+                "Data License",
+                "SQL",
+                "C#",
+                ".Net",
+                "Bloomberg APIs",
+                "Data Manipulation",
+                "Software Implementation",
+                "SQL Server Integration Services",
+                "good communication",
+                "Written skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sumit Sharma",
+        "email": "sumit@tsourceinc.net",
+        "jd": "From: Sumit Sharma, Tsourceinc sumit@tsourceinc.net Reply to: sumit@tsourceinc.net Title:: Software Engineer (Bloomberg Data License )Location:: RemoteEngagement:: Contract Job Description::Must have experience in Bloomberg with Data License.Experience in Bloomberg APIs Experience in Data Manipulation, Software ImplementationExperience in SQL programming and C# and .NetExperience in SQL Server Integration Services developmentThere should be good communication and Written skillsThanks,Sumit SharmaTechSource Inc(916) 527 8018",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:20:30-05:00",
+        "unique_id": "1924a0de73ea2060",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

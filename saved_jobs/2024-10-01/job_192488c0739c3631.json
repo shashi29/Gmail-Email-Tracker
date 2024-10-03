@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "7+ years",
@@ -24,16 +25,17 @@
             "core": [
                 "Microsoft Project",
                 "Jira",
-                "Project Management"
-            ],
-            "primary": [
+                "Project Management",
                 "Infrastructure",
                 "Security",
-                "Cloud technologies",
-                "Applications"
+                "Cloud technologies"
+            ],
+            "primary": [
+                "PMP"
             ],
             "secondary": [
-                "PMP"
+                "Applications",
+                "End-to-end PMLC"
             ],
             "all": [
                 "Microsoft Project",
@@ -42,8 +44,9 @@
                 "Infrastructure",
                 "Security",
                 "Cloud technologies",
+                "PMP",
                 "Applications",
-                "PMP"
+                "End-to-end PMLC"
             ]
         },
         "job_type": [
@@ -56,8 +59,9 @@
         "date_posted": "2024-10-01 09:09:10-05:00",
         "unique_id": "192488c0739c3631",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

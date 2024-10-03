@@ -1,0 +1,64 @@
+[
+    {
+        "company": "ValiantIQ Inc.",
+        "job_title": "Java Full Stack Developer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Angular"
+            ],
+            "primary": [
+                "Software Development Life Cycle"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Angular",
+                "Software Development Life Cycle"
+            ],
+            "with_experience": [
+                "Java (6+ years)",
+                "Springboot (4+ years)",
+                "Microservices (4+ years)",
+                "Angular (3+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Gaurav Gautam",
+        "email": "ggautam@valiantiq.com",
+        "jd": "From: gaurav, ValiantIQ ggautam@valiantiq.com Reply to: ggautam@valiantiq.com Role:- Java Full Stack Developer Location:- Boston, MA (Need Local candidate)Type;- Contract (face to Face interview) Required Skills:8+ years of full Software Development Life Cycle experience6+ years of experience working as a full stack java developer4+ years of experience working as Springboot and microservices 3+ years of web development with Angular Thanks & Regards,Gaurav Gautam ValiantIQ Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:00:33-05:00",
+        "unique_id": "1924e636aae9ddf8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "ETL Informatica IICS Developer",
+        "location": "Frisco, TX, USA",
+        "full_location": {
+            "city": "Frisco",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica Cloud",
+                "CDI",
+                "Snowflake",
+                "SQL",
+                "Python",
+                "CICD"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Warehouse",
+                "AWS",
+                "Jenkins",
+                "Dataiku"
+            ],
+            "secondary": [
+                "Agile methodologies",
+                "Data profiling",
+                "Data quality",
+                "Catalog tools",
+                "Mentoring"
+            ],
+            "all": [
+                "Informatica Cloud",
+                "CDI",
+                "Snowflake",
+                "SQL",
+                "Python",
+                "CICD",
+                "Data Engineering",
+                "Data Warehouse",
+                "AWS",
+                "Jenkins",
+                "Dataiku",
+                "Agile methodologies",
+                "Data profiling",
+                "Data quality",
+                "Catalog tools",
+                "Mentoring"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rajeev",
+        "email": "rajeev@vyzeinc.com",
+        "jd": "From: Rajeev, Vyzeinc rajeev@vyzeinc.com Reply to: rajeev@vyzeinc.com Title: ETL Informatica IICS Developer Location: Hybrid (Frisco, TX) Visa: No H1B, CPT\nBanking and finance exp is must\nMust have: Informatica Cloud, CDI, Snowflake, SQL, python, CICD and working with internal/external tech teams.\nRequired : Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience\n7 years of experience identifying technical solutions for complex business problems, identifying the benefits and risks of the solutions and providing recommendations\n7 years of experience in Technology, Data Engineering field in architecting, developing end-to-end scalable data applications and data pipelines; work with product manager and scrum masters and lead the team in assisting the story creations and sprint deliverables\n7 years of experience leading and developing automated Informatica data pipelines with at least 4 years Informatica cloud (IICS) and relevant knowledge in data profiling, data quality, catalog tools\n7 years of experience working in enterprise data warehouse solutions and platforms, and working knowledge of different databases (e.g., RDBMS, Snowflake), S3 Datalake, CICD, Jenkins and AWS cloud technologies\n5 years of experience designing, implementing automated data solutions using Snowflake lakehouse; building workflows, developing, and scheduling ETL processes using programming SQL or Python\n5 years of experience mentoring another technologist\n5 years of experience implementing data solutions by adopting, recommending and improving CICD, change management, data security, auditing processes\n4 years of experience working with software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes and testing\nAWS or Informatica or Snowflake certification is preferred\nExperience with Dataiku is a plus.",
+        "source": "Email",
+        "date_posted": "2024-09-30 08:01:25-05:00",
+        "unique_id": "19243054a338283c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

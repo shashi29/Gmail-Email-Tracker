@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "5 years",
@@ -40,7 +41,8 @@
             ],
             "secondary": [
                 "Strong problem-solving abilities",
-                "Strong communication skills"
+                "Communication skills",
+                "Adaptability to evolving user requirements"
             ],
             "all": [
                 "Java",
@@ -57,7 +59,8 @@
                 "DevOps Practices",
                 "Testing and Monitoring",
                 "Strong problem-solving abilities",
-                "Strong communication skills"
+                "Communication skills",
+                "Adaptability to evolving user requirements"
             ]
         },
         "job_type": [
@@ -70,8 +73,9 @@
         "date_posted": "2024-10-01 09:40:27-05:00",
         "unique_id": "1924886c4163d4ab",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "Java Dev"
+        "tag": "Java developer"
     }
 ]

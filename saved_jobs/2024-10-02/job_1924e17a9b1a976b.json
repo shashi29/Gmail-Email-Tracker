@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Spear Staffing",
+        "job_title": "MS SQL Server DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum of 7 years",
+            "degree_required": "BS Degree in Computer Engineering, Computer Science, or related field/technical experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MS SQL Server DBA",
+                "Performance optimization",
+                "T-SQL",
+                "PowerShell",
+                "Database design"
+            ],
+            "primary": [
+                "Windows OS technologies",
+                "Active Directory",
+                "DNS",
+                "DHCP",
+                "Group policies",
+                "Multi-terabyte MS SQL Server databases",
+                "Troubleshooting skills"
+            ],
+            "secondary": [
+                "MongoDB",
+                "Automation for Windows platforms",
+                "ActiveBatch",
+                "SCCM",
+                "MDT"
+            ],
+            "all": [
+                "MS SQL Server DBA",
+                "Performance optimization",
+                "T-SQL",
+                "PowerShell",
+                "Database design",
+                "Windows OS technologies",
+                "Active Directory",
+                "DNS",
+                "DHCP",
+                "Group policies",
+                "Multi-terabyte MS SQL Server databases",
+                "Troubleshooting skills",
+                "MongoDB",
+                "Automation for Windows platforms",
+                "ActiveBatch",
+                "SCCM",
+                "MDT"
+            ],
+            "with_experience": [
+                "MS SQL Server DBA",
+                "Performance optimization",
+                "T-SQL",
+                "PowerShell"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Bhaskar Negi",
+        "email": "bhaskar@spearstaffing.com",
+        "jd": "From: bhaskar, SPEAR STAFFING bhaskar@spearstaffing.com Reply to: bhaskar@spearstaffing.com Position: MS SQL Server DBA\nLocation: Remote\nDuration: 6+ months c2h\nInterview process: 2 rounds\n\nThe Database Administrator (MS SQL Server DBA) will provide services for all support issues submitted by Company Employees. Duties will include proactively monitoring performance and capacity, performance tuning, query optimization, evaluating and integrating new products, resolving computing issues, and supporting database replication. Also, you will support on-premise and cloud-based databases.\n\nCore Responsibilities:\n\u2022 As the Database Administrator (DBA), you will be responsible for:\n\u2022 Optimizing and tuning database systems\n\u2022 Ensuring adherence to storage, archiving, and back-up recovery procedures\n\u2022 Backup recovery testing of recovery procedures and archiving databases\n\u2022 Disaster recovery testing\n\u2022 Troubleshooting database issues and performing database impact analysis for proposed changes\n\u2022 Controlling access permissions and privileges\n\u2022 Altering tables and schema structure as required\n\u2022 Working with the application development teams to develop stored procedures, triggers, and code to support enterprise applications, as well as to enforce coding standards\n\u2022 Executing database release management processes and coordinating maintenance of development, testing, and production environments\n\u2022 Physical database design\n\u2022 Other duties as assigned\n\nWhat are we looking for?\nWe\u2019re looking for motivated professionals with:\n\u2022 BS Degree in Computer Engineering, Computer Science, or related field/technical experience\n\u2022 Expert administration/engineering skills in Windows OS technologies\n\u2022 Expert MS SQL Server DBA\n\u2022 Minimum of 5 years supporting Windows operating systems and technologies, including Active Directory, DNS, DHCP, and group policies\n\u2022 Advanced knowledge in automating for Windows platforms leveraging PowerShell, ActiveBatch, and SCCM or MDT\n\u2022 Minimum of 7 years of experience in administering multi-terabyte MS SQL Server databases\n\u2022 Proficiency with SQL, T-SQL, PowerShell\n\u2022 Must be expert at performance optimization and root cause analysis\n\u2022 Experience in administering a multi-terabyte data warehouse is preferred\n\u2022 Strong technical ability and outstanding troubleshooting skills\n\u2022 Ability to research emerging technologies and make recommendations that benefit our business\n\u2022 MongoDB skills are a big plus\n\u2022 Strong customer service orientation\n\nThanks, and regards\nBhaskar Negi\nSenior Technical Recruiter\nPhone- +1 2402058513\nEmail: - Bhaskar@spearstaffing.com\nWebsite: - www.spearstaffing.com",
+        "source": "Email",
+        "date_posted": "2024-10-02 10:56:46-05:00",
+        "unique_id": "1924e17a9b1a976b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

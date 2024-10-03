@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Azure Data Engineer (Local Profiles)",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Databricks",
+                "Azure Blob storage",
+                "Azure Synapse",
+                "Databricks File System (DBFS)",
+                "Pyspark",
+                "Spark SQL"
+            ],
+            "primary": [
+                "Data ingestion",
+                "Data transformation",
+                "Azure Data Factory",
+                "RDD",
+                "Data frame",
+                "Azure SQL database"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure Databricks",
+                "Azure Blob storage",
+                "Azure Synapse",
+                "Databricks File System (DBFS)",
+                "Pyspark",
+                "Spark SQL",
+                "Data ingestion",
+                "Data transformation",
+                "Azure Data Factory",
+                "RDD",
+                "Data frame",
+                "Azure SQL database"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pradeep Sharma",
+        "email": "pradeep.sharma@scalable-systems.com",
+        "jd": "From: Pradeep, Scalable Systems pradeep.sharma@scalable-systems.com Reply to: pradeep.sharma@scalable-systems.com Hi,Greetings of the day! I have an urgent requirement below, please go through JD and let me know if you are comfortable or have any profile. Kindly revert me back with your updated resume as well. Job Title: Azure Data Engineer (Local Profiles) Location: Chicago, IL (Work from Office)Duration: Long Term Contract Job Description:Candidate should be strong and experienced in below skillsVery good knowledge in working with Azure Databricks services for data engineer1. Creating Azure Databricks services2. Reading & writing data from/to Azure Blob storage & Azure Synapse Gen3. storage using Azure Databricks services after receiving in different formats (e.g. csv, Parquet, Jason etc.) from Snowflake DWH platform4. Hands-on experience in working with Databricks File system (DBFS)5. Experience in working with RDD, Data frame, Azure SQL database6. Experience in constructing ingestion, transformation & degree pipelines using Azure Data Factory7. Experience in developing application service using Pyspark & Spark SQL Thanks & Regards, Pradeep SharmaEmail: pradeep.sharma@scalable-systems.com \"Scalable Systems is an Equal Opportunity Employer. We are committed to creating an inclusive environment for all employees and do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other legally protected status.\"",
+        "source": "Email",
+        "date_posted": "2024-10-02 06:48:27-05:00",
+        "unique_id": "1924d0ec492628a6",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

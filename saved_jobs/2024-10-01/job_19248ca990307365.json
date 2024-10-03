@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "experience_required": "10+ years",
             "degree_required": "Not specified",
@@ -53,6 +54,7 @@
                 "React",
                 "on-premises to cloud migration",
                 "data migration",
+                "integrating on-premises applications with Azure Cloud resources",
                 "cloud migration strategies",
                 "Rehost",
                 "Refactor",
@@ -60,12 +62,7 @@
                 "Rebuild",
                 "Replace",
                 "design and code reviews",
-                "application systems",
-                "data workflow",
-                "logical processes",
-                "system interfaces",
-                "system architecture",
-                "development issues",
+                "analyzing and resolving development issues",
                 "Analytical Skills",
                 "attention to details"
             ],
@@ -98,6 +95,7 @@
                 "React",
                 "on-premises to cloud migration",
                 "data migration",
+                "integrating on-premises applications with Azure Cloud resources",
                 "cloud migration strategies",
                 "Rehost",
                 "Refactor",
@@ -105,12 +103,7 @@
                 "Rebuild",
                 "Replace",
                 "design and code reviews",
-                "application systems",
-                "data workflow",
-                "logical processes",
-                "system interfaces",
-                "system architecture",
-                "development issues",
+                "analyzing and resolving development issues",
                 "Analytical Skills",
                 "attention to details"
             ]
@@ -125,8 +118,9 @@
         "date_posted": "2024-10-01 10:49:46-05:00",
         "unique_id": "19248ca990307365",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": ".NET Dev"
+        "tag": ".net developer"
     }
 ]

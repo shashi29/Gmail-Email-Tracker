@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Stellar Consulting",
+        "job_title": "Java Developer",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$50/hourly",
+            "job_code": "",
+            "max_rate": "$50/hourly"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL"
+            ],
+            "primary": [
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD pipeline",
+                "DevOps"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL",
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD pipeline",
+                "DevOps"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shreya Jeet Tiwari",
+        "email": "shreyajeet.tiwari@stellarconsulting.com",
+        "jd": "From: Shreyajeet Tiwari, Stellar Consulting shreyajeet.tiwari@stellarconsulting.com Reply to: shreyajeet.tiwari@stellarconsulting.com Dear Partners, Please share me the candidates for Java Developer with experience in OpenShift.Job Title: Java DeveloperLocation: Parsippany, NJNote- Only local to NJ, who can go for in-person interview.Max C2C Rate: $50/hourlyHybrid \u2013 (3 Days onsite in a week.)Job Type: ContractMandatory Skills:JavaSpring FrameworkSpring BootSQLDesired SkillsOpenShiftWebLogic Application ServerOracle SQLJenkinsCI/CD pipelineDevOps Shreya Jeet TiwariSr. Technical Recruiter at Stellar Consulting Solutions, LLCEmail: shreyajeet.tiwari@stellarconsulting.comLinkedIn: https://www.linkedin.com/in/shreya-jeet-tiwari-a2659899/",
+        "source": "Email",
+        "date_posted": "2024-10-01 17:45:38-05:00",
+        "unique_id": "1924a797ad6f4eee",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

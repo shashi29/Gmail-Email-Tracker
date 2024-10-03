@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Database Administrator/Engineer- Cockroach DB",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months + extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cockroach DB",
+                "Database Administration",
+                "Scripting/automation tooling",
+                "CI/CD",
+                "Cloud experience"
+            ],
+            "primary": [
+                "Debugging skills",
+                "Installation and configuration of distributed databases",
+                "Performance tuning",
+                "Production support",
+                "High availability monitoring"
+            ],
+            "secondary": [
+                "MongoDB",
+                "NoSQL",
+                "REST APIs",
+                "Datadog",
+                "Grafana",
+                "Prometheus",
+                "ServiceNow",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Docker",
+                "JIRA",
+                "Confluence",
+                "Git",
+                "ECS"
+            ],
+            "all": [
+                "Cockroach DB",
+                "Database Administration",
+                "Scripting/automation tooling",
+                "CI/CD",
+                "Cloud experience",
+                "Debugging skills",
+                "Installation and configuration of distributed databases",
+                "Performance tuning",
+                "Production support",
+                "High availability monitoring",
+                "MongoDB",
+                "NoSQL",
+                "REST APIs",
+                "Datadog",
+                "Grafana",
+                "Prometheus",
+                "ServiceNow",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Docker",
+                "JIRA",
+                "Confluence",
+                "Git",
+                "ECS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Renu Sharma",
+        "email": "renu.sharma@vyzeinc.com",
+        "jd": "Hi, I have a very urgent role, If interested then please send me your resume. Position: Database Administrator/Engineer- Cockroach DB\nDuration: 12 months + extensions\nLocation: Onsite every other week (5x per week, 2 weeks per month) in one of the following locations:\nDallas, TX\nBoston, MA\nSmithfield, RI\nMerrimack, NH\nJersey City, NJ\nChicago, IL\nCovington, KY / Cincinnati, OH\nSalt Lake City, UT\nRequired Skills & Experience\n- 5+ years of experience as a DBA\n- 2+ years of experience with Cockroach DB (experience building out, troubleshooting, performance tuning, production support, high availability monitoring, etc.)\n- Experience in installation, configuration, monitoring & troubleshooting large scale distributed databases\n- Debugging skills & ability to troubleshoot methodically, identifying & applying fixes for known errors, capacity to think outside of the box to resolve complex issues\n- Scripting/automation tooling (bash/python/Ansible/Terraform) experience\n- Experienced in CI/CD, DevOps using tools like Udeploy, JIRA, Confluence, Jenkins, Git, ECS, Docker\n- Experience with Datadog, Grafana, Prometheus & integration with ServiceNow\n- Cloud experience with AWS, Azure, or GCP\n- Knowledge in REST APIs, ability to read documentation & make calls to read or write data using API\n- MongoDB / NoSQL database skills preferred\n\nDescription\nAs a Database Administrator/Engineer, you will bring your technology expertise, design and administration skills to create unique state-of-the-art database systems. We are looking for an individual who has a passion for technology tempered by a level-headed approach to problem solving and broad experience in diverse technologies. You will bring a hunger for problem solving and desire to understand and play with newer technologies and business ideas. Day to day, you will be responsible for the design, configuration and monitoring very large-scale database system including Relational databases, NoSQL and in memory databases. You will also be working in tandem with database administrators and data engineers across the organization.",
+        "source": "Email",
+        "date_posted": "2024-10-02 15:11:38-05:00",
+        "unique_id": "1924edb69593e9f9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

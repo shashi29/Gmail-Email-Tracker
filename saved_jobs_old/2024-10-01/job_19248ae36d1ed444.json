@@ -1,0 +1,91 @@
+[
+    {
+        "company": "CVSD",
+        "job_title": "Redis DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Database Administration",
+                "Performance Tuning",
+                "Process/Query Analysis",
+                "Linux/Unix Shell Commands",
+                "Redis"
+            ],
+            "primary": [
+                "Monitoring/Alerting",
+                "Observability",
+                "Backup & Restore",
+                "Data Refreshes",
+                "Windows PowerShell",
+                "Python",
+                "OS Fine Tuning",
+                "Security and Data Compliance"
+            ],
+            "secondary": [
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GHA",
+                "GitHub",
+                "Jenkins"
+            ],
+            "all": [
+                "Database Administration",
+                "Performance Tuning",
+                "Process/Query Analysis",
+                "Linux/Unix Shell Commands",
+                "Redis",
+                "Monitoring/Alerting",
+                "Observability",
+                "Backup & Restore",
+                "Data Refreshes",
+                "Windows PowerShell",
+                "Python",
+                "OS Fine Tuning",
+                "Security and Data Compliance",
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GHA",
+                "GitHub",
+                "Jenkins"
+            ],
+            "with_experience": [
+                "Redis (3+ years)",
+                "Redis Enterprise (3+ years)",
+                "Azure Cache for Redis (3+ years)",
+                "GCP Memory Store (3+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Harsh Timori",
+        "email": "h.timori@sibitalent.com",
+        "jd": "Greetings Hope you are doing well! Please have a look below and let me know if you are available. If interested kindly share your updated resume.\n\nJob Title \u2013 Redis DBA\nJob Location \u2013 Remote\nEnd Client \u2013 CVSD\nDuration \u2013 6+ Months\nVisa \u2013 No CPT, H1B\nMode of Interview \u2013 Phone/Skype\n\nJob description - **LinkedIn with Picture**\n\nCommon Required Qualifications:\n- 8 years of combined experience in Database Administration / Engineering\n- Advanced knowledge of performance tuning, monitoring/alerting, observability, dashboarding\n- Advanced knowledge of process/query analysis, buffer tuning, client/server connectivity and database consistency checks\n- Advanced knowledge of maintenance routines, upgrades, patching\n- Experience in handling physical/logical backups & restores and data refreshes.\n- Experience in Linux/Unix shell commands or Windows PowerShell or Python\n- Experience in OS fine tuning with regards to Network I/O, Disk\n- Should be able to collaborate with DBA peers and mentor, work well in a team and independently\n- Should be able to multi-task i.e. parallelize multiple environment build / data migration\n- Should be able to work off-hours for application release support, Linux patching support, maintenance windows\n- Experienced with security and data compliance aspects of database\n- Well versed with latest version of database\n\nPreferred qualifications:\n- Experience with automation via Ansible, Terraform\n- Experience with deployments (CI/CD) with GHA, GitHub, Jenkins\n\nRequired Qualifications:\n- 3+ years of experience with Redis Opensource\n- 3+ years of experience with Redis Enterprise \u2013 clustering, sharding, replication, high availability, multi-region (active-active) setup\n- 3+ years of experience with Azure Cache for Redis and/or GCP Memory Store\n\nBest from, Harsh Timori from sibitalent",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:19:46-05:00",
+        "unique_id": "19248ae36d1ed444",
+        "emp_type": [
+            "contract"
+        ],
+        "tag": "DB Admin"
+    }
+]

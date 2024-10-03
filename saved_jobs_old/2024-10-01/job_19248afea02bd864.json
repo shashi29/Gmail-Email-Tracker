@@ -1,0 +1,107 @@
+[
+    {
+        "company": "Netonics INC",
+        "job_title": "Lead Software Engineer (Backend)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [],
+            "job_code": "",
+            "experience_required": "13+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "ETL",
+                "API development",
+                "Kafka",
+                "SQL"
+            ],
+            "primary": [
+                "Python",
+                "Java",
+                "JavaScript",
+                "PostgreSQL",
+                "AWS Aurora",
+                "DynamoDB",
+                "MongoDB",
+                "JUnit",
+                "Selenium",
+                "Postman",
+                "Jenkins",
+                "GitLab CI",
+                "CircleCI",
+                "JMeter",
+                "New Relic",
+                "Grafana",
+                "Splunk",
+                "Docker",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "AWS Certified Solutions Architect",
+                "AWS Certified Developer",
+                "microservices architecture",
+                "serverless design patterns",
+                "e-commerce platforms",
+                "infrastructure as code",
+                "Terraform",
+                "CloudFormation"
+            ],
+            "all": [
+                "AWS",
+                "ETL",
+                "API development",
+                "Kafka",
+                "SQL",
+                "Python",
+                "Java",
+                "JavaScript",
+                "PostgreSQL",
+                "AWS Aurora",
+                "DynamoDB",
+                "MongoDB",
+                "JUnit",
+                "Selenium",
+                "Postman",
+                "Jenkins",
+                "GitLab CI",
+                "CircleCI",
+                "JMeter",
+                "New Relic",
+                "Grafana",
+                "Splunk",
+                "Docker",
+                "Kubernetes",
+                "AWS Certified Solutions Architect",
+                "AWS Certified Developer",
+                "microservices architecture",
+                "serverless design patterns",
+                "e-commerce platforms",
+                "infrastructure as code",
+                "Terraform",
+                "CloudFormation"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Samir Priya Darshan",
+        "email": "samir.p@netonicsinc.com",
+        "jd": "Job Description for Lead Software Engineer (Backend)Only H1BRemote --100 % Note -Dont Share me Full Stack profile , Need Backend with 13+ Years Job Overview:We are seeking a highly skilled and motivated Senior Software Engineer with expertise in AWS, ETL, streaming solutions like Kafka, and a strong focus on API development, data scripting and analysis,automation testing, and performance optimization. The ideal candidate will have experience in designing, deploying, and managing scalable applications, particularly in e-commerce domains involving search,catalog, products, and pricing. The role requires strong database query optimization skills and a deep understanding of CI/CD pipelines, monitoring, and production support in an Agile environment. Roles & responsibilities:Design, develop, and maintain scalable, secure APIs using Spring boot and services in AWS.Implement ETL pipelines to process, transform, and load data from multiple sources.Work with streaming platforms like Kafka to build real-time data processing solutions.Optimize database queries and ensure high performance for data-heavy applications.Leverage AWS services (e.g., Lambda, EC2, S3, RDS, API Gateway, CloudWatch, SNS/SQS) to architect, monitor, and optimize cloud-based applications.Implement and enhance automated testing frameworks to ensure code quality (unit, integration, end-to-end).Work closely with the DevOps team to maintain and improve CI/CD pipelines, ensuring fast, reliable delivery of code to production.Conduct performance testing and optimization to maintain low-latency, high-throughput systems.Build and manage effective monitoring and alerting systems to proactively identify and resolve production issues.Participate in production support rotation, troubleshooting and addressing issues in real-time.Collaborate with product managers, QA engineers, and other developers to deliver high-quality software that meets business requirements.Contribute to solutions involving e-commerce search, catalog, products, and pricing management systems.Participate in Agile ceremonies (stand-ups, sprint planning, retrospectives) and continuously refine processes for more effective delivery.Mentor junior engineers and contribute to a positive, collaborative team environment.Communicate complex technical ideas effectively to both technical and non-technical stakeholders. Required Skills:7+ years of experience in experience in software engineering, with a focus on API development, ETL, and automation.Expertise in AWS services (e.g., Lambda, EC2, RDS, S3, API Gateway, CloudWatch, SNS/SQS).Experience with ETL tools and data pipelines.Proficiency in Kafka or similar streaming platforms for real-time data processing.Strong knowledge of SQL and database query optimization.Proficiency in programming languages such as Python, Java, JavaScript.Strong experience with data scripting and analysis (e.g., SQL, Python, Shell scripting).Experience with PostgreSQL, AWS Aurora and NoSQL DBs like (e.g., DynamoDB, MongoDB).Solid understanding of automated testing tools and frameworks (e.g., JUnit, Selenium, Postman).Hands-on experience with CI/CD tools such as Jenkins, GitLab CI, CircleCI, or similar.Experience with performance testing and tools (e.g., JMeter).Knowledge of monitoring and alerting systems (e.g., New Relic, Grafana, Splunk).Familiarity with containerization and orchestration tools like Docker and Kubernetes.Practical knowledge of configuring virtual private clouds (VPCs), firewalls, load balancers, and managing Identity and Access Management (IAM) roles.Proven experience working in Agile environments with methodologies such as Scrum or Kanban.Proven ability to work in cross-functional teams, driving results and fostering a collaborative environment.Excellent communication skills with the ability to convey technical concepts to a variety of audiences. Good to Have:Certifications: AWS Certified Solutions Architect or DeveloperExperience with microservices architecture and serverless design patterns.Experience in e-commerce platforms and their technical challenges.Knowledge of infrastructure as code (e.g., Terraform, CloudFormation).",
+        "source": "Email",
+        "date_posted": "2024-10-01 10:22:02-05:00",
+        "unique_id": "19248afea02bd864",
+        "emp_type": [],
+        "tag": "AWS Data Engineer"
+    }
+]

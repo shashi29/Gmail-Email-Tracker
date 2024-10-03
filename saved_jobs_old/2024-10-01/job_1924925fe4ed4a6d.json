@@ -1,0 +1,52 @@
+[
+    {
+        "company": "Mavinsys",
+        "job_title": "QA Automation Engineer (GC/USC)",
+        "location": "Jacksonville, FL, USA",
+        "full_location": {
+            "city": "Jacksonville",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "custom xPaths",
+                "Constructors",
+                "POM Constructors"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "C#",
+                "custom xPaths",
+                "Constructors",
+                "POM Constructors"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "harsha vardhan chandragiri",
+        "email": "harshavardhan.c@mavinsys.com",
+        "jd": "From: harsha vardhan chandragiri, Mavinsys harshavardhan.c@mavinsys.com Reply to: harshavardhan.c@mavinsys.com Job Title: QA Automation Engineer (GC/USC) only,Location: Jacksonville FloridaDuration: 6+ months Key areas they are looking for skill wise.*C# required -C# (sharp) is object-oriented programming language developed by Microsoft mainly for web and desktop applications.* must know how to write custom xPaths -they are not interested in someone who only uses tools for this.*Knowledge around Constructors \u2013 what they di what are they used for, ect.*Solid Knowledge of POM Constructors: In programming, constructors are special methods in a class that are automatically called when an instance of the class is created. They are used to initialize the object\u2019s state and set up any necessary resources or initial values. Here's a deeper look into constructors:Key Characteristics of ConstructorsInitialization: Constructors allow you to set up initial values for an object's properties or perform any setup tasks required when an object is created.Naming: In many languages, constructors share the same name as the class. For example, in C#, the constructor's name is the same as the class name.No Return Type: Constructors do not have a return type, not even void. Their sole purpose is to initialize the object's state.Automatic Invocation: Constructors are automatically invoked when an object is instantiated using the new keyword (in languages like C# and Java).Overloading: Many languages support constructor overloading, which means you can have multiple constructors in a class with different parameters.",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:32:44-05:00",
+        "unique_id": "1924925fe4ed4a6d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

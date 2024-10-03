@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "12+ years",
             "degree_required": "Not specified",
@@ -28,13 +30,12 @@
                 "Data Migration",
                 "Database Design",
                 "Technical Support",
-                "Debugging",
-                "Mentoring"
+                "Debugging"
             ],
             "secondary": [
-                "Best Practices",
+                "Mentoring",
                 "Documentation",
-                "Monitoring"
+                "Best Practices"
             ],
             "all": [
                 "Azure Blob Storage",
@@ -45,9 +46,12 @@
                 "Technical Support",
                 "Debugging",
                 "Mentoring",
-                "Best Practices",
                 "Documentation",
-                "Monitoring"
+                "Best Practices"
+            ],
+            "with_experience": [
+                "SQL (12+ years)",
+                "Azure Blob Storage"
             ]
         },
         "job_type": [
@@ -59,7 +63,9 @@
         "source": "Email",
         "date_posted": "2024-10-01 09:22:03-05:00",
         "unique_id": "192487746136addb",
-        "emp_type": [],
+        "emp_type": [
+            "third party"
+        ],
         "tag": "Azure Data Engineer"
     }
 ]

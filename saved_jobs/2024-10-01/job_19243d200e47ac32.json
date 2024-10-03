@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "Java AWS Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Spring Boot",
+                "Microservices",
+                "PostgreSQL"
+            ],
+            "primary": [
+                "Kafka",
+                "Cucumber Testing"
+            ],
+            "secondary": [
+                "DBMS",
+                "RDBMS",
+                "Banking domain experience",
+                "Communication skills",
+                "Interpersonal skills",
+                "Analytical thinking"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Spring Boot",
+                "Microservices",
+                "PostgreSQL",
+                "Kafka",
+                "Cucumber Testing",
+                "DBMS",
+                "RDBMS",
+                "Banking domain experience",
+                "Communication skills",
+                "Interpersonal skills",
+                "Analytical thinking"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Santhosh",
+        "email": "santhosh.a@i-q.co",
+        "jd": "From: santhosh, Infinity Quest santhosh.a@i-q.co Reply to: santhosh.a@i-q.co Role: Java AWS Developer\nDuration: Long term \nLocation: NYC,NY relocation is also fine \nMandatory Areas\nJava\nAWS\nSpring boot\nMicro Services\nPostgreSQL \nQualification:\n8+ Years\u2019 experience in handling JAVA AWS and Microservices.\nWorking knowledge in Kafka and Cucumber Testing.\nGood to have DBMS and RDBMS experience with understanding of PostgreSQL and Aurora.\nGood to have Banking domain experience.\nShould have good communication and interpersonal skills.\nShould have good analytical thinking.",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:41:26-05:00",
+        "unique_id": "19243d200e47ac32",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

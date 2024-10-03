@@ -1,0 +1,80 @@
+[
+    {
+        "company": "1 Point System LLC",
+        "job_title": "Software Engineer- AWS",
+        "location": "Johnston, IA, USA",
+        "full_location": {
+            "city": "Johnston",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "4 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "C#",
+                "JavaScript",
+                "Angular"
+            ],
+            "primary": [
+                "RESTful services",
+                "SQL",
+                "CI/CD",
+                "Linux"
+            ],
+            "secondary": [
+                "Good communication skills",
+                "Agile software development practices",
+                "ORM concepts"
+            ],
+            "all": [
+                "AWS",
+                "Python",
+                "C#",
+                "JavaScript",
+                "Angular",
+                "RESTful services",
+                "SQL",
+                "CI/CD",
+                "Linux",
+                "Good communication skills",
+                "Agile software development practices",
+                "ORM concepts"
+            ],
+            "with_experience": [
+                "Python (2 years)",
+                "AWS Services (1 year)",
+                "SQL (1 year)",
+                "Debugging full stack web applications (1 year)",
+                "Modifying CI/CD pipelines (1 year)",
+                "Linux environment (1 year)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pramod Kumar",
+        "email": "pramod.k@1pointsys.com",
+        "jd": "From: Pramod Kumar, 1 Point system LLC pramod.k@1pointsys.com Reply to: pramod.k@1pointsys.com Hi, Hope you are doing well. This is Pramod from 1 Points LLC. We are a global recruitment company with specialization in hiring IT professionals. Please go through the below job description and let me know if you are interested in the same. Title: Software Engineer- AWS Location: Johnston, IA or Indianapolis, IN (Hybrid) Ideal Candidate: - Agriculture Background Project Scope and Brief Description: Application feature development and maintenance for our data processing pipelines and full-stack web applications. Applications focused primarily on image and data processing supporting seed product development. Responsibilities: \u2022 Develop and support high-quality, scalable, and secure data processing pipelines and full-stack web applications. \u2022 Create and execute unit and integration tests consistently for every software development feature completed. \u2022 Leverage your solid understanding of design principles and coding practices to craft elegant solutions for R&D. \u2022 Deploy applications to AWS and Azure clouds by applying DevOps practices including continuous integration, continuous delivery, testing, monitoring, and automation. \u2022 Actively and frequently collaborate with a small team of engineers and analysts at agile project ceremonies such as daily scrum, sprint planning, and sprint reviews. Skills / Experience: Skill Minimum Required Experience Experience developing high quality, multi-tier applications 4 years Proficiency in full-stack web application development including RESTful services and using industry-standard tools, languages, and frameworks such as Python, C#, JavaScript and Angular. Note: Python experience needed for current application set. 2 years Experience with AWS Services like Lambda, Fargate, API Gateway, S3, & RDS, or equivalent experience with other cloud provider services 1 year Experience with database-backed application development including SQL queries 1 year Debugging full stack web applications 1 year Modifying CI/CD pipelines 1 year Linux environment 1 year Additional Beneficial Skills and Experience: \u2022 Possesses and demonstrates good communication skills (both written and verbal) \u2022 Good working knowledge of SQL and relational databases, including ORM concepts \u2022 Familiarity applying agile software development practices as a member of a small team Best Regards, Pramod Kumar Technical Recruiter\u2013 1Point System LLC pramod.k@1pointsys.com || www.1pointsys.com 115 Stone Village Drive \u2022 Suite C \u2022 Fort Mill, SC \u2022 29708 An E-Verified company | An Equal Opportunity Employer",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:08:59-05:00",
+        "unique_id": "1924964a20e74e0f",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

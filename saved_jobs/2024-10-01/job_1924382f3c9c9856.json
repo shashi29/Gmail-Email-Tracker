@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Adventa Tech",
+        "job_title": "Data Engineer",
+        "location": "Manhattan, NY, USA",
+        "full_location": {
+            "city": "Manhattan",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT"
+            ],
+            "primary": [
+                "GCP \u2013 Machine Learning",
+                "GCP \u2013 Data Engineering",
+                "Cloud"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT",
+                "GCP \u2013 Machine Learning",
+                "GCP \u2013 Data Engineering",
+                "Cloud"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vikas Kumar",
+        "email": "vikas@adventatech.com",
+        "jd": "From: Vikas Kumar, Adventa Tech vikas@adventatech.com Reply to: vikas@adventatech.com Data EngineerHYBRID role in Manhattan NY. Need AI Experience Job Description:Retail & pharmaceutical domain candidates preferred, banking domain candidates will not be entertained.Skill Set: SQL, Python, Spark, and DBT. Must be Certified in 2 of 3 certifications:GCP \u2013 Machine Learning, Data Engineering, and/or Cloud PLEASE MAKE SURE THAT YOUR CANDIDATES HAVE at least 2 of the 3 OF THESE CERTIFICATIONS. https://cloud.google.com/learn/certification/data-engineerhttps://cloud.google.com/learn/certification/machine-learning-engineerhttps://www.cloudskillsboost.google/paths/420******************************************************************************************************************************Need LinkedIn Profile- Locals required1 professional reference from manager or supervisor of last project.Please ensure candidate has their own laptop.Please check for any planned vacations, hospitals visits or check-ups, or any family members (baby on way, elderly family member, etc. that may need care while they may be working. Best Regards,Vikas KumarSr Technical Recruiter | Adventa Tech. 24718 Tribe Square #306, Dulles, VA 20166Email: vikas@adventatech.com Ph# +1(703) 651-8919 Ext. 102",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:18:52-05:00",
+        "unique_id": "1924382f3c9c9856",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

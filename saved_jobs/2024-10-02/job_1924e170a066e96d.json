@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Procorp systems",
+        "job_title": "Java Developer With AWS",
+        "location": "Wilmington, DE, USA",
+        "full_location": {
+            "city": "Wilmington",
+            "state": "DE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "DOE"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "REST API",
+                "Microservices",
+                "Spring Boot",
+                "Spring Security"
+            ],
+            "primary": [
+                "Kafka",
+                "Unit testing",
+                "JUnit",
+                "Mockito",
+                "CICD pipeline",
+                "Terraform"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "AWS",
+                "REST API",
+                "Microservices",
+                "Spring Boot",
+                "Spring Security",
+                "Kafka",
+                "Unit testing",
+                "JUnit",
+                "Mockito",
+                "CICD pipeline",
+                "Terraform"
+            ],
+            "with_experience": [
+                "Java",
+                "AWS",
+                "REST API",
+                "Microservices",
+                "Spring Boot",
+                "Spring Security"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vardhan",
+        "email": "vardhan.r@procorpsystems.com",
+        "jd": "Hello,Hope you are doing good Note: Must Need To Go Onsite From Day 1. Title: Java Developer With AWSLocation: Wilmington, DEDuration: 12 MonthsRate: DOE Job Description:Solid understanding of object-oriented programmingFamiliar with various design and architectural patternsExperience in creating & consuming REST API, MicroservicesExperience in Spring Boot, Spring Security & Spring ecosystemGood working experience in Kafka.Working experience in writing Unit test cases with Junit & MockitoGood experience with AWS services such as IAM, EKS, S3, Secrets Manager, Cloudwatch, ALB & Route53Experience in working with CICD pipeline.Experience in Terraform will be a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-02 11:32:28-05:00",
+        "unique_id": "1924e170a066e96d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

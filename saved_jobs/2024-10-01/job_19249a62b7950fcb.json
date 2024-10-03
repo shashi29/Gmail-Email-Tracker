@@ -1,0 +1,62 @@
+[
+    {
+        "company": "premium clients",
+        "job_title": "GCP with Certified",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 to 8 Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Monitoring Metrics collection",
+                "PromQL",
+                "Grafana",
+                "HTML"
+            ],
+            "primary": [],
+            "secondary": [
+                "good communication skills"
+            ],
+            "all": [
+                "Google Monitoring Metrics collection",
+                "PromQL",
+                "Grafana",
+                "HTML",
+                "good communication skills"
+            ],
+            "with_experience": [
+                "PromQL",
+                "Grafana"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "anilkumar",
+        "email": "anilkumar@siriinfo.com",
+        "jd": "Hello PartnerHope you are doing well!!We have an immediate opening for the below position with one of our premium clients Job title: GCP with CertifiedWork Location: Charlotte, NC 28202 (Onsite)Minimum years of experience: 5 to 8 YearsContract: long term Must Have: Experience with Google Monitoring Metrics collection.Experience with PromQL (Prometheus Query Language)Experience with GrafanaExperience with HTML to leverage visualization in GrafanaCandidate should have good communication skills",
+        "source": "Email",
+        "date_posted": "2024-10-01 14:53:49-05:00",
+        "unique_id": "19249a62b7950fcb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Siriinfo",
+        "job_title": "Database Administrator",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Singlestore Database",
+                "Database Administration",
+                "Python"
+            ],
+            "primary": [
+                "Oracle 10g",
+                "Database performance tuning",
+                "Performance Tuning",
+                "Query Optimization"
+            ],
+            "secondary": [
+                "RDBMS Database systems",
+                "DevOps",
+                "CI/CD"
+            ],
+            "all": [
+                "Singlestore Database",
+                "Database Administration",
+                "Python",
+                "Oracle 10g",
+                "Database performance tuning",
+                "Performance Tuning",
+                "Query Optimization",
+                "RDBMS Database systems",
+                "DevOps",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jessica",
+        "email": "jessica@siriinfo.com",
+        "jd": "Greetings, We have the below requirement with our client. Kindly go through the JD below and let me know your interest Role name: Database Administrator Dallas, TX , Austin, TX Duration : Contract Role Description: Singlestore DBA, Python Competencies: Digital : Python, Database Administration (DBMS), Oracle 10g Database performance tuning Experience (Years): 8-10 Essential Skills: Experience with Singlestore Database systems Experience as a DBA Performance Tuning Query Optimization Strong Python Experience, with experience in writing Scripts for Database management and Automation Desirable Skills: RDBMS Database systems DevOps, CI/CD Best Regards, Jessica | Sr Technical Recruiter | Email: jessica@siriinfo.com",
+        "source": "Email",
+        "date_posted": "2024-09-30 19:09:51-05:00",
+        "unique_id": "19245690347fb6bb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

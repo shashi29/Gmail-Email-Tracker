@@ -9,7 +9,9 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "10+ years",
             "degree_required": "Not specified",
@@ -61,7 +63,9 @@
         "source": "Email",
         "date_posted": "2024-10-01 08:37:41-05:00",
         "unique_id": "192484c8b383cc2d",
-        "emp_type": [],
-        "tag": "BA/Scrum Master/PM"
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Project Manager"
     }
 ]

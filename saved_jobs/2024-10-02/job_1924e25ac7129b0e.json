@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Origin To Future",
+        "job_title": "API Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring frameworks",
+                "REST",
+                "SOAP",
+                "Microservices architecture"
+            ],
+            "primary": [
+                "Node.js",
+                "Express.js",
+                "Swagger",
+                "OpenAPI",
+                "ReadyAPI",
+                "SOAPUI",
+                "Postman",
+                "JMeter",
+                "Python",
+                "API management tools",
+                "OAuth",
+                "JWT",
+                "AWS",
+                "Azure",
+                "Google Cloud"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring frameworks",
+                "REST",
+                "SOAP",
+                "Microservices architecture",
+                "Node.js",
+                "Express.js",
+                "Swagger",
+                "OpenAPI",
+                "ReadyAPI",
+                "SOAPUI",
+                "Postman",
+                "JMeter",
+                "Python",
+                "API management tools",
+                "OAuth",
+                "JWT",
+                "AWS",
+                "Azure",
+                "Google Cloud"
+            ],
+            "with_experience": [
+                "Java (Expert level)",
+                "Spring frameworks (Expert knowledge)",
+                "Microservices architecture"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Manish",
+        "email": "manish@o2finc.com",
+        "jd": "API Developer - Location- Dallas, TX(Remote Role)Duration: 6+ MonthsVisa- USC, GC, H1B Experienced in designing, developing, integrating, and deploying web services (with REST/SOAP/JSON/XML) using micro services architectureExpert level of Java development experience, including newer versions Expert knowledge of Spring frameworks, including Spring BootExperience with node.js and express.jsExperience designing and documenting APIs with tools such as Swagger, OpenAPIExperience with Java and web services testing tools (ReadyAPI, SOAPUI, Postman, JMeter, etc.)Proficiency in programming languages such as Java, Python, Node.js, or similar.Experience with API management tools (e.g., Apigee, Postman, Swagger).Strong understanding of authentication and authorization mechanisms (e.g., OAuth, JWT). Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud) and microservices architecture.",
+        "source": "Email",
+        "date_posted": "2024-10-02 10:43:47-05:00",
+        "unique_id": "1924e25ac7129b0e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

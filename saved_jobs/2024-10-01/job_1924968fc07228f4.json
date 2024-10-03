@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "AWS Developer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "8+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3",
+                "Cloud Solution Architect"
+            ],
+            "primary": [
+                "AWS Glue",
+                "AWS Amplify",
+                "AWS MQ",
+                "AWS SQ"
+            ],
+            "secondary": [
+                "Windows OS",
+                "Linux OS"
+            ],
+            "all": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3",
+                "Cloud Solution Architect",
+                "AWS Glue",
+                "AWS Amplify",
+                "AWS MQ",
+                "AWS SQ",
+                "Windows OS",
+                "Linux OS"
+            ],
+            "with_experience": [
+                "Java (12+ years)",
+                "JavaScript (12+ years)",
+                "Python (12+ years)",
+                "AWS IAM (12+ years)",
+                "AWS S3 (12+ years)",
+                "Cloud Solution Architect (12+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ravina",
+        "email": "ravina@vyzeinc.com",
+        "jd": "Job Description -Job Title: AWS Developer\nLocation: Austin, TX -Remote\nDuration/Type: 8+ Months/Contract\nVisa: Any\n\n\u201cONLY LOCAL CANDIDATE WITH DL WILL WORK\u2026.\u201d\n\n12+ Years of experience or architect level\n\nJob Description:\nPlans, develops, tests, and documents computer programs, applying knowledge of programming techniques and computer systems. Evaluates user request for new or modified program, such as data ETL pipelines (using Python/AWS Glue) or front-end data submission app development (using Javascript/AWS Amplify). Consults with user to identify current operating procedures and clarify program objectives. Formulates plan outlining steps required to develop program, using methodologies such as structured analysis and design or object-oriented development. Participate the implementation of AWS Data Lake instance by translating program needs into technical requirements, supporting program leads in defining the long-term vision for the project, defining and implementing data governance / identity and access management policies, tracking project expenses, testing and validating new functionality, enabling program staff to use new tools, and regularly interfacing with both internal and external stakeholders. Role includes programming to implement new data feeds via API, maintaining AWS Amplify data upload platform, and implementing and maintaining crawlers and jobs in AWS Glue.\n\nRequired: Java, JavaScript or Python programming.\nAWS IAM.\nAWS S3.\nCloud Solution Architect.\n\nPreferred: AWS Glue.\nAWS Amplify.\nAWS MQ, SQ.\nExperience with Windows and Linux OS.",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:04:55-05:00",
+        "unique_id": "1924968fc07228f4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "CVS Health",
+        "job_title": "Oracle Database Administrator",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "4-6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "database administration",
+                "performance tuning",
+                "monitoring/alerting",
+                "backup/recovery",
+                "Linux/Unix shell commands"
+            ],
+            "primary": [
+                "application consulting",
+                "version upgrades",
+                "automations",
+                "security and data compliance",
+                "data migration"
+            ],
+            "secondary": [
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GHA",
+                "GitHub",
+                "Jenkins"
+            ],
+            "all": [
+                "database administration",
+                "performance tuning",
+                "monitoring/alerting",
+                "backup/recovery",
+                "Linux/Unix shell commands",
+                "application consulting",
+                "version upgrades",
+                "automations",
+                "security and data compliance",
+                "data migration",
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GHA",
+                "GitHub",
+                "Jenkins"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ankit Uniyal",
+        "email": "ankit.uniyal@cloudthinktech.com",
+        "jd": "From: Ankit Uniyal, Cloud Think Technologies ankit.uniyal@cloudthinktech.com Reply to: ankit.uniyal@cloudthinktech.com Title: Oracle Database Administrator# Open (if applicable): 6Company: CVS Health \u2013 Basic Company Info: Healthcare, Pharmacy, Retail, and Pharmacy Benefits Management.Location: remoteTeam: Database AdministrationWhy Open: Start: ASAPDuration: 4-6 months to start Important SkillsSoft \u2013 team player, goal oriented, professional and can successfully move in a fast-paced environment Interview Process: 2 virtual Teams interviews Background Check (if applicable):\u2022 7 year criminal (federal, country, state)\u2022 Employment verification \u2013 7 Years\u2022 Education verificationHours / Shift: First \u2013 40 hours / week Notes: It can be as quickly as take a few days and up to 2 weeks to confirm a start date for candidates after they accept the verbal as the ITERR form approval process moves through the internal course.Dress Code: Business Casual ResponsibilitiesThis senior role requires expertise in database administration and the ability to work in a fast-paced collaborative environment. We provide support for on-premises and cloud databases (IaaS and DBaaS) including critical Tier 1 and Tier 2 systems that utilize high availability solutions with replication.This resource will support the design, implementation, and maintenance of database environments. You will ensure integrity and high availability of the database environments in your charge. Responsibilities include but are not limited to build/management of on-prem VM and as-a-service cloud implementations, monitoring/alerting setup and admin, application consulting, performance tuning, version upgrades, automations, architecture, access methods and reviews, backup/recovery, vendor coordination/ticketing, and team mentoring and knowledge sharing. As part of the DBA team you will collaborate with peer DBAs, project teams, application contacts to support and maintain current implementations as well as new builds/requirements. The role will assist in assuring that the Database implementations are secure, compliant, and adhere to minimum security requirements as set by CVS Health. You will use your knowledge and experience in the Database space to support application requirements and make recommendations for improving existing and future processes. You will aid in reviewing new enhancements, features, products for future use and planning. Common Required Qualifications:Advanced knowledge of performance tuning, monitoring/alerting, observability, dashboardingAdvanced knowledge of process/query analysis, buffer tuning, client/server connectivity and database consistency checks Advanced knowledge of maintenance routines, upgrades, patchingExperience in handling physical/logical backups & restores and data refreshes.Experience in Linux/Unix shell commands or Windows PowerShell or PythonExperience in OS fine tuning with regards to Network I/O, DiskShould be able to collaborate with DBA peers and mentor, work well in a team and independentlyShould be able to multi-task i.e. parallelize multiple environment build / data migrationShould be able to work off-hours for application release support, Linux patching support, maintenance windowsExperienced with security and data compliance aspects of databaseWell versed with latest version of database Preferred qualificationsExperience with automation via Ansible, TerraformExperience with deployments (CI/CD) with GHA, GitHub, Jenkins 5 + years of experience as a Oracle DBAExperience in installation, configuration & operations of non-RAC and multi-node RAC environment with standby database synchronized using physical data guardExperience in managing disks with ASM Experience in usage of OEM and setting up alertsExperience in managing database backup/recovery, data movement using RMAN, data pump & Flashback.Experience in performance tuning with ADDM, AWR, index optimizations, partitioning, stats pack.Experienced in Golden Gate with configuration and troubleshooting issuesGeneral familiarity with Oracle 23ai architecture & capabilities",
+        "source": "Email",
+        "date_posted": "2024-10-01 11:57:22-05:00",
+        "unique_id": "19249097570327a9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

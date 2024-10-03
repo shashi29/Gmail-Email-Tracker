@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "experience_required": "Not specified",
             "degree_required": "Not specified",
@@ -25,8 +26,7 @@
                 "Strong interpersonal skills",
                 "Strong knowledge of an enterprise wide network",
                 "Ability to communicate with managers and customers/clients",
-                "Time management",
-                "Organizational skills"
+                "Extremely organized"
             ],
             "primary": [],
             "secondary": [],
@@ -34,8 +34,7 @@
                 "Strong interpersonal skills",
                 "Strong knowledge of an enterprise wide network",
                 "Ability to communicate with managers and customers/clients",
-                "Time management",
-                "Organizational skills"
+                "Extremely organized"
             ],
             "with_experience": []
         },
@@ -49,8 +48,9 @@
         "date_posted": "2024-10-01 09:50:16-05:00",
         "unique_id": "192488f4f81af29d",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Data Analyst & Data Engineer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "AWS",
+                "GitHub"
+            ],
+            "primary": [
+                "Unit testing"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "SQL",
+                "AWS",
+                "GitHub",
+                "Unit testing"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vikrant Kaushik",
+        "email": "vikrant.kaushik@largeton.us",
+        "jd": "From: Vikrant Kaushik, Largeton Inc vikrant.kaushik@largeton.us Reply to: vikrant.kaushik@largeton.us Mix of Data Analyst & Data Engineer ONLY LOCALS TO VA PLEASE Client- Capital one Prefer Ex capital One resources or strong Financial Background only Job location- Richmond or Mclean VA (hybrid)-need local with DLVisa: No H1B/CPT/OPTDur: 6+ monthsLinkedIn needed Please attached 2 mangerial references(Capital one) as well with the submission: Project initiative:These positions will be part of antimony Laundering team who will be responsible for developing Models which services 2 groups(CIRA & Suspicious activity group) .These 4 positions will be divided out to 3 teams which are cross functional group. These positions will be mix of Data analysis & Data engineering role who will be responsible for building models & also testing those models which are already built . MUST skills-Python -SQL Coding-Unit testing-AWS -GitHub Job Description:The position requires an advanced Python programming accustomed to Object Oriented ProgrammingUnderstanding the concept of packaging Python applicationWell versed with AWS concepts of deploying Python applications to AWS eco-systemWork collaboratively with appropriate Tech teams to manage security mechanisms and data access governanceGood in leveraging Python Jupyter notebooks and then later on automating the application as a wholeAbility to drive projects such as adoption of new enterprise cloud computing capabilities and improvement projects to reduce model execution failures and model deployment timeGood in advanced SQL queries and analyzing the data derived from SnowflakeDrive analysis that provides meaningful insights on business strategiesDrive an understanding and adherence to the principles of data quality management including metadata, lineage, and business definitionsBuild and execute tools to monitor and report on data quality Thanks & Regards,Vikrant Kaushik Technical RecruiterPh no: (571)-463-9123 Ext: 347 Email is the best way to contact me.LARGETON INC | 13800 Coppermine Rd, Herndon, VA 20171",
+        "source": "Email",
+        "date_posted": "2024-10-02 08:37:06-05:00",
+        "unique_id": "1924d723af1a0e51",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

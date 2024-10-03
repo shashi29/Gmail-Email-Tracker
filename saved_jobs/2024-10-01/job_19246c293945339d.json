@@ -1,0 +1,69 @@
+[
+    {
+        "company": "AMEX",
+        "job_title": "Tech Project Manager",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "project management",
+                "banking experience",
+                "agile",
+                "scrum",
+                "project management tools"
+            ],
+            "primary": [
+                "system architecture",
+                "vendor management",
+                "stakeholder management"
+            ],
+            "secondary": [
+                "Rally",
+                "Jira"
+            ],
+            "all": [
+                "project management",
+                "banking experience",
+                "agile",
+                "scrum",
+                "project management tools",
+                "system architecture",
+                "vendor management",
+                "stakeholder management",
+                "Rally",
+                "Jira"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "From: SAPNA, ITECS sapna@itecsus.com Reply to: sapna@itecsus.com Tech PM with banking experience **Onsite at Phoenix, AZ** & Sunrise, FL End client: AMEX Required skills: Solid project management experience (5-6 years) handling wide range of programs working with multiple vendors and stakeholders across verticals Technical background and savvy of understanding and elucidating system architecture flows Banking or Financial domain experience is a must Experience in scrum ceremonies, working with agile champions and managing end to end program Knowledge experience in project management tools like Rally, Jira",
+        "source": "Email",
+        "date_posted": "2024-10-01 01:27:20-05:00",
+        "unique_id": "19246c293945339d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

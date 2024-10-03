@@ -10,14 +10,15 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "10+ years",
             "degree_required": "Not specified",
-            "visa_sponsorship": "No visa sponsorship",
+            "visa_sponsorship": "Must have existing work authorization",
             "notice_period": "Not specified",
-            "duration": "06 months",
+            "duration": "06 months contract minimum possibly longer",
             "rate": "$58/hr. on C2C"
         },
         "skills": {
@@ -25,15 +26,15 @@
                 "PostgreSQL database Administration",
                 "PostgreSQL Performance Tuning",
                 "SQL optimization",
-                "High Availability solutions",
+                "High Availability Solutions",
                 "PLSQL Coding"
             ],
             "primary": [
                 "Backup strategy",
                 "Table partitions",
                 "JOINS and Sub Queries",
-                "Database procedures",
-                "Data modelling"
+                "Database upgrade and patching",
+                "Database recovery and migration"
             ],
             "secondary": [
                 "Analytical skills",
@@ -46,18 +47,25 @@
                 "PostgreSQL database Administration",
                 "PostgreSQL Performance Tuning",
                 "SQL optimization",
-                "High Availability solutions",
+                "High Availability Solutions",
                 "PLSQL Coding",
                 "Backup strategy",
                 "Table partitions",
                 "JOINS and Sub Queries",
-                "Database procedures",
-                "Data modelling",
+                "Database upgrade and patching",
+                "Database recovery and migration",
                 "Analytical skills",
                 "Problem-solving skills",
                 "Communication skills",
                 "Interpersonal skills",
                 "Teamwork"
+            ],
+            "with_experience": [
+                "PostgreSQL database Administration",
+                "PostgreSQL Performance Tuning",
+                "SQL optimization",
+                "High Availability Solutions",
+                "PLSQL Coding"
             ]
         },
         "job_type": [
@@ -70,7 +78,8 @@
         "date_posted": "2024-09-30 16:22:01-05:00",
         "unique_id": "19244cf60c0e1e83",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "Oracle DBA"
     }

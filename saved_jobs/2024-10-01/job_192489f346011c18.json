@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "8+ years",
@@ -50,12 +51,12 @@
                 "JavaScript",
                 "HTML",
                 "CSS",
-                "Agile",
-                "BDD",
                 "Kimball methodology",
                 "Excellent presentation skills",
                 "Excellent communication skills",
-                "Excellent organizational skills"
+                "Excellent organizational skills",
+                "Agile",
+                "BDD"
             ]
         },
         "job_type": [
@@ -68,8 +69,9 @@
         "date_posted": "2024-10-01 10:04:12-05:00",
         "unique_id": "192489f346011c18",
         "emp_type": [
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": ".NET Dev"
+        "tag": ".net developer"
     }
 ]

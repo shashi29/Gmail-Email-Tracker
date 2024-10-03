@@ -1,0 +1,60 @@
+[
+    {
+        "company": "IBM",
+        "job_title": "Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hr"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "JavaScript"
+            ],
+            "primary": [
+                "RDBMS",
+                "NoSQL",
+                "webservices"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "J2EE",
+                "JavaScript",
+                "RDBMS",
+                "NoSQL",
+                "webservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "<div class='job-description'><h1>Java Developer - IBM</h1><h2>About the Company</h2><p>Client: IBM</p><h2>Job Overview</h2><p>F2F interview **ON SITE at Phoenix, AZ -Need only Local Candidate required</p><h2>Location and Work Arrangement</h2><p>Onsite at Phoenix, AZ</p><h2>Key Responsibilities</h2><p>Application Developer - Java & Web Technologies</p><h2>Required Qualifications</h2><ul><li>Java</li><li>J2EE</li><li>JavaScript</li></ul><h2>Preferred Qualifications</h2><ul><li>RDBMS</li><li>NoSQL</li><li>webservices</li></ul><h2>What We Offer</h2><p>Rate- $55/hr.</p><h2>How to Apply</h2><p>Contact SAPNA at sapna@itecsus.com</p></div>",
+        "source": "Email",
+        "date_posted": "2024-10-03 03:24:30-05:00",
+        "unique_id": "192517a4c68b467e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "748131",
             "experience_required": "Not specified",
@@ -28,30 +29,30 @@
                 "business intelligence"
             ],
             "primary": [
-                "excellent communication skills",
+                "communication skills",
                 "stakeholder management",
                 "data governance",
                 "quality assurance"
             ],
             "secondary": [
                 "cloud architecture",
+                "data exchange",
                 "Master Person Identifier (MPI)",
-                "data dictionaries",
-                "process streamlining"
+                "data dictionaries"
             ],
             "all": [
                 "SQL querying",
                 "data analysis",
                 "reporting",
                 "business intelligence",
-                "excellent communication skills",
+                "communication skills",
                 "stakeholder management",
                 "data governance",
                 "quality assurance",
                 "cloud architecture",
+                "data exchange",
                 "Master Person Identifier (MPI)",
-                "data dictionaries",
-                "process streamlining"
+                "data dictionaries"
             ]
         },
         "job_type": [
@@ -64,8 +65,9 @@
         "date_posted": "2024-10-01 09:50:32-05:00",
         "unique_id": "19248ae97ff3c7d9",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

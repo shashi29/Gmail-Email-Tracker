@@ -1,0 +1,84 @@
+[
+    {
+        "company": "StellentIT",
+        "job_title": "Adobe Google Analytics",
+        "location": "Grand Rapids, MI, USA",
+        "full_location": {
+            "city": "Grand Rapids",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Analytics",
+                "Azure Data Factory",
+                "Log Analytics",
+                "Databricks",
+                "Synapse",
+                "Power BI",
+                "ADLS Gen2",
+                "GCP Cloud storage",
+                "Big Query"
+            ],
+            "primary": [
+                "Marketing Platform Experience",
+                "Data Movement Pipelines",
+                "Dashboarding",
+                "Analytical Assets",
+                "SAFe Agile Principles"
+            ],
+            "secondary": [
+                "Configuration and Administration of Marketing Platforms",
+                "Performance Monitoring",
+                "Alerting",
+                "Code Management"
+            ],
+            "all": [
+                "Google Analytics",
+                "Azure Data Factory",
+                "Log Analytics",
+                "Databricks",
+                "Synapse",
+                "Power BI",
+                "ADLS Gen2",
+                "GCP Cloud storage",
+                "Big Query",
+                "Marketing Platform Experience",
+                "Data Movement Pipelines",
+                "Dashboarding",
+                "Analytical Assets",
+                "SAFe Agile Principles",
+                "Configuration and Administration of Marketing Platforms",
+                "Performance Monitoring",
+                "Alerting",
+                "Code Management"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek",
+        "email": "abhishek@stellentit.com",
+        "jd": "From: abhishek, StellentIT abhishek@stellentit.com Reply to: abhishek@stellentit.com Adobe Google Analytics,Grand Rapids, MI 12+ MonthsPhone + SKype 5+ years of experience. MUST HAVE MARKETING PLATFORM EXPERIENCE and be in the area that they can work onsite Designs, codes, tests, and implements data movement pipelines, dashboarding and analytical assets; develops system documentation according to SAFe Agile principles and industry standards.Design and hands-on development on either vendor or internal applications and interfaces including Azure - Data Factory, Log Analytics, Databricks, Synapse, Power BI, ADLS Gen2, GCP Cloud storage and Big QueryAssist in configuration and administration of marketing platforms (Google Marketing platform, Salesforce MCI, The Trade Desk etc., ADvendio) that the team supportsBuild data ingestion into and out of the above listed marketing platformsGathers and implements functional and non-functional requirements including performance monitoring, alerting and code management and ensuring alignment with technology best practices and SLAs.Partnering with all areas of the business to gather requirements for Data and Analytics and designing solutions.Participate in agile ceremonies and follow agile cadence to build, test and deliver solutionsDriving engagement with ITS Security and Infrastructure teams to ensure secure development and deployment of solutions.Interfaces with the Product Manager and IT partners at the Program level and within other Release Trains to define and estimate features for agile teams.",
+        "source": "Email",
+        "date_posted": "2024-10-01 15:48:13-05:00",
+        "unique_id": "1924a3abc1639bad",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

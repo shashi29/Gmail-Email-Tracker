@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Unify Solutions",
+        "job_title": "Java spark with AWS",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Apache Spark",
+                "AWS"
+            ],
+            "primary": [
+                "Snowflake",
+                "SQL",
+                "NoSQL",
+                "ETL",
+                "Data Processing"
+            ],
+            "secondary": [
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ],
+            "all": [
+                "Java",
+                "Apache Spark",
+                "AWS",
+                "Snowflake",
+                "SQL",
+                "NoSQL",
+                "ETL",
+                "Data Processing",
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Gopal",
+        "email": "gopal@unifysolutions.com",
+        "jd": "From: Gopal, Unify gopal@unifysolutions.com Reply to: gopal@unifysolutions.com Role:- Java spark with AWS (Snow flake exposure required)Location: - Plano TX / Wilmington DEJob DescriptionDesign, develop, and maintain scalable data pipelines using Apache Spark and Java.Implement data processing workflows and ETL processes to ingest, transform, and store large volumes of data.Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and deliver high-quality data solutions.Optimize and tune data processing jobs for performance and cost-efficiency.Ensure data quality, integrity, and security across all data pipelines and storage solutions.Develop and maintain data models, schemas, and documentation.Monitor and troubleshoot data pipeline issues, ensuring high availability and reliability.Hands-on experience with AWS services, including S3, EMR, Lambda, and Glue. SnowflakeExperience with SQL and NoSQL databases.CICd/ Jules /Spinnaker",
+        "source": "Email",
+        "date_posted": "2024-10-02 16:13:07-05:00",
+        "unique_id": "1924f81d5b80891f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

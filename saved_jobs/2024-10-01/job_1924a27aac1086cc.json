@@ -1,0 +1,68 @@
+[
+    {
+        "company": "UPS",
+        "job_title": "Java Developer",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL"
+            ],
+            "primary": [
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD pipeline",
+                "DevOps"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Spring Boot",
+                "SQL",
+                "OpenShift",
+                "WebLogic Application Server",
+                "Oracle SQL",
+                "Jenkins",
+                "CI/CD pipeline",
+                "DevOps"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Charanjeet Singh",
+        "email": "charanjeet@stellarconsulting.com",
+        "jd": "Hello Nidhi,Hope you and your loved ones are safe and healthy. Please go through the job description below for the role of Java Developer if you're interested and available, please reply to me back or you can call me on my direct number so that we can talk more about this role. Role: Java DeveloperOnsite Location: Parsippany, NJ- HybridDuration: 12+ months Client: UPS Job Description: Sr. Java Developer knowledgeable in Spring Framework, Spring Boot, and SQLSkill/Experience/EducationJava, Spring Framework, Spring Boot, SQLOpenShift, WebLogic Application Server, Oracle SQL, Jenkins, CI/CD pipeline, DevOps Thanks and Regards,Charanjeet Singhcharanjeet@stellarconsulting.com",
+        "source": "Email",
+        "date_posted": "2024-10-01 17:16:42-05:00",
+        "unique_id": "1924a27aac1086cc",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

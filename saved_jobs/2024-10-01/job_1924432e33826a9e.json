@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Nam IT",
+        "job_title": "Full Stack Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS"
+            ],
+            "primary": [
+                "Microservices",
+                "OpenShift",
+                "API Gateway",
+                "Junit"
+            ],
+            "secondary": [
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS",
+                "Microservices",
+                "OpenShift",
+                "API Gateway",
+                "Junit",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shilpa",
+        "email": "shilpa@nam-it.com",
+        "jd": "Hello, Looking for Capital market,Equirt,Derivates,Fixed Income Exp majorlyLooking for local candidates onlyFull Stack Java DeveloperLocation: NYC, NY (Hybrid - 3 days from office)Duration: Long Term Contract opportunityNo: of roles: 3 - Direct client:Domain Exp must: Asset Management exp (Financial Domain) Job Description / RequirementsStrong experience in Java, Spring boot, Angular, NodeJS, etc.Experience working as a full stack Developer.Experience in Java, Spring Boot, Junit version upgrade and refactoring.Strong understanding on micro-service based architecture.Good experience with containerized based architecture like OpenShift.Good understanding on multi-layer architecture.API Gateway.Angular 12+ , Angular Material or equivalent, RxJS or equivalent, NgRx or any redux/flux style patternRegards.Asset Management Exp must: - Stocks/ Equities/ Equity/ Fixed Income/ Bonds/ Cash/ Investment. RegardsShilpashilpaatnam-it.com",
+        "source": "Email",
+        "date_posted": "2024-09-30 13:31:04-05:00",
+        "unique_id": "1924432e33826a9e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

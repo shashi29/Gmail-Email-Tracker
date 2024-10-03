@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Largeton INC",
+        "job_title": "Metadata Governance Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Metadata",
+                "Java",
+                "SQL",
+                "Python",
+                "AWS"
+            ],
+            "primary": [
+                "Apache Kafka",
+                "Data Flow",
+                "Data Lineage",
+                "Spring Boot",
+                "Spring Framework",
+                "PySpark"
+            ],
+            "secondary": [
+                "Microservices",
+                "REST API",
+                "Kafka Streams",
+                "Relational Databases",
+                "NoSQL",
+                "Object-based Databases",
+                "Technical Documentation",
+                "Data Quality Solutions",
+                "Protobuf",
+                "APIs",
+                "Data Sources",
+                "draw.io",
+                "Architecture Diagrams",
+                "Data Flow Diagrams",
+                "Object-oriented Design",
+                "Software Design Patterns"
+            ],
+            "all": [
+                "Metadata",
+                "Java",
+                "SQL",
+                "Python",
+                "AWS",
+                "Apache Kafka",
+                "Data Flow",
+                "Data Lineage",
+                "Spring Boot",
+                "Spring Framework",
+                "PySpark",
+                "Microservices",
+                "REST API",
+                "Kafka Streams",
+                "Relational Databases",
+                "NoSQL",
+                "Object-based Databases",
+                "Technical Documentation",
+                "Data Quality Solutions",
+                "Protobuf",
+                "APIs",
+                "Data Sources",
+                "draw.io",
+                "Architecture Diagrams",
+                "Data Flow Diagrams",
+                "Object-oriented Design",
+                "Software Design Patterns"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Awkash Kumar",
+        "email": "awkash@largeton.us",
+        "jd": "From: Awkash Kumar, Largeton INC awkash@largeton.us Reply to: awkash@largeton.us JD :: Must Have:6+ years of work experience with Metadata6+ years of work experience with JavaSkills: Amazon Web Services (AWS)Apache KafkaData FlowData LineageJavaMetadataPySparkPython (Programming Language)Spring BootSpring FrameworkQualifications:6 or more years of data analysis experience with robust understanding of metadata, data flows and mappings.Ability to understand the Java Code base; read and/or write code using a programming language (e.g., Java, Python, etc.). Proficient with SQL and experience working with Git and experience with data analysis using Python/ PySpark.Hands-on experience with Java version 8 onwards, Spring, SpringBoot, Microservices, REST API, Kafka Streams.Experience working with various types of databases like Relational, NoSQL, Object-based.Ability to review the application development code to ensure it meets functional requirements, architectural and data standards.Proficiency in writing technical documentation for Java based applications that process data in real time and batch.Ability to develop and implement Data Quality Solutions for multiple data sources across On Prem and Cloud environments including but not limited to Databases, Flat Files, JSON, APIs, Kafka etc.Experience working on Protobuf, APIs, Kafka as Data Sources is preferred.Experience working with draw.io or other tools creating architecture or data flow diagrams.Ability to multitask and meet aggressive deadlines efficiently and effectively.Experience in object-oriented design and software design patterns.ResponsibilitiesDevelop Metadata and Data Lineage Solutions for multiple data sources across On Prem and Cloud environments including but not limited to Kafka, Protocol Buffers, REDIS, APIs, Databases, Flat Files, JSON, ETL/BI Tools and other Data Platform technologies etc.Work with Technical SMEs/developers understanding the applications/systems design, development and create data flow diagrams/data mappings.Create Source to Target mapping documents reverse engineering the application Java code/BI tools/SQL queries for the identified data flows.Develop custom metadata connectors/scanners using programming tools to automate the metadata extraction from disparate data sources.Develop solutions developing programs to automate metadata extraction and data flow/data lineage/Source to target mapping documents for complex applications/systems/BI tools.Working on metadata management, administration, support and ingest data management assets using extension mappings, custom data assets, metadata bridges, connectors, third party metadata bridges ensuring data lineage/ source to target data mapping.Create, develop, configure and execute end to end business and technical data lineage across disparate sources in accordance with the Data Governance Standards, Policies and Procedures.Design and build data capabilities like data quality, metadata, data catalog and data dictionary.",
+        "source": "Email",
+        "date_posted": "2024-10-02 14:25:53-05:00",
+        "unique_id": "1924eb184896c6a8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

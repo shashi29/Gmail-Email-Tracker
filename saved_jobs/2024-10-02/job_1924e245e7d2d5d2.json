@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Resource Logistics, Inc.",
+        "job_title": "Terraform Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "Google Cloud Platform",
+                "Infrastructure as Code",
+                "Python",
+                "CI/CD"
+            ],
+            "primary": [
+                "Kubernetes",
+                "Cloud Storage",
+                "Cloud SQL",
+                "Big Table",
+                "Big Query",
+                "Composer",
+                "DevOps practices",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Bash",
+                "Linux",
+                "Windows",
+                "Hashicorp Certification: Vault Associate",
+                "Professional DevOps certification"
+            ],
+            "all": [
+                "Terraform",
+                "Google Cloud Platform",
+                "Infrastructure as Code",
+                "Python",
+                "CI/CD",
+                "Kubernetes",
+                "Cloud Storage",
+                "Cloud SQL",
+                "Big Table",
+                "Big Query",
+                "Composer",
+                "DevOps practices",
+                "Agile methodologies",
+                "Bash",
+                "Linux",
+                "Windows",
+                "Hashicorp Certification: Vault Associate",
+                "Professional DevOps certification"
+            ],
+            "with_experience": [
+                "Terraform (3-5 years)",
+                "Google Cloud Platform (5+ years)",
+                "Python (5+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Gaurav",
+        "email": "gaurav.rathi@resource-logistics.com",
+        "jd": "From: Gaurav, Resource Logistics, Inc. gaurav.rathi@resource-logistics.com Reply to: gaurav.rathi@resource-logistics.com Role- Terraform EngineerLocation- Charlotte, NC (Onsite)Contract Mandatory Certifications:Hashicorp Certification: Terraform Associate.Google Cloud Certification.Job Duties and Responsibilities:Talented and experienced Terraform Engineer specializing in Google Cloud Platform. Candidate must have strong background in Infrastructure as Code (IaC) with a focus on terraform and will be responsible for designing, implementing, and maintaining scalable and reliable cloud infrastructure on GCPJob ResponsibilitiesProvision Services and resources on GCPFix, and improve infrastructure continuouslyTroubleshoot operational issues related to infrastructureMonitor, fix, and improve infrastructure continuouslyCollaborate with internal teams and respective stakeholders to understand user requirements and implement technical solutionsDevelop self-service infrastructure provisioning, delivery pipelines, log and monitoring servicesTechnical SkillsetIn-depth knowledge of GCP services including Compute Engine, Kubernetes Engine, Cloud Storage, Cloud SQL, Big Table, Big Query, Composer, etc.3 to 5 years\u2019 experience on GCP with expertise in Terraform, including writing and maintaining Terraform configurations and modules5+ years of experience in scripting languages (e.g. Python, Bash)Experience with CI/CD pipelines and tools (e.g. Jenkins, GitLab)Strong understanding of Cloud architecture principles, security best practices, and networking in GCPKnowledge of DevOps practices and Agile methodologiesSkilled in system-level architecture, like Linux or WindowsHashicorp Certification: Terraform Associate requiredHashicorp Certification: Vault Associate preferredGoogle Cloud Certification required. Professional DevOps certification preferredBasic Qualifications:5+ years of experience in GCP5+ years of experience in Python",
+        "source": "Email",
+        "date_posted": "2024-10-02 11:47:36-05:00",
+        "unique_id": "1924e245e7d2d5d2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

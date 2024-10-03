@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "experience_required": "7 years",
             "degree_required": "Not specified",
@@ -75,7 +76,8 @@
         "date_posted": "2024-10-01 09:34:52-05:00",
         "unique_id": "1924882421e3fc1d",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "DB Admin"
     }

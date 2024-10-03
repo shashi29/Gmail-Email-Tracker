@@ -11,7 +11,8 @@
         "job_details": {
             "employment_type": [
                 "contract",
-                "full-time"
+                "full-time",
+                "third party"
             ],
             "experience_required": "Not specified",
             "degree_required": "Not specified",
@@ -24,11 +25,11 @@
             "core": [
                 "Sybase ASE",
                 "Sybase IQ",
+                "Production Support Exp.",
                 "UNIX",
                 "Linux Shell Scripting"
             ],
             "primary": [
-                "Production Support",
                 "High Availability",
                 "Disaster Recovery",
                 "Database Design",
@@ -36,15 +37,15 @@
             ],
             "secondary": [
                 "Oracle",
-                "MS SQL Server",
+                "MS SQL server",
                 "Monitoring",
                 "Alerting",
-                "Database Projects"
+                "Cluster Setup"
             ],
             "all": [
-                "Production Support",
                 "Sybase ASE",
                 "Sybase IQ",
+                "Production Support Exp.",
                 "UNIX",
                 "Linux Shell Scripting",
                 "High Availability",
@@ -52,10 +53,10 @@
                 "Database Design",
                 "SQL Performance Tuning",
                 "Oracle",
-                "MS SQL Server",
+                "MS SQL server",
                 "Monitoring",
                 "Alerting",
-                "Database Projects"
+                "Cluster Setup"
             ]
         },
         "job_type": [
@@ -69,8 +70,9 @@
         "unique_id": "192435b35fa73831",
         "emp_type": [
             "contract",
-            "full-time"
+            "full-time",
+            "third party"
         ],
-        "tag": "Oracle DBA"
+        "tag": "DB Admin"
     }
 ]

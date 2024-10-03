@@ -1,0 +1,80 @@
+[
+    {
+        "company": "VKore Solutions",
+        "job_title": "Senior AWS Cloud Developer",
+        "location": "Northridge, CA, USA",
+        "full_location": {
+            "city": "Northridge",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3"
+            ],
+            "primary": [
+                "Cloud-native applications",
+                "Serverless architectures",
+                "Data integration",
+                "Data transformation",
+                "CI/CD practices"
+            ],
+            "secondary": [
+                "Kafka",
+                "Real Time Data Processing",
+                "Data storage",
+                "Data retrieval"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Cloud-native applications",
+                "Serverless architectures",
+                "Data integration",
+                "Data transformation",
+                "CI/CD practices",
+                "Kafka",
+                "Real Time Data Processing",
+                "Data storage",
+                "Data retrieval"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Clark Adam",
+        "email": "clark@vkoresolutions.com",
+        "jd": "Urgent position of Senior AWS Cloud Developer (F2F)\nLocation: Northridge, California\nOnsite Day 1 (Only Local)\nInterview Process:\n\u00b7 1 Round, 30 minutes \u2013 Virtual\n\u00b7 2 Round 50 Minutes- Virtual\n\u00b7 3 Round- IN person Discussion in Northridge, California\nJob Description:\nAt Least Having 12+ Years of Experience.\nProficiency in Java or Python, with a strong background in developing cloud-native applications.\nExperience with server less architectures, specifically AWS Lambda, and familiarity with other AWS services such as API Gateway, Athena, Glue and S3.\nExtensive experience with AWS cloud development and managing cloud-native components.\nHow Data is Transferred in AWS during Real-Time.\nWorking experience on queues, Kafka.\nHand on experience in Real Time Data Processing with AWS services\nStrong understanding of data integration, transformation, and processing techniques.\nSolid grasp of CI/CD practices and tools relevant to data engineering.\nIn-depth understanding of data storage and retrieval mechanisms using AWS services.",
+        "source": "Email",
+        "date_posted": "2024-09-30 17:34:24-05:00",
+        "unique_id": "1924511a3f42b67c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

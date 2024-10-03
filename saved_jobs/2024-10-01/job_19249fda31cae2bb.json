@@ -1,0 +1,77 @@
+[
+    {
+        "company": "GAC Solutions",
+        "job_title": "ETL Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ETL tools",
+                "AWS",
+                "Python",
+                "Shell",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Docker",
+                "Talend",
+                "Cloud formation",
+                "Enterprise scheduling tool"
+            ],
+            "secondary": [
+                "Agile",
+                "CICD",
+                "Data architecture",
+                "Data management",
+                "Data provisioning workflows"
+            ],
+            "all": [
+                "ETL tools",
+                "AWS",
+                "Python",
+                "Shell",
+                "Kubernetes",
+                "Docker",
+                "Talend",
+                "Cloud formation",
+                "Enterprise scheduling tool",
+                "Agile",
+                "CICD",
+                "Data architecture",
+                "Data management",
+                "Data provisioning workflows"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kiran Nagani",
+        "email": "kiran@gacsol.com",
+        "jd": "Hello,Hope you are doing well, This is Kiran from \u201cGAC Solutions\u201d . I have an excellent job opportunity with one of our clients. Please find the job description below. Role: ETL Developer Location: Columbus, OH \u2013 OnsiteDuration: 6+ Months Job description: Scripting language (Shell and Python preferred), AWS cloud experience, Lambda, Cloud formation, Kubernetes, Docker, Any Enterprise scheduling tool, Talend is a plus.Expertise in the following areas - Design and build data provisioning workflows/pipelines, physical data schemas, extracts, data transformations, and data integrations using ETL tools like Informatica, Talend etc.Analyze, develop, and execute data integration solutions, in order to manage the information lifecycle needs of an organization.Design and develop programs and tools to support ingestion, curation and provisioning of complex enterprise data to achieve analytics, reporting, and data scienceActively participates in and often leads peer development and code reviews within each Agile sprint, with focus on test driven development and Continuous Integration and Continuous Development (CICD).Builds data architecture and applications that enable reporting, analytics, and data management and improve accessibility, efficiency, governance, processing, and quality of data.Continuously learn to maintain strong knowledge of technology enablersMentor new and junior developersAnalyze complex technical problems and is expected to recommend process improvements that address complex technology gaps within a single business process and improve data reliability, quality, and efficiencyWork in a dynamic and exciting agile environment with Scrum Masters, Product Owners, and team members to develop creative data-driven solutions with ETL pipeline that meet business and technical initiatives4 -7 years of project experience Good communication skillsThanks,KiranSenior RecruiterE: kiran@gacsol.comwww.gacsol.com\u2018Experts in Digitalization and Engineering - Enterprise 4.0\u2019",
+        "source": "Email",
+        "date_posted": "2024-10-01 16:30:47-05:00",
+        "unique_id": "19249fda31cae2bb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

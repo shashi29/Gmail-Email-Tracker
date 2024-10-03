@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "8+ years",
@@ -86,8 +87,9 @@
         "date_posted": "2024-10-01 08:23:25-05:00",
         "unique_id": "192483f7d6275cb9",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": ".NET Dev"
+        "tag": ".net developer"
     }
 ]

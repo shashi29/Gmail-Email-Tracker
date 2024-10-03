@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Wise Equation solutions Inc.",
+        "job_title": "System/Business Analyst",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's Degree in Computer Science or related discipline",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Configuration Management",
+                "Data Modeling",
+                "Integration",
+                "Systems Analyst"
+            ],
+            "primary": [
+                "Data Analysis",
+                "Product Development",
+                "Project Management",
+                "Project Planning"
+            ],
+            "secondary": [],
+            "all": [
+                "Configuration Management",
+                "Data Modeling",
+                "Integration",
+                "Systems Analyst",
+                "Data Analysis",
+                "Product Development",
+                "Project Management",
+                "Project Planning"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Gargi",
+        "email": "gargi@wiseq.net",
+        "jd": "From: GARGI, Wise Equation solutions Inc. gargi@wiseq.net Reply to: gargi@wiseq.net Title: System/Business AnalystExperience: 10+ yearsLocation: New York city (Hybrid) 3 days on-site and 2 days remoteClient: MTA Note: Share the Signed CMP form and ID for the submission. This position will be responsible for understanding and documenting user needs so that an appropriate system can be developed to meet those needs. This will be accomplished by identifying user problems with the existing system and opportunities for reengineering. Qualified candidates will possess a Bachelor's Degree in Computer Science or related discipline and five years' experience as a Systems/Business Analyst. Experience should include solid background in user problem identification, problem assessment, development of alternative solutions, cost/benefit analyses of alternative solutions and working with programmers during the design, development and implementation phases of the project to ensure that user needs are being satisfied. Outstanding verbal and written communication skills, proven problem solving ability and excellent negotiating skills are essential. Experience in preparation of project plans a must Job description: Outlined below are the expected tasks for the integration consultant:1. Requirement Analysis: Conduct a thorough assessment of integration requirements, including data formats, frequency of exchange, and system dependencies.2. Solution Design: Develop a comprehensive integration architecture that accommodates the unique needs of PeopleSoft, MTA Origami, and the third-party administrator's Risk Management Information/Claims Management System.3. System Configuration: Configure integration middleware or tools to establish communication channels between the systems, ensuring compatibility and seamless data transfer and migration.4. Data Mapping and Transformation: Define data mappings between different systems and implement transformation rules to harmonize data formats and structures.5. API Development: Develop custom APIs or leverage existing APIs to enable real-time data exchange between PeopleSoft, MTA Origami, and the third-party administrator's Risk Management Information/Claims Management System.6. Testing and Validation: Conduct rigorous testing to ensure the accuracy, reliability, and performance of integration solutions under various scenarios and load conditions.7. Deployment and Go-Live Support: Coordinate deployment activities and provide support during the transition phase to minimize disruptions and maximize user adoption.8. Monitoring and Maintenance: Implement monitoring tools and procedures to track integration performance, detect anomalies, and address maintenance tasks proactively.9. Documentation and Knowledge Transfer: Document integration processes, configurations, and troubleshooting steps and provide training to internal teams for ongoing support and maintenance.10. Technical Project Management Support: Provide implementation and ongoing project management support for Legal, Safety and Risk IT group across products such as Origami, TPA program and claims management tools.",
+        "source": "Email",
+        "date_posted": "2024-10-02 15:22:49-05:00",
+        "unique_id": "1924ee5a4746d924",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

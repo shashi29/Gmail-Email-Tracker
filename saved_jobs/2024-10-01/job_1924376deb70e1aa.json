@@ -1,0 +1,83 @@
+[
+    {
+        "company": "State of LA",
+        "job_title": "Senior .Net Application Programmer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Longterm",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "ASP.NET",
+                "JavaScript",
+                "SQL Server",
+                "HTML"
+            ],
+            "primary": [
+                "ASP.NET Core",
+                "Entity Framework",
+                "Agile",
+                "Scrum"
+            ],
+            "secondary": [
+                ".Net version 5 or greater",
+                "VueJS",
+                "Bootstrap",
+                "T-SQL",
+                "IIS",
+                "Distributed Design Systems",
+                "DevOps Practices",
+                "CI/CD",
+                "monitoring/observability platforms"
+            ],
+            "all": [
+                "C#",
+                "ASP.NET",
+                "JavaScript",
+                "SQL Server",
+                "HTML",
+                "ASP.NET Core",
+                "Entity Framework",
+                "Agile",
+                "Scrum",
+                ".Net version 5 or greater",
+                "VueJS",
+                "Bootstrap",
+                "T-SQL",
+                "IIS",
+                "Distributed Design Systems",
+                "DevOps Practices",
+                "CI/CD",
+                "monitoring/observability platforms"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kalyani Dazzlon",
+        "email": "kalyanig@dazzlon.com",
+        "jd": "From: kalyani, dazzlon\nRole : Senior .Net Application Programmer\nClient: State of LA\nLocation: Remote\nDuration: Longterm Requirement:\n\u2022 Web development with C#, ASP.NET, JavaScript, SQL Server, and HTML\n\u2022 Designs, codes, compiles, tests, debugs and documents new and existing web applications, maintenance and support of existing applications.\n\u2022 Performing quality assurance reviews and testing on new code.\n\u2022 Participates in all necessary team meetings and design sessions in accordance with Scrum Ceremonies.\n\u2022 Provide technical knowledge transfer, training, documentation, mentorship and guidance to State personnel for all requested work.\n\u2022 Monitor, review and audit performance of the customer-agency\u2019s replacement software and make performance improvements.\nExpertise and/or relevant experience in the following areas are mandatory:\n\u2022 5+ years of expertise and/or relevant experience in the following areas:\n  o C#\n  o ASP.NET Core\n  o Entity Framework\n\u2022 2+ years of experience working in an Agile / Scrum environment\nExpertise and/or relevant experience in the following areas are desirable but not mandatory:\n\u2022 2+ years of expertise and/or relevant experience in the following areas:\n  o Recent experience developing applications using .Net version 5 or greater\n  o VueJS\n  o Bootstrap\n  o Javascript\n  o SQL Server (T-SQL)\n  o IIS\n  o Distributed Design Systems (SOA/Microservices)\n  o DevOps Practices (CI/CD) and Systems\n\u2022 Experience with monitoring/observability platforms and instrumenting applications to trace transactions, and provide timely alerts around issues",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:04:32-05:00",
+        "unique_id": "1924376deb70e1aa",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

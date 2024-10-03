@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
@@ -51,8 +52,9 @@
         "date_posted": "2024-10-01 06:07:39-05:00",
         "unique_id": "19247c333ecfeb0e",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "Java Dev"
+        "tag": "Java developer"
     }
 ]

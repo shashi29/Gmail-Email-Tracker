@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Aspired Solutions INC",
+        "job_title": "Senior .Net Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "React",
+                "Microservices"
+            ],
+            "primary": [
+                "DB2",
+                "Oracle",
+                "Cassandra",
+                "MongoDB",
+                "CI/CD",
+                "Git",
+                "Unix",
+                "Linux"
+            ],
+            "secondary": [],
+            "all": [
+                "C#",
+                ".NET",
+                "React",
+                "Microservices",
+                "DB2",
+                "Oracle",
+                "Cassandra",
+                "MongoDB",
+                "CI/CD",
+                "Git",
+                "Unix",
+                "Linux"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ramesh",
+        "email": "ramesh@aspiredsolutions.com",
+        "jd": "From: Ramesh, Aspired Solutions INC ramesh@aspiredsolutions.com Reply to: ramesh@aspiredsolutions.com Hi,Hope you are doing well. Job Title: Senior .Net DeveloperLocation: RemoteDuration: 12+ months contract Job Description:12+ years of Senior DeveloperStrong programming skills in C# with .NET Developer ExperienceProven Experience on React and MicroservicesFamiliarity with distributed storage systems like DB2, Oracle, Cassandra, MongoDBFamiliarity with continuous integration and continuous deployment (CI/CD) pipelines especially using GitWorking knowledge of Unix/Linux experienceThanks,Ramesh,Ramesh@aspiredsolutions.com",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:33:43-05:00",
+        "unique_id": "19243599cb014a02",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

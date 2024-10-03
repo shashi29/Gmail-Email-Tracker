@@ -9,9 +9,11 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "third party"
+            ],
             "job_code": "",
-            "experience_required": "13+ years",
+            "experience_required": "7+ years",
             "degree_required": "Not specified",
             "visa_sponsorship": "Visa sponsorship available",
             "notice_period": "Not specified",
@@ -21,8 +23,8 @@
         "skills": {
             "core": [
                 "AWS",
-                "ETL",
                 "API development",
+                "ETL",
                 "Kafka",
                 "SQL"
             ],
@@ -32,44 +34,7 @@
                 "JavaScript",
                 "PostgreSQL",
                 "AWS Aurora",
-                "DynamoDB",
-                "MongoDB",
-                "JUnit",
-                "Selenium",
-                "Postman",
-                "Jenkins",
-                "GitLab CI",
-                "CircleCI",
-                "JMeter",
-                "New Relic",
-                "Grafana",
-                "Splunk",
-                "Docker",
-                "Kubernetes"
-            ],
-            "secondary": [
-                "AWS Certified Solutions Architect",
-                "AWS Certified Developer",
-                "microservices architecture",
-                "serverless design patterns",
-                "e-commerce platforms",
-                "infrastructure as code",
-                "Terraform",
-                "CloudFormation"
-            ],
-            "all": [
-                "AWS",
-                "ETL",
-                "API development",
-                "Kafka",
-                "SQL",
-                "Python",
-                "Java",
-                "JavaScript",
-                "PostgreSQL",
-                "AWS Aurora",
-                "DynamoDB",
-                "MongoDB",
+                "NoSQL DBs",
                 "JUnit",
                 "Selenium",
                 "Postman",
@@ -82,14 +47,49 @@
                 "Splunk",
                 "Docker",
                 "Kubernetes",
-                "AWS Certified Solutions Architect",
-                "AWS Certified Developer",
-                "microservices architecture",
-                "serverless design patterns",
-                "e-commerce platforms",
-                "infrastructure as code",
                 "Terraform",
                 "CloudFormation"
+            ],
+            "secondary": [
+                "Microservices architecture",
+                "Serverless design patterns",
+                "E-commerce platforms",
+                "Agile methodologies",
+                "Scrum",
+                "Kanban"
+            ],
+            "all": [
+                "AWS",
+                "API development",
+                "ETL",
+                "Kafka",
+                "SQL",
+                "Python",
+                "Java",
+                "JavaScript",
+                "PostgreSQL",
+                "AWS Aurora",
+                "NoSQL DBs",
+                "JUnit",
+                "Selenium",
+                "Postman",
+                "Jenkins",
+                "GitLab CI",
+                "CircleCI",
+                "JMeter",
+                "New Relic",
+                "Grafana",
+                "Splunk",
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "CloudFormation",
+                "Microservices architecture",
+                "Serverless design patterns",
+                "E-commerce platforms",
+                "Agile methodologies",
+                "Scrum",
+                "Kanban"
             ]
         },
         "job_type": [
@@ -101,7 +101,9 @@
         "source": "Email",
         "date_posted": "2024-10-01 10:22:02-05:00",
         "unique_id": "19248afea02bd864",
-        "emp_type": [],
+        "emp_type": [
+            "third party"
+        ],
         "tag": "AWS Data Engineer"
     }
 ]

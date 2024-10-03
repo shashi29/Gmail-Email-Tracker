@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Resource Consultings",
+        "job_title": "Software Engineer \u2013 Java (10+ years)",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's degree in Computer Science or Computer Information Systems",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Cosmos DB",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "Microservices",
+                "SQL",
+                "Data modeling",
+                "Open Source technologies",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Unit testing",
+                "Functional testing",
+                "Performance testing"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Cosmos DB",
+                "RESTful APIs",
+                "Microservices",
+                "SQL",
+                "Data modeling",
+                "Open Source technologies",
+                "Agile methodologies",
+                "Unit testing",
+                "Functional testing",
+                "Performance testing"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kunal Bhatt",
+        "email": "kunal.bhatt@rconsultinginc.com",
+        "jd": "Role: Software Engineer \u2013 Java (10+ years)\nLocation: Sunnyvale, CA\nHybrid\n\nSkills needed:\n- Experience in Java programming\n- Experience in developing highly scalable micro-services and optimized RESTful APIs using Spring Boot in Java 8 or above\n- Solid understanding of relational and non-relational database technologies (SQL and Cosmos DB), data modeling and RESTful web APIs\n\nRoles and responsibilities:\n- Develop services for Identity and security solutions for Sam\u2019s club.\n- Perform unit testing, functional testing, performance testing for Application\n- Work on tasks related to engineering excellence and operational excellence\n\nMinimum Qualifications:\n- Bachelor's degree in Computer Science or Computer Information Systems\n- 7+ years of experience in eCommerce Software development\n- 7+ years of programming experience in architecting highly scalable & performing Web Applications\n- 5+ years of experience with Open Source technologies\n- 4+ years of developing / architecting high transaction high throughput systems is a must\n- 2+ years of experience with integrating 3rd party solutions in existing architecture\n- 4+ years of developing / architecting high transaction high throughput systems is a must\n- 2+ years of experience in agile ways of working in a distributed geographical model\n\nAdditional Preferred Qualifications:\n- Bachelor's degree in computer science or related discipline",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:27:56-05:00",
+        "unique_id": "1924922f1800ca25",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "7+ years",
@@ -24,14 +25,16 @@
             "core": [
                 "SQL Server administration",
                 "SQL database monitoring",
-                "Performance tuning",
-                "Troubleshooting database problems",
-                "Backups and High Availability",
+                "performance tuning",
+                "troubleshooting",
+                "Backups restores",
+                "High Availability (Always on)",
                 "Installation and configuration of SQL 2014, 2016 and 2019",
-                "SSIS and SSRS configuration",
+                "Configuration of SSIS and SSRS",
                 "SQL tuning",
                 "Data conversion / Migration",
-                "Supporting MS SQL databases in clustered environments",
+                "Supporting Enterprise Systems",
+                "Supporting MS SQL databases in Microsoft clustered environments",
                 "SQL transactional Replication"
             ],
             "primary": [
@@ -45,14 +48,16 @@
             "all": [
                 "SQL Server administration",
                 "SQL database monitoring",
-                "Performance tuning",
-                "Troubleshooting database problems",
-                "Backups and High Availability",
+                "performance tuning",
+                "troubleshooting",
+                "Backups restores",
+                "High Availability (Always on)",
                 "Installation and configuration of SQL 2014, 2016 and 2019",
-                "SSIS and SSRS configuration",
+                "Configuration of SSIS and SSRS",
                 "SQL tuning",
                 "Data conversion / Migration",
-                "Supporting MS SQL databases in clustered environments",
+                "Supporting Enterprise Systems",
+                "Supporting MS SQL databases in Microsoft clustered environments",
                 "SQL transactional Replication",
                 "Windows administration",
                 "PowerShell",
@@ -63,14 +68,16 @@
             "with_experience": [
                 "SQL Server administration",
                 "SQL database monitoring",
-                "Performance tuning",
-                "Troubleshooting database problems",
-                "Backups and High Availability",
+                "performance tuning",
+                "troubleshooting",
+                "Backups restores",
+                "High Availability (Always on)",
                 "Installation and configuration of SQL 2014, 2016 and 2019",
-                "SSIS and SSRS configuration",
+                "Configuration of SSIS and SSRS",
                 "SQL tuning",
                 "Data conversion / Migration",
-                "Supporting MS SQL databases in clustered environments",
+                "Supporting Enterprise Systems",
+                "Supporting MS SQL databases in Microsoft clustered environments",
                 "SQL transactional Replication"
             ]
         },
@@ -79,12 +86,13 @@
         ],
         "contact_person": "Tarun Pratap",
         "email": "tarun.pratap@gvrinfotek.com",
-        "jd": "SQL Server Administrator\nLocation: Raleigh, NC (Hybrid)\nDuration: 6+ months\nGC/USC/H4 only\nNeed only local candidates with address proof\n\nJob Description:\nOur client is seeking an experienced SQL Server Administrator to provide support for 300+ SQL databases across 3 Data Centers and 2 Cloud Providers. Due to the growth of SQL Server usage in ITD, NC DHHS is in need of a SQL Server Administrator to provide support for over 300+ SQL Databases across 3 Data Centers and 2 Cloud Providers. This role requires 7+ years' demonstrated experience working as a SQL Server administrator; Strong understanding of SQL database monitoring and performance tuning; Experience in troubleshooting and resolving database problems; Experience with following:\nBackups restores and High Availability (Always on), Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise, Configuration of SSIS and SSRS, Work experience on SSIS and SSRS to create and deploy packages and Reports, Database upgrade, Patching & Refresh, SQL tuning, Data conversion / Migration, Supporting Enterprise Systems, Database maintenance, Database backup and recovery, Setup and constantly improve maintenance, operational and monitoring processes, Export/Import Replication, maintaining backup jobs, Creating Linked Server Objects, Experience in Database Mirroring, log shipping and DR procedures, Experience in SQL transactional Replication, Supporting MS SQL databases in Microsoft clustered environments, SQL 2016 Availability groups is a plus, Experience in Spotlight is plus, Windows administration, PowerShell, Visual Studio (SQL Server Data Tools) is a plus\n\nJob duties:\nSQL Server performance analysis, tuning, capacity planning/forecast, security, and design, Collaborate with DBAs and Developers in troubleshooting database and application errors, Actively monitor the database environment to ensure optimal performance and to prevent production issues, Open and Follow-up on Service Request tickets to quickly resolve problems, Perform Production On-Call Support on rotational basis - including Off-Hours and Weekend\n\nRequired Skills:\n7 Years - Demonstrated experience working as a SQL Server administrator\n7 Years - Strong understanding of SQL database monitoring and performance tuning\n7 Years - Experience in troubleshooting and resolving database problems\n7 Years - Experience with Backups restores and High Availability (Always on)\n7 Years - Experience with Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise\n7 Years - Configuration of and work experience on SSIS and SSRS to create and deploy packages and Reports\n7 Years - SQL tuning, Data conversion / Migration, Supporting Enterprise Systems\n7 Years - Supporting MS SQL databases in Microsoft clustered environments\n7 Years - Experience in SQL transactional Replication\nWindows administration, PowerShell, Visual Studio (SQL Server Data Tools) is a plus\nExperience in Spotlight is plus\nSQL 2016 Availability groups is a plus",
+        "jd": "SQL Server Administrator\nLocation: Raleigh, NC (Hybrid)\nDuration: 6+ months\nGC/USC/H4 only\nNeed only local candidates with address proof\n\nJob Description:\nOur client is seeking an experienced SQL Server Administrator to provide support for 300+ SQL databases across 3 Data Centers and 2 Cloud Providers. Due to the growth of SQL Server usage in ITD, NC DHHS is in need of a SQL Server Administrator to provide support for over 300+ SQL Databases across 3 Data Centers and 2 Cloud Providers. This role requires 7+ years' demonstrated experience working as a SQL Server administrator; Strong understanding of SQL database monitoring and performance tuning; Experience in troubleshooting and resolving database problems; Experience with following:\nBackups restores and High Availability (Always on), Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise Configuration of SSIS and SSRS, Work experience on SSIS and SSRS to create and deploy packages and Reports Database upgrade, Patching & Refresh SQL tuning, Data conversion / Migration, Supporting Enterprise Systems Database maintenance, Database backup and recovery Setup and constantly improve maintenance, operational and monitoring processes Export/Import Replication, maintaining backup jobs, Creating Linked Server Objects Experience in Database Mirroring, log shipping and DR procedures Experience in SQL transactional Replication Supporting MS SQL databases in Microsoft clustered environments SQL 2016 Availability groups is a plus Experience in Spotlight is plus Windows administration, PowerShell, Visual Studio (SQL Server Data Tools) is a plus\n\nJob duties:\nSQL Server performance analysis, tuning, capacity planning/forecast, security, and design Collaborate with DBAs and Developers in troubleshooting database and application errors Actively monitor the database environment to ensure optimal performance and to prevent production issues. Open and Follow-up on Service Request tickets to quickly resolve problems. Perform Production On-Call Support on a rotational basis - including Off-Hours and Weekend\n\nRequired Skills:\n7 Years - Demonstrated experience working as a SQL Server administrator\n7 Years - Strong understanding of SQL database monitoring and performance tuning\n7 Years - Experience in troubleshooting and resolving database problems\n7 Years - Experience with Backups restores and High Availability (Always on)\n7 Years - Experience with Installation and configuration of SQL 2014, 2016 and 2019 Standard and Enterprise\n7 Years - Configuration of and work experience on SSIS and SSRS to create and deploy packages and Reports\n7 Years - SQL tuning, Data conversion / Migration, Supporting Enterprise Systems\n7 Years - Supporting MS SQL databases in Microsoft clustered environments\n7 Years - Experience in SQL transactional Replication\nWindows administration, PowerShell, Visual Studio (SQL Server Data Tools) is a plus\nExperience in Spotlight is plus\nSQL 2016 Availability groups is a plus",
         "source": "Email",
         "date_posted": "2024-10-01 09:30:17-05:00",
         "unique_id": "192487e65104e514",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "DB Admin"
     }

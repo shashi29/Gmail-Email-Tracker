@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Spar Information Systems",
+        "job_title": "Sr SQL Database Developer- SSIS,SSRS",
+        "location": "Rancho Cordova, CA, USA",
+        "full_location": {
+            "city": "Rancho Cordova",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MS SQL Server",
+                "My SQL",
+                "T-SQL",
+                "SSIS",
+                "SSRS"
+            ],
+            "primary": [
+                "Database design",
+                "Data structures",
+                "Indexing strategies",
+                "Database environments management",
+                "SQL scripting",
+                "Stored procedures",
+                "Database tuning",
+                "Optimization strategies"
+            ],
+            "secondary": [
+                "Articulate technical information",
+                "Maintaining timelines",
+                "Communicating status"
+            ],
+            "all": [
+                "MS SQL Server",
+                "My SQL",
+                "T-SQL",
+                "SSIS",
+                "SSRS",
+                "Database design",
+                "Data structures",
+                "Indexing strategies",
+                "Database environments management",
+                "SQL scripting",
+                "Stored procedures",
+                "Database tuning",
+                "Optimization strategies",
+                "Articulate technical information",
+                "Maintaining timelines",
+                "Communicating status"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Durga Prasad",
+        "email": "durgaprasad@sparinfosys.com",
+        "jd": "From: Durga Prasad, Spar Information Systems durgaprasad@sparinfosys.com Reply to: durgaprasad@sparinfosys.com Role: Sr SQL Database Developer- SSIS,SSRS\nLocation: Rancho Cordova, CA-Onsite from Day 1\nDuration: 6- 12 Months\nMust have 12 + years of experience\nJob description:\n\u2022 Database design experience with MS SQL Server / My SQL\n\u2022 Design data structures and indexing strategies\n\u2022 Manage and administer database environments\n\u2022 Write SQL or scripts to pull out performance data from the DB that we did not already have\n\u2022 Experience with stored procedures / T-SQL\n\u2022 Provide advice and coaching on database tuning and optimization strategies\n\u2022 Experience with SSIS\n\u2022 Experience with SSRS\n\u2022 Provide alternative diagnostic methods to resolve both in house and internal customer reported problems\n\u2022 Articulate technical information clearly\n\u2022 Maintaining and communicating timelines and status relative to business objectives",
+        "source": "Email",
+        "date_posted": "2024-09-30 11:52:29-05:00",
+        "unique_id": "19243d98c8c11ba4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

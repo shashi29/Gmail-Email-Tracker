@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Shrive Technologies",
+        "job_title": "Full stack AWS Engineer",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS cloud",
+                "Java",
+                "J2EE",
+                "Spring",
+                "JavaScript"
+            ],
+            "primary": [
+                "ECS far gate",
+                "S3",
+                "DDB",
+                "API Gateway",
+                "Data structure",
+                "Algorithms"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS cloud",
+                "Java",
+                "J2EE",
+                "Spring",
+                "JavaScript",
+                "ECS far gate",
+                "S3",
+                "DDB",
+                "API Gateway",
+                "Data structure",
+                "Algorithms"
+            ],
+            "with_experience": [
+                "Java (12+ years)",
+                "AWS cloud (12+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Thivya Jothi",
+        "email": "jothi@shrivetechnologies.com",
+        "jd": "ROLE-Full stack AWS Engineer\nLocation-Seattle, WA\nEXP-12+ YEARS Locals to WA\nJoOB DESCRIPTION\nStrong coding skills\nAWS cloud \u2013 ECS far gate, S3, DDB, API Gateway\nGood Data & Database skills. Java, J2EE, Spring, Java script\nProblem solving \u2013 Data structure, Algorithms",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:10:49-05:00",
+        "unique_id": "19249b009d62bfb6",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

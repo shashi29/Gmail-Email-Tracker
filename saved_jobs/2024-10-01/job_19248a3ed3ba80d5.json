@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "Not specified",
@@ -30,17 +31,17 @@
             ],
             "primary": [
                 "Property and casualty insurance knowledge",
-                "User Interface requirements",
-                "Integration mechanisms",
-                "Sprint planning",
-                "UAT"
+                "Integration requirements",
+                "Data mapping",
+                "User training",
+                "Sprint planning"
             ],
             "secondary": [
-                "Data mapping",
                 "Process modelling",
+                "UAT",
+                "Implementation plans",
                 "Project oversight",
-                "Mentoring junior analysts",
-                "Agile Management Tools (Rally, Octane, JIRA)"
+                "Mentoring"
             ],
             "all": [
                 "Guidewire PolicyCenter",
@@ -49,15 +50,19 @@
                 "Requirement Elicitation",
                 "Customer Relationship Management",
                 "Property and casualty insurance knowledge",
-                "User Interface requirements",
-                "Integration mechanisms",
-                "Sprint planning",
-                "UAT",
+                "Integration requirements",
                 "Data mapping",
+                "User training",
+                "Sprint planning",
                 "Process modelling",
+                "UAT",
+                "Implementation plans",
                 "Project oversight",
-                "Mentoring junior analysts",
-                "Agile Management Tools (Rally, Octane, JIRA)"
+                "Mentoring"
+            ],
+            "with_experience": [
+                "Guidewire PolicyCenter",
+                "Business Analysis"
             ]
         },
         "job_type": [
@@ -70,8 +75,9 @@
         "date_posted": "2024-10-01 10:09:02-05:00",
         "unique_id": "19248a3ed3ba80d5",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Business Analyst"
     }
 ]

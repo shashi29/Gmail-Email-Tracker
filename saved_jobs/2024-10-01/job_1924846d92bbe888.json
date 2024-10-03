@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "onsite"
+                "onsite",
+                "third party"
             ],
             "job_code": "748185",
             "experience_required": "10+ years",
@@ -22,36 +23,42 @@
         },
         "skills": {
             "core": [
-                "Project Management Professional (PMP)",
-                "high-risk project management",
-                "budget management",
-                "schedule management"
+                "Project Management",
+                "PMP Certification",
+                "High-Risk Project Management",
+                "Budget Management",
+                "Schedule Management"
             ],
             "primary": [
-                "coordination",
-                "stakeholder management",
-                "vendor management",
-                "RFP process management"
+                "Vendor Management",
+                "Risk Management",
+                "Stakeholder Communication",
+                "Business Analysis",
+                "RFP Process Management"
             ],
             "secondary": [
-                "communication",
-                "risk management",
-                "business analysis",
-                "contract negotiation"
+                "Contract Negotiation",
+                "Team Leadership",
+                "Documentation",
+                "Problem Solving",
+                "Technical Coordination"
             ],
             "all": [
-                "Project Management Professional (PMP)",
-                "high-risk project management",
-                "budget management",
-                "schedule management",
-                "coordination",
-                "stakeholder management",
-                "vendor management",
-                "RFP process management",
-                "communication",
-                "risk management",
-                "business analysis",
-                "contract negotiation"
+                "Project Management",
+                "PMP Certification",
+                "High-Risk Project Management",
+                "Budget Management",
+                "Schedule Management",
+                "Vendor Management",
+                "Risk Management",
+                "Stakeholder Communication",
+                "Business Analysis",
+                "RFP Process Management",
+                "Contract Negotiation",
+                "Team Leadership",
+                "Documentation",
+                "Problem Solving",
+                "Technical Coordination"
             ]
         },
         "job_type": [
@@ -64,8 +71,9 @@
         "date_posted": "2024-10-01 08:28:52-05:00",
         "unique_id": "1924846d92bbe888",
         "emp_type": [
-            "onsite"
+            "onsite",
+            "third party"
         ],
-        "tag": "BA/Scrum Master/PM"
+        "tag": "Project Manager"
     }
 ]

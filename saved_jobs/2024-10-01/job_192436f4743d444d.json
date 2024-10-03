@@ -1,0 +1,95 @@
+[
+    {
+        "company": "Orbitpeople LLC",
+        "job_title": "Java Architect",
+        "location": "NJ, USA",
+        "full_location": {
+            "city": "",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spring Framework",
+                "Spring Boot",
+                "Spring Cloud"
+            ],
+            "primary": [
+                "REST API",
+                "Microservices",
+                "Angular",
+                "React",
+                "Auth2",
+                "OIDC",
+                "CI/CD",
+                "DevOps",
+                "Oracle",
+                "SQL Server",
+                "MongoDB"
+            ],
+            "secondary": [
+                "Telemetry",
+                "Open Telemetry",
+                "Circuit Breaker",
+                "Jenkins",
+                "Test Automation",
+                "Splunk",
+                "Data Dog",
+                "Dynatrace"
+            ],
+            "all": [
+                "Spring Framework",
+                "Spring Boot",
+                "Spring Cloud",
+                "REST API",
+                "Microservices",
+                "Angular",
+                "React",
+                "Auth2",
+                "OIDC",
+                "CI/CD",
+                "DevOps",
+                "Oracle",
+                "SQL Server",
+                "MongoDB",
+                "Telemetry",
+                "Open Telemetry",
+                "Circuit Breaker",
+                "Jenkins",
+                "Test Automation",
+                "Splunk",
+                "Data Dog",
+                "Dynatrace"
+            ]
+        },
+        "job_type": [
+            "Hybrid"
+        ],
+        "contact_person": "Richa Mathur",
+        "email": "richa.mathur@orbitpeople.com",
+        "jd": "From: Richa Mathur, Orbitpeople LLC richa.mathur@orbitpeople.com Reply to: richa.mathur@orbitpeople.com The following are the job details:Job title: Java ArchitectLocation: NJJob type: HybridJob Requirements and Description:\u2022 In-depth knowledge of Spring framework, Spring boot and Spring cloud\u2022 Building REST API, microservice in domain driven using hexagonal architecture principles\u2022 Good demonstrated understanding of UI web-based application architectures and frameworks (Angular or React) and the way it integrates with services.\u2022 Auth2 (industry standard protocol for authentication) and OIDC (identity layer on the top of Oauth 2)\u2022 Knowledge of relevant security considerations for applications on cloud\u2022 Familiar with CI/CD pipelines and experience with DevOps\u2022 Solid understanding of both relational (Oracle, SQL server) and non-relational databases (MongoDB)\u2022 Exceptional resilient application design pattern understanding to support mission customer facing technology assets.\u2022 Experience in building low-latency, high-availability, and performing micro-services\u2022 Ability to independently analyze and solve increasingly difficult business and cloud environment issues.\u2022 Building REST API, microservice in domain driven using hexagonal architecture principles\u2022 Familiar with Telemetry and Open Telemetry framework\u2022 Familiar with Circuit Breaker design pattern\u2022 DevOps practices including CI/CD, Jenkins, test automation\u2022 Familiar with Log management tools like Splunk, Data Dog\u2022 Exceptional understanding of Dynatrace to troubleshoot performance issue related to Time-Cost analysis.\u2022 Embrace on learning mindset to take each task as a challenge to learn and share the knowledge as a way of continuous improvement\u2022 Act with ownership culture to drive meaningful change that aligns with the overall enterprise product vision\u2022 Be an active player in PoC and Solution Design ThinkingSkills Required (must be showcased on resume to be considered): Spring Framework , Spring Boot , Spring CloudAre you interested for this job?",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:30:15-05:00",
+        "unique_id": "192436f4743d444d",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

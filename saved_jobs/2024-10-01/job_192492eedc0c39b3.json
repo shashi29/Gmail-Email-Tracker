@@ -26,44 +26,38 @@
                 "Data Engineering",
                 "SQL",
                 "Python",
-                "Snowflake"
+                "AWS"
             ],
             "primary": [
-                "AWS",
+                "Data Warehouse Solutions",
+                "Data Pipelines",
+                "Snowflake",
                 "CICD",
-                "Data Quality",
-                "Data Profiling",
                 "Agile Methodologies"
             ],
             "secondary": [
                 "Dataiku",
-                "Data Security",
-                "Auditing Processes",
-                "Software Engineering Best Practices",
-                "Mentoring"
+                "Data Quality",
+                "Data Profiling",
+                "Mentoring",
+                "Software Engineering Best Practices"
             ],
             "all": [
                 "Informatica",
                 "Data Engineering",
                 "SQL",
                 "Python",
-                "Snowflake",
                 "AWS",
+                "Data Warehouse Solutions",
+                "Data Pipelines",
+                "Snowflake",
                 "CICD",
-                "Data Quality",
-                "Data Profiling",
                 "Agile Methodologies",
                 "Dataiku",
-                "Data Security",
-                "Auditing Processes",
-                "Software Engineering Best Practices",
-                "Mentoring"
-            ],
-            "with_experience": [
-                "Informatica (4+ years)",
-                "Data Engineering (7+ years)",
-                "Snowflake (5+ years)",
-                "AWS (4+ years)"
+                "Data Quality",
+                "Data Profiling",
+                "Mentoring",
+                "Software Engineering Best Practices"
             ]
         },
         "job_type": [

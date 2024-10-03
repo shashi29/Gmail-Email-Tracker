@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Java AWS Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Angular"
+            ],
+            "primary": [
+                "Quarkus",
+                "Serverless App Development",
+                "AWS CDK",
+                "SQL",
+                "GitLab CI/CD"
+            ],
+            "secondary": [
+                "Communication",
+                "CICD Scripts",
+                "TypeScript"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Angular",
+                "Quarkus",
+                "Serverless App Development",
+                "AWS CDK",
+                "SQL",
+                "GitLab CI/CD",
+                "Communication",
+                "CICD Scripts",
+                "TypeScript"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sharmi",
+        "email": "sharmi@smartitframe.com",
+        "jd": "Dear,Greetings from Smart IT Frame, Hope you are doing well!!!Smart IT Frame specializes in enabling you with your most critical line of resources. Whether it\u2019s for permanent staffing, contract staffing, contract-to-hire or executive search, we understand the importance of delivering the most suitable talent; on time and within budget. With our Core focus in emerging technologies, we have provided global technology workforce solutions in North America, Canada & India. We take pride in delivering specialized talent, superior performance, and seamless execution to meet the challenging business needs of customers worldwide Position: Java AWS Developer Work Location: Atlanta, GA (Day one onsite required)Contract Job DescriptionMinimum 5 years of experience Java AWS AngularStrong experience in Java and QuarkusAWS Serverless App Development experience in using different resources like API Gateway Lambdas Cloudfront Code Pipeline IAM etcExperience on Creating AWS resources using AWS CDK in Python Java or TypeScriptStrong Angular and Typescript experienceExperience in writing SQL queries and be able to work with DesGitlab CICD experience Comfortable writing CICD ScriptsShould be good in communication",
+        "source": "Email",
+        "date_posted": "2024-10-02 10:58:09-05:00",
+        "unique_id": "1924df7daadae0b7",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

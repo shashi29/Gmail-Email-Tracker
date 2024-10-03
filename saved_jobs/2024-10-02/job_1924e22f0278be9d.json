@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Siri InfoSolutions Inc",
+        "job_title": "Sr. Python Developer",
+        "location": "Fremont, CA, USA",
+        "full_location": {
+            "city": "Fremont",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "PySpark",
+                "Big Data",
+                "Data Science",
+                "Azure",
+                "Cassandra"
+            ],
+            "primary": [
+                "Django",
+                "Flask",
+                "Pandas",
+                "Pyarrow",
+                "Numpy",
+                "scikit-learn",
+                "REST APIs",
+                "RDBMS",
+                "NoSQL"
+            ],
+            "secondary": [
+                "data munging",
+                "data wrangling",
+                "automated testing",
+                "reusable code components"
+            ],
+            "all": [
+                "Python",
+                "PySpark",
+                "Big Data",
+                "Data Science",
+                "Azure",
+                "Cassandra",
+                "Django",
+                "Flask",
+                "Pandas",
+                "Pyarrow",
+                "Numpy",
+                "scikit-learn",
+                "REST APIs",
+                "RDBMS",
+                "NoSQL",
+                "data munging",
+                "data wrangling",
+                "automated testing",
+                "reusable code components"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Navneet Jha",
+        "email": "navneet.jha@siriinfo.com",
+        "jd": "Hello, My Name is Navneet Jha. I am reaching out to you today because we have your resume in our database and wanted to check if you are currently available in the market actively looking for an opportunity. Please see the below mentioned requirement and I believe you would be a good match for the role. I would appreciate if you could respond with your updated resume along with the good time to speak so we can move forward with the process. Role: Sr. Python Developer (PySpark ,Big Data, Data Science, ML, Azure, Cassandra exp must) Location: Fremont, CA- Hybrid Job Duration: Long Contract Mode: Video Job Details: Sr. Python Developer with experience in handling Big Data Advanced Level experience (8+ years) with Python programming language handling Big Data Experience with Django and/or Flask Experience with PySpark Experience with Azure Experience with implementing Data Science algorithms Experience with data munging/wrangling would be good to have Experience using third-party Python libraries including Pandas, Pyarrow, Numpy, etc. Experience with ML libraries like scikit-learn Experience developing REST APIs involving large volume data sets Experience with RDBMS systems. Experience with NoSQL stores (HBase, Cassandra etc.). Rigor in high quality code, automated testing, and other engineering best practices, ability to write reusable code components. This role requires partnering continuously with many stakeholders and global teams daily to stay focus on common goals. This includes coordinating with internal and external teams (onsite/offshore) as necessary. Best Regards, Navneet Jha Email: navneet.jha@siriinfo.com Siri InfoSolutions Inc, 3 Ethel Rd, Suite # 302, Edis",
+        "source": "Email",
+        "date_posted": "2024-10-02 11:46:20-05:00",
+        "unique_id": "1924e22f0278be9d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

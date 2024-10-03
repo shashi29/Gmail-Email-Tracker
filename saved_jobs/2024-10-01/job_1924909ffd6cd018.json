@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Tech Rakers",
+        "job_title": "AWS Data Engineer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Any Visa is fine",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "AWS Lambda",
+                "AWS Redshift",
+                "AWS Glue",
+                "AWS S3",
+                "AWS Batch",
+                "API Gateway",
+                "Kinesis"
+            ],
+            "secondary": [
+                "Infrastructure as Code",
+                "AWS Cloud Formation",
+                "Terraform"
+            ],
+            "all": [
+                "AWS",
+                "Python",
+                "SQL",
+                "AWS Lambda",
+                "AWS Redshift",
+                "AWS Glue",
+                "AWS S3",
+                "AWS Batch",
+                "API Gateway",
+                "Kinesis",
+                "Infrastructure as Code",
+                "AWS Cloud Formation",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Suresh Kumar",
+        "email": "sureshk@techrakers.com",
+        "jd": "From: Suresh, Tech Rakers sureshk@techrakers.com Reply to: sureshk@techrakers.com Title: AWS Data EngineerLocation: Houston, TXDuration: 6+ MonthsNeed Locals OnlyRequired:Top Skills' DetailsAWS Data Engineer experience working on AWS services building data environment and warehouse- most important skills in AWS are Lambda, and Redshift -AWS experience with lambda, Glue , S3, AWS batch and API gateway, kinesisStrong development experience with Python and developing REST API using pythonStrong SQL experience preferably working on analytical databases such as AWS Redshift.Familiarity working with Infrastructure as Code such as AWS Cloud Formations or TerraformThanks and regards,Suresh Kumar,sureshk@techrakers.com",
+        "source": "Email",
+        "date_posted": "2024-10-01 11:59:16-05:00",
+        "unique_id": "1924909ffd6cd018",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

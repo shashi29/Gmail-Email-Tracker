@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Mphasis",
+        "job_title": "Cloud Development Engineer",
+        "location": "Westlake, TX, USA",
+        "full_location": {
+            "city": "Westlake",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cloud Experience (Azure, AKS prioritized, GCP secondary)",
+                "Systems Engineering",
+                "Automation Engineering",
+                "Software Development",
+                "Platform Engineering",
+                "Systems Design"
+            ],
+            "primary": [
+                "Infrastructure-as-Code",
+                "cloud computing infrastructure",
+                "Business Process Engineering",
+                "Systems Integration and Automation",
+                "Microservices architecture",
+                "Data design and database schema",
+                "DevOps",
+                "cloud observability tools",
+                "cloud resiliency",
+                "critical application support",
+                "advertising services for enterprise consumption via API gateway",
+                "knowledge of modern web application architectures"
+            ],
+            "secondary": [
+                "excellent communication skills both written and verbal"
+            ],
+            "all": [
+                "Cloud Experience (Azure, AKS prioritized, GCP secondary)",
+                "Systems Engineering",
+                "Automation Engineering",
+                "Software Development",
+                "Platform Engineering",
+                "Systems Design",
+                "Infrastructure-as-Code",
+                "cloud computing infrastructure",
+                "Business Process Engineering",
+                "Systems Integration and Automation",
+                "Microservices architecture",
+                "Data design and database schema",
+                "DevOps",
+                "cloud observability tools",
+                "cloud resiliency",
+                "critical application support",
+                "advertising services for enterprise consumption via API gateway",
+                "knowledge of modern web application architectures",
+                "excellent communication skills both written and verbal"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Pavankalyan",
+        "email": "pavankalyan.p@atvsllc.com",
+        "jd": "From: Pavankalyan, Atvsllc pavankalyan.p@atvsllc.com Reply to: pavankalyan.p@atvsllc.com JD;Cloud Development Engineer Location: Westlake, TX Client: MphasisSkills required: Day two support Cloud Development Engineer Skills Targeted (compared to a general developer) 1) Cloud Experience (Azure, AKS prioritized, GCP secondary) 2) Systems Engineering - Experience with Infrastructure-as-Code - Experience with cloud computing infrastructure (virtual networking, containers, runtime orchestration, API-driven web services [e.g. object storage, event management services]) 3) Automation Engineering - Business Process Engineering - Systems Integration and Automation (e.g. multi-protocol, transactional event processing, batch, concurrency) 4) Software Development - Microservices architecture and development experience - Data design and database schema experience with structured and unstructured database systems - DevOps experience 5) Platform Engineering - cloud observability tools - cloud resiliency - critical application support in multi region architectures 6) Systems Design - advertising services for enterprise consumption via API gateway - knowledge of modern web application architectures and how they align with cloud native infrastructure Reference Applications Conversant in Cloud technologies experience with technology based learning plans and content Working with L&D ability to create/maintain Cloud scenario based learning paths for all roles ability to create reference applications and materials to support the learning paths excellent communication skills both written and verbal",
+        "source": "Email",
+        "date_posted": "2024-10-02 13:37:17-05:00",
+        "unique_id": "1924e85080fb6eda",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

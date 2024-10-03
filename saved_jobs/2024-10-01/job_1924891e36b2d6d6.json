@@ -9,7 +9,10 @@
             "country": "USA"
         },
         "job_details": {
-            "employment_type": [],
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
             "job_code": "",
             "experience_required": "7 years",
             "degree_required": "Not specified",
@@ -77,7 +80,10 @@
         "source": "Email",
         "date_posted": "2024-10-01 09:20:32-05:00",
         "unique_id": "1924891e36b2d6d6",
-        "emp_type": [],
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
         "tag": "DB Admin"
     }
 ]

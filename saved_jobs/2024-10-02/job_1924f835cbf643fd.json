@@ -1,0 +1,105 @@
+[
+    {
+        "company": "Pursuit Software",
+        "job_title": "Azure PaaS C# .NET Developer",
+        "location": "FL, USA",
+        "full_location": {
+            "city": "",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net Core",
+                "C#",
+                "Azure DevOps",
+                "CI/CD",
+                "Azure App Service",
+                "Azure Functions",
+                "Azure SQL database",
+                "MS SQL database",
+                "Azure CosmosDB",
+                "MongoDB",
+                "Azure Message Bus",
+                "Azure EventHub",
+                "Azure EventGrid",
+                "Azure API Manager",
+                "Application Insights",
+                "Git",
+                "Azure Repos",
+                "Azure Pipelines",
+                "OOP",
+                "OOD"
+            ],
+            "primary": [
+                "Strong analytical skills",
+                "Strong problem solving skills",
+                "Strong debugging skills",
+                "Experience automating platforms using APIs",
+                "Experience in implementation of Azure security",
+                "Good Exposure to database development in SQL Server",
+                "Exposure to JavaScript",
+                "Experience working in an Agile / Scrum team environment"
+            ],
+            "secondary": [
+                "Microsoft certification on Azure Development",
+                "Experience in cloud application detailed design aspects"
+            ],
+            "all": [
+                ".Net Core",
+                "C#",
+                "Azure DevOps",
+                "CI/CD",
+                "Azure App Service",
+                "Azure Functions",
+                "Azure SQL database",
+                "MS SQL database",
+                "Azure CosmosDB",
+                "MongoDB",
+                "Azure Message Bus",
+                "Azure EventHub",
+                "Azure EventGrid",
+                "Azure API Manager",
+                "Application Insights",
+                "Git",
+                "Azure Repos",
+                "Azure Pipelines",
+                "OOP",
+                "OOD",
+                "Strong analytical skills",
+                "Strong problem solving skills",
+                "Strong debugging skills",
+                "Experience automating platforms using APIs",
+                "Experience in implementation of Azure security",
+                "Good Exposure to database development in SQL Server",
+                "Exposure to JavaScript",
+                "Experience working in an Agile / Scrum team environment",
+                "Microsoft certification on Azure Development",
+                "Experience in cloud application detailed design aspects"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Kumar Navneet",
+        "email": "navneet_k@pursuitsoftware.biz",
+        "jd": "From: Kumar Navneet, Pursuit Software navneet_k@pursuitsoftware.biz Reply to: navneet_k@pursuitsoftware.biz Role: Azure PaaS C# .NET DeveloperRole Description: Design, build and configure applications to meet business process and application requirements Must Have:Minimum of 5 years experience with .Net Core, C#, Azure DevOps, automation pipelines CI/CD.Following Azure PaaS components (Bold mandatory):Azure App Service (Web Apps and APIs).Azure Functions.Azure SQL database or MS SQL database.Azure CosmosDB OR MongoDB etc (any NoSQL databases).Azure Message Bus or Azure EventHub or Azure EventGrid.Azure API Manager (APIM).Monitoring service like Application Insights.Azure DevOps components (Azure Repos and Azure Pipelines).Programming using C#.NET (not VB).Strong analytical and problem solving skills (must).Strong debugging skills (must).Experience automating, monitoring of platforms using APIs / webhooks.Experience in implementation of Azure security, authentication and single sign-on etc.Good Exposure to database development in SQL Server.Exposure to JavaScriptExposure to SCM tools like Git or Azure Repos/PipelineSolid understanding of OOP/OOD.Experience working in an Agile / Scrum team environment. Good To Have:Microsoft certification on Azure Development.Experience in cloud application detailed design aspects including design patterns and principles.",
+        "source": "Email",
+        "date_posted": "2024-10-02 18:15:06-05:00",
+        "unique_id": "1924f835cbf643fd",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

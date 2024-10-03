@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Azure Architect",
+        "location": "Iselin, NJ, USA",
+        "full_location": {
+            "city": "Iselin",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft Azure",
+                "Infrastructure as Code (IaC)",
+                "Docker",
+                "Kubernetes",
+                "PowerShell",
+                "Python",
+                "Bash"
+            ],
+            "primary": [
+                "Azure Compute",
+                "Azure Storage",
+                "Azure Networking",
+                "Azure Security",
+                "Azure Active Directory",
+                "Role-Based Access Control",
+                "MFA"
+            ],
+            "secondary": [
+                "Networking certifications",
+                "Security certifications",
+                "DevOps certifications"
+            ],
+            "all": [
+                "Microsoft Azure",
+                "Infrastructure as Code (IaC)",
+                "Docker",
+                "Kubernetes",
+                "PowerShell",
+                "Python",
+                "Bash",
+                "Azure Compute",
+                "Azure Storage",
+                "Azure Networking",
+                "Azure Security",
+                "Azure Active Directory",
+                "Role-Based Access Control",
+                "MFA",
+                "Networking certifications",
+                "Security certifications",
+                "DevOps certifications"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pradeep Sharma",
+        "email": "pradeep.sharma@scalable-systems.com",
+        "jd": "From: Pradeep, Scalable Systems pradeep.sharma@scalable-systems.com Reply to: pradeep.sharma@scalable-systems.com Hi,Greetings of the day! I have an urgent requirement below, please go through JD and let me know if you are comfortable or have any profile. Kindly revert me back with your updated resume as well. Job Title: Azure Architect Location: Iselin, NJ (Work from Office)Duration: Long Term Contract Key Responsibilities:7+ years of experience in IT infrastructure, architecture, and cloud solutions.3+ years of hands-on experience designing and implementing solutions on Microsoft Azure.Microsoft Certified: Azure Solutions Architect Expert (preferred).Additional certifications in networking, security, or DevOps are a plus.Proficiency in Azure services such as Azure Compute, Storage, Networking, and Security.Hands-on experience with Infrastructure as Code (IaC) using ARM Templates, Terraform, or similar tools.Experience with containerization technologies like Docker and Kubernetes.Solid grasp of Azure Identity and Security features (e.g., Azure Active Directory, Role-Based Access Control, MFA).Proficiency in scripting languages (PowerShell, Python, Bash). Thanks & Regards, Pradeep SharmaEmail: pradeep.sharma@scalable-systems.com \"Scalable Systems is an Equal Opportunity Employer. We are committed to creating an inclusive environment for all employees and do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other legally protected status.\"",
+        "source": "Email",
+        "date_posted": "2024-09-30 07:11:07-05:00",
+        "unique_id": "19242d70ef6b05fd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

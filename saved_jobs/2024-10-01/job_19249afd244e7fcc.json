@@ -1,0 +1,64 @@
+[
+    {
+        "company": "ITBrainiac Inc",
+        "job_title": "Database Engineer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle DB",
+                "MySQL Server",
+                "PostgreSQL"
+            ],
+            "primary": [
+                "Installation",
+                "Configuration",
+                "Functional Testing",
+                "Performance Tuning"
+            ],
+            "secondary": [
+                "VMware"
+            ],
+            "all": [
+                "Oracle DB",
+                "MySQL Server",
+                "PostgreSQL",
+                "Installation",
+                "Configuration",
+                "Functional Testing",
+                "Performance Tuning",
+                "VMware"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Tejasree Echuru",
+        "email": "tejasree@itbtalent.com",
+        "jd": "From: tejasree, ITBrainiac.Inc tejasree@itbtalent.com Reply to: tejasree@itbtalent.com Position: Database Engineer\nLocation: Austin, TX - Onsite Day 1\nNote-GC andidates not workable\nJob description: Tier 3+ Specialized workloads: Oracle DB, MySQL Server (Basic and advanced configuration for HA)\nNice to have: PostgreSQL\nSkills: Somebody who can Install, configure, Run critical CUJS and knows performance tuning\nScope: Installation, Configuration, Functional Testing and performance comparison across different VMware platforms (HW types)\nRegards: Tejasree Echuru \u2013 Sr. IT Recruiter\nITBrainiac Inc\nPrinceton Forrestal Village\n116 Village Blvd, Suite 200 Princeton, NJ 08540| New Jersey-08540\nEMAIL : tejasree@itbtalent.com\nWebsite : www.itbrainiac.com\nLinkedIn URL: https://www.linkedin.com/in/echuru-tejasree/",
+        "source": "Email",
+        "date_posted": "2024-10-01 15:05:08-05:00",
+        "unique_id": "19249afd244e7fcc",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

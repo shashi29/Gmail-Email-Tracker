@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "GCP SaaS Integration Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "GCE",
+                "GKE",
+                "IAM",
+                "GCS",
+                "Pub/Sub"
+            ],
+            "primary": [
+                "Cloud APIs",
+                "SaaS platforms",
+                "Front end development",
+                "Debugging techniques"
+            ],
+            "secondary": [
+                "GCP Cloud Solution Architect certification"
+            ],
+            "all": [
+                "GCP",
+                "GCE",
+                "GKE",
+                "IAM",
+                "GCS",
+                "Pub/Sub",
+                "Cloud APIs",
+                "SaaS platforms",
+                "Front end development",
+                "Debugging techniques",
+                "GCP Cloud Solution Architect certification"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Dhamodharan",
+        "email": "dhamodharan@smartitframe.com",
+        "jd": "From: dhamodharan, smartitframe dhamodharan@smartitframe.com Reply to: dhamodharan@smartitframe.com Hi All Job Title: GCP SaaS Integration EngineerLocation; RemoteContract Job Description:Should have hands-on experience of managing GCP services such as GCE, GKE, IAM, GCS , pub-sub and other commonly used services beforeUnderstanding of usage of Cloud API\u2019s and integrationSMEs need experience building apps for various API calls (usage reporting, Pub/Sub, etc.)Knowledge of Front end development and debugging techniquesGeneral understanding of SaaS platforms / architectures and deployment types to support partner queriesPreferably have a GCP Cloud Solution Architect certification",
+        "source": "Email",
+        "date_posted": "2024-10-01 16:57:28-05:00",
+        "unique_id": "1924a1610044dc5c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

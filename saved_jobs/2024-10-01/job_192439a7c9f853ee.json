@@ -1,0 +1,91 @@
+[
+    {
+        "company": "KPG99",
+        "job_title": "Java Engineer",
+        "location": "O\u2019Fallon, MO, USA",
+        "full_location": {
+            "city": "O\u2019Fallon",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaScript",
+                "secure coding standards",
+                "Gitflow",
+                "TDD",
+                "BDD",
+                "API standards"
+            ],
+            "primary": [
+                "debugging",
+                "troubleshooting",
+                "service-oriented architecture",
+                "design patterns",
+                "code quality tools",
+                "CI/CD",
+                "Jenkins",
+                "AWS",
+                "Azure"
+            ],
+            "secondary": [
+                "gRPC Framework",
+                "documentation",
+                "regression testing",
+                "performance testing",
+                "release testing"
+            ],
+            "all": [
+                "Java",
+                "JavaScript",
+                "secure coding standards",
+                "Gitflow",
+                "TDD",
+                "BDD",
+                "API standards",
+                "debugging",
+                "troubleshooting",
+                "service-oriented architecture",
+                "design patterns",
+                "code quality tools",
+                "CI/CD",
+                "Jenkins",
+                "AWS",
+                "Azure",
+                "gRPC Framework",
+                "documentation",
+                "regression testing",
+                "performance testing",
+                "release testing"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pankaj",
+        "email": "ps@kpgtech.com",
+        "jd": "Hi,Hope you are doing well.Please find the job description below and let me know your interest.Position: Java EngineerLocation: O\u2019Fallon, MO Duration: 6+ MonthsMode of Interview: Video and inpersonJob Description:Responsibilities\uf0b7 Participate in team prioritization discussions with Product/Business stakeholders\uf0b7 Estimate and own delivery tasks (design, dev, test, deployment, configuration, documentation)to meet the business requirements\uf0b7 Automate build, operate, and run aspects of software\uf0b7 Drive code/design/process trade-off discussions within their team when required\uf0b7 Drive integration of services focusing on customer journey and experience\uf0b7 Perform demos/acceptance discussions in interacting with Product owners\uf0b7 Understands operational and engineering experience, actively works to improve experience andmetrics in ownership area\uf0b7 Develop complete understanding of end-to-end technical architecture and dependency systems\uf0b7 Drive adoption of technology standards and opinionated frameworks, and review coding, test,and automation work of team members\uf0b7 Mentor and guide new and less-experienced team members Experience\uf0b7 Has ability to write secure code in multiple languages (e.g., Java, JavaScript) and familiar withsecure coding standards (e.g., OWASP, CWE, SEI CERT) and vulnerability management\uf0b7 Understands the basic engineering principles used in building and running mission criticalsoftware capabilities (security, customer experience, testing, operability, simplification, service-oriented architecture)\uf0b7 Understands internals of operating systems (Windows, Linux) to write interoperable andperformant code\uf0b7 Able to perform debugging and troubleshooting to analyze core, heap, thread dumps andremove coding errors\uf0b7 Understands and implements standard branching (e.g., Gitflow) and peer review practices\uf0b7 Has skills in test driven and behavior driven development (TDD and BDD) to build just enoughcode and collaborate on the desired functionality\uf0b7 Understands use cases for advanced design patterns (e.g., service-to-worker, MVC, API gateway,intercepting filter, dependency injection, lazy loading, all from the gang of four) to implementefficient code\uf0b7 Understands and implements Application Programming Interface (API) standards and catalogingto drive API/service adoption and commercialization \uf0b7 Has skills to author test code with lots of smaller tests followed by few contract tests at servicelevel and fewer journey tests at the integration level (Test Pyramid concept)\uf0b7 Apply tools (e.g., Sonar, Zally, Checkmarx ) and techniques to scan and measure code quality andanti-patterns as part of development activity\uf0b7 Has skills to orchestrate release workflows and pipelines, and apply standardized pipelines viaAPIs to achieve CI and CD using industry standard tools (e.g., Jenkins, AWS/Azure pipelines, XLRelease, others).\uf0b7 gRPC Framework understanding (nice to have)\uf0b7 Has skills to document and drive definition-of-done for requirements to meet both business andoperational needs\uf0b7 Understands how to build robust tests to minimize defect leakage by performing regression,performance, deployment verification, and release testing\uf0b7 Has skills to conduct product demos and co-ordinate with product owners to drive productacceptance signoffs",
+        "source": "Email",
+        "date_posted": "2024-09-30 10:44:32-05:00",
+        "unique_id": "192439a7c9f853ee",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

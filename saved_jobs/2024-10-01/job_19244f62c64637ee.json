@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "Windows System Engineer OR Windows Admin",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Virtual Desktop",
+                "W365 Cloud PC",
+                "Intune"
+            ],
+            "primary": [
+                "Deploying and Managing W365 Cloud PC",
+                "Configuring and managing provisioning policies",
+                "Configuring Azure Network connection for W365 cloud PC",
+                "Configuring and managing AVD session hosts",
+                "Image management and centralized control",
+                "Security hardening of VDI infrastructure",
+                "Configuring Azure Premium File Share",
+                "Configuring FSLogix profile management",
+                "Configuring and managing Autoscale",
+                "Configuring and managing Azure Monitor"
+            ],
+            "secondary": [
+                "Good understanding of Azure Vnet",
+                "Troubleshoot virtual desktops",
+                "Good Understanding of PowerShell",
+                "Knowledge of ITIL Process",
+                "Service now & other ticketing tools"
+            ],
+            "all": [
+                "Azure Virtual Desktop",
+                "W365 Cloud PC",
+                "Intune",
+                "Deploying and Managing W365 Cloud PC",
+                "Configuring and managing provisioning policies",
+                "Configuring Azure Network connection for W365 cloud PC",
+                "Configuring and managing AVD session hosts",
+                "Image management and centralized control",
+                "Security hardening of VDI infrastructure",
+                "Configuring Azure Premium File Share",
+                "Configuring FSLogix profile management",
+                "Configuring and managing Autoscale",
+                "Configuring and managing Azure Monitor",
+                "Good understanding of Azure Vnet",
+                "Troubleshoot virtual desktops",
+                "Good Understanding of PowerShell",
+                "Knowledge of ITIL Process",
+                "Service now & other ticketing tools"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Karthick Raja",
+        "email": "karthick.raja@vysystems.com",
+        "jd": "From: Kaushik, vysystems karthick.raja@vysystems.com Reply to: karthick.raja@vysystems.com Top Qualifications: (12+ yrs needed)1. Azure Virtual Desktop2. W365 Cloud PC3. IntuneQualifications:\u2022 At least 12+ years of experience in the field of Microsoft Azure Virtual Desktop and W365 cloud PC\u2022 Experience in Deploying and Managing W365 Cloud PC Azure Virtual Desktops in the Microsoft Azure Production Environment\u2022 Experience in configuring and managing provisioning policies\u2022 Experience is congifuring Azure Network connection for W365 cloud PC\u2022 Excellent knowledge of the AZURE AVD host pool & workspaces.\u2022 Experience in configuring and managing AVD session hosts in production.\u2022 Efficient image management and centralized control.\u2022 Security hardening of VDI infrastructure as per regulatory guidelines and industry best practices.\u2022 Experience in configuring Azure Premium File Share and Azure NetApp files.\u2022 Experience in FSLogix profile management for AVD hosts on Azure files and NetApp.\u2022 Experience on Azure IaaS.\u2022 Experience in configuring and managing Autoscale.\u2022 Experience in configuring and managing Azure Monitor, Log Analytics, and Diagnostics settings.\u2022 Good understanding of Azure Vnet, NSG, and firewall.\u2022 Troubleshoot virtual desktops, applications in a multi-cast domain environment.\u2022 Good Understanding of PowerShell, ARM Templates, Bicep, and other IaaC\u2022 Collaborate with operational counterparts to support and provide client opportunities for improvement via automation, etc.\u2022 Knowledge of ITIL Process and Service now & other ticketing tools.",
+        "source": "Email",
+        "date_posted": "2024-09-30 17:04:24-05:00",
+        "unique_id": "19244f62c64637ee",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

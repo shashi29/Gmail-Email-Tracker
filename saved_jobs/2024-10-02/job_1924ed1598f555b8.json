@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Yochana IT Solutions Inc.",
+        "job_title": "Senior AWS Cloud Developer",
+        "location": "Northridge, CA, USA",
+        "full_location": {
+            "city": "Northridge",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "AWS services"
+            ],
+            "primary": [
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Data integration",
+                "Data transformation",
+                "Data processing techniques"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "AWS services",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD",
+                "Data integration",
+                "Data transformation",
+                "Data processing techniques"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pallavi Boola",
+        "email": "pallavi@yochana.com",
+        "jd": "Hello,I\u2019m a Technical Recruiter with Yochana Solutions Inc., a national IT staffing solutions provider with 14+ years of experience delivering value to leading companies across the U.S.A. and Canada,I'm currently staffing for Senior AWS Cloud Developer \u2013 Northridge, California (Onsite), Below you will find the job description, if you are qualified and interested, please send me your Updated Word Document Resume.I'm very sorry if this position is not an ideal fit, We'll keep you in mind for other suitable positions and referrals would be appreciated.Thank you so much for your attention and participation.Job Role: Senior AWS Cloud Developer Job Location: Northridge, California (Onsite)Project Duration: 6-12Months Job Description: At Least Having 12+ Years of Experience.Proficiency in Java or Python, with a strong background in developing cloud-native applications.Experience with server less architectures, specifically AWS Lambda, and familiarity with other AWS services such as API Gateway, Athena, Glue and S3.Extensive experience with AWS cloud development and managing cloud-native components.How Data is Transferred in AWS during Real-Time.Working experience on queues, Kafka.Hand on experience in Real Time Data Processing with AWS servicesStrong understanding of data integration, transformation, and processing techniques.Solid grasp of CI/CD practices and tools relevant to data engineering.In-depth understanding of data storage and retrieval mechanisms using AWS services.",
+        "source": "Email",
+        "date_posted": "2024-10-02 15:00:39-05:00",
+        "unique_id": "1924ed1598f555b8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

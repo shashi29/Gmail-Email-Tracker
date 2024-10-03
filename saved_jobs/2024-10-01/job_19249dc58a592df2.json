@@ -1,0 +1,90 @@
+[
+    {
+        "company": "smartitframe",
+        "job_title": "Cloud Engineering and Operations Engineer Lead (P4)",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Infrastructure Engineering",
+                "Terraform",
+                "GCP",
+                "Azure",
+                "Infrastructure as Code (IaC)"
+            ],
+            "primary": [
+                "Cloud service offerings",
+                "Data analytics",
+                "AI/ML",
+                "Kubernetes",
+                "Disaster recovery",
+                "Business continuity"
+            ],
+            "secondary": [
+                "Agile concepts",
+                "Site Reliability Engineering (SRE)",
+                "Cloud governance",
+                "Logging/monitoring tooling",
+                "Networking",
+                "Firewalls",
+                "Load balancing",
+                "Database security",
+                "Active directory",
+                "RBAC"
+            ],
+            "all": [
+                "Infrastructure Engineering",
+                "Terraform",
+                "GCP",
+                "Azure",
+                "Infrastructure as Code (IaC)",
+                "Cloud service offerings",
+                "Data analytics",
+                "AI/ML",
+                "Kubernetes",
+                "Disaster recovery",
+                "Business continuity",
+                "Agile concepts",
+                "Site Reliability Engineering (SRE)",
+                "Cloud governance",
+                "Logging/monitoring tooling",
+                "Networking",
+                "Firewalls",
+                "Load balancing",
+                "Database security",
+                "Active directory",
+                "RBAC"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "dhamodharan",
+        "email": "dhamodharan@smartitframe.com",
+        "jd": "From: dhamodharan, smartitframe dhamodharan@smartitframe.com Reply to: dhamodharan@smartitframe.com Hi All Role: Cloud Engineering and Operations Engineer Lead (P4)Locations: Charlotte, NC, New Jersey, NJ and Dallas, TX, Phoenix, AZ, St Louis, MO (Onsite) Long Term Contract Required Qualifications:5+ years of Infrastructure Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education3+ years of experience with scripting and infrastructure automation using Terraform3+ years of hands-on experience with GCP or Azure platform enablement and application migrations, build out of complex infrastructure programmable patterns using Infrastructure as Code (IaC)2+ years of knowledge and understanding of Cloud service offerings such as data, analytics, AL/ML on GCP or Azure2+ years of experience with key services provided by Azure and/or GCP such as BigQuery, Vertix AI, DataProc, Functions. AKS, Service Fabric2+ years working in a globally distributed team to provide innovative and robust cloud centric solutions.2+ years gathering and analyzing data to diagnose the root cause of cloud workload issues, recommending and implementing solutions to resolve issues in timely mannerDesired Qualifications:\u00b7 GCP Professional Cloud Architect or Azure Solutions Architect Certifications are highly desired.Exposure to cloud governance and logging/monitoring toolingExperience with Agile concepts and Site Reliability Engineering (SRE) PrinciplesUnderstanding, engineering and implementing disaster recovery and business continuity playbooksProficient on container-based solutions and services and have handled large scale Kubernetes based infrastructure build out and provisioning on Azure or GCPKnowledge and understanding of Cloud Service offerings on Azure or GCP related to security, data protection, and policy implementationsAbility to articulate technical solutions to both technical and business partnersGood understanding of networking, firewalls, load balancing concepts (IP, DNS, Guardrails, Vnets) and exposure to database, cloud security, active directory, authentication methods, RBAC Job Description/ Responsibilities:Lead complex technology initiatives including those that are companywide with broad impactAct as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplinesDesign, code, test, debug, and document for projects and programsReview and analyze complex, large-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in-depth evaluation of multiple factors, including intangibles or unprecedented technical factorsMake decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiativesCollaborate and consult with key technical experts, senior technology team, and external industry groups to resolve complex technical issues and achieve goalsLead projects, teams, or serve as a peer mentorLead complex technology Cloud build and migrations in either Google or Azure cloud platformsLead efforts in migrating legacy systems and applications to the cloud, ensuring minimal disruption to business operationsAct as a key contributor in automating the provisioning of cloud infrastructure using Infrastructure as Code (Terraform)Make decisions in developing standards and engineering solutions. Design, optimize, and develop key services for the cloud platformsReview and analysis complex, large-scale technology solutions for placement in the cloud that are aligned to strategic business objectives and address technical challengesCollaborate and consult with key technical expert, senior technology teams, and external industry groups to resolve technical and complex issues and goalsBuild and enable cloud infrastructure, automate the orchestration of Azure/GCP cloud platforms, design and deploy service enablement solutions, and engineer patterns and landing zones for workloads in the cloudWork closely with product teams to address application demandsHands on experience with DevSecOps and SDLC tooling (GitHub, Ansible, Terraform, Jenkins, Cucumber, Harness)Understand container orchestration principles including container management and deployment of compute resources",
+        "source": "Email",
+        "date_posted": "2024-10-01 15:54:25-05:00",
+        "unique_id": "19249dc58a592df2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

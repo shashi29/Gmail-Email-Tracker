@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Avance",
+        "job_title": "Python Developer",
+        "location": "Morristown, NJ, USA",
+        "full_location": {
+            "city": "Morristown",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "FastAPI",
+                "Redis",
+                "Docker",
+                "MongoDB"
+            ],
+            "primary": [
+                "Async processing",
+                "Microservices",
+                "Unit testing",
+                "Production logging",
+                "Blob storage"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "FastAPI",
+                "Redis",
+                "Docker",
+                "MongoDB",
+                "Async processing",
+                "Microservices",
+                "Unit testing",
+                "Production logging",
+                "Blob storage"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinod",
+        "email": "vinod.m@avanceservices.com",
+        "jd": "From: Vinod, Avance vinod.m@avanceservices.com Reply to: vinod.m@avanceservices.com Python backend developerHybrid in Morristown, New JerseyOnly for H1Bs with PP numberPython backend developer with experience in creating web applications.Good at fast API framework, async processing with redis cache, unit test the code, production log code, docker, micro-services, mongo DB, blob storage",
+        "source": "Email",
+        "date_posted": "2024-09-30 09:26:05-05:00",
+        "unique_id": "19243529ee07eb24",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

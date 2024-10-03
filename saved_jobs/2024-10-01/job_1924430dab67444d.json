@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "AWS Software engineer",
+        "location": "Johnston, IA, USA",
+        "full_location": {
+            "city": "Johnston",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "C#",
+                "JavaScript",
+                "Angular"
+            ],
+            "primary": [
+                "RESTful services",
+                "SQL",
+                "CI/CD",
+                "Linux"
+            ],
+            "secondary": [
+                "Good communication skills",
+                "Agile software development practices",
+                "ORM concepts"
+            ],
+            "all": [
+                "AWS",
+                "Python",
+                "C#",
+                "JavaScript",
+                "Angular",
+                "RESTful services",
+                "SQL",
+                "CI/CD",
+                "Linux",
+                "Good communication skills",
+                "Agile software development practices",
+                "ORM concepts"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Nitin Tehriya",
+        "email": "nitin.tehriya@tekinspirations.com",
+        "jd": "From: Nitin Tehriya, Tek Inspirations LLC nitin.tehriya@tekinspirations.com Reply to: nitin.tehriya@tekinspirations.com Title AWS Software engineer Location : : Onsite Johnston, IA or Indianapolis, IN need local with DLDuration: 6monthsMOI: Skype Need local candidate with DLIdeal Candidate: - Agriculture Background- Located near Johnston, IA or Indianapolis, IN we would like to see someone who has agriculture experience as Corteva is a big entity and works with a lot of contractors. Please note, this role CAN be remote however if they live within 50 miles of either Johnston, IA or Indianapolis, IN, t Software Engineer- AWSLocation: Onsite Johnston, IA or Indianapolis, IN OR Remote (if more than 50 miles from locations) Interview Style: 1-2 Rounds Virtual Location: Preference: Johnston, IA \u2013 candidate living within 50 mile radius of location required onsite T/W/TH each week. Remote - candidate can be considered as remote if in the US and living more than 50 miles from above indicated GBC location.Project Scope and Brief Description:Application feature development and maintenance for our data processing pipelines and full-stack web applications. Applications focused primarily on image and data processing supporting seed product development in Corteva R&D.Responsibilities:\u2022 Develop and support high-quality, scalable, and secure data processing pipelines and full-stack web applications.\u2022 Create and execute unit and integration tests consistently for every software development feature completed.\u2022 Leverage your solid understanding of design principles and coding practices to craft elegant solutions for R&D.\u2022 Deploy applications to AWS and Azure clouds by applying DevOps practices including continuous integration, continuous delivery, testing, monitoring, and automation.\u2022 Actively and frequently collaborate with a small team of engineers and analysts at agile project ceremonies such as daily scrum, sprint planning, and sprint reviews.Skills / Experience: SkillMinimum Required ExperienceExperience developing high quality, multi-tier applications4 yearsProficiency in full-stack web application development including RESTful services and using industry-standard tools, languages, and frameworks such as Python, C#, JavaScript and Angular. Note: Python experience needed for current application set.2 yearsExperience with AWS Services like Lambda, Fargate, API Gateway, S3, & RDS, or equivalent experience with other cloud provider services1 yearExperience with database-backed application development including SQL queries1 yearDebugging full stack web applications1 yearModifying CI/CD pipelines1 yearLinux environment1 year Additional Beneficial Skills and Experience:\u2022 Possesses and demonstrates good communication skills (both written and verbal)\u2022 Good working knowledge of SQL and relational databases, including ORM concepts\u2022 Familiarity applying agile software development practices as a member of a small team",
+        "source": "Email",
+        "date_posted": "2024-09-30 13:28:51-05:00",
+        "unique_id": "1924430dab67444d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

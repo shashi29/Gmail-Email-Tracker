@@ -1,0 +1,74 @@
+[
+    {
+        "company": "ICS",
+        "job_title": "SDET",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term",
+            "rate": "$55/hour"
+        },
+        "skills": {
+            "core": [
+                "Java Test Development",
+                "Automation Test Strategy",
+                "Test Driven Development (TDD)",
+                "Behavior Driven Development (BDD)",
+                "Jbehave",
+                "Cucumber"
+            ],
+            "primary": [
+                "Java",
+                "Eclipse IDE",
+                "Spring",
+                "JUnit"
+            ],
+            "secondary": [],
+            "all": [
+                "Java Test Development",
+                "Automation Test Strategy",
+                "Test Driven Development (TDD)",
+                "Behavior Driven Development (BDD)",
+                "Jbehave",
+                "Cucumber",
+                "Java",
+                "Eclipse IDE",
+                "Spring",
+                "JUnit"
+            ],
+            "with_experience": [
+                "Java Test Development (6+ years)",
+                "Automation Test Strategy",
+                "Test Driven Development (TDD)",
+                "Behavior Driven Development (BDD)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sunil",
+        "email": "sunil@icsglobalsoft.com",
+        "jd": "From: sunil, ICS sunil@icsglobalsoft.com Reply to: sunil@icsglobalsoft.com Role: SDETLocation: Dallas, TX, 75260 (Onsite)Duration: Long-termRate:55/hr on C2C Project Scope:Seeks a Senior SDET who will be a crucial part of our software team. The selected candidate will have to write scalable, robust, and easy-to-maintain code, and will be required to translate software requirements into high-performance products. You will also be actively involved in researching new technologies/tools that can be incorporated to improve the current system Roles and Responsibilities:6+ years of Java Test Development, creating and driving Automation Test Strategy.Experience in Test and Behavior Driven Development (TDD and BDD), Jbehave/Cucumber frameworksStrong Java development skill, Eclipse IDE, Spring, Junit Required skills:6+ years of Java Test Development, creating and driving Automation Test Strategy.Experience in Test and Behavior Driven Development (TDD and BDD), Jbehave/Cucumber frameworks",
+        "source": "Email",
+        "date_posted": "2024-09-30 15:26:56-05:00",
+        "unique_id": "192449cf2dda7df0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

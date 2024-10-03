@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Absolute IT",
+        "job_title": "MarkLogic DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Database Administration",
+                "Performance Tuning",
+                "Monitoring",
+                "Process Analysis",
+                "Linux/Unix Shell Commands",
+                "Windows PowerShell",
+                "Python"
+            ],
+            "primary": [
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GitHub",
+                "Jenkins",
+                "MarkLogic",
+                "Cluster Administration"
+            ],
+            "secondary": [
+                "Security Compliance",
+                "Data Compliance",
+                "Collaboration",
+                "Mentoring",
+                "Multi-tasking"
+            ],
+            "all": [
+                "Database Administration",
+                "Performance Tuning",
+                "Monitoring",
+                "Process Analysis",
+                "Linux/Unix Shell Commands",
+                "Windows PowerShell",
+                "Python",
+                "Ansible",
+                "Terraform",
+                "CI/CD",
+                "GitHub",
+                "Jenkins",
+                "MarkLogic",
+                "Cluster Administration",
+                "Security Compliance",
+                "Data Compliance",
+                "Collaboration",
+                "Mentoring",
+                "Multi-tasking"
+            ],
+            "with_experience": [
+                "Database Administration (8 years)",
+                "MarkLogic (3+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Devyani Kumari",
+        "email": "devyani@absoluting.com",
+        "jd": "From: Devyani Kumari, Absolute IT devyani@absoluting.com Reply to: devyani@absoluting.com MarkLogic DBA100% REMOTE6 MonthsCandidate must have an active and an updated LinkedIn ID with a picture (REQUIRED!!)Common Required Qualifications:8 years of combined experience in Database Administration / EngineeringAdvanced knowledge of performance tuning, monitoring/alerting, observability, dashboardingAdvanced knowledge of process/query analysis, buffer tuning, client/server connectivity and database consistency checksAdvanced knowledge of maintenance routines, upgrades, patchingExperience in handling physical/logical backups & restores and data refreshes.Experience in Linux/Unix shell commands or Windows PowerShell or PythonExperience in OS fine tuning with regards to Network I/O, DiskShould be able to collaborate with DBA peers and mentor, work well in a team and independentlyShould be able to multi-task i.e. parallelize multiple environment build / data migrationShould be able to work off-hours for application release support, Linux patching support, maintenance windowsExperienced with security and data compliance aspects of databaseWell versed with latest version of databasePreferred Qualifications:Experience with automation via Ansible, TerraformExperience with deployments (CI/CD) with GHA, GitHub, JenkinsMarkLogic (1 DBA)3+ years of experience with cluster administration MarkLogic cluster, replication and failoverExperience with Marklogic re-indexing, rebalancing, merge activitiesResponsibilitiesThis senior role requires expertise in database administration and the ability to work in a fast-paced collaborative environment. We provide support for on-premises and cloud databases (IaaS and DBaaS) including critical Tier 1 and Tier 2 systems that utilize high availability solutions with replication.This resource will support the design, implementation, and maintenance of database environments.You will ensure integrity and high availability of the database environments in your charge. Responsibilities include but are not limited to build/management of on-prem VM and as-a-service cloud implementations, monitoring/alerting setup and admin, application consulting, performance tuning, version upgrades, automations, architecture, access methods and reviews, backup/recovery, vendor coordination/ticketing, and team mentoring and knowledge sharing. As part of the DBA team you will collaborate with peer DBAs, project teams, application contacts to support and maintain current implementations as well as new builds/requirements. The role will assist in assuring that the Database implementations are secure, compliant, and adhere to minimum security requirements as set by CVS Health.You will use your knowledge and experience in the Database space to support application requirements and make recommendations for improving existing and future processes. You will aid in reviewing new enhancements, features, products for future use and planning.",
+        "source": "Email",
+        "date_posted": "2024-10-01 12:29:39-05:00",
+        "unique_id": "19249232b0680be0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

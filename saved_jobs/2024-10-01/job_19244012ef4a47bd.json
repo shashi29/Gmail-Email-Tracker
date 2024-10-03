@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "Android Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "MVVM",
+                "Kotlin",
+                "Coroutines",
+                "Compose",
+                "Dagger",
+                "RxJava",
+                "JUnit",
+                "Mockito",
+                "Git"
+            ],
+            "primary": [
+                "Jetpack Compose",
+                "REST",
+                "JSON",
+                "LiveData",
+                "Restful API integration"
+            ],
+            "secondary": [
+                "Unit testing",
+                "Mobile UI fundamentals",
+                "Architectural patterns",
+                "Application design patterns",
+                "Jetpack components",
+                "Room",
+                "Navigation"
+            ],
+            "all": [
+                "Java",
+                "MVVM",
+                "Kotlin",
+                "Coroutines",
+                "Compose",
+                "Dagger",
+                "RxJava",
+                "JUnit",
+                "Mockito",
+                "Git",
+                "Jetpack Compose",
+                "REST",
+                "JSON",
+                "LiveData",
+                "Restful API integration",
+                "Unit testing",
+                "Mobile UI fundamentals",
+                "Architectural patterns",
+                "Application design patterns",
+                "Jetpack components",
+                "Room",
+                "Navigation"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "santhosh",
+        "email": "santhosh.a@i-q.co",
+        "jd": "From: santhosh, Infinity Quest santhosh.a@i-q.co Reply to: santhosh.a@i-q.co Role: Android Developer\nLocation: NYC, NY - relocation also fine\nDuration: 6+ Months\nJob Description : Required Skills & Experience\nExperience designing and implementing android applications.\nJava, MVVM, Kotlin Coroutines, Compose, Dagger, RxJava, Kotlin, JUnit, Mockito, Git\nExperience with Jetpack Compose for building UIs.\nExperience with Kotlin Coroutines for asynchronous programming.\nExperience working with remote data via REST and JSON\nPast experience in RxJava, LiveData, and Restful API integration is expected.\nUnit-test code for robustness, including edge cases, usability, and general reliability.\nStrong understanding of java and android ecosystem\nExcellent understanding of all mobile UI fundamentals, from layout to animations\nUnderstanding of architectural patterns such as MVP and MVVM\nUnderstanding of application design patterns \u2013 Gang of Four patterns\nExperience with other Jetpack components like Room and Navigation is nice to have skill.",
+        "source": "Email",
+        "date_posted": "2024-09-30 12:11:10-05:00",
+        "unique_id": "19244012ef4a47bd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "company": "7-Eleven",
+        "job_title": "Senior Software Developer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "6-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "RESTful APIs",
+                "Microservices architecture",
+                "Spring Boot",
+                "NodeJS",
+                "Cloud services (AWS)",
+                "SQL databases",
+                "NoSQL databases"
+            ],
+            "primary": [
+                "CI/CD",
+                "API security frameworks",
+                "Token management",
+                "User access control",
+                "Agile / SCRUM"
+            ],
+            "secondary": [
+                "Java backend development",
+                "Postgres",
+                "MongoDB",
+                "JPA",
+                "Unit testing",
+                "Functional testing"
+            ],
+            "all": [
+                "RESTful APIs",
+                "Microservices architecture",
+                "Spring Boot",
+                "NodeJS",
+                "Cloud services (AWS)",
+                "SQL databases",
+                "NoSQL databases",
+                "CI/CD",
+                "API security frameworks",
+                "Token management",
+                "User access control",
+                "Agile / SCRUM",
+                "Java backend development",
+                "Postgres",
+                "MongoDB",
+                "JPA",
+                "Unit testing",
+                "Functional testing"
+            ],
+            "with_experience": [
+                "RESTful APIs (3 years)",
+                "Microservices architecture (3 years)",
+                "Cloud services (AWS) (3 years)",
+                "SQL databases (3 years)",
+                "NoSQL databases (3 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Navya Gupta",
+        "email": "navya@stellentit.com",
+        "jd": "Hello, I hope you are doing well! Kindly acknowledge me, are you Comfortable with this Position then please share me your updated resume. Job Description : Senior Software Developer Location : IRVING, TX(Onsite 5) (Local Candidate Only) 2nd round onsite f2f interview Duration : 6+ months Client : 7-Eleven No H1B c2c Interview process 1st round with Hiring manager 2nd Round - Onsite with the team NEED LOCALS ONLY ONSITE INTERVIEW IS MUST NEED DOB ( MM/DD) NEED DL COPY Qualifications Must have 6-10 years of hands-on programming experience as a Senior Engineer or a Technical Lead. Must have 3 years of RESTful APIs / Server-side development experience using micro services architecture using Spring boot or NodeJS Must have 3 years of experience in cloud services (preferable AWS), developing micro-services, CI/CD solution, message queue systems and background task management. Must have 3 years of experience in developing NoSQL and SQL databases, designing data models, proficient in querying data for quality, analysis, analytics and adhoc reporting Knowledge in API security frameworks, token management and user access control including OAuth, JWT, OpenAPI, etc. Experience working with API Gateway, CDNs, API Performance testing, CI/CD pipelines and monitoring tools Ability to work in an Agile / SCRUM environment Strong writing and communication skill Good to have: Strong Java backend developer with hands-on coding, SQL/NoSQL DB and AWS cloud experience Sr Java backend developer, Rest API, Spring boot, Spring batch, Javascript, Postgres/MongoDB, JPA, CI/CD, unit/functional testing, AWS or related cloud experience",
+        "source": "Email",
+        "date_posted": "2024-10-01 14:06:38-05:00",
+        "unique_id": "1924979acda836b8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

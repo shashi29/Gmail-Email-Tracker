@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Adventa tech inc",
+        "job_title": "Data Engineer",
+        "location": "Manhattan, NY, USA",
+        "full_location": {
+            "city": "Manhattan",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "24-Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT"
+            ],
+            "primary": [
+                "GCP \u2013 Machine Learning",
+                "Data Engineering",
+                "Cloud"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT",
+                "GCP \u2013 Machine Learning",
+                "Data Engineering",
+                "Cloud"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "banani banojini das",
+        "email": "banani@adventatech.com",
+        "jd": "From: banani banojini das, Adventa tech inc banani@adventatech.com Reply to: banani@adventatech.com Title: Data Engineer Duration: 24-Months Location: Manhattan, New York Visa: CITIZEN,GREEN CARD Moi: Skype Job Description - Need AI Experience Retail & pharmaceutical domain candidates preferred, banking domain candidates will not be entertained. Skill Set: SQL, Python, Spark, and DBT. Must be Certified in 2 of 3 certifications: GCP \u2013 Machine Learning, Data Engineering, and/or Cloud PLEASE MAKE SURE THAT YOUR CANDIDATES HAVE at least 2 of the 3 OF THESE CERTIFICATIONS. https://cloud.google.com/learn/certification/data-engineer https://cloud.google.com/learn/certification/machine-learning-engineer https://www.cloudskillsboost.google/paths/420 ****************************************************************************************************************************** Need LinkedIn Profile- Locals required 1 professional reference from manager or supervisor of last project. Please ensure candidate has their own laptop. Please check for any planned vacations, hospitals visits or check-ups, or any family members (baby on way, elderly family member, etc. that may need care while they may be working.",
+        "source": "Email",
+        "date_posted": "2024-10-02 09:35:26-05:00",
+        "unique_id": "1924da7a3347f134",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

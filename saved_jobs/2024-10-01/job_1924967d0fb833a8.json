@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Smartfolks",
+        "job_title": "AWS \u2013 Databricks Architect",
+        "location": "San Diego, CA, USA",
+        "full_location": {
+            "city": "San Diego",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Databricks",
+                "ETL",
+                "MongoDB",
+                "S3",
+                "Delta format"
+            ],
+            "primary": [
+                "Communication skills",
+                "Team management",
+                "POC development",
+                "Capacity sizing",
+                "Tool Evaluation"
+            ],
+            "secondary": [
+                "Client facing experience",
+                "Collaboration",
+                "Mentorship",
+                "Project management",
+                "Operations experience"
+            ],
+            "all": [
+                "AWS",
+                "Databricks",
+                "ETL",
+                "MongoDB",
+                "S3",
+                "Delta format",
+                "Communication skills",
+                "Team management",
+                "POC development",
+                "Capacity sizing",
+                "Tool Evaluation",
+                "Client facing experience",
+                "Collaboration",
+                "Mentorship",
+                "Project management",
+                "Operations experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Junaid",
+        "email": "junaid@smartfolksinc.com",
+        "jd": "Hello Professional,\n\nPlease refer the JD below and share suitable profile to me. Hoping to hear from you soon!!\n\nJob Title: AWS \u2013 Databricks Architect (12 +Yrs of Experience)\nLocation: San Diego, CA (Onsite \u2013 3 days)\nC2C\n\nJob Description:\nLead and manage a team of engineers and Sr engineers by providing guidance, mentorship, and fostering a collaborative work environment.\nEstablish and maintain positive relationships with client stakeholders.\nConsult with client on project status, proposals, and technical issues and provide post-implementation support to them.\nFacilitates communication and collaboration between onshore and offshore teams, and ensure the successful design, development and execution of the product/project/deliverables on time.\nExperience in POC development, Capacity sizing, Tool Evaluation.\n\nMUST Have:\nPossess excellent written and verbal communication skills.\nAbility to run ETL jobs in Databricks.\nUnity catalog with delta, MongoDB, regular s3 based parquet files.\nDelta format based S3.\nAbility to articulate pros and cons of delta format.\nAbility to run Databricks with AWS glue catalog.\nMonitoring of Databricks jobs.\nOperations related experience of Databricks jobs.\nBest practices of setting up nested ETL jobs.\nScheduling of jobs in Databricks.\nPassing runtime parameters to ETL jobs.\nHandling experience in AWS in data engineering project.\nAbility to coordinate/work with team in India.\n\nGood to Have:\nExperience in client facing role.",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:47:07-05:00",
+        "unique_id": "1924967d0fb833a8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "company": "SecureKloud Technologies Inc.",
+        "job_title": "AWS Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Snowflake",
+                "Python"
+            ],
+            "primary": [
+                "AWS Glue",
+                "AWS Athena",
+                "Scala",
+                "data modeling",
+                "metadata tagging"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "Snowflake",
+                "Python",
+                "AWS Glue",
+                "AWS Athena",
+                "Scala",
+                "data modeling",
+                "metadata tagging"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Senthil",
+        "email": "senthilbabu.s@securekloud.com",
+        "jd": "From: Senthil, SecureKloud senthilbabu.s@securekloud.com Reply to: senthilbabu.s@securekloud.com Job Tilte: AWS Data Engineer\nDuration: Long term contract\nLocation: REMOTE\nMandatory Skills:AWSSnowflakePython\nJob Description\u2022 9+ years of experience in implementing complex and scalable AWS data solutions\u2022 Hands-on experience with AWS Glue and AWS Athena is a plus.\u2022 Experience with Python and/or Scala is required (Python is preferred)\u2022 5+ years experience in data modeling in a big data environment.\u2022 Experience designing/implementing file system structures to support the model is required.\u2022 Specific experience in metadata tagging and metadata tagging solutions involving files and data within files is desired.\u2022 Demonstrated experience with translating business requirements into effective AWS data designs and data ingestion patterns.\u2022 Must have implemented at least 2 large scale data integration/flow projects in recent past., Must have experience with Snowflake\nWith Regards, Senthil\nSecureKloud Technologies Inc., Direct : 214-613-0887 Email : senthilbabu.s@securekloud.com LinkedIn : https://www.linkedin.com/in/senthil-babu-r-57059754/Website : www.securekloud.com",
+        "source": "Email",
+        "date_posted": "2024-10-01 13:56:43-05:00",
+        "unique_id": "19249709867a88dc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

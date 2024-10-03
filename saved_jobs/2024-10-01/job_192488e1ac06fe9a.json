@@ -10,7 +10,8 @@
         },
         "job_details": {
             "employment_type": [
-                "contract"
+                "contract",
+                "third party"
             ],
             "job_code": "",
             "experience_required": "12+ years",
@@ -35,13 +36,13 @@
                 "Data profiling",
                 "CICD",
                 "Jenkins",
-                "Data solutions"
+                "Dataiku"
             ],
             "secondary": [
-                "Dataiku",
+                "Data security",
                 "Agile methodologies",
                 "Mentoring",
-                "Data security",
+                "Change management",
                 "Auditing processes"
             ],
             "all": [
@@ -56,20 +57,12 @@
                 "Data profiling",
                 "CICD",
                 "Jenkins",
-                "Data solutions",
                 "Dataiku",
+                "Data security",
                 "Agile methodologies",
                 "Mentoring",
-                "Data security",
+                "Change management",
                 "Auditing processes"
-            ],
-            "with_experience": [
-                "Informatica (7 years)",
-                "Data Engineering (12+ years)",
-                "AWS (4 years)",
-                "Snowflake (5 years)",
-                "SQL (5 years)",
-                "Python (5 years)"
             ]
         },
         "job_type": [
@@ -82,7 +75,8 @@
         "date_posted": "2024-10-01 09:49:05-05:00",
         "unique_id": "192488e1ac06fe9a",
         "emp_type": [
-            "contract"
+            "contract",
+            "third party"
         ],
         "tag": "AWS Data Engineer"
     }
