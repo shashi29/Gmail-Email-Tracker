@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Techkonnectllc",
+        "job_title": "IT - Program Manager",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months (Possible extension through 2026)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "NICE CXone",
+                "Salesforce",
+                "ServiceNow"
+            ],
+            "primary": [
+                "IT transformation",
+                "contact center telephony solutions",
+                "project management"
+            ],
+            "secondary": [
+                "Scrum",
+                "CRM",
+                "workflow capabilities"
+            ],
+            "all": [
+                "NICE CXone",
+                "Salesforce",
+                "ServiceNow",
+                "IT transformation",
+                "contact center telephony solutions",
+                "project management",
+                "Scrum",
+                "CRM",
+                "workflow capabilities"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Mohan",
+        "email": "mohan@techkonnectllc.com",
+        "jd": "From: Mohan, Techkonnectllc. mohan@techkonnectllc.com Reply to: mohan@techkonnectllc.com Job Title: IT - Program Manager Location: Denver, CODuration: 6+ months (Possible extension through 2026)Pay Rate: doe Location: Denver, CO strongly preferred (for in-person meetings), but open to remote within the USDuties:Responsible for managing the IT transformation of 20+ disparate contact centers into 3 contact centers. Consolidation of current contact center telephony solutions to NICE CXone. Work with Scrum masters, and other project managers to manage implementation of CRM/workflow capabilities Salesforce, ServiceNow or other agent desktops to support business requirements",
+        "source": "Email",
+        "date_posted": "2024-10-04 08:52:53-05:00",
+        "unique_id": "19257ce0465aeb6a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

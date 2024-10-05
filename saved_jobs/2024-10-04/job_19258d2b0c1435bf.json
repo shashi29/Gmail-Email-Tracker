@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Avance Services",
+        "job_title": "Python Backend Developer",
+        "location": "Morristown, NJ, USA",
+        "full_location": {
+            "city": "Morristown",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "FastAPI",
+                "Redis",
+                "Docker",
+                "MongoDB"
+            ],
+            "primary": [
+                "Async processing",
+                "Unit testing",
+                "Microservices",
+                "Production logging",
+                "Blob storage"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "FastAPI",
+                "Redis",
+                "Docker",
+                "MongoDB",
+                "Async processing",
+                "Unit testing",
+                "Microservices",
+                "Production logging",
+                "Blob storage"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Vamsi Krishna",
+        "email": "vamsi.paidikonda@avanceservices.com",
+        "jd": "From: Vamsi krishna, Avance services vamsi.paidikonda@avanceservices.com Reply to: vamsi.paidikonda@avanceservices.com Job Description:Morristown,NJ Python backend developer who can create chatbot backend. We want user to open a pdf file and start chatting with the file. just like copilot in word. index needs to be built on the fly. Experience in creating web applications. Good at fast API framework, async processing with redis cache, unit test the code, production log code, docker, micro-services, mongo DB, blob storage. I need a python backend developer, who can create chatbot backend. We want user to open a pdf file and start chatting with the file. just like copilot in word. index needs to be built on the fly.",
+        "source": "Email",
+        "date_posted": "2024-10-04 13:37:37-05:00",
+        "unique_id": "19258d2b0c1435bf",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

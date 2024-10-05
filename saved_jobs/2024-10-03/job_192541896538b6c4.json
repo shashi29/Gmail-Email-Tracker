@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Mcubesoft",
+        "job_title": "Data engineer",
+        "location": "Arlington, VA, USA",
+        "full_location": {
+            "city": "Arlington",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$40/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "Spark",
+                "Hadoop",
+                "Kafka",
+                "Java",
+                "Scala",
+                "Python"
+            ],
+            "primary": [
+                "Agile",
+                "Scrum"
+            ],
+            "secondary": [
+                "real-time ingestion",
+                "batch solutions",
+                "streaming solutions"
+            ],
+            "all": [
+                "Spark",
+                "Hadoop",
+                "Kafka",
+                "Java",
+                "Scala",
+                "Python",
+                "Agile",
+                "Scrum",
+                "real-time ingestion",
+                "batch solutions",
+                "streaming solutions"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Praveen Kumar",
+        "email": "praveen.kumar@mcubesoft.com",
+        "jd": "From: Praveen Kumar, Mcubesoft praveen.kumar@mcubesoft.com Reply to: praveen.kumar@mcubesoft.com Role - Data engineerLocation: Arlington, VA ( Onsite)EXP- 4-5 YearAll visa works including optRate- $40/hr On C2C. Actual JD *Have hands-on knowledge of Spark (Scala preferred), Hadoop, Kafka etc*Develop batch and streaming solutions using various Big Data technology.*Have strong programming knowledge in Java, Scala, or Python.*Be familiar with Agile/Scrum methodologies.*Have experience working with real-time or near real-time ingestion.",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:35:26-05:00",
+        "unique_id": "192541896538b6c4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

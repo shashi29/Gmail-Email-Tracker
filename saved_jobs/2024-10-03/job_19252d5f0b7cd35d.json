@@ -1,0 +1,74 @@
+[
+    {
+        "company": "KPG99 INC",
+        "job_title": "Azure Infrastructure Ops Engineer",
+        "location": "Omaha, NE, USA",
+        "full_location": {
+            "city": "Omaha",
+            "state": "NE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "Azure",
+                "Agile",
+                "Scrum"
+            ],
+            "primary": [
+                "Azure Monitor",
+                "Azure Application Insights",
+                "Log Analytics",
+                "Infrastructure as Code (IaC)",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "Technical Troubleshooting",
+                "Performance Optimization",
+                "Documentation",
+                "Backup and Disaster Recovery"
+            ],
+            "all": [
+                "Terraform",
+                "Azure",
+                "Agile",
+                "Scrum",
+                "Azure Monitor",
+                "Azure Application Insights",
+                "Log Analytics",
+                "Infrastructure as Code (IaC)",
+                "Azure DevOps",
+                "Technical Troubleshooting",
+                "Performance Optimization",
+                "Documentation",
+                "Backup and Disaster Recovery"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jyoti Mittal",
+        "email": "jyotim@kpgtech.com",
+        "jd": "From: Jyoti Mittal, KPG99 Inc jyotim@kpgtech.com Reply to: jyotim@kpgtech.com Hi,My name is Jyoti and I represent KPG99 INC. We work with clients across the USA. I have a very urgent role. If interested then please share with me your updated resume along with below information. Job Title: Azure Infrastructure Ops EngineerJob Location: Omaha, NE, Berkeley Heights, NJ, Frisco, TX, or Greenwood Village, CO (100% Onsite - local only, no relocation)Employment Type: FTEDuration: Long TermVisa: USC or GCKey Technology: Terraform, Azure, Agile, Scrum Physical Requirements:Prolonged periods of remaining stationary at a desk and working on a computerMust be able to lift to 15 lbs., as neededMust be able to work on-site (corporate/client offices), as needed (not applicable for 100% remote roles)Occasionally required to bend, kneel, crouch, and reach overhead.Hand-eye coordination necessary to operate computers and various pieces of office equipment.Specific vision abilities required include close vision, the ability to tolerate fluorescent lighting, and the ability to adjust focus Job Responsibilities:Infrastructure Design and Planning: Work closely with the development and architecture teams to design the Landing Zone infrastructure for applications on the Azure platform. Collaborate on selecting the appropriate Azure services, virtual machines, networking configurations, and storage options to meet the project's requirements.Azure Cloud Deployment: Deploy and provision the Azure-based platforms/infrastructure according to the design and architectural guidelines. Utilize Infrastructure as Code (laC) tools such as Terraform to automate the deployment process efficiently.Monitoring and Alerting Setup: Set up comprehensive monitoring and alerting mechanisms for application infrastructure. Implement Azure monitoring services like Azure Monitor, Azure Application Insights, and Log Analytics to ensure real-time visibility into system health and performance.Security and Compliance: Implement robust security controls and best practices for the application. Configure access controls, identity and access management (1AM), and data encryption to ensure data security.Backup and Disaster Recovery Strategy: Develop a reliable backup and disaster recovery strategy for all systems. Plan for data backup, retention, and restoration procedures to safeguard against data loss and ensure high availability.Infrastructure Automation: Embrace automation in all aspects of infrastructure management. Leverage Cl/CD pipelines and automation tools like Azure DevOps to streamline infrastructure updates and changes.Documentation and Knowledge Sharing: Create detailed documentation for the newly set up infrastructure, including configurations, operational procedures, and troubleshooting guides. Facilitate knowledge sharing within the team for effective collaboration.Performance Optimization: Continuously monitor and analyze performance. Collaborate with developers to optimize application performance, implement caching strategies, and identify areas for improvement.Technical Troubleshooting and Support: Provide technical support for the team during the deployment phase and beyond. Troubleshoot and resolve infrastructure-related issues promptly, working closely with cross-functional teams. Skills and Experience Required:Team-oriented with a proactive approach to early and effective escalations.Experience with Terraform on Azure for configuring and deploying environments, preferably building from the ground up.Familiarity with Azure services, including Virtual Machines, Virtual Networks, Azure App Service, Azure SQL, Azure Synapse, and Azure Virtual Desktop (AVD).Expert-level proficiency in Terraform.Ability to write Terraform scripts from scratch for building and supporting Azure infrastructure.Seeking seasoned professionals for senior-level position Thanks & Regards,Jyoti Mittal| Technical Recruiter | KPG99,INC jyotim@kpgtech.com | http://www.kpg99.com/3240 E State St EXT, Hamilton, NJ 08619An E- Verified Company Certified Minority Owned BusinessNote: KPG99 does not endorse undesired email. If you do not want to receive our mails, please reply with",
+        "source": "Email",
+        "date_posted": "2024-10-03 09:36:51-05:00",
+        "unique_id": "19252d5f0b7cd35d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

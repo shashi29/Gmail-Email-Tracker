@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "Full Stack Developer",
+        "location": "Fort Worth, TX, USA",
+        "full_location": {
+            "city": "Fort Worth",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "4 years",
+            "degree_required": "Bachelor's degree in Computer Science, Computer Engineering, or equivalent experience/training",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "06 months contract (possibility of extension)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Full Stack Development",
+                "Java11+",
+                "Spring Framework",
+                "Microservice framework",
+                "REST development"
+            ],
+            "primary": [
+                "Kubernetes",
+                "Docker",
+                "Tomcat",
+                "Websphere",
+                "REST/SOAP",
+                "Spring Boot",
+                "Maven",
+                "Git",
+                "Junit",
+                "Mockito",
+                "GitHub",
+                "Azure DevOps",
+                "Linux/Unix shell Scripting",
+                "IBM MQ",
+                "Rabbit MQ",
+                "Redis Cache"
+            ],
+            "secondary": [
+                "TDD",
+                "BDD",
+                "object-oriented design techniques",
+                "Agile methodologies",
+                "SCRUM",
+                "Continuous Integration",
+                "Continuous Deployment"
+            ],
+            "all": [
+                "Full Stack Development",
+                "Java11+",
+                "Spring Framework",
+                "Microservice framework",
+                "REST development",
+                "Kubernetes",
+                "Docker",
+                "Tomcat",
+                "Websphere",
+                "REST/SOAP",
+                "Spring Boot",
+                "Maven",
+                "Git",
+                "Junit",
+                "Mockito",
+                "GitHub",
+                "Azure DevOps",
+                "Linux/Unix shell Scripting",
+                "IBM MQ",
+                "Rabbit MQ",
+                "Redis Cache",
+                "TDD",
+                "BDD",
+                "object-oriented design techniques",
+                "Agile methodologies",
+                "SCRUM",
+                "Continuous Integration",
+                "Continuous Deployment"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "santhosh",
+        "email": "santhosh.a@i-q.co",
+        "jd": "From: santhosh, Infinity Quest santhosh.a@i-q.co Reply to: santhosh.a@i-q.co Title: Full Stack DeveloperLocation: 1 Transformation Way Fort Worth Texas 76155 (Hybrid)Duration: 06 months contract (possibility of extension) Need Strong Full Stack Developer Good LinkedIn profile.Job Description:Minimum Qualifications- Education & Prior Job ExperienceBachelor's degree in Computer Science, Computer Engineering, or equivalent experience/training4 years of full Software Development Life Cycle (SDLC) experience designing, developing, and implementing large-scale applications in hosted production environments2+ years Microservice framework / REST development with Spring FrameworkPreferred Qualifications- Education & Prior Job Experience6 years of full Software Development Life Cycle (SDLC) experience2+ years of Kubernetes Services with deep understanding of Container Orchestration and Distributed System ConceptsSkills, Licenses & CertificationsProficiency in Full Stack DevelopmentProficiency and demonstrated experience in the following technologies:J2EE technologies: Java11+, JSP, JMS, JAXB, JDBC, EJBCloud-based development: Kubernetes and DockerWeb Servers: Tomcat, WebsphereWeb Services: REST/SOAP (JSON/WSDL/XML)Frameworks: Spring Framework, Spring BootBuild/deployment tools: Maven, Git, Junit, MockitoOther Dev Ops Toolchain: GitHub and Azure DevOps Azure Data explorer, and Elastic SearchOther: Linux/Unix shell Scripting, IBM MQ/Rabbit MQ, Redis CacheExperience with TDD and BDD development patternProficiency in object-oriented design techniques and principlesExperience in Agile methodologies, such as SCRUMExperience in DevOps Toolchain methodologies, including Continuous Integration and Continuous Deployment",
+        "source": "Email",
+        "date_posted": "2024-10-04 10:32:33-05:00",
+        "unique_id": "192582944b1e5d2b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

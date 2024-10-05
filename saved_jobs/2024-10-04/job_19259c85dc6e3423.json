@@ -1,0 +1,84 @@
+[
+    {
+        "company": "RCI",
+        "job_title": "Lead Azure Data Engineer with Lakehouse",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Lake",
+                "Synapse",
+                "Azure SQL",
+                "Python"
+            ],
+            "primary": [
+                "Microsoft Fabric",
+                "Microsoft Power Platform",
+                "Power BI",
+                "Power Automate",
+                "Azure Data Lake Storage (ADLS)",
+                "Data Factory",
+                "ETL/ELT processes",
+                "Data governance",
+                "Performance optimization"
+            ],
+            "secondary": [
+                "Leadership",
+                "Mentoring",
+                "Communication",
+                "Collaboration",
+                "Problem-solving"
+            ],
+            "all": [
+                "Azure Data Lake",
+                "Synapse",
+                "Azure SQL",
+                "Python",
+                "Microsoft Fabric",
+                "Microsoft Power Platform",
+                "Power BI",
+                "Power Automate",
+                "Azure Data Lake Storage (ADLS)",
+                "Data Factory",
+                "ETL/ELT processes",
+                "Data governance",
+                "Performance optimization",
+                "Leadership",
+                "Mentoring",
+                "Communication",
+                "Collaboration",
+                "Problem-solving"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Priyanka",
+        "email": "priyanka@rconsultinginc.com",
+        "jd": "From: RCI, RCI priyanka@rconsultinginc.com Reply to: priyanka@rconsultinginc.com Title : Lead Azure Data Engineer with Lakehouse Location : Denver , CO , Hybrid Duration : Long Term JOB SUMMARYThis position requires extensive experience in developing Azure data lakehouses using Synapse notebooks (written in Python), Azure SQL, Microsoft Fabric, and the Microsoft Power Platform. This role will assess existing products, provide consulting on performance optimization strategies, integrate new data sources into the data lakehouse, and influence architectural decisions for high-performance data environments. REQUIREMENTSMinimum of eight (8) years of experience in data engineering and development, specializing in Azure Data Lake, Synapse, Azure SQL, and Python.Proficient in designing and implementing data lakehouse ecosystems and integrating data from various sources.Extensive experience using Python for Synapse notebooks and data transformation.Practical experience with Microsoft Fabric and the Microsoft Power Platform, including Power BI and Power Automate.Azure Data Lake Storage (ADLS), Azure SQL, and Data Factory expertise.Skilled in using Azure Synapse to develop ELT data integration processes.Advanced proficiency in Python for data transformation and automation in Synapse notebooks.Solid understanding of ETL/ELT processes with the capability to design efficient data pipelines.Familiarity with data governance, security best practices, and performance optimization strategies in Azure environments.Experience with Power BI and Power Automate to facilitate self-service analytics for business users.Strong leadership and mentoring skills, capable of guiding a team of data engineers and developers.Exceptional communication and collaboration abilities, with experience in cross-functional teams.Demonstrated problem-solving skills, focused on delivering practical and scalable solutions. PREFERRED CERTIFICATIONSMicrosoft Certified: Azure Data Engineer Microsoft Certified: Azure Data FundamentalsMicrosoft Power Platform FundamentalsMicrosoft Certified: Azure AI Fundamentals RESPONSIBILITIESLead the development, design, and optimization of the client\u2019s Azure-based data lakehouse eco-system.Assess and enhance the performance of the current data lakehouse infrastructure by identifying bottlenecks, improving data processing efficiencies, and optimizing resource utilization.Work with Azure Synapse to create, manage, and optimize notebooks written in Python, ensuring seamless integration and performance within the lakehouse environment.Integrate new data sources and ensure that all data pipelines are efficient, scalable, and secure.Provide consultation to stakeholders on the most effective strategies for integrating data sources, optimizing queries, and improving overall performance.Evaluate current data products, workflows, and processes to recommend improvements that maximize the value of the data lakehouse eco-system.Offer insights into the best practices for leveraging Microsoft Fabric tool suite for scalable and secure data operations.Design and implement data pipelines for loading structured and unstructured data from multiple sources into the Azure data lakehouse.Ensure efficient data transformation processes, leveraging Azure SQL, Synapse, and Python scripts for ETL/ELT workflows.Integrate Power Platform tools (Power BI, Power Automate, Power Apps) to enable business users with self-service analytics and seamless access to the data lakehouse.Ensure the implementation of robust data governance policies and practices, including data security, auditing, and compliance with industry regulations.Monitor and manage role-based access control (RBAC) and data encryption to ensure the security of the data lakehouse.",
+        "source": "Email",
+        "date_posted": "2024-10-04 18:05:57-05:00",
+        "unique_id": "19259c85dc6e3423",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

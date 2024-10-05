@@ -1,0 +1,80 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": "Sr Business Intelligence Analyst",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Alteryx",
+                "Tableau",
+                "PowerBI"
+            ],
+            "primary": [
+                "Python",
+                "SQL Server Management Studio",
+                "Azure Synapse",
+                "Advanced Excel",
+                "Data ingestion/ETL tools",
+                "Data warehouses",
+                "Data Lakes"
+            ],
+            "secondary": [
+                "Informatica",
+                "SSIS",
+                "Matillion",
+                "Talend",
+                "Snowflake",
+                "Databricks",
+                "Finance/Fintech applications"
+            ],
+            "all": [
+                "SQL",
+                "Alteryx",
+                "Tableau",
+                "PowerBI",
+                "Python",
+                "SQL Server Management Studio",
+                "Azure Synapse",
+                "Advanced Excel",
+                "Data ingestion/ETL tools",
+                "Informatica",
+                "SSIS",
+                "Matillion",
+                "Talend",
+                "Data warehouses",
+                "Data Lakes",
+                "Snowflake",
+                "Databricks",
+                "Finance/Fintech applications"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Nishant Vij",
+        "email": "nishant.vij@testingxperts.com",
+        "jd": "From: Nishant Vij, TestingXperts nishant.vij@testingxperts.com Reply to: nishant.vij@testingxperts.com Sr Business Intelligence AnalystRole and Responsibilities:Responsible for identifying opportunities for improving Business Intelligence SolutionsWorks on complex projects/teams and acts as a mentor and lead to other Analysts Lead liaison between business units and IT departments to translate business needs and objectives into Business Information solutions Create user stories and write acceptance criteria Identify Data Sources, calculated measures, and other transformations (lookups) Establish processes and automation for the enterprise-grade Data & BI platform Develop source to target mapping documentation Deliver Business Requirements for the \u201cconsumption layer\u201d (Datamart, etc.) Serve as a lead for Data Q&A \u2013 liaison between business, developers, and other technical teamsProvide data and analytics support (i.e., SQL queries, Alteryx workflows, Tableau, PowerBI reports and dashboards) Perform functional testing and data validation Develop and execute testing plans, scenarios and validate data accuracy Test data services (data pipelines, APIs) that feed downstream requirements (Dashboards, Models, etc.) to ensure that the data transferred correctly to the client application tools Liaison with Data Governance team regarding the data catalog Lead and participate in user acceptance testing (UAT) Ensure BECU Security, Governance, Enterprise Architecture guidance and protocols are adheredCommunicate progress, risks, and issues to the project team Outcomes:Following are some of the key deliverables expected from this role: Functional requirements documents (BRD) \u2013 with business requirements, dashboards and views, calculated measures, algorithmic inputs, SLAs, etc. Source to Target mapping documents Technical specifications documents (TSD) \u2013 with architecture, data dictionary definitions, data model specifications, wireframes, computations/formulae for calculated measures, etc. Test strategy, test plan and test cases for testing and data validationCreate data testing/validation scripts/Alteryx workflows Produce operational support documentation (and runbooks with dev team\u2019s help) Produce release notes/documentation Create documentation for change control. Provide end-user adoption supportOther project documentation and artifacts as defined and assigned by Project Manager or BECU Data & BI leadershipKey Tools/Technologies: SQL and other relational database concepts and languages requiredAlteryxTableauPowerBIPythonSQL Server Management StudioAzure SynapseAdvanced Excel, Word and PowerPointData ingestion/ETL tools such as Informatica, SSIS, Matillion, Talend, etc.Data warehouses, Data Lakes, and other data products such as Snowflake, Databricks, etc.Finance/Fintech applications, systems, processes and best practices",
+        "source": "Email",
+        "date_posted": "2024-10-03 16:59:42-05:00",
+        "unique_id": "192546491d0d2f1c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

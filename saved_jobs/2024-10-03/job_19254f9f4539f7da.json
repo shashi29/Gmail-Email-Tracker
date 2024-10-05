@@ -1,0 +1,85 @@
+[
+    {
+        "company": "DMS VISIONS INC",
+        "job_title": "Senior Cloud Infrastructure Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS data services",
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "PostgreSQL",
+                "Debezium",
+                "Redis",
+                "Kafka",
+                "Flink",
+                "Databricks"
+            ],
+            "primary": [
+                "EKS",
+                "Python",
+                "Golang",
+                "Ruby"
+            ],
+            "secondary": [
+                "cloud observability",
+                "logging",
+                "monitoring",
+                "Agile development"
+            ],
+            "all": [
+                "AWS data services",
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "PostgreSQL",
+                "Debezium",
+                "Redis",
+                "Kafka",
+                "Flink",
+                "Databricks",
+                "EKS",
+                "Python",
+                "Golang",
+                "Ruby",
+                "cloud observability",
+                "logging",
+                "monitoring",
+                "Agile development"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vikas Chaudhary",
+        "email": "vikas@dmsvisions.com",
+        "jd": "From: Vikas Chaudhary, DMS VISIONS INC vikas@dmsvisions.com Reply to: vikas@dmsvisions.com Hi,Hope you are doing well,Please find the job description given below and let me know your interest.Position: Senior Cloud Infrastructure Data EngineerLocation: RemoteDuration : Long Term ContractVisa : USC or GC Preferred REMEMBER, this is NOT a normal DATA ENGINEER JOB. We need candidates focused on cloud infrastructure who have significant hands-on experience in the languages and tools outlined in the description. This is a cloud infrastructure-heavy position. We need candidates whose primary focus is deploying and configuring data infrastructure as laid out in our JD. Read the answers the candidates give you for the questions below.Docker & Kubernetes: All software is in Docker containers that would need to incorporate with the data mesh. So they have to understand how dockers works to be able to make sure it incorporates with the infrastructureThis is the Data Engineer requirement you have already received. I changed the title due to the confusion that the old title was giving us. Candidates overall have not been a good fit. The candidates have been largely data pipeline developers/operators, not data infrastructure engineers. This is a cloud infrastructure-heavy position. Client is not looking for folks who build data or ML processing pipeline code, ETL jobs, or do data analytics. They need candidates whose primary focus is deploying and configuring data infrastructure as laid out in our JD.Please submit candidates focused on cloud infrastructure who have significant hands-on experience in the languages and tools outlined in the description. MUST HAVES: 6+ yrs platform data development exp. w/RDS (PostgreSQL), Debezium. Redis, Kafka, Flink, DatabricksExtensive exp. w/AWS data services, including RDS Aurora, ElastiCache, Managed OpenSearch, S3, MSKWorking knowledge of Docker, Kubernetes, and EKS.Proficient with Terraform and one or more programming languages such as Python, Golang, or Ruby.Secured AWS Cluster.Set up data bricks.Skill Matrix - QUESTIONS THAT NEED TO BE ANSWERED BY CANDIDATE: Put either YES or No for candidate experience.. Next to each technology put the number of years the candidate has experience with each technology.6+ yrs platform data development exp. w/RDS (PostgreSQL), Debezium. Redis, Kafka, Flink, DatabricksWorking knowledge of Docker, Kubernetes, and EKS.Proficient with Terraform and one or more programming languages such as Python, Golang, or Ruby.Has the candidate configured and secured AWS Clusters?Has the candidate set up data bricks?Must be able to submit documentation establishing U.S. Person status (no exceptions) JOB DESCRIPTION:We are seeking a Senior Cloud Infrastructure Engineer to join my client\u2019s Runtime Platform Group. In this role, you will focus on building and managing our FedRAMP-authorized cloud infrastructure for U.S. Federal Government projects. As a Senior Cloud Infrastructure Engineer, you\u2019ll work on a team that is developing a secure and compliant SaaS platform for federal government-led construction projects. This involves designing, deploying, and configuring cloud-native services and infrastructure in a dedicated environment that meets FedRAMP Moderate level controls. Your work will directly support my client\u2019s strategic initiatives for 2024 and 2025. Join them and contribute to a mission-critical platform with wide-reaching impact!This position reports to the Runtime Platform Software Architect and is fully remote within the U.S. My client is looking for someone to join them immediately. Responsibilities:Collaborate with internal teams and external stakeholders to design, deploy, and document cloud infrastructure resources for our SaaS platform in AWS GovCloud.Ensure compliance with FedRAMP Moderate level controls throughout the infrastructure deployment process.Use infrastructure-as-code tools like Terraform to automate the deployment and configuration of cloud databases, data lakes, and streaming systems.Deploy and manage technologies such as Debezium, Apache Flink, and Kafka in a secure, highly available environment.Engineer robust and resilient cloud systems that support 24/7 operations with 99.95% availability.Build and test disaster recovery systems to ensure infrastructure and data resiliency. Requirements:6+ years of experience with cloud infrastructure in a moderate-to-large-scale environment (>1000 hosts, petabytes of data).Extensive hands-on experience with AWS data services including RDS Aurora, ElastiCache, Managed OpenSearch, S3, and MSK.Proficient with cloud infrastructure tools such as Docker, Kubernetes, EKS, and Terraform.Experience with deploying and configuring data streaming tools (e.g., Kafka, Flink) and managing highly secure environments.Familiarity with cloud observability, logging, and monitoring tools.Strong programming skills in one or more common languages like Python, Golang, or Ruby.Experience working in an Agile development environment.",
+        "source": "Email",
+        "date_posted": "2024-10-03 18:46:11-05:00",
+        "unique_id": "19254f9f4539f7da",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

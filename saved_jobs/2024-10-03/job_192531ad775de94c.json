@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Securekloud",
+        "job_title": "Python with AWS & Data Structures Exp",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "API development"
+            ],
+            "primary": [
+                "Data Structures",
+                "Lambda",
+                "API Gateway",
+                "CI/CD"
+            ],
+            "secondary": [
+                "High-performance APIs",
+                "Web applications",
+                "Troubleshooting",
+                "Collaboration"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "API development",
+                "Data Structures",
+                "Lambda",
+                "API Gateway",
+                "CI/CD",
+                "High-performance APIs",
+                "Web applications",
+                "Troubleshooting",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Muthukumaran",
+        "email": "muthukumaran.krishnamoorthy@securekloud.com",
+        "jd": "From: Muthukumaran, Securekloud muthukumaran.krishnamoorthy@securekloud.com Reply to: muthukumaran.krishnamoorthy@securekloud.com Demonstrate strong architecture and design skills building high-performance APIs using AWS services and Python.Design and implement highly scalable, interactive web applications with high usabilityCollaborate with product teams to iterate ideas on data monetization products/services and define feasibilityRapidly iterate on product ideas, build prototypes, and participate in proof of conceptsCollaborate with internal and external teams in trouble shooting functional and performance issuesWork with DevOps Engineers to integrate any new code into existing CI/CD pipelines5+ years of experience in software development5+ years of hands-on experience developing high performance APIs & Web applications5+ years of experience in building APIs using AWS services, specifically using Python, Lambda and API gateway",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:51:33-05:00",
+        "unique_id": "192531ad775de94c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "company": "MPHASIS-JPMC",
+        "job_title": "Java Spark Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spark",
+                "AWS",
+                "Snowflake"
+            ],
+            "primary": [
+                "SQL",
+                "NoSQL",
+                "ETL",
+                "Data Pipelines",
+                "Data Quality"
+            ],
+            "secondary": [
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ],
+            "all": [
+                "Java",
+                "Spark",
+                "AWS",
+                "Snowflake",
+                "SQL",
+                "NoSQL",
+                "ETL",
+                "Data Pipelines",
+                "Data Quality",
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Robert",
+        "email": "robert@tech-gene.com",
+        "jd": "From: Robert, Tech-gene robert@tech-gene.com Reply to: robert@tech-gene.com Java Spark DeveloperLocation : Plano, Tx 1st Preference 2nd Wilmington, DE ( Only Local Candidate )Day1 onsiteThis is for MPHASIS-JPMCEmail: robert@tech-gene.comPhone: 973-381-5547Note- Strictly No JNTU candidates Job Description:Must Have skill : Java Spark and AWSSnowflake \u2013 Preferably Good knowledge/ Experience.\u2022 Design, develop, and maintain scalable data pipelines using Apache Spark and Java.\u2022 Implement data processing workflows and ETL processes to ingest, transform, and store large volumes of data.\u2022 Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and deliver high-quality data solutions.\u2022 Optimize and tune data processing jobs for performance and cost-efficiency.\u2022 Ensure data quality, integrity, and security across all data pipelines and storage solutions.\u2022 Develop and maintain data models, schemas, and documentation.\u2022 Monitor and troubleshoot data pipeline issues, ensuring high availability and reliability.\u2022 Hands-on experience with AWS services, including S3, EMR, Lambda, and Glue. Snowflake\u2022 Experience with SQL and NoSQL databases.\u2022 CICd/ Jules /Spinnaker",
+        "source": "Email",
+        "date_posted": "2024-10-02 21:14:41-05:00",
+        "unique_id": "19250e015c36dad8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

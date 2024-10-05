@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "GCP Cloud Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform (GCP)",
+                "Terraform",
+                "Google Kubernetes Engine (GKE)"
+            ],
+            "primary": [
+                "Jenkins",
+                "GitHub"
+            ],
+            "secondary": [
+                "Ansible"
+            ],
+            "all": [
+                "Google Cloud Platform (GCP)",
+                "Terraform",
+                "Google Kubernetes Engine (GKE)",
+                "Jenkins",
+                "GitHub",
+                "Ansible"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vinoth",
+        "email": "vinod@smartitframe.com",
+        "jd": "From: Vinoth, Smart IT Frame vinod@smartitframe.com Reply to: vinod@smartitframe.com Position: GCP Cloud EngineerLocation: Charlotte, NC, New Jersey, NJ, Dallas, TX, Phoenix, AZ, St. Louis, MO(Onsite)Long Term Contract The client is looking for a Terraform specialist to manage and maintain the Infrastructure as Code (IaC) and development pipeline on Google Cloud. Top 3 Required Skills:Google Cloud Platform (GCP)TerraformGoogle Kubernetes Engine (GKE), Jenkins, GitHubJob Description / ResponsibilitiesLead the planning and execution of complex projects, ensuring they align with company goals and timelines.Oversee the development and deployment of applications using Jenkins, GKE (Google Kubernetes Engine), Ansible, GitHub, Terraform, and Google Cloud Platform (GCP).",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:24:13-05:00",
+        "unique_id": "1925934499348bc8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

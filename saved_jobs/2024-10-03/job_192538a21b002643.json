@@ -1,0 +1,74 @@
+[
+    {
+        "company": "VDart",
+        "job_title": "Java Developer with AWS",
+        "location": "Northridge, CA, USA",
+        "full_location": {
+            "city": "Northridge",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract Opportunity",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Python"
+            ],
+            "primary": [
+                "AWS Lambda",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Data integration",
+                "Data transformation",
+                "Data processing techniques"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Python",
+                "AWS Lambda",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD",
+                "Data integration",
+                "Data transformation",
+                "Data processing techniques"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arun Kumar",
+        "email": "arunkumar.g@vdartinc.com",
+        "jd": "From: VDart, VDart arunkumar.g@vdartinc.com Reply to: arunkumar.g@vdartinc.com Role: Java Developer with AWSLocation: Northridge, CA (Local Candidates Only)Duration: Contract OpportunityJob Description:At Least Having 12+ Years of Experience.Proficiency in Java or Python, with a strong background in developing cloud-native applications.Experience with server less architectures, specifically AWS Lambda, and familiarity with other AWS services such as API Gateway, Athena, Glue and S3.Extensive experience with AWS cloud development and managing cloud-native components.How Data is Transferred in AWS during Real-Time.Working experience on queues, Kafka.Hand on experience in Real Time Data Processing with AWS servicesStrong understanding of data integration, transformation, and processing techniques.Solid grasp of CI/CD practices and tools relevant to data engineering.In-depth understanding of data storage and retrieval mechanisms using AWS services.",
+        "source": "Email",
+        "date_posted": "2024-10-03 12:56:26-05:00",
+        "unique_id": "192538a21b002643",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

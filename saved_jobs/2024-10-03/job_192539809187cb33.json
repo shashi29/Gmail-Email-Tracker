@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Yochana IT",
+        "job_title": "Cloud Engineer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's Degree in Computer Science/Information Technology/Information Science or \u201cSTEM\u201d Majors",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft Azure",
+                "Core Java",
+                "Java 8",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "Microservices",
+                "SQL"
+            ],
+            "primary": [
+                "React JS",
+                "Angular",
+                "CI/CD",
+                "Docker",
+                "Azure Cloud Platform",
+                "IaaS",
+                "PaaS",
+                "SaaS"
+            ],
+            "secondary": [
+                "Database technologies",
+                "Architecture and Design patterns",
+                "Agile development",
+                "Problem-solving",
+                "Analytical skills"
+            ],
+            "all": [
+                "Microsoft Azure",
+                "Core Java",
+                "Java 8",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "Microservices",
+                "SQL",
+                "React JS",
+                "Angular",
+                "CI/CD",
+                "Docker",
+                "Azure Cloud Platform",
+                "IaaS",
+                "PaaS",
+                "SaaS",
+                "Database technologies",
+                "Architecture and Design patterns",
+                "Agile development",
+                "Problem-solving",
+                "Analytical skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Yochana Navaneeth",
+        "email": "navaneeth@yochana.com",
+        "jd": "From: Navaneeth, Yochana IT navaneeth@yochana.com Reply to: navaneeth@yochana.com Position : Cloud EngineerLocation : Boston, MA or Pleasanton, CA (Onsite)Type : Fulltime / Contract We are not looking for DevOps/Cloud Administrator. Skills Required \u2013 Designing Solutions in Microsoft Azure as per project specifications and needsExperience in building Architecture and Design patterns for JavaShould have Strong experience in Core Java , Java 8Experience in frameworks like Spring, Spring boot, Hibernate.Experience in building Microservices and utilizing CI/CD DockersHaving good experience on database technologies like SQLShould have experience in front end technologies like React JS, AngularStrong understanding of features and capabilities of the Azure Cloud Platform (Security, Firewalls, Redis Cache, Key Vault, Service Bus, ASR, Networking, OMS, Blob Storage, Resource Groups, NSG, Application Insights, SQL Server, SQL DB, Load-Balancers)Deep understanding of Iaas, PaaS, SaaS. -------------------------------------------------Primary Responsibilities:Contribute to all stages of the product development and deployment lifecycleResponsible for driving detailed design and implementation in a fast paced and agile development environment using the latest software development technologies and infrastructureProvide day-to-day technical leadership; leverage professional experience to recommend best practices, systems, and architectures. Participate in code reviews and create documentation on engineering and cross-functional practices.Translate requirements / vision into prioritized list of user stories and deliver to required timelines and quality standardsDebug, troubleshoot and isolate software problems as well as offers strategic solutions, analysis, and advice regarding identified issues for future development Deliver value through a strong collaborative approach spanning many teams across geographies Required Qualifications:Bachelor's Degree in Computer Science/Information Technology/Information Science or \u201cSTEM\u201d Majors (Science, Technology, Engineering and Math) 8+ years of design, development, and deployment of application software \u2013 preferably in regulated environmentExperience with at least one back-end web technology, potentially including Java, .Net, Ruby on RailsModern JavaScript frameworks: Angular or ReactExperience with database & persistence technologies including SQL, MySQL, PostgreSQL, Redis, etc.Knowledge of Microservices, server-less technologies and other architecturesExperience with designing and deploying applications in cloud-based environment is a bonusExperience working with Docker or other container technologies.Good understanding of data structure and algorithmsStrong problem-solving and analytical skillsAgility to adapt to technologies and processes quicklyAs the Cloud Engineer, you'll have the chance to translate customer and business needs into a complete Azure cloud solution and drive its implementation with support from a cross-functional R&D teamDefine architecture of Azure cloud computing platform to support connected medical devices in remote management, modeling/analytics reporting, software updates, etc.Configure environments such as development, test, staging and productionDrive detailed implementation and configuration of managed servicesDelegate applicable workstreams to DevOps and front/back-end software developers",
+        "source": "Email",
+        "date_posted": "2024-10-03 13:11:47-05:00",
+        "unique_id": "192539809187cb33",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

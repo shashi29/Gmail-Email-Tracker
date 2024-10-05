@@ -1,0 +1,78 @@
+[
+    {
+        "company": "RIVAGO INFOTECH",
+        "job_title": "Java Solution Architect",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Software Engineering, or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Java EE",
+                "Spring Framework",
+                "Microservices",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "Cloud platforms (AWS, Azure, GCP)",
+                "Containerization technologies (Docker, Kubernetes)",
+                "API design principles",
+                "Problem-solving",
+                "Analytical skills"
+            ],
+            "secondary": [
+                "Master's degree in Computer Science or related field",
+                "Certifications in Java or cloud technologies",
+                "Spring Boot",
+                "React",
+                "Angular"
+            ],
+            "all": [
+                "Java",
+                "Java EE",
+                "Spring Framework",
+                "Microservices",
+                "RESTful APIs",
+                "Cloud platforms (AWS, Azure, GCP)",
+                "Containerization technologies (Docker, Kubernetes)",
+                "API design principles",
+                "Problem-solving",
+                "Analytical skills",
+                "Master's degree in Computer Science or related field",
+                "Certifications in Java or cloud technologies",
+                "Spring Boot",
+                "React",
+                "Angular"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Paul",
+        "email": "paul@rivagoinfotech.com",
+        "jd": "From: Paul, RIVAGO INFOTECH paul@rivagoinfotech.com Reply to: paul@rivagoinfotech.com Java Solution Architect (Minneapolis, MN - 6+ Months) Onsite About the RoleWe are seeking a highly skilled Java Solution Architect to join our team in Minneapolis, MN for a 6+ month contract. The ideal candidate will have a proven track record in designing, developing, and implementing complex enterprise Java solutions.ResponsibilitiesDefine and communicate the overall system architecture, including technology stack, data flow, and integration points.Collaborate with business stakeholders to understand requirements and translate them into technical specifications.Lead the design and development of Java-based applications, including microservices and APIs.Ensure adherence to architectural standards and best practices.Provide technical guidance and mentorship to development teams.Evaluate and recommend technology solutions to address business needs.Collaborate with infrastructure and operations teams to ensure smooth deployment and support of applications.QualificationsBachelor's degree in Computer Science, Software Engineering, or related field.8+ years of experience in Java development and architecture.Strong understanding of Java EE and Spring Framework.Experience with cloud platforms (AWS, Azure, GCP).Knowledge of microservices architecture and containerization technologies (Docker, Kubernetes).Experience with RESTful APIs and API design principles.Excellent problem-solving and analytical skills.Strong communication and interpersonal skills.Preferred QualificationsMaster's degree in Computer Science or related field.Certifications in Java or cloud technologies.Experience with specific frameworks or technologies (e.g., Spring Boot, React, Angular).",
+        "source": "Email",
+        "date_posted": "2024-10-03 11:49:12-05:00",
+        "unique_id": "192534e3c37426d1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

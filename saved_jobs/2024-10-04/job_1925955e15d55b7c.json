@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Jupiter Technologies",
+        "job_title": "Middleware Java Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 8",
+                "J2EE",
+                "Spring framework",
+                "RESTful APIs",
+                "Microservices"
+            ],
+            "primary": [
+                "Cloud-native development",
+                "JBoss",
+                "WebSphere",
+                "Tomcat"
+            ],
+            "secondary": [
+                "XML",
+                "JSON",
+                "SOA"
+            ],
+            "all": [
+                "Java 8",
+                "J2EE",
+                "Spring framework",
+                "RESTful APIs",
+                "Microservices",
+                "Cloud-native development",
+                "JBoss",
+                "WebSphere",
+                "Tomcat",
+                "XML",
+                "JSON",
+                "SOA"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Manikanta",
+        "email": "manikanta@jupitertechnologies.net",
+        "jd": "From: Manikanta, Jupiter Technologies manikanta@jupitertechnologies.net Reply to: manikanta@jupitertechnologies.net Role: Middleware Java Developer Location: Atlanta, GA 30354 (Hybrid) Duration: 12+ Months Contract (C2C) Specific Qualifications \u2022 Experienced in full-stack Cloud-native development, RESTful APIs, and stateless microservices architectures \u2022 At least 6-7 years of experience with Java 8/J2EE and the Spring framework \u2022 Experience with JBoss, WebSphere, and Tomcat application servers \u2022 Experience in designing and implementing RESTful services using XML/JSON Qualifications: This position will contribute technical expertise to design and develop business, application, data, and infrastructure solutions, seek opportunities to optimize performance, maintain and troubleshoot application components as required, quickly resolve problems and provide timely follow-up. This development role will be responsible for developing and implementing Java/J2EE applications and converting SOA service with APIs/Microservices.",
+        "source": "Email",
+        "date_posted": "2024-10-04 16:00:55-05:00",
+        "unique_id": "1925955e15d55b7c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

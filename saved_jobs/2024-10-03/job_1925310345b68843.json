@@ -1,0 +1,106 @@
+[
+    {
+        "company": "1 Point System LLC",
+        "job_title": "Senior Cloud engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Bachelor\u2019s Degree Information Technology (or equivalent educational focus 10+ years)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cloud services",
+                "Azure cloud native services",
+                "PowerShell scripting",
+                "Cross platform enterprise experience"
+            ],
+            "primary": [
+                "Entra ID",
+                "Landing Zone components",
+                "Azure Architect Certification"
+            ],
+            "secondary": [
+                "Conditional Access policy",
+                "Azure Policy",
+                "Subscription",
+                "Azure vNet",
+                "Route table",
+                "Private DNS Zones",
+                "Private DNS Resolver",
+                "Private Endpoints",
+                "NSG (Network Security Group)",
+                "Azure NetApp Files",
+                "Azure Backup Service",
+                "Key Vault - App specific",
+                "Load Balancer and App Gateway",
+                "Data Factory",
+                "Web App services",
+                "Functions",
+                "Databricks",
+                "Storage Blob",
+                "File Share"
+            ],
+            "all": [
+                "Cloud services",
+                "Azure cloud native services",
+                "PowerShell scripting",
+                "Cross platform enterprise experience",
+                "Entra ID",
+                "Landing Zone components",
+                "Azure Architect Certification",
+                "Conditional Access policy",
+                "Azure Policy",
+                "Subscription",
+                "Azure vNet",
+                "Route table",
+                "Private DNS Zones",
+                "Private DNS Resolver",
+                "Private Endpoints",
+                "NSG (Network Security Group)",
+                "Azure NetApp Files",
+                "Azure Backup Service",
+                "Key Vault - App specific",
+                "Load Balancer and App Gateway",
+                "Data Factory",
+                "Web App services",
+                "Functions",
+                "Databricks",
+                "Storage Blob",
+                "File Share"
+            ],
+            "with_experience": [
+                "Cloud services",
+                "Azure cloud native services",
+                "PowerShell scripting"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vikas Gupta",
+        "email": "vikas.g@1pointsys.com",
+        "jd": "From: vikas gupta, 1 point system llc vikas.g@1pointsys.com Reply to: vikas.g@1pointsys.com Hi,This side Vikas from 1pointsys. Hope you are doing well, I have a job position for you.Job Title:- Senior Cloud engineerLocation:- Must be located in PA, Delaware, NY ,NJ, VA,WVA, Wash DC or Maryland (Local)Job Description:-\u2022 Bachelor\u2019s Degree Information Technology (or equivalent educational focus 10+ years) is required.\u2022 15+ years of total IT experience\u2022 4+ years of Cloud experience\u2022 Must be expert with cloud services such as Entra ID and Landing Zone components\u2022 Must have projects that implemented and supported Azure cloud native services\u2022 PowerShell scripting or automation experience\u2022 Must have cross platform enterprise experience across IT (Server, Network, Storage, Security).\u2022 Must be a highly motivated individual with strong analytical, problem solving and multi-tasking skills complimenting a passion for learning/sharing information from and with peers.\u2022 Must be able to work a 24x7 On-Call shift as needed.Preferred Technical Expertise:\u2022 Azure Architect CertificationPreferred skillsEntra IDConditional Access policyAzure PolicySubscriptionAzure vNetRoute tablePrivate DNS ZonesPrivate DNS ResolverPrivate EndpointsNSG (Network Security Group)Azure NetApp FilesAzure Backup ServiceKey Vault - App specificLoad Balancer and App GatewayData Factory, Web App services, Functions, Databricks, Storage Blob, File Share Best regardsVikas GuptaTechnical Recruiter\u2013 1Point System llcvikas.g@1pointsys.com || www.1pointsys.com",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:42:10-05:00",
+        "unique_id": "1925310345b68843",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

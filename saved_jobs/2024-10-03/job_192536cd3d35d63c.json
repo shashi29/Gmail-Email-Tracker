@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Anveta, Inc.",
+        "job_title": "PostgreSQL Developer with expertise in AWS",
+        "location": "Fort Mills, SC, USA",
+        "full_location": {
+            "city": "Fort Mills",
+            "state": "SC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PostgreSQL",
+                "AWS",
+                "DDL",
+                "DML",
+                "performance tuning"
+            ],
+            "primary": [
+                "serverless-managed instances",
+                "database performance",
+                "data integrity",
+                "database architecture",
+                "data accuracy"
+            ],
+            "secondary": [
+                "Python",
+                "Liquibase",
+                "CREW"
+            ],
+            "all": [
+                "PostgreSQL",
+                "AWS",
+                "DDL",
+                "DML",
+                "performance tuning",
+                "serverless-managed instances",
+                "database performance",
+                "data integrity",
+                "database architecture",
+                "data accuracy",
+                "Python",
+                "Liquibase",
+                "CREW"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Charan",
+        "email": "charan@anveta.com",
+        "jd": "From: Charan, Anveta charan@anveta.com Reply to: charan@anveta.com Role: PostgreSQL Developer with expertise in AWSLocation: Fort Mills, SC & Sandigo, CA Duration: 12+ Months Job Description:* We are seeking a highly skilled Database Developer with expertise in AWS, Postgres, and serverless-managed instances to join our dynamic team.* The ideal candidate will have experience in designing and developing applications, optimizing database performance, and working with DDLs, DMLs, and performance tuning.* Familiarity with Python and Liquibase is a plus. Key Responsibilities:* Collaborate with cross-functional teams to design and develop scalable applications with a focus on database performance and data integrity.* Leverage AWS cloud services, with a focus on serverless managed instances to ensure high availability, scalability, and optimal performance.* Develop, maintain, and optimize PostgreSQL databases, ensuring data accuracy, security, and performance.* Experience working with CREW or similar platforms to integrate and manage workflows.* Create, manage, and optimize Data Definition Language (DDL) and Data Manipulation Language (DML) statements for efficient database schema and data management.* Conduct in-depth analysis and performance tuning of databases to ensure optimal query performance, reduce response times, and improve resource utilization.* Provide technical expertise in database architecture, design, and development, ensuring best practices for database optimization and data integrity. Optional to have:* Experience with Python for scripting and automation related to database management and development.* Familiarity with Liquibase for database version control, schema management, and migration processes.Qualifications:* Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.* 10+ years of experience in database development with a focus on Postgres and AWS.* Strong understanding of Serverless architectures and cloud-native database management.* Proven experience in designing and developing applications, managing schemas, DDLs, DMLs, and performance optimization.* Experience in CREW or related platforms for workflow integration is highly desirable.* Excellent analytical and problem-solving skills with attention to detail Thanks & RegardsCharanAnveta, Inc.1333 Corporate Drive, Suite #108Irving, TX 75038charan@anveta.comhttps://www.linkedin.com/in/charan-reddy-ba6450236/",
+        "source": "Email",
+        "date_posted": "2024-10-03 12:21:32-05:00",
+        "unique_id": "192536cd3d35d63c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

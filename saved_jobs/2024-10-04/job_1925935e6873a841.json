@@ -1,0 +1,49 @@
+[
+    {
+        "company": "VySystems",
+        "job_title": "Lead Java FSD with Kafka Mongo",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Kafka",
+                "MongoDB"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Kafka",
+                "MongoDB"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "John",
+        "email": "john@vysystems.com",
+        "jd": "From: John, VySystems john@vysystems.com Reply to: john@vysystems.com Must have: Kafka and MongoDB",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:25:59-05:00",
+        "unique_id": "1925935e6873a841",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

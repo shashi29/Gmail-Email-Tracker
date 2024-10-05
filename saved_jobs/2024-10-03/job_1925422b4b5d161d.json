@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Real Estate Company",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Immediate",
+            "duration": "1 year+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "EDI",
+                "JavaScript Frameworks",
+                "Microservices"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "EDI",
+                "JavaScript Frameworks",
+                "Microservices"
+            ],
+            "with_experience": [
+                "Java (7+ years)",
+                "EDI (3+ years)",
+                "JavaScript Frameworks (3+ years)",
+                "Microservices (3+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Gaurav Kumar",
+        "email": "gaurav.kumar@largeton.us",
+        "jd": "From: Gaurav Kumar, Largeton INC gaurav.kumar@largeton.us Reply to: gaurav.kumar@largeton.us Job DescriptionJob Title: Java DeveloperVisa: USC, GCLocation: fully remote but work on PSTClient: (Real Estate Company) experience required Duration: 1 year+ Contract Years of Experience: 7-10 years Interview: 2 Rounds VirtualAnticipated start date : Immediately. Must Have Skill: 7+ years Java Experience 3+ Must have EDI experience3 + years of JavaScript Frameworks experience3+ years of microservices development experience Thanks and Regards,Gaurav KumarTechnical RecruiterLargeton.incPh no: +1 (571)-463-9097 Ext. 345Email: gaurav.kumar@largeton.us",
+        "source": "Email",
+        "date_posted": "2024-10-03 14:21:30-05:00",
+        "unique_id": "1925422b4b5d161d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

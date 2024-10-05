@@ -1,0 +1,71 @@
+[
+    {
+        "company": "iTech US",
+        "job_title": "Java Full Stack Developer",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "API"
+            ],
+            "primary": [
+                "Angular",
+                "Mongo",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Ansible",
+                "DevOps"
+            ],
+            "secondary": [
+                "Cloud Computing"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "API",
+                "Angular",
+                "Mongo",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Ansible",
+                "DevOps",
+                "Cloud Computing"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Divya Sai Chand",
+        "email": "divya.c@itechus.net",
+        "jd": "HelloThis is Divya Sai from iTech US, we have an urgent Job opening from one our client, please go through below JD if you are interested, please share me your updated resume.Role: Java Full Stack DeveloperLocation: San Francisco, CA (locals)Type : ContractDescription:DeveloperJava full stack developer (Spring Boot, API), - Angular, - Mongo, - AWS, Docker, Kubernetes, Ansible, DevOps ExperienceDigital : Amazon Web Service(AWS) Cloud Computing, Digital : Kubernetes, Core Java8-10Thanks & RegardsDivya Sai ChanduiTech US Inc,Email:divya.c@itechus.netPh:18028510921 Ext:308",
+        "source": "Email",
+        "date_posted": "2024-10-03 11:45:49-05:00",
+        "unique_id": "1925367eb353536b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

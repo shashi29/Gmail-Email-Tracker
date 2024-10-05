@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Magicforce",
+        "job_title": "Data Engineer with EPIC",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1+ Year",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "EPIC",
+                "Snowflake",
+                "ETL Concepts",
+                "DBT",
+                "ADF",
+                "SQL",
+                "T-SQL"
+            ],
+            "primary": [
+                "Azure",
+                "AWS",
+                "Data Warehouse",
+                "Data Factory",
+                "Data Lake",
+                "Git",
+                "Azure DevOps",
+                "Agile",
+                "Jira",
+                "Confluence",
+                "Erwin"
+            ],
+            "secondary": [],
+            "all": [
+                "EPIC",
+                "Snowflake",
+                "ETL Concepts",
+                "DBT",
+                "ADF",
+                "SQL",
+                "T-SQL",
+                "Azure",
+                "AWS",
+                "Data Warehouse",
+                "Data Factory",
+                "Data Lake",
+                "Git",
+                "Azure DevOps",
+                "Agile",
+                "Jira",
+                "Confluence",
+                "Erwin"
+            ],
+            "with_experience": [
+                "Snowflake (5+ years)",
+                "ETL Concepts",
+                "DBT",
+                "ADF",
+                "SQL objects",
+                "T-SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Praveen Kumar",
+        "email": "praveen@magicforce.us",
+        "jd": "From: Praveen Kumar, Magicforce praveen@magicforce.us Reply to: praveen@magicforce.us Job Title: Data Engineer with EPIC Location: Remote Duration: 1+ Year Job Description: Mandatory Skills EPIC 5+ years\u2019 experience with the following: \u2022Snowflake (Columnar MPP Cloud data warehouse) \u2022ETL Concepts, DBT (ETL tool) \u2022ADF (Azure Data Factory) \u2022Experience designing and implementing Data Warehouse \u2022Azure/AWS cloud technology \u2022SQL objects (procedures, triggers, views, functions) in SQL Server. SQL query optimizations \u2022Understanding of T-SQL, indexes, stored procedures, triggers, functions, views, etc. \u2022Design and development of Azure/AWS Data Factory Pipelines preferred. \u2022Design and development of data marts in Snowflake preferred \u2022Working knowledge of Azure/AWS Architecture, Data Lake, Data Factory \u2022Business analysis experience to analyse data to write code and drive solutions \u2022Knowledge of: Git, Azure DevOps, Agile, Jira and Confluence \u2022Working knowledge on Erwin for data modelling Responsibility: \u2022Drive collaborative reviews of design, code, test plans and dataset implementation performed by other data engineers in support of maintaining data engineering standards \u2022Build High level technical design both for Streaming and batch processing systems \u2022Design and build reusable components, frameworks and libraries at scale to support analytics data products \u2022Perform POCs on new technology, architecture patterns \u2022Design and implement product features in collaboration with business and Technology stakeholders \u2022Anticipate, identify, and solve issues concerning data management to improve data quality \u2022Clean, prepare and optimize data at scale for ingestion and consumption \u2022Drive the implementation of new data management projects and re-structure of the current data architecture \u2022Implement complex automated workflows and routines using workflow scheduling tools \u2022Build continuous integration, test-driven development and production deployment frameworks \u2022Analyse and profile data for the purpose of designing scalable solutions \u2022Troubleshoot complex data issues and perform root cause analysis to proactively resolve product and operational issues \u2022Partner closely with product management to understand business requirements, breakdown Epics, \u2022Partner with Engineering Managers to define technology roadmaps, align on design, architecture, and enterprise strategy",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:25:27-05:00",
+        "unique_id": "192540e4cd83d149",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

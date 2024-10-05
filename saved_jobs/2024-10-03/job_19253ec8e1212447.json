@@ -1,0 +1,81 @@
+[
+    {
+        "company": "AI Spins, Inc",
+        "job_title": "Data Engineer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cloud Devops",
+                "Python",
+                "Big Data Admin exp on AWS",
+                "AWS lake formation",
+                "Spark jobs auditing",
+                "Monitoring and Instrumentation",
+                "Spark performance tuning",
+                "Terraform",
+                "Knowledge of Spark internals",
+                "Hudi",
+                "Parquet",
+                "IAM",
+                "AWS Glue",
+                "HIVE"
+            ],
+            "primary": [],
+            "secondary": [
+                "Iceberg",
+                "Airflow",
+                "Terragrunt",
+                "Dynamo DB"
+            ],
+            "all": [
+                "Cloud Devops",
+                "Python",
+                "Big Data Admin exp on AWS",
+                "AWS lake formation",
+                "Spark jobs auditing",
+                "Monitoring and Instrumentation",
+                "Spark performance tuning",
+                "Terraform",
+                "Knowledge of Spark internals",
+                "Hudi",
+                "Parquet",
+                "IAM",
+                "AWS Glue",
+                "HIVE",
+                "Iceberg",
+                "Airflow",
+                "Terragrunt",
+                "Dynamo DB"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Mohamed Muhsin M",
+        "email": "muhsin@aispins.com",
+        "jd": "From: Mohamed Muhsin M, AI Spins, Inc muhsin@aispins.com Reply to: muhsin@aispins.com Role: Data EngineerLocation: New york Note- this is a Platform Data Engineer role. Strong experience in below data skills but good experience in devops.JD- Required skills Cloud Devops, python, Big Data Admin exp on AWS , AWS lake formation ( lake house vs Data fabric ), Data Product concepts, spark jobs auditing, monitoring and Instrumentation, spark perf tuning, exp in creating service and tools to manage multi tenant env, Tech stack ( Must )\u2013 terraform, knowledge of spark internals ( spark 3+ features ) \u2013 architecture, events, system metrices , AQE, job level resource management, Hudi, Parquet , IAM, AWS Glue, HIVE Good to have - Iceberg, airflow, terragrunt, dynamo DB, Thanks & Regards Mohamed Muhsin MRecruitment ExecutiveEmail: muhsin@aispins.comhttps://linkedin.com/in/mohamed-muhsin-m-054623263",
+        "source": "Email",
+        "date_posted": "2024-10-03 14:01:00-05:00",
+        "unique_id": "19253ec8e1212447",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

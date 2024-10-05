@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Nitya software solution",
+        "job_title": "Java Dev Lead",
+        "location": "Redmond, WA, USA",
+        "full_location": {
+            "city": "Redmond",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "GraphQL",
+                "Ruby-on-Rails",
+                "JavaScript"
+            ],
+            "primary": [
+                "REST microservices",
+                "JUnit",
+                "Mockito",
+                "Kubernetes",
+                "Docker"
+            ],
+            "secondary": [
+                "Debugging",
+                "Profiling",
+                "Distributed systems",
+                "Code analysis",
+                "Yammer",
+                "Viva Engage"
+            ],
+            "all": [
+                "Java",
+                "GraphQL",
+                "Ruby-on-Rails",
+                "JavaScript",
+                "REST microservices",
+                "JUnit",
+                "Mockito",
+                "Kubernetes",
+                "Docker",
+                "Debugging",
+                "Profiling",
+                "Distributed systems",
+                "Code analysis",
+                "Yammer",
+                "Viva Engage"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nitya",
+        "email": "ryan@nityainc.com",
+        "jd": "Role Java Dev Lead\nLocation Redmond, WA\nOnsite\nC2C\nJob Description-Basic Qualifications:\n8-10 years of experience managing a team of 5 Developers\nExperience working with Java, GraphQL, Ruby-on-Rails, JavaScript\nExperience with development and debugging of REST microservices\nExcellent programmer: your code is maintainable, and you write tests\nDesirable Qualifications:\nKnowledge of junit, mockito framework\nKnowledge of Kubernetes, docker container fundamentals\nExperience with debugging, profiling, distributed systems, and code analysis\nExperience working with Yammer/Viva Engage",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:11:39-05:00",
+        "unique_id": "1925928c988afa05",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

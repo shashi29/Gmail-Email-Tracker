@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Product Manager",
+        "location": "Burlington, MA, USA",
+        "full_location": {
+            "city": "Burlington",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in engineering, computer science, product management, or equivalent, and/or other work experience in a technical setting preferred.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "CICD systems",
+                "Infrastructure as Code (IaC)",
+                "cloud platforms (AWS, Azure, GCP)",
+                "CICD tools (Jenkins, GitLab, CircleCI)",
+                "containerization technologies (Docker, Kubernetes)"
+            ],
+            "primary": [
+                "automated deployment pipelines",
+                "Agile development frameworks (Scrum, Kanban)",
+                "API integration",
+                "monitoring and observability tools (Prometheus, Grafana, Datadog)",
+                "DevSecOps"
+            ],
+            "secondary": [
+                "strong communication skills",
+                "stakeholder management",
+                "experience managing via influence",
+                "experience in Financial Services",
+                "experience with modern DevOps practices"
+            ],
+            "all": [
+                "CICD systems",
+                "Infrastructure as Code (IaC)",
+                "cloud platforms (AWS, Azure, GCP)",
+                "CICD tools (Jenkins, GitLab, CircleCI)",
+                "containerization technologies (Docker, Kubernetes)",
+                "automated deployment pipelines",
+                "Agile development frameworks (Scrum, Kanban)",
+                "API integration",
+                "monitoring and observability tools (Prometheus, Grafana, Datadog)",
+                "DevSecOps",
+                "strong communication skills",
+                "stakeholder management",
+                "experience managing via influence",
+                "experience in Financial Services",
+                "experience with modern DevOps practices"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Amit Kumar Pradhan",
+        "email": "amit@vyzeinc.com",
+        "jd": "From: Amit Kumar Pradhan, Vyze Inc. amit@vyzeinc.com Reply to: amit@vyzeinc.com Job Description -Job Title: Product Manager Location: Burlington, Massachusetts - onsite 3 days a week.local candidates of Burlington, Massachusetts only.Need candidates with Wealth management experience.The key is Product Manager vs. Project ManagerYou will join our team and play a key role in building and refining CICD systems that enable rapid innovation and delivery across our global platform. Your work will ensure that our development and operations teams can work seamlessly to meet client needs efficiently and at scale.We are seeking a Product Manager to lead our Continuous Integration and Continuous Deployment (CICD) teams. The role is focused on optimizing existing CICD processes, enabling modernization through Infrastructure as Code (IaC), and driving innovation within our broader DevOps ecosystem. The ideal candidate has exceptional communication skills, can collaborate effectively with technical engineering teams, and excels at prioritizing and managing complex efforts. They are highly organized and hands-on, with a proven track record of building road maps and driving changes in dynamic environments. This role will work closely with Engineering Team Leads, Architecture, DevOps, and other Product Owners to ensure the successful implementation of both day-to-day CICD processes and broader modernization initiatives.What you will be responsible for:Manage the product roadmap for CICD processes and modernization efforts, ensuring alignment with organizational goals.Drive innovation by leading the transition to Infrastructure as Code (IaC) across the CICD ecosystem.Collaborate with engineering and DevOps teams to gather and prioritize requirements for both day-to-day operations and long-term improvements.Oversee the development and maintenance of automated deployment pipelines to ensure speed, scalability, and efficiency.Foster collaboration between development and operations teams to ensure streamlined integration and delivery processes.Analyze industry trends and competitor offerings to keep CICD practices at the cutting edge.Ensure that best practices for security, scalability, and performance are integrated throughout the CICD process lifecycle.Represent the CICD Product team across the organization and externally with clients and vendors.QualificationsManage the product roadmap for CICD processes and modernization efforts, ensuring alignment with organizational goals.Drive innovation by leading the transition to Infrastructure as Code (IaC) across the CICD ecosystem.Collaborate with engineering and DevOps teams to gather and prioritize requirements for both day-to-day operations and long-term improvements.Oversee the development and maintenance of automated deployment pipelines to ensure speed, scalability, and efficiency.Foster collaboration between development and operations teams to ensure streamlined integration and delivery processes.Analyze industry trends and competitor offerings to keep CICD practices at the cutting edge.Ensure that best practices for security, scalability, and performance are integrated throughout the CICD process lifecycle.Represent the CICD Product team across the organization and externally with clients and vendors.Qualifications:Proven experience in leading product management for CICD systems, DevOps, or related technical domains.Strong technical background with experience in cloud platforms (AWS, Azure, GCP) and Infrastructure as Code (e.g., Terraform, CloudFormation).In-depth knowledge of CICD tools and platforms (e.g., Jenkins, GitLab, CircleCI), as well as containerization technologies (e.g., Docker, Kubernetes).Experience building and refining deployment pipelines for large-scale distributed systems.Strong communication and stakeholder management skills, with the ability to work cross-functionally.Experience with modern DevOps practices, including automation, orchestration, and continuous monitoring.Experience with integrating security and compliance into the CICD pipeline (DevSecOps).Proven experience working within Agile development frameworks (e.g., Scrum, Kanban), leading sprints, and using tools like Jira or Trello.Proven ability to prioritize and manage complex, large-scale modernization efforts, particularly in transitioning legacy systems to Infrastructure as Code.Strong understanding of API integration and how CICD systems interact with broader cloud and infrastructure components.Familiarity with monitoring and observability tools (e.g., Prometheus, Grafana, Datadog) to ensure the reliability of CICD pipelines.Experience managing via influence.Experience in Financial Services is preferred.Bachelor\u2019s degree in engineering, computer science, product management, or equivalent, and/or other work experience in a technical setting preferred.PM Notes - New departmentmust be/know JIRA/AgileThey don't use JIRA correctly so need help with it.Burlington where the other engineers are.onsite 3 days a week.SR PM will work directly with Jason so he can train them and work hand in hand. Must be strong. Responsible for all the system Integrations for in onboarding and supporting all their clients. The number of platforms used keeps growing (CRIMS/etc) it's getting more complicated.",
+        "source": "Email",
+        "date_posted": "2024-10-03 20:45:07-05:00",
+        "unique_id": "1925532ed5f4baf3",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

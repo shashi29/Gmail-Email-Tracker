@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Vy Systems",
+        "job_title": "SDET",
+        "location": "Des Moines, IO, USA",
+        "full_location": {
+            "city": "Des Moines",
+            "state": "IO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "BDD",
+                "Cucumber"
+            ],
+            "primary": [
+                "Spring Framework",
+                "HTTP",
+                "Restful Services",
+                "Debugging",
+                "Static Code Scanning",
+                "Transaction Management",
+                "Integration Tests",
+                "Unit Tests",
+                "Karate Framework"
+            ],
+            "secondary": [
+                "Refactoring Automation",
+                "DevOps Tools",
+                "Release Management",
+                "Documentation",
+                "Change Management"
+            ],
+            "all": [
+                "Java",
+                "BDD",
+                "Cucumber",
+                "Spring Framework",
+                "HTTP",
+                "Restful Services",
+                "Debugging",
+                "Static Code Scanning",
+                "Transaction Management",
+                "Integration Tests",
+                "Unit Tests",
+                "Karate Framework",
+                "Refactoring Automation",
+                "DevOps Tools",
+                "Release Management",
+                "Documentation",
+                "Change Management"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ramakrishnan",
+        "email": "ramakrishnan@vysystems.com",
+        "jd": "From: Ramakrishnan, Vysystems ramakrishnan@vysystems.com Reply to: ramakrishnan@vysystems.com Hi Professional, Greeting from Vy Systems SDETDes Moines, IO(Onsite)C2C JD :Must have skills : Java, BDD,CucumberGood Understanding of spring framework and its internals, Reflections, dynamic proxies for AOP, ClassLoadersUnderstanding HTTP, Restful Services, and debugging network related issue in Spring applicationsShould have skills to debug complex multi layered applications.Understanding of static code scanning and binaries/libraries scan tools such as checkmarx, bitbucket etc.Understanding of transaction management in Spring, including propagation and isolation levels.Debugging embedded Tomcat or other servlet containers.Ability to interpret logs from spring applications and associated services/servers for troubleshooting.Knowledge of setting up and debugging integration tests, unit tests, BDDs using Karate framework.Good to have refactoring automation skills using framework such as Open Rewrite.Good Understanding of DevOps tools such as Harness, uDeploy (UCD), Jenkins, GitHub etc.Experience in release Management processes, documentation, change management etc. Rgds..,RamakrishnanSr.Technical Recruiter ramakrishnan@vysystems.comwww.linkedin.com/in/ramakrishnan-palanivel-270a4523aVy Systems Inc",
+        "source": "Email",
+        "date_posted": "2024-10-04 19:27:09-05:00",
+        "unique_id": "1925a12b148a0721",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

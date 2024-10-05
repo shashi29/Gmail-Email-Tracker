@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Sun-itsolution",
+        "job_title": "Database Developer (T-SQL)",
+        "location": "Weehawken, NJ, USA",
+        "full_location": {
+            "city": "Weehawken",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "BS in computer science or engineering degree or a related field or equivalent work experience required.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "T-SQL",
+                "Python",
+                "Shell scripting"
+            ],
+            "primary": [
+                "Perl"
+            ],
+            "secondary": [
+                "Requirement Analysis",
+                "Strategic Analysis",
+                "Software Development Fundamentals",
+                "Design",
+                "Development",
+                "Maintenance",
+                "Testing",
+                "Implementation",
+                "ETL",
+                "Performance tuning",
+                "Query optimization"
+            ],
+            "all": [
+                "T-SQL",
+                "Python",
+                "Shell scripting",
+                "Perl",
+                "Requirement Analysis",
+                "Strategic Analysis",
+                "Software Development Fundamentals",
+                "Design",
+                "Development",
+                "Maintenance",
+                "Testing",
+                "Implementation",
+                "ETL",
+                "Performance tuning",
+                "Query optimization"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ganesh",
+        "email": "ganesh@sun-itsolutions.com",
+        "jd": "From: Ganesh, Sun-itsolution ganesh@sun-itsolutions.com Reply to: ganesh@sun-itsolutions.com Database Developer (T-SQL)Term: 12 monthsLocation: Onsite Mon-Friday in Weehawken New Jersey 07086Client is requiring the candidate to have strong T-SQL programming, along with solid python & shell scripting. (needs to hire one of these)Client is requiring the candidate to have strong T-SQL programming, along with solid Perl & shell scripting. (needs two consultants for this role)\uf0fc BS in computer science or engineering degree or a related field or equivalent work experience required.\uf0fc Experience in Requirement Analysis, Strategic Analysis, Software Development Fundamentals, Design, Development, Maintenance, Testing and Implementation of efficient data flow and batch processes in applications.\uf0fc Experience in TSQL programming, Perl or Python and Shell scripting.\uf0fc Good understanding of relation transactional databases like Sybase and MSSQL is a MUST;.\uf0fc Strong knowledge of Extraction Transformation and Loading (ETL) processes using TSQL with Java/Perl scripting.\uf0fc Experience in TSQL code development, performance tuning, query optimization and batch or ETL creation experience.",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:05:27-05:00",
+        "unique_id": "192587e53ffcaaa8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

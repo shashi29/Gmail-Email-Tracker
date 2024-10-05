@@ -1,0 +1,63 @@
+[
+    {
+        "company": "KFORCE",
+        "job_title": "SQL DBA Consultant",
+        "location": "Miami, FL, USA",
+        "full_location": {
+            "city": "Miami",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL queries",
+                "Database Design",
+                "Data Migration and Deployments"
+            ],
+            "primary": [
+                "SSRS",
+                "SSIS",
+                "ETL",
+                "Data Visualization (Dashboards)"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL queries",
+                "Database Design",
+                "Data Migration and Deployments",
+                "SSRS",
+                "SSIS",
+                "ETL",
+                "Data Visualization (Dashboards)"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Abhishek Saini",
+        "email": "abhishek.s@infotechspectrum.com",
+        "jd": "From: abhishek saini, infotechspectrum abhishek.s@infotechspectrum.com Reply to: abhishek.s@infotechspectrum.com KFORCE URGENT REQUIREMENTLooking for candidates regarding the following:POSITIONSQL DBA ConsultantLOCATIONOnsite - Miami, FL for 1 month, then remote (locals preferred) DURATION12 Months INTERVIEW TYPEVideoVISA RESTRICTIONSNoneREQUIRED SKILLSDatabase Design: Create and modify database schemas, tables, views, indexesSQL queries experienceSSRS, SSIS, ETLData Visualization (Dashboards) and Data Migration and Deployments Thanks!",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:29:08-05:00",
+        "unique_id": "192585d115ef05ad",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

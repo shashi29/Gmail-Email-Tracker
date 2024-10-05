@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Stellar IT Solutions",
+        "job_title": "Sr Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "Data Lakes",
+                "Step Functions",
+                "Lambdas",
+                "ECS",
+                "S3 Buckets",
+                "Redshift"
+            ],
+            "primary": [
+                "Strong Communication Skills",
+                "Leadership"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "Python",
+                "Data Lakes",
+                "Step Functions",
+                "Lambdas",
+                "ECS",
+                "S3 Buckets",
+                "Redshift",
+                "Strong Communication Skills",
+                "Leadership"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Pratheep Jayakumar",
+        "email": "pratheepj@stellarit.com",
+        "jd": "From: Pratheep Jayakumar, Stellar IT Solutions pratheepj@stellarit.com Reply to: pratheepj@stellarit.com Hi I represent Stellar IT Solutions a Global IT Solution provider headquartered in Rockville, MD with operations in the US and India. Stellar IT Solutions has over 15 years of IT and consulting experience to give cost effective solutions to many Fortune 500 companiesI saw your resume online and wanted to check your availability for a new project assignment that we have. Given below are a few details about the same.Position Title: Sr Data Engineer Duration: Long TermLocation: RemoteJob Description:Design experience in creation of data lakes on AWS - experience with architecture and creation of design for data lakes AWS experience - Step functions, lambdas, ECS, S3 buckets, Redshift, etc. Python coding experience - need to be able to write code from scratch and modify existing code Strong communication skills is a requirement - will need to help with the implementation of the design and architecture they create so need to be able to guide the team through this Needs to be proactive and a leader on the team - this person will be working with more mid level folks so need to be able to guide and help others on the teamIn case you are interested, feel free to contact me at pratheepj@stellarit.com. If you are not available at this time, I would really appreciate if you could forward this email to any of your contacts who are from the same background and may be interested. Looking forward to hearing from you.Thanks & Regards,Pratheep JayakumarTechnical RecruiterEmail: pratheepj@stellarit.comRockville, MD | McLean, VA | Palo Alto, CAStellarIT.com | StellariDeaLabs.com",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:56:09-05:00",
+        "unique_id": "192542b10da02af5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

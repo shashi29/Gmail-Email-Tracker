@@ -1,0 +1,96 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": ".Net Developer",
+        "location": "Norristown, PA, USA",
+        "full_location": {
+            "city": "Norristown",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, or related field.",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                ".NET Core",
+                "ASP.NET",
+                "C#",
+                "SQL Server"
+            ],
+            "primary": [
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "Entity Framework",
+                "LINQ",
+                "Microsoft Azure",
+                "AWS",
+                "RESTful APIs",
+                "Web Services",
+                "Agile",
+                "Scrum"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "Angular",
+                "React",
+                "Microservices architecture",
+                "Distributed Systems",
+                "Git"
+            ],
+            "all": [
+                ".NET",
+                ".NET Core",
+                "ASP.NET",
+                "C#",
+                "SQL Server",
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "Entity Framework",
+                "LINQ",
+                "Microsoft Azure",
+                "AWS",
+                "RESTful APIs",
+                "Web Services",
+                "Agile",
+                "Scrum",
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "Angular",
+                "React",
+                "Microservices architecture",
+                "Distributed Systems",
+                "Git"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen Kumar",
+        "email": "naveen.t@itechus.net",
+        "jd": "Hi,My name is Naveen Kumar, and I represent iTech US Inc. iTech is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have job opening for the below role. Role: .Net DeveloperLocation: Norristown, PA (Only Locals, No Relocation)Duration: ContractExperience: 10+ yearsC2C: (Yes, Only H1b) Role Description:Develop, test, and maintain software applications using the .NET framework.Collaborate with cross-functional teams to define, design, and ship new features.Write clean, scalable, and efficient code following best practices and design patterns.Debug and troubleshoot software applications to resolve any defects or issues.Integrate data storage solutions including databases, key-value stores, and blob storage.Ensure high performance and responsiveness of applications.Participate in code reviews and provide constructive feedback to peers.Document the development process, architecture, and standard components.Stay updated with the latest trends, technologies, and frameworks in .NET development.Qualifications:Bachelor's degree in Computer Science, Information Technology, or related field.Proven experience as a .NET Developer with hands-on experience in .NET Core, ASP.NET, and C#.Experience with front-end technologies such as JavaScript, HTML5, and CSS3.Strong knowledge of SQL Server, Entity Framework, and LINQ.Familiarity with cloud platforms like Microsoft Azure or AWS.Understanding of RESTful APIs and Web Services.Knowledge of Agile/Scrum methodologies.Strong problem-solving skills and attention to detail.Excellent communication and collaboration skills.Preferred Qualifications:Experience with DevOps tools such as Docker, Kubernetes, and CI/CD pipelines.Knowledge of front-end frameworks like Angular or React.Experience in Microservices architecture and Distributed Systems.Familiarity with Git for version control and repository management.",
+        "source": "Email",
+        "date_posted": "2024-10-04 14:53:42-05:00",
+        "unique_id": "19259185aa9126de",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "Java fullstack developer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Microservices",
+                "Angular",
+                "AWS",
+                "GCP",
+                "Docker",
+                "Kubernetes",
+                "SQL"
+            ],
+            "primary": [
+                "Object-oriented design",
+                "RESTful APIs",
+                "Cloud platforms",
+                "Containerization",
+                "Problem-solving",
+                "Communication",
+                "Collaboration"
+            ],
+            "secondary": [
+                "Agile methodologies",
+                "DevOps practices",
+                "Open-source contributions"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Microservices",
+                "Angular",
+                "AWS",
+                "GCP",
+                "Docker",
+                "Kubernetes",
+                "SQL",
+                "Object-oriented design",
+                "RESTful APIs",
+                "Cloud platforms",
+                "Containerization",
+                "Problem-solving",
+                "Communication",
+                "Collaboration",
+                "Agile methodologies",
+                "DevOps practices",
+                "Open-source contributions"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "santhosh",
+        "email": "santhosh.a@i-q.co",
+        "jd": "From: santhosh, Infinity Quest santhosh.a@i-q.co Reply to: santhosh.a@i-q.co Role: Java fullstack developer Location: Alpharetta,GANote: final level will be an In person interview We are seeking a highly skilled Java Full Stack Developer to join our dynamic team. The ideal candidate will have a strong foundation in Java development, coupled with expertise in both front-end and back-end technologies. You will play a pivotal role in designing, developing, and maintaining robust and scalable web applications.Responsibilities:Design and develop complex software systems using Java, Spring, and Microservices architecture.Build user-friendly and responsive front-end interfaces using Angular.Implement RESTful APIs to integrate with front-end and back-end components.Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions. Leverage cloud platforms (AWS or GCP) for deploying and managing applications.Utilize containerization technologies (Docker and Kubernetes) for efficient application deployment and scaling.Write clean, well-structured, and maintainable code.Participate in code reviews and provide constructive feedback to team members.Troubleshoot and resolve technical issues.Required Skills:Strong proficiency in Java programming language and object-oriented design principles.In-depth knowledge of Spring Framework (Spring Boot, Spring MVC, Spring Data).Expertise in Microservices architecture and development.Hands-on experience with Angular for building interactive user interfaces.Proficiency in cloud platforms (AWS or GCP) and containerization technologies (Docker, Kubernetes).Understanding of relational databases and SQL.Excellent problem-solving and analytical skills.Strong communication and collaboration abilities.Ability to work independently and as part of a team.Preferred Qualifications:Experience with Agile development methodologies (Scrum, Kanban).Knowledge of DevOps practices and tools.Contributions to open-source projects.",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:10:51-05:00",
+        "unique_id": "19252f5c2e7830da",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

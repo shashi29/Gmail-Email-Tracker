@@ -1,0 +1,87 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "Lead Java Developer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "11+ years",
+            "degree_required": "Bachelor's degree in computer science, engineering, or a related field (Master's degree preferred)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "microservices architecture"
+            ],
+            "primary": [
+                "SQL",
+                "CI/CD",
+                "Jenkins",
+                "BitBucket",
+                "Postman",
+                "cloud platforms",
+                "GKE",
+                "Spanner",
+                "Big Query",
+                "Redis",
+                "MongoDB"
+            ],
+            "secondary": [
+                "communication skills",
+                "problem-solving skills",
+                "mentoring",
+                "collaboration skills",
+                "attention to detail"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "microservices architecture",
+                "SQL",
+                "CI/CD",
+                "Jenkins",
+                "BitBucket",
+                "Postman",
+                "cloud platforms",
+                "GKE",
+                "Spanner",
+                "Big Query",
+                "Redis",
+                "MongoDB",
+                "communication skills",
+                "problem-solving skills",
+                "mentoring",
+                "collaboration skills",
+                "attention to detail"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Anshika Shukla",
+        "email": "anshika.shukla@tekinspirations.com",
+        "jd": "Job Description \u2013JAVA DEVELOPERLocal candidates to Irving are preferred. Lead experience is mandatory(at least 3 years). Candidate must be strong in coding and good communication skill.Location: Irving Tx (Hybrid) \u2013(Mon, Tues, Wed) Mandatory Employment Type: ContractVisa: Citizen, GC, strong back end profiles with good communication skill About the Role:As a Lead Java Developer - our backend services and micro services' design, development, and optimization. You will work with cutting-edge technologies, including Java, Spring Boot, SQL databases, and cloud platforms, to build scalable and reliable solutions that power our applications.Key Responsibilities:Design and develop Java-based backend services and microservices using Spring Boot.Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.Write efficient and maintainable code that meets high-quality standards.Optimize existing code and identify opportunities for performance improvement.Develop and maintain SQL queries and database schema designs.Implement and maintain CI/CD pipelines using Jenkins and Bit Bucket for automated testing and deployment.Test and debug applications using tools like Postman and your preferred Integrated Development Environment (IDE).To deploy and manage services, utilize cloud platforms such as Google Kubernetes Engine (GKE), Spanner, Big Query, Radis, and MongoDB.Work closely with front-end developers and architects to ensure seamless integration of services.Mentor and guide junior developers on best practices and coding standards.Collaborate with DevOps teams to ensure the reliability and scalability of backend services. RequirementsBachelor's degree in computer science, engineering, or a related field (Master's degree preferred).Minimum of 11+ years of hands-on experience in backend development using Java.At least 3+ years of experience in leading the teamStrong expertise in Java, Spring Boot, and microservices architecture.Experience with continuous integration and continuous deployment (CI/CD) using Jenkins and BitBucket.Familiarity with API testing and debugging tools like Postman.Proficiency in using your preferred Integrated Development Environment (IDE).Knowledge of cloud platforms such as GKE (Google Kubernetes Engine), Spanner, Big Query, Redis, and MongoDB.Strong problem-solving skills and attention to detail.Excellent communication and collaboration skills.Ability to work effectively in a fast-paced and dynamic environment.",
+        "source": "Email",
+        "date_posted": "2024-10-03 18:22:13-05:00",
+        "unique_id": "192550b94d76bc86",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

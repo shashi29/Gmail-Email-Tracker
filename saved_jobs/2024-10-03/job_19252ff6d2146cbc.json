@@ -1,0 +1,87 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": "Java Full stack Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's or equivalent experience in Computer Science, Software/Electronics Engineering, Information Systems, or a closely related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java8",
+                "Java11",
+                "Spring Boot",
+                "Microservices",
+                "Payment Card Network Domain"
+            ],
+            "primary": [
+                "Hydra",
+                "Kubernetes",
+                "Terraform",
+                "Helms",
+                "Github actions",
+                "Consul",
+                "Vault",
+                "Couchbase",
+                "Postgres DB",
+                "Python Scripting",
+                "Agile"
+            ],
+            "secondary": [
+                "Strong analytical ability",
+                "Excellent communication skills",
+                "Ability to work in English (written and spoken)"
+            ],
+            "all": [
+                "Java8",
+                "Java11",
+                "Spring Boot",
+                "Microservices",
+                "Payment Card Network Domain",
+                "Hydra",
+                "Kubernetes",
+                "Terraform",
+                "Helms",
+                "Github actions",
+                "Consul",
+                "Vault",
+                "Couchbase",
+                "Postgres DB",
+                "Python Scripting",
+                "Agile",
+                "Strong analytical ability",
+                "Excellent communication skills",
+                "Ability to work in English (written and spoken)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bandana Das",
+        "email": "bandana.d@itechus.net",
+        "jd": "From: Bandana Das, iTech US bandana.d@itechus.net Reply to: bandana.d@itechus.net Hi, Greetings, This is Bandana from ITech US Inc. Given below are the details of the position with one of our clients and was wondering if you would be interested or can recommend someone who would be interested in this job. Role: Java Full stack Developer with Card payment DomainLocation: Phoenix, AZ (Need local ID proof)Duration: 12+ Months Contract Onsite from Day 1 Visa: H1B | Need passport number along with the submission Must Have Technical Skills \u2022 Java8, 11\u2022 Spring Boot with Microservices\u2022 Experience in Payment Card Network Domain.\u2022 Hydra\u2022 Kubernetes\u2022 Terraform\u2022 Helms\u2022 Github actions\u2022 Consul\u2022 Vault\u2022 Couchbase, Postgres DB\u2022 Python Scripting\u2022 Familiar with Agile or other rapid application development methods\u2022 Strong analytical ability\u2022 Excellent communication skills\u2022 Ability to work in English (written and spoken)Domain Knowledge\u2022 Designing and implementing solutions to leverage a Kubernetes cluster. \u2022 Configuring hardware, peripherals, and services, managing settings and storage.\u2022 Deploying, monitoring, and supporting applications in a Kubernetes environment. \u2022 Researching opportunities for automation, troubleshooting issues as reported by users.\u2022 Scripting with Python Education: At least a bachelor\u2019s degree (or equivalent experience) in Computer Science, Software/Electronics Engineering, Information Systems, or a closely related field is required Thanks & RegardsBANDANA DAS",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:20:01-05:00",
+        "unique_id": "19252ff6d2146cbc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

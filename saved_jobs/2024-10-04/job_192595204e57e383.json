@@ -1,0 +1,85 @@
+[
+    {
+        "company": "MonkTek",
+        "job_title": "GCP DevOps Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years of experience in DevOps or Cloud Engineering roles. 3+ years of hands-on experience in GCP.",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "AWS",
+                "CI/CD",
+                "Infrastructure as Code (IaC)",
+                "Terraform"
+            ],
+            "primary": [
+                "Google Cloud Platform (GCP)",
+                "Jenkins",
+                "Docker",
+                "Kubernetes",
+                "Cloud Migration"
+            ],
+            "secondary": [
+                "Ansible",
+                "GKE",
+                "EKS",
+                "Stackdriver",
+                "IAM management",
+                "network security",
+                "data protection",
+                "scripting languages (Python, Bash, Go)"
+            ],
+            "all": [
+                "GCP",
+                "AWS",
+                "CI/CD",
+                "Infrastructure as Code (IaC)",
+                "Terraform",
+                "Google Cloud Platform (GCP)",
+                "Jenkins",
+                "Docker",
+                "Kubernetes",
+                "Cloud Migration",
+                "Ansible",
+                "GKE",
+                "EKS",
+                "Stackdriver",
+                "IAM management",
+                "network security",
+                "data protection",
+                "scripting languages (Python, Bash, Go)"
+            ],
+            "with_experience": [
+                "GCP (3+ years)",
+                "AWS to GCP Migration (extensive experience)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rishi",
+        "email": "rishi@monktek.com",
+        "jd": "We are seeking a highly skilled GCP DevOps Engineer with proven expertise in AWS to GCP migration to join our dynamic team. The ideal candidate will have strong experience in Google Cloud Platform (GCP), CI/CD pipelines, Infrastructure as Code (IaC), and automation, as well as hands-on experience migrating infrastructure, applications, and services from AWS to GCP.Key Responsibilities:Cloud Migration: Lead the migration of services, applications, and infrastructure from AWS to GCP, ensuring seamless integration and minimal downtime.DevOps Implementation: Develop, implement, and manage CI/CD pipelines using tools like Jenkins, GitLab, or Cloud Build for automated deployments.Infrastructure Management: Design and manage cloud infrastructure using IaC tools such as Terraform, Google Cloud Deployment Manager, and Ansible.Container : Experience with GKE, EKS and container platformsMonitoring and Logging: Implement comprehensive monitoring, alerting, and logging solutions using Stackdriver (Google Cloud Operations Suite) and ensure high availability of critical systems.Security and Compliance: Ensure that security best practices are followed during migration and in the post-migration cloud environment, including IAM management, network security, and data protection.Cost Optimization: Monitor and optimize cloud spend, ensuring efficient use of GCP resources..Required Skills and Qualifications:Experience in AWS to GCP Migration: Extensive experience in designing, planning, and executing migration strategies from AWS to GCP, including data migration, refactoring applications, and rearchitecting infrastructure.Strong GCP Knowledge: In-depth understanding of GCP services such as Compute Engine, Kubernetes Engine (GKE), Cloud Functions, Cloud SQL, Pub/Sub, BigQuery, etc.Proficient in DevOps Tools: Hands-on experience with DevOps tools like Terraform, Jenkins, Docker, Kubernetes, and experience with CI/CD pipelines in cloud environments.Infrastructure as Code (IaC): Strong knowledge of IaC tools like Terraform or Google Cloud Deployment Manager for automating infrastructure provisioning.Cloud Networking: Experience in setting up and managing VPCs, Subnets, and network configurations in GCP, as well as VPNs and hybrid cloud environments.Security Best Practices: Strong understanding of cloud security and governance, including GCP IAM, firewall rules, and encryption.Monitoring and Performance Tuning: Experience with GCP-native monitoring tools like Stackdriver and the ability to implement robust monitoring and logging solutions.Scripting and Automation: Proficiency in scripting languages like Python, Bash, or Go for automation tasks.",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:56:41-05:00",
+        "unique_id": "192595204e57e383",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

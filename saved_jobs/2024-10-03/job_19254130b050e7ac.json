@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Han Staffing",
+        "job_title": "QA SDET with Java Coding exp",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Test Automation",
+                "Core Java",
+                "Cucumber",
+                "Selenium"
+            ],
+            "primary": [
+                "Jira",
+                "TestNg",
+                "Git",
+                "CI/CD",
+                "RestAssured/API Automation"
+            ],
+            "secondary": [
+                "Knowledge of Selenium Test Environment (STE)",
+                "Ability to customize Selenium",
+                "Communication and interaction with customers",
+                "Development of equipment automation plans"
+            ],
+            "all": [
+                "Test Automation",
+                "Core Java",
+                "Cucumber",
+                "Selenium",
+                "Jira",
+                "TestNg",
+                "Git",
+                "CI/CD",
+                "RestAssured/API Automation",
+                "Knowledge of Selenium Test Environment (STE)",
+                "Ability to customize Selenium",
+                "Communication and interaction with customers",
+                "Development of equipment automation plans"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Danish Mujeeb",
+        "email": "danish@hanstaffing.com",
+        "jd": "From: Danish Mujeeb, Han Staffing danish@hanstaffing.com Reply to: danish@hanstaffing.com Job Title: QA SDET with Java Coding expLocation: Pittsburgh, PA/Lake Mary, FLDuration: Long term Contract Client need \u2013 QA Automation Consultant with Java Coding Experience Job Description:6+ years\u2019 experience in Test Automation, Core Java, Cucumber, Selenium, Jira, TestNg, Git, CI/CD, RestAssured/API AutomationExperience working in Custody/Asset Servicing/Investment BankingKnowledge of Selenium Test Environment (STE) and the ability to configure itAbility to customize Selenium in various integrationsAutomation of various projects, for example - a frameworkCommunication and interaction with customers to solve their problemsDevelopment of equipment automation plans and their approval",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:28:58-05:00",
+        "unique_id": "19254130b050e7ac",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

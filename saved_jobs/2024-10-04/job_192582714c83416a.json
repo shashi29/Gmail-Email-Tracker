@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Tech Rakers",
+        "job_title": "Fullstack Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Any Visa is fine",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Angular",
+                "SQL",
+                "Spring Boot"
+            ],
+            "primary": [
+                "multi-threaded development",
+                "cloud platforms",
+                "Kubernetes",
+                "Docker",
+                "HPC platforms",
+                "software development best practices",
+                "agile environment",
+                "UI Design"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Angular",
+                "SQL",
+                "Spring Boot",
+                "multi-threaded development",
+                "cloud platforms",
+                "Kubernetes",
+                "Docker",
+                "HPC platforms",
+                "software development best practices",
+                "agile environment",
+                "UI Design"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Suresh Kumar",
+        "email": "sureshk@techrakers.com",
+        "jd": "From: Suresh, Tech Rakers sureshk@techrakers.com Reply to: sureshk@techrakers.com Title: Fullstack Java DeveloperLocation: Onsite in any client placeDuration: 6+ MonthsRequired:Minimum Experience \uf0b7 Minimum 7 years of professional software development experience \uf0b7 Excellent technical (hands-on) knowledge of Java, Angular, SQL\uf0b7 Proficient in multi-threaded development \uf0b7 Experience with Spring Boot\uf0b7 Experience with cloud platforms, Kubernetes, Docker and HPC platforms\uf0b7 Good understanding of software development best practices \uf0b7 Experience working in an agile environment \uf0b7 Extensive UI Design experience \uf0b7 Comfortable dealing with ambiguity Thanks and Regards,Suresh Kumar,sureshk@techrakers.com",
+        "source": "Email",
+        "date_posted": "2024-10-04 10:30:09-05:00",
+        "unique_id": "192582714c83416a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

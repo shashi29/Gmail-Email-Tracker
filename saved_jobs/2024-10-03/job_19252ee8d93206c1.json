@@ -1,0 +1,82 @@
+[
+    {
+        "company": "BCBSMA",
+        "job_title": "Data Operations Lead Analyst",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Apache Airflow",
+                "Informatica Intelligent Cloud Services (IICS)",
+                "data operations",
+                "troubleshooting",
+                "data workflows"
+            ],
+            "primary": [
+                "Python",
+                "Shell scripting",
+                "Spark",
+                "Linux",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "SQL"
+            ],
+            "secondary": [
+                "communication skills",
+                "certification in Apache Airflow",
+                "certification in Informatica IICS",
+                "certification in AWS Developer"
+            ],
+            "all": [
+                "Apache Airflow",
+                "Informatica Intelligent Cloud Services (IICS)",
+                "data operations",
+                "troubleshooting",
+                "data workflows",
+                "Python",
+                "Shell scripting",
+                "Spark",
+                "Linux",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "SQL",
+                "communication skills",
+                "certification in Apache Airflow",
+                "certification in Informatica IICS",
+                "certification in AWS Developer"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Saquib Anwar",
+        "email": "anwar.s@largeton.us",
+        "jd": "From: Saquib Anwar, Largeton anwar.s@largeton.us Reply to: anwar.s@largeton.us Job Role : Data Operations Lead AnalystLocation : Boston, MA - HybridClient : BCBSMAJob Description : Health Experience NeededData Operations Lead AnalystThis person will be responsible for ensuring the smooth execution and optimization of data workflows using tools such as Airflow, Informatica Intelligent Cloud Services (IICS) and other Cloud applications. Your primary focus will be on maintaining operational excellence, troubleshooting job failures, and overseeing the end-to-end execution of data processes. Key Responsibilities:- Maintain scalable data pipelines using Apache Airflow and IICS to ensure efficient data processing and integration.- Proactively monitor job performance and troubleshoot issues to ensure data integrity and reliability. Address and resolve job failures promptly to minimize downtime.- Provide oversight and management of job executions, ensuring adherence to SLAs and optimizing workflows for performance and efficiency. - Work closely with cross-functional teams including data engineers, data analysts, and IT operations to understand requirements, troubleshoot issues, and implement solutions.- Document operational procedures, workflows, and best practices. Continuously improve processes to enhance reliability and scalability. Requirements:- Proven experience in data operations, managing and troubleshooting data workflows.- Hands-on experience with Apache Airflow and Informatica IICS.- Strong debugging and problem-solving skills with the ability to analyze complex issues and drive resolution.- Solid understanding of data integration concepts and best practices.- Experience in scripting (Python, Shell scripting) along with Spark and working in a Linux environment is a plus.- Excellent communication skills and ability to work effectively in a team-oriented environment.- Experience with cloud platforms (AWS) and containerization technologies (Docker, Kubernetes).- Familiarity with database systems and SQL.- Certification in Apache Airflow / Informatica IICS / AWS Developer is a plus. Thanks & RegardsSAQUIB ANWARLARGETON INC. 13800 Coppermine Rd,Herndon, VA 20171Disclaimer: Largeton is an equal opportunity employer. There is no discrimination based on race, color, religion, sex, national origin, age, disability, or any other protected status. If you believe you have been treated unfairly, please contact our HR department.",
+        "source": "Email",
+        "date_posted": "2024-10-03 09:59:37-05:00",
+        "unique_id": "19252ee8d93206c1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

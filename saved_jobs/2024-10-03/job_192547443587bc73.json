@@ -1,0 +1,104 @@
+[
+    {
+        "company": "HCL Global Systems",
+        "job_title": "Java Architect",
+        "location": "New Jersey, NJ, USA",
+        "full_location": {
+            "city": "New Jersey",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spring Framework",
+                "Spring Boot",
+                "Spring Cloud"
+            ],
+            "primary": [
+                "REST API",
+                "Microservices",
+                "Angular",
+                "React",
+                "Auth2",
+                "OIDC",
+                "CI/CD",
+                "DevOps",
+                "Oracle",
+                "SQL Server",
+                "MongoDB",
+                "Telemetry",
+                "Circuit Breaker",
+                "Jenkins",
+                "Test Automation",
+                "Splunk",
+                "Data Dog",
+                "Dynatrace"
+            ],
+            "secondary": [
+                "Resilient application design patterns",
+                "Low-latency services",
+                "High-availability services",
+                "Problem-solving in cloud environments",
+                "Continuous improvement mindset",
+                "Ownership culture",
+                "PoC and Solution Design Thinking"
+            ],
+            "all": [
+                "Spring Framework",
+                "Spring Boot",
+                "Spring Cloud",
+                "REST API",
+                "Microservices",
+                "Angular",
+                "React",
+                "Auth2",
+                "OIDC",
+                "CI/CD",
+                "DevOps",
+                "Oracle",
+                "SQL Server",
+                "MongoDB",
+                "Telemetry",
+                "Circuit Breaker",
+                "Jenkins",
+                "Test Automation",
+                "Splunk",
+                "Data Dog",
+                "Dynatrace",
+                "Resilient application design patterns",
+                "Low-latency services",
+                "High-availability services",
+                "Problem-solving in cloud environments",
+                "Continuous improvement mindset",
+                "Ownership culture",
+                "PoC and Solution Design Thinking"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Siva Prasad",
+        "email": "shiva@hclglobal.com",
+        "jd": "From: Siva Prasad, HCL Global Systems shiva@hclglobal.com Reply to: shiva@hclglobal.com Job title:Java ArchitectRole is hybrid based out of New Jersey, NJ12+ years of Java Development experience is needed for this role. Do not submit anyone under 12 years of experience.Job Requirements and Description:\u2022 In-depth knowledge of Spring framework, Spring boot and Spring cloud\u2022 Building REST API, microservice in domain driven using hexagonal architecture principles\u2022 Good demonstrated understanding of UI web-based application architectures and frameworks (Angular or React) and the way it integrates with services.\u2022 Auth2 (industry standard protocol for authentication) and OIDC (identity layer on the top of Oauth 2)\u2022 Knowledge of relevant security considerations for applications on cloud\u2022 Familiar with CI/CD pipelines and experience with DevOps\u2022 Solid understanding of both relational (Oracle, SQL server) and non-relational databases (MongoDB)\u2022 Exceptional resilient application design pattern understanding to support mission customer facing technology assets.\u2022 Experience in building low-latency, high-availability, and performing micro-services\u2022 Ability to independently analyze and solve increasingly difficult business and cloud environment issues.\u2022 Building REST API, microservice in domain driven using hexagonal architecture principles\u2022 Familiar with Telemetry and Open Telemetry framework\u2022 Familiar with Circuit Breaker design pattern\u2022 DevOps practices including CI/CD, Jenkins, test automation\u2022 Familiar with Log management tools like Splunk, Data Dog\u2022 Exceptional understanding of Dynatrace to troubleshoot performance issue related to Time-Cost analysis.\u2022 Embrace on learning mindset to take each task as a challenge to learn and share the knowledge as a way of continuous improvement\u2022 Act with ownership culture to drive meaningful change that aligns with the overall enterprise product vision\u2022 Be an active player in PoC and Solution Design ThinkingSkills Required (must be showcased on resume to be considered): Spring Framework Spring Boot , Spring Cloud",
+        "source": "Email",
+        "date_posted": "2024-10-03 16:04:15-05:00",
+        "unique_id": "192547443587bc73",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

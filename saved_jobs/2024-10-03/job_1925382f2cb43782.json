@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Smarttechlink",
+        "job_title": "AWS Engineer",
+        "location": "TX, USA",
+        "full_location": {
+            "city": "TX",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Spark",
+                "Abinitio"
+            ],
+            "primary": [
+                "Jules pipeline",
+                "Blue/Green deployment",
+                "Infrastructure scripts"
+            ],
+            "secondary": [
+                "Terraform"
+            ],
+            "all": [
+                "AWS",
+                "Spark",
+                "Abinitio",
+                "Jules pipeline",
+                "Blue/Green deployment",
+                "Infrastructure scripts",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Iswarya",
+        "email": "iswarya.k@smarttechlink.com",
+        "jd": "AWS Engineer with cloud sparkVirtus/JPMCLocation is TX,NY,NJ,DE and OH (any of this Location) Need onsite compulsoryWe immediately need profiles for the below roles asap. AWS Engineer with cloud spark, Abinitio scripts.Candidates should be able toDevelop/upgrade spark Infrastructure scripts (EAC) for blue/green deployment on AWS Dev environment.Develop/Upgrade Jules pipeline to deploy Spark job.Execute jules pipeline and deploy spark job to AWS Dev environment.Execute BLUE / GREEN deployment pipeline using Jules for Spark job.Develop/upgrade AbInitio Infrastructure scripts (EAC) on AWS Dev environment for blue / green deployment.Develop/Upgrade Jules pipeline to deploy AbInitio scripts.Execute jules pipeline and deploy AbInitio scripts to AWS Dev environment.Execute BLUE / GREEN deployment pipeline using for AbInitio scripts.Nice to have Terraform.",
+        "source": "Email",
+        "date_posted": "2024-10-03 12:48:18-05:00",
+        "unique_id": "1925382f2cb43782",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

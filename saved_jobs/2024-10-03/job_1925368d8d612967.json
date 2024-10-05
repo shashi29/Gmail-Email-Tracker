@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": "Senior AWS Cloud Developer",
+        "location": "Northridge, CA, USA",
+        "full_location": {
+            "city": "Northridge",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$68/hr. on C2C- Max"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "AWS services"
+            ],
+            "primary": [
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD"
+            ],
+            "secondary": [
+                "data integration",
+                "data transformation",
+                "data processing"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "AWS services",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD",
+                "data integration",
+                "data transformation",
+                "data processing"
+            ],
+            "with_experience": [
+                "Java (12+ years)",
+                "Python (12+ years)",
+                "AWS Lambda (12+ years)",
+                "AWS services (12+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sattanathan B",
+        "email": "sattanathan.b@dimiour.io",
+        "jd": "From: Sattanathan, Dimiour sattanathan.b@dimiour.io Reply to: sattanathan.b@dimiour.io Hi Team,Hope you are doing well.Greetings from Dimiour!!!Our Client is looking to fill the below position as soon as possible. So, I would like to know if you are looking for this opportunity at this point in time? Let me know your comments. Title: Senior AWS Cloud Developer Location: Northridge, California (Day 1 Onsite).Please look for Local Candidate Only.$68/hr. on C2C- MaxInterview Process:1 Round, 30 minutes \u2013 Virtual2 Round, 50 Minutes- Virtual3 Round, In-Person- in Northridge, California.Job Description:At Least Having 12+ Years of Experience.Proficiency in Java or Python, with a strong background in developing cloud-native applications.Experience with server less architectures, specifically AWS Lambda, and familiarity with other AWS services such as API Gateway, Athena, Glue and S3.Extensive experience with AWS cloud development and managing cloud-native components.How Data is Transferred in AWS during Real-Time.Working experience on queues, Kafka.Hand on experience in Real Time Data Processing with AWS servicesStrong understanding of data integration, transformation, and processing techniques.Solid grasp of CI/CD practices and tools relevant to data engineering.In-depth understanding of data storage and retrieval mechanisms using AWS services.Best Regards,Sattanathan BSenior Technical RecruiterDimiour.",
+        "source": "Email",
+        "date_posted": "2024-10-03 12:20:37-05:00",
+        "unique_id": "1925368d8d612967",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

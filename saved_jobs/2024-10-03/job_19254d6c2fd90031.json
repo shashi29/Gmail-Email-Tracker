@@ -1,0 +1,45 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Kalyani",
+        "email": "kalyanig@dazzlon.com",
+        "jd": "Hello,Hope you are doing Good position : java developer need ex capitalone candidates",
+        "source": "Email",
+        "date_posted": "2024-10-03 18:01:11-05:00",
+        "unique_id": "19254d6c2fd90031",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Netonics inc",
+        "job_title": "Data Architect",
+        "location": "PA, USA",
+        "full_location": {
+            "city": "PA",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, Data Science, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PySpark",
+                "Azure Data Factory",
+                "Power BI",
+                "Data Modeling",
+                "SQL"
+            ],
+            "primary": [
+                "Data Architecture Design",
+                "Data Pipeline Development",
+                "Integration and Automation",
+                "Data Governance and Security",
+                "Performance Optimization"
+            ],
+            "secondary": [
+                "Data Visualization",
+                "Documentation",
+                "Troubleshooting Support",
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Collaboration"
+            ],
+            "all": [
+                "PySpark",
+                "Azure Data Factory",
+                "Power BI",
+                "Data Modeling",
+                "SQL",
+                "Data Architecture Design",
+                "Data Pipeline Development",
+                "Integration and Automation",
+                "Data Governance and Security",
+                "Performance Optimization",
+                "Data Visualization",
+                "Documentation",
+                "Troubleshooting Support",
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Collaboration"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Atiya",
+        "email": "atiya.s@netonicsinc.com",
+        "jd": "Hello Everyone, ROle: Data Architect ONLY USC AND GCLocation: PA Key Responsibilities: Data Architecture Design: Design and develop scalable, high-performance data architecture solutions using PySpark, ADF, and Power BI to support business intelligence, analytics, and reporting needs. Data Pipeline Development: Build and manage robust data pipelines using PySpark and Azure Data Factory, ensuring efficient data extraction, transformation, and loading (ETL) processes across various data sources. Data Modeling: Develop and maintain data models that optimize query performance and support the needs of analytics and reporting teams. Integration and Automation: Design and implement integration strategies to automate data flows between systems and ensure data consistency and accuracy. Collaboration: Work closely with data engineers, data analysts, business intelligence teams, and other stakeholders to understand data requirements and deliver effective solutions. Data Governance and Security: Ensure data solutions adhere to best practices in data governance, security, and compliance, including data privacy regulations and policies. Performance Optimization: Continuously monitor and optimize data processes and architectures for performance, scalability, and cost-efficiency. Reporting Visualization: Utilize Power BI to design and develop interactive dashboards and reports that provide actionable insights for business stakeholders. Documentation: Create comprehensive documentation for data architecture, data flows, ETL processes, and reporting solutions. Troubleshooting Support: Provide technical support and troubleshooting for data-related issues, ensuring timely resolution and minimal impact on business operations. Qualifications: Education: Bachelor s degree in Computer Science, Information Technology, Data Science, or a related field. Experience: Minimum of 15+ years of experience in data architecture and engineering, with a focus on PySpark, ADF, and Power BI. Proven experience in designing and implementing data pipelines, ETL processes, and data integration solutions. Strong experience in data modeling and data warehouse design. Technical Skills: Proficiency in PySpark for big data processing and transformation. Extensive experience with Azure Data Factory (ADF) for data orchestration and ETL workflows. Strong expertise in Power BI for data visualization, dashboard creation, and reporting. Knowledge of Azure services (e.g., Azure Data Lake, Azure Synapse) and other relevant cloud-based data technologies. Strong SQL skills and experience with relational databases. Soft Skills: Excellent problem-solving and analytical skills. Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams. Ability to manage multiple priorities in a fast-paced environment.",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:03:07-05:00",
+        "unique_id": "192584551361d84f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

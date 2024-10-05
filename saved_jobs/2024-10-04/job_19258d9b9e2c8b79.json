@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Sibitalent",
+        "job_title": "Business Analyst/Program Manager",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ACI MTS compliant with ISO 20022",
+                "payment processing system",
+                "payments processing architecture",
+                "ISO 20022 standards",
+                "SQL queries"
+            ],
+            "primary": [
+                "end-to-end deployment",
+                "configuration",
+                "maintenance",
+                "support",
+                "wires modernization"
+            ],
+            "secondary": [],
+            "all": [
+                "ACI MTS compliant with ISO 20022",
+                "payment processing system",
+                "payments processing architecture",
+                "ISO 20022 standards",
+                "SQL queries",
+                "end-to-end deployment",
+                "configuration",
+                "maintenance",
+                "support",
+                "wires modernization"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Saurabh Sharma",
+        "email": "ssaurabh@sibitalent.com",
+        "jd": "From: Saurabh sharma, Sibitalent ssaurabh@sibitalent.com Reply to: ssaurabh@sibitalent.com Hi this side saurabh From SibitalentI have a Job Opportunity For YouPosition:- Business Analyst/Program Manager Location:- NJ , NY , NCRequired Skills:- o Prior hands-on experience with ACI MTS compliant with ISO 20022 version is a must and must understand all the components within the ACI MTS architectectureo Prior hands-on experience with end-to-end deployment, configuration, maintenance, and support of a payment processing systemo Must be thorough with the payments processing architecture for CBPR+, CHIPS and FedWire Fundso Must have hands-on experience with ISO 20022 standards, with CHIPS and upcoming FedWire Funds, due to go live in March 2025o Must have the ability to write SQL queries towards required data analysiso Must have prior experience in advising clients on a transformation journey specific to wires modernization, including but not limited to operating model, governance model, architecture, high-level implementation roadmap",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:48:56-05:00",
+        "unique_id": "19258d9b9e2c8b79",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

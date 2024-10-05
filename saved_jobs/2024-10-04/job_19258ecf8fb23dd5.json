@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Oracle Developer",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle PL/SQL",
+                "Oracle development",
+                "SQL",
+                "Performance tuning",
+                "Database design"
+            ],
+            "primary": [
+                "Oracle version 11.x",
+                "Analytics",
+                "Stored procedures",
+                "Database triggers",
+                "Complex queries"
+            ],
+            "secondary": [
+                "Normalization",
+                "Renormalization",
+                "Star schema",
+                "Test cases",
+                "Unit testing"
+            ],
+            "all": [
+                "Oracle PL/SQL",
+                "Oracle development",
+                "SQL",
+                "Performance tuning",
+                "Database design",
+                "Oracle version 11.x",
+                "Analytics",
+                "Stored procedures",
+                "Database triggers",
+                "Complex queries",
+                "Normalization",
+                "Renormalization",
+                "Star schema",
+                "Test cases",
+                "Unit testing"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rohit Singh",
+        "email": "srohit@vyzeinc.com",
+        "jd": "From: Rohit Singh, Vyze Inc srohit@vyzeinc.com Reply to: srohit@vyzeinc.com Hi,Hope you are doing well today! My name is Rohit Singh and I am a Technical Recruiter working with Vyze Inc. I have an exciting opportunity with one of our client. Below are the job details for your review. If interested send me your updated resume with contact details, expected pay rate along with below information.Job Description \u2013Title: Oracle Developer Location:3 days onsite in Jersey City (Hybrid) \u2013 Please send local candidates only as they need in person interviewDuration: 6+ MonthsVisa: EAD / OPT/ GC / H4/ USC / H1b transfer is ok Must have very hands on experience with Oracle developer Pl/SQLAnalytics Strong in Oracle development Experience with Oracle version 11.x aboveAbility to analyze, design and support implementation of Oracle PL/SQL, Views, create/modify database tables based on business requirements and specificationsResponsible to develop/modify PL/SQL, SQL Views in OracleResponsible to create a new tables/modify existing table structure.Performance tuning and good understanding of explain planNormalization, renormalization and star schemaDevelops stored procedures, database triggers and SQL queriesResponsible to develop test cases and perform unit testing.Experience in Procedures, Functions, Packages, views, Materialized Views, Indexes, Triggers, Constraints, Snapshots, Synonyms, Sequences, Database Links, Bulk collect, Forall, ref cursor, partition tables, Analytical functions, collections, objects and writing complex queries Best RegardsRohit SinghUS Technical Recruiter |Vyze Inc.E-Mail: Srohit@vyzeinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-04 14:06:19-05:00",
+        "unique_id": "19258ecf8fb23dd5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

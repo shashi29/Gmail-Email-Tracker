@@ -495,15 +495,13 @@ class JobInformation(BaseModel):
             "   - Employment type and duration\n"
             "   - Compensation and benefits information (if provided)\n"
             "   - Application instructions\n"
-            "3. Maintain the original formatting as much as possible, including paragraphs and bullet points.\n"
-            "4. Do not include:\n"
+            "3. Do not include:\n"
             "   - Email headers or footers\n"
             "   - Personal messages from the sender\n"
             "   - Recruiter contact information (unless it's part of the application process)\n"
             "   - Confidentiality disclaimers or email signatures\n"
-            "5. If the job description is in a different language, include it as-is without translation.\n"
-            "6. Do not summarize or modify the content; extract it verbatim.\n"
-            "7. If the job description seems incomplete, include only what is provided without adding assumptions.\n"
+            "4. If the job description is in a different language, include it as-is without translation.\n"
+            "5. If the job description seems incomplete, include only what is provided without adding assumptions.\n"
             "Note: The goal is to capture the complete, unaltered job description as it appears in the original posting."
         )
     )

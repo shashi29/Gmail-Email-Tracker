@@ -1,0 +1,103 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Applications Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS Lambda",
+                "AWS Step Functions",
+                "AWS CDK",
+                "GIT",
+                "Docker",
+                "Angular"
+            ],
+            "primary": [
+                "TypeScript",
+                "AWS API Gateway",
+                "AWS Load Balancer",
+                "AWS S3",
+                "DynamoDB",
+                "AWS CloudTrail",
+                "AWS CloudWatch",
+                "Athena",
+                "Glue"
+            ],
+            "secondary": [
+                "React",
+                "Agile development methodologies",
+                "CI/CD processes",
+                "Container-based applications",
+                "RESTful APIs",
+                "AWS GovCloud",
+                "Cloud security",
+                "Recovery",
+                "Compliance measures",
+                "Excellent communication",
+                "Collaboration skills"
+            ],
+            "all": [
+                "Python",
+                "AWS Lambda",
+                "AWS Step Functions",
+                "AWS CDK",
+                "GIT",
+                "Docker",
+                "Angular",
+                "TypeScript",
+                "AWS API Gateway",
+                "AWS Load Balancer",
+                "AWS S3",
+                "DynamoDB",
+                "AWS CloudTrail",
+                "AWS CloudWatch",
+                "Athena",
+                "Glue",
+                "React",
+                "Agile development methodologies",
+                "CI/CD processes",
+                "Container-based applications",
+                "RESTful APIs",
+                "AWS GovCloud",
+                "Cloud security",
+                "Recovery",
+                "Compliance measures",
+                "Excellent communication",
+                "Collaboration skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Amit Kumar Pradhan",
+        "email": "amit@vyzeinc.com",
+        "jd": "From: Amit Kumar Pradhan, Vyze Inc. amit@vyzeinc.com Reply to: amit@vyzeinc.com Job Description -Job Title: Applications DeveloperLocation: Remotevisa: CITIZEN,GC EAD,GREEN CARD,H4 EADOnly from trusted third partyNEED Linkdin, dl, visa copy Job Overview:We are seeking an experienced Applications Developer to join our team. This role will be pivotal in developing and maintaining applications using AWS Serverless and cloud services. The ideal candidate will have a strong background in Agile development methodologies, CI/CD processes, and expertise in Python for backend services, alongside experience in Angular for front-end development.Qualifications:Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.Minimum of six years of experience in software development and cloud technologies.Expertise in the following technical skills:Programming Languages: Python, TypeScriptAWS Services: AWS Lambda, AWS Step Functions, AWS CDK, AWS API Gateway, AWS Load Balancer, AWS S3, DynamoDB, AWS Fargate, AWS CloudTrail, AWS CloudWatch, Athena, GlueDevelopment Tools: GIT, DockerWeb Technologies: Angular or React for front-end developmentExperience with container-based applications and RESTful APIs.Familiarity with AWS GovCloud is a plus.Strong understanding of cloud security, recovery, and compliance measures.Excellent communication and collaboration skills.Technical Skills:Bachelor s degree in computer science, information technology, or related field and six years of experiencePythonAWS LambdaAWS Step-FunctionsAWS CDKGITDockerAWSCloudTrailCloudWatchDynamoDBAngular Web UIAWS API Gateway and AWS Load BalancerAWS S3Application Containers hosted with AWS FargateTypescriptAthenaGlueExperience working in AWS GovCloud.Key Responsibilities:Develop and support applications utilizing AWS Serverless architecture and cloud services.Collaborate with cross-functional teams in an Agile environment to design and implement software solutions.Write and maintain Python code, including Infrastructure as Code (IaC) using AWS CDK.Model business processes utilizing AWS Step Functions.Develop and manage container-based applications that utilize REST APIs, with web-based applications written in Angular or React using TypeScript.Implement logging and auditing practices using AWS CloudWatch and AWS CloudTrail in a regulated environment.Conduct unit testing and remediation of code issues as part of the CI/CD pipeline.Contribute to the design of the applications and provide comprehensive documentation.Work effectively with team members and stakeholders to ensure high-quality deliverables.",
+        "source": "Email",
+        "date_posted": "2024-10-03 20:02:32-05:00",
+        "unique_id": "192550bf00bea36a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

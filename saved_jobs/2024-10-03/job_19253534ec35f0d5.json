@@ -1,0 +1,97 @@
+[
+    {
+        "company": "Resource Logistics",
+        "job_title": "Data Warehouse (TeamCenter, SAP HANA, Snowflake, ETL)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "B.S or M.S in Computer Science, Business Analytics, Engineering",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Business Intelligence",
+                "Advanced Analytics",
+                "ETL Pipelines",
+                "Data Warehousing"
+            ],
+            "primary": [
+                "TeamCenter",
+                "SAP HANA",
+                "Snowflake",
+                "GCP",
+                "Tableau",
+                "Power BI",
+                "Machine Learning Engineering",
+                "Artificial Intelligence"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Agile",
+                "Scrum",
+                "Kanban",
+                "Analytical Thinking",
+                "Interpersonal Skills",
+                "Communication Skills",
+                "Microsoft Office Suite"
+            ],
+            "all": [
+                "Data Engineering",
+                "Business Intelligence",
+                "Advanced Analytics",
+                "ETL Pipelines",
+                "Data Warehousing",
+                "TeamCenter",
+                "SAP HANA",
+                "Snowflake",
+                "GCP",
+                "Tableau",
+                "Power BI",
+                "Machine Learning Engineering",
+                "Artificial Intelligence",
+                "CI/CD",
+                "Agile",
+                "Scrum",
+                "Kanban",
+                "Analytical Thinking",
+                "Interpersonal Skills",
+                "Communication Skills",
+                "Microsoft Office Suite"
+            ],
+            "with_experience": [
+                "Data Engineering",
+                "ETL Pipelines",
+                "TeamCenter",
+                "SAP HANA",
+                "Snowflake"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Anuj Singh",
+        "email": "anuj.singh@resource-logistics.com",
+        "jd": "Hey ,Greetings!! Role- Data Warehouse (TeamCenter, SAP HANA, Snowflake, ETL)Location-RemoteJob Type: Contract What\u2019s Encouraged Daily: Build and maintain data models and data/solution pipelines to cater to analytical applicationsWork in a technical team through development, deployment, and application of applied, predictive and prescriptive analytics using data engineering, machine learning engineering and artificial intelligence.Design and optimize data structures in data management systems (Snowflake, GCP, HANA) to enable reporting analytics using Tableau/Power BI as well as AI/ML solutions.Determine transformation requirements and develop processes to bring structured and unstructured data from the source to a new physical Data ModelHow To Qualify: Technical Degree required. B.S or M.S in Computer Science, Business Analytics, EngineeringUnderstanding of Data Engineering/processing, Business Intelligence and Advanced analytics using Teamcenter dataThorough understanding of the back-end models for Teamcenter8+ years of strong working knowledge of databases (Snowflake, MS-SQL, SAP HANA) 5+ years building scalable ETL pipelines with data processing and/or developing applications and data sources.Experience with the back-end data structures, tables, relationships, E-R relationship of Teamcenter and translating them to data warehouse constructs.Ability to define & build hierarchical relationships of Product Lifecycle Management like BOM, etc. in data warehouse like Snowflake.Communicate effectively with stakeholders regarding all facets of data warehousing solutions pertaining to PLM Teamcenter.Ability to architect & develop solutions pertaining to attributes, relationships for master data including slowly changing dimensions.Ability to architect & develop data-warehousing solutions for extended Product Lifecycle Management encompassing production cycle definitions of products, equipment, facilities, etc.Familiarity with the integration of Teamcenter & SAP as related to data warehousing solutions.Various phases of Unit, Integration & User Acceptance testingFamiliarity with software architecture (data structures, data schemas, etc.)Software development skills and knowledge in Cloud based data engineering.CI/CD pipelines including ADO reposExperience with various frameworks and processes, such as Agile (Scrum, Kanban, etc.)Outstanding analytical thinking, interpersonal, oral, and written communication skills. Proficiency in the Microsoft Office suite Ability to prioritize and meet critical project timelines in a fast-paced environment.Self-motivated and team-orientedWhat Sets You Apart:Strong business domain knowledge in Product Lifecycle Management.Experience with 3NF data modelingExperience with transformation & development of data models in Snowflake.Experience with Coalesce",
+        "source": "Email",
+        "date_posted": "2024-10-03 11:57:25-05:00",
+        "unique_id": "19253534ec35f0d5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

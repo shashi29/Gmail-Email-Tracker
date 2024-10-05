@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Technosphere Inc.",
+        "job_title": "Sr IAM Engineer",
+        "location": "Reston, VA, USA",
+        "full_location": {
+            "city": "Reston",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Identity and Access Management",
+                "full stack Java development",
+                "test automation"
+            ],
+            "primary": [
+                "AWS",
+                "APIs",
+                "Splunk",
+                "Apigee",
+                "technical documentation"
+            ],
+            "secondary": [
+                "scripting",
+                "ADCS",
+                "certificates",
+                "passwordless solution",
+                "COTS applications"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "scripting",
+                "Identity and Access Management",
+                "full stack Java development",
+                "test automation",
+                "AWS",
+                "APIs",
+                "Splunk",
+                "Apigee",
+                "technical documentation",
+                "ADCS",
+                "certificates",
+                "passwordless solution",
+                "COTS applications"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ambika",
+        "email": "ambika@technosphere.com",
+        "jd": "From: Ambika, Technosphere Inc. ambika@technosphere.com Reply to: ambika@technosphere.com Job Description:Experience with development with Java or Python and scripting.Experience integrating Hypr with desktop agent (Windows and Mac)Experience with ADCS and certificates.Prior experience deploying a passwordless solution is an advantage.5+ years prior experience deploying, maintaining, and expanding COTS applications is preferred.Identity and Access Management experience - with a required skill set of full stack Java development and test automation experience.Experience using AWS technologies for building, deploying, and maintaining applications.Building new APIs, and leveraging OOB product APIsExperience with integrating with technologies like Splunk and ApigeeExperience in writing technical documentation and be a SME providing guidance to other teams.",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:28:26-05:00",
+        "unique_id": "1925411ebe4458f8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

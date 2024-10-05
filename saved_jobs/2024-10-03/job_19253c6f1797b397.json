@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "PL/SQL Developer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle SQL",
+                "PL/SQL",
+                "Performance tuning"
+            ],
+            "primary": [
+                "Unix Shell Scripting",
+                "Data Modelling",
+                "ETL solutions",
+                "Data warehousing"
+            ],
+            "secondary": [
+                "Python",
+                "Agile methodology",
+                "Data security",
+                "Data quality monitoring"
+            ],
+            "all": [
+                "Oracle SQL",
+                "PL/SQL",
+                "Performance tuning",
+                "Unix Shell Scripting",
+                "Data Modelling",
+                "ETL solutions",
+                "Data warehousing",
+                "Python",
+                "Agile methodology",
+                "Data security",
+                "Data quality monitoring"
+            ],
+            "with_experience": [
+                "Oracle SQL (8-10 years)",
+                "PL/SQL (8-10 years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Shivam Kamboj",
+        "email": "shivam.kamboj@siriinfo.com",
+        "jd": "From: Shivam Kamboj, Siri Info Solutions shivam.kamboj@siriinfo.com Reply to: shivam.kamboj@siriinfo.com Role - PL/SQL DeveloperRole name:DeveloperRole Description:- Extensive experience with Oracle/Exadata SQL, PL/SQL and perform application tuning using various tools like EXPLAIN PLAN, SQL*TRACE and AWR Reports. Should have a clear understanding of Oracle Server Process Architecture and memory structures PGA (Program Global Areas) & SGA (System Global Areas) to optimize memory usage. ? Implement ETL solutions for large volume of data by applying various data warehouse modeling techniques like Star Schema, Data partitioning, Data compression, Direct path loads etc. ? Experience in Unix/Linux shell scripting. Knowledge of python is desirable.? Implementation experience with monitoring and measurement of data quality using business rules.? Maintain metadata, data glossary and data catalog processes. Ensure adherence to data security by using data encryption procedures and protocols. ? Ability to work in fast paced environment? Experience in Financial Industry with some risk background. ? Knowledge of Agile methodology is desirable ? Experience in Data Modelling - dimensional/reporting, data warehousing and transactional use cases (Physical and Logical modelling) ? Ability to translate architecture and low-level requirements to design and code using SQL ? Scale and optimize performance via schema design, query tuning, and index creation. ? Knowledge of reporting and query tools and practices.Competencies:ORACLE SQL, PL/SQL, Unix Shell Scripting and text processing tools, Unix / Linux Basics and CommandsExperience (Years):8-10Essential Skills:Oracle SQL Queries, PLSQL Development, Performance tuning and Capital Markets Experience is MustDesirable Skills:Agile methodology , Knowledge of python is desirable.Country:United StatesBranch | City | Location: Boston, MANorth QuincyNorth Quincy, MA RegardsShivam KambojTechnical RecruiterSiri Info Solutions.Mail Id: shivam.kamboj@siriinfo.com",
+        "source": "Email",
+        "date_posted": "2024-10-03 14:07:31-05:00",
+        "unique_id": "19253c6f1797b397",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

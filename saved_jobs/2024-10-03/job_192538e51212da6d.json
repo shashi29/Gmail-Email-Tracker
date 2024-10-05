@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Samson Software Solutions",
+        "job_title": "Java Full stack Developer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java Script",
+                "Microservices",
+                "Spring boot",
+                "React",
+                "React JS"
+            ],
+            "primary": [
+                "Automation testing",
+                "React framework",
+                "Kafka"
+            ],
+            "secondary": [],
+            "all": [
+                "Java Script",
+                "Microservices",
+                "Spring boot",
+                "React",
+                "React JS",
+                "Automation testing",
+                "React framework",
+                "Kafka"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ashish Awasthi",
+        "email": "ashish.awasthi@samsonsoft.com",
+        "jd": "From: Ashish Awasthi, Samson software solutions ashish.awasthi@samsonsoft.com Reply to: ashish.awasthi@samsonsoft.com Title : Java Full stack DeveloperLocation : New York City, NY. (Local Candidate)Implementation : HCL AmericaJob Description:Java Script/MicroservicesSpring boot, React/React JSAutomation testing React frameworkKafka.Thanks & Regards, Ashish Awasthi | US IT Recruiter Samson Software Solutions Inc. Email: ashish.awasthi@samsonsoft.com |",
+        "source": "Email",
+        "date_posted": "2024-10-03 13:03:02-05:00",
+        "unique_id": "192538e51212da6d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Gensigma",
+        "job_title": "Lead Software Developer",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1 Year",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "ASP.NET MVC",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "MS SQL"
+            ],
+            "primary": [
+                "Cross Connection Control Program applications",
+                "Quality Assurance",
+                "Quality Control",
+                "User Acceptance Testing",
+                "JIRA"
+            ],
+            "secondary": [
+                "Security best practices",
+                "Database scripts",
+                "Server configuration",
+                "Troubleshooting"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "ASP.NET MVC",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "MS SQL",
+                "Cross Connection Control Program applications",
+                "Quality Assurance",
+                "Quality Control",
+                "User Acceptance Testing",
+                "JIRA",
+                "Security best practices",
+                "Database scripts",
+                "Server configuration",
+                "Troubleshooting"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rishabh",
+        "email": "rishabc@gensigma.com",
+        "jd": "From: Rishabh, Gensigma rishabc@gensigma.com Reply to: rishabc@gensigma.com Job Title: Lead Software DeveloperLocation: San Francisco, CAContract Duration: 1 YearMinimum Requirements:Client- SFPUC- San Francisco Public Utilities CommissionMQ1 - Minimum of 7 years of written verifiable experience with Cross Connection Control Program applications for a public utility performing design, development, Quality Assurance/Quality Control, implementation, and support work for a similar-sized organization.MQ2 - Minimum of 7 years of written verifiable experience in Software Development, using .NET, C#, ASP.NET MVC, HTML/CSS/JavaScript, jQuery, and MS SQL (Transact SQL, Stored Procedures, Functions, Triggers, and Views) for a public agency.Roles and Responsibilities:Task 1: Software Development, Configuration & TestingProvide error corrections, bug fixes, and troubleshooting for the CCAMS Web application.Develop and deliver patches and updates, ensuring thorough testing and documentation.Implement security best practices during application changes and performance tuning.Conduct User Acceptance Testing (UAT) and manage database scripts for data integrity.Task 2: Project Development Tool for Tracking/AssignmentFacilitate the bug tracking system (e.g., JIRA) for SFPUC staff to post and monitor issues.Provide timely analysis, root cause identification, and documentation of bug resolutions.Maintain a backup of all JIRA items related to CCAMS maintenance support.Task 3: System Analysis, Maintenance & SupportConduct periodic scans and analyses, offering recommendations for updates and security enhancements.Verify third-party support for application components and document findings.Task 4: Communication & Project ManagementProvide weekly project status updates via email and meetings.Schedule and host troubleshooting sessions and walkthroughs for new releases.Task 5: Server AdministrationAssist in server configuration to resolve CCAMS application issues caused by OS patches.Schedule troubleshooting sessions to support deployments of new builds and server configurations.",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:59:07-05:00",
+        "unique_id": "19258788423fef4d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

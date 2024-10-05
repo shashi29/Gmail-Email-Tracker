@@ -1,0 +1,60 @@
+[
+    {
+        "company": "SPAR Information Systems",
+        "job_title": "Senior .NET Developer",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "..Net Core",
+                "C#",
+                "Azure Data Factory"
+            ],
+            "primary": [
+                "Angular (Components & Typescript)",
+                "SQL Server",
+                "CI/CD"
+            ],
+            "secondary": [],
+            "all": [
+                "..Net Core",
+                "C#",
+                "Azure Data Factory",
+                "Angular (Components & Typescript)",
+                "SQL Server",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sampath (Sam)",
+        "email": "sampath@sparinfosys.com",
+        "jd": "From: Sampath (Sam), SPAR Information Systems sampath@sparinfosys.com Reply to: sampath@sparinfosys.com Senior .NET Developer-Need locals Job Location:- Day 1 Onsite-San Francisco, CA or Denver, CO (Candidate needs to work 3 Days at the client Office )Duration: 12 Months Skills required: ..Net Core, C#, Azure Data Factory, Angular (Components & Typescript), SQL Server, CI/CD",
+        "source": "Email",
+        "date_posted": "2024-10-03 14:40:49-05:00",
+        "unique_id": "192540eb540853aa",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

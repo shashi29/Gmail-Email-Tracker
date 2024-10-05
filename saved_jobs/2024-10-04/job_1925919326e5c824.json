@@ -1,0 +1,101 @@
+[
+    {
+        "company": "Nissan",
+        "job_title": "Mid-Senior Data Engineer (AWS)",
+        "location": "Nashville, TN, USA",
+        "full_location": {
+            "city": "Nashville",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Data Engineering, or a related field; Master\u2019s degree preferred.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS cloud platforms",
+                "SQL",
+                "Python",
+                "ETL tools",
+                "data modeling"
+            ],
+            "primary": [
+                "data pipelines",
+                "data architecture",
+                "data warehousing",
+                "Java",
+                "Scala",
+                "Apache NiFi",
+                "Talend",
+                "Informatica",
+                "Apache Airflow",
+                "Prefect"
+            ],
+            "secondary": [
+                "PostgreSQL",
+                "MySQL",
+                "NoSQL databases",
+                "data governance",
+                "data quality assurance",
+                "problem-solving",
+                "communication",
+                "team collaboration"
+            ],
+            "all": [
+                "AWS cloud platforms",
+                "SQL",
+                "Python",
+                "ETL tools",
+                "data modeling",
+                "data pipelines",
+                "data architecture",
+                "data warehousing",
+                "Java",
+                "Scala",
+                "Apache NiFi",
+                "Talend",
+                "Informatica",
+                "Apache Airflow",
+                "Prefect",
+                "PostgreSQL",
+                "MySQL",
+                "NoSQL databases",
+                "data governance",
+                "data quality assurance",
+                "problem-solving",
+                "communication",
+                "team collaboration"
+            ],
+            "with_experience": [
+                "AWS cloud platforms",
+                "SQL",
+                "Python",
+                "ETL tools",
+                "data modeling"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vivek Pandey",
+        "email": "vivek.pandey@tekinspirations.com",
+        "jd": "From: vivek pandey, tek inspirations vivek.pandey@tekinspirations.com Reply to: vivek.pandey@tekinspirations.com Need local candidates and only 2 resumes of candidate Client: NissanJob Title: Mid-Senior Data Engineer (AWS)Visa: Only CitizenLocation: Nashville, Tennessee(Onsite)Key Responsibilities:Must have experience with AWS cloud platforms and their data services.Design, build, and maintain data pipelines and ETL processes to ensure data integrity and availability.Develop and optimize data models, ensuring they meet the needs of analytics and reporting.Collaborate with data scientists and analysts to understand data requirements and translate them into technical solutions.Implement best practices for data governance, security, and quality assurance.Monitor data systems and troubleshoot issues as they arise.Assist in the evaluation and implementation of new data technologies and tools.Document data architecture, processes, and workflows for transparency and compliance.Provide support for data-related inquiries and contribute to cross-functional projects.Qualifications:Bachelor\u2019s degree in Computer Science, Data Engineering, or a related field; Master\u2019s degree preferred.8+ years of experience in data engineering, data warehousing, or related fields.Proficiency in SQL and experience with database technologies (e.g., PostgreSQL, MySQL, or NoSQL databases).Strong programming skills in Python, Java, or Scala.Experience with ETL tools (e.g., Apache NiFi, Talend, or Informatica) and data pipeline orchestration tools (e.g., Apache Airflow, Prefect).Familiarity with cloud platforms (e.g., AWS, Azure, or Google Cloud) and their data services.Understanding of data modeling, data architecture, and data warehousing concepts.Excellent problem-solving skills and attention to detail.Strong communication skills and ability to work collaboratively in a team environment.",
+        "source": "Email",
+        "date_posted": "2024-10-04 14:54:37-05:00",
+        "unique_id": "1925919326e5c824",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

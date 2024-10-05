@@ -1,0 +1,105 @@
+[
+    {
+        "company": "Vyze",
+        "job_title": "Cloud Solution Architect",
+        "location": "Indianapolis, IN, USA",
+        "full_location": {
+            "city": "Indianapolis",
+            "state": "IN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6 years",
+            "degree_required": "Bachelor's degree in Computer Science, Computer Engineering, or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Terraform",
+                "CI/CD",
+                "Azure DevOps",
+                "PowerShell"
+            ],
+            "primary": [
+                "Azure Administrator AZ-103",
+                "Azure Administrator AZ-104",
+                "Azure Architect AZ-303",
+                "Azure Architect AZ-304",
+                "Azure Architect AZ-305",
+                "Azure Data Factory",
+                "Azure Synapse Analytics",
+                "Azure SQL Servers",
+                "Log Analytics",
+                "RBAC",
+                "Azure Entra ID",
+                "App registrations",
+                "Service Principle",
+                "managed domains"
+            ],
+            "secondary": [
+                "MLOps",
+                "Data resources in Terraform",
+                "ETL",
+                "data ingestion",
+                "Scripting skills",
+                "Azure Recovery Service Vault",
+                "auditing",
+                "monitoring",
+                "alerting"
+            ],
+            "all": [
+                "Azure",
+                "Terraform",
+                "CI/CD",
+                "Azure DevOps",
+                "PowerShell",
+                "Azure Administrator AZ-103",
+                "Azure Administrator AZ-104",
+                "Azure Architect AZ-303",
+                "Azure Architect AZ-304",
+                "Azure Architect AZ-305",
+                "Azure Data Factory",
+                "Azure Synapse Analytics",
+                "Azure SQL Servers",
+                "Log Analytics",
+                "RBAC",
+                "Azure Entra ID",
+                "App registrations",
+                "Service Principle",
+                "managed domains",
+                "MLOps",
+                "Data resources in Terraform",
+                "ETL",
+                "data ingestion",
+                "Scripting skills",
+                "Azure Recovery Service Vault",
+                "auditing",
+                "monitoring",
+                "alerting"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "hanshika",
+        "email": "hanshika@vyzeinc.com",
+        "jd": "From: hanshika, vyze hanshika@vyzeinc.com Reply to: hanshika@vyzeinc.com Job Description -Cloud Solution Architect Location: Indianapolis must be localAzure Certifications: Azure Administrator AZ-103 or AZ-104, and Azure Architect AZ-303, AZ-304 or AZ-305. Both Senior levelStrong background in Azure data resources, Azure data lakeTaking business requirements and convert into technical design and provide steps on how resources should deploy into TerraformTerraform is a MUSTAzure monitoring CI/CD pipelinesDevOpsMLOps background - HUGE PLUS Data resources in TerraformETL, data ingestionPosition Responsibilities:\u00b7 Configure and manage Azure Monitor, Azure Data Factory, Azure Synapse Analytics, Storage Accounts, Azure SQL Servers, Log Analytics workspace.\u00b7 Strong Experience in automating the deployment of infrastructure (Infrastructure as Code) using Terraform and Azure Resource Manager templates.\u00b7 Very Strong experience Role Back Access Control (RBAC), ACL\u00b7 Working knowledge of CI/CD pipelines using Azure DevOps or GitHub\u00b7 Scripting skills \u2013 PowerShell and Azure CLI\u00b7 Configure and management of Backups and Replication (DR) using Azure Recovery Service Vault\u00b7 Configure auditing, monitoring, and alerting for solutions/services deployed in azure cloud\u00b7 Experience on Azure Entra ID, App registrations, Service Principle and managed domains.\u00b7 Strong problem-solving skills and ability to troubleshoot and debug complex issues. Preferred Requirements:\u00b7 Minimum 6 Years of Experience in Azure cloud infrastructure\u00b7 Working knowledge of Terraform scripting\u00b7 Azure Certifications: Azure Administrator AZ-103 or AZ-104, and Azure Architect AZ-303, AZ-304 or AZ-305. Education:\u00b7 Bachelor's degree in Computer Science, Computer Engineering, or related field",
+        "source": "Email",
+        "date_posted": "2024-10-04 14:00:11-05:00",
+        "unique_id": "19258e75d44ecaff",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

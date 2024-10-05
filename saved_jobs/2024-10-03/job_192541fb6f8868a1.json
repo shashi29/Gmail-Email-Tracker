@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Core Alliance Group Inc",
+        "job_title": "Senior Data Engineer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Data warehousing",
+                "ETL",
+                "Data engineering"
+            ],
+            "primary": [
+                "Data lifecycle management",
+                "Data pipelines",
+                "Data quality",
+                "Data visualization",
+                "Analytics tools"
+            ],
+            "secondary": [
+                "Finance sector experience",
+                "Data lakes",
+                "Data marts",
+                "Automation of data processes"
+            ],
+            "all": [
+                "SQL",
+                "Data warehousing",
+                "ETL",
+                "Data engineering",
+                "Data lifecycle management",
+                "Data pipelines",
+                "Data quality",
+                "Data visualization",
+                "Analytics tools",
+                "Finance sector experience",
+                "Data lakes",
+                "Data marts",
+                "Automation of data processes"
+            ],
+            "with_experience": [
+                "SQL (10+ years)",
+                "Data warehousing (10+ years)",
+                "ETL (10+ years)",
+                "Data engineering (10+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Fizal Abdul",
+        "email": "fizal.a@cagus.com",
+        "jd": "From: Fizal, CAGUS fizal.a@cagus.com Reply to: fizal.a@cagus.com Role: Senior Data Engineer (Only 10+ Years Experience)Location: New York City /Jersey City NJ Expectations: \u2022 Minimum 10+ years\u2022 Datawarehousing End-to-end data lifecycle\u2022 Expert in SQL\u2022 Must be comfortable working with large unknown Data Sources\u2022 Client facing Job Description: We are looking for a Senior Data Engineer with strong experience in designing and managing data ecosystems, particularly within the finance sector. The ideal candidate will be responsible for building and maintaining data pipelines, ensuring data quality, and driving data-driven solutions that solve business challenges. This role requires a hands-on approach to managing the end-to-end data lifecycle, Analyze complex and large datasets to provide insights that drive business decisions and optimize processes. Should be able to take a one-liner requirement and build details around it.Qualifications:Strong expertise in SQL and experience with ETL/ELT processes.Hands-on experience with data warehousing solutions, for E.g. Snowflake or similar platforms.Experience with data lakes, data marts, and building data engineering pipelines.Strong background with finance (ideally payments domains), with an understanding of key metrics and data needs in these areas.Experience with data visualization and analytics tools.Ability to translate high-level business requirements into detailed, actionable data solutions.Proficiency in automating data processes to support decision-making.",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:44:11-05:00",
+        "unique_id": "192541fb6f8868a1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

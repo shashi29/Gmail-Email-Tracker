@@ -1,0 +1,73 @@
+[
+    {
+        "company": "StackNexus",
+        "job_title": "Senior Java Developer",
+        "location": "TX, USA",
+        "full_location": {
+            "city": "",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Groovy",
+                "Springboot",
+                "Spring Webflux"
+            ],
+            "primary": [
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Snowflake",
+                "Postgres",
+                "Gradle",
+                "GitHub Actions"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Python",
+                "Groovy",
+                "Springboot",
+                "Spring Webflux",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Snowflake",
+                "Postgres",
+                "Gradle",
+                "GitHub Actions"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Avinash",
+        "email": "avinash.rongala@stacknexus.io",
+        "jd": "From: Avinash, StackNexus avinash.rongala@stacknexus.io Reply to: avinash.rongala@stacknexus.io Job Title: Senior Java DeveloperLocation: TXInterview : In personJob Type: ContractRequirements:Two Senior Java resources with these skills:Programming Languages: Java, Python, GroovyFrameworks: Springboot, Spring WebfluxCloud Platforms: AzureContainerization: Docker, KubernetesDatabases: Snowflake, PostgresBuild Tools: GradleCICD: GitHub Actions",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:14:35-05:00",
+        "unique_id": "192584fbf372edc2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

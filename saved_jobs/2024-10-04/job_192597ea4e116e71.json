@@ -1,0 +1,77 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": "Java Developer (Ex Google)",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Computer Science, Software Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "TypeScript",
+                "Angular",
+                "Google Cloud Platform (GCP)"
+            ],
+            "primary": [
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "cloud-native development methodologies"
+            ],
+            "secondary": [
+                "problem-solving",
+                "analytical skills",
+                "communication",
+                "collaboration",
+                "passion for learning"
+            ],
+            "all": [
+                "Java",
+                "TypeScript",
+                "Angular",
+                "Google Cloud Platform (GCP)",
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "cloud-native development methodologies",
+                "problem-solving",
+                "analytical skills",
+                "communication",
+                "collaboration",
+                "passion for learning"
+            ],
+            "with_experience": [
+                "Java",
+                "TypeScript",
+                "Angular",
+                "Google Cloud Platform (GCP)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Nishant Vij",
+        "email": "nishant.vij@testingxperts.com",
+        "jd": "From: Nishant Vij, TestingXperts nishant.vij@testingxperts.com Reply to: nishant.vij@testingxperts.com Mandate local and ex google Role: Java Developer (Ex Google)Location: Austin, TX / San Jose, CA Qualifications: Bachelor's degree in Computer Science, Software Engineering, or a related field.Strong programming skills in Java, TypeScript, and Angular. In-depth understanding of Google Cloud Platform (GCP) products and services, particularly Spanner, PubSub, Borg, Boq, CNS, and Plx.Experience with designing and developing scalable, distributed systems.Excellent problem-solving and analytical skills.Strong communication and collaboration skills.A passion for learning and staying current with new technologies.Preferred Qualifications: Experience with containerization technologies (e.g., Docker, Kubernetes).Knowledge of DevOps practices and tools (e.g., CI/CD pipelines, monitoring, logging).Experience with cloud-native development methodologies.Responsibilities: Design, develop, and maintain Java applications, ensuring adherence to best practices and coding standards.Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions. Leverage Google Cloud Platform (GCP) products and services, such as Spanner, PubSub, Borg, Boq, CNS, and Plx, to build scalable and reliable infrastructure.Troubleshoot and resolve technical issues, ensuring the stability and performance of applications.Stay up-to-date with the latest trends and technologies in the Java ecosystem and cloud computing.",
+        "source": "Email",
+        "date_posted": "2024-10-04 16:45:26-05:00",
+        "unique_id": "192597ea4e116e71",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

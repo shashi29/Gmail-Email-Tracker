@@ -1,0 +1,69 @@
+[
+    {
+        "company": "OrbIT People LLC",
+        "job_title": "Azure Data Factory Engineer",
+        "location": "New Brunswick, NJ, USA",
+        "full_location": {
+            "city": "New Brunswick",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory",
+                "PostgreSQL",
+                "ETL processes",
+                "ODATA services"
+            ],
+            "primary": [
+                "SQL",
+                "Azure Blob Storage",
+                "Azure SQL Database",
+                "Python",
+                "Scala"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure Data Factory",
+                "PostgreSQL",
+                "ETL processes",
+                "ODATA services",
+                "SQL",
+                "Azure Blob Storage",
+                "Azure SQL Database",
+                "Python",
+                "Scala"
+            ],
+            "with_experience": [
+                "Azure Data Factory",
+                "PostgreSQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Almas Fathima",
+        "email": "almas.fathima@orbitpeople.com",
+        "jd": "Hello, Please share suitable profiles for Azure Data Factory Engineer.Overview:We are looking for an experienced Azure Data Factory Data Engineer to join our team. The ideal candidate will focus on sourcing data from ODATA services and loading it into PostgreSQL databases. This role requires expertise in data integration, ETL processes, and a solid understanding of Azure cloud technologies. Knowledge on Azure DataBricks notebook creation for ETL processing is an added advantage.Key Responsibilities:Data Pipeline Development: Design and implement data pipelines using Azure Data Factory to extract data from ODATA sources and load it into PostgreSQL databases.ODATA Integration: Configure and optimize ODATA connectors to ensure efficient data retrieval and integration.Data Transformation: Utilize Azure Data Factory\u2019s data flow features to transform data as needed before loading it into PostgreSQL.Performance Monitoring: Monitor and troubleshoot data pipelines to ensure optimal performance and reliability.Collaboration: Work closely with data analysts, database administrators, and stakeholders to gather requirements and deliver effective data solutions.Documentation: Create and maintain documentation for data pipeline architectures, workflows, and processes.Best Practices: Implement data governance and best practices in ETL processes, including version control and testing.Technical Skills:Strong proficiency in Azure Data Factory, including pipeline creation and management.Knowledge of SQL and experience with PostgreSQL, including data modeling and query optimization.Familiarity with Azure services like Azure Blob Storage and Azure SQL Database.Knowledge of programming languages such as Python or Scala for data processing in DatabricksLocation : New Brunswick. Onsite.",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:29:16-05:00",
+        "unique_id": "1925938e9c566c74",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

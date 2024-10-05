@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Convex Tech Inc.",
+        "job_title": "Data Engineer - AWS / Redshift",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "4 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Redshift",
+                "SQL"
+            ],
+            "primary": [
+                "Spark",
+                "Hive",
+                "EMR",
+                "S3",
+                "Glue"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "Redshift",
+                "SQL",
+                "Spark",
+                "Hive",
+                "EMR",
+                "S3",
+                "Glue"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sanjay Sunar",
+        "email": "sanjay@convextech.com",
+        "jd": "From: Sanjay Sunar, convextech sanjay@convextech.com Reply to: sanjay@convextech.com Position: Data Engineer - AWS / Redshift Location: Hybrid(St. Louis,MO)- 4 days onsite Duration: 4 months contract Visa Restrictions: No H1b/CPT Interview: PS Job Description: Required Experience and skills: AWSRedshift - must be able to work independently with RedshiftSQLPrevious experience converting code from Spark and Hive.EMR with S3 and GlueMoving from Hadoop to redshift Thanks and Regards Sanjay SunarUS IT Recruiter |Convex Tech Inc.Email: sanjay@convextech.comLinkedin: https://www.linkedin.com/in/santosh-kumar-sunar-419601178/",
+        "source": "Email",
+        "date_posted": "2024-10-03 18:18:27-05:00",
+        "unique_id": "19254cd65df64ed4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Themesoft Inc",
+        "job_title": "Angular .Net Developer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ASP .NET",
+                ".Net Core",
+                "Angular 8+",
+                "Jquery",
+                "JavaScript"
+            ],
+            "primary": [
+                "SQL",
+                "Communication skills",
+                "Work ethics"
+            ],
+            "secondary": [],
+            "all": [
+                "ASP .NET",
+                ".Net Core",
+                "Angular 8+",
+                "Jquery",
+                "JavaScript",
+                "SQL",
+                "Communication skills",
+                "Work ethics"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Praveen",
+        "email": "praveen.s@themesoft.com",
+        "jd": "From: Praveen, Themesoft Inc praveen.s@themesoft.com Reply to: praveen.s@themesoft.com Role: Angular .Net Developer Location: New York City (Local only)Duration: ContractSkills:Develop, Enhance and maintain a pre-defined set of applications, built on ASP .NET, .Net Core, Angular 8+, Jquery, Javascripts and other related technologies:Design and develop complex and large-scale business applications Design, develop and test web applications Design and develop service, contracts, design data models Understand and document business requirements and system designsDevelop database objects (stored procedures, functions, views, constraints etc.)Good knowledge of SQL. Excellent communication skills and work ethicsRegards, Praveenpraveen.s@themesoft.com Themesoft Inc",
+        "source": "Email",
+        "date_posted": "2024-10-03 13:37:27-05:00",
+        "unique_id": "19253c6c5b7b8ddd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

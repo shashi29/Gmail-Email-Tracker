@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "Lead Data Bricks Engineer SME",
+        "location": "Rahway, NJ, USA",
+        "full_location": {
+            "city": "Rahway",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Confluent Kafka Streaming",
+                "Pyspark",
+                "Delta Lake",
+                "Databricks",
+                "DevOps",
+                "CI/CD",
+                "Jenkins"
+            ],
+            "primary": [
+                "Autoloader",
+                "Materialized Views",
+                "Unity Catalog",
+                "Workflows",
+                "DBT basic knowledge"
+            ],
+            "secondary": [
+                "Data Bricks Certified Data engineer professional",
+                "AWS Knowledge (Athena, EC2, S3)",
+                "Trino SQL query engine",
+                "PowerBi"
+            ],
+            "all": [
+                "AWS",
+                "Confluent Kafka Streaming",
+                "Pyspark",
+                "Delta Lake",
+                "Databricks",
+                "DevOps",
+                "CI/CD",
+                "Jenkins",
+                "Autoloader",
+                "Materialized Views",
+                "Unity Catalog",
+                "Workflows",
+                "DBT basic knowledge",
+                "Data Bricks Certified Data engineer professional",
+                "AWS Knowledge (Athena, EC2, S3)",
+                "Trino SQL query engine",
+                "PowerBi"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Basavaraj",
+        "email": "basavaraj@centraprise.com",
+        "jd": "From: Basavaraj, Centraprise basavaraj@centraprise.com Reply to: basavaraj@centraprise.com Hi Team, Greetings from Centraprise,Role: - Lead Data Bricks Engineer SMELocation \u2013 \u2013Rahway, NJ - Day 1 Onsite NOTE: LinkedIn & Passport Number Is Must Job Description:TechStack (Must Have)AWS, Confluent Kafka Streaming, Pyspark, Delta Lake, Databricks(Medallion Architecture, DeltaLiveTables (DLT) with serverless, CDC(SCD Type 1 and Type2),Autoloader, Materialized Views, Unity Catalog, Workflows, DBT basic knowledge) , Autoloader - streaming experience, DevOps - CI/CD, Jenkins, Automation Guidance and service-based offering for the stream processing part,TechStack (Good to Have):Data Bricks Certified Data engineer professionalAWS Knowledge (Athena, EC2, S3)Trino SQL query enginePowerBi",
+        "source": "Email",
+        "date_posted": "2024-10-04 17:36:22-05:00",
+        "unique_id": "19259ec2b5910822",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

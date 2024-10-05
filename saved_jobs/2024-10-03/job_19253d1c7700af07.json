@@ -1,0 +1,50 @@
+[
+    {
+        "company": "American Express",
+        "job_title": "Java Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Prashanth",
+        "email": "prashanthn@brillius.com",
+        "jd": "Role - Java Engineer\nLocation - Phoenix, AZ Onsite role\nContract\nNeed Ex Amex Must\nPlease dont send resumes without Amex (American Express)\n\nKey Responsibilities:\nDesign, develop, and maintain Java-based applications.\nWrite clean, efficient, and maintainable code following best practices and coding standards.\nCollaborate with product managers, designers, and other engineers to define requirements and deliver features.\nParticipate in code reviews to ensure code quality and provide constructive feedback to team members.\nTroubleshoot and debug issues to identify root causes and implement effective solutions.\nStay up-to-date with the latest technologies and trends in Java development.",
+        "source": "Email",
+        "date_posted": "2024-10-03 14:19:20-05:00",
+        "unique_id": "19253d1c7700af07",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

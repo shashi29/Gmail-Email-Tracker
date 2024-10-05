@@ -1,0 +1,68 @@
+[
+    {
+        "company": "VERIDIAN TECHSOLUTIONS PRIVATE LIMITED",
+        "job_title": "Python Developer (Healthcare Domain)",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "FastAPI",
+                "RESTful APIs",
+                "AWS"
+            ],
+            "primary": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "NoSQL",
+                "relational database design"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Django",
+                "FastAPI",
+                "RESTful APIs",
+                "AWS",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "NoSQL",
+                "relational database design"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Aabhash Singh",
+        "email": "aabhash@veridiants.com",
+        "jd": "Hi , We are urgently looking for a Python developer(Healthcare Domain) located in San Francisco,CA (Hybrid) local candidates required .Below is the Job description :Python developers, implement business logic into our backend python server code. Strong python development skills, and best practices in web application development with RESTful API's. Familiarity with web frameworks such as Django, Flask, and FastAPI. Some proficiency in HTML, CSS, and JavaScript (or at least how it will relate to the server side data). Experience with database design (NoSQL and relational). Note:Python \u2013 4+ yearsDjango \u2013 2-3 yearsFast API \u2013 2-3 yearsRestful API - -3 yearsStrong AWS - hands on (not in environment) - 3 to 4 yearsRegards ,Aabhash Singh",
+        "source": "Email",
+        "date_posted": "2024-10-04 10:44:21-05:00",
+        "unique_id": "19258549e7dd3a03",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "company": "HCL Global Systems",
+        "job_title": "Lead Full Stack Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 1.8",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [
+                "GCP (Cloud Run, Apigee Gateway)",
+                "Agile",
+                "Oracle",
+                "Sybase"
+            ],
+            "secondary": [
+                "OpenAI (swagger)",
+                "OAuth/JWT",
+                "JBoss 5",
+                "Apigee Integrations knowledge"
+            ],
+            "all": [
+                "Java 1.8",
+                "Spring Boot",
+                "Microservices",
+                "GCP (Cloud Run, Apigee Gateway)",
+                "Agile",
+                "Oracle",
+                "Sybase",
+                "OpenAI (swagger)",
+                "OAuth/JWT",
+                "JBoss 5",
+                "Apigee Integrations knowledge"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Siva Prasad",
+        "email": "shiva@hclglobal.com",
+        "jd": "From: Siva Prasad, HCL Global Systems shiva@hclglobal.com Reply to: shiva@hclglobal.com Hi,I hope you are well.I request you to go through the below requirements help me with updated resume, Job title: Lead Full Stack DeveloperRole is onsite based out of Atlanta, GA (Need Locals)Job Description:\u2022 Lead the design and development of complex applications using Spring Boot, Microservices, and Core Java.\u2022 Oversee the entire software development lifecycle, from requirement analysis to deployment and maintenance.\u2022 Provide technical guidance and mentorship to junior developers, fostering a collaborative and innovative environment.\u2022 Ensure the implementation of best practices in coding, testing, and documentation to maintain high-quality standards.\u2022 Collaborate with cross-functional teams to gather and analyze requirements, ensuring alignment with business objectives.\u2022 Drive continuous improvement initiatives to enhance system performance, scalability, and reliability.\u2022 Conduct code reviews and provide constructive feedback to ensure adherence to coding standards and best practices\u2022 Candidate needs to have Strong Agile Experience and Ability to understand and write User Stories, Acceptance Criteria and run Scrum Ceremonies.Skills required (must be showcased on the resume):\u2022 Java 1.8, Spring boot, OpenAI (swagger) OAuth/JWT, Microservices\u2022 GCP (Cloud Run, Apigee Gateway), JBoss 5\u2022 Ability to Lead Agile Team/Scribe User Stories and Acceptance Criteria by working with clients.\u2022 Oracle/Sybase\u2022 Apigee Integrations knowledgeYears of experience required: 8-10",
+        "source": "Email",
+        "date_posted": "2024-10-03 14:48:56-05:00",
+        "unique_id": "192545da20173824",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

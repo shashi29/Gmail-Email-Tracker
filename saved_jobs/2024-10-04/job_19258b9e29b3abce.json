@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Smart Folks Inc",
+        "job_title": "Data Processing, Dashboard Engineer",
+        "location": "Philadelphia, PA, USA",
+        "full_location": {
+            "city": "Philadelphia",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Amazon Quicksight",
+                "AWS",
+                "Data processing",
+                "Dashboard creation"
+            ],
+            "primary": [
+                "Extracting data from headwaters",
+                "Creating new dashboards using Quicksight",
+                "Tableau"
+            ],
+            "secondary": [
+                "Front end experience"
+            ],
+            "all": [
+                "Python",
+                "Amazon Quicksight",
+                "AWS",
+                "Data processing",
+                "Dashboard creation",
+                "Extracting data from headwaters",
+                "Creating new dashboards using Quicksight",
+                "Tableau",
+                "Front end experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Hari Prasad",
+        "email": "prasad@smartfolksinc.com",
+        "jd": "From: Hari Prasad, Smartfolks prasad@smartfolksinc.com Reply to: prasad@smartfolksinc.com Hi, Greetings from Smart Folks Inc!My name is Hari Prasad we have a job opportunity for Data Processing, Dashboard Engineer for one of our clients. Please find the Job description below, if you are available and interested, please send us your word copy of your resume with following detail to Prasad@smartfolksinc.com. Role: Data Processing, Dashboard Engineer Location: Philadelphia, PA- ONSITE Duration: 6-12 Months Minimum Work Experience- 8 Years Job Details: Skill requirements: 4+ years of experience Python Elastic Amazon Quicksight AWS Data processing and Dashboard creation Extracting data from headwaters or other data sources, creating new dashboards using Quicksight Tableau (optional) Front end experience (optional)",
+        "source": "Email",
+        "date_posted": "2024-10-04 13:10:31-05:00",
+        "unique_id": "19258b9e29b3abce",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

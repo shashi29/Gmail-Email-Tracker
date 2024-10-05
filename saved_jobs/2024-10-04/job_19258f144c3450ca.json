@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Direct Client",
+        "job_title": "Data Engineer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ Years",
+            "degree_required": "Bachelor\u2019s degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python ETL",
+                "Azure Data Factory",
+                "DataBricks",
+                "Azure Storage",
+                "Azure VM"
+            ],
+            "primary": [
+                "Data Governance",
+                "Data Quality",
+                "Controls",
+                "Financial or Banking industry",
+                "Data Engineering"
+            ],
+            "secondary": [
+                "Agile",
+                "Data capture system",
+                "Compliance",
+                "Security"
+            ],
+            "all": [
+                "Python ETL",
+                "Azure Data Factory",
+                "DataBricks",
+                "Azure Storage",
+                "Azure VM",
+                "Data Governance",
+                "Data Quality",
+                "Controls",
+                "Financial or Banking industry",
+                "Data Engineering",
+                "Agile",
+                "Data capture system",
+                "Compliance",
+                "Security"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ajit Mehta",
+        "email": "ajit@maintec.com",
+        "jd": "From: Ajit, Maintec ajit@maintec.com Reply to: ajit@maintec.com Hi Folks,Hope you are doing great!If the opportunity interests you and want to apply for the position, please respond to this mail with recent copy of your resume. Job Title: Data Engineer Location: New York, NY (Hybrid)Duration: 6 Months Contract.Experience level: Mid-senior Experience required: 10+ Years Education level: Bachelor\u2019s degree Job function: Information Technology Industry: Insurance Skills: Python ETL, Azure Data Factory, DataBricks, Azure Storage, and Azure VM, Data Governance, Data Quality, and Controls, Financial or Banking industry, Data Engineering Notes from HM: We are seeking a highly skilled Data Engineer with previous hands-on experience in the Financial or Banking industry, capable of hitting the ground running and quickly building scalable data solutions. The ideal candidate will have a strong background in Azure Cloud and will work within a cross-functional Agile team of 15 people. This role requires someone who can collaborate closely with stakeholders to understand business requirements, particularly for capturing revenue data for brokers. The engineer will also work with compliance and security teams to ensure all systems meet regulatory standards. They will be responsible for building a flexible data capture system while maintaining BAU (Business as Usual) functionality. This is a dynamic, fast-paced environment where the ability to deliver high-quality solutions quickly is critical. Job DetailsHere is the job requirement for a Data Engineer position with expertise in Python ETL and Azure experience. We are seeking a highly skilled and motivated individual who can contribute to our team and help drive our data engineering initiatives. Job Requirements1. Python ETL: The ideal candidate should have strong proficiency in Python programming language and experience in Extract, Transform, Load (ETL) processes. They should be able to design and develop efficient ETL workflows to extract data from various sources, transform it as per business requirements, and load it into target systems. 2. Azure Experience: The candidate should have hands-on experience working with Microsoft Azure cloud platform. They should be familiar with Azure services and tools, and have a good understanding of Azure architecture and best practices. 3. Azure Data Factory, DataBricks, Azure Storage, and Azure VM: The candidate should have practical experience with Azure Data Factory, DataBricks, Azure Storage, and Azure Virtual Machines. They should be able to design and implement data pipelines using Azure Data Factory, perform data transformations and analytics using DataBricks, and manage data storage and virtual machines in Azure. 4. Data Governance, Data Quality, and Controls: The candidate should have a strong understanding of data governance principles, data quality management, and data controls. They should be able to implement data governance frameworks, establish data quality standards, and ensure compliance with data regulations and policies. 5. Implementing alerts and notifications for batch jobs: The candidate should have experience in setting up alerts and notifications for batch jobs. They should be able to configure monitoring and alerting mechanisms to ensure timely identification and resolution of issues in batch job execution. Ajit MehtaPhone: +1 19193712409Email: ajit@maintec.com",
+        "source": "Email",
+        "date_posted": "2024-10-04 14:11:00-05:00",
+        "unique_id": "19258f144c3450ca",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

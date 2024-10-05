@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Vaaridatech",
+        "job_title": "Java with AWS",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Mid to Senior level",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Scala",
+                "Spark"
+            ],
+            "primary": [
+                "Python",
+                "Data Engineering"
+            ],
+            "secondary": [
+                "Flink",
+                "Kinesis"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Scala",
+                "Spark",
+                "Python",
+                "Data Engineering",
+                "Flink",
+                "Kinesis"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "chandan",
+        "email": "chand@vaaridatech.com",
+        "jd": "From: chandan, Vaaridatech chand@vaaridatech.com Reply to: chand@vaaridatech.com Role:-Java with AWS Location:-Richmond VA or McLean, VA, NYC, or Boston, MA. I will be onsite for day 1NO H1B , OPT ,CPT NEED PASSPORT FOR SUMISSIONNeed software engineers with experience in java (1st skill),scala and spark and AWS.-Need software engineers w/ solid data engineering experience, NOT Data Engineers who use data to do stuff, that's a diff profile.*-Software engineers will be responsible for BUILDING data engineering platforms. They should have experience w/ Spark or Flink, and Java or Python programming languages (Java strongly preferred).-Not looking for engineers who build data pipelines, but rather looking for engineers who Build the PLATFORMS that pipelines live in. They'll be building the data solution itself.-For example, AWS's similar platform is Kinesis - Capital One wants to build their own homegrown version/platform, rather than risking external platforms to do this work.-The platform processes 10 trillion records per month, hoping to go up to 100 trillion by EO next year. VERY large scale volume. Provide real time, under a millisecond latency.-Solid engineers who can build things with proper qualityAdditional Skills & QualificationsThe Mid to Senior level Developer will be part of a fast-paced software development team.-Scala w/ Java preferred over Python. I am responsible for relocating to Richmond VA or McLean, VA, NYC, or Boston, MA. I will be onsite for day 1 and will work onsite a minimum of 3 days a week.",
+        "source": "Email",
+        "date_posted": "2024-10-04 10:28:07-05:00",
+        "unique_id": "1925869d2e864c79",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

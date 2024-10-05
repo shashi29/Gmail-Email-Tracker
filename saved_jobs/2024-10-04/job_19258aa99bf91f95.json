@@ -1,0 +1,58 @@
+[
+    {
+        "company": "Softcom Systems Inc",
+        "job_title": "GCP Cloud DevOps Engineer",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Docker",
+                "Kubernetes",
+                "GCP Cloud",
+                "Ansible",
+                "Terraform"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Docker",
+                "Kubernetes",
+                "GCP Cloud",
+                "Ansible",
+                "Terraform",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen",
+        "email": "naveen@softcomsystems.com",
+        "jd": "From: Naveen, Softcom Systems Inc naveen@softcomsystems.com Reply to: naveen@softcomsystems.com Details:Role: GCP Cloud DevOps EngineerLocation: Onsite, Sunnyvale, CAType: ContractJob Details:Must Have SkillsDocker & KubernetesGCP CloudAnsible & TerraformNice to have skillsDetailed Job DescriptionExperience in automating DevOps process.Experience in GCP must and AWS good to haveHas Kubernetes understanding.Able to code the deployment using helm, KustomizeProficient in building script libraries. Python preferred.Proficient in writing module using Terraform",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:53:49-05:00",
+        "unique_id": "19258aa99bf91f95",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

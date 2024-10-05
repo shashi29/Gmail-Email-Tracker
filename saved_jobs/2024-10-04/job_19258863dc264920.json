@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Availity",
+        "job_title": "Data Engineer III",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Scala",
+                "Spark",
+                "ETL",
+                "AWS",
+                "SQL"
+            ],
+            "primary": [
+                "Python",
+                "Bash",
+                "Java",
+                "GIT",
+                "Linux"
+            ],
+            "secondary": [
+                "Apache Spark",
+                "AWS EMR",
+                "Data Governance",
+                "Data Privacy",
+                "Unit Testing",
+                "Collaboration",
+                "Problem-solving",
+                "Data Science Toolkits"
+            ],
+            "all": [
+                "Scala",
+                "Spark",
+                "ETL",
+                "AWS",
+                "SQL",
+                "Python",
+                "Bash",
+                "Java",
+                "GIT",
+                "Linux",
+                "Apache Spark",
+                "AWS EMR",
+                "Data Governance",
+                "Data Privacy",
+                "Unit Testing",
+                "Collaboration",
+                "Problem-solving",
+                "Data Science Toolkits"
+            ],
+            "with_experience": [
+                "Scala (4+ years)",
+                "Spark (4+ years)",
+                "AWS (4+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Tushar Rana",
+        "email": "tushar@tekinspirations.com",
+        "jd": "Hello allHope you are doing wellData Engineer IIIClient: AvailityLength: 6 months+Remote Gotta code in Scala not supported by Data bricks but can code in Spark. (Scala solo not Scala/Python in Spark.)Must use Scala for code, Spark framework.Writing ETL core.Writing DAGs in AirflowPython The Data Engineer III primary role is to consistently delivers on-time, high-quality solutions that meet business objectives. Working within a very dynamic team, this role must help elevate the team\u2019s quality. The Data Engineer III will work closely with Engineering, Data Scientists, and business and technical teams to deliver secure, reliable, fault-tolerant, scalable, quality, and efficient outcomes.What will be my duties and responsibilities in this job?1. Develop a scalable and resilient cloud data platform and scalable data pipelines.2. Ensure industry best practices around data pipelines, metadata management, data quality, data governance, and data privacy.3. Build highly scalable AWS Infrastructure (from scratch or through 3rd party products) to enable Big Data Processing in the platform.4. Find optimization within cloud resource usage to minimize costs while maintaining system reliability, including leveraging reserved instances and spot instances effectively.5. Find performance sensitive considerations within development best practices, as well as, troubleshooting across the data platform utilizing tools (e.g., Splunk and New Relic, Cloud Watch, etc.) to ensure performance measurement and monitoring.6. Participate in coding best practices, guidelines and principles that help engineers write clean, efficient, and maintainable code.7. Participate in code reviews to catch issues, improve code quality, and provide constructive feedback to individuals within the team during code reviews.Required skills:1. In-depth understanding of Spark framework, scripting languages (e.g., Python, Bash, node.js) and programming languages (e.g., SQL, Java, Scala) to design, build, and maintain complex data processing, ETL (Extract, Transform, Load) tasks, and AWS automation.2. Experience working with big data and large datasets (100 gigs or more).3. A firm understanding of unit testing.4. Possess in-depth knowledge of AWS services and data engineering tools to diagnose and solve complex issues efficiently, specifically AWS EMR for big data processing.5. In-depth understanding of GIT or other distributed version control systems.6. Excellent communication. Essential to performing at maximum efficiency within the team.7. Collaborative attitude. This role is part of a larger, more dynamic team that nurtures collaboration.8. Strong technical, process, and problem-solving proficiency.9. Must have experience with SQL and relational database systems (e.g., Oracle, SQL Server).10. Must have experience with Linux.Preferred experience:1. 4+ years of development experience with big data technologies.2. 4+ years using Apache Spark.3. Experience with cloud computing platforms (e.g., AWS, Azure, Google Cloud).4. Experience with Software Development Life Cycle.5. Experience with Software Development Best Practices (Version control, Change Management, Unit Testing, etc.).6. Familiarity with standard data science toolkits, such as R and Python is a plus.7. Demonstrated experience with operationalization and observability in a production environment.8. Holding relevant certifications (e.g., AWS Certified Developer - Associate or AWS Certified Solutions Architect - Associate) would be a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:14:06-05:00",
+        "unique_id": "19258863dc264920",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

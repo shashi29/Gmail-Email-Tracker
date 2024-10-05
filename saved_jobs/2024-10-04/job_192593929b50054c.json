@@ -1,0 +1,81 @@
+[
+    {
+        "company": "TTDATA LLC",
+        "job_title": "Google Data Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud",
+                "Google BigQuery",
+                "Data Architecture",
+                "Data Warehousing",
+                "Data Lakes"
+            ],
+            "primary": [
+                "Data Management Technologies",
+                "Data Integrity",
+                "Data Quality",
+                "Data Governance",
+                "Data Modeling",
+                "Data Engineering Concepts"
+            ],
+            "secondary": [
+                "Database Management Systems",
+                "Big Data Technologies",
+                "Solution Design",
+                "Technical Skills",
+                "Communication Skills"
+            ],
+            "all": [
+                "Google Cloud",
+                "Google BigQuery",
+                "Data Architecture",
+                "Data Warehousing",
+                "Data Lakes",
+                "Data Management Technologies",
+                "Data Integrity",
+                "Data Quality",
+                "Data Governance",
+                "Data Modeling",
+                "Data Engineering Concepts",
+                "Database Management Systems",
+                "Big Data Technologies",
+                "Solution Design",
+                "Technical Skills",
+                "Communication Skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Manikandan R",
+        "email": "mani@ttdatas.com",
+        "jd": "Role: Google Data Architect\nLocation: Remote\nType: Contract\nGoogle Data Architect Job Description : Strong experience with Google cloud-based data solutions Hands on experience in Google Big query Design scalable data architectures, data warehouses, and data lakes. Evaluate and implement data management technologies to ensure effective data storage, retrieval, and security. Collaborate with cross-functional teams to understand data requirements and integrate data solutions effectively. Ensure data integrity, quality, and consistency across all data systems. Develop & enforce data governance policies and procedures. Provide support and guidance to tech lead & data engineers. Optimize data processing workflows to enhance performance and efficiency. Strong knowledge of database management systems & experience with big data technologies Experience in Data Modeling & design Deep understanding of data engineering concepts, database designs, associated tools, system components, internal processes, and architecture. Experience working as a solution designer in a customer-focused team Very good technical skills and should also be able to help onshore/offshore team (with good/effective communication)",
+        "source": "Email",
+        "date_posted": "2024-10-04 13:23:28-05:00",
+        "unique_id": "192593929b50054c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

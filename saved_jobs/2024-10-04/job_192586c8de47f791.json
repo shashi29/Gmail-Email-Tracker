@@ -1,0 +1,70 @@
+[
+    {
+        "company": "TekPyramid",
+        "job_title": ".Net Developer",
+        "location": "Iselin, NJ, USA",
+        "full_location": {
+            "city": "Iselin",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Any",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ASP.Net Core",
+                "C#",
+                "SQL Server",
+                "Entity Framework Core",
+                "Web API"
+            ],
+            "primary": [
+                "Strong Financial/ Banking domain experience",
+                "Angular"
+            ],
+            "secondary": [
+                "Azure development",
+                "Agile SDLC processes",
+                "OOAD",
+                "SOLID principles"
+            ],
+            "all": [
+                "ASP.Net Core",
+                "C#",
+                "SQL Server",
+                "Entity Framework Core",
+                "Web API",
+                "Strong Financial/ Banking domain experience",
+                "Angular",
+                "Azure development",
+                "Agile SDLC processes",
+                "OOAD",
+                "SOLID principles"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sanjoo Singh",
+        "email": "sanjoo@tekpyramids.com",
+        "jd": "Needs local Candidate only as Face to Face interview is Required (Iselin NJ) Title: .Net Developer ( total exp. 10+ with Very Strong 7-8 year Financial or Banking Exp) Will Submit only Such CandidateLocation: Iselin, NJ \u2013 Hybrid \u2013 Need LocalsInterview: Video + OnsiteDuration: Long Term contractVisa: AnySkills: ASP.Net Core, C#, SQL Server, Entity Framework Core, Web API, Strong Financial/ Banking domain experience, Angular experience will be a plus. Experience:10+ years of backend development experienceExcellent communication and analytical skillsDesign, develop, and implement financial products and custom web applications using .Net Core/ ASP.Net Core/C#/ Entity Framework Core /SQL Server technologies.Exposure to Azure development would be a plusDesign and implement technical specifications and business components using industry best practices and proven design patterns while utilizing OOAD and SOLID principlesPerform analysis of user stories that may include complex functionalitiesConduct high- and low-level design, development, testing, coding and issue/query resolutionsPerform unit testing, integration testing while participating in configuration management and deployment proceduresParticipate in UAT/production support activities",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:46:02-05:00",
+        "unique_id": "192586c8de47f791",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

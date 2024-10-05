@@ -1,0 +1,89 @@
+[
+    {
+        "company": "wise equation",
+        "job_title": "AWS Data Engineer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "R1012080.01",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "5+ MONTHS",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Data Engineer",
+                "AWS SageMaker",
+                "AWS Services",
+                "Python",
+                "Apache Airflow"
+            ],
+            "primary": [
+                "AWS Bedrock",
+                "AWS EC2",
+                "AWS CloudFormation",
+                "AWS S3",
+                "AWS CloudWatch",
+                "Terraform",
+                "API Development",
+                "Flask",
+                "Fast API",
+                "MLOps",
+                "MLFlow",
+                "Docker",
+                "EKS"
+            ],
+            "secondary": [
+                "Banking/financial services industry experience",
+                "Excellent communication skills"
+            ],
+            "all": [
+                "AWS Data Engineer",
+                "AWS SageMaker",
+                "AWS Services",
+                "Python",
+                "Apache Airflow",
+                "AWS Bedrock",
+                "AWS EC2",
+                "AWS CloudFormation",
+                "AWS S3",
+                "AWS CloudWatch",
+                "Terraform",
+                "API Development",
+                "Flask",
+                "Fast API",
+                "MLOps",
+                "MLFlow",
+                "Docker",
+                "EKS",
+                "Banking/financial services industry experience",
+                "Excellent communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "abhinav",
+        "email": "abhinav.c@wiseq.net",
+        "jd": "From: abhinav, wise equation abhinav.c@wiseq.net Reply to: abhinav.c@wiseq.net good expertise in AWS SageMaker (Machine Learning). AWS Data Engineer. Start date is ASAP and will last for 5+ MONTHS. Location: New York, NYneed to be local to New York and in the office 5 days a weekBanking/financial services industry experience would be a plusJOB ID R1012080.01Skills (EXPERT/ADVANCED/NONE):AWS Data EngineerExpert in AWS Services AWS SageMaker , AWS Bedrock, AWS EC2, AWS CloudFormation, AWS S3 , AWS CloudWatch Strong working experience in Cloud Formation and Terraform for Infrastructure automation Expertise in designing data pipelines using Python and Apache Airflow Proficient in Python Programming Strong Skills in API Development (Flask , Fast API etc.) Expertise in writing reusable, Modular code for Data Engineering and machine learing Task Knowledge of MLOps practice and tools such as AWS Sagemaker pipeline and MLFlow Experience in Containerization using Docker and EKS Excellent communication skills for explaining technical details to cross functional teams Questions (must be YES): Are you local to NY and okay to go into the office 5 days a week?Description: Roles and responsibility Design and Develop scalable/ reusable Model execution component using AWS Services Streamline production deployment of various cloud components using Cloud Formation and Terraform integrated with the existing CI/CD pipelines Design, Develop and Integrate the Observability components for Cloud based GenAI application Participate in team wide application architecture reviews to present design and solutions cture reviews to present design and solutions",
+        "source": "Email",
+        "date_posted": "2024-10-04 10:40:53-05:00",
+        "unique_id": "1925830e6b0d4173",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

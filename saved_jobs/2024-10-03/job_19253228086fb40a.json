@@ -1,0 +1,107 @@
+[
+    {
+        "company": "Primasoft inc",
+        "job_title": "Lead Azure Devops Engineer",
+        "location": "Des Moines, IA, USA",
+        "full_location": {
+            "city": "Des Moines",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "ASP.NET",
+                "MVC",
+                ".NET Core development",
+                "Security practices",
+                "TFS",
+                "Azure DevOps",
+                "GIT",
+                "GitHub Enterprise",
+                "GitHub Actions",
+                "CI/CD",
+                "Automated Testing",
+                "Test Driven Development",
+                "TSQL language skills with MS SQL",
+                "Code reviews",
+                "Technical guidance",
+                "Code quality and security scanning tools",
+                "Code branching",
+                "TypeScript",
+                "Angular"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "C#",
+                "ASP.NET",
+                "MVC",
+                ".NET Core development",
+                "Security practices",
+                "TFS",
+                "Azure DevOps",
+                "GIT",
+                "GitHub Enterprise",
+                "GitHub Actions",
+                "CI/CD",
+                "Automated Testing",
+                "Test Driven Development",
+                "TSQL language skills with MS SQL",
+                "Code reviews",
+                "Technical guidance",
+                "Code quality and security scanning tools",
+                "Code branching",
+                "TypeScript",
+                "Angular"
+            ],
+            "with_experience": [
+                "C# (8 years)",
+                "ASP.NET (8 years)",
+                "MVC (8 years)",
+                ".NET Core development (8 years)",
+                "Security practices (8 years)",
+                "TFS (5 years)",
+                "Azure DevOps (5 years)",
+                "GIT (5 years)",
+                "GitHub Enterprise (5 years)",
+                "GitHub Actions (5 years)",
+                "CI/CD (5 years)",
+                "Automated Testing (5 years)",
+                "Test Driven Development (5 years)",
+                "TSQL language skills with MS SQL (8 years)",
+                "Code reviews (5 years)",
+                "Technical guidance (5 years)",
+                "Code quality and security scanning tools (4 years)",
+                "Code branching (5 years)",
+                "TypeScript (2 years)",
+                "Angular (2 years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rosey",
+        "email": "rosey@primasoftus.com",
+        "jd": "From: Rosey, Primasoft inc rosey@primasoftus.com Reply to: rosey@primasoftus.com Skills and Qualifications:SkillRequired/DesiredAmountYears of ExperienceC#, ASP.NET, MVC, .NET Core development and mentoringRequired8YearsSecurity practices (secure coding, static code analysis, data protection/encryption, etc.)Required8YearsTFS, Azure DevOps, GIT, GitHub Enterprise, GitHub Actions, CI/CDRequired5YearsAutomated Testing, Test Driven Development, Gating DeploymentsRequired5YearsTSQL language skills with MS SQLRequired8YearsCode reviews, documentation, technical guidance, mentoringRequired5YearsTechnical debate moderation and team direction influenceRequired2YearsCode quality and security scanning toolsRequired4YearsCode branching, merging, and release process optimizationRequired5YearsTypeScript/Angular, Client Based Authorization, Service ClientsRequired2Years",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:58:35-05:00",
+        "unique_id": "19253228086fb40a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

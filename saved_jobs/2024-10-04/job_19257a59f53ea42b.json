@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Siri InfoSolutions",
+        "job_title": "SAS Business Analyst",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SAS",
+                "SQL"
+            ],
+            "primary": [
+                "Agile",
+                "Teradata",
+                "Informatica",
+                "ETL",
+                "Qlik"
+            ],
+            "secondary": [
+                "Business Intelligence",
+                "Data Mining",
+                "Key Performance Indicators",
+                "Analytical Models",
+                "Action Plans"
+            ],
+            "all": [
+                "SAS",
+                "SQL",
+                "Agile",
+                "Teradata",
+                "Informatica",
+                "ETL",
+                "Qlik",
+                "Business Intelligence",
+                "Data Mining",
+                "Key Performance Indicators",
+                "Analytical Models",
+                "Action Plans"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen Miyyadi",
+        "email": "naveen.m@siriinfo.com",
+        "jd": "HelloGreetings from Siri InfoSolutions\u2026We have an immediate position, please find the below details\u2026 Role: SAS Business AnalystLocation: Pittsburgh, PA (Onsite)Duration: 6+ months Job Description:Responsible for developing and managing SAS and SQL reporting solutions and delivery, including both the planning and design of new solutions to support the department?s reporting requirements, ongoing management, production support, monitoring, and accountability for those solutionsEngage with business stakeholders and advise strategic solutions for their business intelligence needsUnderstand how the delivery of the MI capturedRequirements should be documented to assist technicans to build the functional/ integration componentDelivery is expected through an Agile delivery model delivering the outputs on the Teradata(database), Informatica and SAS (ETL) and Qlik (presentation layer)Design, track and interpret key performance indicators and analytical models driving Field Operations strategy and productivityRecommend and establish action plans based on such indicators/models to mitigate risks and optimize Field performancePrepare upper management for strategy discussions, weekly and monthly resultsCreate/maintain static and Ad-Hoc deliverables to communicate field performance and increase technician level efficiencyCompile/mine data from multiple business sources",
+        "source": "Email",
+        "date_posted": "2024-10-04 08:08:45-05:00",
+        "unique_id": "19257a59f53ea42b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

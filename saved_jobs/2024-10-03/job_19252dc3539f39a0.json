@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Themesoft Inc",
+        "job_title": "Sr Java/Spring Boot Developer",
+        "location": "Woonsocket, RI, USA",
+        "full_location": {
+            "city": "Woonsocket",
+            "state": "RI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [
+                "JPA",
+                "Docker",
+                "Cloud (AWS, GCP, Azure)"
+            ],
+            "secondary": [
+                "JVM internals",
+                "performance profiling",
+                "memory safe applications",
+                "JPOS",
+                "PCI device experience",
+                "Healthcare domain experience"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "JPA",
+                "Docker",
+                "Cloud (AWS, GCP, Azure)",
+                "JVM internals",
+                "performance profiling",
+                "memory safe applications",
+                "JPOS",
+                "PCI device experience",
+                "Healthcare domain experience"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "John Richardson",
+        "email": "john@themesoft.com",
+        "jd": "From: John Richardson, Themesoft Inc john@themesoft.com Reply to: john@themesoft.com Job Title: Sr Java/Spring Boot DeveloperLocation: Woonsocket, RIJob Summary:\u2022 Maintain high-quality software solutions using Java\u2022 Spring Boot, Rest, Microservices, JPA, JPOS, Docker,\u2022 Have excellent communication skills to effectively collaborate with cross-functional teams and stakeholders.Experience: 10+ yearsRequired Skills:1. Java2. Spring boot, Microservices3. JPA, Docker4. Cloud (any will work AWS, GCP, Azure etc.)Nice to have skills:\u2022 Good knowledge on JVM internals and capable of profiling already built services for performance bottlenecks \u2013 preferred\u2022 Experience in building highly memory safe and secure Java applications which can be run on resource constraint devices \u2013 preferred\u2022 JPOS/PCI device Experience - PreferredHealthcare domain experience is nice to haveResponsibilities:\u2022 Implement best practices in software development to ensure high-quality code and efficient performance. \u2013\u2022 Collaborate with cross-functional teams to gather and analyse requirements for new features and enhancements.\u2022 Provide technical guidance and mentorship to junior developers to foster a collaborative and productive team environment.\u2022 Conduct code reviews to ensure adherence to coding standards and identify areas for improvement.\u2022 Troubleshoot and resolve complex technical issues to ensure smooth operation of software applications.\u2022 Participate in the design and architecture of scalable and robust software systems.",
+        "source": "Email",
+        "date_posted": "2024-10-03 09:44:20-05:00",
+        "unique_id": "19252dc3539f39a0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

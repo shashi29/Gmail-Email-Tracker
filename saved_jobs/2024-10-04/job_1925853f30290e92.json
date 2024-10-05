@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Mobcoder IT Solutions LLC",
+        "job_title": "Senior Data Engineer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "ETL",
+                "Data Warehousing",
+                "Data Engineering"
+            ],
+            "primary": [
+                "Data Lakes",
+                "Data Marts",
+                "Data Visualization",
+                "Analytics Tools",
+                "Finance Domain Knowledge"
+            ],
+            "secondary": [
+                "Automating Data Processes",
+                "Client Facing",
+                "Data Quality",
+                "Data Pipelines",
+                "Business Requirements Translation"
+            ],
+            "all": [
+                "SQL",
+                "ETL",
+                "Data Warehousing",
+                "Data Engineering",
+                "Data Lakes",
+                "Data Marts",
+                "Data Visualization",
+                "Analytics Tools",
+                "Finance Domain Knowledge",
+                "Automating Data Processes",
+                "Client Facing",
+                "Data Quality",
+                "Data Pipelines",
+                "Business Requirements Translation"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Preet",
+        "email": "preet.k@mobcoderstaffing.com",
+        "jd": "From: Preet, Mobcoder IT Solutions LLC preet.k@mobcoderstaffing.com Reply to: preet.k@mobcoderstaffing.com Position: Senior Data Engineer Location: New York City /Jersey City NJ (Hybrid Day 1 onsite)-----Local onlyDuration: long Term Contract Job Description: Minimum 12+ yearsDatawarehousing End-to-end data lifecycleExpert in SQLMust be comfortable working with large unknown Data SourcesClient facing We are looking for a Senior Data Engineer with strong experience in designing and managing data ecosystems, particularly within the finance sector. The ideal candidate will be responsible for building and maintaining data pipelines, ensuring data quality, and driving data-driven solutions that solve business challenges. This role requires a hands-on approach to managing the end-to-end data lifecycle, Analyze complex and large datasets to provide insights that drive business decisions and optimize processes. Should be able to take a one-liner requirement and build details around it. Qualifications:\u2022 Strong expertise in SQL and experience with ETL/ELT processes.\u2022 Hands-on experience with data warehousing solutions, for E.g. Snowflake or similar platforms.\u2022 Experience with data lakes, data marts, and building data engineering pipelines.\u2022 Strong background with finance (ideally payments domains), with an understanding of key metrics and data needs in these areas.\u2022 Experience with data visualization and analytics tools.\u2022 Ability to translate high-level business requirements into detailed, actionable data solutions.\u2022 Proficiency in automating data processes to support decision-making.",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:19:09-05:00",
+        "unique_id": "1925853f30290e92",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

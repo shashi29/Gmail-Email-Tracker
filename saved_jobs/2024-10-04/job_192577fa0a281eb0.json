@@ -1,0 +1,81 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "ETL Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica",
+                "Data Engineering",
+                "SQL",
+                "Python",
+                "Snowflake"
+            ],
+            "primary": [
+                "Data pipelines",
+                "Data quality",
+                "Data profiling",
+                "CICD",
+                "AWS cloud technologies"
+            ],
+            "secondary": [
+                "Agile methodologies",
+                "Mentoring",
+                "Automated data solutions",
+                "Enterprise data warehouse solutions",
+                "Software engineering best practices"
+            ],
+            "all": [
+                "Informatica",
+                "Data Engineering",
+                "SQL",
+                "Python",
+                "Snowflake",
+                "Data pipelines",
+                "Data quality",
+                "Data profiling",
+                "CICD",
+                "AWS cloud technologies",
+                "Agile methodologies",
+                "Mentoring",
+                "Automated data solutions",
+                "Enterprise data warehouse solutions",
+                "Software engineering best practices"
+            ],
+            "with_experience": [
+                "Informatica (4 years)",
+                "Data Engineering (7 years)",
+                "Snowflake (5 years)",
+                "CICD (5 years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "From: rajkumar, NITYA Software Solutions Inc. rajkumar.v@nityainc.com Reply to: rajkumar.v@nityainc.com Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: ETL DeveloperBachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience7 years of experience identifying technical solutions for complex business problems, identifying the benefits and risks of the solutions and providing recommendations7 years of experience in Technology, Data Engineering field in architecting, developing end-to-end scalable data applications and data pipelines; work with product manager and scrum masters and lead the team in assisting the story creations and sprint deliverables7 years of experience leading and developing automated Informatica data pipelines with at least 4 years Informatica cloud (IICS) and relevant knowledge in data profiling, data quality, catalog tools7 years of experience working in enterprise data warehouse solutions and platforms, and working knowledge of different databases (e.g., RDBMS, Snowflake), S3 Datalake, CICD, Jenkins and AWS cloud technologies5 years of experience designing, implementing automated data solutions using Snowflake lakehouse; building workflows, developing, and scheduling ETL processes using programming SQL or Python5 years of experience mentoring another technologist5 years of experience implementing data solutions by adopting, recommending and improving CICD, change management, data security, auditing processes4 years of experience working with software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes and testingThank you,RajkumarEMAIL ID:rajkumar.v@nityainc.comNITYA Software Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-04 07:27:15-05:00",
+        "unique_id": "192577fa0a281eb0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

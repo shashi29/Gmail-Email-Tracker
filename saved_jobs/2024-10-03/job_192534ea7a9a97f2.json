@@ -1,0 +1,71 @@
+[
+    {
+        "company": "GVR Infotek",
+        "job_title": "SQL Developer",
+        "location": "King of Prussia, PA, USA",
+        "full_location": {
+            "city": "King of Prussia",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "3-12mth+ contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "T-SQL",
+                "SSRS",
+                "SQL Server query performance tuning"
+            ],
+            "primary": [
+                "PostgreSQL",
+                "Kafka",
+                "KSQL"
+            ],
+            "secondary": [
+                "Updating Stored Procedures",
+                "Performance Tuning",
+                "Self-sufficient problem solver"
+            ],
+            "all": [
+                "T-SQL",
+                "SSRS",
+                "SQL Server query performance tuning",
+                "PostgreSQL",
+                "Kafka",
+                "KSQL",
+                "Updating Stored Procedures",
+                "Performance Tuning",
+                "Self-sufficient problem solver"
+            ],
+            "with_experience": [
+                "T-SQL (5+ years)",
+                "SSRS (5+ years)",
+                "SQL Server query performance tuning"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Tarun Pratap",
+        "email": "tarun.pratap@gvrinfotek.com",
+        "jd": "SQL Developer \u2013 CitizenMOI - (Video then in-person interview)Location King of Prussia (Hybrid 2-3 days onsite) Need local candidateDuration 3-12mth+ contractMust have Linkedin Must have:Expert T-SQL developer (5+ years\u2019 experience)Expert SSRS developer (5+ years\u2019 experience)Expert at SQL Server query performance tuningPostgreSQL and Kafka. KSQL is a HUGE nice to haveUpdating Stored Procedures and Perf Tuning. SQL Developer, self-sufficient problem solver. They don't have time to ramp up. SQL Developer: TSQL and SSRS are the primary skills. They will be recoding reports in SSRS, so need strong SQL dev. This will include updating Stored Procedures and Perf Tuning. NICE TO HAVES: Future state as they recode these is to move into Postgress and Kafka. KSQL is a HUGE nice to have. SQL DeveloperExpert T-SQL developer (5+ years\u2019 experience)Expert SSRS developer (5+ years\u2019 experience)Expert at SQL Server query performance tuningOptional: Experience with writing and maintaining performant KSQL",
+        "source": "Email",
+        "date_posted": "2024-10-03 11:36:55-05:00",
+        "unique_id": "192534ea7a9a97f2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

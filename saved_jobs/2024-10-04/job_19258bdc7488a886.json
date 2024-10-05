@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Synkriom",
+        "job_title": "Data engineer || Big Data engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spark",
+                "AWS",
+                "AbInitio"
+            ],
+            "primary": [
+                "Jules",
+                "Terraform"
+            ],
+            "secondary": [],
+            "all": [
+                "Spark",
+                "AWS",
+                "AbInitio",
+                "Jules",
+                "Terraform"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivendra",
+        "email": "shivendra.singh@synkriom.com",
+        "jd": "From: Shivendra, Synkriom shivendra.singh@synkriom.com Reply to: shivendra.singh@synkriom.com Role - Data engineer || Big Data engineer Location - Location is TX,NY,NJ,DE and OH (any of this Location) Passport is mandatory- JOB DESCRIPTION Candidates should be able toDevelop/upgrade spark Infrastructure scripts (EAC) for blue/green deployment on AWS Dev environment.Develop/Upgrade Jules pipeline to deploy Spark job.Execute jules pipeline and deploy spark job to AWS Dev environment.Execute BLUE / GREEN deployment pipeline using Jules for Spark job.Develop/upgrade AbInitio Infrastructure scripts (EAC) on AWS Dev environment for blue / green deployment.Develop/Upgrade Jules pipeline to deploy AbInitio scripts.Execute jules pipeline and deploy AbInitio scripts to AWS Dev environment.Execute BLUE / GREEN deployment pipeline using for AbInitio scripts.Nice to have Terraform.",
+        "source": "Email",
+        "date_posted": "2024-10-04 13:14:46-05:00",
+        "unique_id": "19258bdc7488a886",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

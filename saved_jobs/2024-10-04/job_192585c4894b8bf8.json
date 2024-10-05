@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": "SQL server database Admin",
+        "location": "Charleston, WV, USA",
+        "full_location": {
+            "city": "Charleston",
+            "state": "WV",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "temporary",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12 months with possible extension(s)",
+            "rate": "OPEN"
+        },
+        "skills": {
+            "core": [
+                "SQL DBA",
+                "SSIS",
+                "SSAS",
+                "Data Definition Language (DDL)"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "SQL DBA",
+                "SSIS",
+                "SSAS",
+                "Data Definition Language (DDL)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jay Brillius",
+        "email": "jay.s@brillius.com",
+        "jd": "From: Jay, Brillius jay.s@brillius.com Reply to: jay.s@brillius.com Work authorization: any (candidate must be authorized to work in US)Must-have skills: 3+y as SQL DBA; SSIS,SSAS; Data Definition Language (DDL)Location: Charleston, WV PLEASE SEND LOCAL CANDIDATES ONLY (registered and currently located in Charleston, WV).Candidates from other locations won\u2019t be considered. Relocation is not acceptableRate: please send resumes of your consultants along with the minimum rate they will accept to take (and stay) on the job. The rate is OPEN.Seniority on the skill/s required on this requirement: Mid.Earliest Start Date: ASAPType: Temporary ProjectEstimated Duration: 12 months with possible extension\u200b(s)Additional information: The candidate should be able to provide an ID if the interview is requested. The candidate interviewing must be the same individual who will be assigned to work with our client. Requirements:\u2022 Availability to work 100% of the time at the Client\u2019s site in Charleston, WV (required);\u2022 Experience with SQL Server 2008 and higher including experience in T-SQL (3+years);\u2022 Experience in creation databases, backup and recovery in SQL Server (3+ years);\u2022 Experience migrating prior versions of SQL server to SQL Server 12 on Windows servers including conversion of DTS packages to SSIS (2+ years);\u2022 Experience installing SSIS and SSAS for SQL server 2008 (2+ years);\u2022 Experience in command line DDL operations and scripting (2+ years).Responsibilities include but are not limited to the following:\u2022 Develop and manage SQL Server databases, including T-SQL programming;\u2022 Create and implement backup and recovery strategies for SQL Server databases;\u2022 Migrate databases from previous SQL Server versions to SQL Server 12, including converting DTS packages to SSIS;\u2022 Install and configure SQL Server Integration Services (SSIS) and SQL Server Analysis Services (SSAS);\u2022 Perform command line DDL operations and scripting for database management;\u2022 Monitor and optimize database performance and efficiency;\u2022 Implement security measures and best practices for SQL Server databases.",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:28:16-05:00",
+        "unique_id": "192585c4894b8bf8",
+        "emp_type": [
+            "temporary",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

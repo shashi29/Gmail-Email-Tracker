@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Eminence Technology Solutions LLC",
+        "job_title": "AWS Developer /Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3"
+            ],
+            "primary": [
+                "Cloud Solution Architect"
+            ],
+            "secondary": [
+                "AWS Glue",
+                "AWS Amplify",
+                "AWS MQ",
+                "AWS SQ",
+                "Windows OS",
+                "Linux OS"
+            ],
+            "all": [
+                "Java",
+                "JavaScript",
+                "Python",
+                "AWS IAM",
+                "AWS S3",
+                "Cloud Solution Architect",
+                "AWS Glue",
+                "AWS Amplify",
+                "AWS MQ",
+                "AWS SQ",
+                "Windows OS",
+                "Linux OS"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Austin Varma",
+        "email": "austin@eminencets.com",
+        "jd": "From: Austin varma, Eminencets austin@eminencets.com Reply to: austin@eminencets.com Role: AWS Developer /Engineer 10+yrs Location: US RemoteDuration: Long TermRoles and Responsibilities:Plans, develops, tests, and documents computer programs, applying knowledge of programming techniques and computer systems. Evaluates user requests for new or modified programs, such as data ETL pipelines (using Python/AWS Glue) or front-end data submission app development (using JavaScript/AWS Amplify). Consults with user to identify current operating procedures and clarify program objectives. Formulates plan outlining steps required to develop a program, using methodologies such as structured analysis and design or object-oriented development. Participate the implementation of AWS Data Lake instance by translating program needs into technical requirements, supporting program leads in defining the long-term vision for the project, defining and implementing data governance / identity and access management policies, tracking project expenses, testing and validating new functionality, enabling program staff to use new tools, and regularly interfacing with both internal and external stakeholders. Role includes programming to implement new data feeds via API, maintaining AWS Amplify data upload platform, and implementing and maintaining crawlers and jobs in AWS Glue.CANDIDATE SKILLS AND QUALIFICATIONSMinimum Requirements:Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity. Years Required/Preferred Experience 8 Required Java, JavaScript or Python programming 8 Required AWS IAM 8 Required AWS S3 4 Required Cloud Solution Architect 4 Preferred AWS Glue 4 Preferred AWS Amplify 4 Preferred AWS MQ, SQ 4 Preferred Experience with Windows and Linux OS Thanks, and regards.Austin VarmaRecruiter Eminence Technology Solutions LLCEmail: Austin@eminencets.comWebsite: www.eminencets.com",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:28:41-05:00",
+        "unique_id": "19258ee3631e664a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

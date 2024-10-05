@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Adventa Tech",
+        "job_title": "Data Engineer",
+        "location": "Manhattan, NY, USA",
+        "full_location": {
+            "city": "Manhattan",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT"
+            ],
+            "primary": [
+                "AI Experience",
+                "Retail domain experience",
+                "Pharmaceutical domain experience"
+            ],
+            "secondary": [
+                "GCP \u2013 Machine Learning",
+                "GCP \u2013 Data Engineering",
+                "GCP \u2013 Cloud"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "Spark",
+                "DBT",
+                "AI Experience",
+                "Retail domain experience",
+                "Pharmaceutical domain experience",
+                "GCP \u2013 Machine Learning",
+                "GCP \u2013 Data Engineering",
+                "GCP \u2013 Cloud"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Aditya Pratap",
+        "email": "aditya@adventatech.com",
+        "jd": "From: Aditya Pratap, Adventa Tech aditya@adventatech.com Reply to: aditya@adventatech.com Hi,Hope you are doing well,Job Description -Role: Data EngineerLocation: Manhattan, NY (Hybrid) Skills Required:\u2022 Strong in SQL, Python, Spark, and DBT\u2022 Need AI Experience\u2022 Need Retail or Pharmaceutical domains Experience\u2022 Certified in at least 2 of the 3 certifications:o GCP \u2013 Machine Learningo GCP \u2013 Data Engineeringo GCP \u2013 Cloud",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:25:29-05:00",
+        "unique_id": "19258c8a962011b8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

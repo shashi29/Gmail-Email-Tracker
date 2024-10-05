@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": ".NET Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months (will go long-term)",
+            "rate": "$53/hr"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "vulnerability remediation",
+                "Azure"
+            ],
+            "primary": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "NuGet packages",
+                "Azure Functions",
+                "Web Apps"
+            ],
+            "secondary": [
+                "security practices",
+                "cross-site scripting (XSS)",
+                "SQL injection",
+                "log forging",
+                "anti-forgery token validation"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "vulnerability remediation",
+                "Azure",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "NuGet packages",
+                "Azure Functions",
+                "Web Apps",
+                "security practices",
+                "cross-site scripting (XSS)",
+                "SQL injection",
+                "log forging",
+                "anti-forgery token validation"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jay Brillius",
+        "email": "jay.s@brillius.com",
+        "jd": "From: Jay, Brillius jay.s@brillius.com Reply to: jay.s@brillius.com Role: .NET DeveloperLocation: Remote Length: 6+ months (will go long-term)VISA Restrictions: N/ARate: $53/hr C2C PLEASE ONLY SUBMIT CANDIDATES THAT HAVE AN ACTIVE LINKEDIN Overview: We are seeking a highly skilled Senior .NET Developer to address high-level vulnerabilities identified by CxOne within our active C# applications. This role involves leading efforts in vulnerability remediation, as well as assisting in the upgrade of our .NET platform from .NET 6 to .NET 8. The ideal candidate will have extensive experience in C# development, security practices, and the Azure cloud ecosystem. Primary Responsibilities:Vulnerability Remediation:Verify vulnerabilities identified in C# applications.Perform code remediation to resolve security vulnerabilities such as XSS, SQL injection, log forging, anti-forgery token validation, etc.Conduct thorough testing and validation of remediated code.Review remediated code and work with the audit team to ensure full resolution.Secure approval from the SE manager before release. .NET 6 to .NET 8 Upgrade Support:Assist the Family Care Software Engineering team in upgrading .NET applications from version 6 to 8.Ensure compatibility of the existing codebase during the upgrade.Update and manage dependencies, including NuGet packages, for both .NET framework and .NET.",
+        "source": "Email",
+        "date_posted": "2024-10-03 12:18:15-05:00",
+        "unique_id": "1925367321035ea0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

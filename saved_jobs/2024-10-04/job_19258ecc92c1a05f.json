@@ -1,0 +1,121 @@
+[
+    {
+        "company": "Source Infotech",
+        "job_title": "AWS Cloud DBA",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2-3 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Databases",
+                "RDS",
+                "AWS Console",
+                "AWS CLI",
+                "S3",
+                "DMS",
+                "Postgres",
+                "MySQL",
+                "Aurora Postgres",
+                "NoSQL",
+                "MongoDB",
+                "AWS IAM",
+                "ETL Tools",
+                "AWS Glue",
+                "EKS",
+                "ECR"
+            ],
+            "primary": [
+                "Cloud Database RDS",
+                "High Availability",
+                "Disaster Recovery",
+                "Service Resiliency",
+                "Automation",
+                "DevOps",
+                "Python",
+                "Terraform",
+                "Cloud Formation",
+                "Lambda"
+            ],
+            "secondary": [
+                "Snowflake",
+                "RedShift",
+                "DynamoDB",
+                "Document DB",
+                "Neptune",
+                "OpenSearch",
+                "Load Balancing",
+                "Continuous Integration",
+                "Continuous Deployment",
+                "Data Migration"
+            ],
+            "all": [
+                "AWS Databases",
+                "RDS",
+                "AWS Console",
+                "AWS CLI",
+                "S3",
+                "DMS",
+                "Postgres",
+                "MySQL",
+                "Aurora Postgres",
+                "NoSQL",
+                "MongoDB",
+                "AWS IAM",
+                "ETL Tools",
+                "AWS Glue",
+                "EKS",
+                "ECR",
+                "Cloud Database RDS",
+                "High Availability",
+                "Disaster Recovery",
+                "Service Resiliency",
+                "Automation",
+                "DevOps",
+                "Python",
+                "Terraform",
+                "Cloud Formation",
+                "Lambda",
+                "Snowflake",
+                "RedShift",
+                "DynamoDB",
+                "Document DB",
+                "Neptune",
+                "OpenSearch",
+                "Load Balancing",
+                "Continuous Integration",
+                "Continuous Deployment",
+                "Data Migration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Khushank Chauhan",
+        "email": "khushank@sourceinfotech.com",
+        "jd": "From: KhushankChauhan, Source Infotech khushank@sourceinfotech.com Reply to: khushank@sourceinfotech.com AWS Cloud DBALocation: Jersey City, NJ (Hybrid Onsite)(Local to NJ/NY only with local ID)Duration: 6 months C2HIV: Phone and VideoVisa: GC and USC *** MUST Have Investment Banking and Market Data environment experience***Team is currently looking for a AWS Cloud DBA with experience doing DevOps.Cloud Database RDS2-3 years of experience with AWS Databases \u2022 Experience in migrating data from on-prem to RDS and 53 Exceptional knowledge of AWS Console, AWS CLI S3, DMS \u25e6 RDS: Postgres, MYSOL, Aurora Postgres and NoSQL (MongoDB) Cloud Watch \u2022 Good knowiedge of \u25e6 AWS SDK e RedShift \u25e6 Snowflake O Redis \u25cb High Availability and disaster recovery \u25e6 MSKIStreaming/Messaging Architectures AWS IAM and integration with AW'S Identity Center \u25cb Service Resiliency - HADR designs/solutions tied to business tiering - replication across AZs and Regions e ETL Tools/MWAA AirfiowlAWS Glue EKS/ECR \u2022 Knowledge of \u25e6 Non-relational AWS databases: DynamoDB, Document DB, Neptune, OpenSearch \u25e6 Load balancing \u2022 Nice to have Experience in migrating data from on-prem into Snowflake, RedShift Automation/DevOps Experience\u2022 Exceptional knowledge of: \u25cb Python, Terraform, Cloud Formation Lambda Enterprise level Application Integration experience on AWS Experience with \u25e6 Automation and monitoring within AWS \u25cb Continuous integration and continuous deployment (CI/CD) \u2022 Ability to automate migration of data to RDS, $3, Snowflake, Redshift",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:32:27-05:00",
+        "unique_id": "19258ecc92c1a05f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

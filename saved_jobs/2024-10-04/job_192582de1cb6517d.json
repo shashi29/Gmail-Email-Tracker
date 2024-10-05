@@ -1,0 +1,96 @@
+[
+    {
+        "company": "iTech US",
+        "job_title": "Java Lead Developer",
+        "location": "Iselin, NJ, USA",
+        "full_location": {
+            "city": "Iselin",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Spring boot",
+                "AWS",
+                "Junit"
+            ],
+            "primary": [
+                "Angular",
+                "REST APIs",
+                "DynamoDB",
+                "EC2",
+                "S3",
+                "CloudWatch",
+                "Lambda",
+                "Cucumber",
+                "CI/CD",
+                "SQL"
+            ],
+            "secondary": [
+                "AngularJS",
+                "DevOps",
+                "Maven",
+                "Jenkins",
+                "Git",
+                "svn",
+                "Attunity",
+                "Bit bucket",
+                "Bamboo"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Spring boot",
+                "Angular",
+                "AWS",
+                "Junit",
+                "REST APIs",
+                "DynamoDB",
+                "EC2",
+                "S3",
+                "CloudWatch",
+                "Lambda",
+                "Cucumber",
+                "CI/CD",
+                "SQL",
+                "AngularJS",
+                "DevOps",
+                "Maven",
+                "Jenkins",
+                "Git",
+                "svn",
+                "Attunity",
+                "Bit bucket",
+                "Bamboo"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Narsimha Kathi",
+        "email": "narsimha.k@itechus.net",
+        "jd": "From: Narsimha Kathi, iTech US narsimha.k@itechus.net Reply to: narsimha.k@itechus.net Hi , We have a job opportunity for you, please find the below details and let me know your interest ASAP. Role: Java Lead DeveloperLocation: Iselin, NJ- Malvern, PADuration: Long Term Contract Responsibilities: Building and managing public and private cloud infrastructure with AWS, EC2 and S3 resourcesDeploying and Automating AWS environment application using Cloud formation Template (CFT) scripts and created stack sets for deploying into different regionsDeveloping APIs for consuming AWS cloud resource using the SDKsDeveloping scripts for using AWS Lambda to migrate and capture the change data for Legacy systems to DynamoDBWriting complex parallel streams and filters to refine the data for effectively handling the client searchDesign, develop and provide guidance on implementing microservices and unit testing using REST/Jersey frameworks? Support production environmentReviewing the code, design and providing expertise in the development and integration of systemsDigital : AngularJS, Digital : Amazon Web Service(AWS) Cloud Computing, Angular 13+, Core JavaEssential Skills: Java, Microservices, Spring boot, Angular, other UI technologies, AWS, Junit, Design Knowledge, Banking experience, Good Communication skills.Desirable Skills: Min 9+ yrs hands on experience in Java / J2EE/ Web technologiesMust have hands on experience in Spring boot, MicroservicesMust have experience on Rest APIs developmentMust have experience in AWS S3, EC2, DynamoDB, SNS, SQS, CloudWatch, LambdaMust have hands on experience in Junit, Cucumber Experience using DevOps, version controlling tools and repositories (Maven, Jenkins, Git, svn, Attunity, Bit bucket, Bamboo etc.)Must have hands on experience in CI/CD pipelines, SQL? Experience in integrating Rest APIsSUBMISSION DETAILSLinkedIn: Consultant Name: Current Location: Relocation (Yes/No): Highest Qualification: Year/College/University: Passport number: Thanks & Regards Narsimha KathiiTechUS, Inc",
+        "source": "Email",
+        "date_posted": "2024-10-04 09:48:08-05:00",
+        "unique_id": "192582de1cb6517d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

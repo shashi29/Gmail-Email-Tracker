@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Predica Inc.",
+        "job_title": "Lead DevOps Engineer/Upskilling Partner",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "IA-DOM-DoIT-AA3-Lead DevOps-Upskilling Partner",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "9 MONTH PROJECT with potential to extend",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "ASP.NET",
+                "MVC",
+                ".NET Core",
+                "TFS",
+                "Azure DevOps",
+                "GitHub Enterprise",
+                "GitHub Actions",
+                "CI/CD",
+                "T-SQL",
+                "MS SQL"
+            ],
+            "primary": [
+                "Security practices",
+                "Automated Testing",
+                "Test Driven Development",
+                "Code reviews",
+                "Technical guidance",
+                "Technical debate moderation"
+            ],
+            "secondary": [
+                "TypeScript",
+                "Angular",
+                "Client Based Authorization",
+                "Service Clients",
+                "Code quality and security scanning tools",
+                "Code branching",
+                "Merging",
+                "Release process optimization"
+            ],
+            "all": [
+                "C#",
+                "ASP.NET",
+                "MVC",
+                ".NET Core",
+                "TFS",
+                "Azure DevOps",
+                "GitHub Enterprise",
+                "GitHub Actions",
+                "CI/CD",
+                "T-SQL",
+                "MS SQL",
+                "Security practices",
+                "Automated Testing",
+                "Test Driven Development",
+                "Code reviews",
+                "Technical guidance",
+                "Technical debate moderation",
+                "TypeScript",
+                "Angular",
+                "Client Based Authorization",
+                "Service Clients",
+                "Code quality and security scanning tools",
+                "Code branching",
+                "Merging",
+                "Release process optimization"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sharad Kumar",
+        "email": "sharad@predicaz.com",
+        "jd": "From: Sharad Kumar, Predica Inc. sharad@predicaz.com Reply to: sharad@predicaz.com Requisition DetailsTitle/Role: IA-DOM-DoIT-AA3-Lead DevOps-Upskilling Partner Agency Interview Type: Web Cam Interview Only Work Arrangement: Remote Short Description: Lead DevOps Engineer with experience mentoring and upskilling experience. . Must be technically sound with TFS and ADO transformations to GitHub. Must be a savvy business communicator who can influence stakeholders and lead teams. Complete Description: *** NOTE: Only submit candidate\u2019s who have the following 3 MUST HAVE\u2019S*** 1. The candidate must have TFS (Team Foundation Server) to GitHub transformation experience.2. The candidate must have ADO (Azure DevOps) to GitHub transformation experience, including wikis and dashboards3. The candidate must be both technically sound as well as a savvy business communicator who can influence stakeholders and lead team. The Department of Management's Division of Information Technology (DoIT) is seeking a highly skilled Lead DevOps Engineer/Upskilling Partner with a strong background in both hands-on DevOps work and leadership. This role is key to driving automation, process improvements, and migrations within our organization, supporting Iowa schools and stakeholders through a large portfolio of data collection and reporting applications. As a key member of our team, you'll be instrumental in driving our DevOps initiatives and delivering secure, high-quality technical solutions to our customers. The ideal candidate will play a critical role in migrating applications from TFS/ADO to GitHub, establishing DevOps best practices, and mentoring developers. This position is for someone who excels in technical problem-solving and can guide teams through DevOps transformations. This remote position requires attendance during standard business hours Monday through Friday, with initial on-site presence strongly preferred for orientation and team onboarding, but not required. Note: This is a 9 MONTH PROJECT with the potential to extend beyond based on project needs. As the Lead DevOps Engineer/Upskilling Partner, you will:1. Lead DevOps Strategy (60-70% hands-on, 30-40% leadership): You\u2019ll balance hands-on work with leadership, focusing on automating CI/CD pipelines, establishing best practices, and leading development teams through migrations.2. Application Migration: You will lead the migration of applications from TFS/ADO to GitHub. Experience with GitHub Actions, GitHub Enterprise, and Azure DevOps will be critical for success. You\u2019ll design and implement migration strategies that include moving wikis, project management boards, and source code repositories.3. DevOps Automation & Optimization: You\u2019ll build scalable, automated solutions for builds, testing, and deployments, as well as optimize branching, merging, and release processes.4. Mentorship & Technical Guidance: You will mentor and coach developers, leading technical debates, and providing guidance on best practices for development, security, and process automation.5. Security and Code Quality: You will integrate security scanning tools into the development pipeline (e.g., SAST, SCA, GitHub Advanced Security) and lead efforts to improve code quality through automated tests, code reviews, and continuous integration practices.6. Cloud and Infrastructure Support: While the primary focus will be on Azure, you should have experience with other cloud providers, infrastructure as code (IaC), and setting up and managing CI/CD pipelines from scratch. Role Clarity and Team Structure:1. The role is a mix of hands-on DevOps (60-70%) and leadership (30-40%). You will be expected to guide developers in adopting DevOps practices, review their code base, and provide guidance on improvements through pair programming or proof-of-concepts (POCs).2. There is no dedicated DevOps team, so you will lead the effort by working closely with the development team to implement DevOps practices. Cloud Focus and Infrastructure:1. While this role is primarily focused on TFS and Azure (with Azure Pipelines already in use), experience with GitHub Actions and migrating pipelines from other tools is essential. You should also have strong hands-on experience with Infrastructure as Code (Terraform, ARM templates), though infrastructure work will be more prominent later on in the role. Key DevOps Initiatives:1. You\u2019ll be responsible for establishing new CI/CD pipelines and migrating teams from TFS/ADO to GitHub. The initial focus will be on setting up standards for automated processes and improving code quality and security. There is a clear need for integration of security tools (e.g., SonarQube, Dependabot, Snyk) and setting up GitHub repository security policies. Testing, Development, and Technical Debt:1. The development teams do not currently practice automated testing, and you\u2019ll be responsible for setting this up. Similarly, there is no formal tracking or management of technical debt, and you\u2019ll work with developers to identify and mitigate it. You\u2019ll also be responsible for creating and enforcing new code review standards and improving test-driven development (TDD) practices. Requirements:1. C#, ASP.NET, MVC, .NET Core (8+ years): Strong experience in the Microsoft technology stack is required. This role is primarily DevOps-focused, but you\u2019ll need to understand the code well enough to mentor teams and drive best practices. While .NET Core isn\u2019t currently in use, you may help introduce it into future projects.2. Security Practices (8+ years): You will implement security practices like static code analysis and encryption. Experience with security tools (e.g., SonarQube, Checkmarx, GitHub Advanced Security) and maintaining compliance with standards (e.g., ADA) is a plus.3. TFS, Azure DevOps, GitHub Enterprise, GitHub Actions (5+ years): A deep understanding of TFS, Azure DevOps, GitHub, and CI/CD tools is required. You will lead the migration from TFS/ADO to GitHub, building out automation and best practices from scratch.4. Test Automation & TDD (5+ years): You\u2019ll implement automated testing, improve test coverage, and ensure reliability through unit and integration tests. Teams are not yet using tools like Selenium, NUnit, or xUnit, and you\u2019ll be responsible for setting these up.5. T-SQL and MS SQL (8+ years): Strong skills in query tuning and database optimization and automation are required. The focus will be on query optimization and automating database-related tasks.6. Technical Leadership & Mentorship (5+ years): Experience in mentoring and leading developers is crucial. You\u2019ll establish and enforce code review standards, guide development practices, and provide technical leadership in DevOps strategies.7. Code Quality & Security Scanning Tools (4+ years): Familiarity with tools such as GitHub Advanced Security, Dependabot, and Snyk will help you integrate security and code quality into the pipeline.8. Code Branching, Merging, and Release Optimization (5+ years): Experience in optimizing the code branching and release management processes is essential.9. TypeScript/Angular, Client-Based Authorization (2+ years): While the immediate focus is not on front-end technologies, knowledge of TypeScript and Angular is a plus. You may work with teams that use these technologies in the future. Interview Process and Key Focus Areas:1. Technical Skills Emphasis: During the interview, we will place equal emphasis on DevOps expertise, leadership capabilities, and cloud architecture. Specifically, we will assess your experience in migrating Microsoft applications from TFS/ADO to GitHub, the extent of your automation work, process improvements in past projects, and your ability to influence technical decisions.2. Problem-Solving: You will be tested on problem-solving skills, including automating deployments for large-scale applications and resolving complex pipeline issues. Expect to write pseudo-code as part of the process.3. Prohibition of AI Use During Interviews: To ensure the authenticity and fairness of our candidate evaluations, the use of AI tools during interviews is strictly prohibited. We are vigilant in monitoring the interview process and have implemented measures to identify any use of AI-generated responses. Candidates suspected of relying on such tools face immediate disqualification. Application Process:1. We\u2019re seeking a Lead DevOps Engineer/Upskilling Partner who has a passion for improving processes, mentoring teams, and driving automation. If you have strong DevOps experience, a deep technical background, and leadership skills, we encourage you to apply. Required / Desired SkillsSkillRequired / DesiredAmountof ExperienceC#, ASP.NET, MVC, .NET Core development and mentoringRequired8YearsSecurity practices (secure coding, static code analysis, data protection/encryption, etc.)Required8YearsTFS, Azure DevOps, GIT, GitHub Enterprise, GitHub Actions, CI/CDRequired5YearsAutomated Testing, Test Driven Development, Gating DeploymentsRequired5YearsTSQL language skills with MS SQLRequired8YearsCode reviews, documentation, technical guidance, mentoringRequired5YearsTechnical debate moderation and team direction influenceRequired2YearsCode quality and security scanning toolsRequired4YearsCode branching, merging, and release process optimizationRequired5YearsTypeScript/Angular, Client Based Authorization, Service ClientsRequired2Years Regards,sharadMail ID: sharad@predicaz.comPredica Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-03 11:06:36-05:00",
+        "unique_id": "19253cab3959db7c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

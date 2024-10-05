@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": ".NET Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 5 years of experience as a .NET Web Developer.",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                ".NET Framework"
+            ],
+            "primary": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Azure Functions",
+                "Web Apps"
+            ],
+            "secondary": [
+                "NuGet packages",
+                "vulnerability remediation",
+                "cross-site scripting (XSS)",
+                "SQL injection",
+                "command injection",
+                "path traversal",
+                "log forging"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                ".NET Framework",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Azure Functions",
+                "Web Apps",
+                "NuGet packages",
+                "vulnerability remediation",
+                "cross-site scripting (XSS)",
+                "SQL injection",
+                "command injection",
+                "path traversal",
+                "log forging"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "bhavani",
+        "email": "bhavanip@brillius.com",
+        "jd": "From: bhavani, Brillius bhavanip@brillius.com Reply to: bhavanip@brillius.com Role: .NET Developer,H1B Preferred, PP Num MustLocation: Remote Job Description:Overview: We are seeking a highly skilled Senior .NET Developer to address high-level vulnerabilities identified by CxOne within our active C# applications. This role involves leading efforts in vulnerability remediation, as well as assisting in the upgrade of our .NET platform from .NET 6 to .NET 8. The ideal candidate will have extensive experience in C# development, security practices, and the Azure cloud ecosystem.Primary Responsibilities:Vulnerability Remediation:Verify vulnerabilities identified in C# applications.Perform code remediation to resolve security vulnerabilities such as XSS, SQL injection, log forging, anti-forgery token validation, etc.Conduct thorough testing and validation of remediated code.Review remediated code and work with the audit team to ensure full resolution.Secure approval from the SE manager before release..NET 6 to .NET 8 Upgrade Support:Assist the Family Care Software Engineering team in upgrading .NET applications from version 6 to 8.Ensure compatibility of the existing codebase during the upgrade.Update and manage dependencies, including NuGet packages, for both .NET framework and .NET.Required Experience:Minimum 5 years of experience as a .NET Web Developer.Proficiency in C# as the primary language.Strong knowledge of secondary languages including JavaScript, HTML, and CSS.Extensive experience working with .NET and .NET Framework.Expertise in upgrading NuGet packages for .NET.Azure Functions and Web Apps experience, including converting Azure functions from in-process to isolated worker models.Strong experience in remediating security vulnerabilities, including cross-site scripting (XSS), SQL and command injection, path traversal, log forging, and more.",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:47:52-05:00",
+        "unique_id": "1925316db54a44dd",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

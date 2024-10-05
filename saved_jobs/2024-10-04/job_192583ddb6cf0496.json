@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Vyzeinc",
+        "job_title": "Backend .NET Developer",
+        "location": "Iselin, NJ, USA",
+        "full_location": {
+            "city": "Iselin",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Backend Development",
+                ".Net Core",
+                "ASP.Net Core",
+                "C#",
+                "EF Core",
+                "SQL Server"
+            ],
+            "primary": [
+                "Azure Development",
+                "OOAD",
+                "SOLID Principles",
+                "Agile SDLC"
+            ],
+            "secondary": [
+                "Excellent Communication",
+                "Analytical Skills",
+                "User Story Analysis",
+                "High and Low Level Design",
+                "Unit Testing",
+                "Integration Testing",
+                "UAT Support"
+            ],
+            "all": [
+                "Backend Development",
+                ".Net Core",
+                "ASP.Net Core",
+                "C#",
+                "EF Core",
+                "SQL Server",
+                "Azure Development",
+                "OOAD",
+                "SOLID Principles",
+                "Agile SDLC",
+                "Excellent Communication",
+                "Analytical Skills",
+                "User Story Analysis",
+                "High and Low Level Design",
+                "Unit Testing",
+                "Integration Testing",
+                "UAT Support"
+            ]
+        },
+        "job_type": [
+            "hybrid",
+            "remote"
+        ],
+        "contact_person": "Jayashree Biswal",
+        "email": "jbiswal@vyzeinc.com",
+        "jd": "From: Jayashree Biswal, Vyzeinc jbiswal@vyzeinc.com Reply to: jbiswal@vyzeinc.com Title: Backend .NET DeveloperCitizenship: US Citizen or Green Card HolderLocation: Iselin, NJ (Hybrid/Remote) Job Description:\u2022 12+ years of backend development experience \u2022 Excellent communication and analytical skills \u2022 Design, develop, and implement financial products and custom web applications using .Net Core/ ASP.Net Core/C#/EF Core/SQL Server technologies. \u2022 Exposure to Azure development would be a plus \u2022 Design and implement technical specifications and business components using industry best practices and proven design patterns while utilizing OOAD and SOLID principles \u2022 Perform analysis of user stories that may include complex functionalities \u2022 Conduct high and low level design, development, testing, coding and issue/query resolutions \u2022 Perform unit testing, integration testing while participating in configuration management and deployment procedures \u2022 Participate in UAT/production support activities\u2022 Experience with Agile SDLC processes",
+        "source": "Email",
+        "date_posted": "2024-10-04 10:55:02-05:00",
+        "unique_id": "192583ddb6cf0496",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

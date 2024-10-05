@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "GCP Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "Kubernetes Engine (GKE)",
+                "Jenkins",
+                "GITHUB"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Terraform",
+                "Kubernetes Engine (GKE)",
+                "Jenkins",
+                "GITHUB"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vasanth G",
+        "email": "vasanth@smartitframe.com",
+        "jd": "Hi,Greetings from Smart IT Frame, Hope you are doing well!!!Smart IT Frame specializes in enabling you with your most critical line of resources. Whether it\u2019s for permanent staffing, contract staffing, contract-to-hire or executive search, we understand the importance of delivering the most suitable talent; on time and within budget. With our Core focus in emerging technologies, we have provided global technology workforce solutions in North America, Canada & India. We take pride in delivering specialized talent, superior performance, and seamless execution to meet the challenging business needs of customers worldwide. Role: GCP engineerLocation: Charlotte, NC, Jersey, NJ and Dallas, TX, Phoenix, AZ, St Louse, MO (Hybrid) JD:What are the top skills required for this role?GCPTeraformKubernetes Engine (GKE),Jenkins,GITHUBAdditional Information:Client is expecting a good Terraform specialist who can manage and maintain their IaC/development pipeline on Google Cloud.Job Description/ Responsibilities Lead the planning and implementation of complex projects, ensuring alignment with company objectives and timelines. - Oversee the development and deployment of applications using Jenkins, GKE, Ansible, GITHUB, Terraform, and GCP. - Provide technical guidance and support to the project team, ensuring best practices are followed. - Coordinate with cross-functional teams to ensure seamless integration and delivery of project components. - Monitor project progress and performance, making adjustments as necessary to ensure successful completion. - Develop and maintain project documentation, including project plans, status reports, and risk management plans. - Facilitate communication and collaboration among stakeholders, ensuring transparency and alignment. - Manage project budgets, ensuring efficient allocation of resources and adherence to financial constraints. - Conduct regular project reviews and post-implementation evaluations to identify areas for improvement. - Ensure compliance with industry standards and regulatory requirements throughout the project lifecycle. - Identify and mitigate potential risks and issues, developing contingency plans as needed. - Foster a culture of continuous improvement, encouraging team members to identify and implement process enhancements. - Utilize data-driven insights to inform decision-making and drive project success.",
+        "source": "Email",
+        "date_posted": "2024-10-04 10:57:20-05:00",
+        "unique_id": "192588f5e3a0317b",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

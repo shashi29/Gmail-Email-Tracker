@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Mindfore",
+        "job_title": "Senior Java Architect",
+        "location": "Indianapolis, IN, USA",
+        "full_location": {
+            "city": "Indianapolis",
+            "state": "IN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "4 year applicable degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Java EE",
+                "Spring MVC Framework",
+                "Spring Core",
+                "Spring Security",
+                "Spring Data Persistence",
+                "REST/SOAP API Clients",
+                "Web Services"
+            ],
+            "primary": [
+                "Architecture",
+                "Design Patterns",
+                "Data Structures",
+                "Algorithms",
+                "XML Documents",
+                "JSON documents",
+                "AWS",
+                "Agile Scrum Development"
+            ],
+            "secondary": [
+                "Vue.js",
+                "React",
+                "Angular",
+                "jQuery",
+                "CSS Frameworks",
+                "Docker",
+                "Kubernetes",
+                "Oracle PL/SQL",
+                "Maven",
+                "Selenium automation",
+                "Linux server configuration",
+                "Linux scripting"
+            ],
+            "all": [
+                "Core Java",
+                "Java EE",
+                "Spring MVC Framework",
+                "Spring Core",
+                "Spring Security",
+                "Spring Data Persistence",
+                "REST/SOAP API Clients",
+                "Web Services",
+                "Architecture",
+                "Design Patterns",
+                "Data Structures",
+                "Algorithms",
+                "XML Documents",
+                "JSON documents",
+                "AWS",
+                "Agile Scrum Development",
+                "Vue.js",
+                "React",
+                "Angular",
+                "jQuery",
+                "CSS Frameworks",
+                "Docker",
+                "Kubernetes",
+                "Oracle PL/SQL",
+                "Maven",
+                "Selenium automation",
+                "Linux server configuration",
+                "Linux scripting"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "John",
+        "email": "john@mindfore.com",
+        "jd": "Hello,Greetings from John Mindfore Inc Job Title: Java ArchitectLocation: Indianapolis, IN \u2013 Hybrid Short Description:Architect, design & develop scalable architecture systems for Java-based applications. Build and maintain highly complex, high-volume, scalable, maintainable and extensible software on a Java/J2EE application stack using full software development.Complete Description:Architect, design & develop scalable architecture systems for Java-based applications. Build and maintain highly complex, high-volume, scalable, maintainable and extensible software on a Java/J2EE application stack using full software development.POSITION AND EXPERIENCE DESCRIPTIONProvides architectural and big picture oversight for development of new or enhanced software products. Responsible for ensuring quality and consistency of the software architecture across the system and providing day-to-day technical guidance to the development teams. Defines the system, technical, and application architectures for major areas of development and recommends courses of action to maintain cost effectiveness and competitiveness. Stays up to date on business initiatives and objectives, particularly as these relate to infrastructure and development architecture issues. Researches and implements best practices frameworks/capability models that will control costs, provide higher quality, and/or increase predictability of service delivery. Researches new technology and development tools to remain abreast of current and emerging technology.4 year applicable degree,10+ years of experience with designing, developing, implementing, and maintaining Java-based software and applications, contributing to all stages of the software development lifecycle.Required Skills:Required 5 Years of Strong record of successful architecture, design and delivery across large scale software systems with a successful track record of delivery.Required 10 Years of Core Java and Java EE including but not limited to usage of Collections, Lambdas, Streams, and Concurrency best practicesRequired 5 Years of Spring MVC Framework, Spring Core, Spring Security, Sprint Data PersistenceRequired 5 Years of Migration of applications to AWS, improving scalability and performanceRequired 2 Years ofIDEs like Eclipse/IDEA/NetbeansRequired 10 Years of XML Documents, XML Schemas, JSON documentsRequired 10 Years of Design Patterns, Data Structures and Algorithms, JDBCRequired 5 Years of Vue.js/React/Angular JavaScript framework, jQuery, Java scriptRequired 4 Years of CSS Frameworks like Bootstrap, Angular or similarRequired 5 Years of REST/SOAP API Clients and Web ServicesRequired 2 Years of WebLogic or similar App/web server administrationRequired 2 Years of Containerization platform using Docker/KubernetesRequired 2 Years of Working knowledge of Cloud Services like AWS/AzureRequired 2 Years of Oracle PL/SQL and ability to develop and use stored proceduresRequired 5 Years of Delivery using Agile Scrum Development frameworkRequired 2 Years of Maven build toolsHighly desired 2 Years of Selenium automationHighly desired 2 Linux server configuration and management, Linux scriptingHighly desired 2 Web Application server-side Configuration and Deployment",
+        "source": "Email",
+        "date_posted": "2024-10-03 14:02:46-05:00",
+        "unique_id": "19253c29b068bed5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

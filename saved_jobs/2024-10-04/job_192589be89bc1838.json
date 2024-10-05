@@ -1,0 +1,119 @@
+[
+    {
+        "company": "Adventa tech",
+        "job_title": "AWS Cloud DBA",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2-3 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Databases",
+                "DevOps",
+                "Postgres",
+                "MYSOL",
+                "Aurora Postgres",
+                "NoSQL",
+                "MongoDB",
+                "AWS Console",
+                "AWS CLI",
+                "Cloud Watch"
+            ],
+            "primary": [
+                "AWS IAM",
+                "Service Resiliency",
+                "ETL Tools",
+                "AWS Glue",
+                "EKS",
+                "ECR",
+                "DynamoDB",
+                "Document DB",
+                "Neptune",
+                "OpenSearch"
+            ],
+            "secondary": [
+                "Python",
+                "Terraform",
+                "Cloud Formation",
+                "Lambda",
+                "Automation",
+                "Monitoring",
+                "Continuous integration",
+                "Continuous deployment",
+                "Data migration"
+            ],
+            "all": [
+                "AWS Databases",
+                "DevOps",
+                "Postgres",
+                "MYSOL",
+                "Aurora Postgres",
+                "NoSQL",
+                "MongoDB",
+                "AWS Console",
+                "AWS CLI",
+                "Cloud Watch",
+                "AWS IAM",
+                "Service Resiliency",
+                "ETL Tools",
+                "AWS Glue",
+                "EKS",
+                "ECR",
+                "DynamoDB",
+                "Document DB",
+                "Neptune",
+                "OpenSearch",
+                "Python",
+                "Terraform",
+                "Cloud Formation",
+                "Lambda",
+                "Automation",
+                "Monitoring",
+                "Continuous integration",
+                "Continuous deployment",
+                "Data migration"
+            ],
+            "with_experience": [
+                "AWS Databases",
+                "DevOps",
+                "Postgres",
+                "MYSOL",
+                "Aurora Postgres",
+                "NoSQL",
+                "MongoDB",
+                "AWS Console",
+                "AWS CLI",
+                "Cloud Watch"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sradha Suman Nayak",
+        "email": "sradha@adventatech.com",
+        "jd": "From: Sradha Suman Nayak, Adventa tech sradha@adventatech.com Reply to: sradha@adventatech.com Job Title: AWS Cloud DBA Location: Jersey City, NJ 3 days on site- Hybrid Role (NEED LOCAL)DURATION: 6 MONTHS+MOI: VideVisa: USC / GC ONLY NOTE: Please Send Candidate LinkedIn, DL(Need Sr. candidate )Send me candidate from trusted third party.Job Description:*MUST Have Investment Banking and Market Data environment experience*Team is currently looking for a AWS Cloud DBA with experience doing DevOps.Cloud Database RDS2-3 years of experience with AWS Databases \u2022 Experience in migrating data from on-prem to RDS and 53 Exceptional knowledge of AWS Console, AWS CLI S3, DMS ? RDS: Postgres, MYSOL, Aurora Postgres and NoSQL (MongoDB) Cloud Watch \u2022 Good knowiedge of ? AWS SDK e RedShift ? Snowflake O Redis ? High Availability and disaster recovery ?MSKIStreaming/Messaging Architectures AWS IAM and integration with AW'S Identity Center ? Service Resiliency - HADR designs/solutions tied to business tiering - replication across AZs and Regions e ETL Tools/MWAA AirfiowlAWS Glue EKS/ECR \u2022 Knowledge of ? Non-relational AWS databases: DynamoDB, Document DB, Neptune, OpenSearch ? Load balancing \u2022 Nice to have Experience in migrating data from on-prem into Snowflake, RedShiftAutomation/DevOps Experience\u2022 Exceptional knowledge of: ? Python, Terraform, Cloud Formation Lambda Enterprise level Application Integration experience on AWS Experience with ? Automation and monitoring within AWS ? Continuous integration and continuous deployment (CI/CD) \u2022 Ability to automate migration of data to RDS, $3, Snowflake, Redshift",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:37:46-05:00",
+        "unique_id": "192589be89bc1838",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "company": "1st-recruit",
+        "job_title": "GIS Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "GIS technologies",
+                "API development",
+                "Object-oriented design"
+            ],
+            "primary": [
+                "ArcGIS",
+                "QGIS",
+                "GeoServer",
+                "MapServer",
+                "RESTful services",
+                "PostGIS",
+                "Oracle Spatial",
+                "Leaflet",
+                "OpenLayers",
+                "GeoJSON",
+                "Shapefile",
+                "KML"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Analytical skills",
+                "Git",
+                "Communication",
+                "Collaboration",
+                "Cloud GIS solutions",
+                "AWS",
+                "Azure",
+                "Microservices architecture",
+                "Python"
+            ],
+            "all": [
+                "Java",
+                "GIS technologies",
+                "API development",
+                "Object-oriented design",
+                "ArcGIS",
+                "QGIS",
+                "GeoServer",
+                "MapServer",
+                "RESTful services",
+                "PostGIS",
+                "Oracle Spatial",
+                "Leaflet",
+                "OpenLayers",
+                "GeoJSON",
+                "Shapefile",
+                "KML",
+                "Problem-solving",
+                "Analytical skills",
+                "Git",
+                "Communication",
+                "Collaboration",
+                "Cloud GIS solutions",
+                "AWS",
+                "Azure",
+                "Microservices architecture",
+                "Python"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sanjeev",
+        "email": "sanjeevm@1st-recruit.com",
+        "jd": "Need GIS Developer with java and API exp Java script api gis front end developer embedded Developement dashboard experienceProficient in Java programming and object-oriented design.Strong experience with GIS technologies such as ArcGIS, QGIS, GeoServer, or MapServer.Hands-on experience with API development and integration (RESTful services).Familiarity with geospatial databases like PostGIS, Oracle Spatial, or others.Experience with web mapping libraries like Leaflet or OpenLayers.Knowledge of spatial data formats (GeoJSON, Shapefile, KML).Additional Skills:Strong problem-solving and analytical skills.Experience with version control systems like Git.Good communication and collaboration skills.Preferred Skills:Experience with Cloud GIS solutions such as AWS or Azure.Familiarity with microservices architecture.Knowledge of Python for geospatial data analysis.",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:28:02-05:00",
+        "unique_id": "19258efd6ab5359f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

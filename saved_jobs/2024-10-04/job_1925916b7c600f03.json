@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Accenture",
+        "job_title": "Terraform Consultant",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, or a related field, or equivalent professional experience.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6-12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "Microsoft Azure",
+                "Scripting Languages",
+                "Version Control",
+                "CI/CD Tools"
+            ],
+            "primary": [
+                "Cloud Automation",
+                "Azure Services Integration",
+                "Infrastructure Monitoring",
+                "Cost Optimization",
+                "Security & Compliance"
+            ],
+            "secondary": [
+                "Containerization",
+                "Cloud Security",
+                "Monitoring & Logging",
+                "Problem Solving",
+                "Azure Certifications"
+            ],
+            "all": [
+                "Terraform",
+                "Microsoft Azure",
+                "Scripting Languages",
+                "Version Control",
+                "CI/CD Tools",
+                "Cloud Automation",
+                "Azure Services Integration",
+                "Infrastructure Monitoring",
+                "Cost Optimization",
+                "Security & Compliance",
+                "Containerization",
+                "Cloud Security",
+                "Monitoring & Logging",
+                "Problem Solving",
+                "Azure Certifications",
+                "Experience working with multi-cloud environments (AWS, GCP)",
+                "Experience in migration projects from on-premise or other cloud platforms to Azure",
+                "Knowledge of serverless architectures and functions as a service (FaaS)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ayush Kumar",
+        "email": "Ayush@istaffx.com",
+        "jd": "From: ayush, istaff ayush@istaffx.com Reply to: ayush@istaffx.com HiHope so you are doing Good!!!Please find the Job Description. If you feel comfortable yourself then send me your updated resume or call me back on 575-236-4255.Client: AccentureVisa: Greencard or US Citizens onlyTerraform ConsultantLocation: REMOTE Length: 6-12 monthsStart: 2 weeksInterview :Video** MUST HAVE FINANCIAL SERVICES EXPERIENCE **Job Overview:We are seeking a skilled Terraform Developer with strong expertise in Microsoft Azure to join our team. The ideal candidate will have a deep understanding of infrastructure as code (IaC) principles and extensive experience working with Terraform to automate and manage Azure cloud environments. You will be responsible for designing, implementing, and managing cloud infrastructure while ensuring security, scalability, and efficiency across our Azure-based systems.Key Responsibilities:Infrastructure as Code (IaC): Develop and maintain scalable, secure, and efficient infrastructure using Terraform on Azure.Cloud Automation: Implement automation solutions for provisioning, managing, and scaling Azure cloud services.Azure Services Integration: Collaborate with cross-functional teams to integrate various Azure services, including compute, storage, networking, databases, and monitoring tools.CI/CD Pipelines: Design and enhance CI/CD pipelines for automated infrastructure deployments in collaboration with DevOps teams.Infrastructure Monitoring: Implement tools and strategies for monitoring the health, performance, and security of Azure infrastructure.Cost Optimization: Identify and apply cost-optimization strategies in Azure using Terraform scripts and Azure tools.Security & Compliance: Ensure compliance with security best practices and standards while managing access and permissions through Azure IAM (Identity and Access Management).Documentation: Write and maintain comprehensive documentation of Terraform modules, workflows, and infrastructure designs.Collaboration: Work closely with software engineering, DevOps, and cloud architecture teams to develop solutions that meet the business's infrastructure needs.Required Skills and Qualifications:Terraform Expertise: Extensive experience with Terraform, including writing modules, managing states, and handling remote backends.3+ years of experience with Terraform engineering \u2013 as a focus in your roles, not something you've done a small part of the time \u2013 Terraform CLI and Terraform Cloud experience would be greatAzure Cloud Expertise: In-depth knowledge of Microsoft Azure, including key services such as Azure VMs, Azure Kubernetes Service (AKS), Azure Storage, Azure Functions, Azure Networking (VNETs, NSGs, etc.), Azure Active Directory, and more.Scripting Languages: Proficiency in scripting languages such as Bash, PowerShell, or Python for automation tasks.Version Control: Hands-on experience with Git or other version control systems.CI/CD Tools: Familiarity with CI/CD tools like Azure DevOps, Jenkins, GitLab, or CircleCI for automated deployments.Containerization: Experience with containerization technologies like Docker and orchestration tools like Kubernetes (AKS experience is a plus).Cloud Security: Strong understanding of cloud security best practices, including experience with Azure Policy, RBAC, and Key Vault.Monitoring & Logging: Experience with monitoring tools such as Azure Monitor, Log Analytics, and third-party solutions like Prometheus or Grafana.Problem Solving: Strong analytical and troubleshooting skills with a proactive approach to problem-solving.Preferred Qualifications:Azure Certifications: Microsoft Certified: Azure Administrator, Azure Solutions Architect, or Azure DevOps Engineer certifications.Experience working with multi-cloud environments (AWS, GCP) in addition to Azure.Experience in migration projects from on-premise or other cloud platforms to Azure.Knowledge of serverless architectures and functions as a service (FaaS).Education & Experience:Bachelor's degree in Computer Science, Information Technology, or a related field, or equivalent professional experience.3+ years of experience as a Terraform Developer or Cloud Infrastructure Engineer.2+ years of experience working specifically with Azure Cloud Services.",
+        "source": "Email",
+        "date_posted": "2024-10-04 14:51:54-05:00",
+        "unique_id": "1925916b7c600f03",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "company": "NorthITe",
+        "job_title": "Senior Java Developer with AWS",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Chandra Kanth M K",
+        "email": "chandra@northite.com",
+        "jd": "From: Chandra Kanth M K, NorthITe chandra@northite.com Reply to: chandra@northite.com W2 Contract PositionRole: Senior Java Developer with AWSLocation: RemoteExperience: 9+ years",
+        "source": "Email",
+        "date_posted": "2024-10-04 13:58:29-05:00",
+        "unique_id": "19258e5cc20a67c8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

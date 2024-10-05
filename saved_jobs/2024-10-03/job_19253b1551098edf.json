@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Michelin",
+        "job_title": "Systems Administration with development Exp.",
+        "location": "Greenville, SC, USA",
+        "full_location": {
+            "city": "Greenville",
+            "state": "SC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Computer Science degree or equivalent understanding",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Windows Server",
+                "Active Directory",
+                "PowerShell",
+                "C#",
+                "SQL"
+            ],
+            "primary": [
+                "VMware ESXi",
+                "Linux administration",
+                "Network fundamentals",
+                "Oracle",
+                "PostgreSQL"
+            ],
+            "secondary": [
+                "Service Now",
+                "JIRA",
+                "PowerBI",
+                "CI/CD",
+                "Go",
+                "RUST",
+                "PHP"
+            ],
+            "all": [
+                "Windows Server",
+                "Active Directory",
+                "PowerShell",
+                "C#",
+                "SQL",
+                "VMware ESXi",
+                "Linux administration",
+                "Network fundamentals",
+                "Oracle",
+                "PostgreSQL",
+                "Service Now",
+                "JIRA",
+                "PowerBI",
+                "CI/CD",
+                "Go",
+                "RUST",
+                "PHP"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sumit Kumar Munda",
+        "email": "sumit@vyzeinc.com",
+        "jd": "Job Description -Job Title: Systems Administration with development Exp.Location: : Greenville, SCDuration: 6+mnths C2HVisa: USC and GCMOI: SkypeCandidates must be local to SC. Requirement.Application Specialist \u2013 DeployerThe EnvironmentThe Michelin AI team is attached to central engineering; we are responsible for the LEVEL 2 (Manufacturing Execution systems) the systems that are responsible for communizing with the automation (PLCS) at our 26 manufacturing sites in the Americas. These systems are of Michelin design and are predominantly created in Clermont-Ferrand, France. Currently these systems are predominantly Windows Servers running .NET Framework applications in C# application on with UI (user interfaces) in eitherlegacy ASP.Net or WPF with back end Oracle Database. These systems are deployed on VMware ESXi clusters on premise indatacenters at our facilities. This model is moving towards a micro service architecture using containers on Kubernetes (K8)using .NET Core with UI in Blazer and database in PostgreSQL on VMware Tanzu. The PositionThe ideal candidate will have a broad knowledge of skills to allow for the configuration and deployment of Level 2 systems. These level 2 systems are either to support new machines or upgrade legacy systems. This individual should be able to interact with the local plant teams to gather the information and the requirements to configure test and deploy level 2 systems. This individual will be responsible for testing the system and going to code when necessary to identify issues. An ideal candidatewould be able to make minor changes to the application code of these systems and point out decencies in the existing code sets to ensure code quality. The individuals should have the skills necessary to troubleshoot and repair scripts that run for installation and data conversion. The individual should be able to handle the necessary modifications to correct SQL data conversion scripts. The individual must be able to train and communicate the application responsible how the application works. This individual must be able to support and find issues after the application has been running in production.Required Minimum Skills\u2022 Strong reasoning and critical thinking ability\u2022 The ability to troubleshoot problems without the need for Google\u2022 Computer science background (Computer Science degree or ability to demonstrate equivalent understanding of concepts including data structures, algorithm, object-oriented programming)\u2022 Basic understanding of computer hardware and networks\u2022 Knowledge of the windows operating system at least for basic system\u2022 Exposure to at least one object-oriented programing language\u2022 Knowledge of Relation Databases concepts and basics concepts An ideal candidate will possess the following:Systems Administration\u2022 Window Server (2008-2019)o Registry o Active Directoryo IISo PowerShell\u2022 Understanding of virtualization environments\u2022 Linux administration\u2022 VMware ESXi cluster experience a plusNetwork\u2022 Network fundamentals Network + or equivalent knowledge(OSI, Ethernet, TCP/IP, basic network components)\u2022 Network troubleshooting\u2022 Understanding of Ethernet networks and components including VLANS, hubs, switches etc\u2022 Understanding of firewalls\u2022 Understanding of network communication protocols including HTTP|HTTPS|ARP|DNS|DHCPConcept\u2022 Data structures XML/JSON\u2022 Understanding of WEB APIs, Web Services, RESTful API\u2022 IBM MQ,KAFKA, Avro SchemasDatabase\u2022 Knowledge of basic querying\u2022 Oracle or PostgreSQL experience a plus\u2022 Oracle Recovery Manager - RMANDevelopment\u2022 Familiarity with C# \u2022 Familiarity with .Net Framework \u2022 .Net Core, WPF or Blazer experience a plus\u2022 Go, RUST, PHP experience a plus\u2022 Version Control \u2013 git or TFSOther valued relevant experience\u2022 Service Now \u2022 JIRA\u2022 PowerBI\u2022 Exposure to PLCs\u2022 Knowledge of PLC,OPC, OPC UA, RSLinx, Kepware, OAS OPC systems, OSIsoft PI\u2022 Microsoft SQL / Failover clusters\u2022 OpenVMS, what is HPUX, DECNET\u2022 Understanding of CI/CD Deployment Specialist Travel Requirements: - Up to 30% over a 12-month period- Can vary if the travel is spread out evenly over the year or if it will be more towards the beginning/end- Maximum 5-6 trips per year- Up to 2 international trips maximum (France, Brazil, Canada, Mexico), the rest is domestic- Some are day trips (to Columbia for example). You can stay or commute- 60% are 1-week trips- 20% to 30% are 2-week trips- 10% are 3-week trips (try not to do many trips this long)- Occasional emergency travel (corporate jet) once per year, if at all. \u2013 Vast majority of travel is given a 3 to 8-month notice. Approximate dates are shown but may change slightlyWork around PTO/vacation",
+        "source": "Email",
+        "date_posted": "2024-10-03 13:42:36-05:00",
+        "unique_id": "19253b1551098edf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "company": "Axiustek",
+        "job_title": "Technical Data Project Manager",
+        "location": "Scottsdale, AZ, USA",
+        "full_location": {
+            "city": "Scottsdale",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "3-4 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data architecture experience",
+                "Azure Databricks",
+                "SQL",
+                "Data Analysis",
+                "Kafka",
+                "Spring Boot",
+                "Rest APIs",
+                "MongoDB",
+                "Postgres",
+                "Graph DB",
+                "Cloud environments"
+            ],
+            "primary": [
+                "ETL processing",
+                "Data Management concepts",
+                "Azure Cloud",
+                "Data Analytics solutions",
+                "Azure Data Lake",
+                "BI applications",
+                "Data quality",
+                "Performance tuning"
+            ],
+            "secondary": [
+                "Python",
+                "MDM",
+                "Data Quality",
+                "Data Governance",
+                "Communication skills",
+                "Presentation skills",
+                "Analytical capability"
+            ],
+            "all": [
+                "Data architecture experience",
+                "Azure Databricks",
+                "SQL",
+                "Data Analysis",
+                "Kafka",
+                "Spring Boot",
+                "Rest APIs",
+                "MongoDB",
+                "Postgres",
+                "Graph DB",
+                "Cloud environments",
+                "ETL processing",
+                "Data Management concepts",
+                "Azure Cloud",
+                "Data Analytics solutions",
+                "Azure Data Lake",
+                "BI applications",
+                "Data quality",
+                "Performance tuning",
+                "Python",
+                "MDM",
+                "Data Quality",
+                "Data Governance",
+                "Communication skills",
+                "Presentation skills",
+                "Analytical capability"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pranay Reddy",
+        "email": "pranayreddy@axiustek.com",
+        "jd": "From: pranayreddy, axiustek pranayreddy@axiustek.com Reply to: pranayreddy@axiustek.com Role : Technical Data Project ManagerLocation: Scottsdale, AZ (Hybrid Mandatory)Duration : Long term contract Job description :Very good communication skills, should be able to coordinate with different business stakeholders, understand the requirements translate into technical documents.Should be able to resolve any delays or clarifications required with business team.Should understand the data solutions, landscape, connect and convince customer on regular basis. Act as SPOC for both onshore and offshore team for support as well as development work. Must have:Data architecture experience, 3-4 years of working experience on Azure Databricks.Having at least 1 project implementation experience on Azure Databricks.Strong in SQL and Data Analysis skills.Should have knowledge on platform setup.Should have good understanding of batch & streaming data flows.Should have knowledge on Kafka, Spring Boot, Rest APIs.Should have experience in working with MongoDB / Postgres / Graph DB.Should have working experience on cloud environments.Participate and represent in detailed architectural discussions with the Global Data team to build confidence and ensure customer success when building new solutions and migrating legacy data within the Azure Data Lake platform.Experience with Azure Cloud and Data Analytics solutions.Ability to build Azure cloud data solutions and provide technical perspective and expertise on storage, platform services, cloud architecture and RDBMS/ODS database practices (Snowflake and Databricks).Exposure to large databases, BI applications, data quality and performance tuning.Experience with ETL processing or ETL toolset.Data Management concepts and standards (SQL Server, Oracle, Cloud, Snowflake, Azure, etc.).Ability to establish relations and build the rapport with customer stakeholders.Should be able to articulate the problem statement & solution.Should have excellent communication, presentation and analytical capability. Good to have:Provide subject matter expertise and hands on delivery of data capture and consumption of legacy data via Global template pipelines and Global framework playbook protocols.Expert, hands on experience in Azure - Data Factory, Data Lake store/Blob storage, SQL DB Experience in creating Pipelines with Azure components.Strong SQL experience - writing stored procedures, tuning indexes and troubleshooting performance bottlenecks.Skills in Python.Good knowledge on MDM, Data Quality & Data Governance.Good communication skills, able to coordinate between client and offshore team.",
+        "source": "Email",
+        "date_posted": "2024-10-03 09:59:27-05:00",
+        "unique_id": "19252ebceb4f0512",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Global Leader in the Retail Industry",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$45-45/hr Max"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Tableau",
+                "SQL"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Analysis"
+            ],
+            "secondary": [
+                "Data Validation",
+                "Data Warehousing",
+                "Machine Learning"
+            ],
+            "all": [
+                "Python",
+                "Tableau",
+                "SQL",
+                "Data Engineering",
+                "Data Analysis",
+                "Data Validation",
+                "Data Warehousing",
+                "Machine Learning"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ayush Kumar",
+        "email": "Ayush@istaffx.com",
+        "jd": "HiHope so you are doing Good!!!Please find the Job Description. If you feel comfortable yourself then send me your updated resume or call me back on 575-236-4255.Data Engineer| Remote with a global leader in the retail industry, is seeking a Data Engineer/Analyst to join their team!**Must complete training on-site, then role will become remote**Rate: $45-45/hr MaxNo H1BWhat the right candidate will have:Experience with PythonCreating dashboards from scratch in TableauSQL querying experienceExperience working in supply chain or retailBachelor's DegreeResponsibilities of the right candidate:Building out data pipelines with Python for machine learning purposesCreating dashboards from scratch within Tableau.Heavy SQL.Building complex queries to drive action by other teams.Potentially a little bit of data science as we think through complexity action to be taken.Strong data validation and efficiency to ensure what we build is not dragging our slot utilization.Collect data from various sources, including databases, data warehouses, external datasets, and surveys.Ensure data quality by identifying and rectifying errors, inconsistencies, and missing values.Organize and maintain data in a structured manner, often using databases or data warehouses.Present findings to stakeholders through reports, presentations, and meetings.Provide actionable insights and recommendations based on data analysis to inform decision-making.",
+        "source": "Email",
+        "date_posted": "2024-10-03 16:07:16-05:00",
+        "unique_id": "1925434b794c17e1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

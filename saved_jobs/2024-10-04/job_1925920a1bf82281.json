@@ -1,0 +1,57 @@
+[
+    {
+        "company": "smartitframe",
+        "job_title": "GCP Cloud Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform (GCP)",
+                "Terraform",
+                "Google Kubernetes Engine (GKE)"
+            ],
+            "primary": [
+                "Jenkins",
+                "GitHub"
+            ],
+            "secondary": [],
+            "all": [
+                "Google Cloud Platform (GCP)",
+                "Terraform",
+                "Google Kubernetes Engine (GKE)",
+                "Jenkins",
+                "GitHub"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "dhamodharan",
+        "email": "dhamodharan@smartitframe.com",
+        "jd": "From: dhamodharan, smartitframe dhamodharan@smartitframe.com Reply to: dhamodharan@smartitframe.com Hi All Job Title: GCP Cloud EngineerLocation: Charlotte, NC, New Jersey, NJ, Dallas, TX, Phoenix, AZ, St. Louis, MO (Onsite)Contract Top 3 Required Skills:Google Cloud Platform (GCP)TerraformGoogle Kubernetes Engine (GKE), Jenkins, GitHub Job Description / ResponsibilitiesLead the planning and execution of complex projects, ensuring they align with company goals and timelines.Oversee the development and deployment of applications using Jenkins, GKE (Google Kubernetes Engine), Ansible, GitHub, Terraform, and Google Cloud Platform (GCP).Provide technical guidance to the project team, promoting best practices.Collaborate with cross-functional teams for seamless integration and delivery of project components.Monitor project progress, making necessary adjustments for successful outcomes.Develop and maintain key project documentation such as project plans, status reports, and risk management plans.Facilitate communication among stakeholders, ensuring transparency and alignment.Manage project budgets, ensuring efficient resource allocation and adherence to financial constraints.Conduct regular project reviews and post-implementation evaluations to drive continuous improvement.Ensure compliance with industry standards and regulatory requirements.Identify and mitigate potential risks, developing contingency plans.Foster a culture of continuous improvement, encouraging the team to implement process enhancements.Utilize data-driven insights to drive project success. Additional Information:The client is looking for a Terraform specialist to manage and maintain the Infrastructure as Code (IaC) and development pipeline on Google Cloud.Team size and direct reports will be discussed in further details.",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:02:44-05:00",
+        "unique_id": "1925920a1bf82281",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Tanisha Systems Inc",
+        "job_title": "Tech Lead Fullstack Engineer (React, Python, AWS)",
+        "location": "USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "React",
+                "Typescript",
+                "Python",
+                "Flask",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "Postgres",
+                "MongoDB",
+                "AWS",
+                "AWS CDK"
+            ],
+            "secondary": [
+                "Supply chain logistics",
+                "Factory manufacturing",
+                "Software solutions related to physical products"
+            ],
+            "all": [
+                "React",
+                "Typescript",
+                "Python",
+                "Flask",
+                "RESTful APIs",
+                "Postgres",
+                "MongoDB",
+                "AWS",
+                "AWS CDK",
+                "Supply chain logistics",
+                "Factory manufacturing",
+                "Software solutions related to physical products"
+            ],
+            "with_experience": [
+                "React",
+                "Typescript",
+                "Python",
+                "Flask"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Simranjeet Kaur",
+        "email": "simranjeet@tanishasystems.com",
+        "jd": "Greetings!!Please, let me know if you are available or interested in the following position by replying to me with your:1. Updated Resume2. Work Authorization3. Salary/Rate Expectations4. Present location Tech Lead Fullstack Engineer (React, Python, AWS)Chicago, IL - RemoteJob Type: Contract / FullTime Exp:10+ Years Must React and Typescript for frontend development.Must Python and Flask for backend development. A US-based e-vehicle manufacturer committed to creating eco-friendly transportation vehicles and related services, is looking for a Senior Fullstack Engineer with a strong background in React, Typescript, and Python to join our team.In this role, you will be developing and maintaining web applications that support various aspects of supply chain logistics and factory manufacturing processes. Your work will involve creating scalable, efficient frontend using React and backend services using Flask, implementing RESTful APIs, and managing databases with Postgres or MongoDB. Additionally, you will leverage AWS and AWS CDK for cloud infrastructure and infrastructure as code (IaC), ensuring our systems are reliable and robust. Required Skills:- Proficiency in React and Typescript for frontend development.- Strong experience with Python and Flask for backend development.- Expertise in creating and managing RESTful APIs.- Hands-on experience with Postgres and/or MongoDB.- Solid understanding of AWS cloud services and AWS CDK for IaC.- Ability to work effectively in a fullstack role, handling both frontend and backend tasks. Bonus Skills:- Background in supply chain logistics or factory manufacturing.- Experience with software solutions related to physical products.",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:05:17-05:00",
+        "unique_id": "19252f1a93094d64",
+        "emp_type": [
+            "contract",
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

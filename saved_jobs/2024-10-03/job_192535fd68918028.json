@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Systray Technology",
+        "job_title": "Backend Developer",
+        "location": "Silver spring, MD, USA",
+        "full_location": {
+            "city": "Silver spring",
+            "state": "MD",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "SQL",
+                "cloud architecture",
+                "Jira",
+                "Git"
+            ],
+            "primary": [
+                "workflow engines",
+                "SDVI Rally",
+                "Airflow",
+                "Step Functions",
+                "Argo Workflows",
+                "Jenkins"
+            ],
+            "secondary": [
+                "communication",
+                "continuous integration",
+                "continuous deployment"
+            ],
+            "all": [
+                "C#",
+                "SQL",
+                "cloud architecture",
+                "Jira",
+                "Git",
+                "workflow engines",
+                "SDVI Rally",
+                "Airflow",
+                "Step Functions",
+                "Argo Workflows",
+                "Jenkins",
+                "communication",
+                "continuous integration",
+                "continuous deployment"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sam Sharma",
+        "email": "sam@systraytechnologies.com",
+        "jd": "From: Sam Sharma, Systray Technology sam@systraytechnologies.com Reply to: sam@systraytechnologies.com Position -Back-end DeveloperLocation -Silver spring, Maryland Adapt/Web Developer Back-end DeveloperJob Responsibilities / Typical Day in the Role\u2022 Develop and maintain applications using cloud architecture working in Jira and Git\u2022 Ability to build from user stories and be active in technical design\u2022 Build efficient, scalable, secure, and observable applications\u2022 Able to take and give feedback in team meetings and code review\u2022 Build and maintain highly scalable services and workflows\u2022 Be proactive and responsive in addressing technical issues Qualifications\u2022 Minimum of 5 years' experience working as a Software Developer\u2022 Capable of self-deployments in a well-defined container pipeline\u2022 Firm understanding of cloud infrastructure Solid experience with C#\u2022 Understanding of SQL and document database development\u2022 Experience with workflow engines (SDVI Rally, Airflow, Step Functions, Argo Workflows, Jenkins, etc.)\u2022 Understanding of fundamental design principles behind a scalable application Must Have Skills / Requirements1) Aptitude/Communication skillsa. Able to work hard independently and with others collaboratively2) Experience with CICDa. Continuous integration and continuous deployment experience. Soft Skills1) Communication2) Develop and maintain applications using cloud architecture working in Jira and Git3) Ability to build from user stories and be active in technical design4) Build efficient, scalable, secure, and observable applications5) Able to take and give feedback in team meetings and code review6) Build and maintain highly scalable services and workflows7) Be proactive and responsive in addressing technical issues",
+        "source": "Email",
+        "date_posted": "2024-10-03 12:11:08-05:00",
+        "unique_id": "192535fd68918028",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "company": "SPAR Information Systems",
+        "job_title": "Data Engineering / Data Analyst",
+        "location": "Bentonville, AR, USA",
+        "full_location": {
+            "city": "Bentonville",
+            "state": "AR",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Spark",
+                "Kubernetes",
+                "Scala",
+                "SQL",
+                "Hadoop"
+            ],
+            "primary": [
+                "GCP",
+                "Data Warehouse",
+                "Pyspark",
+                "Data Analysis",
+                "Data Cleaning",
+                "Data Validation",
+                "Data Migration",
+                "Data Mining"
+            ],
+            "secondary": [
+                "Agile",
+                "Airflow",
+                "Map Reduce",
+                "Hive",
+                "Pig",
+                "Data Pipeline Management",
+                "Cloud Administration"
+            ],
+            "all": [
+                "Python",
+                "Spark",
+                "Kubernetes",
+                "Scala",
+                "SQL",
+                "Hadoop",
+                "GCP",
+                "Data Warehouse",
+                "Pyspark",
+                "Data Analysis",
+                "Data Cleaning",
+                "Data Validation",
+                "Data Migration",
+                "Data Mining",
+                "Agile",
+                "Airflow",
+                "Map Reduce",
+                "Hive",
+                "Pig",
+                "Data Pipeline Management",
+                "Cloud Administration"
+            ]
+        },
+        "job_type": [
+            "remote",
+            "onsite"
+        ],
+        "contact_person": "Rahul Kumar",
+        "email": "rahul.k@sparinfosys.com",
+        "jd": "From: Rahul Kumar, SPAR Information Systems rahul.k@sparinfosys.com Reply to: rahul.k@sparinfosys.com Hello Folks, (Must have strong exp with Hadoop, GCP, Python, Spark, Kubernetes, Scala, SQL & Data Warehouse skills) - Note itHope you all are doing good.Please go through the Job description and let me know your interest. Title: Data Engineering / Data AnalystLocation: Bentonville, AR (Can be Remote) Duration: Long Term ContractMust have skills PythonPysparkSparkKubernetesScalaGCPSQLJob Description: \u2022 Minimum 9 years \u2022 6+ years of experience in Data Warehouse and Hadoop/Big Data \u2022 3+ years of experience in strategic data planning, standards, procedures, and governance\u2022 4+ years of hands-on experience in Python or Scala\u2022 4+ years of experience in writing and tuning SQLs, Spark queries\u2022 3+ years of experience working as a member of an Agile team\u2022 Experience with Kubernetes and containers is a plus\u2022 Experience in understanding and managing Hadoop Log Files.\u2022 Experience in understanding Hadoop multiple data processing engines such as interactive SQL, real time streaming, data science and batch processing to handle data stored in a single platform in Yarn.\u2022 Experience in Data Analysis, Data Cleaning (Scrubbing), Data Validation and Verification, Data Conversion, Data Migrations and Data Mining. \u2022 Experience in all the phases of Data warehouse life cycle involving Requirement Analysis, Design, Coding, Testing, and Deployment., ETL Flow \u2022 Experience in architecting, designing, installation, configuration and management of Apache Hadoop Clusters\u2022 Experience in analyzing data in HDFS through Map Reduce, Hive and Pig\u2022 Experience building and optimizing \u2018big data\u2019 data pipelines, architectures and data sets.\u2022 Strong analytic skills related to working with unstructured datasets\u2022 Experience in Migrating Big Data Workloads \u2022 Experience with data pipeline and workflow management tools: Airflow\u2022 Experience with scripting languages: Python, Scala, etc.\u2022 Cloud AdministrationThanks & Regards,Rahul KumarSr. Technical RecruiterSPAR Information Systems(a E-verify Company)Email : rahul.k@sparinfosys.com",
+        "source": "Email",
+        "date_posted": "2024-10-03 18:02:56-05:00",
+        "unique_id": "192549e73359541e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

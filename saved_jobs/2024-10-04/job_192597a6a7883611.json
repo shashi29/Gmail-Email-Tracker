@@ -1,0 +1,110 @@
+[
+    {
+        "company": "TechSource",
+        "job_title": "Lead DevOps",
+        "location": "Iowa, IA, USA",
+        "full_location": {
+            "city": "Iowa",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "ASP.NET",
+                "MVC",
+                ".NET Core",
+                "TFS",
+                "Azure DevOps",
+                "GitHub",
+                "CI/CD",
+                "T-SQL",
+                "MS SQL"
+            ],
+            "primary": [
+                "Security Practices",
+                "Test Automation",
+                "Technical Leadership",
+                "Code Quality",
+                "Code Branching"
+            ],
+            "secondary": [
+                "TypeScript",
+                "Angular",
+                "Static Code Analysis",
+                "Encryption",
+                "SonarQube",
+                "Checkmarx",
+                "GitHub Advanced Security",
+                "Selenium",
+                "NUnit",
+                "xUnit",
+                "Query Tuning",
+                "Database Optimization",
+                "Mentorship",
+                "Code Review Standards",
+                "Dependabot",
+                "Snyk"
+            ],
+            "all": [
+                "C#",
+                "ASP.NET",
+                "MVC",
+                ".NET Core",
+                "Security Practices",
+                "TFS",
+                "Azure DevOps",
+                "GitHub",
+                "CI/CD",
+                "Test Automation",
+                "Technical Leadership",
+                "Code Quality",
+                "Code Branching",
+                "TypeScript",
+                "Angular",
+                "Static Code Analysis",
+                "Encryption",
+                "SonarQube",
+                "Checkmarx",
+                "GitHub Advanced Security",
+                "Selenium",
+                "NUnit",
+                "xUnit",
+                "T-SQL",
+                "MS SQL",
+                "Query Tuning",
+                "Database Optimization",
+                "Mentorship",
+                "Code Review Standards",
+                "Dependabot",
+                "Snyk"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sunita Sharma",
+        "email": "sunita@tsourceinc.net",
+        "jd": "From: Sunita Sharma, TechSource sunita@tsourceinc.net Reply to: sunita@tsourceinc.net Role- Lead DevOps Location- Iowa,IAHybrid roleRequirements:1. C#, ASP.NET, MVC, .NET Core : Strong experience in the Microsoft technology stack is required. This role is primarily DevOps-focused, but you\u2019ll need to understand the code well enough to mentor teams and drive best practices. While .NET Core isn\u2019t currently in use, you may help introduce it into future projects.2. Security Practices : You will implement security practices like static code analysis and encryption. Experience with security tools (e.g., SonarQube, Checkmarx, GitHub Advanced Security) and maintaining compliance with standards (e.g., ADA) is a plus.3. TFS, Azure DevOps, GitHub Enterprise, GitHub Actions : A deep understanding of TFS, Azure DevOps, GitHub, and CI/CD tools is required. You will lead the migration from TFS/ADO to GitHub, building out automation and best practices from scratch.4. Test Automation & TDD : You\u2019ll implement automated testing, improve test coverage, and ensure reliability through unit and integration tests. Teams are not yet using tools like Selenium, NUnit, or xUnit, and you\u2019ll be responsible for setting these up.5. T-SQL and MS SQL : Strong skills in query tuning and database optimization and automation are required. The focus will be on query optimization and automating database-related tasks.6. Technical Leadership & Mentorship : Experience in mentoring and leading developers is crucial. You\u2019ll establish and enforce code review standards, guide development practices, and provide technical leadership in DevOps strategies.7. Code Quality & Security Scanning Tool- Familiarity with tools such as GitHub Advanced Security, Dependabot, and Snyk will help you integrate security and code quality into the pipeline.8. Code Branching, Merging, and Release Optimization - Experience in optimizing the code branching and release management processes is essential.9. TypeScript/Angular, Client-Based Authorization : While the immediate focus is not on front-end technologies, knowledge of TypeScript and Angular is a plus. You may work with teams that use these technologies in the future.",
+        "source": "Email",
+        "date_posted": "2024-10-04 14:51:15-05:00",
+        "unique_id": "192597a6a7883611",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

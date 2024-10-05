@@ -1,0 +1,79 @@
+[
+    {
+        "company": "USC Group",
+        "job_title": "Sr. Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Cloud",
+                "Databricks",
+                "PySpark",
+                "Python"
+            ],
+            "primary": [
+                "Terraform",
+                "CI/CD pipelines",
+                "GitHub Actions",
+                "Agile",
+                "Scrum"
+            ],
+            "secondary": [
+                "Python unit testing",
+                "mocking",
+                "Unity Catalog",
+                "Databricks Asset Bundles"
+            ],
+            "all": [
+                "Azure Cloud",
+                "Databricks",
+                "PySpark",
+                "Python",
+                "Terraform",
+                "CI/CD pipelines",
+                "GitHub Actions",
+                "Agile",
+                "Scrum",
+                "Python unit testing",
+                "mocking",
+                "Unity Catalog",
+                "Databricks Asset Bundles"
+            ],
+            "with_experience": [
+                "Azure Cloud",
+                "Databricks",
+                "PySpark",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Shubham",
+        "email": "shubham@theuscgroup.com",
+        "jd": "From: Shubham, USC Group shubham@theuscgroup.com Reply to: shubham@theuscgroup.com Position: Sr. Data EngineerLocation: RemoteVisa: Only USC, GC, GC-EAD, H4-EADRetail or grocery industry experienceTop 3Must have Azure Cloud experienceExperience with DatabricksProficient in Pyspark and PythonRequirementsMust have strong Azure Cloud experienceProficient with Databricks, PySpark, and PythonSolid understanding of object-oriented programming conceptsExperience with Terraform for infrastructure as codeFamiliarity with Delta Share for data sharingProven ability to set up and manage CI/CD pipelines using GitHub ActionsExperience working in an Agile/Scrum environment, focusing on iterative development and continuous delivery7+ years of experience as a Senior Data Engineer, leading teams to deliver high-quality data orchestration solutionsPassion for data engineering and commitment to career development in the fieldNice to HaveExperience with Python unit testing and mockingFamiliarity with Unity CatalogKnowledge of Databricks Asset Bundles",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:37:03-05:00",
+        "unique_id": "192589b41173f755",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

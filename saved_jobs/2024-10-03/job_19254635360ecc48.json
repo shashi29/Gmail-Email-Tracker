@@ -1,0 +1,79 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "Data Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Data Build Tool (dbt)",
+                "Snaplogic",
+                "SQL Server",
+                "PostgreSQL",
+                "Azure Data Factory"
+            ],
+            "primary": [
+                "SQL",
+                "Python"
+            ],
+            "secondary": [
+                "Good Communication skills",
+                "Presentation skills",
+                "Data governance frameworks",
+                "Problem-solving",
+                "Analytical skills",
+                "Collaboration",
+                "Positive attitude"
+            ],
+            "all": [
+                "Snowflake",
+                "Data Build Tool (dbt)",
+                "Snaplogic",
+                "SQL Server",
+                "PostgreSQL",
+                "Azure Data Factory",
+                "SQL",
+                "Python",
+                "Good Communication skills",
+                "Presentation skills",
+                "Data governance frameworks",
+                "Problem-solving",
+                "Analytical skills",
+                "Collaboration",
+                "Positive attitude"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Tushar Rana",
+        "email": "tushar@tekinspirations.com",
+        "jd": "DATA ENGINEER - SNOWFLAKEDuration : 12+ monthsLocation : Dallas, TX - onsite Good Communication skills and presentation skills must,Job Description \u2013 Data Engineer / Data ArchitectWe are seeking a highly skilled Data Engineer with extensive experience in Snowflake, Data Build Tool (dbt), Snaplogic, SQL Server, PostgreSQL, Azure Data Factory, and other ETL tools. The ideal candidate will have a strong ability to optimize SQL queries and a good working knowledge of Python. A positive attitude and excellent teamwork skills are essential.Key Responsibilities:Data Pipeline Development: Design, develop, and maintain scalable data pipelines using Snowflake, DBT, Snaplogic, and ETL tools.SQL Optimization: Write and optimize complex SQL queries to ensure high performance and efficiency.Data Integration: Integrate data from various sources, ensuring consistency, accuracy, and reliability.Database Management: Manage and maintain SQL Server and PostgreSQL databases.ETL Processes: Develop and manage ETL processes to support data warehousing and analytics.Collaboration: Work closely with data analysts, data scientists, and business stakeholders to understand data requirements and deliver solutions.Documentation: Maintain comprehensive documentation of data models, data flows, and ETL processes.Troubleshooting: Identify and resolve data-related issues and discrepancies.Python Scripting: Utilize Python for data manipulation, automation, and integration tasks.Technical Skills:Proficiency in Snowflake, DBT, Snaplogic, SQL Server, PostgreSQL, and Azure Data Factory.Strong SQL skills with the ability to write and optimize complex queries.Knowledge of Python for data manipulation and automation.Knowledge of data governance frameworks and best practicesSoft Skills:Excellent problem-solving and analytical skills.Strong communication and collaboration skills.Positive attitude and ability to work well in a team environment.Certifications: Relevant certifications (e.g., Snowflake, Azure) are a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-03 16:58:21-05:00",
+        "unique_id": "19254635360ecc48",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

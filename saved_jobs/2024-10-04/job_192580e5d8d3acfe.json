@@ -1,0 +1,51 @@
+[
+    {
+        "company": "Blue Ocean Ventures",
+        "job_title": "Data Engineer with EPP/EPIC",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "EPP",
+                "EPIC"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "EPP",
+                "EPIC"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Abhilash s h",
+        "email": "abhilash.sh@blue-oceanventures.com",
+        "jd": "From: Abhilash s h, Blue ocean ventures abhilash.sh@blue-oceanventures.com Reply to: abhilash.sh@blue-oceanventures.com Role: Data Engineer with EPP/EPICLocation: RemoteJob Description:Data Engineer with EPP/EPIC",
+        "source": "Email",
+        "date_posted": "2024-10-04 09:17:45-05:00",
+        "unique_id": "192580e5d8d3acfe",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

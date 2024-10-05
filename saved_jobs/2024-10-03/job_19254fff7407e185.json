@@ -1,0 +1,79 @@
+[
+    {
+        "company": "TEK INSPIRATIONS",
+        "job_title": "AWS Cloud Database Engineer",
+        "location": "San Antonio, TX, USA",
+        "full_location": {
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "SQL",
+                "Terraform"
+            ],
+            "primary": [
+                "Python",
+                "IAM",
+                "EC2",
+                "RDS",
+                "S3",
+                "Splunk",
+                "Datadog",
+                "PostgreSQL",
+                "Oracle"
+            ],
+            "secondary": [
+                "Agile",
+                "Always On clusters",
+                "Database performance tuning"
+            ],
+            "all": [
+                "AWS",
+                "SQL",
+                "Terraform",
+                "Python",
+                "IAM",
+                "EC2",
+                "RDS",
+                "S3",
+                "Splunk",
+                "Datadog",
+                "PostgreSQL",
+                "Oracle",
+                "Agile",
+                "Always On clusters",
+                "Database performance tuning"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Arudhi Singh",
+        "email": "arudhi.singh@tekinspirations.com",
+        "jd": "Hi,Hope you are doing great!!!Job Description -Role: AWS Cloud Database EngineerLocation: San Antonio, TX or Irvine, CA \u2013 Hybrid ( need locals ) LinkedIn needed resume should not be more than 4 pages aws, sql and terrform are must have skills They are looking for non indian candidate only \u2022 Bachelor's or Master's degree in Computer Science, Information Technology, or a related field. \u2022 12+ years of Proven experience as a Database Engineer or similar role with a strong focus on cloud environments. \u2022 Expertise in SQL Server, Always On clusters, and secondary databases (Oracle, PostgreSQL) with automation skills (Python, Terraform). \u2022 Extensive knowledge of database technologies, especially Postgres, and familiarity with AWS cloud services. \u2022 Proficient in using IAM, EC2, RDS, S3, and observability tools like Splunk and Datadog. \u2022 Strong programming skills in Python and experience with Terraform. \u2022 Experience working in an Agile environment. \u2022 Excellent problem-solving abilities and strong communication skills. \u2022 Optional: Experience with Oracle and SQL Server is a plus. Responsibilities: \u2022 Design, deploy, and manage highly available and scalable database solutions on AWS platforms. \u2022 Implement and maintain IAM policies and security measures to protect database environments. \u2022 Utilize AWS services such as EC2, RDS, and S3 to optimize database performance and ensure robust disaster recovery and high availability strategies. \u2022 Monitor database systems with tools like Splunk and Datadog to ensure operational health and performance. \u2022 Write and maintain scripts in Python to automate routine DB platform operations. \u2022 Develop and apply infrastructure as code (IaC) practices using Terraform to manage cloud resources efficiently. \u2022 Conduct performance tuning of database systems to meet the specific requirements of our applications.",
+        "source": "Email",
+        "date_posted": "2024-10-03 19:49:27-05:00",
+        "unique_id": "19254fff7407e185",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

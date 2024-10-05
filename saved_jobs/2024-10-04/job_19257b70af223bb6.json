@@ -1,0 +1,48 @@
+[
+    {
+        "company": "PEOPLE FORCE CONSULTING INC",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "EPIC integrations"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "EPIC integrations"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Shilpa",
+        "email": "shilpa.m@pforceinc.com",
+        "jd": "From: Shilpa, PEOPLE FORCE CONSULTING INC shilpa.m@pforceinc.com Reply to: shilpa.m@pforceinc.com We are looking for Data Engineer has worked on EPIC integrations",
+        "source": "Email",
+        "date_posted": "2024-10-04 08:27:47-05:00",
+        "unique_id": "19257b70af223bb6",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

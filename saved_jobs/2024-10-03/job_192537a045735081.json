@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Gtech",
+        "job_title": "Data Engineer",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Proven hands-on experience in creating, tuning, and maintaining machine learning models in enterprise environments.",
+            "degree_required": "Bachelor\u2019s or master\u2019s degree in data science, Computer Science, Statistics, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "R",
+                "Machine Learning",
+                "Data Modelling",
+                "Databricks"
+            ],
+            "primary": [
+                "PostgreSQL",
+                "MongoDB",
+                "Kafka",
+                "AWS Cloud",
+                "PowerBI"
+            ],
+            "secondary": [
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills",
+                "Teamwork abilities",
+                "Project management"
+            ],
+            "all": [
+                "Python",
+                "R",
+                "Machine Learning",
+                "Data Modelling",
+                "Databricks",
+                "PostgreSQL",
+                "MongoDB",
+                "Kafka",
+                "AWS Cloud",
+                "PowerBI",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills",
+                "Teamwork abilities",
+                "Project management"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ashwani",
+        "email": "kashwani@greattechglobal.com",
+        "jd": "From: Ashwani, Gtech kashwani@greattechglobal.com Reply to: kashwani@greattechglobal.com Job TitleData EngineerProject LocationSeattle, WADuration12 Months Contract Phone Interview Followed By SkypeJob Description:- Engineering here involves applying Computer Science principles to design, build, maintain,scalable and sustainable technology Products and Solutions. These technology Products andSolutions provide amazing guest experiences while meeting the needs of the business.Principal Duties and Responsibilities:? Develop and Deploy Predictive Models:-Build, tune, and maintain machine learning models in data bricks using python, r, or java. -Design and implement ML solutions tailored to specific use cases and data characteristics. ? Data Modelling and Analysis:-Review and revise data models fed from upstream sources such as PostgreSQL, MongoDB,and Kafka. -Identify and correct for data quality issues in data large datasets. -Analyse results to ensure findings are statically significant. ? ML Model Optimization and Maintenance: -Continuously improve model performance and accuracy.-Monitor and maintain deployed models to ensure effectiveness and relevance. ? Collaboration and Cross-functional Engagement:-Work closely with product managers, business analysts, architects, and other stakeholdersto understand business requirements and translate them into technical solutions-Collaborate with software engineers to integrate models into production systems.Qualifications, Skills, Experience and Personal Requirements:? Bachelor\u2019s or master\u2019s degree in data science, Computer Science, Statistics, or a relatedfield. ? Proven hands-on experience in creating, tuning, and maintaining machine learning models inenterprise environments. (Required)? Proficiency in Python and R, with experience using Databricks for model development.? Deep understanding of various machine learning modelling methods and their applications.? Experience with data modelling techniques and tools.? Experience with MongoDB, Snowflake, Postgres, AWS Cloud, and PowerBI.? Strong analytical and problem-solving skills.? Excellent communication and teamwork abilities.? Ability to manage multiple projects and meet deadlines in a fast-paced environment.",
+        "source": "Email",
+        "date_posted": "2024-10-03 12:03:05-05:00",
+        "unique_id": "192537a045735081",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

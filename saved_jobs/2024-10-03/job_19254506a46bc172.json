@@ -1,0 +1,89 @@
+[
+    {
+        "company": "United Software Group",
+        "job_title": "Java Backend Developer",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaEE",
+                "RESTful Web Services",
+                "Spring Framework",
+                "Hibernate"
+            ],
+            "primary": [
+                "Git",
+                "JSP",
+                "JSTL",
+                "Thymeleaf",
+                "Eclipse",
+                "Maven",
+                "Oracle",
+                "MySQL",
+                "MongoDB"
+            ],
+            "secondary": [
+                "Agile",
+                "SDLC",
+                "Coding best practices",
+                "Problem-solving",
+                "Communication skills",
+                "Interpersonal skills"
+            ],
+            "all": [
+                "Java",
+                "JavaEE",
+                "RESTful Web Services",
+                "Spring Framework",
+                "Hibernate",
+                "Git",
+                "JSP",
+                "JSTL",
+                "Thymeleaf",
+                "Eclipse",
+                "Maven",
+                "Oracle",
+                "MySQL",
+                "MongoDB",
+                "Agile",
+                "SDLC",
+                "Coding best practices",
+                "Problem-solving",
+                "Communication skills",
+                "Interpersonal skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anurag Singh",
+        "email": "anuragsingh@usgrpinc.com",
+        "jd": "Hello, This is Anurag from United Software Group. Hope you\u2019re doing good.I was trying to reach you for the roles of Java Backend Developer || Pittsburgh, PA ( Onsite Only ) || Contract Position Please have a look at the job, you may reply to this e-mail or call me directly to get in touch with me. Role: Java Backend DeveloperLocation: Pittsburgh, PA ( Onsite Only )Duration: 6-12 months Contract Position Note: Looking local candidates who can take the face to face (In person) interview .Description:Job Requirement:Proven Experience as a backend developer.Expertise with RESTful Web ServicesExpertise with Git version controlAbility to solve the day-to-day coding challenge and understand the best coding practices.Strong hands-on experience in coding on technologies like Java, JavaEE, JSP/JSTL/Thymeleaf, Spring Framework Hibernate or any similar frameworks.Good understanding of estimation techniques, SDLC, Development methodologies (Agile is an advantage), and industry standard processes.Should have experience in tools like Eclipse, Maven, Version control tools (GIT) etc.Very good understanding of databases core concepts and hands on with Oracle, MySQL, MongoDBIdentify problems and make recommendations on how to overcome any issue.Develop standardized procedures for common conversion routines to increase efficiencies.Should have good communication skills and interpersonal skills.Job Responsibilities:Responsible for the design, development and support of User Interfaces for IT application and data systems.Develop new user-facing features.Build reusable code and libraries for future use.Ensure the technical feasibility of designs.Optimize application for maximum speed and scalability.Assure that all user input is validated before submitting to back-end.Participate in prototyping of potential solutions.Plan and conduct unit and integration tests to meet IT's unit test coverage goals, monitors test results.Implement coding assignments within estimates.Collaborate effectively with members of development team who are located onsite, offsite, and offshore.",
+        "source": "Email",
+        "date_posted": "2024-10-03 16:37:41-05:00",
+        "unique_id": "19254506a46bc172",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "company": "TEK INSPIRATIONS",
+        "job_title": "SQL DBA",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server DBA",
+                "AWS",
+                "Database administrator certifications"
+            ],
+            "primary": [
+                "System engineer",
+                "High availability",
+                "Realtime replication",
+                "Troubleshooting SQL Server issues",
+                "SQL Server migration"
+            ],
+            "secondary": [
+                "DAG setup",
+                "Index reorganization",
+                "Fragmentation",
+                "System logs issues",
+                "Replication delays",
+                "Ghost records"
+            ],
+            "all": [
+                "SQL Server DBA",
+                "AWS",
+                "Database administrator certifications",
+                "System engineer",
+                "High availability",
+                "Realtime replication",
+                "Troubleshooting SQL Server issues",
+                "SQL Server migration",
+                "DAG setup",
+                "Index reorganization",
+                "Fragmentation",
+                "System logs issues",
+                "Replication delays",
+                "Ghost records"
+            ],
+            "with_experience": [
+                "SQL Server DBA",
+                "AWS",
+                "Database administrator certifications"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arudhi Singh",
+        "email": "arulhi.singh@tekinspirations.com",
+        "jd": "From: ARUDHI SINGH, TEK INSPIRATIONS arudhi.singh@tekinspirations.com Reply to: arudhi.singh@tekinspirations.com Hi,Hope you are doing great!!!Job Description -***Kindly submit strong candidate for this role who has exceptional communication skills.*** Job Title: SQL DBALocation: New York, NYContract: 6 Month LinkedIn and Local Candidate is Mandatory Need DL and Visa Copy F&B SQL DBAJob Description:1. SQL server DBA who has experience of handling sql server on AWS2. Database administrator certifications from Microsoft or a reputed organization3. Hands on System engineer who can manage extra large databases with high availability, Realtime replication from OLTP and OLAP using distributed database4. Ability to troubleshoot sql server issues not limited but covering system locks, fragmentation, index reorganization and rebuild, system logs issues, replication delays, ghost records5. Experience in handling swl server migration from on Prem to AWS and from old SQL server version to new SQL server version. Expert in DAG setup and troubleshooting of DAG related issues. Regards,Arudhi Singh",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:25:30-05:00",
+        "unique_id": "1925935752bf38e8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

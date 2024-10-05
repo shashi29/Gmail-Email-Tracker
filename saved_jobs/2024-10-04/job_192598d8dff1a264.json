@@ -1,0 +1,114 @@
+[
+    {
+        "company": "Jupiter Technologies",
+        "job_title": "Middleware Java Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "6-7 years",
+            "degree_required": "B.S. degree in Computer Science, Computer Engineering, Information Assurance, or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 8",
+                "J2EE",
+                "Spring framework",
+                "RESTful APIs",
+                "Microservices"
+            ],
+            "primary": [
+                "Cloud-native development",
+                "JBoss",
+                "WebSphere",
+                "Tomcat",
+                "XML",
+                "JSON",
+                "Application security",
+                "Penetration testing",
+                "DevSecOps",
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "secondary": [
+                "Burp Suite",
+                "GitLab",
+                "GitHub",
+                "SonarQube",
+                "Jenkins",
+                "Selenium",
+                "Ansible",
+                "Docker",
+                "Kubernetes",
+                "OWASP Top 10",
+                "HP Fortify",
+                "IBM Rational",
+                "Veracode",
+                "FindBugs",
+                "Brakeman",
+                "Sonatype CLM"
+            ],
+            "all": [
+                "Java 8",
+                "J2EE",
+                "Spring framework",
+                "RESTful APIs",
+                "Microservices",
+                "Cloud-native development",
+                "JBoss",
+                "WebSphere",
+                "Tomcat",
+                "XML",
+                "JSON",
+                "Application security",
+                "Penetration testing",
+                "DevSecOps",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Burp Suite",
+                "GitLab",
+                "GitHub",
+                "SonarQube",
+                "Jenkins",
+                "Selenium",
+                "Ansible",
+                "Docker",
+                "Kubernetes",
+                "OWASP Top 10",
+                "HP Fortify",
+                "IBM Rational",
+                "Veracode",
+                "FindBugs",
+                "Brakeman",
+                "Sonatype CLM"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Agasthya",
+        "email": "agasthya@jupitertechnologies.net",
+        "jd": "From: Agasthya, Jupitertechnologies agasthya@jupitertechnologies.net Reply to: agasthya@jupitertechnologies.net 1.Role: Middleware Java DeveloperLocation: Atlanta, GA 30354 (Hybrid)Duration: 12+ Months Contract (C2C) Specific Qualifications\u2022 Experienced in full-stack Cloud-native development, RESTful APIs, and stateless microservices architectures\u2022 At least 6-7 years of experience with Java 8/J2EE and the Spring framework\u2022 Experience with JBoss, WebSphere, and Tomcat application servers\u2022 Experience in designing and implementing RESTful services using XML/JSON Qualifications:This position will contribute technical expertise to design and develop business, application, data, and infrastructure solutions, seek opportunities to optimize performance, maintain and troubleshoot application components as required, quickly resolve problems and provide timely follow-up. This development role will be responsible for developing and implementing Java/J2EE applications and converting SOA service with APIs/Microservices.Please forword your resumes to agasthya@jupitertechnologies.net 2. Role: Sr. Application & Cloud Container Security EngineerLocation: Atlanta, GA 30354 (Hybrid)Duration: 12+ Months Contract (C2C) Qualifications:Sr. Application & Cloud Container Security Engineer:Do you enjoy solving advanced technical problems, and working with best-in-class security tools? Yearn for the opportunity to build a world class application security testing organization? Enjoy building and maintaining successful relationships through direct interaction with peers, managers, and other technical teams? Partnering with management to build a collaborative working environment while promoting high standards, exercising good judgment and professionalism? If you do, then its sounds like you are just the person we are looking for to join our Information Security Team at Delta Air Lines.The successful candidate can comprehend all aspects of Cybersecurity and apply technical application security testing expertise to assist in identifying application vulnerabilities. As an analyst your responsibilities will include application security assessments, code reviews, container security, and manual API testing using tools like Burp Suite. Experience implementing, deploying, and providing support for custom AWS Config Rules, CFN Hooks and CFN Guard Rules. Comfortable building and supporting applications in the Cloud (AWS, Azure, GCP). Competence engineering software within an Amazon Web Services (AWS) cloud infrastructure. Experience integrating Open-source controls and tools into current enterprise architecture. Have experience reviewing Open-source components to making recommendations to configuration or environmental changes that increase security or reduce risk. Required\u00b7 B.S. degree in Computer Science, Computer Engineering, Information Assurance, or related field\u00b7 Minimum 5+ years of professional experience in application security, penetration testing, security assessment, secure software development or related field\u00b7 Hands-on experience working with Cloud and/or DevSecOps related technologies\u00b7 Excellent understanding of DevSecOps techniques and processes, guide integration of various tools in DevSecOps processes (GitLab/GitHub, SonarQube, Jenkins, Selenium, Ansible, Docker, Kubernetes, and containerization).\u00b7 Should be well versed with the AWS well architected framework or TOGAF and able to apply those principles while designing a solution\u00b7 Experience building and supporting applications in the Cloud (AWS, Azure, GCP)\u00b7 Experience engineering software within an Amazon Web Services (AWS) cloud infrastructure\u00b7 Troubleshoot and resolve problems with existing cloud controls\u00b7 Extensive knowledge of the OWASP Top 10\u00b7 Experience with vulnerability risk and impact assessment\u00b7 Experience integrating security capabilities in cloud and application lifecycle management platforms especially in a DevOps model\u00b7 Extensive knowledge with static analysis tools and flaw triage such as HP Fortify, IBM Rational, Veracode or Coverity, FindBugs, FindSecurityBugs, Brakeman and Open-Source scanning tools such as Sonatype CLM\u00b7 Excellent written and verbal communication skills\u00b7 Strong sense of urgency and ownership Preferred\u00b7 Extensive experience in application security and ethical hacking\u00b7 Extensive experience exploiting web, mobile and application security vulnerabilities\u00b7 Extensive experience in software development\u00b7 Extensive experience integrating secure coding techniques with product teams\u00b7 Professional certifications such AWS practitioner, cloud security certification for AWS, and CISSP Responsibilities:Key Responsibilities:\u00b7 Conduct Static Application Security Test (SAST), Dynamic Application Security Test (DAST) and Source Code Analysis (SCA) using VeraCode\u00b7 Correlate findings from tools such as VeraCode Source Code Agent to identify presence of vulnerable methods in code\u00b7 Research open-source community contributors and NIST NVD to understand residual risk and recommend course of action\u00b7 Determine how frequently and quickly fixes should be delivered for open-source findings\u00b7 Review SCA reports to track new and changes to SCA components in the environment\u00b7 Experience working with tools such as Sonatype nexus firewall and lifecycle to track and block risk 3rd- party components\u00b7 Work within the DevSecOps model to secure Containers, withing ROSA, Tekton and OpenShift pipelines\u00b7 Design, develop, plan, implement, and maintain Cloud DevSecOps processes across multiple technical organizations, instantiating security testing for internally developed systems, applications, and infrastructure against business requirements.\u00b7 Guide development teams in integrating new services and applications into the CI/CD pipeline, troubleshoot installations and build automated deployments of products into a high-security architecture.\u00b7 knowledge of CI/CD orchestration tools such as Jenkins, Tekton, GitLab, or Bamboo.\u00b7 Provide operational support for container security tools (Palo Alto Prisma, Aqua, Wiz or equivalent)\u00b7 Perform Baseline Image validation of new container template images.\u00b7 Evaluate scan results for container runtime environments to reduce security risk\u00b7 Troubleshoot any connectivity or operational issues for clusters evaluated in the Prisma tool.\u00b7 Apply software development skills (e.g., Java, C#.NET, JavaScript) to recommend and apply secure coding practices\u00b7 Validate and address vulnerability/threat findings from static and dynamic analysis tools\u00b7 Characterizes threats and provides recommendations for remediation; manages remediation efforts to completion\u00b7 Develops and presents finding and remediation reports to audiences including team members from all department areas and levels of the company\u00b7 Perform security reviews of software designs and assist developers to ensure quality and robustness of our internal products\u00b7 Conduct security assessments against web applications and APIs across a variety of technology stacks\u00b7 Ensure adequate security requirements and privacy by design are built into all architecture/infrastructure/projects\u00b7 Integratingthreatmodelingpracticesintotheapplication testing lifecycle\u00b7 Impart application security and ethical hacking subject matter expertise into team processes\u00b7 Drive improvements in the security testing practice to include execution methodology and metrics\u00b7 Drive awareness and knowledge of security in the developer community\u00b7 Continually improve proficiency in application and API exploitation, tools, techniques, and countermeasuresPlease forword your resumes to agasthya@jupitertechnologies.net",
+        "source": "Email",
+        "date_posted": "2024-10-04 17:01:43-05:00",
+        "unique_id": "192598d8dff1a264",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

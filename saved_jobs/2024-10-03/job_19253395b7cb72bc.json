@@ -1,0 +1,106 @@
+[
+    {
+        "company": "Nitya software solution",
+        "job_title": "Java Technical Lead",
+        "location": "Southlake, TX, USA",
+        "full_location": {
+            "city": "Southlake",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java Programming",
+                "Spring Boot",
+                "Kafka",
+                "Rabbit MQ",
+                "Rest API",
+                "Mongo DB"
+            ],
+            "primary": [
+                "Micro Services",
+                "Bulk/Batch Processing",
+                "Spring Batch",
+                "Spring Data Flow",
+                "Spring JMS",
+                "DB Integration",
+                "Unit Testing",
+                "BDD Framework",
+                "Relational Databases",
+                "CI/CD Technologies"
+            ],
+            "secondary": [
+                "NoSQL Databases",
+                "DB2",
+                "Postgres",
+                "SQL Server",
+                "AppDynamics",
+                "Splunk",
+                "Cloud Experience",
+                "AWS",
+                "GCP",
+                "PCF",
+                "Gradle",
+                "GitHub",
+                "Harness"
+            ],
+            "all": [
+                "Java Programming",
+                "Spring Boot",
+                "Kafka",
+                "Rabbit MQ",
+                "Rest API",
+                "Mongo DB",
+                "Micro Services",
+                "Bulk/Batch Processing",
+                "Spring Batch",
+                "Spring Data Flow",
+                "Spring JMS",
+                "DB Integration",
+                "Unit Testing",
+                "BDD Framework",
+                "Relational Databases",
+                "CI/CD Technologies",
+                "NoSQL Databases",
+                "DB2",
+                "Postgres",
+                "SQL Server",
+                "AppDynamics",
+                "Splunk",
+                "Cloud Experience",
+                "AWS",
+                "GCP",
+                "PCF",
+                "Gradle",
+                "GitHub",
+                "Harness"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nitya",
+        "email": "ryan@nityainc.com",
+        "jd": "From: Nitya, Nitya software solution ryan@nityainc.com Reply to: ryan@nityainc.com Role: Java Technical LeadLocation: Southlake TX (100% Onsite from Day 1) \u2013 No flexibility. Mandatory Skills: Spring Boot, Kafka, Rabbit MQ, Rest API, Mongo DB, bulk/batch processingMandatory Skills: Java Programing / Advanced Java SpringBoot, Micro ServicesKafka, MQ / Rabbit MQ / IBM MQMessaging Framework, Middleware ExperienceRestful WebserviceNo SQL Databases / MongoDB / DynamoDB / Cassandra Job Description:Strong base in Java, SpringBoot framework essential for this roleShould have knowledge on spring batch, spring data flow or spring JMS frameworks.Lead candidate needs to be able to articulate Java Optimization, DB Integration, and be hands on.Knowledge on Distributed databases like MongoDB or other NoSQL database is a plus.Need to be able to write and guide the team to write effective unit tests using which uses Junit, WireMock and Mockito frameworkNeed to have knowledge on BDD framework and should be able to guide the team to write effective bdd tests.Experience with relational databases like DB2, Postgres or SQL Server. Knowledge of Postgres will be considered plus, but should have experience with relational databaseNeeds strong Kafka skills, and be able to explain how they handle sequencing etc.Knowledge of AppDynamics, Splunk, Rabbit MQ, IBM MQCloud Experience \u2013 Production readiness for Cloud, Twelve Factor App methodology, Migrating messaging platform to Cloud. Should have experience deploying and maintaining applications in any cloud provider (AWS, GCP or PCF)Good Knowledge of CI/CD technologies (e.g. Jenkins, Git, Maven, etc.). Knowledge on Gradle, GitHub, Harness is a plus since Schwab is using this now.Lead should be proactive, able to articulate reasoning behind selection of tools, explain the strategy behind the code and exhibit attention to detail.Need someone with the right attitude to take ownership and accountability for team\u2019s deliverablesGood communication with expertise in all most of the above areas, someone who will be able to lead the offshore team to deliver quality.",
+        "source": "Email",
+        "date_posted": "2024-10-03 11:26:24-05:00",
+        "unique_id": "19253395b7cb72bc",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

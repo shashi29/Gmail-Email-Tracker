@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Themesoft Inc",
+        "job_title": "Senior Developer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "AWS"
+            ],
+            "primary": [
+                "Microservices"
+            ],
+            "secondary": [
+                "Agile",
+                "SQL",
+                "Angular",
+                "Java 8",
+                "J2EE",
+                "Collaboration",
+                "Communication",
+                "POC"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "AWS",
+                "Agile",
+                "SQL",
+                "Angular",
+                "Java 8",
+                "J2EE",
+                "Collaboration",
+                "Communication",
+                "POC"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "John Richardson",
+        "email": "john@themesoft.com",
+        "jd": "Job Description: Job title: Senior Developer Location: McLean, VA (hybrid) Job Requirements: \u2022 8+ years of Core Java development experience, familiar with Java 8 or higher. \u2022 Able to deliver end to end project. \u2022 Experience with java development and aware of java patterns. \u2022 Experience in Spring Boot uses for development. \u2022 Experience of development project and developed functionalities using java, j2ee. \u2022 Must have AWS experience.. Must have angular experince \u2022 AWS services (S3, SQS, SNS,ECS, Lambda, AWS Cloud watch etc.) \u2022 Experience on AWS deployed application. \u2022 Experience on Oracle or Postgres or DynamoDB to perform SQL. \u2022 Agile/scrum development experience. \u2022 Good collaboration and communication skills. \u2022 Ready to learn new technologies and perform POC on it. \u2022 Ability to diagnose prod issues and defects. Skills required: Java, Spring boot, Microservices and AWS",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:28:56-05:00",
+        "unique_id": "1925413135e8c511",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

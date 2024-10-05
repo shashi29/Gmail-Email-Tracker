@@ -1,0 +1,68 @@
+[
+    {
+        "company": "istaffx",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Tableau",
+                "SQL"
+            ],
+            "primary": [
+                "Data validation",
+                "Data pipelines",
+                "Data analysis"
+            ],
+            "secondary": [
+                "Machine learning",
+                "Supply chain",
+                "Retail"
+            ],
+            "all": [
+                "Python",
+                "Tableau",
+                "SQL",
+                "Data validation",
+                "Data pipelines",
+                "Data analysis",
+                "Machine learning",
+                "Supply chain",
+                "Retail"
+            ],
+            "with_experience": [
+                "Python",
+                "Tableau",
+                "SQL"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "vicky",
+        "email": "vicky@istaffx.com",
+        "jd": "From: vicky, istaffx vicky@istaffx.com Reply to: vicky@istaffx.com What the right candidate will have:Experience with PythonCreating dashboards from scratch in TableauSQL querying experienceExperience working in supply chain or retail Bachelor's Degree Responsibilities of the right candidate:Building out data pipelines with Python for machine learning purposesCreating dashboards from scratch within Tableau. Heavy SQL. Building complex queries to drive action by other teams. Potentially a little bit of data science as we think through complexity action to be taken. Strong data validation and efficiency to ensure what we build is not dragging our slot utilization. Collect data from various sources, including databases, data warehouses, external datasets, and surveys.Ensure data quality by identifying and rectifying errors, inconsistencies, and missing values.Organize and maintain data in a structured manner, often using databases or data warehouses.Present findings to stakeholders through reports, presentations, and meetings.Provide actionable insights and recommendations based on data analysis to inform decision-making.",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:15:28-05:00",
+        "unique_id": "192544235d1285d1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Yochana IT Solutions",
+        "job_title": "Senior AWS Cloud Developer",
+        "location": "Northridge, CA, USA",
+        "full_location": {
+            "city": "Northridge",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "AWS services"
+            ],
+            "primary": [
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Data integration",
+                "Data transformation",
+                "Data processing techniques",
+                "Data storage",
+                "Data retrieval"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "AWS Lambda",
+                "AWS services",
+                "API Gateway",
+                "Athena",
+                "Glue",
+                "S3",
+                "Kafka",
+                "CI/CD",
+                "Data integration",
+                "Data transformation",
+                "Data processing techniques",
+                "Data storage",
+                "Data retrieval"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Farook Shaik",
+        "email": "farook@yochana.com",
+        "jd": "From: Farook, Yochana farook@yochana.com Reply to: farook@yochana.com Role Title: Senior AWS Cloud DeveloperLocation: Northridge, California (Onsite)Hiring Mode: Contract Interview Process:Round, 30 minutes \u2013 VirtualRound, 50 Minutes- VirtualRound, In-Person- in Northridge, California. Job Description:At Least Having 12+ Years of Experience.Proficiency in Java or Python, with a strong background in developing cloud-native applications.Experience with server less architectures, specifically AWS Lambda, and familiarity with other AWS services such as API Gateway, Athena, Glue and S3.Extensive experience with AWS cloud development and managing cloud-native components.How Data is Transferred in AWS during Real-Time.Working experience on queues, Kafka.Hand on experience in Real Time Data Processing with AWS servicesStrong understanding of data integration, transformation, and processing techniques.Solid grasp of CI/CD practices and tools relevant to data engineering.In-depth understanding of data storage and retrieval mechanisms using AWS services.",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:44:37-05:00",
+        "unique_id": "192586b3e3fe917f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Adobe",
+        "job_title": "Certified Databricks Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Four month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks Certification",
+                "Spark",
+                "performance tuning",
+                "data ingestion",
+                "large scale data warehouse"
+            ],
+            "primary": [
+                "Apache Spark",
+                "data architecture",
+                "Python",
+                "Scala",
+                "SQL query optimization"
+            ],
+            "secondary": [
+                "AWS",
+                "Azure",
+                "GCP",
+                "Parquet",
+                "ORC"
+            ],
+            "all": [
+                "Databricks Certification",
+                "Spark",
+                "performance tuning",
+                "data ingestion",
+                "large scale data warehouse",
+                "Apache Spark",
+                "data architecture",
+                "Python",
+                "Scala",
+                "SQL query optimization",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Parquet",
+                "ORC"
+            ],
+            "with_experience": [
+                "Apache Spark (Expert-Level)",
+                "Databricks (Deep familiarity)",
+                "data architecture (Strong expertise)",
+                "Python (Proficient)",
+                "Scala (Proficient)",
+                "SQL query optimization (Expertise)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "GUNJAN, PINAKA STAFFING",
+        "email": "gunjan@pinakastaffing.com",
+        "jd": "From: GUNJAN, PINAKA STAFFING gunjan@pinakastaffing.com Reply to: gunjan@pinakastaffing.com Client: AdobeLocation: Remote (Pacific Time)Duration: Four month contractC2CRequirements: Background Check (Candidates must have LinkedIn profile with picture or be able to share Photo ID with submittal) Title: Certified Databricks Data EngineerKey Skills: Databricks Certification, Spark, performance tuning, data ingestion, large scale data warehouse (20TB or above). Job Description: We are seeking an exceptional Senior Data Engineer specializing in Databricks and Apache Spark with a strong focus on performance optimization and data architecture. The ideal candidate will possess deep technical expertise in tuning and optimizing large-scale data processing systems, with a robust understanding of data architecture principles that enhance performance. This role is critical to our data infrastructure, ensuring our pipelines are efficient, scalable, and reliable. Key Responsibilities: \u2022 Performance Optimization and Tuning: \u2022 Lead efforts in optimizing Spark job performance, including tuning memory management, resource allocation, and execution plans to achieve the highest efficiency and throughput. \u2022 Analyze performance metrics and logs to identify areas for improvement and implement best practices for Spark optimization. \u2022 Develop and implement advanced partitioning, caching strategies, and data layout optimizations to minimize processing time and cost. \u2022 Advanced Pipeline Development and Data Architecture: \u2022 Architect, develop, and optimize complex data pipelines and ETL workflows using Databricks and Spark, ensuring they are highly performant, scalable, and reliable. \u2022 Design and implement data architectures that support high performance, including choosing appropriate data storage formats, indexing strategies, and data partitioning schemes. \u2022 Collaborate on the design and implementation of data models that support efficient querying and data retrieval. \u2022 Technical Leadership in Performance Engineering: \u2022 Serve as the go-to expert on Spark performance optimization, guiding the team in adopting advanced techniques and tools for performance improvement. \u2022 Provide mentorship and training on performance tuning, data architecture, and best practices in Spark and Databricks to the engineering team. \u2022 Performance Monitoring and Troubleshooting: \u2022 Set up and maintain comprehensive monitoring and alerting systems for Spark applications to proactively detect performance issues. \u2022 Diagnose and resolve complex performance problems, implementing preventive measures to avoid recurrence. \u2022 Collaboration and Stakeholder Engagement: \u2022 Collaborate closely with data scientists, data analysts, and other engineering teams to understand performance requirements and ensure optimal data processing capabilities. \u2022 Communicate complex performance findings and recommendations effectively to technical and non-technical stakeholders. Required Skills and Experience: Expert-Level Knowledge in Apache Spark Performance: \u2022 Extensive experience with Spark internals, including in-depth understanding of the Catalyst optimizer, Tungsten execution engine, and Spark SQL query execution. \u2022 Proven track record of optimizing Spark job performance in production environments, particularly in reducing latency and improving resource efficiency. Databricks Expertise: \u2022 Deep familiarity with Databricks architecture, cluster management, and advanced configuration settings that affect performance. \u2022 Experience with optimizing Databricks notebooks and workflows, leveraging the platform\u2019s features for performance gains. Data Architecture Skills: \u2022 Strong expertise in data architecture, including designing data models, data flows, and data storage solutions that optimize performance. \u2022 Knowledge of best practices in data management, including data partitioning, indexing, and the use of data lakes or data warehouses. Strong Programming and Optimization Skills: \u2022 Proficient in Python and/or Scala for Spark development, with a strong emphasis on writing efficient, high-performance code. \u2022 Expertise in SQL query optimization and tuning. Comprehensive Knowledge of Big Data Ecosystem: \u2022 Familiarity with data storage formats (e.g., Parquet, ORC), distributed computing principles, and cloud infrastructure services (AWS, Azure, GCP). \u2022 Innovative Problem-Solving: \u2022 Ability to creatively address and solve performance issues, leveraging deep technical knowledge and innovative approaches. Preferred Qualifications:Certifications and Professional Recognition \u2022 Databricks Certified Professional Data Engineer or equivalent certifications focused on performance and optimization. \u2022 Contributions to the community through blogs, talks, or publications on Spark performance and data architecture topics. Experience with Performance Benchmarks and Load Testing \u2022 Experience in designing and conducting performance benchmarks and load tests to validate and verify system performance under various conditions.",
+        "source": "Email",
+        "date_posted": "2024-10-03 17:53:01-05:00",
+        "unique_id": "19254955f45fcf20",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

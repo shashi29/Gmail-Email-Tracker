@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Tanisha Systems Inc",
+        "job_title": "Java with API Development, Docker, Kubernetes & OpenShift",
+        "location": "Berkeley Heights, NJ, USA",
+        "full_location": {
+            "city": "Berkeley Heights",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Junit",
+                "Spring Data JPA",
+                "Kafka"
+            ],
+            "primary": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "API Development",
+                "Database Authentication/Authorization",
+                "Design pattern (Circuit Breaker and many others)"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Junit",
+                "Spring Data JPA",
+                "Kafka",
+                "Docker",
+                "Kubernetes",
+                "API Development",
+                "Database Authentication/Authorization",
+                "Design pattern (Circuit Breaker and many others)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rishav Verma",
+        "email": "rishav.verma@tanishasystems.com",
+        "jd": "From: Rishav Verma, Tanisha Systems Inc rishav.verma@tanishasystems.com Reply to: rishav.verma@tanishasystems.com Need 12+ Years of Exp and Locals OnlyFace to Face Interview mandatoryJob Type :: Fulltime/ContractJob Title:- Java with API Development, Docker, Kubernetes & OpenShiftJob Location:- Berkeley Heights, NJ (5 Days Onsite \u2013 No Remote)Job Description:Mandatory Skill Set : Java coding Spring Boot/Security Junit Spring Data JPA Database Authentication/Authorization Design pattern (Circuit Breaker and many others) Kafka Docker/KubernetesThanks & Regards Rishav VermaSr. Technical RecruiterTanisha Systems Inc.[99 Wood Ave South Suite # 308, Iselin, NJ 08830]Office Number: 732-490-4608 | Ext: 429Email: rishav.verma@tanishasystems.comLinkedIn: https://www.linkedin.com/in/rishav-verma-93783b172/Web: www.tanishasystems.com",
+        "source": "Email",
+        "date_posted": "2024-10-04 13:09:17-05:00",
+        "unique_id": "19258b8c3761ce4a",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

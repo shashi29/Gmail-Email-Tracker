@@ -1,0 +1,53 @@
+[
+    {
+        "company": "Allied Business Consulting",
+        "job_title": "Java Lead",
+        "location": "New Jersey, NJ, USA",
+        "full_location": {
+            "city": "New Jersey",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1 year contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "API",
+                "Angular"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "API",
+                "Angular"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Alka",
+        "email": "alka@abcinc-us.com",
+        "jd": "From: alka, Allied Business Consulting alka@abcinc-us.com Reply to: alka@abcinc-us.com We need java lead with api and angular hybrid mode at NJ for c2c 1 year plus contract",
+        "source": "Email",
+        "date_posted": "2024-10-03 12:29:35-05:00",
+        "unique_id": "1925372d6544155c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

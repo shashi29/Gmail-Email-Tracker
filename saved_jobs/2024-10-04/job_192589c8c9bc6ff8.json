@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Apple",
+        "job_title": "Fullstack Developer",
+        "location": "Culver City, CA, USA",
+        "full_location": {
+            "city": "Culver City",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "11+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "DevOps",
+                "Fullstack Development"
+            ],
+            "primary": [
+                "Terraform",
+                "Automation"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Python",
+                "DevOps",
+                "Fullstack Development",
+                "Terraform",
+                "Automation"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Praveen Kumar",
+        "email": "praveen.kumar@mcubesoft.com",
+        "jd": "Need Ex-apple Or Local Role : Fullstack Developer Location : Culver City, CA - We need someone onsite 3 days Client \u2013 Apple Experience- 11+ year Requirement: Need someone from development backgroundIdeally a full stack engineer with Devops backgroundSomeone who has developed, deployed. They are moving to automationJava/Python -either is fineTerraform is fine too",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:38:28-05:00",
+        "unique_id": "192589c8c9bc6ff8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

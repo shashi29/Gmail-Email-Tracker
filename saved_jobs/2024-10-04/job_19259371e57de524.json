@@ -1,0 +1,74 @@
+[
+    {
+        "company": "VDart",
+        "job_title": "Senior Azure Cloud Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract Opportunity",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Infrastructure as a Service (IaaS)",
+                "Azure Platform as a Service (PaaS)",
+                "Azure Storage",
+                "Azure SQL",
+                "Azure Networking"
+            ],
+            "primary": [
+                "Identity and Access Management",
+                "Azure AD",
+                "PowerShell scripting"
+            ],
+            "secondary": [
+                "Cloud migrations",
+                "Technical implementation roadmaps",
+                "Monitoring",
+                "Scaling",
+                "Disaster Recovery (DR) scenarios"
+            ],
+            "all": [
+                "Azure Infrastructure as a Service (IaaS)",
+                "Azure Platform as a Service (PaaS)",
+                "Azure Storage",
+                "Azure SQL",
+                "Azure Networking",
+                "Identity and Access Management",
+                "Azure AD",
+                "PowerShell scripting",
+                "Cloud migrations",
+                "Technical implementation roadmaps",
+                "Monitoring",
+                "Scaling",
+                "Disaster Recovery (DR) scenarios"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Arunkumar",
+        "email": "arunkumar.g@vdartinc.com",
+        "jd": "From: VDart, VDart arunkumar.g@vdartinc.com Reply to: arunkumar.g@vdartinc.com Role: Senior Cloud EngineerLocation: Dallas, TX (Hybrid)Duration: Contract OpportunityDescriptionSenior Cloud Engineer with 10+ of experience The Cloud Engineer will work closely with all areas of IT to assist in the architecture, design, build, operation, security, and monitoring of EDH\u2019s cloud infrastructure within Microsoft Azure. In this role, the engineer will use holistic thinking and architectural aptitude to drive proper requirements gathering, analysis, design, and implementation of solutions in both Azure Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) offerings. This person will also be responsible for generating documentation as needed; conforming to cloud security and architectural quality standards; and staying current on emerging trends. The person will work very closely with Software, Data and Security teams of the Technology group. For a successful candidate for this position, you must have experience in architecting/deploying Azure environments with considerations to optimized cost and capacity, monitoring, scaling, DR scenarios, and Azure security.Have experience with Azure Storage, Azure SQL, Azure Cloud Services, Azure Web App, basic Azure Networking technologies.Have good understanding of Identity and Access Management products such as Azure AD, ADFS, Azure AD Connect, Conditional Access, Azure AD Proxy, SAMLBe able to provide recommendations with respect to cloud migrations and prepare technical implementation roadmaps for optimizations, upgrades, and enhancementsPossess PowerShell scripting experience Responsibilities and DutiesContribute to the strategy for establishing a secure and well-managed enterprise environment in Azure.Configure and manage EDH\u2019s Virtual Networks in Azure, establish our core services in the VNET, enable Azure to serve as a part of EDH\u2019s network.Design and implement network connectivity to Azure (e.g., VPN, Express Route, DNS, IP allocation and traffic routing, NSG\u2019s and Azure Firewall, etc.)Integrate, configure, deploy, and manage cloud services which may include: IAM, networking, monitoring, operating systems, VMs, App Services, DBaaS, Containers, etc.Administrate Windows Servers, automating deployments, patching, and scriptingUtilize native Azure services to meet the firm\u2019s technology and resiliency requirements. Define and implement the configuration of Azure PAAS and IAAS services for high availability data redundancy, data loss prevention, site recovery, and resilience.",
+        "source": "Email",
+        "date_posted": "2024-10-04 13:23:33-05:00",
+        "unique_id": "19259371e57de524",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

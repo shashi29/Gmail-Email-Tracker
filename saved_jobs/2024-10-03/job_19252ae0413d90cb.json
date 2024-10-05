@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Core Alliance Group Inc",
+        "job_title": "Data Tech",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spark",
+                "Ab Initio"
+            ],
+            "primary": [
+                "AWS Blue/Green Deployment"
+            ],
+            "secondary": [
+                "Terraform"
+            ],
+            "all": [
+                "Spark",
+                "Ab Initio",
+                "AWS Blue/Green Deployment",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Fizal Abdul",
+        "email": "fizal.a@cagus.com",
+        "jd": "From: Fizal, CAGUS fizal.a@cagus.com Reply to: fizal.a@cagus.com Role: Data Tech Location: TX,NY,NJ,DE and OH (any of this Location)Skills : Spark & Ab Initio (AWS Blue/Green Deployment)Job Description:Develop/upgrade spark Infrastructure scripts (EAC) for blue/green deployment on AWS Dev environment.Develop/Upgrade Jules pipeline to deploy Spark job.Execute jules pipeline and deploy spark job to AWS Dev environment.Execute BLUE / GREEN deployment pipeline using Jules for Spark job.Develop/upgrade AbInitio Infrastructure scripts (EAC) on AWS Dev environment for blue / green deployment.Develop/Upgrade Jules pipeline to deploy AbInitio scripts.Execute jules pipeline and deploy AbInitio scripts to AWS Dev environment.Execute BLUE / GREEN deployment pipeline using for AbInitio scripts.Nice to have Terraform. Thanks & RegardsFizal Abdul | Senior Technical RecruiterCore Alliance Group IncE: Fizal.a@cagus.com",
+        "source": "Email",
+        "date_posted": "2024-10-03 08:53:19-05:00",
+        "unique_id": "19252ae0413d90cb",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

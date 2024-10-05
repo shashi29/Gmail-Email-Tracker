@@ -1,0 +1,64 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": "Senior Fullstack Developer Angular + Java",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular",
+                "Java",
+                "Typescript",
+                "Oracle databases",
+                "Restful API"
+            ],
+            "primary": [
+                "Front-End Development",
+                "automated testing frameworks",
+                "version control tools",
+                "git"
+            ],
+            "secondary": [],
+            "all": [
+                "Angular",
+                "Java",
+                "Typescript",
+                "Oracle databases",
+                "Restful API",
+                "Front-End Development",
+                "automated testing frameworks",
+                "version control tools",
+                "git"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rajiv Kumar",
+        "email": "rajiv.kumar@testingxperts.com",
+        "jd": "From: Rajiv, testingxperts rajiv.kumar@testingxperts.com Reply to: rajiv.kumar@testingxperts.com Position \u2013 Senior Fullstack Developer Angular + JavaExperience: 8 + years# of positions: 2Location: Denver, CO \u2013 Day One Onsite Job Description: The ideal candidate will possess a strong proficiency in Angular, Typescript, and modern Front-End Development,As well as a solid understanding of Java, Oracle databasesRestful API integration. Experience with automated testing frameworks and version control tools such as git is also important , like GIT etc.",
+        "source": "Email",
+        "date_posted": "2024-10-04 16:26:14-05:00",
+        "unique_id": "19259b566c1c37e1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

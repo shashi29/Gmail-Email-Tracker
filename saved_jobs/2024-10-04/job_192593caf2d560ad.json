@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "Senior PostgreSQL Database Administrator",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science or equivalent is preferred",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PostgreSQL",
+                "RDBMS",
+                "NoSQL",
+                "AWS RDBMS RDS",
+                "SQL"
+            ],
+            "primary": [
+                "MongoDB",
+                "DynamoDB",
+                "Database Replay",
+                "Partitioning",
+                "Schema Management",
+                "Resiliency",
+                "Security",
+                "Performance tuning",
+                "Data migration",
+                "Data archiving"
+            ],
+            "secondary": [
+                "Snowflake",
+                "UNIX shell scripting",
+                "Perl",
+                "Python",
+                "Bash",
+                "Communication skills"
+            ],
+            "all": [
+                "PostgreSQL",
+                "RDBMS",
+                "NoSQL",
+                "AWS RDBMS RDS",
+                "SQL",
+                "MongoDB",
+                "DynamoDB",
+                "Database Replay",
+                "Partitioning",
+                "Schema Management",
+                "Resiliency",
+                "Security",
+                "Performance tuning",
+                "Data migration",
+                "Data archiving",
+                "Snowflake",
+                "UNIX shell scripting",
+                "Perl",
+                "Python",
+                "Bash",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "Job Description -Position: Senior PostgreSQL Database AdministratorLocation: (Hybrid) Must be Local to Greater Philadelphia area or in Dallas-Forth Worth Metroplex. Duration: 6+ Months MOI: SkypeVisa: GC and USC Must Have10+ years of DBA experience in RDMBS systems, Postgres required, Snowflake5+ years of experience in NoSQL such as MongoDB, DynamoDB. Skills Required:Ownership in installations, creation, management, monitoring, scaling and tuning RDMBS and NoSQL databases for various business units.Day to day management activities of production databases for online system operations including monitoring, troubleshooting, backup, restore, change management, and storage management.Responsible for Database Replay, Partitioning, Schema Management, Resiliency, Virtual columns, Making, and Security.Working knowledge in monitoring, optimization, configuration, troubleshooting, manage data replication, backups, partitioning, and storage management the database platforms.Run performance, management, and tuning tools.Participate in discussions and recommend new strategies for installation, upgrade, configuration, and patching of new and existing RDBMS and NoSQL platforms.Recommend new strategies and architectures for high availability, monitoring, database security, backup, and recovery for large scale databases.Strong knowledge with AWS RDBMS RDS platforms and EC2.Ability to participate in an on-call rotation to provide production support in a 24/7 environment.Comply with all company policies and procedures.Maintain regular and punctual attendance.Strong Experience in development of stored procedures, packages, triggers, SQL queries, reports, and scripts.Expertise in Database Replay, Partitioning, Schema Management, Caching and Pooling, Resiliency, Masking, and Security.Hands on experience with various performance and tuning tools such as ASH, AWR, STATSPACK, EXPLAINS PLAN, SQL TRACE, TKPROF and ADDM reports.Proficiency in troubleshooting, performance tuning and SQL optimization.Ability to diagnose problems and resolve issues across various tiers (application, database, network, server, and storage)Strong Experience with data migration, data archiving and data access techniques.Must be able to write SQL and UNIX shell scripts with formatting to serve as evidence for the change management process.Evaluate new database technologies and products and recommend to technical management.Scripting language skills such as Perl, Python, and Bash is a strong plus.Strong verbal/written communication and data presentation skills, including an ability to effectively communicate with both business and technical teams.",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:33:23-05:00",
+        "unique_id": "192593caf2d560ad",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

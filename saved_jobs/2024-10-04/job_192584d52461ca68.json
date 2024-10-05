@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Sr. Data DevOps Lead",
+        "location": "Stamford, CT, USA",
+        "full_location": {
+            "city": "Stamford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "data engineering",
+                "DevOps",
+                "cloud computing",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "scripting languages",
+                "data warehousing",
+                "data lake technologies",
+                "DevOps tools",
+                "cloud platforms"
+            ],
+            "secondary": [
+                "data orchestration tools",
+                "data modeling",
+                "data governance concepts",
+                "data visualization tools",
+                "certification in cloud platforms or DevOps practices"
+            ],
+            "all": [
+                "data engineering",
+                "DevOps",
+                "cloud computing",
+                "Python",
+                "SQL",
+                "scripting languages",
+                "data warehousing",
+                "data lake technologies",
+                "DevOps tools",
+                "cloud platforms",
+                "data orchestration tools",
+                "data modeling",
+                "data governance concepts",
+                "data visualization tools",
+                "certification in cloud platforms or DevOps practices"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Ayush Yadav",
+        "email": "ayush.yadav@scalable-systems.com",
+        "jd": "From: ayush, Scalable Systems ayush.yadav@scalable-systems.com Reply to: ayush.yadav@scalable-systems.com Job Description: Sr. Data DevOps LeadLocation: Stamford, CTAbout the Role:As a Data DevOps Lead, you will play a pivotal role in driving the efficient and scalable delivery of data solutions within our organization. You will be responsible for overseeing the entire data lifecycle, from development to deployment, ensuring the seamless integration of data pipelines and tools. Your expertise in DevOps practices and data engineering will be instrumental in optimizing our data infrastructure and enabling data-driven decision-making.Key Responsibilities:Data Pipeline Development: Design, build, and maintain robust data pipelines to extract, transform, and load (ETL) data from various sources into our data warehouse or data lake.DevOps Implementation: Implement and manage DevOps practices and tools to automate and streamline the data delivery process, including continuous integration, continuous delivery (CI/CD), and infrastructure as code (IaC).Cloud Infrastructure Management: Manage and optimize cloud-based data infrastructure (e.g., AWS, Azure, GCP) to ensure scalability, performance, and security.Data Quality Assurance: Establish and maintain data quality standards and processes to ensure data accuracy, consistency, and completeness.Team Leadership: Mentor and guide a team of data engineers and DevOps specialists, fostering a collaborative and innovative work environment.Collaboration: Work closely with data scientists, analysts, and business stakeholders to understand their data needs and translate them into technical requirements.Required Skills and Qualifications:Strong technical expertise in data engineering, DevOps, and cloud computing.Proficiency in programming languages like Python, SQL, and scripting languages (e.g., Bash, PowerShell).Experience with data warehousing and data lake technologies (e.g., Snowflake, Databricks, Redshift).Knowledge of DevOps tools and practices (e.g., Git, Jenkins, Docker, Kubernetes).Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and their data services.Excellent problem-solving and analytical skills.Strong communication and collaboration abilities.Experience leading and mentoring teams.Preferred Skills:Experience with data orchestration tools (e.g., Airflow, Luigi).Knowledge of data modeling and data governance concepts.Experience with data visualization tools (e.g., Tableau, Power BI).Certification in cloud platforms or DevOps practices.",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:11:56-05:00",
+        "unique_id": "192584d52461ca68",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

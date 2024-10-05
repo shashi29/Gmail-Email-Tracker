@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Triwavesolutions",
+        "job_title": "SAP DB2",
+        "location": "LA, USA",
+        "full_location": {
+            "city": "LA",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "DB2",
+                "Microsoft SQL Server",
+                "HANA",
+                "Data Modeling",
+                "Database Security"
+            ],
+            "primary": [
+                "Database Architectural Support",
+                "Database Administrative Support",
+                "Performance Monitoring",
+                "Database Design"
+            ],
+            "secondary": [
+                "Backup and Recovery",
+                "Data Integrity",
+                "Database Management System (DBMS)",
+                "Database Conversion"
+            ],
+            "all": [
+                "DB2",
+                "Microsoft SQL Server",
+                "HANA",
+                "Data Modeling",
+                "Database Security",
+                "Database Architectural Support",
+                "Database Administrative Support",
+                "Performance Monitoring",
+                "Database Design",
+                "Backup and Recovery",
+                "Data Integrity",
+                "Database Management System (DBMS)",
+                "Database Conversion"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Roshan",
+        "email": "roshan@triwavesolutions.com",
+        "jd": "From: Roshan, Triwavesolutions roshan@triwavesolutions.com Reply to: roshan@triwavesolutions.com The scope of the proposed services will include the following:\uf0b7 Knowledge and experience with DB2, Microsoft SQL Server and HANA\uf0b7 Provide primary database architectural and administrative support (Data Modeling, Attribution, Referential Integrity and Database Security);\uf0b7 Evaluate, and recommend changes to the database environment based on analysis of the monitoring effort;\uf0b7 Oversee the physical database design including physical file characteristics, backup and recovery requirements, security requirements and physical space requirements dictated by the database design;\uf0b7 Recommend additional software based on the analysis of available software and Database Management System (DBMS) requirements;Supervise the installation and testing of DBMS software; create and manage database objects \u2013 schemas, views, tables, stored procedures, triggers, partitioning, cluster and indexing strategies;\uf0b7 Provide the audit ability of the database to insure data integrity, detection of missing data, late transaction reporting and untimely error correction;\uf0b7 Evaluate and complete a conversion from one database to another database (structure and data);\uf0b7 Conduct backup and recovery via Image Copy, Flashcopy, etc.; reorganize databases;\uf0b7 Conduct performance monitoring and tuning.Expertise and/or relevant experience in the following areas are mandatory:\uf0b7 Ten (10) plus years of expertise and/or relevant experience in the following areas:o SAP DB2Expertise and/or relevant experience in the following areas are desirable but not mandatory:\uf0b7 SAP HANA",
+        "source": "Email",
+        "date_posted": "2024-10-04 14:48:26-05:00",
+        "unique_id": "1925913870357099",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Tekgence",
+        "job_title": "Lead .NET Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "ASP.NET",
+                ".NET Framework",
+                "Oracle RDBMS",
+                "CI/CD Pipeline"
+            ],
+            "primary": [
+                "Docker",
+                "Kafka",
+                "Kubernetes",
+                "AWS",
+                "Azure",
+                "Google Cloud Platform",
+                "RESTful APIs",
+                "micro services architecture",
+                "DevOps practices"
+            ],
+            "secondary": [
+                "Excellent communication skills",
+                "Problem-solving skills",
+                "Ability to work independently",
+                "Ability to collaborate effectively"
+            ],
+            "all": [
+                "C#",
+                "ASP.NET",
+                ".NET Framework",
+                "Oracle RDBMS",
+                "CI/CD Pipeline",
+                "Docker",
+                "Kafka",
+                "Kubernetes",
+                "AWS",
+                "Azure",
+                "Google Cloud Platform",
+                "RESTful APIs",
+                "micro services architecture",
+                "DevOps practices",
+                "Excellent communication skills",
+                "Problem-solving skills",
+                "Ability to work independently",
+                "Ability to collaborate effectively"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mahith Kumar",
+        "email": "mahith@tekgence.com",
+        "jd": "Hello,This is Mahith Kumar from Tekgence; I am writing to let you know regarding a job opportunities with one of my client as a Lead .NET Developer Location: Dallas, TX (3 days onsite) - Need locals Job Title: Lead .NET DeveloperLocation: Dallas, TX (3 days onsite) - Need localsDuration: Long Term Job Description: Primary skillsets:CI/CD Pipeline, ASP.NET MVC, Oracle RDBMS, Kafka, Docker, C#, .Net, Kubernetes Your responsibilities in this role will include:Lead the design, development, and implementation of robust and scalable .NET Core APIs.Hands-on Knowledge on SQL queriesCollaborate with cross-functional teams to gather requirements and architect solutions.Hands-on coding and debugging of API components to ensure high performance and reliability.Mentor junior developers and provide technical guidance and support.Stay current with industry trends and best practices, particularly in cloud technologies.Extensive experience in developing .NET APIs using C#.Strong proficiency in cloud platforms such as AWS, Azure, or Google Cloud Platform.Demonstrated expertise in designing and implementing RESTful APIs.Solid understanding of software development methodologies and practices.Excellent communication skills and ability to collaborate effectively with teams.Knowledge of micro services architecture.Familiarity with DevOps practices and tools. Requirements:Bachelor\u2019s degree in computer science, Engineering, or a related field.Proven experience as a .NET/C# Developer with a minimum of 8 years in software development.Strong proficiency in C#, ASP.NET, and the .NET Framework.Solid understanding of software development principles and best practices.Good in database systems (Oracle RDBMS, etc.).Excellent problem-solving and communication skills.Ability to work independently and collaboratively within a team.",
+        "source": "Email",
+        "date_posted": "2024-10-03 09:16:30-05:00",
+        "unique_id": "19252c375132bda1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

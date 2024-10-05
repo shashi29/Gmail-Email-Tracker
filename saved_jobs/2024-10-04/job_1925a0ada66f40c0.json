@@ -1,0 +1,119 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "AWS Cloud DBA",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2-3 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Databases",
+                "RDS",
+                "AWS Console",
+                "AWS CLI",
+                "S3",
+                "DMS",
+                "Postgres",
+                "MySQL",
+                "Aurora Postgres",
+                "NoSQL",
+                "MongoDB",
+                "AWS IAM",
+                "Python",
+                "Terraform",
+                "Cloud Formation",
+                "Lambda"
+            ],
+            "primary": [
+                "DevOps",
+                "High Availability",
+                "Disaster Recovery",
+                "ETL Tools",
+                "AWS Glue",
+                "EKS",
+                "ECR",
+                "Snowflake",
+                "RedShift",
+                "Continuous Integration",
+                "Continuous Deployment"
+            ],
+            "secondary": [
+                "Investment Banking",
+                "Market Data",
+                "Service Resiliency",
+                "HADR designs",
+                "Replication across AZs",
+                "Automation",
+                "Monitoring within AWS",
+                "Data Migration"
+            ],
+            "all": [
+                "AWS Databases",
+                "RDS",
+                "AWS Console",
+                "AWS CLI",
+                "S3",
+                "DMS",
+                "Postgres",
+                "MySQL",
+                "Aurora Postgres",
+                "NoSQL",
+                "MongoDB",
+                "AWS IAM",
+                "Python",
+                "Terraform",
+                "Cloud Formation",
+                "Lambda",
+                "DevOps",
+                "High Availability",
+                "Disaster Recovery",
+                "ETL Tools",
+                "AWS Glue",
+                "EKS",
+                "ECR",
+                "Snowflake",
+                "RedShift",
+                "Continuous Integration",
+                "Continuous Deployment",
+                "Investment Banking",
+                "Market Data",
+                "Service Resiliency",
+                "HADR designs",
+                "Replication across AZs",
+                "Automation",
+                "Monitoring within AWS",
+                "Data Migration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shivani Sharma",
+        "email": "shivani.sharma@tekinspirations.com",
+        "jd": "From: shivani sharma, tek inspiration shivani.sharma@tekinspirations.com Reply to: shivani.sharma@tekinspirations.com Job title- AWS Cloud DBALocation: Jersey City, NJ- 3 days on site- Hybrid RoleDuration: 6+ months MOI : Video interview but the client can ask for in - person meeting after the final round. we experienced this with the client in past. Need Sr. candidate Local to NJ /NY *** MUST Have Investment Banking and Market Data environment experience***Team is currently looking for a AWS Cloud DBA with experience doing DevOps.Cloud Database RDS2-3 years of experience with AWS Databases \u2022 Experience in migrating data from on-prem to RDS and 53 Exceptional knowledge of AWS Console, AWS CLI S3, DMS ? RDS: Postgres, MYSOL, Aurora Postgres and NoSQL (MongoDB) Cloud Watch \u2022 Good knowledge of ? AWS SDK e RedShift ? Snowflake O Redis ? High Availability and disaster recovery ? MSKIStreaming/Messaging Architectures AWS IAM and integration with AW'S Identity Center ? Service Resiliency - HADR designs/solutions tied to business tiering - replication across AZs and Regions e ETL Tools/MWAA AirfiowlAWS Glue EKS/ECR \u2022 Knowledge of ? Non-relational AWS databases: DynamoDB, Document DB, Neptune, OpenSearch ? Load balancing \u2022 Nice to have Experience in migrating data from on-prem into Snowflake, RedShift Automation/DevOps Experience\u2022 Exceptional knowledge of: ? Python, Terraform, Cloud Formation Lambda Enterprise level Application Integration experience on AWS Experience with ? Automation and monitoring within AWS ? Continuous integration and continuous deployment (CI/CD) \u2022 Ability to automate migration of data to RDS, $3, Snowflake, RedshiftThanks & Regards,Shivani SharmaTechnical RecruiterTEK Inspirations LLC | 13573 Tabasco Cat Trail, Frisco, TX 75035Linkedin: linkedin.com/in/shivani-sharma-617a05281",
+        "source": "Email",
+        "date_posted": "2024-10-04 19:18:35-05:00",
+        "unique_id": "1925a0ada66f40c0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

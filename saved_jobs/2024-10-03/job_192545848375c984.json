@@ -1,0 +1,76 @@
+[
+    {
+        "company": "NCS",
+        "job_title": "Java Developer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "7-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "AWS",
+                "Kubernetes",
+                "SQL"
+            ],
+            "primary": [
+                "JMS",
+                "Angular",
+                "Java/J2EE",
+                "REST API",
+                "Ant"
+            ],
+            "secondary": [
+                "Javascript",
+                "Portfolio Management System",
+                "Trading System",
+                "Research System"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "AWS",
+                "Kubernetes",
+                "SQL",
+                "JMS",
+                "Angular",
+                "Java/J2EE",
+                "REST API",
+                "Ant",
+                "Javascript",
+                "Portfolio Management System",
+                "Trading System",
+                "Research System"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Debbie",
+        "email": "debbie@ncsus.net",
+        "jd": "From: Debbie, NCS debbie@ncsus.net Reply to: debbie@ncsus.net Java DeveloperLocation: Boston, MA (Needed only Locals- Mode of interview F2F only)Need someone from investment banking domain. Job Description:Onsite for 2 days/week in Boston. Must be involved with all the investment applications such as portfolio management system, trading system, research system, across equity, fixed income and multi asset.Relevant experience of 7-10 years in senior level core Java, microservices, AWS, Kubernetes (EKS), SQL and looking for someone to be focused on execution \u2013 have 3 Architects who handle the design work.Understanding of Javascript/ Angular 8+ (this will be pretty much all backend/server-side dev though)Asset management industry experience. Primary skills: JMS Angular Java/J2EE side (Swings, Applets, EJB) REST API/REST Services Ant (Build tool)",
+        "source": "Email",
+        "date_posted": "2024-10-03 14:52:24-05:00",
+        "unique_id": "192545848375c984",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

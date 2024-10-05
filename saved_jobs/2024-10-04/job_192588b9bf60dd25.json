@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Tanisha Systems Inc.",
+        "job_title": "Java Developer with Node JS",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "NodeJS",
+                "REST API",
+                "Microservices",
+                "Spring Boot"
+            ],
+            "primary": [
+                "Spring Security",
+                "Spring Data",
+                "Spring MVC",
+                "Java Streams",
+                "Cassandra",
+                "Kafka",
+                "Elastic Search",
+                "MongoDB",
+                "CI/CD",
+                "Docker"
+            ],
+            "secondary": [
+                "troubleshooting",
+                "problem-solving",
+                "development",
+                "support"
+            ],
+            "all": [
+                "Java",
+                "NodeJS",
+                "REST API",
+                "Microservices",
+                "Spring Boot",
+                "Spring Security",
+                "Spring Data",
+                "Spring MVC",
+                "Java Streams",
+                "Cassandra",
+                "Kafka",
+                "Elastic Search",
+                "MongoDB",
+                "CI/CD",
+                "Docker",
+                "troubleshooting",
+                "problem-solving",
+                "development",
+                "support"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Akash Kumar",
+        "email": "akash.kumar@tanishasystems.com",
+        "jd": "From: Akash Kumar, Tanisha Systems Inc. akash.kumar@tanishasystems.com Reply to: akash.kumar@tanishasystems.com Job description: -Role:- Java Developer with Node.JSLocation:- Phoenix, AZ- Onsite(5 Days per week ,from day 1)Need Local Candidates only JOB DESCRIPTION\u2022 Full Stack Java Engineer with Spring Boot Microservices.\u2022 10+ years of Java, NodeJS, REST API, Microservices Experience.\u2022 Strong experience in REST API development with OAuth2 Security.\u2022 Experience in Spring Security, Spring Data, Spring MVC.\u2022 Experience in Java Streams, Integrations with Cassandra, Kafka, Elastic Search, MongoDB\u2022 Experience in troubleshooting, problem-solving\u2022 Experience in development/deployment of Systems with Scalability and Performance.\u2022 Experience in CI/CD, Docker is a must.\u2022 Ability work on Development and Support roles",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:19:57-05:00",
+        "unique_id": "192588b9bf60dd25",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

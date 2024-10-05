@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Cognizant",
+        "job_title": "Lead Data Bricks Engineer SME",
+        "location": "Rahway, NJ, USA",
+        "full_location": {
+            "city": "Rahway",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Confluent Kafka Streaming",
+                "Pyspark",
+                "Delta Lake",
+                "Databricks",
+                "DevOps",
+                "CI/CD",
+                "Jenkins"
+            ],
+            "primary": [
+                "Autoloader",
+                "Materialized Views",
+                "Unity Catalog",
+                "Workflows",
+                "DBT basic knowledge"
+            ],
+            "secondary": [
+                "Data Bricks Certified Data engineer professional",
+                "AWS Knowledge",
+                "Trino SQL query engine",
+                "PowerBi"
+            ],
+            "all": [
+                "AWS",
+                "Confluent Kafka Streaming",
+                "Pyspark",
+                "Delta Lake",
+                "Databricks",
+                "DevOps",
+                "CI/CD",
+                "Jenkins",
+                "Autoloader",
+                "Materialized Views",
+                "Unity Catalog",
+                "Workflows",
+                "DBT basic knowledge",
+                "Data Bricks Certified Data engineer professional",
+                "AWS Knowledge",
+                "Trino SQL query engine",
+                "PowerBi"
+            ],
+            "with_experience": [
+                "AWS",
+                "Confluent Kafka Streaming",
+                "Pyspark",
+                "Delta Lake",
+                "Databricks",
+                "DevOps",
+                "CI/CD",
+                "Jenkins"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Isaac",
+        "email": "isaac@centraprise.com",
+        "jd": "Hi Professional, I am writing to let you know regarding a job opportunity as \u201cLead Data Bricks Engineer SME\u201d with \u201cCognizant\u201d. Mentioned is the job description for your review. Job Title: Lead Data Bricks Engineer SME Location: Rahway NJ (Day One Onsite) Job Type: Contract Job Description: TechStack (Must Have): AWS, Confluent Kafka Streaming, Pyspark, Delta Lake, Databricks(Medallion Architecture, DeltaLiveTables (DLT) with serverless, CDC(SCD Type 1 and Type2), Autoloader, Materialized Views, Unity Catalog, Workflows, DBT basic knowledge), Autoloader - streaming experience, DevOps - CI/CD, Jenkins, Automation Guidance and service-based offering for the stream processing part, TechStack (Good to Have): Data Bricks Certified Data engineer professional AWS Knowledge (Athena, EC2, S3) Trino SQL query engine PowerBi If interested, please fill the below details and revert with your updated resume. Candidate Full Name Current Location Phone Email ID Skype ID Linked in ID Passport number Total Years of Experience Education Visa Status Willing to relocate Rate Last 4 Digits of SSN#: Availability to start on the project Previously worked with Cognizant (Y/N) If Yes \u2013 Provide the CTS Emp ID Interview Availability with the time Zone Thanks & Regards Isaac",
+        "source": "Email",
+        "date_posted": "2024-10-04 17:13:39-05:00",
+        "unique_id": "19259f7557d9a15a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

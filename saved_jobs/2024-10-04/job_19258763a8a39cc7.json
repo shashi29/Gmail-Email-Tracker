@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Pull Skill Technologies",
+        "job_title": "AWS Data Engineer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "13+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Services",
+                "Cloud Formation",
+                "Terraform",
+                "CI/CD"
+            ],
+            "primary": [
+                "Model execution",
+                "Observability components",
+                "GenAI application"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS Services",
+                "Cloud Formation",
+                "Terraform",
+                "CI/CD",
+                "Model execution",
+                "Observability components",
+                "GenAI application"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Asher Williams",
+        "email": "asher@pullskill.com",
+        "jd": "From: Asher Williams, Pull Skill Technologies asher@pullskill.com Reply to: asher@pullskill.com Must be local to NYC, NYMust be 13+ YearsRole: AWS Data EngineerLocation: New York City, NYRoles and Responsibilities:Design and Develop scalable/ reusable Model execution component using AWS Services Streamline production deployment of various cloud components using Cloud Formation and Terraform integrated with the existing CI/CD pipelines Design, Develop and Integrate the Observability components for Cloud based GenAI application Participate in team wide application architecture reviews to present design and solutions--Asher Williams",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:16:34-05:00",
+        "unique_id": "19258763a8a39cc7",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Java Fullstack Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Preferred H1B and Locals",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Kafka",
+                "MongoDB"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Kafka",
+                "MongoDB"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "bhuvanesh",
+        "email": "bhuvanesh@smartitframe.com",
+        "jd": "From: bhuvanesh, Smart IT Frame bhuvanesh@smartitframe.com Reply to: bhuvanesh@smartitframe.com Role: Java Fullstack DeveloperLocation: Dallas,TxHire Mode:Contract-Hybrid Skills:Strong in kafka and Mongo DB",
+        "source": "Email",
+        "date_posted": "2024-10-04 11:43:01-05:00",
+        "unique_id": "1925869c8851c11f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

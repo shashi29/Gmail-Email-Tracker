@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Convex Tech Inc.",
+        "job_title": "Python Developer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Object Oriented Programming",
+                "AWS",
+                "SQL"
+            ],
+            "primary": [
+                "Jupyter Notebooks",
+                "Data Quality Management",
+                "Snowflake",
+                "Cloud Computing"
+            ],
+            "secondary": [
+                "Data Access Governance",
+                "Automation",
+                "Project Management",
+                "Business Strategies"
+            ],
+            "all": [
+                "Python",
+                "Object Oriented Programming",
+                "AWS",
+                "SQL",
+                "Jupyter Notebooks",
+                "Data Quality Management",
+                "Snowflake",
+                "Cloud Computing",
+                "Data Access Governance",
+                "Automation",
+                "Project Management",
+                "Business Strategies"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Hemant Rawat",
+        "email": "hemant@convextech.com",
+        "jd": "From: Hemant Rawat, convextech hemant@convextech.com Reply to: hemant@convextech.com Title: Python DeveloperLocation:. Richmond VA(Hybrid)Duration: Long Term Contract.Visa Restrictions: Only USC CITIZEN NOTE: Prefer Local if possible and Only USC candidates can have flex if candidate have achievements which are exceptional..!!! Job Description: Job Description:The position requires an advanced Python programming accustomed to Object Oriented ProgrammingUnderstanding the concept of packaging Python applicationWell versed with AWS concepts of deploying Python applications to AWS eco-systemWork collaboratively with appropriate Tech teams to manage security mechanisms and data access governanceGood in leveraging Python Jupyter notebooks and then later on automating the application as a wholeAbility to drive projects such as adoption of new enterprise cloud computing capabilities and improvement projects to reduce model execution failures and model deployment timeGood in advanced SQL queries and analyzing the data derived from SnowflakeDrive analysis that provides meaningful insights on business strategiesDrive an understanding and adherence to the principles of data quality management including metadata, lineage, and business definitionsBuild and execute tools to monitor and report on data quality Thanks and Regards Hemant RawatUS IT Recruiter |Convex Tech Inc.Email: hemant@convextech.comwww.linkedin.com/in/hemantrawatt",
+        "source": "Email",
+        "date_posted": "2024-10-03 08:54:37-05:00",
+        "unique_id": "19252b0815e96424",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

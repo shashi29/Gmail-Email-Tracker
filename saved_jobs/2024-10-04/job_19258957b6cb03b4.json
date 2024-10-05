@@ -1,0 +1,82 @@
+[
+    {
+        "company": "HAN IT Staffing Inc",
+        "job_title": "Java with API Developer",
+        "location": "Berkeley Heights, NJ, USA",
+        "full_location": {
+            "city": "Berkeley Heights",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "API Development",
+                "Docker",
+                "Kubernetes",
+                "OpenShift"
+            ],
+            "primary": [
+                "Microservices",
+                "Cloud",
+                "Spring Framework",
+                "GIT (Manual Commands)",
+                "Agile Development"
+            ],
+            "secondary": [
+                "Kafka",
+                "Streaming Technology",
+                "Splunk",
+                "Dynatrace",
+                "Problem Solving",
+                "Analytical Skills",
+                "Automation"
+            ],
+            "all": [
+                "Java",
+                "API Development",
+                "Docker",
+                "Kubernetes",
+                "OpenShift",
+                "Microservices",
+                "Cloud",
+                "Spring Framework",
+                "GIT (Manual Commands)",
+                "Agile Development",
+                "Kafka",
+                "Streaming Technology",
+                "Splunk",
+                "Dynatrace",
+                "Problem Solving",
+                "Analytical Skills",
+                "Automation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "prasanth",
+        "email": "prasanth@hanstaffing.com",
+        "jd": "From: prasanth, HAN IT Staffing Inc prasanth@hanstaffing.com Reply to: prasanth@hanstaffing.com Title: Java with API Development, Docker, Kubernetes & OpenShiftLocation: Berkeley Heights, NJ (5 Days Onsite \u2013 No Remote)Required : in-person \u201cclient interview\u201d in Berkeley Heights, NJ***. Job Description:We are looking for an experienced Java resource who also has good experience in microservices and API development along with Cloud, Kubernetes, Dockers and OpenShift.Candidates should have strong development experience in Java along with API development, Docker and Kubernetes who can be ready to write source code from scratch.Experience on writing manual GIT commands is Mandatory.Strong Java development and Lead experience (40 % into Development and 60% into Managing the team)Expertise in Cloud, Kubernetes, Docker, and Open ShiftPrevious work experience with Spring frameworkStrong technical development experience on effectively writing code, code reviews, best practices code refactoring.A delivery focused approach to work and the ability to work without direction.Experience with various source control tools like GIT (Manual Commands) Good to have hands-on experience on Kafka or any Streaming Technology Good to have experience in Splunk, Dynatrace tools.Experience in Agile Development lifecycle methodologyStrong problem solving and analytical skills.Advanced knowledge of architecture and design across all systemConfiguring and managing software and optimizing processes through automationKnowledge of industry-wide technology trends and best practicesAbility to multitask and prioritize with urgency.Ability to work in large, collaborative teams to achieve organizational goals.",
+        "source": "Email",
+        "date_posted": "2024-10-04 12:30:45-05:00",
+        "unique_id": "19258957b6cb03b4",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

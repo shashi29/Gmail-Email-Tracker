@@ -1,0 +1,114 @@
+[
+    {
+        "company": "O2F",
+        "job_title": "Data Modeler (OWB - ODI - PLSQL)",
+        "location": "Albany, NY, USA",
+        "full_location": {
+            "city": "Albany",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "84 months",
+            "degree_required": "Bachelor\u2019s Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle Data Warehouse",
+                "Oracle Warehouse Builder (OWB)",
+                "Oracle Data Integrator (ODI)",
+                "PL/SQL",
+                "Data Modeling"
+            ],
+            "primary": [
+                "ETL processes",
+                "Data extraction",
+                "Data cleansing",
+                "Data manipulation",
+                "UNIX",
+                "LINUX",
+                "Unix Shell Scripting"
+            ],
+            "secondary": [
+                "Process improvement",
+                "Normalization",
+                "De-normalization",
+                "Bulk select",
+                "Bulk insert",
+                "Dynamic SQL",
+                "Incremental ETL processes",
+                "Source-to-target mappings",
+                "Storage capacity planning",
+                "SDLC",
+                "Requirement gathering",
+                "Testing",
+                "Debugging",
+                "Deployment",
+                "Documentation",
+                "Production support",
+                "Infrastructure upgrades",
+                "Enhancements"
+            ],
+            "all": [
+                "Oracle Data Warehouse",
+                "Oracle Warehouse Builder (OWB)",
+                "Oracle Data Integrator (ODI)",
+                "PL/SQL",
+                "Data Modeling",
+                "ETL processes",
+                "Data extraction",
+                "Data cleansing",
+                "Data manipulation",
+                "UNIX",
+                "LINUX",
+                "Unix Shell Scripting",
+                "Process improvement",
+                "Normalization",
+                "De-normalization",
+                "Bulk select",
+                "Bulk insert",
+                "Dynamic SQL",
+                "Incremental ETL processes",
+                "Source-to-target mappings",
+                "Storage capacity planning",
+                "SDLC",
+                "Requirement gathering",
+                "Testing",
+                "Debugging",
+                "Deployment",
+                "Documentation",
+                "Production support",
+                "Infrastructure upgrades",
+                "Enhancements"
+            ],
+            "with_experience": [
+                "Oracle Data Warehouse (84 months)",
+                "Oracle Warehouse Builder (OWB) (84 months)",
+                "Oracle Data Integrator (ODI) (84 months)",
+                "PL/SQL (84 months)",
+                "Data Modeling (84 months)",
+                "UNIX (84 months)",
+                "LINUX (84 months)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "sai",
+        "email": "sai@o2finc.com",
+        "jd": "This position is for a systems developer with experience working on a Oracle Data Warehouse/Business Intelligence team. The developer will design/model, construct, load and validate the tables through the enterprise Data Warehouse architecture. This dedicated resource would:\u2022 Ongoing requests to add new tables, columns to the ODS\u2022 Coding and configuration for initial set up of New Agencies\u2022 Ownership logic needs to be applied for New Agencies ODS Maintenance Activities:\u2022 Responding to missing files questions\u2022 Responding to missing data questions\u2022 Technical issues\u2022 Database and network issues. Mandatory Qualification:\u2022 Develops and implements applications and programs for the backend processing systems used in businesses and organizations.\u2022 Candidate is able to provide guidance to large teams and/or has extensive industry experience and is considered at the top of his/her field.\u2022 84 months experience in reverse engineering Oracle Warehouse Builder (OWB) ETL processes and developing new replacement Oracle Data Integrator (ODI) processes while maintaining consistent functionality.\u2022 84 months experience Data Modeling (Dimensional & Relational), process improvement, normalization/de-normalization, data extraction, data cleansing, data manipulation in a child welfare environment\u2022 84 months experience working in an Oracle Data Warehouse performing development work using PL/SQL\u2022 84 months experience using advanced Extract/Transform/Load techniques including bulk select, bulk insert, arrays, dynamic SQL and developing detailed incremental ETL processes.\u2022 84 months experience developing and testing maps, performing source-to-target mappings, storage capacity planning and developing ETL in Oracle Data Integrator (ODI)\u2022 84 months experience in SDLC including: requirement gathering, development, testing, debugging, deployment, documentation and production support, load issue resolutions, load inquiries, 2nd level testing of issues and code fixes, infrastructure upgrades and enhancements (Oracle upgrades).\u2022 84 months experience working in UNIX or LINUX environment developing Unix Shell Scripting and sftp protocols\u2022 84 months experience in build database schemas, tables, views, indexes, and stored procedures\u2022 Bachelor\u2019s Degree.",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:02:54-05:00",
+        "unique_id": "19252efe3f0ee057",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Takeda Pharmaceutical company",
+        "job_title": "Pharmaceutical DATA ENGINEER",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ months",
+            "degree_required": "Bachelor\u2019s or Master\u2019s degree in Computer Science, Data Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Python",
+                "SQL",
+                "ETL tools",
+                "metadata analysis"
+            ],
+            "primary": [
+                "anomaly detection",
+                "data integrity",
+                "data modeling",
+                "AI",
+                "clinical trial processes"
+            ],
+            "secondary": [
+                "machine learning techniques",
+                "problem-solving skills",
+                "communication skills",
+                "collaboration skills"
+            ],
+            "all": [
+                "Data Engineering",
+                "Python",
+                "SQL",
+                "ETL tools",
+                "metadata analysis",
+                "anomaly detection",
+                "data integrity",
+                "data modeling",
+                "AI",
+                "clinical trial processes",
+                "machine learning techniques",
+                "problem-solving skills",
+                "communication skills",
+                "collaboration skills"
+            ],
+            "with_experience": [
+                "Data Engineering",
+                "Python",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Muskan Sharma",
+        "email": "muskan.sharma@infotechspectrum.com",
+        "jd": "Hi, Pharmaceutical DATA ENGINEER REMOTE (HAVE PREVIOUS PHARMA EXPERIENCE)US CITIZEN/GC Only6+ month contractI have a new role I need some help on it\u2019s for a DATA ENGINEER Takeda Pharmaceutical company . This role is 100% remote but candidates must live in EST. ALL CANDIDATES MUST HAVE PREVIOUS PHARMA EXPERIENCE AND THE REQUIRED SKILLS. All candidates should be sent with a Linkedin profile and a driver\u2019s license. WILL NOT CALL OR SUBMIT ANYONE WITHOUT PHARMA EXPERIENCE. MUST HAVE Required Qualifications:Bachelor\u2019s or Master\u2019s degree in Computer Science, Data Engineering, or a related field.Previous experience working in the pharmaceutical or healthcare industry.Proven experience as a Data Engineer, with a focus on anomaly detection and data integrity.Proficiency in programming languages such as Python, SQL, and experience with ETL tools.Prior experience in a clinical trials, healthcare, or pharmaceutical environment is a plus.Strong understanding of metadata analysis and its application in data capture, modification, and deletion.Proven experience with data modeling, AI, and Python.Familiarity with clinical trial processes and regulations is highly desirable.Excellent problem-solving skills and attention to detail.Strong communication and collaboration skills.Preferred Qualifications:Knowledge of machine learning techniques for anomaly detection.Strong problem-solving skills and the ability to translate data into meaningful business outcomes.Excellent communication skills for interacting with cross-functional teams. Job Summary:We are seeking a skilled Data Engineer to join our team and contribute to a crucial project aimed at identifying anomalies and issues within clinical trial audit data. This role is essential to ensuring data integrity through comprehensive audit trail reviews, which capture, modify, and delete data using metadata to give scale and meaning to the information. The Data Engineer will play a significant role in maintaining patient safety by ensuring the integrity of clinical trial data.Key Responsibilities:Design and implement data pipelines to collect, transform, and load clinical trial audit data.Develop algorithms and tools to identify anomalies and issues in audit trail data, enhancing data integrity.Conduct detailed analyses of metadata to ensure accurate data capture, modification, and deletion processes.Collaborate with cross-functional teams within CT2 team , to ensure alignment with project objectives.Perform regular audit trail reviews to assess data integrity and contribute towards patient safety.Create and maintain documentation related to data engineering processes and audit trail review findings.Contribute to the development of best practices for audit trail reviews in clinical trials.",
+        "source": "Email",
+        "date_posted": "2024-10-04 15:55:28-05:00",
+        "unique_id": "1925950e63efa419",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

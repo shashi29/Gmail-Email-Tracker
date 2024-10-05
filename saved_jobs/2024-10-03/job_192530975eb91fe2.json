@@ -1,0 +1,91 @@
+[
+    {
+        "company": "THEMESOFT INC",
+        "job_title": "D365 Lead Developer",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "D365 CRM",
+                "Javascript",
+                "C#",
+                "ASP.NET/MVC",
+                "SQL"
+            ],
+            "primary": [
+                "OData",
+                "WebApi",
+                "Power Automate",
+                "LogicApps",
+                "Azure Functions"
+            ],
+            "secondary": [
+                "jQuery",
+                "AJAX",
+                "JSON",
+                "XML",
+                "PCF Controls",
+                "Integration with Office 365",
+                "Integration with LinkedIn Sales Navigator",
+                "Sharepoint Web Services",
+                "Scribe",
+                "Unit testing",
+                "QA",
+                "Technical documentation"
+            ],
+            "all": [
+                "D365 CRM",
+                "Javascript",
+                "C#",
+                "ASP.NET/MVC",
+                "SQL",
+                "OData",
+                "WebApi",
+                "Power Automate",
+                "LogicApps",
+                "Azure Functions",
+                "jQuery",
+                "AJAX",
+                "JSON",
+                "XML",
+                "PCF Controls",
+                "Integration with Office 365",
+                "Integration with LinkedIn Sales Navigator",
+                "Sharepoint Web Services",
+                "Scribe",
+                "Unit testing",
+                "QA",
+                "Technical documentation"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ashish Kumar",
+        "email": "ashish@themesoft.com",
+        "jd": "From: Ashish Kumar, THEMESOFT INC ashish@themesoft.com Reply to: ashish@themesoft.com Job Title: D365 Lead DeveloperLocation: Seattle, WA (Remote)D365 CRM Technical ArchitectRemote ok - PST preferred; or must be willing to work PST hours. Offshore calls held at 9 pm PST are a must to attend.Job Description:All aspects related to form customization, such as, but not limited to adding Tabs, Sections, Subgrid, Web Resources, iFrame, Navigation Map Customization, and Ribbons CustomizationSolutions and sitemap customizationsJavascript and XRM model for JS, including OData calls through JSPlug-in developmentCustom workflow development, BPFWebservices, WCF, and Fetch XMLCRM Portal Development and other custom portal developmentC#, ASP.NET/MVC Development, including jQuery, AJAX, JSON, and XMLIntegrating with Azure services through Power Automate, LogicApps, Azure Functions, WebApi\u2019sCDM/CDS, PowerApps Model Driven Apps and Canvas appsPCF Controls developmentIntegration with Office 365 (Outlook, OneNote, OneDrive)Integration with LinkedIn Sales NavigatorSharepoint Web ServicesScribe, SQLUnit testing, QA, and technical documentation",
+        "source": "Email",
+        "date_posted": "2024-10-03 10:28:08-05:00",
+        "unique_id": "192530975eb91fe2",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

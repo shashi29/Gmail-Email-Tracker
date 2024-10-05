@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Sonitalentcorp",
+        "job_title": "Data Engineer with Clinical Trials and Audit data exp.Tools Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s or Master\u2019s degree in Computer Science, Data Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "ETL tools",
+                "anomaly detection",
+                "data integrity"
+            ],
+            "primary": [
+                "data modeling",
+                "AI",
+                "metadata analysis",
+                "clinical trial processes",
+                "strong problem-solving skills"
+            ],
+            "secondary": [
+                "machine learning techniques",
+                "communication skills",
+                "collaboration skills",
+                "healthcare industry experience",
+                "pharmaceutical industry experience"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "ETL tools",
+                "anomaly detection",
+                "data integrity",
+                "data modeling",
+                "AI",
+                "metadata analysis",
+                "clinical trial processes",
+                "strong problem-solving skills",
+                "machine learning techniques",
+                "communication skills",
+                "collaboration skills",
+                "healthcare industry experience",
+                "pharmaceutical industry experience"
+            ],
+            "with_experience": [
+                "Python",
+                "SQL",
+                "ETL tools",
+                "anomaly detection",
+                "data integrity"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Hamid Raza",
+        "email": "hamid.raza@sonitalentcorp.com",
+        "jd": "From: Hamid Raza, Sonitalentcorp hamid.raza@sonitalentcorp.com Reply to: hamid.raza@sonitalentcorp.com Position\u2013 Data Engineer with Clinical Trials and Audit data exp.Tools DeveloperLocation -Fully Remote \u2013 Only EST or CST Zone candidatesDuration - 6 Months+Visa -Any VisaMode Of Interview - Phone/SkypeNote - Need LinkedInJob Description \u2013Experience with RapidMiner and anomaly detection and data entegrity, data modeling, AI, Python and Pharma exp.This is exclusive to us and there are 2 positions availableJob Summary:We are seeking a skilled Data Engineer to join our team and contribute to a crucial project aimed at identifying anomalies and issues within clinical trial audit data. This role is essential to ensuring data integrity through comprehensive audit trail reviews, which capture, modify, and delete data using metadata to give scale and meaning to the information. The Data Engineer will play a significant role in maintaining patient safety by ensuring the integrity of clinical trial data.Key Responsibilities:Design and implement data pipelines to collect, transform, and load clinical trial audit data.Develop algorithms and tools to identify anomalies and issues in audit trail data, enhancing data integrity.Conduct detailed analyses of metadata to ensure accurate data capture, modification, and deletion processes.Collaborate with cross-functional teams within CT2 team , to ensure alignment with project objectives.Perform regular audit trail reviews to assess data integrity and contribute towards patient safety.Create and maintain documentation related to data engineering processes and audit trail review findings.Contribute to the development of best practices for audit trail reviews in clinical trials.Required Qualifications:Bachelor\u2019s or Master\u2019s degree in Computer Science, Data Engineering, or a related field.Proven experience as a Data Engineer, with a focus on anomaly detection and data integrity.Proficiency in programming languages such as Python, SQL, and experience with ETL tools.Strong understanding of metadata analysis and its application in data capture, modification, and deletion.Proven experience with data modeling, AI, and Python.Familiarity with clinical trial processes and regulations is highly desirable.Excellent problem-solving skills and attention to detail.Strong communication and collaboration skills.Preferred Qualifications:Knowledge of machine learning techniques for anomaly detection.Previous experience working in the pharmaceutical or healthcare industry.Strong problem-solving skills and the ability to translate data into meaningful business outcomes.Excellent communication skills for interacting with cross-functional teams.Prior experience in a clinical trials, healthcare, or pharmaceutical environment is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-04 18:29:44-05:00",
+        "unique_id": "1925a035b16444bc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

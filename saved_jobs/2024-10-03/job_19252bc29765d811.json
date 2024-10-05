@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Source Infotech",
+        "job_title": "LIMS Software Engineer",
+        "location": "Cambridge, MA, USA",
+        "full_location": {
+            "city": "Cambridge",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months + extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "LIMS",
+                "Python",
+                "Django"
+            ],
+            "primary": [
+                "AWS",
+                "Docker",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Agile",
+                "Scrum",
+                "Data Engineering",
+                "Version Control",
+                "Code Reviews",
+                "Testing",
+                "Documentation"
+            ],
+            "all": [
+                "LIMS",
+                "Python",
+                "Django",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Agile",
+                "Scrum",
+                "Data Engineering",
+                "Version Control",
+                "Code Reviews",
+                "Testing",
+                "Documentation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Khushank Chauhan",
+        "email": "khushank@sourceinfotech.com",
+        "jd": "From: KhushankChauhan, Source Infotech khushank@sourceinfotech.com Reply to: khushank@sourceinfotech.com LIMS Software EngineerLocation : Cambridge MA Duration : 6 months + extensions Prefer local \u2013 must be onsite from day 1- 3 days a week Must haveLimsPythonDjango The client is seeking a dedicated and skilled Senior Software Engineer to join our software platform team as a full-stack engineer specializing in Laboratory Information Management System (LIMS). You will be responsible for designing, developing, and maintaining software applications that support laboratory operations. Additionally, you will play a crucial role in integrating third-party LIMS systems to ensure seamless interoperability and enhanced functionality. As a member of the platform software team, you will work with colleagues across automation, bioinformatics, and laboratory science to create robust systems that streamline laboratory workflows, data management, and reporting. Your expertise will contribute to ensuring the accuracy, efficiency, and scalability of our LIMS solutions. Our team culture emphasizes shared responsibility and empathy for our users. Responsibilities:\u2022 Design, develop, and implement LIMS software applications, modules, and interfaces to meet user needs and enhance laboratory operations.\u2022 Provide ongoing support for the development of internal LIMS tools, ensuring they meet evolving laboratory requirements and incorporate the latest technologies.\u2022 Integrate third-party LIMS systems and external software applications to ensure seamless data flow, interoperability, and automation across different platforms.\u2022 Ensure best practices in software development including version control, code reviews, testing, and documentation.\u2022 Troubleshoot and resolve technical issues related to software and machine learning model integration.\u2022 Support and train internal users of our software products alongside team members.\u2022 Provide mentorship and guidance to junior engineers and team members, promoting a culture of continuous learning and improvement.\u2022 Stay current with industry trends, emerging technologies, and best practices in LIMS and software engineering. Qualifications:\u2022 Minimum of 5 years of experience working with LIMS systems.\u2022 Proven experience in Python and the Django framework in a commercial environment.\u2022 Demonstrated experience in both supporting the development of LIMS tools and integrating third-party LIMS systems.\u2022 Familiarity with database technologies and data engineering practices.\u2022 Strong analytical and problem-solving skills, with the ability to work independently and in a team environment.\u2022 Previous experience working in an Agile/Scrum development environment.\u2022 Excellent communication and collaboration skills, with keen attention to detail. Preferred Qualifications:\u2022 Experience with foundational AWS services: S3, RDS, EC2\u2022 Proficient in containerization technologies like Docker and orchestration tools such as Kubernetes.",
+        "source": "Email",
+        "date_posted": "2024-10-03 08:49:08-05:00",
+        "unique_id": "19252bc29765d811",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

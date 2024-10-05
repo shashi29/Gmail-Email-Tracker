@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Data Engineer (AWS)",
+        "location": "Nashville, TN, USA",
+        "full_location": {
+            "city": "Nashville",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Data Engineering, or a related field; Master\u2019s degree preferred.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS cloud platforms",
+                "data pipelines",
+                "ETL processes",
+                "SQL",
+                "Python",
+                "Java",
+                "Scala"
+            ],
+            "primary": [
+                "data modeling",
+                "data architecture",
+                "data warehousing",
+                "ETL tools",
+                "data pipeline orchestration tools"
+            ],
+            "secondary": [
+                "PostgreSQL",
+                "MySQL",
+                "NoSQL databases",
+                "Apache NiFi",
+                "Talend",
+                "Informatica",
+                "Apache Airflow",
+                "Prefect",
+                "Azure",
+                "Google Cloud"
+            ],
+            "all": [
+                "AWS cloud platforms",
+                "data pipelines",
+                "ETL processes",
+                "SQL",
+                "Python",
+                "Java",
+                "Scala",
+                "data modeling",
+                "data architecture",
+                "data warehousing",
+                "ETL tools",
+                "data pipeline orchestration tools",
+                "PostgreSQL",
+                "MySQL",
+                "NoSQL databases",
+                "Apache NiFi",
+                "Talend",
+                "Informatica",
+                "Apache Airflow",
+                "Prefect",
+                "Azure",
+                "Google Cloud"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "jatin parashar",
+        "email": "jparashar@vyzeinc.com",
+        "jd": "From: jatin parashar, Vyze Inc jparashar@vyzeinc.com Reply to: jparashar@vyzeinc.com Job Description -Title: 100% interview Location: Nashville, Tennessee(Onsite)Duration:12 monthsMoi: videoNEED 8 yr candidates Must linkidn Key Responsibilities:Must have experience with AWS cloud platforms and their data services.Design, build, and maintain data pipelines and ETL processes to ensure data integrity and availability.Develop and optimize data models, ensuring they meet the needs of analytics and reporting.Collaborate with data scientists and analysts to understand data requirements and translate them into technical solutions.Implement best practices for data governance, security, and quality assurance.Monitor data systems and troubleshoot issues as they arise.Assist in the evaluation and implementation of new data technologies and tools.Document data architecture, processes, and workflows for transparency and compliance.Provide support for data-related inquiries and contribute to cross-functional projects.Qualifications:Bachelor\u2019s degree in Computer Science, Data Engineering, or a related field; Master\u2019s degree preferred.8+ years of experience in data engineering, data warehousing, or related fields.Proficiency in SQL and experience with database technologies (e.g., PostgreSQL, MySQL, or NoSQL databases).Strong programming skills in Python, Java, or Scala.Experience with ETL tools (e.g., Apache NiFi, Talend, or Informatica) and data pipeline orchestration tools (e.g., Apache Airflow, Prefect).Familiarity with cloud platforms (e.g., AWS, Azure, or Google Cloud) and their data services.Understanding of data modeling, data architecture, and data warehousing concepts.Excellent problem-solving skills and attention to detail.Strong communication skills and ability to work collaboratively in a team environment.",
+        "source": "Email",
+        "date_posted": "2024-10-03 15:57:01-05:00",
+        "unique_id": "19254790164cf5e9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]
