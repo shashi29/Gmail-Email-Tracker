@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Mavinsys",
+        "job_title": "SQL Developer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Stored Procedures",
+                "Database Development"
+            ],
+            "primary": [
+                "Performance Tuning",
+                "Query Optimization",
+                "Database Normalization",
+                "Financial Data Structures",
+                "Data Integration"
+            ],
+            "secondary": [
+                "Power BI",
+                "Tableau",
+                "Financial Reporting",
+                "Regulatory Compliance",
+                "Analytical Skills",
+                "Problem-Solving Skills"
+            ],
+            "all": [
+                "SQL",
+                "Stored Procedures",
+                "Database Development",
+                "Performance Tuning",
+                "Query Optimization",
+                "Database Normalization",
+                "Financial Data Structures",
+                "Data Integration",
+                "Power BI",
+                "Tableau",
+                "Financial Reporting",
+                "Regulatory Compliance",
+                "Analytical Skills",
+                "Problem-Solving Skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Harika Vaka",
+        "email": "harika.v@mavinsys.com",
+        "jd": "From: Harika Vaka, Mavinsys harika.v@mavinsys.com Reply to: harika.v@mavinsys.com Job Title: SQL Developer with Financial BackgroundLocation: New York City, NY (On-site)Job Summary:We are seeking a skilled SQL Developer with expertise in writing and optimizing complex SQL queries, stored procedures, and working with large financial datasets. The ideal candidate will have a strong background in financial services or banking, with an understanding of financial processes and reporting requirements. This role requires the ability to collaborate with cross-functional teams to support data integration, analysis, and financial reporting.Key Responsibilities:Develop, maintain, and optimize complex SQL queries, stored procedures, and functions for financial data processing.Design and implement efficient database solutions for large-scale financial datasets, ensuring data accuracy and integrity.Qualifications:Good experience as an SQL Developer or Database Developer, specifically in financial services, banking, or investment environments.Strong proficiency in SQL and writing complex stored procedures, functions, and triggers.Proven experience working with large datasets and financial data structures.In-depth understanding of financial products, accounting principles, and reporting requirements.Strong experience with performance tuning, query optimization, and database normalization techniques.Familiarity with data visualization tools like Power BI, Tableau, or other financial reporting platforms is a plus.Hands-on experience with financial reporting, regulatory compliance, and audit requirements.Strong analytical and problem-solving skills with attention to detail.Experience working with SQL Server, Oracle, or other relational database management systems.",
+        "source": "Email",
+        "date_posted": "2024-10-18 10:59:34-05:00",
+        "unique_id": "192a07b8035a19b1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

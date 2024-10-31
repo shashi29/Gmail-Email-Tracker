@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Source Infotech Inc",
+        "job_title": "API Lead/Aws cloud Architect",
+        "location": "Alameda, CA, USA",
+        "full_location": {
+            "city": "Alameda",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "24+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud",
+                "API Gateway",
+                "AWS Lambda",
+                "Python"
+            ],
+            "primary": [
+                "API Design",
+                "Architectural Guidance",
+                "Performance and Scalability",
+                "Security & Compliance",
+                "Continuous Improvement"
+            ],
+            "secondary": [
+                "Okta",
+                "CSRF",
+                "Access tokens",
+                "AWS well architected framework"
+            ],
+            "all": [
+                "AWS Cloud",
+                "API Gateway",
+                "AWS Lambda",
+                "Python",
+                "API Design",
+                "Architectural Guidance",
+                "Performance and Scalability",
+                "Security & Compliance",
+                "Continuous Improvement",
+                "Okta",
+                "CSRF",
+                "Access tokens",
+                "AWS well architected framework"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abhisek Kumar",
+        "email": "abhisek.k@sourceinfotech.com",
+        "jd": "From: abhisek, source infotech abhisek.k@sourceinfotech.com Reply to: abhisek.k@sourceinfotech.com Title: API Lead/Aws cloud ArchitectLocation: Alameda, CA (Onsite)Duration: 24+ months contractIV: Phone and VideoVisa: No H1b/CPT Position overview As an API Lead/Aws cloud Architect, you will be responsible for designing, developing, and maintaining complex API solutions that meet the requirements as well as adhere to established architectural principles, standards, and patterns. Collaborate closely with Cloud engineering platform team to work on API, DevOps tools and with software developers, system architects, product managers, stakeholders, to ensure APIs are robust, scalable, and secure. 5 years AWS Cloud experience and AWS API Gateway, AWS Lambda. Able to write AWS Lambda functions using Python. Team bonding and strong collaboration, communication skills. Key ResponsibilitiesAPI Design & Development \u2013\u2013 Lead the design, development of APIs that enable integration between various AWS components; Define API standards, best practices and guidelines to ensure consistency across APIsArchitectural Guidance \u2013\u2013 Provide reviews on present AWS architecture implementation; Provide technical leadership and guidance on API architecture, design decisions, and implementation strategies; Collaborate with solution architects and development teams to integrate API solutions into larger systems or platformsTechnologies and Frameworks \u2013\u2013 Use of Okta for authentication make use of CSRF and Access tokens; Knowledge of AWS well architected framework pillarsPerformance and Scalability \u2013\u2013 Design APIs with a focus on performance, scalability, reliability and security; Conduct performance tuning and optimization of APIs to handle high traffic and large volumes of data.Security & Compliance \u2013\u2013 Implement security measures - authentication, authorization, encryption, and data protection mechanisms in APIs; Understand AWS SSO API working, cross role working across accountsContinuous Improvement \u2013\u2013 Stay updated on emerging technologies, industry trends, best practices related to APIs and integration; Drive initiatives for continuous improvement of API development processes, tools, and methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:37:07-05:00",
+        "unique_id": "192bb0384e701dd5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

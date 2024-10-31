@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Vyze",
+        "job_title": "Lead Big Data Developer",
+        "location": "Bedminster, NJ, USA",
+        "full_location": {
+            "city": "Bedminster",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Hadoop",
+                "Scala",
+                "Apache Spark"
+            ],
+            "primary": [
+                "ETL",
+                "Azure",
+                "AWS"
+            ],
+            "secondary": [
+                "Big Data",
+                "RDBMS",
+                "Data Warehouse",
+                "Security Access Control"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Hadoop",
+                "Scala",
+                "Apache Spark",
+                "ETL",
+                "Azure",
+                "AWS",
+                "Big Data",
+                "RDBMS",
+                "Data Warehouse",
+                "Security Access Control"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Hanshika",
+        "email": "hanshika@vyzeinc.com",
+        "jd": "Job Description -Job Title : Lead Big Data Developer \u2013 13 \u2013 15+ YEARS with Semiconductor Domain/ Telecommunication Work Exp -Semiconductor Domain(AMD ,Intel , Micron) OR Telecommunication (Spectrum ,AT&T ,Verizon etc)*LinkedIn , DL , visa requiredLocation : Bedminster, NJ (Day one onsite)HybridGood with Python Programming: Good with SQL Programming : SQL:ETL:Azure : AWS: Job Description:Required Skills:Experience with Hadoop, Scala, Python and Apache spark Looking for Candidate, have experience with: Semiconductor Domain/ Telecommunication 10+ years of experience in development with Big Data background (regular RDBMS) Experience in tuning the clusters that run the Bigquery data warehouse on AWS. AWS experience is must have along with RDBMS fundamentalsSQL knowledge, security access control and strong basic RDBMS theory",
+        "source": "Email",
+        "date_posted": "2024-10-16 13:13:18-05:00",
+        "unique_id": "19296a94e1285625",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

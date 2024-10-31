@@ -1,0 +1,83 @@
+[
+    {
+        "company": "DMS Visions Inc",
+        "job_title": "Technical Lead",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s in Computer Science, Data Science, Math or related discipline",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft Azure",
+                "Google Cloud",
+                "Python",
+                "Terraform",
+                "GitHub"
+            ],
+            "primary": [
+                "Data Factory",
+                "PowerBI",
+                "SQL",
+                "Informatica",
+                "Data Quality",
+                "Data Cataloging",
+                "MDM",
+                "Databricks"
+            ],
+            "secondary": [
+                "R",
+                "SAS programming",
+                "Linux",
+                "Kubernetes"
+            ],
+            "all": [
+                "Microsoft Azure",
+                "Google Cloud",
+                "Python",
+                "Terraform",
+                "GitHub",
+                "Data Factory",
+                "PowerBI",
+                "SQL",
+                "Informatica",
+                "Data Quality",
+                "Data Cataloging",
+                "MDM",
+                "Databricks",
+                "R",
+                "SAS programming",
+                "Linux",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ajit Kumar",
+        "email": "ajitk@dmsvisions.com",
+        "jd": "From: Ajit Kumar, DMS Visions Inc ajitk@dmsvisions.com Reply to: ajitk@dmsvisions.com Hi,Hope you are doing well,Please find the job description given below and let me know your interest.Position: Technical Lead (Onsite)Location: Boston, MA (Local Only)Duration : 6+ monthsJob Description: Primary ResponsibilitiesSolution DeliveryLead small-to-mid-size projects to scope, design and implement for US-based needs.Business Analysis: Gathering local requirements and documenting to facilitate implementation of requested changes or propose new solutions.Technical: Leverage hands-on technical skills to translate requirements to solutions on a technical stack that currently includes Microsoft Azure, Data Factory, Python, Terraform, GitHub, PowerBI, as well as GCP hosted SAS, Posit RStudioYou will be involved in all technical aspects of the product teamwork, including code practices, solution design, data sourcing, engineering, etc.Data Platform OperationsIdentify and facilitate local issues, in order to provide the most appropriate answersMaintain the data ecosystem in an optimal operational state following established standards and processes, with mindset of continuous improvementEnsure security, privacy, and compliance of data and processes in a highly regulated environment (eg. clinical and patient data)Work collaboratively and influentially in a cross-functional global environmentKeep current with and leverage latest data technologies and concepts, and contribute to stakeholder roadmapsEducation and Required SkillsRequired:Must have 5+ years\u2019 experience, with 3+ years\u2019 experience in cloud data platforms, reporting, and advanced analyticsMust have proven experience with Microsoft Azure or Google CloudStrong listening and communication skills, ability to work in global environmentSolution-oriented critical-thinker, agile mindsetPreferred:Bachelor\u2019s in Computer Science, Data Science, Math or related disciplinePreference for cloud certifications, especially Azure or Google Cloud CertificationsPreference for Pharmaceutical industry experiencePreference for technical experience with some of the following: SQL, Informatica, Data Quality and Data Cataloging, MDM, Databricks, TerraformHelpful to have any of the following: R, Python, SAS programming, Linux, Kubernetes If you are interested, please share your updated resume and suggest the best number & time to connect with you.",
+        "source": "Email",
+        "date_posted": "2024-10-24 15:00:32-05:00",
+        "unique_id": "192c06f2416af9af",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Synkriom",
+        "job_title": "Data Scientist",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Masters, or PhD in a technical or quantitative discipline",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Science",
+                "Python",
+                "PySpark",
+                "Azure DataFactory",
+                "Azure Databricks"
+            ],
+            "primary": [
+                "SAS",
+                "MATLAB",
+                "R",
+                "Systematic Fixed Income investing experience",
+                "Strong knowledge of asset pricing",
+                "Experience in applying machine learning models"
+            ],
+            "secondary": [
+                "Asset Management"
+            ],
+            "all": [
+                "Data Science",
+                "Python",
+                "PySpark",
+                "Azure DataFactory",
+                "Azure Databricks",
+                "SAS",
+                "MATLAB",
+                "R",
+                "Systematic Fixed Income investing experience",
+                "Strong knowledge of asset pricing",
+                "Experience in applying machine learning models",
+                "Asset Management"
+            ],
+            "with_experience": [
+                "Python (5+ years)",
+                "Machine learning models"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Shivendra",
+        "email": "shivendra.singh@synkriom.com",
+        "jd": "From: Shivendra, Synkriom shivendra.singh@synkriom.com Reply to: shivendra.singh@synkriom.com Role - Data ScientistLocation - Chicago IL ( local only ) Skills Required:5+ years of relevant experience as a hands-on quantitative investment professional, with a track record of developing predictive alpha models in fixed income markets.Masters, or PhD in a technical or quantitative discipline (e.g., statistics, mathematics, physics, electrical engineering, computer science, applied economics, or finance).Systematic Fixed Income investing experience a plus.Proficiency in at least one programming language, ideally Python, with additional experience in PySpark, SAS , MATLAB, or R being advantageous.Hands on experience working in Azure Cloud Services, ADLS, ADF, Databricks will be very helpful.Strong knowledge of asset pricing, factor anomaly literature, and the application of sustainability data within an investing context.Expertise across the entire quantitative investment lifecycle, including alpha research, risk management, portfolio management, trade execution, and the application of technology.Experience in applying machine learning models within an investing context, with familiarity in alternative data as an advantage.Ability to think independently, creatively approach data analysis, and clearly communicate complex ideas. Mandatory skillsData SciencePySparkAzure DataFactoryAzure Databricks Secondary skills:Asset Management",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:36:34-05:00",
+        "unique_id": "192ba93e98c63afc",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

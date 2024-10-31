@@ -1,0 +1,85 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": "Java Full stack Engineer",
+        "location": "Arlington, VA, USA",
+        "full_location": {
+            "city": "Arlington",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Moderate Java/Spring Boot experience",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Kafka",
+                "CI/CD",
+                "Security (OWASP)",
+                "Angular",
+                "React"
+            ],
+            "primary": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "RESTful APIs",
+                "JSON",
+                "Git",
+                "Agile development methodologies"
+            ],
+            "secondary": [
+                "UI testing frameworks",
+                "Vue"
+            ],
+            "all": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Kafka",
+                "CI/CD",
+                "Security (OWASP)",
+                "Angular",
+                "React",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "RESTful APIs",
+                "JSON",
+                "Git",
+                "Agile development methodologies",
+                "UI testing frameworks",
+                "Vue"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rajiv Kumar",
+        "email": "rajiv.kumar@testingxperts.com",
+        "jd": "From: Rajiv, testingxperts rajiv.kumar@testingxperts.com Reply to: rajiv.kumar@testingxperts.com Position TitleJava Full stack Engineer (2 positions)LocationArlington, VA - hybrid model DurationContractJob Description Must Have: Java (OOPS/12 Factor/SOLID), Springboot, Microservices, Kafka, CI/CD, Security (OWASP etc), Angular/React, CloudResponsibilities: Build responsive, user-friendly UIs. Integrate UIs with Java/Spring Boot backend. Debug and resolve UI and backend integration issues. Work with cross-functional teams to deliver end-to-end solutions. Requirements: Strong front-end skills (HTML, CSS, JavaScript, Typescript, React/Angular/Vue). Familiarity with RESTful APIs, JSON, and integrating front-end with back-end services. Moderate Java/Spring Boot experience. Experience with version control (Git) and agile development methodologies. Familiarity with UI testing frameworks and tools.",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:25:28-05:00",
+        "unique_id": "1929ba3d4068df09",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

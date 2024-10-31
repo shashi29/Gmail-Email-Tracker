@@ -1,0 +1,100 @@
+[
+    {
+        "company": "Incom Technologies Inc",
+        "job_title": "Senior Application Programmer",
+        "location": "Baton Rouge, LA, USA",
+        "full_location": {
+            "city": "Baton Rouge",
+            "state": "LA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$65/hr on c2c"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "C#/.NET",
+                "SQL",
+                "Oracle",
+                "PostgreSQL",
+                "MySQL"
+            ],
+            "primary": [
+                "JavaScript",
+                "TypeScript",
+                "RESTful APIs",
+                "AWS",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Analytical skills",
+                "Problem-solving abilities"
+            ],
+            "all": [
+                "Java",
+                "C#/.NET",
+                "SQL",
+                "Oracle",
+                "PostgreSQL",
+                "MySQL",
+                "JavaScript",
+                "TypeScript",
+                "RESTful APIs",
+                "AWS",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "CI/CD",
+                "Analytical skills",
+                "Problem-solving abilities"
+            ],
+            "with_experience": [
+                "Java (Proficiency)",
+                "C#/.NET (Proficiency)",
+                "SQL (Expertise)",
+                "Oracle (PL/SQL) (Experience)",
+                "PostgreSQL (Experience)",
+                "MySQL (Experience)",
+                "JavaScript (Experience)",
+                "TypeScript (Experience)",
+                "RESTful APIs (Strong knowledge)",
+                "AWS (Experience)",
+                "Azure (Experience)",
+                "Docker (Proficiency)",
+                "Kubernetes (Proficiency)",
+                "Git (Experience)",
+                "CI/CD (Experience)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "komal",
+        "email": "komal@incom-tech.net",
+        "jd": "From: komal, Incom Technologies Inc komal@incom-tech.net Reply to: komal@incom-tech.net Hi Role: Senior Application ProgrammerClient :State of LALocation : OnsiteRate :$65/hr on c2c NOTE : CANDIDATES SHOULD BE LOCAL TO LOUISIANAProject OverviewIn an effort to digitize the agency\u2019s file rooms, LA Dept. of Energy and Natural Resources is looking for consulting services to perform an assessment of their current practices and develop an actionable roadmap to effectively digitize the paper files and store the documents into a repository that will allow users throughout the agency to have access. Data gathering sessions will need to be performed with multiple agency departments and regional offices. The current process involves desktop scanning, indexing and storing documents into the Oracle document repository. After scanning, documents are available for public viewing using the Sunrise application. Physical documents are boxed and shipped to La. State Archives after scanning. A small portion of the documents that need to be scanned require an oversize scanner. LDENR wants to set up a centralized scanning location for all paper documents to get processed. The centralized scanning will be to process the file room documents as well as any new documents that the agency needs to archive.Duties/Responsibilities\u2022 Respond to computer system emergencies and resolve problems independently or in consultation with other IT staff or end-user personnel.\u2022 Research and resolve program, machine, data, or system software problems of a highly technical nature.\u2022 Provide expert advice and guidance on specialized application tools, hardware, software, or databases.\u2022 Provide specialized training to IT applications staff on databases, tools, techniques, and procedures relevant to applications maintenance and development.\u2022 Research new developments in hardware and software, staying abreast of the latest technologies.\u2022 Design, code, compile, test, debug, modify, and document new or existing highly complex applications programs.\u2022 Implement complex in-house and vendor-supplied applications software.\u2022 Evaluate, analyze, and prepare information and recommendations on technical solutions related to operating and managing an information system\u2022 Independently define data elements and design structures for databases.\u2022 Prepare and monitor work plans and schedules to ensure timeliness, data integrity, and project availability.Required Experience\u2022 Proficiency in Java or C#/.NET for enterprise application development.\u2022 Expertise in SQL and working with relational databases such as Oracle (PL/SQL), PostgreSQL, or MySQL.\u2022 Experience with JavaScript or TypeScript for frontend or backend API development.\u2022 Familiarity with Oracle document repository systems and other ECM systems.\u2022 Strong knowledge of RESTful APIs for application integration.\u2022 Experience in deploying and managing applications in cloud environments such as AWS or Azure.\u2022 Proficiency in containerization and orchestration tools like Docker and Kubernetes.\u2022 Experience with version control using Git and CI/CD pipelines (e.g., Jenkins, GitLab CI).\u2022 Strong analytical skills and problem-solving abilities, especially in debugging complex systems.\u2022 Experience with developing, maintaining, and scaling highly complex applications in a production environment",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:39:49-05:00",
+        "unique_id": "192afe0f5658bd99",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

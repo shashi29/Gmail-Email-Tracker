@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Themesoft Inc",
+        "job_title": "Dotnet full stack Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET technologies (ASP, VB.Net, C#)",
+                "ReactJS",
+                "Node.js",
+                "MS SQL"
+            ],
+            "primary": [
+                "AWS ecosystem",
+                "Kubernetes services (EKS)",
+                "Datadog",
+                "Splunk",
+                "Testing frameworks (Artillery, Playwright, xUnit, Jest, Cucumber, Lighthouse)"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET technologies (ASP, VB.Net, C#)",
+                "ReactJS",
+                "Node.js",
+                "MS SQL",
+                "AWS ecosystem",
+                "Kubernetes services (EKS)",
+                "Datadog",
+                "Splunk",
+                "Testing frameworks (Artillery, Playwright, xUnit, Jest, Cucumber, Lighthouse)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Praveen",
+        "email": "praveen.s@themesoft.com",
+        "jd": "From: Praveen, Themesoft Inc praveen.s@themesoft.com Reply to: praveen.s@themesoft.com Role: Dotnet full stack Developer Location: RemoteDuration: ContractQualifications:Proven experience as a Full Stack Developer or similar role.Experience with .NET technologies (ASP, VB.Net, C#), ReactJS, CSS, Node.js, and MS SQL.Proficient with AWS ecosystem and Kubernetes services (EKS).Experience with monitoring tools such as Datadog and log management tools like Splunk.Strong understanding of the entire web development process (design, development, and deployment).Familiarity with Testing frameworks - Artillery, Playwright, xUnit, Jest, Cucumber, LighthouseKey Responsibilities:Design, develop, and maintain scalable, high-availability applications using .NET technologies (ASP, VB.Net, C#) and ReactJS.Implement responsive UI components and CSS for front-end applications.Work with AWS services and manage deployments using EKS.Develop backend services and APIs using Node.js and ensure database integration with MS SQL.Monitor application performance using Datadog and manage logs and data aggregation using Splunk.Collaborate with cross-functional teams to define, design, and ship new features.Ensure code integrity and organization, including testing and deployment Regards, Praveenpraveen.s@themesoft.com",
+        "source": "Email",
+        "date_posted": "2024-10-29 11:18:03-05:00",
+        "unique_id": "192d931ef381c005",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

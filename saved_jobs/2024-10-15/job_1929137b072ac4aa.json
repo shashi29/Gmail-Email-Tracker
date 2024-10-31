@@ -1,0 +1,84 @@
+[
+    {
+        "company": "HCL America",
+        "job_title": "Data Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Longterm",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "CICD",
+                "ETL",
+                "AWS Glue",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Docker",
+                "Git",
+                "JIRA",
+                "Scrum",
+                "Airflow",
+                "MLflow",
+                "Flyte",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Monitoring tools",
+                "Logging tools",
+                "AI/ML engineering",
+                "Application testing",
+                "Development testing"
+            ],
+            "all": [
+                "Python",
+                "CICD",
+                "ETL",
+                "AWS Glue",
+                "Kubernetes",
+                "Docker",
+                "Git",
+                "JIRA",
+                "Scrum",
+                "Airflow",
+                "MLflow",
+                "Flyte",
+                "Snowflake",
+                "Monitoring tools",
+                "Logging tools",
+                "AI/ML engineering",
+                "Application testing",
+                "Development testing"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Niharika Goud",
+        "email": "niharika.kalvirga@testingxperts.com",
+        "jd": "Hello, My name is Niharika and I represent TestingXperts Inc. TestingXperts is a Specialist QA & Software Testing Company, and an Independent Software Testing division of Damco Group, which is a leading IT Solutions and Services company working with Fortune Enterprises globally. Inheriting the virtues of job quality and optimal user satisfaction from Damco Group, TestingXperts aims at promoting the ethics of connected innovation, thereby seeding the integral values in our employees and achieving unmatched contentment in our clients. To know more about TestingXperts Inc., please visit our website www.testingxperts.com. If you are interested in the opportunity listed below, please forward your updated resume along with current contact information, or perhaps you can recommend someone who would be interested in this position. Role : Data Engineer Location : Chicago, IL, USA(Remote) Duration : Longterm JD: Strong programing language- Python.\u2022 Implementing & managing CICD pipelines, infrastructure as code\u2022 Experience with K8s, docker, python, git, JIRA, Scrum\u2022 Implement monitoring and logging tools to ensure Application performance and reliability.\u2022 Experience building ETL pipelines\u2022 Experience with ETL tools such as AWS Glue, Lambda, EMR/Spark, Snowflake\u2022 Experience with orchestration and pipelining tools like Airflow, MLflow, or Flyte\u2022 Collaborate with Developers, Data scientists, IT Ops, other DevOps teams and customers\u2022 Working knowledge of AI/ML engineering\u2022 Experience in Application and Development testing.",
+        "source": "Email",
+        "date_posted": "2024-10-15 11:51:04-05:00",
+        "unique_id": "1929137b072ac4aa",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

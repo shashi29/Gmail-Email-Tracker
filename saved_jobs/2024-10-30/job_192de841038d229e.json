@@ -1,0 +1,96 @@
+[
+    {
+        "company": "Tekgence",
+        "job_title": "VMware + Azure Cloud Engineer",
+        "location": "Washington, DC, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Minimum (3) years of experience in design and maintenance of public/Gov cloud solutions with a focus on Microsoft Azure (Gov preferred) IaaS, PaaS service like Database services, Kubernetes etc.",
+            "degree_required": "Bachelor's or Master's Degree in Information Technology or Computer Science",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "VMware",
+                "Windows Server Administration",
+                "Active Directory",
+                "Networking"
+            ],
+            "primary": [
+                "IaaS",
+                "PaaS",
+                "SaaS",
+                "Cloud Migration",
+                "Azure CLI",
+                "PowerShell",
+                "Terraform",
+                "Ansible"
+            ],
+            "secondary": [
+                "Agile",
+                "ITIL V4",
+                "Scrum Master",
+                "Python",
+                "Bash",
+                "Pyspark",
+                "SQL",
+                "RESTful API",
+                "Web Services",
+                "XML",
+                "JSON"
+            ],
+            "all": [
+                "Azure",
+                "VMware",
+                "Windows Server Administration",
+                "Active Directory",
+                "Networking",
+                "IaaS",
+                "PaaS",
+                "SaaS",
+                "Cloud Migration",
+                "Azure CLI",
+                "PowerShell",
+                "Terraform",
+                "Ansible",
+                "Agile",
+                "ITIL V4",
+                "Scrum Master",
+                "Python",
+                "Bash",
+                "Pyspark",
+                "SQL",
+                "RESTful API",
+                "Web Services",
+                "XML",
+                "JSON"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Utkarsh",
+        "email": "utkarsh@tekgence.com",
+        "jd": "Hi Please share suitable resume for VMware + Azure Cloud Engineer its a onsite role at Washington, DC onsite\n\nTitle: VMware + Azure Cloud Engineer\nLocation: Washington, DC onsite\nEmployment Type: Contract\n\nThe IT/Cloud Engineer will design, deploy, and migrate systems for IaaS, PaaS, and SaaS environments. The Cloud Engineer is responsible for identification and selection of appropriate cloud services based on requirements and constraints, has deep subject matter expertise, and can evaluate new technologies for fit in current infrastructure architecture.\n\nDuties and Responsibilities\n1. Architect, design, deploy, and manage Azure Gov IaaS, SaaS & PaaS services, and solutions.\n2. Hands on role to implement and maintain Azure Gov Cloud tenant, including workloads migration (VMware) from on-perm to cloud.\n3. Manage overarching product/platform architectures and ensure design and development of all projects follow the architectural vision.\n4. Conduct analysis, design and implementation of infrastructure and cloud data center solutions including computing, networking, routing and security.\n5. Design and support solutions in cloud and virtualized computing environments with and understanding of hybrid cloud architectures.\n6. Successfully communicate, evangelize and implement the architectural vision across teams.\n7. Provide technical leadership and work with team direction on projects with a high level of complexity.\n8. Create a well-informed cloud strategy and manage the adaptation process.\n9. Cost management of Azure Gov services and implementation of a tagging strategy for Cloud Resources and Assets with an associated taxonomy in support of cost rebilling, reporting, and compliance.\n10. Proficient in core Microsoft technologies including Windows, Windows server administration, Active Directory, Identity and Access Management, DNS, SQL\n11. Design, build, upgrade, and decommission various Windows and Linux systems, features, and services including but not limited to:\n    a. Active Directory (Azure AD)\n    b. Azure Storage (Blob, Files, Disks)\n    c. App Services\n    d. BCDR (Azure Backup, Azure Site Recovery, Recovery Vaults)\n    e. Networking (vNets, Subnets, Express Route)\n    f. Virtual Machines\n12. Liaise effectively with 3rd party suppliers and support providers to ensure issues and solutions are provided within expected service levels.\n13. Create supporting documentation for various audiences with the ability to multi-task and be creative and innovative in a dynamic, fast paced team environment.\n14. Knowledge of RESTful API, Web Services, XML, JSON\n\nEducation:\n1. Bachelor's or Master's Degree in Information Technology or Computer Science\n2. The equivalent combination of education and successful work experience (15 years) and\n3. Microsoft AZURE Certification in specialized areas is required\n4. ITIL V4 Certification preferred\n5. Agile SaFe/Scrum Master Certification preferred\n\nQualifications:\n1. Minimum (3) years of experience in design and maintenance of public/Gov cloud solutions with a focus on Microsoft Azure (Gov preferred) IaaS, PaaS service like Database services, Kubernetes etc.\n2. Understand the terminologies and how to navigate IP subnetting, Network Security Groups, routing, Azure Firewall, load balancing, DNS, and other networking concepts and protocols\n3. Excellent technical architecture skills, enabling the creation of future-proof, complex global solutions and Strong Experience across Applications Migration (On-Perm VMware) to Azure (Gov Cloud Preferred).\n4. Minimum (3) years of experience providing IT administration and/or engineering services managing Windows and Linux Servers and Services.\n5. Expert knowledge of Azure CLI PowerShell, ARM Templates, Azure Networking, Azure Virtual Networks, and Site-to-Site-VPN.\n6. Intermediate knowledge of Azure DevOps configuration and Management, Azure Security Center, and Azure Identity Management, including Azure AD, Azure AD B2C, SSO.\n7. Experience with cloud monitoring including Azure Log Analytics, Azure Monitor, and Application insights.\n8. Experience implementing DevOPS practices including Infrastructure-As-Code (IAC), Continuous Integration / Continuous Deployment (CI / CD), and automated testing.\n9. Knowledge of network technologies as they relate to AWS.\n10. Knowledge of security policies, network security, data security and security event management to adopt cloud security services.\n11. Experience in Terraform and/or Ansible and/or Azure Gov cloud / AWS CloudFormation IaC tools.\n12. Script Experience - PowerShell, Python, Bash, or similar. Pyspark experience preferred.\n13. Experience with relational databases such as MS SQL\n\nTechnical Skills:\n1. Ability to exercise independent judgment and take action on it.\n2. Excellent analytical and creative problem-solving skills.\n3. Excellent listening, interpersonal, written, and oral communication skills.\n4. Logical and efficient, with keen attention to detail.\n5. Highly self-motivated and directed.\n6. Ability to effectively prioritize and execute tasks while under pressure.\n7. Strong customer service orientation.\n8. Experience working in a team-oriented, collaborative environment",
+        "source": "Email",
+        "date_posted": "2024-10-30 12:05:55-05:00",
+        "unique_id": "192de841038d229e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

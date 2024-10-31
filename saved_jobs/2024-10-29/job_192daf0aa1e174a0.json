@@ -1,0 +1,77 @@
+[
+    {
+        "company": "TEK Inspirations",
+        "job_title": "Data Scientist/Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 yrs",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python scripting",
+                "Cloud Technologies",
+                "AWS components",
+                "SQL",
+                "Unix",
+                "Linux"
+            ],
+            "primary": [
+                "ETL process automation",
+                "Data migration",
+                "Data flow CI/CD pipelines",
+                "DevOps",
+                "Data Science platforms"
+            ],
+            "secondary": [
+                "Kafka",
+                "Ab Initio",
+                "AWS Glue",
+                "Informatica",
+                "Alteryx"
+            ],
+            "all": [
+                "Python scripting",
+                "Cloud Technologies",
+                "AWS components",
+                "SQL",
+                "Unix",
+                "Linux",
+                "ETL process automation",
+                "Data migration",
+                "Data flow CI/CD pipelines",
+                "DevOps",
+                "Data Science platforms",
+                "Kafka",
+                "Ab Initio",
+                "AWS Glue",
+                "Informatica",
+                "Alteryx"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Vaibhav Raghuvanshi",
+        "email": "vaibhav.raghuvanshi@tekinspirations.com",
+        "jd": "Hi,Hope you are doing great!!!Please share suitable profile and mention JOB. Job Description -Data Scientist/Data EngineerNeed active LinkedIn 8-10 yrs of experience neededMust Haves Skills \u2022 Extensive experience with Python scripting and Cloud Technologies \u2022 Extensive experience with AWS components like S3, Athena, EMR, Glue, Redshift, Kinesis and Sagemaker \u2022 Experience in Automating ETL process with Python and Automation around AWS Data & Infrastructure \u2022 Extensive Experience with SQL/Unix/Linux scripting is a must \u2022 Extensive experience on Developing/testing Cloud/On Prem ETL (Ab Initio, AWS Glue, Informatica, Alteryx) \u2022 Extensive Experience in Data migration is a must (Teradata to Redshift preferred) \u2022 Experienced in large-scale application development testing \u2013 Cloud/ On Prem Data warehouse, Data Lake, Data Science \u2022 Experience in building Data flow CI/CD pipelines in GitLab \u2022 Extensive experience in DevOps/Data Ops space. \u2022 Experience in Data Science platforms like SageMaker/Machine Learning Studio/ H2O. \u2022 Strong experience of Kafka.",
+        "source": "Email",
+        "date_posted": "2024-10-29 16:38:35-05:00",
+        "unique_id": "192daf0aa1e174a0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Mindfore Inc",
+        "job_title": "Sr. Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks Certification",
+                "Data Lake",
+                "AWS",
+                "Spark",
+                "Python"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Databricks Certification",
+                "Data Lake",
+                "AWS",
+                "Spark",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mahesh",
+        "email": "mahesh@mindfore.com",
+        "jd": "From: Mahesh, Mindfore Inc mahesh@mindfore.com Reply to: mahesh@mindfore.com Job Title: Sr. Data EngineerLocation: RemoteDuration: 12+ MonthsMust Have:At least 10+ Years of total IT experienceDatabricks Certification Strong experience on Data Lake, AWS, Spark, Python",
+        "source": "Email",
+        "date_posted": "2024-10-25 07:52:27-05:00",
+        "unique_id": "192c3dc6e3ef958c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

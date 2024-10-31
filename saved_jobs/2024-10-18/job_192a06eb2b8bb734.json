@@ -1,0 +1,89 @@
+[
+    {
+        "company": "INNOZA TECH LLC",
+        "job_title": "Full Stack .NET Developer/Programmer- Senior",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "749557",
+            "experience_required": "Minimum 5 years of programing experience.",
+            "degree_required": "Bachelor\u2019s degree in computer science, other related degrees, or equivalent application development experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months PLUS",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "VB6",
+                "C#",
+                "T-SQL",
+                "ASP.NET",
+                "Entity Framework",
+                "ADO.NET"
+            ],
+            "primary": [
+                "VBScript",
+                "PL/SQL",
+                "Visual Studio",
+                "SQL Management Studio",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "GIT"
+            ],
+            "secondary": [
+                "Oracle APEX",
+                "jQuery",
+                "React",
+                "SQL Server Integration Services",
+                "BCP.exe",
+                "T-SQL Bulk Load"
+            ],
+            "all": [
+                "VB6",
+                "VBScript",
+                "C#",
+                "T-SQL",
+                "PL/SQL",
+                "ASP.NET",
+                "Entity Framework",
+                "ADO.NET",
+                "Visual Studio",
+                "SQL Management Studio",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "GIT",
+                "Oracle APEX",
+                "jQuery",
+                "React",
+                "SQL Server Integration Services",
+                "BCP.exe",
+                "T-SQL Bulk Load"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nagajyoti",
+        "email": "njyoti@innozatech.com",
+        "jd": "From: Nagajyoti, INNOZA TECH LLC. njyoti@innozatech.com Reply to: njyoti@innozatech.com Position: Full Stack .NET Developer/Programmer- Senior (749557)Location: Raleigh NC 27609Duration: 6 Months PLUSClient: NCDPIONLY LOCAL CANDIDATES Full Stack .NET Developer to help Migrate legacy Applications.You will work on a small team to migrate legacy applications developed in classic ASP (ActiveX), .NET Framework, and T-SQL to full stack ASP.NET Core applications. We need a developer that can pull business logic from a code base written in VB6, classic asp, and T-SQL. Then work with business owners to ensure the rules still apply or make any necessary changes. In any given day you might be asked to upgrade T-SQL scripts, migrate dynamic SQL built in VB6 to a stored procedure, write Web API REST services, build web pages with Razor Pages/MVC, debug an ELT job, document a process. We also have Oracle databases and APEX, which is Oracle\u2019s rapid development framework. Integration work with Oracle/APEX is possible. A good understanding of PL/SQL and APEX is a plus.Responsibilities and Duties\u00b7 Design and develop ASP.NET Core web applications using the .NET Core development stack.\u00b7 Work within an older code base that has been maintained by many developers over many years.\u00b7 Troubleshoot code using standard debugging tools like the Visual Studio debugger and the browser\u2019s dev tools to resolve application errors.\u00b7 Use GIT source control management in a team environment.\u00b7 Optimize large and complicated SQL scripts.\u00b7 Collaborate and communicate effectively with business owners and team members.\u00b7 Document existing and new application features.Job Requirements\u00b7 Minimum 5 years of programing experience.\u00b7 Proficient in programming languages such as VB6, VBScript, C#, T-SQL, and PL/SQL\u00b7 Experienced in ASP.NET development (.NET Framework and .NET Core) with Entity Framework and/or ADO.NET.\u00b7 Experienced with Visual Studio and SQL Management Studio development environments.\u00b7 Solid understanding of design patterns and database normalization.\u00b7 Proven experience with extract, transform, and load (ETL) processing and SQL Server tools such as Integration Services, BCP.exe, and T-SQL Bulk Load.\u00b7 Working knowledge of scheduled jobs including SQL Agent and Windows Scheduled Tasks.\u00b7 Experienced with GIT source control management.\u00b7 Strong understanding of browser side development including HTML, CSS, JavaScript\u00b7 Familiar with JavaScript libraries for building user interface such as jQuery and React\u00b7 Oracle APEX and PL/SQL experience is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-18 10:45:35-05:00",
+        "unique_id": "192a06eb2b8bb734",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

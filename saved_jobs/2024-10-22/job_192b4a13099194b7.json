@@ -1,0 +1,49 @@
+[
+    {
+        "company": "VSB TECH",
+        "job_title": "Python Developer",
+        "location": "NJ, USA",
+        "full_location": {
+            "city": "",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4-6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python"
+            ],
+            "primary": [
+                "Python"
+            ],
+            "secondary": [],
+            "all": [
+                "Python"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sarah",
+        "email": "sarah@vsbtech.com",
+        "jd": "From: Sarah, VSB TECH sarah@vsbtech.com Reply to: sarah@vsbtech.com Role Description: Python DeveloperLocation : NJ Competencies: Digital : PythonExperience (Years): 4-6Essential Skills: Python DeveloperDesirable Skills: Python Developer",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:18:33-05:00",
+        "unique_id": "192b4a13099194b7",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

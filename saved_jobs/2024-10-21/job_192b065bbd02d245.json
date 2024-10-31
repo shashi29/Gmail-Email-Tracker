@@ -1,0 +1,81 @@
+[
+    {
+        "company": "exaways",
+        "job_title": "AWS Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "Terraform"
+            ],
+            "primary": [
+                "DevOps Architecture",
+                "GitOps",
+                "Lambda",
+                "Authentication pattern",
+                "Helm template",
+                "Bash scripting",
+                "Github",
+                "Github action"
+            ],
+            "secondary": [
+                "Sonar",
+                "AppSec",
+                "Branching strategy",
+                "Python API development"
+            ],
+            "all": [
+                "AWS",
+                "Python",
+                "Terraform",
+                "DevOps Architecture",
+                "GitOps",
+                "Lambda",
+                "Authentication pattern",
+                "Helm template",
+                "Bash scripting",
+                "Github",
+                "Github action",
+                "Sonar",
+                "AppSec",
+                "Branching strategy",
+                "Python API development"
+            ],
+            "with_experience": [
+                "AWS (12+ years)",
+                "Python (12+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Aakash Velani",
+        "email": "aakash.velani@exaways.com",
+        "jd": "From: aakash.velani, exaways aakash.velani@exaways.com Reply to: aakash.velani@exaways.com We looking for 12+ years candidate only with good Linkedin Skill - Python ,AWS Who's taking Hacker Rank Test that profile only workable Linkedin is best way to reach me - https://www.linkedin.com/in/aakash-v-6938b1218/Job Description : Terraform Template creationTerraform module write upAWS Resources including Gateway, Lambda, Authentication patternHelm templatePython or Shell scripting, Bash scriptingPython developmentGithub, Github action includes Scans like Sonar, AppSecBranching strategyGitOpsPython API developmentExperience in DevOps Architecture design and strategy.how deploy same authentication in Lambda and EKSServer less authentication services",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:33:35-05:00",
+        "unique_id": "192b065bbd02d245",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

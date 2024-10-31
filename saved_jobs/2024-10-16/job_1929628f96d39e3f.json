@@ -1,0 +1,71 @@
+[
+    {
+        "company": "KK Software",
+        "job_title": "Software Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Amazon DynamoDB",
+                "AWS Lambda"
+            ],
+            "primary": [
+                "NoSQL",
+                "serverless applications",
+                "performance optimization",
+                "data models",
+                "data migration"
+            ],
+            "secondary": [
+                "collaboration",
+                "troubleshooting",
+                "code quality",
+                "automation"
+            ],
+            "all": [
+                "Amazon DynamoDB",
+                "AWS Lambda",
+                "NoSQL",
+                "serverless applications",
+                "performance optimization",
+                "data models",
+                "data migration",
+                "collaboration",
+                "troubleshooting",
+                "code quality",
+                "automation"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "B. Vijaya Lakshmi",
+        "email": "vijayalakshmi.b@kksoftwareassociates.com",
+        "jd": "From: Vijaya, KK Software vijayalakshmi.b@kksoftwareassociates.com Reply to: vijayalakshmi.b@kksoftwareassociates.com Title: DynamoDBFully RemoteWe are seeking a highly skilled Software Engineer with expertise in Amazon DynamoDB, and AWS Lambda to join our dynamic team. In this role, you will be responsible for designing, developing, and maintaining scalable and high-performance applications that support our clients credit rating operations.Key Responsibilities:\u2022 Design, develop, and deploy serverless applications using AWS Lambda.\u2022 Implement and manage NoSQL databases using Amazon DynamoDB.\u2022 Optimize DynamoDB performance, including indexing, partitioning, and query optimization.\u2022 Develop and maintain data models and schemas for DynamoDB to support application requirements.\u2022 Implement data migration and replication strategies for DynamoDB.\u2022 Monitor and troubleshoot DynamoDB performance issues and ensure high availability.\u2022 Collaborate with cross-functional teams to define, design, and ship new features.\u2022 Ensure the performance, quality, and responsiveness of applications.\u2022 Identify and correct bottlenecks and fix bugs.\u2022 Help maintain code quality, organization, and automationRegards,B. Vijaya LakshmiSr. IT RecruiterDesk Number: 46934349968751 Collin-McKinney Pkwy, #1302, McKinney,TX 75070555 Metro Place North, Suite#100 ,Dublin, OH-43017Email Id: vijayalakshmi.b@kksoftwareassociates.comURL: https://lnkd.in/g9kUu9km",
+        "source": "Email",
+        "date_posted": "2024-10-16 10:51:17-05:00",
+        "unique_id": "1929628f96d39e3f",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "MCPD Certified .Net Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "ASP.NET Core MVC",
+                "SQL Server",
+                "Java"
+            ],
+            "primary": [
+                "Entity Framework",
+                "RESTful APIs",
+                "Service Oriented Architecture (SOA)",
+                "Team Foundation Server (TFS)",
+                "AJAX",
+                "SQL Server Reporting Services (SSRS)",
+                "Test Driven Development (TDD)",
+                "Visual Studio",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "ETL development",
+                "SQL Server Integration Services (SSIS)",
+                "Azure",
+                "AWS",
+                "Kubernetes",
+                "Microsoft Power BI",
+                "JQuery",
+                "JavaScript"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "ASP.NET Core MVC",
+                "SQL Server",
+                "Java",
+                "Entity Framework",
+                "RESTful APIs",
+                "Service Oriented Architecture (SOA)",
+                "Team Foundation Server (TFS)",
+                "AJAX",
+                "SQL Server Reporting Services (SSRS)",
+                "Test Driven Development (TDD)",
+                "Visual Studio",
+                "Azure DevOps",
+                "ETL development",
+                "SQL Server Integration Services (SSIS)",
+                "Azure",
+                "AWS",
+                "Kubernetes",
+                "Microsoft Power BI",
+                "JQuery",
+                "JavaScript"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vishal Kumar",
+        "email": "vishal@vyzeinc.com",
+        "jd": "From: Vishal kumar, Vyze Inc vishal@vyzeinc.com Reply to: vishal@vyzeinc.com Job Description -MCPD Certified .Net Developer - MCPD CertificationColumbus, OhioHybrid - Must be Ohio resident Required to report on-site to pick up equipment on first day and be available to work on-site as requestedMust be local or within an hour driveF2F / In-person Interviewany visa The consultant will include requirements gathering, application design, application development, testing, deployment and technical support. Candidate is responsible for new application development and supporting legacy applications utilizing .NET, C#, Java, ASP.NET Core MVC, Web API, SQL Server and other technologies. The consultants will be required to port Java code samples and libraries to C#. SKILLSRequired / DesiredAmountNumber of YearsVerifiable experience as a .NET Web Developer developing ASP.NET CoreRequired10 MVC applicationsRequired4 Verifiable ASP.NET experience developing with the C\u2013Sharp (C#) languageRequired10 Verifiable experience with the Java languageRequired2 Verifiable experience with Microsoft C# .NET Core or .NET 8.Required2 Verifiable experience with SQL Server Database Design and development including optimization of queries, creating tables, views, and stored proceduresRequired10 Application experience developing applications using Entity Framework (EF) 4.0 or later.Required10 Experience creating design mock-ups and wireframes into front-end codeRequired5 Experience with consuming RESTful APIsRequired5 Verifiable Service Oriented Architecture (SOA) experience developing and securing Windows Communication Foundation (WCF)Required10 Experience or a demonstrable understanding of N-tier environments as it relates to development and deploymentRequired10 Experience or a demonstrable understanding of code repository strategies, code promotion strategies and recovery using Team Foundation Server (TFS).Required10 Verifiable experience implementing Asynchronous JavaScript and XML (AJAX) enabled controls within Active Server Pages (ASP).NET Web applicationsRequired5 Verifiable experience developing reports in SQL Server Reporting Services (SSRS) and making them accessible within an MVC web application.Required5 A demonstrable understanding of implementing secure coding practices for an ASP.NET MVC applicationRequired Experience in Test Driven Development (TDD) or a verifiable experience i6plementing a testing strategy for applications developedRequired2 Experience developing with Visual Studio; 2 year with Visual Studio 2019Required5 Experience with TFS/Azure DevOps including git, boards and CI/CD pipelinesRequired5 Experience ETL development experienceRequired3 Experience developing SQL Server Integration Services (SSIS).Desired Experience with Azure and/or AWS cloud computing, containers, Kubernetes.Desired 3 years of experience ETL development experience.Desired MCPD Certification - What is the completion date of the education or certifications of your candidate?Required Experience developing reports using Microsoft Power BIDesired Experience with JQuery and JavaScriptDesired",
+        "source": "Email",
+        "date_posted": "2024-10-23 15:21:56-05:00",
+        "unique_id": "192bb2c4d6807088",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

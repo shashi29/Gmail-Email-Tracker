@@ -1,0 +1,59 @@
+[
+    {
+        "company": "the church of Jesus Christ of latter-day Saints",
+        "job_title": "Database Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "3NF",
+                "ANSI SQL",
+                "left joins",
+                "common table expressions (CTE)",
+                "RDS objects",
+                "PL/SQL"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "3NF",
+                "ANSI SQL",
+                "left joins",
+                "common table expressions (CTE)",
+                "RDS objects",
+                "PL/SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "GUNJAN",
+        "email": "gunjan@pinakastaffing.com",
+        "jd": "From: GUNJAN, PINAKA STAFFING gunjan@pinakastaffing.com Reply to: gunjan@pinakastaffing.com 100%remotec2cClient:- the church of Jesus Christ of latter-day Saints Database Engineer that has experience in the following areas. Make sure your individual speaks good English. Ability to model in third normal form (3NF). If they are experienced in 3NF, they will have little problem coming up to speed on our data models. Ability to write queries against the data model using ANSI SQL, especially proficient with left joins and common table expressions (CTE). Basic understanding of RDS objects (including views, materialized views, triggers, packages, etc.). Basic PL/SQL skill. They should be very skilled in SQL, but our PL/SQL is fairly basic.",
+        "source": "Email",
+        "date_posted": "2024-10-17 16:05:19-05:00",
+        "unique_id": "1929cb009de3b258",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

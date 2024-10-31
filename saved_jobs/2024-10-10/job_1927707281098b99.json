@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "Java Full Stack Developer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hr. - (8-12 years) / $60/hr. \u2013 (12+ years)"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "SQL"
+            ],
+            "primary": [
+                "RESTful APIs",
+                "Spring Data",
+                "Spring Security",
+                "MySQL",
+                "PostgreSQL",
+                "Oracle",
+                "Angular"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "SQL",
+                "RESTful APIs",
+                "Spring Data",
+                "Spring Security",
+                "MySQL",
+                "PostgreSQL",
+                "Oracle",
+                "Angular"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "suganesh",
+        "email": "suganesh.s@i-q.co",
+        "jd": "From: suganesh, Infinity quest suganesh.s@i-q.co Reply to: suganesh.s@i-q.co Job Title: Java Full Stack DeveloperLocation: Houston, TX (Day 1 Onsite)Rate: $55/hr. - (8-12 years) / $60/hr. \u2013 (12+ years) Job Description:Need ex-JPMC experienceDesign, develop, and maintain Java-based applications using Spring Boot.Strong experience with Spring Boot and its ecosystem (e.g., Spring Data, Spring Security, etc.).Implement RESTful APIs and integrate with other systems and services.Proficiency in SQL and experience with relational databases (e.g., MySQL, PostgreSQL, Oracle).Collaborate with front-end developers to integrate back-end services with Angular-based user interfaces.Work with SQL databases to design and optimize queries, and ensure data integrity and performance.",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:37:34-05:00",
+        "unique_id": "1927707281098b99",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "company": "1st-Recruit LLC",
+        "job_title": "Lead Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "PySpark",
+                "SQL"
+            ],
+            "primary": [
+                "GCP",
+                "Big Query",
+                "Streaming (pub/sub)",
+                "data proc",
+                "data flow",
+                "Kafka",
+                "shell scripting",
+                "Stored procs",
+                "Data warehouse",
+                "distributed data platforms",
+                "data lake",
+                "Database definition",
+                "schema design",
+                "Looker Views",
+                "Models",
+                "CI/CD pipeline"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "PySpark",
+                "SQL",
+                "GCP",
+                "Big Query",
+                "Streaming (pub/sub)",
+                "data proc",
+                "data flow",
+                "Kafka",
+                "shell scripting",
+                "Stored procs",
+                "Data warehouse",
+                "distributed data platforms",
+                "data lake",
+                "Database definition",
+                "schema design",
+                "Looker Views",
+                "Models",
+                "CI/CD pipeline"
+            ],
+            "with_experience": [
+                "Python",
+                "PySpark",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sapna",
+        "email": "sapna@1st-recruit.com",
+        "jd": "From: Sapna, 1st-Recruit LLC sapna@1st-recruit.com Reply to: sapna@1st-recruit.com Lead Data EngineerREMOTEGCP cloud platform - GCS, Big Query, Streaming (pub/sub), data proc and data flow o Python, PYSpark, Kafka, SQL, shell scripting & Stored procs o Data warehouse, distributed data platforms and data lake o Database definition, schema design, Looker Views, Models o CI/CD pipeline \u2022 Proven track record in scripting code in Python, PySpark and SQL",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:18:08-05:00",
+        "unique_id": "192c506998e9d794",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

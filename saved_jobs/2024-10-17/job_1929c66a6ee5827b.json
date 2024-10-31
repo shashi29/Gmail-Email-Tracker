@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Resource Logistics",
+        "job_title": "SQL DBA with MarkLogic and Netezza",
+        "location": "Branchville, NJ, USA",
+        "full_location": {
+            "city": "Branchville",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "13+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Database Design",
+                "MarkLogic Administration",
+                "Netezza Administration"
+            ],
+            "primary": [
+                "Performance Tuning",
+                "Troubleshooting",
+                "Data Integrity and Security",
+                "Backup and Recovery",
+                "Automation",
+                "Collaboration",
+                "Query Optimization",
+                "Data Management",
+                "Security",
+                "Data Load Management"
+            ],
+            "secondary": [
+                "Mentoring",
+                "System Maintenance",
+                "User Roles Management",
+                "Encryption"
+            ],
+            "all": [
+                "SQL Database Design",
+                "MarkLogic Administration",
+                "Netezza Administration",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Data Integrity and Security",
+                "Backup and Recovery",
+                "Automation",
+                "Collaboration",
+                "Query Optimization",
+                "Data Management",
+                "Security",
+                "Data Load Management",
+                "Mentoring",
+                "System Maintenance",
+                "User Roles Management",
+                "Encryption"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Stutie Sharrma",
+        "email": "stuti@resource-logistics.com",
+        "jd": "From: Stutie Sharrma, Resource Logistics stuti@resource-logistics.com Reply to: stuti@resource-logistics.com Title : SQL DBA with MarkLogic and NetezzaLocation : Branchville, NJ (Hybrid)Minimum experience: 13+ Years An L3 role typically involves advanced-level responsibilities, including resolving complex issues, overseeing system stability, and providing expert guidance. Here's a breakdown based on specifications for SQL (70%), MarkLogic (20%), and Netezza (10%): 1. SQL Database Design and Optimization: Designing efficient database schemas, indexing strategies, and query optimization to improve performance. Performance Tuning: Monitoring and optimizing the performance of SQL queries, stored procedures, and overall database health. Troubleshooting: Handling escalated issues from L2 support, including complex SQL errors, deadlocks, and data inconsistencies. Data Integrity and Security: Implementing security measures, such as access controls and encryption, ensuring data integrity and compliance with standards. Backup and Recovery: Managing and maintaining database backups, ensuring disaster recovery processes are in place. Automation: Creating and maintaining scripts for database tasks, including backups, monitoring, and alerts. Collaboration: Working with development teams to optimize database interactions and provide guidance on best practices. 2. MarkLogic Database Administration: Managing the MarkLogic NoSQL database, including installation, configuration, and upgrading. Query Optimization: Optimizing XQuery and search performance in MarkLogic, ensuring efficient data retrieval. Data Management: Managing document-based data structures, indexing, and retrieval, ensuring the system handles large-scale data efficiently. Troubleshooting and Maintenance: Handling escalated MarkLogic-specific issues, including performance bottlenecks and system failures. Security: Managing security features like user roles, permissions, and encryption in MarkLogic. 3. Netezza System Administration: Administering the Netezza appliance, including system health checks, upgrades, and maintenance. Performance Tuning: Optimizing Netezza-specific SQL queries, particularly those involving large datasets. Troubleshooting: Handling escalated issues specific to the Netezza environment, such as performance lags or database errors. Data Load Management: Overseeing data load processes to ensure efficient ETL operations. Across these platforms, L3 support will involve advanced troubleshooting, handling escalations, and ensuring overall system performance, reliability, and security. Additionally, the L3 professional would likely be responsible for mentoring junior team members and staying up-to-date with evolving technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-17 15:58:16-05:00",
+        "unique_id": "1929c66a6ee5827b",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

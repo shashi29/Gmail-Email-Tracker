@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Upward Talent",
+        "job_title": ".NET Fullstack Developer",
+        "location": "Lincoln, NE, USA",
+        "full_location": {
+            "city": "Lincoln",
+            "state": "NE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s/Master\u2019s degree in computer science, Information Technology, Software Engineering, or an associated field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net framework",
+                ".Net Core",
+                "MVC",
+                "React",
+                "SQL Server"
+            ],
+            "primary": [
+                "Vue.js",
+                "Angular",
+                "JavaScript",
+                "jQuery",
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "Restful APIs",
+                "GitHub",
+                "TFS",
+                "CI/CD",
+                "NUnit",
+                "XUnit",
+                "MSTest"
+            ],
+            "secondary": [
+                "App services",
+                "Azure functions",
+                "Technical documentation",
+                "Team collaboration",
+                "Financial industry experience"
+            ],
+            "all": [
+                ".Net framework",
+                ".Net Core",
+                "MVC",
+                "React",
+                "SQL Server",
+                "Vue.js",
+                "Angular",
+                "JavaScript",
+                "jQuery",
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "Restful APIs",
+                "GitHub",
+                "TFS",
+                "CI/CD",
+                "NUnit",
+                "XUnit",
+                "MSTest",
+                "App services",
+                "Azure functions",
+                "Technical documentation",
+                "Team collaboration",
+                "Financial industry experience"
+            ],
+            "with_experience": [
+                ".Net framework",
+                ".Net Core",
+                "MVC",
+                "React",
+                "SQL Server"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Diksha Tiwari",
+        "email": "dtiwari@upwardtalent.com",
+        "jd": "Hope you are doing good. I am hiring a Consultant for one of my client's requirements. Job Description for the same is written below. Role: .Net Fullstack Developer\nLocation: Lincoln NE (Onsite from Day 1)\nDuration: Long Term\nHands on experience in Web application (full stack) development using .Net framework & .Net (Core), MVC.\nStrong hands on using one of the front-end UI frameworks Vue.js, Angular or React and complimentary technologies ie., JavaScript, jQuery, HTML, CSS, Bootstrap. Must have React experience.\nHaving SQL Server skills with the ability to create complex stored procedures, views, functions, tables etc.,\nGood experience in developing Restful APIs and integrating 3rd party APIs.\nExperience in implementation of design patterns, code optimization and performance tuning.\nGood knowledge on code repositories like GitHub, TFS etc.\nGood to have knowledge of App services and Azure functions.\nGood knowledge of integrating code into CI/CD pipelines.\nGood unit testing skills to ensure responsiveness and efficiency with knowledge of tools like NUnit, XUnit, MSTest etc.\nPerform code reviews, mentor junior developers and fix QA raised defects seamlessly.\nA good team player, collaborate with project managers, tech leads and support offshore-onsite coordination\nSupport during various stages of deployment and collaborate with the relevant teams during deployment.\nKnowledge on writing technical documentation and presentations.\nDemonstrated ability to work independently with little direction or as part of a team.\nDemonstrated ability to work on highly complex projects within tight timelines\nThe ability to clearly communicate complex technical specifications, and a motivation to achieve best-in-class results.\nFinancial industry experience is beneficial.",
+        "source": "Email",
+        "date_posted": "2024-10-18 11:34:35-05:00",
+        "unique_id": "192a129d4e87f4d6",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

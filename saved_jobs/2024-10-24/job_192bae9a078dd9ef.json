@@ -1,0 +1,76 @@
+[
+    {
+        "company": "GVR Infotek",
+        "job_title": "Sr. SQL Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL development",
+                "data modeling",
+                "database design",
+                "database performance tuning",
+                "investment banking financial reporting"
+            ],
+            "primary": [
+                "database management systems (DBMS)",
+                "Reporting tool quick sight",
+                "Kafka",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "interpersonal skills"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL development",
+                "data modeling",
+                "database design",
+                "database performance tuning",
+                "investment banking financial reporting",
+                "Reporting tool quick sight",
+                "Kafka",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "interpersonal skills"
+            ],
+            "with_experience": [
+                "SQL development",
+                "data modeling",
+                "database design",
+                "investment banking financial reporting"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kartik Mahajan",
+        "email": "kartik.mahajan@gvrinfotek.com",
+        "jd": "From: Kartik Mahajan, GVR Infotek kartik.mahajan@gvrinfotek.com Reply to: kartik.mahajan@gvrinfotek.com Role: Sr. SQL DeveloperLocation: New York, NY Need Local Candidates only Day 1 Onsite LinkedIn id is must (Should not been created recently, at least 6 Years old in case of senior candidates) Job Summary: As a SQL Developer, you will play a critical role in designing, developing, and optimizing database solutions that support our investment banking operations. You will work closely with cross-functional teams to ensure that our data architecture meets business needs and regulatory requirements, particularly in the realm of financial reporting. Required Skills and Qualifications:\u2022 10+ years of experience in database development.\u2022 Extensive experience with SQL development.\u2022 Proven experience in data modeling and database design.\u2022 Experience in investment banking financial reporting is required.\u2022 Experienced in Reporting tool quick sight.\u2022 Experienced in messaging (near real time) data proceeding tools like Kafka, other tools are fine.\u2022 Strong analytical and problem-solving skills.\u2022 Excellent understanding of database management systems (DBMS).\u2022 Proficient in database performance tuning and optimization.\u2022 Ability to work in a fast-paced, dynamic environment.\u2022 Strong communication and interpersonal skills. Key Responsibilities:\u2022 Design, develop, and optimize complex SQL scripts, stored procedures, packages, and functions.\u2022 Develop and maintain conceptual, logical, and physical data models that support business requirements and regulatory standards.\u2022 Implement and manage data integration processes using cloud-based tools and services.\u2022 Utilize your expertise in investment banking to ensure that financial reporting requirements are met efficiently and accurately.\u2022 Collaborate with stakeholders to understand reporting needs and translate them into technical specifications.\u2022 Optimize database performance and troubleshoot issues to ensure high availability and reliability.\u2022 Stay updated with emerging technologies and best practices to improve data management processes.\u2022 Document data models, integration processes, and reporting methodologies for future reference.",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:09:09-05:00",
+        "unique_id": "192bae9a078dd9ef",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

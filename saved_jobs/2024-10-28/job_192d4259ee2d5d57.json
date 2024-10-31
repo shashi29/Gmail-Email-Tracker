@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Tanisha Systems Inc",
+        "job_title": "Java Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Terraform",
+                "Spring Boot"
+            ],
+            "primary": [
+                "Hibernate",
+                "Spring MVC",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Bash",
+                "Python"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "DevOps",
+                "CI/CD",
+                "Java certifications",
+                "Cloud certifications"
+            ],
+            "all": [
+                "Java",
+                "Terraform",
+                "Spring Boot",
+                "Hibernate",
+                "Spring MVC",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Bash",
+                "Python",
+                "Docker",
+                "Kubernetes",
+                "DevOps",
+                "CI/CD",
+                "Java certifications",
+                "Cloud certifications"
+            ],
+            "with_experience": [
+                "Java (10+ years)",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sumit kumar",
+        "email": "sumit@tanishasystems.com",
+        "jd": "Greetings,My name is Sumit and I'm an IT recruiter at Tanisha Systems. Our records show that you are an experienced IT professional with experience in Android/IOS Developer. This experience is relevant to one of my current openings in TX. The opening requires good communication skills in addition to the above skills. You can find more details about the job postingTitle: Java DeveloperLocation: Chicago, IL (3 Days Onsite in a week)Experience: 10+ Years We are seeking a talented Java Developer with a strong understanding of Terraform to join our dynamic team. The ideal candidate will have a solid foundation in Java programming, along with experience in infrastructure as code using Terraform.Key Responsibilities:Design, develop, and maintain high-quality Java applications.Collaborate with cross-functional teams to understand business requirements and translate them into technical specifications.Develop and maintain RESTful APIs using Java frameworks like Spring Boot.Work with Terraform to automate the provisioning and configuration of infrastructure resources on cloud platforms like AWS, Azure, or GCP.Integrate with various backend systems and databases.Perform unit testing, integration testing, and end-to-end testing to ensure application quality.Optimize applications for performance, scalability, and security.Stay updated with the latest trends and technologies in the Java and cloud computing ecosystems.Required Skills:Strong proficiency in Java programming language and object-oriented programming concepts.Experience with Java frameworks like Spring Boot, Hibernate, or Spring MVC.In-depth knowledge of Terraform and its best practices.Understanding of cloud platforms like AWS, Azure, or GCP.Experience with infrastructure as code principles.Proficiency in scripting languages like Bash or Python.Strong problem-solving and debugging skills.Ability to work independently and as part of a team.Preferred Skills:Experience with containerization technologies like Docker and Kubernetes.Knowledge of DevOps practices and tools.Familiarity with CI/CD pipelines.Certifications in Java or cloud platforms",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:37:58-05:00",
+        "unique_id": "192d4259ee2d5d57",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

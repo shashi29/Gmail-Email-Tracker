@@ -1,0 +1,58 @@
+[
+    {
+        "company": "ItechUS",
+        "job_title": ".Net developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "Angular",
+                "JavaScript",
+                "TypeScript",
+                "MS SQL Server"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                ".NET",
+                "Angular",
+                "JavaScript",
+                "TypeScript",
+                "MS SQL Server"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mahender",
+        "email": "mahender@itechus.net",
+        "jd": "From: Mahender, ItechUS mahender@itechus.net Reply to: mahender@itechus.net .Net developer Location : New York NY , Need Locals F2F Interview Duration : 12+ Months Dot Net (.Net) Full-Stack Developer with expertise in Angular, JavaScript/TypeScript, .NET, and MS SQL Server based out of New York location",
+        "source": "Email",
+        "date_posted": "2024-10-10 14:59:12-05:00",
+        "unique_id": "192787f5ebf639b8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

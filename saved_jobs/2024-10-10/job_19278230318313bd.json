@@ -1,0 +1,83 @@
+[
+    {
+        "company": "CCIT INC",
+        "job_title": "Data Lead - Architect",
+        "location": "New Holland, PA, USA",
+        "full_location": {
+            "city": "New Holland",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "14+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft Azure Data Services",
+                "Azure SQL",
+                "Azure Data Lake",
+                "Azure Data Factory",
+                "SQL Server",
+                "SQL Server Integration Services (SSIS)"
+            ],
+            "primary": [
+                "Power BI",
+                "Data modeling",
+                "ETL/ELT design",
+                "Data governance",
+                "Data security",
+                "Data quality frameworks"
+            ],
+            "secondary": [
+                "Industry standards",
+                "Best practices",
+                "Complex data architectures",
+                "Communication skills",
+                "P&C Insurance domain"
+            ],
+            "all": [
+                "Microsoft Azure Data Services",
+                "Azure SQL",
+                "Azure Data Lake",
+                "Azure Data Factory",
+                "SQL Server",
+                "SQL Server Integration Services (SSIS)",
+                "Power BI",
+                "Data modeling",
+                "ETL/ELT design",
+                "Data governance",
+                "Data security",
+                "Data quality frameworks",
+                "Industry standards",
+                "Best practices",
+                "Complex data architectures",
+                "Communication skills",
+                "P&C Insurance domain"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shan Mohammad",
+        "email": "shan@ccitinc.com",
+        "jd": "From: SHAN MOHAMMAD, CCIT INC shan@ccitinc.com Reply to: shan@ccitinc.com Data Lead/ArchitectNOTE :- Property AND Casualty experience is MUSTNew Holland, PA- Hybrid6 Months \u2022 14+ years\u2019 experience with strong expertise in Microsoft Azure Data Services: Azure SQL, Azure Data Lake, Azure Data Factory, MS Fabric.\u2022 Proficiency with SQL Server and SQL Server Integration Services (SSIS).\u2022 Familiarity with Power BI for building data models and reports.\u2022 Hands-on experience in data modeling, ETL/ELT design, and implementation.\u2022 Experience in implementing data governance, data security, and data quality frameworks.\u2022 Knowledge of industry standards and best practices related to data management.\u2022 Strong ability to design and troubleshoot complex data architectures.\u2022 Strong communication skills to interact with both technical and non-technical stakeholders.\u2022 Experience in P&C Insurance domain is a desirable",
+        "source": "Email",
+        "date_posted": "2024-10-10 14:57:45-05:00",
+        "unique_id": "19278230318313bd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

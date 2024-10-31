@@ -1,0 +1,76 @@
+[
+    {
+        "company": "V-Beyond Corporation",
+        "job_title": "Data Business System Analyst",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, engineering, statistics, economics, or MBA",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Analytics",
+                "Databricks architecture",
+                "Unity Catalog",
+                "Collibra data catalogue",
+                "data governance"
+            ],
+            "primary": [
+                "SQL",
+                "Python",
+                "Databricks",
+                "logical data modeling",
+                "ETL/ELT tools",
+                "data dictionary development"
+            ],
+            "secondary": [
+                "Databricks-Spark",
+                "Scala",
+                "Java"
+            ],
+            "all": [
+                "Data Analytics",
+                "Databricks architecture",
+                "Unity Catalog",
+                "Collibra data catalogue",
+                "data governance",
+                "SQL",
+                "Python",
+                "Databricks",
+                "logical data modeling",
+                "ETL/ELT tools",
+                "data dictionary development",
+                "Databricks-Spark",
+                "Scala",
+                "Java"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Selva Kumar",
+        "email": "selvak@vbeyond.com",
+        "jd": "Greetings! I hope you are doing well. I am Selva from V-Beyond Corp. We are a global recruitment company with a specialization in the hiring of IT professionals. One of our clients is looking for a Data Business System Analyst at Plano TX Remote Role: Data Business System AnalystType: Contract Job Location: Plano TX Remote Mandatory skills: Data Analytics , Databricks architecture, Unity Catalog, Collibra data catalogue and data governance modulesCandidate should be comfortable working in onshore and offshore model Role Overview:This role will be responsible for translating business needs into technical requirements, managing logical data models, and working closely with ingestion and curation teams. This role requires a deep understanding of:Logical data modelingComplex metadata managementDeveloping, managing, and aligning technical data requirementsData curationData governance About the role:Collaborate with business leaders to define requirements and priorities and to proactively understand and update metric logic and definitionDevelop technical requirements (e.g., aggregation level, granularity) based on metrics established by business teamsDesign logical data model and orchestration requirementsOwn and manage logical data model for the Enterprise Analytics team in tandem with ingestion and curation leadsOversee data catalog entries and enforce data cataloging rulesManage access controls for end data productsManage change requests to the structure, definitions and/or security of identified data objectsCommunicate with the Business Data System Owner and Business Data Steward on metric updatesAct as escalation point for Data Quality Analysts when defined processes are insufficient to resolve issues About you: Hold a Bachelor\u2019s degree in computer science, engineering, statistics, economics, or MBABring 3+ years of experience in data engineering or data analysisHave hands-on experience with and understanding of the following:SQLPython or other programming languageDatabricks or other cloud data management platformTechnical and business data catalogingLogical data modeling, including experience designing logical data modelsETL/ELT tools such as Apache AirflowData dictionary developmentBring proven experience in data management, requirements management, and metadata managementSkillsDatabricks-SparkSQL-Scala/Python/Java",
+        "source": "Email",
+        "date_posted": "2024-10-18 10:03:02-05:00",
+        "unique_id": "192a04817e877685",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

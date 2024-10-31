@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Resource Hunt Group",
+        "job_title": "Certified SQL Server DBA",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "4 years",
+            "degree_required": "4 year college degree or equivalent technical study",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server DBA"
+            ],
+            "primary": [
+                "Microsoft SQL Server",
+                "Database management",
+                "Performance tuning",
+                "Capacity planning"
+            ],
+            "secondary": [
+                "SQL Server certification"
+            ],
+            "all": [
+                "SQL Server DBA",
+                "Microsoft SQL Server",
+                "Database management",
+                "Performance tuning",
+                "Capacity planning",
+                "SQL Server certification"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Andy",
+        "email": "responseph@resourcehuntgroup.com",
+        "jd": "From: Andy, RHG responseph@resourcehuntgroup.com Reply to: responseph@resourcehuntgroup.com Hi All,Hope you are doing great.Role: Certified SQL Server DBALocation: Columbus, OHDuration: ContractNeed only local candidates from Columbus, OHJob describtion:The SQL Server DBA will be responsible for managing Microsoft SQL Server Database environments including on the SQL Server databases virtual machine (VM) servers. They will ensure best practices in database planning, design, configuration, performance and capacity planning and growth ensuring our SQL databases offer the highest reliability and performance possible. They will work with the DBA ITM1 to ensure that team goals and metrics are met. Will also work with project management to support and ensure timely and effective client communications about deployments and upgrades.SkillRequired / DesiredAmountNumber of years4 year college degree or equivalent technical studyRequired4 Experience as SQL Server DBARequired9 Seeking an experienced SQL Server DBA with managing the MS SQL Server environments including the DB VM serversRequired SQL Server DBA certification is preferredHighly desired Thanks & Regrads,Andy.",
+        "source": "Email",
+        "date_posted": "2024-10-14 14:56:56-05:00",
+        "unique_id": "1928cd4dc4ec45d7",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

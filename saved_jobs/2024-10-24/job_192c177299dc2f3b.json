@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "Python Developer with Terraform",
+        "location": "Pleasanton, CA, USA",
+        "full_location": {
+            "city": "Pleasanton",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Terraform"
+            ],
+            "primary": [
+                "Kubernetes",
+                "AWS Services",
+                "CI/CD setup"
+            ],
+            "secondary": [
+                "SRE",
+                "ArgoCD"
+            ],
+            "all": [
+                "Python",
+                "Terraform",
+                "Kubernetes",
+                "AWS Services",
+                "CI/CD setup",
+                "SRE",
+                "ArgoCD"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Basavaraj",
+        "email": "basavaraj@centraprise.com",
+        "jd": "From: Basavaraj, Centraprise basavaraj@centraprise.com Reply to: basavaraj@centraprise.com Hi Team, Greetings from Centraprise,Role: - Python Developer with TerraformLocation \u2013 \u2013 Pleasanton, CA - Day 1 Onsite and HybridNOTE: LinkedIn & Passport Number Is Must Interview process --- This demand will have 1 internal L1 and client interview of 3 rounds , which include hands-on tests and screen sharing. Total 4 rounds of interview.Skills : Python , Terraform , Kubernetes , AWS Services , CI/CD setup , SRE , ArgoCDJob Description:We are looking for Python Developer with Terraform with Terraform , Kubernetes , AWS Services , CI/CD setup , SRE , ArgoCD Appreciate your time.Thanks & RegardsBasavaraj | Talent Acquisition AssociateCentraprise Corp33 Wood Avenue South, Suite 600, Iselin NJ 08830Desk : 848-209-8309Email: basavaraj@centraprise.comConnect me on LinkedIn: linkedin.com/in/basavaraj-n-methre-720b55223",
+        "source": "Email",
+        "date_posted": "2024-10-24 19:23:31-05:00",
+        "unique_id": "192c177299dc2f3b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "company": "CAGUS",
+        "job_title": "AWS Cloud Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Go",
+                "Apache Kafka",
+                "AWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3, Route53)"
+            ],
+            "primary": [
+                "Spring Boot",
+                "RESTful API technologies",
+                "Microservices",
+                "DevOps tools (Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, Sonar Qube)",
+                "Infrastructure-as-Code (IaC) using CloudFormation or Terraform"
+            ],
+            "secondary": [
+                "Shell scripts",
+                "Gradle",
+                "Jenkins",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "Go",
+                "Apache Kafka",
+                "AWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3, Route53)",
+                "Spring Boot",
+                "RESTful API technologies",
+                "Microservices",
+                "DevOps tools (Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, Sonar Qube)",
+                "Infrastructure-as-Code (IaC) using CloudFormation or Terraform",
+                "Shell scripts",
+                "Gradle",
+                "Jenkins",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Fizal",
+        "email": "fizal.a@cagus.com",
+        "jd": "From: Fizal, CAGUS fizal.a@cagus.com Reply to: fizal.a@cagus.com Position: AWS Cloud Engineer (Need Locals)Location: Plano, TX (Day 1 Onsite)Duration: Contract F2F InterviewMandatory Skills:Java, Python, Go, Apache KafkaJava, Spring Boot, RESTful API technologies/MicroservicesAWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53) Detailed Job Description:Formal training or certification on software engineering concepts and 10+ years applied experienceHands-on practical experience delivering system design, application development, testing, and operational stabilityAdvanced in one or more programming language(s) - Java, Python, GoA strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practicesDesign and building web environments on AWS, which includes working with services like EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53Advanced in modern technologies such as: Java version 8+, Spring Boot, Restful Microservices, AWS or Cloud Foundry, Kubernetes.Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar QubeExperience and knowledge of writing Infrastructure-as-Code (IaC) and Environment-as-Code (EaC), using tools like CloudFormation or TerraformExperience with high volume, SLA critical applications, and building upon messaging and or event-driven architecturesDeep understanding of financial industry and their IT systems Nice to Have:IaC, EaC & CI/CD, Shell scripts, Gradle, Maven, Jenkins, SpinnakerSplunk, Datadog, Dynatrace. CloudWatch or GrafanaAWS, Terraform & Jul",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:01:07-05:00",
+        "unique_id": "192aff2957da3256",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

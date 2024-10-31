@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Sr. Data analyst automation ( Azure and Snowflake)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Analyst",
+                "Snowflake",
+                "Data Automation",
+                "SQL",
+                "Data Profiling"
+            ],
+            "primary": [
+                "Azure",
+                "Data Visualization",
+                "Power BI",
+                "Tableau"
+            ],
+            "secondary": [
+                "Data Identification",
+                "Querying",
+                "Cleaning",
+                "Wrangling",
+                "Checking Quality",
+                "Stored Procs",
+                "SSRS",
+                "Data Lineage"
+            ],
+            "all": [
+                "Data Analyst",
+                "Snowflake",
+                "Data Automation",
+                "SQL",
+                "Data Profiling",
+                "Azure",
+                "Data Visualization",
+                "Power BI",
+                "Tableau",
+                "Data Identification",
+                "Querying",
+                "Cleaning",
+                "Wrangling",
+                "Checking Quality",
+                "Stored Procs",
+                "SSRS",
+                "Data Lineage"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "saravanaraj",
+        "email": "saravanaraj@smartitframe.com",
+        "jd": "Data analyst automation ( Azure and Snowflake) Drive automation, pull measurements from systems to derive KPIs to support the evaluation of introducing best practices and optimization on quality, cost and speed to delivery and problem resolution. The data analyst is responsible for analysing business requirements and converting them into data requirements such as reports, visualizations, and data lifecycle management. They will analyse and interpret complex data sets to inform business decisions. Senior Data Analysts should have strong experience in identifying and querying data using both standard relational and non-relational systems. They should also possess a solid understanding of both Structured and Unstructured Data. Additionally, strong skills in Data Profiling and SQL are necessary for analyzing source-target data and generating Source- Target Mapping Sheets (STTM). Experience working in big data environments, both on-premises and in the cloud (hands-on exp in Snowflake ) as well as proficiency with reporting tools like Power BI, is also required. Snowflake, SQL Server (Stored Procs, SQL\u2019s, etc.), SQL Queries, SSR, Azure, Power BI, BRD, Data Lineage",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:54:04-05:00",
+        "unique_id": "192c4b9a1c4859d3",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

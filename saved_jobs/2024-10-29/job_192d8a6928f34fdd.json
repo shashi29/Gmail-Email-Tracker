@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Cognizant",
+        "job_title": "Java Developer",
+        "location": "Riverwoods, IL, USA",
+        "full_location": {
+            "city": "Riverwoods",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java/J2EE",
+                "Spring Boot",
+                "ReactJS"
+            ],
+            "primary": [
+                "CI/CD",
+                "Git/GitHub",
+                "API service architecture",
+                "AWS",
+                "NoSQL",
+                "Shell",
+                "Python",
+                "Scala"
+            ],
+            "secondary": [
+                "Agile",
+                "High availability",
+                "Scalability design",
+                "Performance monitoring",
+                "Secure web applications",
+                "Software testing",
+                "Microservices"
+            ],
+            "all": [
+                "Java/J2EE",
+                "Spring Boot",
+                "ReactJS",
+                "CI/CD",
+                "Git/GitHub",
+                "API service architecture",
+                "AWS",
+                "NoSQL",
+                "Shell",
+                "Python",
+                "Scala",
+                "Agile",
+                "High availability",
+                "Scalability design",
+                "Performance monitoring",
+                "Secure web applications",
+                "Software testing",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Mani",
+        "email": "mani.m@themesoft.com",
+        "jd": "From: Mani, THEMESOFT mani.m@themesoft.com Reply to: mani.m@themesoft.com Hi, Good Day!!!I\u2019m Mani with Theme Soft. I came across your profile wanted to reach out to discuss this exciting opportunity I have with my client for Java Developer role. Your profile looks to be a great match for the requirement and would appreciate your thoughts once review the below requirement. Job Title: Java DeveloperLocation: Riverwoods, IL 60015 (Hybrid)Client: CognizantDuration: Contract Job Description:\u2022 Strong understanding of object-oriented principles with an ability to write clean code\u2022 Strong experience working with a relational database and NoSQL database\u2022 Strong experience with CI/CD pipelines with Jenkins or similar; Git/GitHub; Artifactory\u2022 Experience developing and implementing API service architecture\u2022 Experience in working in a cloud environment such as AWS, GCP or Azure.\u2022 Strong experience in scripting languages such as Shell/Python/Scala/Java.\u2022 Experience with AWS based solutions such as RDS, Lambda, Snowflake or S3\u2022 Understanding of messaging systems like MQ, Flux.\u2022 Experience as part of an Agile engineering or development team\u2022 Proven skills in high availability and scalability design, as well as performance monitoring\u2022 Build secure web applications with user authentication\u2022 Understanding of software testing principles and methodologies\u2022 Experience with Spring Boot and Microservices\u2022 Experience with ReactJSTop Skills Required\u2022 Java/J2EE\u2022 Spring Boot\u2022 ReactJS Thanks & RegardsMani_______________________ Email: mani.m@themesoft.com || www.themesoft.com",
+        "source": "Email",
+        "date_posted": "2024-10-29 08:45:48-05:00",
+        "unique_id": "192d8a6928f34fdd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

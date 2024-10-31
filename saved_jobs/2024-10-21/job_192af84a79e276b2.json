@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Cincinnati Insurance Co",
+        "job_title": "ETL BI Developer (Developer | Data Engineer)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-Month Contract to Hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ETL processes",
+                "SQL",
+                "Data Modeling",
+                "Dimensional Modeling",
+                "BI dashboards"
+            ],
+            "primary": [
+                "IBM's DataStage",
+                "SAS",
+                "Python",
+                "IBM's Cognos",
+                "Microsoft's Power BI"
+            ],
+            "secondary": [
+                "data quality scorecards",
+                "data lineage",
+                "agile teams",
+                "data integrity",
+                "reporting"
+            ],
+            "all": [
+                "ETL processes",
+                "SQL",
+                "Data Modeling",
+                "Dimensional Modeling",
+                "BI dashboards",
+                "IBM's DataStage",
+                "SAS",
+                "Python",
+                "IBM's Cognos",
+                "Microsoft's Power BI",
+                "data quality scorecards",
+                "data lineage",
+                "agile teams",
+                "data integrity",
+                "reporting"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ishavdeep Singh",
+        "email": "ishavdeep@cloudthinktech.com",
+        "jd": "From: Ishavdeep Singh, Cloud Think Technologies ishavdeep@cloudthinktech.com Reply to: ishavdeep@cloudthinktech.com Company/Location: Cincinnati Insurance Co \u2013 RemoteOfficial Title/Assigned Title: ETL BI Developer (Developer/Data Engineer) -2Direct Hire/Contract/Contract to hire: 6-Month Contract to Hire Travel required: NA Duties: The ETL BI Developer will be responsible for building data pipelines that provide peace of mind for people by equipping them to make data-informed business decisions with the IT Bus Intelligence & Data Mgt. Team at Cincinnati Insurance. Develop reliable, reusable, automated and streamlined ETL codeAnalyze and organize raw data from multiple sources to produce requested or required data elementsDesign table structures and ETL to build performant data solutions that are scalable in a fast growing data ecosystemCreate reconciliation procedures and data checks to ensure data qualityBuild in automated audit, balancing and controls Lead user requirements gathering and documentation designsProactively conduct data investigations and assist business partners with complex data analysis and ad-hoc queriesLead application and technical architecture analysis, design and implementation, and ensure BI product fulfills requirementsLead efforts with data management and database specialists to troubleshoot and report issuesDesign new reporting applications to ensure reporting requests can be supported by the underlying data sourceAdhere to all metadata management and data quality standards by leading quality management reviewsUnderstand configuration dependencies and interrelationships between data warehouse and business intelligence tools and designs; troubleshoot in the area with this knowledgeProactively identify, build and maintain relationships with business process owners and colleaguesIdentify changes in scope or work effort that could result in budgetary overrun or missing of delivery date, design and implement contingencyRequired Skills:Proven experience in designing, developing and implementing ETL processes (preferred tools: IBM's DataStage, SQL, SAS, Python)3-5 plus years\u2019 experience with SQL, Data Modeling and Dimensional ModelingUnderstanding of enterprise technical landscape (property and casualty insurance background a plus)Proven experience distilling business requirements into data warehouse design artifacts such as a Facts Qualifier Matrix (FQM), source to target maps and star/snowflake schema data modelsKnowledge of developing BI dashboards (preferred tools: IBM's Cognos, Microsoft's Power BI); creating data quality scorecards and data lineageStrong ability to create effective visual models to enable collective understanding of processes, data flow, user interaction and others as neededTrack record of successfully architecting small, medium and enterprise-scale solutionsPrior experience or ability to mentor development team members in design and development of BI solutionsExperience working with agile teams Provide production support, including on-call rotation and technical assistance to end-user and IT staffPreferred Skills/Characteristics:Experience implementing technical solutions for improving data integrity and reportingStrong quantitative, analytical, and problem-solving skillsA detail oriented and self-motivated mindsetWorked effectively with technical teams across functional departments",
+        "source": "Email",
+        "date_posted": "2024-10-21 08:59:16-05:00",
+        "unique_id": "192af84a79e276b2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

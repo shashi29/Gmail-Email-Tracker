@@ -1,0 +1,43 @@
+[
+    {
+        "company": "Spar",
+        "job_title": "Business Solution Consultant with Program Manager",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Initial 3 months possible extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [],
+            "primary": [],
+            "secondary": [],
+            "all": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "mohit",
+        "email": "mohit.n@sparinfosys.com",
+        "jd": "Hello; Business Solutions Consultant Remote Duration : Initial 3 months possible extension Will be evaluating the strategic direction for Executive Reporting. Gather requirements from business users, understand reporting options, plot existing capabilities to required & desired features to options. Determine cost/benefit of options.An individual with the software package selection process may align with this workThe CSR product is relatively old and fragile. There is a request to:Enumerate the current features/functions of the CSR productWork with stakeholders to identify any existing gaps/pain pointsEvaluate an alternative that may be introduced as part of the Elevate projectDo a side-by-side comparison of features/capabilities of the existing and Elevate alternative against features identified in 1&2Determine cost of operating each solutionProvide a summary recommendationIn our old consulting practice, this was generally an IT Architect with some business consulting skills. We did 'package selection' engagements to help our clients to pick a system to support some part of their operations (i.e. Workday vs. Oracle vs. SAP for HCM)",
+        "source": "Email",
+        "date_posted": "2024-10-25 14:30:07-05:00",
+        "unique_id": "192c548808c405cd",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

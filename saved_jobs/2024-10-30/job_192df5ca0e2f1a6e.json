@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Parin Technologies LLC",
+        "job_title": "Senior .NET Application Developer",
+        "location": "Jackson, MS, USA",
+        "full_location": {
+            "city": "Jackson",
+            "state": "MS",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "14 months+ (End date 2/28/2026)",
+            "rate": "$55-60/hr on W2 OR 65-70/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "HTML/CSS",
+                "JavaScript",
+                "React.js",
+                "C#",
+                "Azure DevOps"
+            ],
+            "primary": [
+                "Java",
+                "Python",
+                "Angular",
+                "Node.js",
+                "Agile Team"
+            ],
+            "secondary": [
+                "MySQL",
+                "MongoDB",
+                "UI/UX design",
+                "Azure functions",
+                "Application Insight"
+            ],
+            "all": [
+                "HTML/CSS",
+                "JavaScript",
+                "React.js",
+                "C#",
+                "Azure DevOps",
+                "Java",
+                "Python",
+                "Angular",
+                "Node.js",
+                "Agile Team",
+                "MySQL",
+                "MongoDB",
+                "UI/UX design",
+                "Azure functions",
+                "Application Insight"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Panchdev Pathak",
+        "email": "panchdev@parintec.com",
+        "jd": "Job Title: Senior .NET Application Developer\n\nLocation: Jackson, MS\n\nREMOTE\n\nJob Description\nThe Mississippi Department of Education has a current goal for every community to effectively use a World-Class Data System to improve student outcomes. This goal has an outcome to increase the availability of quality data to drive decisions that improve student outcomes. We are planning to satisfy this goal in part by modernizing our current student information system along with improving the quality of data in connected systems. This position will require a qualified Web App Developers to take the lead in the following tasks:\n\u2022 Designing applications\n\u2022 Creating applications\n\u2022 Coding applications\n\u2022 Updating applications\n\u2022 Testing products for functionality and errors\n\nPreference given to candidates with the below skills/experience. Must also meet minimum requirements.\nExperience with student information management systems and K-12 data and reporting is a plus\nDevOps principles, and cloud architecture is a plus\n\nREQUIRED SKILLS/EXPERIENCE\nKnowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery)\nHands-on experience working as a React.js developer - 10 years\nKnowledge of multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js) - 10 years\nHands on experience working in Azure DevOps, Utilizing pipelines - 10 years\nFamiliarity with application design, documentation, and coding - 10 years\nExperience working in Agile Team - 5 years\nGitHub - 10 years\nFamiliarity with databases (e.g. MySQL, MongoDB), web services and UI/UX design\nKnowledge of Azure functions and Application Insight",
+        "source": "Email",
+        "date_posted": "2024-10-30 15:41:38-05:00",
+        "unique_id": "192df5ca0e2f1a6e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

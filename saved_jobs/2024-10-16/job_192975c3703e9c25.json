@@ -1,0 +1,81 @@
+[
+    {
+        "company": "KPG99 INC",
+        "job_title": "Sr. Software Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Angular",
+                "SQL"
+            ],
+            "primary": [
+                "Spring",
+                "Spring Boot",
+                "GitHub CI/CD",
+                "Rancher",
+                "MS-SQL",
+                "Oracle SQL",
+                "DB2"
+            ],
+            "secondary": [
+                "Azure",
+                "Kafka",
+                "PrimeNG",
+                "event management",
+                "supply chain systems",
+                "Agile methodologies"
+            ],
+            "all": [
+                "Java",
+                "Angular",
+                "SQL",
+                "Spring",
+                "Spring Boot",
+                "GitHub CI/CD",
+                "Rancher",
+                "MS-SQL",
+                "Oracle SQL",
+                "DB2",
+                "Azure",
+                "Kafka",
+                "PrimeNG",
+                "event management",
+                "supply chain systems",
+                "Agile methodologies"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jyoti Mittal",
+        "email": "jyotim@kpgtech.com",
+        "jd": "Hi,My name is Jyoti and I represent KPG99 INC. We work with clients across the USA. I have a very urgent role. If interested then please share with me your updated resume along with below information. Sr. Software Engineer 6+ month C2CVideo InterviewVISA: USC or GC Location: Boca Raton, FL | Blue Ash, OH | Charlotte, NC | Portland, OR | San Jose, CA | Deerfield, IL \u2013 NO RELOCATION CANDIDATESRemote role in these locations Primary skills needed: Java, Angular, SQL (DB2 background would be nice). Needs to be able to quickly acclimate with little to no assistance. Job DescriptionThe developers will be supporting Associate Technology, specifically Supply Chain RMSThis posting is for two experienced Senior Software Developers to work on the Enterprise Event Management System (EEMS) application. The EEMS application is a critical on-premises system that manages event replenishment for the stores. These senior level developers will build out a high-quality codebase, execute development against design, and navigate existing software codebase. Requirements:Expertise in Java and related web technologiesExtensive experience building/deploying services and/or applications using: Java, Spring/Spring Boot, and AngularExperience with GitHub CI/CD, and using Rancher to manage Kubernetes cluster(s)Experience/familiarity with RDBMS, specifically MS-SQL (Transact-SQL), Oracle SQL (PL/SQL), and DB2 (SQL)Experience working with mainframe systems and databasesDeep knowledge in a minimum of two of the following technical disciplines: infrastructure and network design, application development, application programming interfaces (APIs), cloud, middleware, servers and storage, database management, and operationsStrong problem-solving and analytical skillsExcellent communication and collaboration abilities Preferred (but not required):Experience with Azure ecosystemExperience with KafkaExperience with PrimeNG (angular UI library)Familiarity with event management or supply chain systemsKnowledge of Agile software development methodologiesKey ResponsibilitiesDeveloper new features and enhancements for the EEMS application.Maintain and support the existing EEMS application, including integrations with mainframe databases.Work closely with the lead software engineer to drive the technical roadmap and implementation.Build out a high-quality codebase, execute development against design, and navigate existing software codebase. Responsible for implementation of technical design within a strict timeframe. Execute against defined technology roadmap to support project portfolio and business strategy. Participate in implementing enterprise standards across domains: operations, infrastructure, data, applications, development, security & risk, and business continuance. Ensure project timelines and quality standards are met.",
+        "source": "Email",
+        "date_posted": "2024-10-16 16:28:44-05:00",
+        "unique_id": "192975c3703e9c25",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

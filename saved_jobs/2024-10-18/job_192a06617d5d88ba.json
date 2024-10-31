@@ -1,0 +1,56 @@
+[
+    {
+        "company": "Nitya software solution",
+        "job_title": "Java Kotlin engineer",
+        "location": "San Diego, CA, USA",
+        "full_location": {
+            "city": "San Diego",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kotlin"
+            ],
+            "primary": [
+                "GraphQL",
+                "Dynamo DB"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Kotlin",
+                "GraphQL",
+                "Dynamo DB"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Nitya",
+        "email": "ryan@nityainc.com",
+        "jd": "From: Nitya, Nitya software solution ryan@nityainc.com Reply to: ryan@nityainc.com Minimum 10 years of experienceVery Strong Java Kotlin Development skills Passport number is mustPosition TitleJava Kotlin engineer LocationSan Diego,CA Intuit office -3 days a week hybridDuration6 monthsJob DescriptionKotlin, GraphQL, Dynamo DB",
+        "source": "Email",
+        "date_posted": "2024-10-18 10:35:53-05:00",
+        "unique_id": "192a06617d5d88ba",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

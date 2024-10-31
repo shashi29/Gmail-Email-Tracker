@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Intellectt Inc.",
+        "job_title": "MLOPS Engineer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "6+ months",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Month Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Python",
+                "CI/CD",
+                "Terraform",
+                "Ansible"
+            ],
+            "primary": [
+                "cron job scheduling",
+                "shell scripting",
+                "Spark",
+                "PySpark"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Python",
+                "CI/CD",
+                "Terraform",
+                "Ansible",
+                "cron job scheduling",
+                "shell scripting",
+                "Spark",
+                "PySpark"
+            ],
+            "with_experience": [
+                "GCP",
+                "Python",
+                "CI/CD",
+                "Terraform",
+                "Ansible"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Prashant Raj",
+        "email": "prashant@intellectt.com",
+        "jd": "Hi,My name is Prashant Raj and I am a Staffing Specialist at Intellectt Inc. I am reaching out to you on an exciting job opportunity with one of our clients.MLOPS EngineerIrving, TX, Basking Ridge, NJ, or Tampa, FL (day1 onsite - hybrid)6+ Month Contract RoleNeed Candidate for Face-To-Face InterviewKey Requirements:Technical Expertise:Proficiency in GCP (Google Cloud Platform) with specific experience in model deployment.Skilled in cron job scheduling and shell scripting for automation.Strong programming skills in Python for model handling and process automation.Hands-on experience with CI/CD pipelines and related tools, specifically Terraform for infrastructure management and Ansible for configuration management.Data Processing:Proficiency with Spark and PySpark for handling large-scale data processing tasks.",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:46:36-05:00",
+        "unique_id": "192d9152227a55a8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

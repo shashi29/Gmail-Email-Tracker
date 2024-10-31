@@ -1,0 +1,114 @@
+[
+    {
+        "company": "The Hartford",
+        "job_title": "AWS-JAVA Tech Lead",
+        "location": "Hartford, CT, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Math, or any Engineering.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "$60/hr on W2"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS Lambda",
+                "J2EE",
+                "EventBridge",
+                "Spring Boot"
+            ],
+            "primary": [
+                "CloudFormation",
+                "Terraform",
+                "GitHub",
+                "Jenkins",
+                "Docker",
+                "Postgres",
+                "Oracle",
+                "Agile"
+            ],
+            "secondary": [
+                "SOAP",
+                "REST",
+                "JMS",
+                "XML",
+                "JSON",
+                "JDBC",
+                "Batch",
+                "MQ",
+                "DevOps",
+                "IaC",
+                "AWS CodePipeline",
+                "AWS CodeBuild",
+                "AWS CodeDeploy",
+                "AWS CodeStar",
+                "Rally",
+                "Checkmarx"
+            ],
+            "all": [
+                "Java",
+                "AWS Lambda",
+                "J2EE",
+                "EventBridge",
+                "Spring Boot",
+                "CloudFormation",
+                "Terraform",
+                "GitHub",
+                "Jenkins",
+                "Docker",
+                "Postgres",
+                "Oracle",
+                "Agile",
+                "SOAP",
+                "REST",
+                "JMS",
+                "XML",
+                "JSON",
+                "JDBC",
+                "Batch",
+                "MQ",
+                "DevOps",
+                "IaC",
+                "AWS CodePipeline",
+                "AWS CodeBuild",
+                "AWS CodeDeploy",
+                "AWS CodeStar",
+                "Rally",
+                "Checkmarx"
+            ],
+            "with_experience": [
+                "Java (5+ years)",
+                "AWS Lambda",
+                "J2EE",
+                "EventBridge",
+                "Spring Boot"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "jai",
+        "email": "jai@spearstaffing.com",
+        "jd": "From: jai, spear staffing jai@spearstaffing.com Reply to: jai@spearstaffing.com Role: AWS-JAVA Tech Lead**MUST BE HYBRID ONSITE IN HARTFORD, CT or CHARLOTTE, NCClient: The Hartford** This is a 6 month Contract to Hire **MUST BE W2; No Corp-to-Corp** Rate: $60/hr on W2 **Top Must Haves: ( Must have strong J2EE/Java AND strong AWS Lambda, EventBridge serverless projects using CodeDeploy) \u00b7 Bachelor\u2019s degree in computer science, Math, or any Engineering.\u00b7 Awareness of full software development life cycle practices and the ability to follow source code management, code quality and testing practices.\u00b7 5+ years of hands-on experience in application software solution development and execution. Software development knowledge using AWS resources like Lambda, CloudWatch, ECS, EKS, RDS, S3, IAM, SNS, SQS, EventBridge is HIGHLY preferred.\u00b7 5+ years of hands-on experience with Java and J2EE technologies, such as, Java Web Services, JMS, XML, JSON, JDBC etc. Along with experience in creating Web Service (SOAP and Rest) using Java Spring boot. Understanding of Batch and MQ.\u00b7 3+ years of systems design experience along with continuous integration and DevOps methodologies. Experience using GitHub, Jenkins, Docker, uDeploy , Rally, checkmarx etc or AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy and AWS CodeStar.\u00b7 IaC (Infrastructure as Code) experience, like CloudFormation or Terraform.\u00b7 Experience with one or more relational database technologies such as Postgres or Oracle.\u00b7 Familiar with Agile methodology. Experience working in an Agile or SAFe development environment.\u00b7 Proven ability to work with cross functional teams.\u00b7 Possess analytical, problem solving and communication skills. Ability to communicate at all levels within an organization and influence leadership.",
+        "source": "Email",
+        "date_posted": "2024-10-14 09:42:10-05:00",
+        "unique_id": "1928b9b5edd852c7",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

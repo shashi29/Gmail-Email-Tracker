@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Upward Talent",
+        "job_title": "Azure Data Engineer",
+        "location": "Middlesex County, NJ, USA",
+        "full_location": {
+            "city": "Middlesex County",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Datawarehouse",
+                "Databricks",
+                "Data Lake",
+                "Azure Services",
+                "SQL"
+            ],
+            "primary": [
+                "Data Processing",
+                "Data Modeling",
+                "Schema Designing",
+                "PySpark",
+                "Cloud Data Solution Architect"
+            ],
+            "secondary": [
+                "Excellent communication",
+                "Presentation skills",
+                "MCSE Azure Data Engineer Certification"
+            ],
+            "all": [
+                "Datawarehouse",
+                "Databricks",
+                "Data Lake",
+                "Azure Services",
+                "SQL",
+                "Data Processing",
+                "Data Modeling",
+                "Schema Designing",
+                "PySpark",
+                "Cloud Data Solution Architect",
+                "Excellent communication",
+                "Presentation skills",
+                "MCSE Azure Data Engineer Certification"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Diksha Tiwari",
+        "email": "dtiwari@upwardtalent.com",
+        "jd": "Hope you are doing good. I am hiring a Consultant for one of my client's requirements. Job Description for the same is written below. Job Title: Azure Data Engineer Location: : Middlesex County, Central Jersey (Hybrid) Duration: 6+Months Visa- USC, GC ,H4EAD ,OPT-EAD Job Summary: We are seeking an experienced Azure Data Solutions Engineer If you are data freak and looking for a professionally challenging and financially rewarding career this position might be of interest to you. This position will play a pivotal role in the growth dynamics in your career Azure Data Solutions Engineer will spearhead new Data Driven initiatives of turnkey IT Projects and Consulting services using Azure Databricks and Data lake environment. Must Have Skills: Strong experience in Datawarehouse, Databricks Data Lake knowledge with structured and unstructured data processing Skillset: 10 Years hands-on experience as a Data/ DWH Engineer in On-Prem and Cloud (Azure) environment Recent 3 + years' experience as Cloud Data Solution Architect recommending and designing Azure Cloud Solutions for P&C Insurance domain ( Commercial Insurance preferred) Recent 3 years of hands-on experience in Azure Databricks and Datalake; Performs Design, Development & Deployment using Azure Services (Data Factory, Databricks, PySpark, SQL) Develops and maintains scalable data pipelines and build new Data Source integrations to support increasing data volume and complexity. Experience in creating Technical Specification Design, Application Interface Design. Develop batch processing and integration solutions and process Structured and Non-Structured Data Data Modeling and Schema Designing expertise Demonstrated in-depth skills with Azure Databricks and PySpark, and SQL Collaborate and engage with BI & analytics and the business teams Excellent communication, presentation skills and ability to effectively interact with Sr. management MCSE Azure Data Engineer Certification is a MUST (Cert ID/Link is required)",
+        "source": "Email",
+        "date_posted": "2024-10-11 10:58:28-05:00",
+        "unique_id": "1927c6e4244c8da6",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

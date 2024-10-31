@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Vkore Solutions",
+        "job_title": "Java Backend",
+        "location": "Saint Louis, MO, USA",
+        "full_location": {
+            "city": "Saint Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "REST APIs",
+                "Microservices"
+            ],
+            "primary": [
+                "React",
+                "Angular",
+                "NodeJS",
+                "GraphQL",
+                "JUnit",
+                "Mockito",
+                "Domain Driven Design",
+                "Event Driven Design"
+            ],
+            "secondary": [
+                "MS Access",
+                "SQL"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "REST APIs",
+                "Microservices",
+                "React",
+                "Angular",
+                "NodeJS",
+                "GraphQL",
+                "JUnit",
+                "Mockito",
+                "Domain Driven Design",
+                "Event Driven Design",
+                "MS Access",
+                "SQL"
+            ],
+            "with_experience": [
+                "Java (8+ years)",
+                "Spring Boot",
+                "REST APIs",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mohit",
+        "email": "mohit@vkoresolutions.com",
+        "jd": "From: Mohit, Vkore Solutions mohit@vkoresolutions.com Reply to: mohit@vkoresolutions.com Roles and Responsibilities:Proficient in Java programming language.8 + years of experience in designing & Developing REST APIs and web services using Java, Spring Boot, and other emerging technologies. Fluent in Java, Spring Boot, and Microservices (REST API) Experienced in developing UI using Modern Web Development in React and/or Angular (2+), NodeJS, GraphQL etc. Understand Domain Driven Design (DDD) and Event Driven Design (EDD). Build an automated quality framework based on JUnit and Mockito and have a solid understanding of the BDD testing framework. Familiarity with database systems (MS Access) and SQL queries.",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:52:48-05:00",
+        "unique_id": "192afeb7a8034918",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

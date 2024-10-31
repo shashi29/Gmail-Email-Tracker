@@ -1,0 +1,84 @@
+[
+    {
+        "company": "VYZE",
+        "job_title": "Azure Data Architect",
+        "location": "San Antonio, TX, USA",
+        "full_location": {
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Synapse Analytics",
+                "Azure Data Factory",
+                "SQL",
+                "query optimization",
+                "relational databases"
+            ],
+            "primary": [
+                "architecting enterprise-wide data platforms",
+                "data management solutions",
+                "data architecture",
+                "data flow diagrams",
+                "conceptual/logical data models",
+                "data dictionaries",
+                "database design"
+            ],
+            "secondary": [
+                "Git",
+                "Agile methodologies",
+                "SDLC methodologies",
+                "Commercial Real Estate tools",
+                "Yardi",
+                "Argus"
+            ],
+            "all": [
+                "Azure Synapse Analytics",
+                "Azure Data Factory",
+                "SQL",
+                "query optimization",
+                "relational databases",
+                "architecting enterprise-wide data platforms",
+                "data management solutions",
+                "data architecture",
+                "data flow diagrams",
+                "conceptual/logical data models",
+                "data dictionaries",
+                "database design",
+                "Git",
+                "Agile methodologies",
+                "SDLC methodologies",
+                "Commercial Real Estate tools",
+                "Yardi",
+                "Argus"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "hanshika",
+        "email": "hanshika@vyzeinc.com",
+        "jd": "From: hanshika, VYZE hanshika@vyzeinc.com Reply to: hanshika@vyzeinc.com Job Description -Job Title-Azure Data ArchitectDuration - 12+ monthsOnsiteUSC/GC ONLYNeed someone in or around San Antonio.Skills - Architecting enterprise-wide data platforms and data management solutions, Azure Synapse Analytics & Azure Data Factory, Notebooks & Azure SQL database, query optimization and relational databasesClient details will be shared post technical callResponsible for definition, creation, and maintenance of architecture artifacts of Enterprise Data solutions including data architecture, data flow diagrams, conceptual/logical data models, data dictionaries, and database design.Provide leadership, oversight, and development execution of data architecture design and associated delivery.Provide training and coaching to other team members on data architecture standards and best practices, along with the necessary governance to ensure such standards are upheld.Collaborate with data engineers, business intelligence developers, analysts, and business stakeholders to understand data requirements and translate them into technical solutionsInvestigating & analyzing data sources to identify relevant information for inclusion in our data solutions.Document and communicate complex technical concepts to both technical and non-technical audiencesProven experience in architecting enterprise-wide data platforms and data management solutions for complex environmentsHands on experience in Azure tools such as Azure Synapse Analytics, Azure Data Factory, Notebooks & Azure SQL databaseProficiency in SQL, query optimization and relational databasesGood understanding of Git as well as Agile & SDLC methodologiesExperience with Commercial Real Estate tools (e.g., Yardi, Argus)",
+        "source": "Email",
+        "date_posted": "2024-10-14 10:54:39-05:00",
+        "unique_id": "1928bddb864f797d",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

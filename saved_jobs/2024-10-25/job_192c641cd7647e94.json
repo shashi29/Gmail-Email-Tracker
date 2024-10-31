@@ -1,0 +1,70 @@
+[
+    {
+        "company": "KPG99 INC",
+        "job_title": "SOFTWARE ENGINEER",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ MONTHS",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Golang",
+                "C++",
+                "AWS (ECS)",
+                "Kubernetes (EKS)",
+                "Docker",
+                "Jenkins"
+            ],
+            "primary": [
+                "Helm",
+                "REST API development",
+                "Scripting experience for automation (eg. Python/BASH or Typescript)",
+                "IaC (Ansible, Cloudformation or Terraform)"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Golang",
+                "C++",
+                "AWS (ECS)",
+                "Kubernetes (EKS)",
+                "Docker",
+                "Jenkins",
+                "Helm",
+                "REST API development",
+                "Scripting experience for automation (eg. Python/BASH or Typescript)",
+                "IaC (Ansible, Cloudformation or Terraform)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jyoti Mittal",
+        "email": "jyotim@kpgtech.com",
+        "jd": "From: Jyoti Mittal, KPG99 Inc jyotim@kpgtech.com Reply to: jyotim@kpgtech.com Hi,My name is Jyoti and I represent KPG99 INC. We work with clients across the USA. I have a very urgent role. If interested then please share with me your updated resume along with below information. NEED INDEPENDENT OR W2 CANDIDATESoftware EngineerRemote USCVIDEO6+ MONTHS Must-Have: \u2022 Application development experience in a compiled language, either Java (1st priority), Golang (2nd priority) or C++ (3rd priority) \u2022 AWS (ECS) \u2022 Kubernetes (EKS) o Experience deploying a Helm chart in Kubernetes o Understanding of container orchestration o Kube control (Kubectl) for debugging \u2022 Docker \u2022 Jenkins \u2022 Experience with development and CI/CD tooling in Linux environments Nice to Have: \u2022 Helm \u2022 REST API development \u2022 Scripting experience for automation (eg. Python/BASH or Typescript) \u2022 IaC (Ansible, Cloudformation or Terraform) Thanks & Regards,Jyoti Mittal| Technical Recruiter | KPG99,INC jyotim@kpgtech.com | http://www.kpg99.com/3240 E State St EXT, Hamilton, NJ 08619An E- Verified Company Certified Minority Owned BusinessNote: KPG99 does not endorse undesired email. If you do not want to receive our mails, please reply with",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:59:51-05:00",
+        "unique_id": "192c641cd7647e94",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

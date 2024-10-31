@@ -1,0 +1,57 @@
+[
+    {
+        "company": "SPAR Information Systems",
+        "job_title": "Java Lead",
+        "location": "Frisco, TX, USA",
+        "full_location": {
+            "city": "Frisco",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "PostgreSQL",
+                "AWS",
+                "Kubernetes",
+                "Snowflake"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "PostgreSQL",
+                "AWS",
+                "Kubernetes",
+                "Snowflake"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Satnam Singh",
+        "email": "satnam.singh@sparinfosys.com",
+        "jd": "Hello All,Hope you are doing great Please go through the job description and let me know your interest.Title: Java Lead Work Location: Frisco TX/ Atlanta GA (Onsite from Day 1) (Need Only Locals)Duration: Long Term ContractJob Summary: We are looking for a skilled Lead Developer to join our team. The ideal candidate will have a strong background in AWS, Java microservices, PostgreSQL, Kubernetes , and analytics tools like Snowflake. You will lead development efforts, mentor junior developers, and collaborate with cross-functional teams to deliver high-quality software solutions.Key Responsibilities:\u2022 Design, develop, and deploy scalable applications using Java and PostgreSQL on AWS.\u2022 Lead architecture discussions and drive best practices for cloud-based solutions.\u2022 Implement and manage Kubernetes (K8) for container orchestration and deployment.\u2022 Utilize analytics tools like Snowflake to drive data-driven decision-making.\u2022 Collaborate with product managers, designers, and other stakeholders to define project requirements and timelines.\u2022 Mentor and guide junior developers, fostering a culture of learning and collaboration.\u2022 Conduct code reviews and ensure adherence to coding standards and best practices.\u2022 Troubleshoot and optimize application performance and reliability.Qualifications:\u2022 Bachelor\u2019s degree in Computer Science, Engineering, or a related field.\u2022 years of experience in software development, with a focus on leading teams.\u2022 Strong proficiency in AWS services and cloud architecture.\u2022 Extensive experience with Java and PostgreSQL.\u2022 Familiarity with Kubernetes (K8) for managing containerized applications.\u2022 Experience with analytics platforms such as Snowflake.\u2022 Excellent problem-solving skills and attention to detail.\u2022 Strong communication and interpersonal skills.",
+        "source": "Email",
+        "date_posted": "2024-10-28 07:34:48-05:00",
+        "unique_id": "192d33f38f103c6d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

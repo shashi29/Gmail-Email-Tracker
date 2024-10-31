@@ -1,0 +1,70 @@
+[
+    {
+        "company": "ZealHire",
+        "job_title": "ETL Developer",
+        "location": "Frisco, TX, USA",
+        "full_location": {
+            "city": "Frisco",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Bachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ETL Development",
+                "IICS",
+                "Data Profiling",
+                "Snowflake",
+                "SQL",
+                "Python",
+                "AWS"
+            ],
+            "primary": [
+                "Informatica",
+                "CICD",
+                "Jenkins",
+                "Dataiku"
+            ],
+            "secondary": [],
+            "all": [
+                "ETL Development",
+                "IICS",
+                "Data Profiling",
+                "Snowflake",
+                "SQL",
+                "Python",
+                "AWS",
+                "Informatica",
+                "CICD",
+                "Jenkins",
+                "Dataiku"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Raman Arora",
+        "email": "raman@zealhire.com",
+        "jd": "Hello, My name is Raman Arora and I am a Staffing Specialist at ZealHire. I am reaching out to you on an exciting job opportunity with one of our clients.\n\nJob Title - ETL Developer\nLocation - Frisco, Texas\n\nJob Description:\nUSC/GC\nneed LinkedIn, VISA DL\nneed skills matrix resume must be under 5 pages\nLocal to TX\n\nPosition Qualifications:\nBachelor's Degree from an accredited university in Computer Science, Engineering or in a Technology related field, OR equivalent through a combination of education and/or technology experience, OR 12 years of technology experience\n7 years of experience identifying technical solutions for complex business problems, identifying the benefits and risks of the solutions and providing recommendations\n7 years of experience in Technology, Data Engineering field in architecting, developing end-to-end scalable data applications and data pipelines; work with product manager and scrum masters and lead the team in assisting the story creations and sprint deliverables\n7 years of experience leading and developing automated Informatica data pipelines with at least 4 years Informatica cloud (IICS) and relevant knowledge in data profiling, data quality, catalog tools\n7 years of experience working in enterprise data warehouse solutions and platforms, and working knowledge of different databases (e.g., RDBMS, Snowflake), S3 Datalake, CICD, Jenkins and AWS cloud technologies\n5 years of experience designing, implementing automated data solutions using Snowflake lakehouse; building workflows, developing, and scheduling ETL processes using programming SQL or Python\n5 years of experience mentoring another technologist\n5 years of experience implementing data solutions by adopting, recommending and improving CICD, change management, data security, auditing processes\n4 years of experience working with software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes and testing\nAWS or Informatica or Snowflake certification is preferred\nExperience with Dataiku is a plus.\n\nSKILL MATRIX\nETL Development\nIICS\nData Profiling\nSnowflake\nSQL OR Python\nAWS\n\nShould you be interested, please send me a copy of your resume in word format along with the following details ASAP.\nFull Name:\nCurrent Location:\nHourly rate on C2C/W2:\nWork Authorization:\nEarliest Available date to start:\nDate and times available to interview:\nTwo Professional References:\n(Preferably Supervisory references):\n\nKind Regards,\nRaman Arora\nTechnical Recruiter\nZealHire Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-30 15:29:06-05:00",
+        "unique_id": "192df5a3911707fa",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

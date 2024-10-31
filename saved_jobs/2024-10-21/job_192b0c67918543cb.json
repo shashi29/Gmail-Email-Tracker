@@ -1,0 +1,64 @@
+[
+    {
+        "company": "SourceMantra",
+        "job_title": "GCP Data Architect",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12-15 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform (GCP)",
+                "data architecture",
+                "MongoDB"
+            ],
+            "primary": [
+                "BigQuery",
+                "Dataflow",
+                "Cloud Storage"
+            ],
+            "secondary": [
+                "Google Cloud Professional Data Engineer certification",
+                "Google Cloud Professional Cloud Architect certification"
+            ],
+            "all": [
+                "Google Cloud Platform (GCP)",
+                "data architecture",
+                "MongoDB",
+                "BigQuery",
+                "Dataflow",
+                "Cloud Storage",
+                "Google Cloud Professional Data Engineer certification",
+                "Google Cloud Professional Cloud Architect certification"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sharath Reesu",
+        "email": "sharath@sourcemantra.com",
+        "jd": "Hi, Greetings from SourceMantra, Please have a look at the below opportunity and reply to me if you are interested. Job: GCP Data Architect Location : Atlanta, GA (Onsite Tuesday to Thursday) \u2013 Need Locals Only Duration: Long Term Contract 12+ Years and passport Number is must for Submission. Job Description: Experience: 12-15 years of experience in data architecture, with extensive expertise in Google Cloud Platform (GCP). Strong experience with MongoDB. data setup work to support front end application. Must have Done some discovery assessment. Design, architect, and implement scalable data solutions on Google Cloud Platform (GCP) to meet the strategic data needs of the organization. Lead the integration of diverse data sources into a unified data platform, ensuring seamless data flow and accessibility across the organization. Optimize data storage, processing, and analytics solutions using GCP services such as BigQuery, Dataflow, and Cloud Storage. Certifications: Google Cloud Professional Data Engineer or Professional Cloud Architect certification preferred.",
+        "source": "Email",
+        "date_posted": "2024-10-21 14:54:48-05:00",
+        "unique_id": "192b0c67918543cb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "AWS Data Engineer - ETL/ELT",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "ETL",
+                "ELT",
+                "SQL"
+            ],
+            "primary": [
+                "Data Pipelines",
+                "Glue ETL",
+                "Snowflake",
+                "DevOps",
+                "Data Solutions"
+            ],
+            "secondary": [
+                "Java",
+                "Scala",
+                "Shell Scripting",
+                "Spark",
+                "Jupiter Notebook",
+                "GCP",
+                "BigQuery",
+                "Vertex-AI",
+                "Cloud Storage",
+                "Composer",
+                "Pub/Sub"
+            ],
+            "all": [
+                "AWS",
+                "Data Engineer",
+                "ETL",
+                "ELT",
+                "Data Pipelines",
+                "CloudWatch",
+                "S3",
+                "Lambda",
+                "Glue ETL",
+                "Python",
+                "Shell Scripting",
+                "Spark",
+                "Snowflake",
+                "DBT",
+                "Data Warehouse",
+                "Big Data",
+                "DevOps",
+                "CI/CD",
+                "IaC",
+                "Java",
+                "Scala",
+                "Jupiter Notebook",
+                "GCP",
+                "BigQuery",
+                "Vertex-AI",
+                "Cloud Storage",
+                "Composer",
+                "Pub/Sub"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "ayush",
+        "email": "ayush.yadav@scalable-systems.com",
+        "jd": "From: ayush, Scalable Systems ayush.yadav@scalable-systems.com Reply to: ayush.yadav@scalable-systems.com AWS Data Engineer - ETL/ELTLocation: Malvern, PAKey Responsibilities:Design and Develop Data Pipelines (Highly Important):Create robust, scalable data pipelines to ingest, process, and transform data from various sources.Ensure data quality and readiness for analytics and reporting.Implement ETL/ELT Processes (Highly Important):Develop efficient ETL (Extract, Transform, Load) or ELT (Extract, Load, Transform) workflows using open-source and AWS tools like Glue ETL.Experience with DBT (Data Build Tool) for data transformations on Snowflake is a plus.Proven ability to extract, transform, and load data into Snowflake.Write complex SQL queries to pull data from multiple sources and design testing scripts to ensure data accuracy in target tables.Adopt DevOps Practices (Important):Utilize DevOps methodologies and tools (CI/CD, IaC) to automate and streamline data engineering processes.Design Data Solutions (Important):Leverage your analytical skills to design innovative data solutions that address complex business challenges and drive data-driven decision-making.Required Skills (Highly Important):AWS Expertise:Strong understanding of core AWS services like S3, Lambda, Glue ETL, CloudWatch.Familiarity with additional services like Kinesis, EMR, Athena, DynamoDB, SNS, and Step Functions is a plus.Programming Languages:Proven experience with Python (Highly Important).Experience with Java or Scala is a plus.Data Storage Technologies:In-depth knowledge of data warehouse (Redshift, RDS) and big data ecosystem technologies (Hadoop).Scripting Languages:Familiarity with shell scripting (Important).Data Engineering Tools:Experience with Spark and Jupiter Notebook is a plus.Additional Skills (Important):Experience with GCP concepts (BigQuery, Vertex-AI, Cloud Storage, Composer, Pub/Sub) is a plus.Keywords: AWS, Data Engineer, ETL, ELT, Data Pipelines, CloudWatch, S3, Lambda, Glue ETL, Python, Shell Scripting, Spark, Snowflake, DBT, Data Warehouse, Big Data, DevOps, CI/CD, IaC",
+        "source": "Email",
+        "date_posted": "2024-10-14 10:20:19-05:00",
+        "unique_id": "1928bbe4cf666122",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Amazon",
+        "job_title": "Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                ".NET Core",
+                "C#",
+                "WebAPI",
+                "Entity Framework",
+                "MVC"
+            ],
+            "primary": [
+                "Amazon Web Service (AWS) Cloud Computing",
+                "Oracle PL/SQL",
+                "Agile Development",
+                "Performance Tuning",
+                "Troubleshooting"
+            ],
+            "secondary": [
+                "Veracode",
+                "Fortify",
+                "Jira",
+                "Strong Communication Skills"
+            ],
+            "all": [
+                ".NET",
+                ".NET Core",
+                "C#",
+                "WebAPI",
+                "Entity Framework",
+                "MVC",
+                "Amazon Web Service (AWS) Cloud Computing",
+                "Oracle PL/SQL",
+                "Agile Development",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Veracode",
+                "Fortify",
+                "Jira",
+                "Strong Communication Skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mounika",
+        "email": "mounika@vsbtech.com",
+        "jd": "Hello , Visa : GC and USC Role name: DeveloperRole Description: Requirements gathering, design, development, testing and documentation? Excellent analytic, troubleshooting and performance tuning skills? Ability to analyze complex and large amounts of data? Participate in project work groups with Subject Matter Experts and stakeholdersto understand data specific needs? Partner with Product Owner and other stakeholders to translate business needsinto viable solutions.? Design, implement and maintain applications.? Mentor and assist team members on various aspects of technical solutions,providing guidance on best practices and proven techniques.? Provide production deployment and production support as needed? Involved in all aspects of the software development life cycle; demonstrateabilities to learn both the business processes as well as new and existingtechnologies? Work on sprint team in agile, rapid development and deployment environment.? Support production application - investigate and resolve production inquiriesand issues. Requires flexible schedule.? Knowledge in Veracode or Fortify security scan tools (added advantage)? Working experience with Jira (added advantage)? Strong communications skills (both verbal & written)Competencies: Digital : Amazon Web Service(AWS) Cloud Computing, Core .NET TechnologiesExperience (Years): 8-10Essential Skills: 7+ years of professional software development experience.? Strong working experience programming/development skills using with .NET /.NET Core with C# , WebAPI.? ? Working experience in Entity framework, MVC?Desirable Skills: ? Strong working experience in database (Oracle pl/sql)? Working experience in Cloud technologies (AWS)",
+        "source": "Email",
+        "date_posted": "2024-10-28 13:53:04-05:00",
+        "unique_id": "192d499878be187c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

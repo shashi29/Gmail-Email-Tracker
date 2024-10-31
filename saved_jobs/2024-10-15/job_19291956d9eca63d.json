@@ -1,0 +1,61 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "Java Developer",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "ReactJs",
+                "SQL",
+                "Kubernetes"
+            ],
+            "primary": [
+                "React",
+                "React hook",
+                "Java Backend"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "ReactJs",
+                "SQL",
+                "Kubernetes",
+                "React",
+                "React hook",
+                "Java Backend"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Divya Sai Chand",
+        "email": "divya.c@itechus.net",
+        "jd": "HelloThis is Divya Sai from iTech US, we have an urgent Job opening from one our client, please go through below JD if you are interested, please share me your updated resume.Role : Java DeveloperLocation: Quincy, MA / Princeton, NJ / Mclean, VA / Chicago, IL - Locals (F2F Mandatory)Type : ContractDescription:Java with ReactJs with SQL - NJJava with Kubernetes - MAJava with React & React hook - ILJava Backend - VADivya Sai ChanduiTech US Inc,Email:divya.c@itechus.netPh:18028510921 Ext:308",
+        "source": "Email",
+        "date_posted": "2024-10-15 13:33:27-05:00",
+        "unique_id": "19291956d9eca63d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Infotech Spectrum",
+        "job_title": "Certified GCP Data Engineer: Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "3+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Advanced SQL",
+                "Looker",
+                "Tableau",
+                "Google BigQuery"
+            ],
+            "primary": [
+                "Terraform",
+                "data visualization software"
+            ],
+            "secondary": [
+                "GitHub",
+                "Looker performance optimization",
+                "Looker extensions",
+                "API plugins",
+                "Looker Hub and Spoke Model",
+                "GCP Professional Data Engineer Certification"
+            ],
+            "all": [
+                "GCP",
+                "Advanced SQL",
+                "Looker",
+                "Tableau",
+                "Google BigQuery",
+                "Terraform",
+                "data visualization software",
+                "GitHub",
+                "Looker performance optimization",
+                "Looker extensions",
+                "API plugins",
+                "Looker Hub and Spoke Model",
+                "GCP Professional Data Engineer Certification"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Suraj Mishra",
+        "email": "suraj.mishra@infotechspectrum.com",
+        "jd": "Hello My name is Suraj Mishra, and I am a Staffing Specialist at Infotech Spectrum. I am reaching out to you on an exciting job opportunity with one of our clients. Data EngineerLOCATION Remote- *Availability between 10AM and 6PM ET is necessaryDURATION 3+ MonthsREQUIRED SKILLSMust have retail or ecommerce or BIG tech companies experience. GCP certified and 10+ yrs is what the target might want to be. TECHNICAL SKILLSMust HaveAdvanced SQLExperience with Looker, Tableau, or other data visualization softwareGCP/Google Cloud/TerraformGoogle BigQueryNice To HaveCertified GCP Professional Data EngineerGitHubAbout The RoleThe tasks you will perform include, but are not limited to:Installation and testing of Looker and Looker Studio extension or API plugins. Identification and deprecation of unused Looker dashboards.Improving our Looker modeling architecture to make the GenAI capability more effective.Supporting our engineering team and analytic partners model tuning needs.RequirementsMust-HavesExperience with Looker, Tableau, or other data visualization tools.Experience working with cloud data warehouses such as BigQuery or Snowflake.Experience with Google Cloud and infrastructure as code.Nice-to-HavesFamiliarity with Looker performance optimization.Familiarity with Looker extensions and API plugins.Understanding of Looker Hub and Spoke Model.GCP Professional Data Engineer Certification.",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:40:48-05:00",
+        "unique_id": "192d4576175597f1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

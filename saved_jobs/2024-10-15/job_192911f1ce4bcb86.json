@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Vbeyond",
+        "job_title": "Data\\Cloud Engineer (GCP Azure)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Azure",
+                "Kubernetes",
+                "Docker",
+                "StreamSets",
+                "Azure Data Factory",
+                ".NET",
+                "Python",
+                "Kafka",
+                "Snowflake",
+                "MongoDB",
+                "FHIR"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Azure",
+                "Kubernetes",
+                "Docker",
+                "StreamSets",
+                "Azure Data Factory",
+                ".NET",
+                "Python",
+                "Kafka",
+                "Snowflake",
+                "MongoDB",
+                "FHIR"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Hemant Kumar",
+        "email": "hemantk@vbeyond.com",
+        "jd": "From: Hemant Kumar, Vbeyond hemantk@vbeyond.com Reply to: hemantk@vbeyond.com Hi, I have job opportunity for you, if you are looking for new job, please email me your updated resume at your earliest convenience Data\\Cloud Engineer (GCP Azure)Remote Mandatory skills:Expertise in working with multiple cloud infrastructures, including 50% on GCP, 25% on Azure, and 25% on-premises setups.Strong understanding of container orchestration K8s, DockerProven experience with StreamSets, Azure Data Factory, and related ETL tools including DatabricksProficiency in managing API development primarily using .NET and familiarity with Python.API Gateway management (e.g., Apigee, Datapower).Hands-on experience with streaming technologies like Kafka and StreamSets.Expertise in databases such as Snowflake, MongoDB, and FHIR servers (Firely, Azure FHIR).Understanding of Firely and Azure FHIR services.",
+        "source": "Email",
+        "date_posted": "2024-10-15 11:24:13-05:00",
+        "unique_id": "192911f1ce4bcb86",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

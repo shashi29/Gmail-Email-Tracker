@@ -1,0 +1,77 @@
+[
+    {
+        "company": "DCTS",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "13+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Data Science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Flutter",
+                "SQL",
+                "Python",
+                "Scala"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Warehousing",
+                "ETL",
+                "Cloud Platforms (AWS, Azure, Google Cloud)"
+            ],
+            "secondary": [
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills",
+                "Teamwork abilities",
+                "Detail-oriented"
+            ],
+            "all": [
+                "Databricks",
+                "Flutter",
+                "SQL",
+                "Python",
+                "Scala",
+                "Data Engineering",
+                "Data Warehousing",
+                "ETL",
+                "Cloud Platforms (AWS, Azure, Google Cloud)",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills",
+                "Teamwork abilities",
+                "Detail-oriented"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kevin",
+        "email": "kevin@deltaclasstech.com",
+        "jd": "Position: Data Engineer\nLocation: Remote\nDuration: Long term\n\nKey Responsibilities:\n- Design, develop, and maintain scalable data pipelines using Databricks.\n- Integrate data from various sources into a cohesive data environment.\n- Optimize data storage and processing for efficiency and performance.\n- Collaborate with data scientists and analysts to understand data needs and ensure data availability.\n- Utilize Flutter to support mobile applications that interact with backend data services.\n- Implement data quality checks and ensure data governance best practices.\n- Monitor and troubleshoot data workflows and pipelines.\n- Document data engineering processes and architecture for future reference.\n- Stay updated with industry trends and emerging technologies related to data engineering.\n\nQualifications:\n- Bachelor\u2019s degree in Computer Science, Data Science, Engineering, or a related field.\n- Proven experience as a Data Engineer or in a similar role.\n- Strong expertise in Databricks and related technologies.\n- Experience with Flutter and its integration with backend systems.\n- Proficiency in SQL and programming languages such as Python or Scala.\n- Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud).\n- Knowledge of data warehousing and ETL processes.\n\nSkills:\n- Strong analytical and problem-solving skills.\n- Excellent communication and teamwork abilities.\n- Detail-oriented with a focus on data quality and accuracy.\n- Ability to work in a fast-paced environment and manage multiple projects.",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:05:39-05:00",
+        "unique_id": "192de883c4571121",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

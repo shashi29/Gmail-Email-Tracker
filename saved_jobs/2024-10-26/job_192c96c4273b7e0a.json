@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Maintec",
+        "job_title": "Business Data Analyst",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "Canada"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 to 10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "Data Analysis",
+                "Data Wrangling",
+                "AWS"
+            ],
+            "primary": [
+                "Starburst",
+                "Distributed SQL Engines",
+                "Data Integrity",
+                "Data Quality",
+                "Technical Documentation"
+            ],
+            "secondary": [
+                "Business Intelligence",
+                "Data Engineering",
+                "Communication Skills",
+                "Analytical Skills",
+                "Problem-Solving Skills"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "Data Analysis",
+                "Data Wrangling",
+                "AWS",
+                "Starburst",
+                "Distributed SQL Engines",
+                "Data Integrity",
+                "Data Quality",
+                "Technical Documentation",
+                "Business Intelligence",
+                "Data Engineering",
+                "Communication Skills",
+                "Analytical Skills",
+                "Problem-Solving Skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Princy Jain",
+        "email": "princy@maintec.com",
+        "jd": "From: Princy Jain, Maintec princy@maintec.com Reply to: princy@maintec.com Job Title: Business Data AnalystLocation: RemoteJob Description:We are looking for a talented and driven Data Analyst with Over 7 years of experience who has advanced SQL skills and beginner-level Python proficiency to join our team. This role requires a candidate who can not only manipulate and analyse data but also work closely with the business to understand their needs and translate them into actionable technical solutions. The ideal candidate should be capable of performing data wrangling, generating insights, and presenting findings in a clear and concise manner to non-technical stakeholders.Key Responsibilities:- Data Analysis & Reporting: - Write and optimize complex SQL queries to extract, transform, and analyze large datasets from multiple sources. - Experience in Starburst and distributed SQL engines to optimize, query, and manage large-scale data across multiple sources in a decentralized data architecture. - Use Python to perform basic data wrangling, pre-processing, and ad-hoc analysis. - Working experience in AWS environment in relation to the above tasks- Data Wrangling & Processing: - Use Python scripts for automating repetitive tasks, handling datasets, and performing basic data analysis. - Use Python scripts to export data to csv files - Clean, merge, and manipulate datasets to prepare them for further analysis or reporting.- Stakeholder Collaboration: - Act as a liaison between business and technical teams, gathering requirements from non-technical stakeholders and translating them into technical specifications. - Work with cross-functional teams (e.g., product managers, marketing, finance) to understand business problems, offer insights, and suggest data-driven solutions. - Present complex data findings in a simple, understandable manner to business users and management.- Technical Documentation: - Create and maintain clear documentation of data structures, processes, and reports to ensure that stakeholders can understand and use data effectively. - Ensure consistent, accurate, and up-to-date documentation of all reporting processes.- Data Integrity & Quality: - Maintain a high level of data integrity and data quality, ensuring all analyses and reports are reliable and accurate. - Identify and resolve data quality issues by working with other teams and improving data governance practices.Required Skills & Experience:- 7 to 10 years of experience in a data-related role (e.g., Data Analyst, Business Intelligence Analyst, or Data Engineer).- Advanced SQL skills: Capable of writing complex queries, optimizing query performance, and working with large datasets from relational databases (e.g., MySQL, PostgreSQL, SQL Server).- Experience in Starburst and distributed SQL engines to optimize, query, and manage large-scale data across multiple sources in a decentralized data architecture.- Beginner-level Python proficiency: Comfortable using Python for basic data wrangling, such as cleaning, transforming, and analyzing datasets.- Experience in leveraging AWS's cloud infrastructure for scalability, storage, and processing power.- Proven experience working with business stakeholders to gather requirements and translate them into technical solutions.- Strong analytical and problem-solving skills, with a keen eye for detail and data accuracy.- Excellent communication skills, both verbal and written, with the ability to present data-driven insights clearly to non-technical audiences.- Ability to work independently, prioritize tasks, and manage multiple projects in a fast-paced - Work experience in Bond Ratings.",
+        "source": "Email",
+        "date_posted": "2024-10-26 09:47:42-05:00",
+        "unique_id": "192c96c4273b7e0a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

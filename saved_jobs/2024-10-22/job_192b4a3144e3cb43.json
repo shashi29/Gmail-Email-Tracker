@@ -1,0 +1,92 @@
+[
+    {
+        "company": "iTech US, Inc.",
+        "job_title": "JAVA Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "SQL",
+                "NoSQL",
+                "Azure"
+            ],
+            "primary": [
+                "Microservices",
+                "Kubernetes",
+                "React",
+                "Redux",
+                "Agile",
+                "Azure DevOps",
+                "REST APIs"
+            ],
+            "secondary": [
+                "Continuous integration",
+                "JIRA",
+                "Bitbucket",
+                "GitHub",
+                "Confluence",
+                "JUnit",
+                "Jasmine",
+                "Jest",
+                "PaaS",
+                "AKS"
+            ],
+            "all": [
+                "Java",
+                "Springboot",
+                "SQL",
+                "NoSQL",
+                "Azure",
+                "Microservices",
+                "Kubernetes",
+                "React",
+                "Redux",
+                "Agile",
+                "Azure DevOps",
+                "REST APIs",
+                "Continuous integration",
+                "JIRA",
+                "Bitbucket",
+                "GitHub",
+                "Confluence",
+                "JUnit",
+                "Jasmine",
+                "Jest",
+                "PaaS",
+                "AKS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sowmyasri Sistla",
+        "email": "sowmya.s@itechus.net",
+        "jd": "Hi,Greetings from iTech US, Please go through the below requirement and let me know your interest. Role : JAVA Developer Location: Chicago, IL- OnsiteType : Contract Essential Skills: 8+ years development experience using Java, Springboot, SQL and NoSQL databases. Strong understanding of enterprise architecture and development patterns and best practices3+ years of experience designing and building cloud-native applications, microservices preferably using Azureexperience deploying and hosting applications in containers and KubernetesExperience in Single Page Applications using React/ReduxStrong Experience in Software Delivery following Agile practices and Azure DevOpsKnowledge of the financial services industry, Wealth Management preferredStrong understanding of REST APIs and how to use them in practice.Strong Experience with continuous integration and collaboration tools like Azure DevOps, JIRA, Bitbucket, GitHub and Confluence.Strong Experience with unit testing and test automation tools and frameworks like JUnit, Jasmine, Jest etc.Experience with PaaS such as AKS a plus Please share your updated resume along with current location details: Thanks,Sowmyasri SistlaEmail : sowmya.s@itechus.netiTech US, Inc. https://www.linkedin.com/in/sri-s-8795a9168/",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:49:21-05:00",
+        "unique_id": "192b4a3144e3cb43",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

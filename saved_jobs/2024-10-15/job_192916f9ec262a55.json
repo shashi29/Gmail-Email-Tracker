@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "GCP Data Engineer",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Scala",
+                "Spark",
+                "SQL",
+                "Big Query",
+                "Airflow"
+            ],
+            "primary": [
+                "GCP",
+                "Access Management"
+            ],
+            "secondary": [],
+            "all": [
+                "Scala",
+                "Spark",
+                "SQL",
+                "Big Query",
+                "Airflow",
+                "GCP",
+                "Access Management"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sangya Kumari Nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title: GCP Data EngineerLocation : Sunnyvale, CAContract is still remote, but can go onsite if they want to)Duration: 12 monthsVisa: CITIZEN,GC EAD,GREEN CARD,H1B,H4 EAD,L2 EAD,OPT EADMOI: F2F ONSITE interview. ( 1 and done round ) Required Skills & Experience8+ years of Big Data Experience Exclusively programming/coding with Scala on Spark within the past year or more Extensive experience with SQL scripting Big QueryAirflow GCP Access ManagementJob DescriptionOne of our largest national retail clients is looking for a Data Engineer to join their growing organization. In this role you will be designing and developing scalable data pipelines, implementing data modeling and migration protocols, and managing data warehouses and lakes. You will also be creating workflows using Airflow, creating data visualizations with Looker and ensuring overall data security and access with GCP.",
+        "source": "Email",
+        "date_posted": "2024-10-15 12:52:09-05:00",
+        "unique_id": "192916f9ec262a55",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

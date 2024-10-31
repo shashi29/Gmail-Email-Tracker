@@ -1,0 +1,106 @@
+[
+    {
+        "company": "iTech US",
+        "job_title": "Java Developer with strong Microservices",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Longterm Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Core Java",
+                "Spring Framework",
+                "REST API"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Spring Security",
+                "Spring MVC",
+                "Spring Data",
+                "Spring Mobile",
+                "API Security",
+                "REST JSON/XML",
+                "SOAP XML",
+                "Tomcat",
+                "Git",
+                "SourceTree",
+                "bash shell",
+                "Linux servers"
+            ],
+            "secondary": [
+                "Internet security",
+                "Single-Sign On technologies",
+                "JWT",
+                "SAML",
+                "OAuth",
+                "common architectural styles",
+                "SOA",
+                "Layered",
+                "Clean",
+                "Event Sourcing",
+                "CQRS"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Core Java",
+                "Spring Framework",
+                "REST API",
+                "Spring Boot",
+                "Spring Security",
+                "Spring MVC",
+                "Spring Data",
+                "Spring Mobile",
+                "API Security",
+                "REST JSON/XML",
+                "SOAP XML",
+                "Tomcat",
+                "Git",
+                "SourceTree",
+                "bash shell",
+                "Linux servers",
+                "Internet security",
+                "Single-Sign On technologies",
+                "JWT",
+                "SAML",
+                "OAuth",
+                "common architectural styles",
+                "SOA",
+                "Layered",
+                "Clean",
+                "Event Sourcing",
+                "CQRS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pavan Kumar",
+        "email": "Pavankumar.v@itechus.net",
+        "jd": "Position \u2013 Java Developer with strong Microservices\nDuration \u2013 Longterm Contract\nLocation \u2013 New York , NY - Hybrid - Need locals from NJ/NY with with DL/State ID from NJ/NY\nNeed Only H1B and with DL/State ID from NJ/NY\n\nEssential Skills:\nShould have 9+ years of experience\nStrong experience in Java Microservices, Core Java\nExperience with Spring Framework including Spring boot, Security, Spring MVC, Spring Data and Spring Mobile\nREST API development, best practices and standards\nAPI Security\nWorking with REST JSON/XML and SOAP XML services\nExperience with Tomcat and web containers\nFamiliarity with Internet security and Single-Sign On technologies like JWT, SAML and OAuth\nExperience with IDE like Eclipse as well as version control tools like Git and SourceTree\nFamiliarity/Experience with bash shell and app deployment to Linux servers\nUnderstand and leverage common architectural styles and patterns (SOA, Microservice, Layered, Clean, Event Sourcing, CQRS, etc.)",
+        "source": "Email",
+        "date_posted": "2024-10-30 13:20:49-05:00",
+        "unique_id": "192dec8a5bf0b92a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

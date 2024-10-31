@@ -1,0 +1,65 @@
+[
+    {
+        "company": "ValiantIQ Inc.",
+        "job_title": "Database Architect",
+        "location": "Albany, NY, USA",
+        "full_location": {
+            "city": "Albany",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle PL/SQL",
+                "SQL Plus",
+                "SQL Developer",
+                "SQL Loader",
+                "ETL techniques"
+            ],
+            "primary": [
+                "database structural requirements",
+                "logical and physical database models",
+                "performance tuning",
+                "debugging PL/SQL"
+            ],
+            "secondary": [],
+            "all": [
+                "Oracle PL/SQL",
+                "SQL Plus",
+                "SQL Developer",
+                "SQL Loader",
+                "ETL techniques",
+                "database structural requirements",
+                "logical and physical database models",
+                "performance tuning",
+                "debugging PL/SQL"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Gaurav Gautam",
+        "email": "ggautam@valiantiq.com",
+        "jd": "From: gaurav, ValiantIQ ggautam@valiantiq.com Reply to: ggautam@valiantiq.com Job Title: Database ArchitectLocation:- Albany, NY (Hybrid)Type:- Contract Position MANDATORY Qualification: Position Job Title: Database ArchitectPosition Job Title Description: Determines database structural requirements by analyzing client operations, applications, and programming; reviews objectives with clients; evaluates current systems; provides database support by coding utilities, responding to user questions, and resolving problems.Position Skill Level: ExpertPosition Skill Level Description: 7+ Years : Candidate is able to provide guidance to large teams and/or has extensive industry experience and is considered at the top of his/her field. List all the Position REQUESTED Qualifications:7 Years Experience developing Oracle PL/SQL using advanced PL/SQL programming techniques.7 Years Experience using Oracle development tools such as SQL Plus, SQL Developer, and SQL Loader for programming and maintaining applications.7 Years Experience designing and implementing logical and physical database models, including indexes, primary keys, foreign keys, and constraints.3 Years Experience performing Extract, Transform, and Load (ETL) techniques.2 Years Experience optimizing, performance tuning, and debugging PL/SQL Thanks & Regards,Gaurav Gautam ValiantIQ Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:14:35-05:00",
+        "unique_id": "192d43f5c935e05a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

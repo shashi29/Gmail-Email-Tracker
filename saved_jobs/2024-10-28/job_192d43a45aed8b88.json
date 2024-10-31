@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Teamware Solutions",
+        "job_title": "Sybase DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "Production Support",
+                "UNIX",
+                "Linux Shell Scripting"
+            ],
+            "primary": [
+                "Database Design",
+                "High Availability",
+                "Disaster Recovery",
+                "SQL Performance Tuning",
+                "Database Management"
+            ],
+            "secondary": [
+                "Oracle",
+                "MS SQL Server",
+                "Monitoring",
+                "Alerting",
+                "Failover Solutions",
+                "Hot Standby Solutions",
+                "Enterprise Failover Manager"
+            ],
+            "all": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "Production Support",
+                "UNIX",
+                "Linux Shell Scripting",
+                "Database Design",
+                "High Availability",
+                "Disaster Recovery",
+                "SQL Performance Tuning",
+                "Database Management",
+                "Oracle",
+                "MS SQL Server",
+                "Monitoring",
+                "Alerting",
+                "Failover Solutions",
+                "Hot Standby Solutions",
+                "Enterprise Failover Manager"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Ajaz sharieff",
+        "email": "ajaz.t@twsol.com",
+        "jd": "From: Ajaz sharieff, Teamware Solutions ajaz.t@twsol.com Reply to: ajaz.t@twsol.com Skills Needed: Production Support Exp., Sybase ASE, Sybase IQ Summary:The Level L1/2 Sybase Administrator is a senior-level position responsible for the design, implementation, and management of databases. This role involves overseeing the database infrastructure, ensuring high availability, performance, and security. The Level 3 DBA provides technical expertise, leads database projects, and collaborates with other IT teams to deliver robust and scalable database services.DBA working experience with Sybase open source and good understanding of other RDBMS such as Sybase, Oracle and MS SQL server.Experience in Production Support with monitoringExperienced in setting up Sybase clusters and supporting HA/DR solutionsStrong skills in UNIX / Linux Shell ScriptingInstall, monitor and maintain software, implement monitoring and alerting.Experience in building high-scalable clusters, failover and hot standby solutions based on Maximum available architectureExperience in architecting, configuring, setting up Enterprise Fail over manager or similar technology for High availability solution.Experience in leading efforts related to system and SQL performance tuning and assisting business process integration with various data sources.Ability to work well with development and infrastructure teams in doing database design, changes and enhancement to new and existing applicationsProven ability to provide High Availability and Disaster Recovery solutions",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:09:01-05:00",
+        "unique_id": "192d43a45aed8b88",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

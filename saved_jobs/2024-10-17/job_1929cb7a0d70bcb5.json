@@ -1,0 +1,58 @@
+[
+    {
+        "company": "VySystems",
+        "job_title": "Java Architect",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SpringBoot",
+                "MQ",
+                "Mongo",
+                "IBM MQ",
+                "Rabbit MQ",
+                "Kafka"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "SpringBoot",
+                "MQ",
+                "Mongo",
+                "IBM MQ",
+                "Rabbit MQ",
+                "Kafka"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vy John",
+        "email": "john@vysystems.com",
+        "jd": "From: John, VySystems john@vysystems.com Reply to: john@vysystems.com Must have : Experience in Design ,Architecture with a focus on SPringBoot, MQ, MongoIBM MQ/Rabbit MQ/Kafka",
+        "source": "Email",
+        "date_posted": "2024-10-17 17:26:43-05:00",
+        "unique_id": "1929cb7a0d70bcb5",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": "Sr Java Developer with Payments exp",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "12+ Yrs",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ACI MTS",
+                "ISO 20022",
+                "Oracle 11g",
+                "IBM MQ",
+                "XML",
+                "XSD"
+            ],
+            "primary": [
+                "Payments processing architecture",
+                "SWIFT CBPR+",
+                "CHIPS",
+                "FedWire",
+                "Shell scripting",
+                "Data model for UPF"
+            ],
+            "secondary": [
+                "Bash",
+                "Ksh",
+                "Awk",
+                "Data model of core MTS"
+            ],
+            "all": [
+                "ACI MTS",
+                "ISO 20022",
+                "Oracle 11g",
+                "IBM MQ",
+                "XML",
+                "XSD",
+                "Payments processing architecture",
+                "SWIFT CBPR+",
+                "CHIPS",
+                "FedWire",
+                "Shell scripting",
+                "Data model for UPF",
+                "Bash",
+                "Ksh",
+                "Awk",
+                "Data model of core MTS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rajiv Kumar",
+        "email": "rajiv.kumar@testingxperts.com",
+        "jd": "From: Rajiv, testingxperts rajiv.kumar@testingxperts.com Reply to: rajiv.kumar@testingxperts.com Proficient in underlying technology stack for ACI MTS along with ISO 20022 Framework Knowledge.Hands-on experience in Oracle 11g and above with various database objects & replication.Knowledge of shell scripting is a must \u2013 bash, ksh. Awk would be a plus.Working knowledge of IBM MQ is a must.Knowledge of XML and XSDs is a mustIndividual who has worked on transformational project, where he/she is part of the upgrade of platform and services.ISO 20022 Standards ExperienceHands-on experience with ACI MTS ISO 20022 \u2013 MCAS / UPF framework (these are techno-functional knowledge)PLEASE SHARE PROFILE WITHIN THE RATES MENTIONED IN THE BELOW TABLEEmployment TypeC2CLocation Day One Onsite(New York or New Jersey)New York or Charlotte or New Jersey) Number of positions 2Position RoleACI Money Transfer System (MTS) ISO 20022 framework ExpertKey Skills to Look ForExperience:Prior hands-on experience with end-to-end deployment, configuration, maintenance, and support of a payment processing system.Must be thorough with the payments processing architecture for SWIFT CBPR+, CHIPS and FedWire.Must have hands-on experience with ISO 20022 standards, with CHIPS and upcoming FedWire, due to go live in March 2025.Must have at least one ACI MTS ISO 20022 framework with detailed working knowledge of each component, including but not limited to MCAS, ICE, Control Center, etc.Must be able to deploy and test patches in ACI MTS in both Service Pack style and hot fixes.Must have knowledge of data model for UPF. Knowledge of data model of core MTS is a plus.Technical Skills:Proficient in underlying technology stack for ACI MTSHands-on experience in Oracle 11g and above with various database objects & replication.Knowledge of shell scripting is a must \u2013 bash, ksh. Awk would be a plus.Working knowledge of IBM MQ is a must.Knowledge of XML and XSDs is a must. Experience Level12+ Yrs.",
+        "source": "Email",
+        "date_posted": "2024-10-18 10:25:31-05:00",
+        "unique_id": "192a05ca2d3fdbae",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "Java developer"
+    }
+]

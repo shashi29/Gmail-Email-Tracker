@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Snowflake Engineer",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Data Engineering, or a related field; a Master\u2019s degree is a plus.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "AWS",
+                "SQL",
+                "ETL platforms",
+                "Data modeling"
+            ],
+            "primary": [
+                "Data engineering",
+                "Data integration",
+                "Data quality management",
+                "Databricks",
+                "Machine learning workflows"
+            ],
+            "secondary": [
+                "Communication skills",
+                "Adaptability",
+                "Curiosity for new technology",
+                "Collaborative team engagement"
+            ],
+            "all": [
+                "Snowflake",
+                "AWS",
+                "SQL",
+                "ETL platforms",
+                "Data modeling",
+                "Data engineering",
+                "Data integration",
+                "Data quality management",
+                "Databricks",
+                "Machine learning workflows",
+                "Communication skills",
+                "Adaptability",
+                "Curiosity for new technology",
+                "Collaborative team engagement"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Prajojita Biswal",
+        "email": "pbiswal@vyzeinc.com",
+        "jd": "Job Description -ROLE: Snowflake EngineerLocations: - : 3 days onsite a week - Minneapolis, MN (LOCAL)Duration: 6 months+Visa: GC , USCMOI: Skype\u00adNeed LinkedIn Need personal Phone no. and email ID of the candidate (Not the marketing emails of candidates)Experience:Experience: 7+ years in data engineering, including experience in enterprise-level data strategy, modeling, and integration.Proven expertise in Snowflake data warehousing and AWS cloud solutions.Proficiency in data integration, profiling, and data quality management.Strong SQL skills with experience in complex query tuning, DDL execution, and database performance optimization.Hands-on experience with ETL platforms such as Informatica, DataStage, or similar tools.Experience in data modeling for logical, physical, and dimensional models.Databricks experience and familiarity with machine learning workflows.Bachelor\u2019s degree in Computer Science, Data Engineering, or a related field; a Master\u2019s degree is a plus.Strong communication skills, with an ability to translate technical concepts for business stakeholders and cross-functional team members.Demonstrated adaptability, curiosity for new technology, and collaborative team engagement.",
+        "source": "Email",
+        "date_posted": "2024-10-26 03:22:11-05:00",
+        "unique_id": "192c80b55e41ec92",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

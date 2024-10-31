@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "AWS Engineer",
+        "location": "Omaha, NE, USA",
+        "full_location": {
+            "city": "Omaha",
+            "state": "NE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "TypeScript",
+                "API Development",
+                "AWS CDK",
+                "DevOps"
+            ],
+            "primary": [
+                "EC2",
+                "Lambda",
+                "API Gateway",
+                "S3",
+                "CloudFormation",
+                "RDS",
+                "DynamoDB"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Leadership"
+            ],
+            "all": [
+                "AWS",
+                "TypeScript",
+                "API Development",
+                "AWS CDK",
+                "DevOps",
+                "EC2",
+                "Lambda",
+                "API Gateway",
+                "S3",
+                "CloudFormation",
+                "RDS",
+                "DynamoDB",
+                "CI/CD",
+                "Leadership"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pradeep Sharma",
+        "email": "pradeep.sharma@scalable-systems.com",
+        "jd": "From: Pradeep, Scalable Systems pradeep.sharma@scalable-systems.com Reply to: pradeep.sharma@scalable-systems.com Hi,Greetings of the day! I have an urgent requirement below, please go through JD and let me know if you are comfortable or have any profile. Kindly revert me back with your updated resume as well. Job Title: AWS Engineer Location: Omaha, NE (Work from Office)Duration: Long Term Contract Responsibilities:AWS: EC2, Lambda, API Gateway, S3, CloudFormation, AWS CDK, RDS, DynamoDB.TypeScript: Expertise in using TypeScript for backend development.API Development: Proficiency in building and maintaining RESTful APIs.AWS CDK: Experience in defining infrastructure using AWS Cloud Development Kit (CDK).DevOps: Knowledge of CI/CD pipelines and cloud infrastructure automation.Leadership: Strong team management and leadership skills, capable of leading a cross-functional team. Thanks & Regards, Pradeep SharmaEmail: pradeep.sharma@scalable-systems.com \"Scalable Systems is an Equal Opportunity Employer. We are committed to creating an inclusive environment for all employees and do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other legally protected status.\"",
+        "source": "Email",
+        "date_posted": "2024-10-21 06:22:10-05:00",
+        "unique_id": "192aef0822867bec",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

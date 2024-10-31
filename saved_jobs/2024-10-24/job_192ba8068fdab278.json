@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vizon Inc",
+        "job_title": "Full Stack Java Developer",
+        "location": "Baltimore, MD, USA",
+        "full_location": {
+            "city": "Baltimore",
+            "state": "MD",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "AWS",
+                "SQL",
+                "React JS"
+            ],
+            "primary": [
+                "Microservices",
+                "GitLab CI",
+                "Containerization",
+                "Debugging",
+                "Application Architecture"
+            ],
+            "secondary": [
+                "Communication Skills",
+                "Data Migration",
+                "Application Enhancements",
+                "Async Design",
+                "Financial Markets Knowledge"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "AWS",
+                "SQL",
+                "React JS",
+                "Microservices",
+                "GitLab CI",
+                "Containerization",
+                "Debugging",
+                "Application Architecture",
+                "Communication Skills",
+                "Data Migration",
+                "Application Enhancements",
+                "Async Design",
+                "Financial Markets Knowledge"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Harsh Goyal",
+        "email": "harsh@vizoninc.com",
+        "jd": "From: Harsh Goyal, Vizon Inc harsh@vizoninc.com Reply to: harsh@vizoninc.com Must be able to go for the Face To Face Interview in Baltimore, Maryland so looking for local candidatesJob Description - Work Location: Pratt Street Office Job Title: Information Technology Applications - Software Engineer IVBaltimore, Maryland ( Second ROund can be face to face but if client demand consultant has to attend face to face interview then he has to go onsite, no backout please) This resource will need to work onsite at Pratt at least 2 days a week. Parking will not be expensed so please discuss with candidates beforehand. They will also need their own device to connect via citrix. Title: Full Stack Java Developer In addition to the top skills, they need to have good communication skills since they will work directly with the business on the trading floor. - Java development- AWS-SQL-front end using react JS Candidate will be working on various tech initiatives and trading related application, which includes data migration, application enhancements using java micro services or python fast api and front end using react JS. Team is in process of creating new applications as part of decommissioning the existing applications, candidate should be good in debugging the code, understand complex workflow and async design using SQS and SNS. Candicate must be aware of gitlab ci pipeline, containerized applications, unit test cases and test coverage. Candidate should be eager to learn new things under application architecture and design. Here are the technical requirements. \u2022 A solid foundation in programming, with 5+ years of professional experience. \u2022 Proficiency in Java 11+, Python with 5+ years of professional experience. \u2022 A good understanding of modern AWS architectures and corresponding technologies, such as SNS, SQS, ECS, Lambdas, Postgres, Micro Services\u2022 Hands on experience in building and deploying microservices using Java or Python.\u2022 Hands on with gitlab ci pipelines as wells as containerized applications.\u2022 Hands on experience with application architecture and design\u2022 Extensive experience with database technologies (SQL / NoSQL), can create and debug stored procedures, complex SQL queries.\u2022 Proven ability to work collaboratively with both business and technical stakeholders, demonstrating responsibility for the end-to-end delivery of high-quality solutions to complex business problems. \u2022 An understanding of the asset management business and/or financial markets.",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:15:17-05:00",
+        "unique_id": "192ba8068fdab278",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

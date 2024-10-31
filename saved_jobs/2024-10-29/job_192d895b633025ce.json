@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Involgix",
+        "job_title": "Lead / Sr. Big Data Engineer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Hadoop",
+                "Spark",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "Scala",
+                "GCP",
+                "Batch Streaming",
+                "Real-time streaming data pipelines",
+                "Tech Lead"
+            ],
+            "secondary": [
+                "Hadoop fundamental concepts",
+                "CI/CD"
+            ],
+            "all": [
+                "Hadoop",
+                "Spark",
+                "Python",
+                "SQL",
+                "Scala",
+                "GCP",
+                "Batch Streaming",
+                "Real-time streaming data pipelines",
+                "Tech Lead",
+                "Hadoop fundamental concepts",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ron Miller",
+        "email": "ron@involgix.com",
+        "jd": "From: Ron Miller, Involgix ron@involgix.com Reply to: ron@involgix.com Position: Lead / Sr. Big Data EngineerLocation: Irving, TX (Hybrid)Hiring Type: Contract Job Description:Big data expert with 9+ years\u2019 experience in Hadoop Big data ecosystemSpark - Batch Streaming (Python, Scala)Experience in cloud environment specially GCPExperience in developing both batch and real-time streaming data pipelinesHave experience as a Tech Lead for data engineering projectsPython ScriptingExpertise in SQL Good to have:Hadoop fundamental conceptsCI/CDThanks and RegardsRon MillerSr. US IT Recruiter700 Market St, Suite 203, Cedar Park, TX 78613Email: ron@involgix.com",
+        "source": "Email",
+        "date_posted": "2024-10-29 08:27:09-05:00",
+        "unique_id": "192d895b633025ce",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

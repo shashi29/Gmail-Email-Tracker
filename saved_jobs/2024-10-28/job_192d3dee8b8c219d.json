@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": ".Net Full-Stack Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Azure Functions",
+                "Web API",
+                "SQL",
+                "ASP.NET",
+                "JavaScript",
+                "React"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "C#",
+                "Azure Functions",
+                "Web API",
+                "SQL",
+                "ASP.NET",
+                "JavaScript",
+                "React"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Dimiour Midunsathyaa",
+        "email": "midunsathyaa.subramanian@dimiour.io",
+        "jd": "From: Midunsathyaa, Dimiour midunsathyaa.subramanian@dimiour.io Reply to: midunsathyaa.subramanian@dimiour.io Job Title: .Net Full-Stack DeveloperLocation : RemoteDuration: Long term contract Job Description: (Mandatory skills)C#Azure FunctionsWeb APISQLASP. Net\\Java Script\\React etcHands on Coding",
+        "source": "Email",
+        "date_posted": "2024-10-28 09:47:55-05:00",
+        "unique_id": "192d3dee8b8c219d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

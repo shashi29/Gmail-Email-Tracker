@@ -1,0 +1,90 @@
+[
+    {
+        "company": "KK Associates LLC",
+        "job_title": "AWS Data Engineer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Database Management",
+                "ETL Development",
+                "Data Modeling",
+                "DB Performance Tuning",
+                "Data Security & Governance",
+                "Cloud Integration and Management",
+                "Cloud Infrastructure",
+                "Automation and DevOps",
+                "Data Warehousing and Analytics",
+                "Security and Compliance",
+                "Teradata SQL",
+                "AWS services (EC2, S3, RDS, Lambda, CloudWatch, CloudFormation)"
+            ],
+            "primary": [
+                "Scripting (Shell, Python)",
+                "Query optimization techniques",
+                "AWS CloudFormation",
+                "Terraform",
+                "Automating ETL pipelines"
+            ],
+            "secondary": [
+                "Knowledge of AWS storage options (S3, EFS, Glacier)",
+                "In-depth knowledge of Teradata architecture",
+                "Hands-on experience with AWS Glue",
+                "Familiarity with Redshift for analytics"
+            ],
+            "all": [
+                "Database Management",
+                "ETL Development",
+                "Data Modeling",
+                "DB Performance Tuning",
+                "Data Security & Governance",
+                "Cloud Integration and Management",
+                "Cloud Infrastructure",
+                "Automation and DevOps",
+                "Data Warehousing and Analytics",
+                "Security and Compliance",
+                "Teradata SQL",
+                "AWS services (EC2, S3, RDS, Lambda, CloudWatch, CloudFormation)",
+                "Scripting (Shell, Python)",
+                "Query optimization techniques",
+                "AWS CloudFormation",
+                "Terraform",
+                "Automating ETL pipelines",
+                "Knowledge of AWS storage options (S3, EFS, Glacier)",
+                "In-depth knowledge of Teradata architecture",
+                "Hands-on experience with AWS Glue",
+                "Familiarity with Redshift for analytics"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Amit Kushwaha",
+        "email": "kushwaha@kksoftwareassociates.com",
+        "jd": "Role :: AWS Data Engineer\nLocation :: Atlanta, GA (Day 1 Onsite)\nContract\nPlease share with complete education details (bachelor and master passed out year with university name)\nWho are we looking for?\nQualifications:\nData Engineer :\nKey Responsibilities and Skillets:\n\u00b7 Database Management, ETL Development, have used tools like Teradata Utilities (e.g., BTEQ, FastLoad, MultiLoad, TPT, etc.), Data Modeling, DB Performance Tuning, Data Security & Governance, Cloud Integration and Management, Cloud Infrastructure, Automation and DevOps, Data Warehousing and Analytics, Security and Compliance\u00b7. In-depth knowledge of Teradata architecture and components (e.g., AMP, Nodes, Parsing Engines, etc.).\u00b7 Proficiency in Teradata SQL and Teradata utilities. \u00b7 Strong SQL skills for querying and managing relational databases.\u00b7 Scripting experience (e.g., Shell, Python) for automating tasks.\u00b7 Knowledge of query optimization techniques, indexing, partitioning, and workload management in Teradata.\u00b7 Proficiency with core AWS services: EC2, S3, RDS, Lambda, CloudWatch, CloudFormation, etc.\u00b7 Familiarity with AWS storage options, such as S3, EFS, and Glacier, in the context of large-scale data storage and retrieval.\u00b7 Knowledge of AWS services that enhance Teradata performance, such as using S3 for staging data or integrating with Redshift for analytics.\u00b7 Hands-on experience with AWS CloudFormation, Terraform, or similar tools for automating infrastructure deployment.\u00b7 Proficiency in automating ETL pipelines and data processing workflows using AWS Lambda, Step Functions, or AWS Glue.",
+        "source": "Email",
+        "date_posted": "2024-10-29 06:10:29-05:00",
+        "unique_id": "192d818597730444",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

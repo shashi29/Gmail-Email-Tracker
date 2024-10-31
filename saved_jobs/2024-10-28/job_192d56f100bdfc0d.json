@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Technocraft Solutions",
+        "job_title": "ETL or Python developer",
+        "location": "Buffalo, NY, USA",
+        "full_location": {
+            "city": "Buffalo",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract to hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "ETL",
+                "ETL framework",
+                "ETL tool"
+            ],
+            "secondary": [
+                "Writing SQL Queries",
+                "stored procedures"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "ETL",
+                "ETL framework",
+                "ETL tool",
+                "Writing SQL Queries",
+                "stored procedures"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pranjali Sikarwar",
+        "email": "pranjali.sikarwar@technocraftsol.com",
+        "jd": "From: Pranjali Sikarwar, Technocraft Solutions pranjali.sikarwar@technocraftsol.com Reply to: pranjali.sikarwar@technocraftsol.com Hello, Hope you are doing well!My name is Pranjali and I'm associate recruiter at Technocraft solutions. We provide IT Consulting Services to our customers\u2019 immediate and long-term resource needs. I am contacting you either because your resume has been posted to one of the internet job sites to which we subscribe or you had previously submitted your resume to Technocraft solution.ETL/Python developerLocation- Hybrid in Buffalo NY (Contract to hire) Any ETL- any skillSQLPythonWriting SQL Queries stored procedures Should be able to answer simple SQL questionsPython experienceETL framework and ETL tool would work Thanks and Regards, Pranjali Sikarwar",
+        "source": "Email",
+        "date_posted": "2024-10-28 17:16:33-05:00",
+        "unique_id": "192d56f100bdfc0d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

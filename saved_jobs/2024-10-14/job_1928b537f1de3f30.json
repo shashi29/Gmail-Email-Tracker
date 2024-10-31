@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Arcon Software",
+        "job_title": "Java AWS Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Apache Kafka",
+                "AWS"
+            ],
+            "primary": [
+                "SQL",
+                "Maven",
+                "JIRA",
+                "Jenkins"
+            ],
+            "secondary": [
+                "Excellent English communication skills",
+                "OO principles",
+                "Design patterns"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Apache Kafka",
+                "AWS",
+                "SQL",
+                "Maven",
+                "JIRA",
+                "Jenkins",
+                "Excellent English communication skills",
+                "OO principles",
+                "Design patterns"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Sunanda",
+        "email": "sunanda@archonsoftwares.com",
+        "jd": "From: sunanda, sunanda sunanda@archonsoftwares.com Reply to: sunanda@archonsoftwares.com Please find below Job description Primary Skills: Spring boot, Java Micro Services, Apache Kafka , hands on experience (AWS)Required Experience\u2022 Excellent English communication skills\u2022 Minimum 5 years of hands-on Java application development work experience in a client server environment that demonstrates exceptional design, coding, testing and debugging skills\u2022 Cloud environment hands-on required\u2022 Should have experience on Apache Kafka;\u2022 Able to demonstrate in-depth understanding of OO principles and design patterns (usage and pitfalls)\u2022 Strong understanding of relational databases, SQL queries\u2022 Should have worked with Maven, JIRA, Jenkins; SunandaArcon Software",
+        "source": "Email",
+        "date_posted": "2024-10-14 08:23:39-05:00",
+        "unique_id": "1928b537f1de3f30",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

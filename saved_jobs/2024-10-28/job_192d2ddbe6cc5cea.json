@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Techstar Group",
+        "job_title": "Senior Java Integration Architect",
+        "location": "Lewisville, TX, USA",
+        "full_location": {
+            "city": "Lewisville",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Independent Visa",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "RESTful APIs",
+                "Kafka",
+                "Confluent Kafka",
+                "event-driven architecture"
+            ],
+            "primary": [
+                "GCP-specific integration services",
+                "technical documentation",
+                "mentoring",
+                "collaboration"
+            ],
+            "secondary": [
+                "optimization",
+                "automation",
+                "knowledge sharing",
+                "continuous learning"
+            ],
+            "all": [
+                "Java",
+                "RESTful APIs",
+                "Kafka",
+                "Confluent Kafka",
+                "event-driven architecture",
+                "GCP-specific integration services",
+                "technical documentation",
+                "mentoring",
+                "collaboration",
+                "optimization",
+                "automation",
+                "knowledge sharing",
+                "continuous learning"
+            ],
+            "with_experience": [
+                "Java",
+                "RESTful APIs",
+                "Kafka",
+                "Confluent Kafka"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Kiran Terve",
+        "email": "kirant@techstargroup.com",
+        "jd": "From: Kiran Terve, Techstar Group kirant@techstargroup.com Reply to: kirant@techstargroup.com Role: Senior Java Integration Architect Client: Direct ClientVisa: Independent VisaLocation: Lewisville, TXYou\u2019ll be hands-on as we design and implement RESTful APIs and Kafka consumers and producers using Java and following best practices.Deeply understand event-driven architecture (EDA) principles and best practices, leveraging Confluent Kafka as a core technology.Collaborate with engineering teams to apply new patterns and approaches as we build out our platform.Lead the development of Centers of Excellence (COEs) focused on RESTful APIs and event-driven architecture.Mentor and guide junior developers, fostering a culture of knowledge sharing and continuous learning.Stay current with the latest advancements in Java, RESTful APIs, Confluent Kafka, and related technologies, including GCP-specific integration services.Analyze existing systems and identify opportunities for improvement through optimization and automation.Develop and maintain technical documentation for patterns and solutions.Collaborate with stakeholders across the organization to understand business needs and translate them into technical requirements",
+        "source": "Email",
+        "date_posted": "2024-10-28 05:48:19-05:00",
+        "unique_id": "192d2ddbe6cc5cea",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

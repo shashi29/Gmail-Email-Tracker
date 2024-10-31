@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Spring Cloud",
+                "SQL",
+                "Microservices"
+            ],
+            "primary": [
+                "OCJP certified",
+                "Java 8",
+                "Redis",
+                "AWS",
+                "Docker",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Analytical skills",
+                "Problem-solving skills",
+                "Unit testing",
+                "Integration testing"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Spring Cloud",
+                "SQL",
+                "Microservices",
+                "OCJP certified",
+                "Java 8",
+                "Redis",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Unit testing",
+                "Integration testing"
+            ],
+            "with_experience": [
+                "Java (10+ years)",
+                "Spring-based technologies (10+ years)",
+                "AWS (Good to have)",
+                "DevOps (Good to have)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Navaneet Raj",
+        "email": "navneet.raj@siriinfo.com",
+        "jd": "From: Navneet raj, siri info navneet.raj@siriinfo.com Reply to: navneet.raj@siriinfo.com HelloHope you are doing goodJob Title :- Java DeveloperLocation :- RemoteJob Description :- 10+ years of experience in designing, developing, and successfully 10+ deploying critical and complex projectsMust have OCJP certifiedStrong Java skills with experience in development of concurrent and distributed systems Hands on experience using Java 8 features (Streams API, Functional programming) Advanced experience with Spring-based technologies (Spring Boot, Spring Cloud etc.) and caching frameworks like redis Experience in designing and implementing micro services based solutions Should have experience writing unit/integration tests Experience writing SQL queries and good understanding of data model Exposure of AWS cloud (EC2, ECS, Load Balancer, Security Group, Lambda, S3, etc.) - Good to have Experience in DevOps development and deployment using docker and Kubernetes \u2013 Good to have Strong analytical and problem-solving skills CPUC CertifiedWebsite: www.siriinfo.comAddress: 3 Ethel Rd, Suite # 302 Edison NJ 08817",
+        "source": "Email",
+        "date_posted": "2024-10-18 13:56:52-05:00",
+        "unique_id": "192a11dd2977f981",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

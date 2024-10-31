@@ -1,0 +1,103 @@
+[
+    {
+        "company": "Xforia",
+        "job_title": "Sr AWS Data Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "BS/BA degree or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Spark",
+                "Lake formation",
+                "Glue ETL",
+                "EMR",
+                "S3",
+                "Glue Catalog",
+                "Athena",
+                "Kinesis",
+                "MSK",
+                "Airflow",
+                "Lambda",
+                "Step Functions",
+                "Event Bridge",
+                "Parquet",
+                "Iceberg",
+                "AVRO",
+                "JSON-LD",
+                "Linux Scripting",
+                "Jenkins",
+                "Git",
+                "CI/CD",
+                "JIRA",
+                "TDD",
+                "IAM",
+                "Encryption",
+                "KMS",
+                "Secrets Manager"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Python",
+                "Spark",
+                "Lake formation",
+                "Glue ETL",
+                "EMR",
+                "S3",
+                "Glue Catalog",
+                "Athena",
+                "Kinesis",
+                "MSK",
+                "Airflow",
+                "Lambda",
+                "Step Functions",
+                "Event Bridge",
+                "Parquet",
+                "Iceberg",
+                "AVRO",
+                "JSON-LD",
+                "Linux Scripting",
+                "Jenkins",
+                "Git",
+                "CI/CD",
+                "JIRA",
+                "TDD",
+                "IAM",
+                "Encryption",
+                "KMS",
+                "Secrets Manager"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "vaishnavi",
+        "email": "vaishnavi.d@xforia.com",
+        "jd": "Job Description :Responsibilities : BS/BA degree or equivalent experienceGeneral: Strong organizational, problem-solving, and critical thinking skills; Strong documentation skillsCoding: Proficiency in Java (Preferable) & PythonCluster Computing frameworks: Proficiency in SparkAWS Data Services: Proficiency in Lake formation, Glue ETL (or) EMR, S3, Glue Catalog, Athena, Kinesis (or) MSK, Airflow (or) Lambda + Step Functions + Event BridgeData De/Serialization: Expertise in atleast 2 of the formats: Parquet, Iceberg, AVRO, JSON-LDDevOps: Linux Scripting, Jenkins, Git, CI/CD, JIRA, TDDAWS Data Security: Good Understanding of security concepts such as: Lake formation, IAM, Service roles, Encryption, KMS, Secrets Manager",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:41:23-05:00",
+        "unique_id": "192d457e6a18fb74",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

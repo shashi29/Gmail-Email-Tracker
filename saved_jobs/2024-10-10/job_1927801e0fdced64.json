@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Fifth Third Bank",
+        "job_title": "Lead Java Developer",
+        "location": "Cincinnati, OH, USA",
+        "full_location": {
+            "city": "Cincinnati",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5-10 years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SpringBoot",
+                "Amazon Web Services (AWS)",
+                "Microservices",
+                "Technical Leadership"
+            ],
+            "primary": [
+                "SQL",
+                "UNIX",
+                "Linux",
+                "Windows",
+                "Hadoop",
+                "MapReduce",
+                "Cloudera",
+                "Hive",
+                "Spark",
+                "ElasticSearch"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "SpringBoot",
+                "Amazon Web Services (AWS)",
+                "Microservices",
+                "Technical Leadership",
+                "SQL",
+                "UNIX",
+                "Linux",
+                "Windows",
+                "Hadoop",
+                "MapReduce",
+                "Cloudera",
+                "Hive",
+                "Spark",
+                "ElasticSearch"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anu Bandi",
+        "email": "anu.bandi@w3global.com",
+        "jd": "From: Anu Bandi, w3global Inc anu.bandi@w3global.com Reply to: anu.bandi@w3global.com HiJob Title: Lead Java Developer Location: Cincinnati, OH, USA (Onsite) Client: Fifth Third Bank TECHNICAL SKILLSMust HaveAmazon Web Services (AWS)Application Dev.develop Microservicesdevelop Spring applicationsTechnical Leadership Job Description:We are seeking an experienced **Backend Services Developer IV** with **5-10 years of Technical Lead experience** to join our Agile Development team. The successful candidate will work in a multi-disciplinary team, contributing to the design, development, and maintenance of software solutions for our organization\u2019s analytical platforms. Key Responsibilities:Design and develop software within an Agile team environment.Collaborate with internal and external teams to gather requirements, understand user issues, and design solutions that translate into high-quality code.Prepare design specifications, process flows, data models, user interface designs, prototypes, use cases, and deployment plans.Create and maintain system documentation and provide product demonstrations when needed.Support the entire software development lifecycle, including updates, bug fixes, and deployment. Qualifications:Education: Bachelor\u2019s degree in computer science, Engineering, or a related field. Experience:Minimum of 5 years in Agile software development within a DevOps environment.Proficient in programming languages such as **Java** and **SpringBoot**.Strong SQL skills, including advanced query writing and data mining from relational databases (e.g., **Oracle, PL/SQL**).Experience working with multiple operating systems, including **UNIX, Linux,** and **Windows**.Familiarity with cloud architectures and big data technologies such as **Hadoop, MapReduce, Cloudera, Hive, Spark**, and **ElasticSearch**.Experience supporting intelligence community disciplines is preferred.",
+        "source": "Email",
+        "date_posted": "2024-10-10 14:21:34-05:00",
+        "unique_id": "1927801e0fdced64",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

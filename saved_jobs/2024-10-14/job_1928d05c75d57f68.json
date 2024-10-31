@@ -1,0 +1,84 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "Technical Project Manager",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "3-5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Azure",
+                "SQL",
+                "RESTful web services",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Full-stack Java development",
+                "Microservices architecture",
+                "Terraform",
+                "MedTech regulations",
+                "Agile methodologies",
+                "Scrum Master"
+            ],
+            "secondary": [
+                "NoSQL databases",
+                "HIPAA",
+                "FDA",
+                "EUMDR",
+                "FHIR",
+                "Technical leadership",
+                "Communication skills"
+            ],
+            "all": [
+                "Java",
+                "Azure",
+                "SQL",
+                "RESTful web services",
+                "Kubernetes",
+                "Full-stack Java development",
+                "Microservices architecture",
+                "Terraform",
+                "MedTech regulations",
+                "Agile methodologies",
+                "Scrum Master",
+                "NoSQL databases",
+                "HIPAA",
+                "FDA",
+                "EUMDR",
+                "FHIR",
+                "Technical leadership",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Gagan Shrivastava",
+        "email": "gagan.shrivastava@tekinspirations.com",
+        "jd": "Hello,Hope you are doing well! Please check out the given JD below, and let me know if you have any candidate for this role. Job Title: Technical Project ManagerLocation: Lexington, Boston, MA (Hybrid - 3 Days Onsite)Duration: 12+ Months Important Notes:MedTech Experience: Candidates must have recent project experience (3-5+ years) working with and supporting MedTech clients.Need only local candidates. Job Description: We are seeking a highly skilled Technical Project Manager with hands-on experience working with MedTech clients. The ideal candidate will have a strong technical background, experience managing MedTech and Healthcare projects, and deep expertise in Java development and Azure technologies. Technical Skills:Strong Java development expertiseProficiency with Azure and SQLExperience with Restful web services.Capable of handling Full-stack Java development teams Key Responsibilities: Lead and manage projects for MedTech clients, ensuring successful delivery of solutions.Oversee Java Backend Services projects built on a Microservices architecture.Manage full-stack Java development teams, providing technical guidance as needed.Handle system integrations involving both devices and web applications.Work with SQL and NoSQL databases and leverage MS Azure for cloud-based solutions.Utilize Kubernetes orchestration and Terraform (preferred) for infrastructure management.Ensure compliance with MedTech regulations and standards, including HIPAA, FDA, and EUMDR.Apply your knowledge of FHIR and other healthcare-related protocols.Implement Agile methodologies and serve as Scrum Master for project teams.Collaborate effectively with multiple stakeholders, including business, technical, and client teams. Required Qualifications: Recent experience (3-5+ years) working with MedTech clients is mandatory.Strong proficiency in Java development, with experience in RESTful web services.Expertise in MS Azure and SQL.Hands-on experience with Kubernetes and Terraform (preferred).Deep understanding of MedTech regulations, including HIPAA, FDA, and EUMDR.5+ years of experience in Project Management.Experience in managing and delivering MedTech and Healthcare projects.Excellent communication and leadership skills, with strong team-handling experience.Proven experience working with Agile and Scrum methodologies, with past experience as a Scrum Master.",
+        "source": "Email",
+        "date_posted": "2024-10-14 16:18:01-05:00",
+        "unique_id": "1928d05c75d57f68",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

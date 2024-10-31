@@ -1,0 +1,52 @@
+[
+    {
+        "company": "Archon Software",
+        "job_title": "Java Developer",
+        "location": "California, USA",
+        "full_location": {
+            "city": "",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "11 Plus experience",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SpringBoot",
+                "Rest API"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "SpringBoot",
+                "Rest API"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sunanda",
+        "email": "sunanda@archonsoftwares.com",
+        "jd": "From: sunanda, Archon Software sunanda@archonsoftwares.com Reply to: sunanda@archonsoftwares.com Please find below job descriptin Mandatory SkillsExperience in JavaExperience in SpringBootExperience in Rest API",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:40:00-05:00",
+        "unique_id": "192bb37eb926be7f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

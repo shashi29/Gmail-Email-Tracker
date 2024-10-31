@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Pioneer",
+        "job_title": "Lead Data Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica",
+                "Python",
+                "Apache Airflow"
+            ],
+            "primary": [
+                "AWS",
+                "Spark",
+                "DBT",
+                "Trino",
+                "Snowflake",
+                "Linux/UNIX"
+            ],
+            "secondary": [
+                "GIT",
+                "Data Quality",
+                "Data Governance",
+                "SQL",
+                "Database Management Systems"
+            ],
+            "all": [
+                "Informatica",
+                "Python",
+                "Apache Airflow",
+                "AWS",
+                "Spark",
+                "DBT",
+                "Trino",
+                "Snowflake",
+                "Linux/UNIX",
+                "GIT",
+                "Data Quality",
+                "Data Governance",
+                "SQL",
+                "Database Management Systems"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anupam Gupta",
+        "email": "anupam.gupta@klaxontech.com",
+        "jd": "From: Anupam Gupta, Klaxontech anupam.gupta@klaxontech.com Reply to: anupam.gupta@klaxontech.com Hi ,My name is Anupam and I am a Staffing Specialist at klaxon technologies Inc. I am reaching out to you on an exciting job opportunity with one of our clients. If you are looking for a new job opportunity, please share your updated resume with your rate expectations. Position : 1 \u2013 Lead Data Engineer (With strong Informatica, python, Airflow skills)Client: PioneerEnd Client: SalesforceLocation: Phoenix AZ / San Francisco CA MUST HAVE: [Informatica + AWS + Python + Airflow] Informatica, Python, Spark, AWS Services with EMR, Iceberg, GIT, Airflow, DBT, Trino, Snowflake, DBT, Linux/UNIX, AirflowDescription: We have a Data engineer partnering with the Lead Engineer for validation and context. It would roughly 40 informatica mappings where they need to repoint the target to a different database and some source and look up to a different tables and implement business logic to change to new definitions. This is a time bound and very strict time of deliverable ; code base in November and running with definitions and validations in December and support (may be repeat running the code based on UAT findings) Job Overview: We are seeking a highly skilled Lead Data Engineer with extensive experience in Informatica, Python, and Apache Airflow.The ideal candidate will lead our data engineering team, designing and implementing robust data pipelines, ensuring data quality, and optimizing data architecture for scalability and performance. This role requires strong technical skills, leadership capabilities, and a passion for transforming data into actionable insights. Team Leadership: Lead and mentor a team of data engineers, fostering a collaborative and innovative environment.Define best practices and standards for data engineering processes and methodologies.Data Pipeline Development: Design, develop, and maintain ETL processes using Informatica and Python to ensure efficient data movement and transformation.Implement and manage workflows in Apache Airflow for scheduling and monitoring data pipelines.Data Architecture: Collaborate with data architects and analysts to develop scalable and efficient data models.Optimize existing data pipelines for performance, reliability, and cost-effectiveness.Data Quality and Governance: Establish data quality metrics and monitoring processes to ensure the integrity and accuracy of data.Implement data governance practices to comply with regulatory requirements and internal policies.Collaboration: Work closely with cross-functional teams including data scientists, analysts, and business stakeholders to understand data needs and deliver solutions that drive business value.Participate in the planning and execution of data-related projects.Documentation and Reporting: Maintain comprehensive documentation of data engineering processes, architectures, and workflowsProvide regular updates to stakeholders on project status, challenges, and solutions.Experience: 10+ years of experience in data engineering or a related field.5+ years of experience leading data engineering teams.Technical Skills: Strong expertise in Informatica for ETL processes.Proficient in Python for data manipulation and automation.Experience with Apache Airflow for workflow management.Familiarity with cloud platforms (AWS) and big data technologies (Hadoop, Spark) is a plus.Solid understanding of SQL and database management systems (e.g., MySQL, PostgreSQL, NoSQL).",
+        "source": "Email",
+        "date_posted": "2024-10-23 16:56:39-05:00",
+        "unique_id": "192bb82014cf5e47",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

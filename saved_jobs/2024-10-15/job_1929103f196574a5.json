@@ -1,0 +1,59 @@
+[
+    {
+        "company": "Paramount Software Solutions",
+        "job_title": "Data Architect (Redshift)",
+        "location": "Saint Louis, MO, USA",
+        "full_location": {
+            "city": "Saint Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Amazon Redshift",
+                "ANSI SQL",
+                "HDFS",
+                "Spark",
+                "AWS",
+                "Unix Scripting"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Amazon Redshift",
+                "ANSI SQL",
+                "HDFS",
+                "Spark",
+                "AWS",
+                "Unix Scripting"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Geetha Raghavendra",
+        "email": "geetha@paramountsoft.net",
+        "jd": "From: Geetha, Paramount software solutions geetha@paramountsoft.net Reply to: geetha@paramountsoft.net Hi Partners,Job Title: Data Architect (Redshift)Location: Saint Louis, MO (Onsite)Long Term Contract Note:No H1B'sMush Have: Redshift Certification Job Description: Required Skills: ANSI SQL, Hive, Amazon Redshift, HDFS, Spark, AWS, Unix Scripting We are seeking an experienced data engineer with 10 plus of experience in IT Data Warehousing.Candidate should 5 plus years\u2019 experience in Redshift cloud environment.The ideal candidate will have a strong background in SQL and Amazon Redshift.The candidate should be good in Spark, HDFS, Hive, AWS, Unix Scripting.This role requires a deep understanding of data architecture and the ability to design and implement scalable solutions. Responsibilities:Lead the design and implementation of data architecture solutions using Redshift.Oversee the development and maintenance of scalable data pipelines and workflows.Provide technical expertise in Unix Scripting and ANSI SQL to optimize data processing tasks.Collaborate with cross-functional teams to gather and analyze requirements for data solutions.Ensure data integrity and security by implementing best practices and standardsDevelop and maintain documentation for data architecture and processes.Monitor and troubleshoot data systems to ensure optimal performance and reliability.Implement data governance policies to ensure compliance with industry standards.Mentor and guide junior team members in best practices and technical skills.Conduct performance tuning and optimization of data systems to enhance efficiency.Evaluate and recommend new technologies and tools to improve data architecture.Work closely with stakeholders to understand business needs and translate them into technical solutions.Provide regular updates and reports on project status and progress. Qualifications: Possess a strong background in Amazon Redshift and SQLShould be strong in Spark, HDFS, Hive, AWS, Unix ScriptingDemonstrate excellent problem-solving skills and the ability to troubleshoot complex issues.Exhibit strong communication skills to effectively collaborate with cross-functional teamsShow proficiency in designing and implementing scalable data solutions.Have experience in data governance and ensuring compliance with industry standards.Display the ability to mentor and guide junior team members.Geetha RaghavendraExecutive-TAG geetha@paramountsoft.netwww.paramountsoft.net",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:53:59-05:00",
+        "unique_id": "1929103f196574a5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

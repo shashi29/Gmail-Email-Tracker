@@ -1,0 +1,97 @@
+[
+    {
+        "company": "Technocraft Solutions",
+        "job_title": "Regular Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, Mathematics, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "R",
+                "Machine Learning",
+                "Data Preprocessing",
+                "Data Visualization"
+            ],
+            "primary": [
+                "Java",
+                "Spark",
+                "SQL",
+                "Hadoop",
+                "TensorFlow",
+                "PyTorch",
+                "scikit-learn",
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "secondary": [
+                "Scala",
+                "Spring Boot",
+                "JUnit",
+                "RESTful APIs",
+                "Micro-services",
+                "CI/CD",
+                "Postgres",
+                "Oracle",
+                "NIFI",
+                "Airflow"
+            ],
+            "all": [
+                "Python",
+                "R",
+                "Machine Learning",
+                "Data Preprocessing",
+                "Data Visualization",
+                "Java",
+                "Spark",
+                "SQL",
+                "Hadoop",
+                "TensorFlow",
+                "PyTorch",
+                "scikit-learn",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Scala",
+                "Spring Boot",
+                "JUnit",
+                "RESTful APIs",
+                "Micro-services",
+                "CI/CD",
+                "Postgres",
+                "Oracle",
+                "NIFI",
+                "Airflow"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kajal Katara",
+        "email": "kajal.katara@technocraftsol.com",
+        "jd": "Hello,Hope you are doing wellMy name is Kajal Katara and I'm a Technical Recruiter at Technocraft solutions. We provide IT Consulting Services to our customers immediate and long-term resource needs. I am contacting you either because your resume has been posted to one of the internet job sites to which we subscribe or you had previously submitted your resume to Technocraft solutions. Role: Regular Data EngineerLocation: Remote Project descriptionAs a DataEngineer in the Data Engineering & Analytics team, you will develop data & analytics solutions that sit atop vast datasets gathered by retail stores, restaurants, banks, and other consumer-focused companies. The challenge will be to create high-performance algorithms, cutting-edge analytical techniques including machine learning and artificial intelligence, and intuitive workflows that allow our users to derive insights from big data that in turn drive their businesses. You will have the opportunity to create high-performance analytic solutions based on data sets measured in the billions of transactions and front-end visualizations to unleash the value of big data. You will have the opportunity to develop data-driven innovative analytical solutions and identify opportunities to support business and client needs in a quantitative manner and facilitate informed recommendations/decisions through activities like building ML models, automated data pipelines, designing data architecture/schema, performing jobs in big data cluster by using different execution engines and program languages such as Hive/Impala, Python, Java, Kafka, Spark, R, etc. ResponsibilitiesCollaborate with cross-functional teams to understand business requirements and translate them into machine learning solutionsDesign and develop robust machine learning models and algorithms that solve complex business problemsDesign and develop data and analytics solutions that sit atop vast datasetsClean, preprocess, and analyze data to ensure its suitability for machine learning applicationsImplement end-to-end machine learning pipelines, from data collection and feature engineering to model training and deploymentSelect appropriate machine learning techniques and algorithms based on the problem's requirements and constraintsPerform exploratory data analysis and generate insights to guide model developmentEvaluate and fine-tune machine learning models for performance, accuracy, and reliabilityDeploy machine learning models into production environments, ensuring scalability and maintainabilityCollaborate with technical team to integrate machine learning solutions into applicationsStay up-to-date with the latest advancements in machine learning and recommend innovative approaches to enhance our capabilitiesDocument and communicate machine learning solutions, findings, and insights to technical and non-technical stakeholdersAdditional tasks as required Skills Must haveBachelor's degree in Computer Science, Engineering, Mathematics, or a related fieldProven experience as a machine learning engineer, working on complex machine learning projectsStrong programming skills in languages like Python, R, or similarSolid understanding of machine learning algorithms, deep learning frameworks, and statistical modeling techniquesHands-on experience with machine learning libraries such as TensorFlow, PyTorch, or scikit-learnProficiency in data preprocessing, feature engineering, and data visualizationExperience with cloud platforms such as AWS, Azure, or GCP for deploying machine learning modelsFamiliarity with version control systems (e.g., Git) and collaborative development practicesStrong problem-solving skills and ability to troubleshoot and optimize machine learning modelsExcellent communication skills to convey technical concepts to both technical and non-technical stakeholdersProven ability to work in a collaborative team environment and drive projects to completion Ideal Candidate Qualifications:Working proficiency in using Python/Scala, Spark (tuning jobs), SQL, Hadoop platforms to build Big Data products & platforms.Good programming skills in Java and spring boot and Junit.Knowledge in software development test approaches & frameworksFamiliarity with RESTful APIs and micro-services architecturesExperience in working with CI/CDExperience in working with SQL database like Postgres, OraclePreferably with hands-on experience with Hadoop big data tools (Hive, Impala, Spark)Experience with data pipeline and workflow management tools: NIFI, Airflow.Comfortable in developing shell scripts for automation.Good troubleshooting and debugging skills.Proficient in standard software development, such as version control, testing, and deploymentDemonstrated basic knowledge of statistical analytical techniques, coding, and data engineeringAbility to quickly learn and implement new technologiesAbility to Solve complex problems with multi-layered data setsAbility to innovate and determine new approaches & technologies to solve business problems and generate business insights & recommendations.Ability to multi-task and strong attention to detailFlexibility to work as a member of a matrix based diverse and geographically distributed project teamsGood communication skillsboth verbal and writtenand strong relationship, collaboration skills, and organizational skills, Nice to haveExperience with performance Tuning of Database Schemas, Databases, SQL, ETL Jobs, and related scriptsExperience in working with Cloud APIs (e.g., Azure, AWS)Experience participating in complex engineering projects in an Agile setting e.g. Scrum",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:15:59-05:00",
+        "unique_id": "192c5727bd3d6208",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

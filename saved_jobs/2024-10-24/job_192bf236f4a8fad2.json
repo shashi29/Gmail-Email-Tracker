@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Teamware solutions",
+        "job_title": "Sybase DataBase Administrator",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "Production Support"
+            ],
+            "primary": [
+                "UNIX",
+                "Linux",
+                "Shell Scripting",
+                "High Availability",
+                "Disaster Recovery"
+            ],
+            "secondary": [
+                "Oracle",
+                "MS SQL server",
+                "Database Design",
+                "SQL Performance Tuning",
+                "Monitoring"
+            ],
+            "all": [
+                "Production Support",
+                "Sybase ASE",
+                "Sybase IQ",
+                "UNIX",
+                "Linux",
+                "Shell Scripting",
+                "High Availability",
+                "Disaster Recovery",
+                "Oracle",
+                "MS SQL server",
+                "Database Design",
+                "SQL Performance Tuning",
+                "Monitoring"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arun Prasad",
+        "email": "arunprasad.g@twsol.com",
+        "jd": "From: Arun Prasad, Teamware solutions arunprasad.g@twsol.com Reply to: arunprasad.g@twsol.com Job Title : Sybase DataBase AdministratorLocation : Plano, TXType of Job: Contract/Full TimeMode: Onsite (5 Days onsite & 24x7 Rotational)Shift :- Rotational (Shift 1 (8 AM \u2013 5 PM), Shift 2 (4 PM \u2013 1 AM), Shift 3 (12 AM \u2013 9 AM)) JOB DESCRIPTION: Skills Needed - Production Support Exp., Sybase ASE , Sybase IQ Summary:\u00b7The Level L1/2 Sybase Administrator is a senior-level position responsible for the design, implementation, and management of databases. This role involves overseeing the database infrastructure, ensuring high availability, performance, and security. The Level 3 DBA provides technical expertise, leads database projects, and collaborates with other IT teams to deliver robust and scalable database services.\u00b7DBA working experience with Sybase open source and good understanding of other RDBMS such as Sybase, Oracle and MS SQL server.\u00b7Experience in Production Support with monitoring\u00b7Experienced in setting up Sybase clusters and supporting HA/DR solutions\u00b7Strong skills in UNIX / Linux Shell Scripting\u00b7Install, monitor and maintain software, implement monitoring and alerting.\u00b7Experience in building high-scalable clusters, failover and hot standby solutions based on Maximum available architecture\u00b7Experience in architecting, configuring, setting up Enterprise Fail over manager or similar technology for High availability solution.\u00b7Experience in leading efforts related to system and SQL performance tuning and assisting business process integration with various data sources.\u00b7Ability to work well with development and infrastructure teams in doing database design, changes and enhancement to new and existing applications\u00b7Proven ability to provide High Availability and Disaster Recovery solutions",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:48:00-05:00",
+        "unique_id": "192bf236f4a8fad2",
+        "emp_type": [
+            "contract",
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

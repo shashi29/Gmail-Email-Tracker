@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Agile Enterprise Solutions Inc.",
+        "job_title": "Snowflake Developer",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Python",
+                "SQL",
+                "ETL",
+                "Data Warehouse"
+            ],
+            "primary": [
+                "SnowSQL",
+                "SnowPipe",
+                "Data modeling",
+                "Data transformation",
+                "Data intelligence solutions"
+            ],
+            "secondary": [
+                "AWS",
+                "Tasks",
+                "Streams",
+                "Time travel",
+                "Optimizer",
+                "Metadata Manager",
+                "Data sharing",
+                "Stored procedures",
+                "OLTP",
+                "OLAP",
+                "Dimensions",
+                "Facts"
+            ],
+            "all": [
+                "Snowflake",
+                "Python",
+                "SQL",
+                "ETL",
+                "Data Warehouse",
+                "SnowSQL",
+                "SnowPipe",
+                "Data modeling",
+                "Data transformation",
+                "Data intelligence solutions",
+                "AWS",
+                "Tasks",
+                "Streams",
+                "Time travel",
+                "Optimizer",
+                "Metadata Manager",
+                "Data sharing",
+                "Stored procedures",
+                "OLTP",
+                "OLAP",
+                "Dimensions",
+                "Facts"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Irfan Shaik",
+        "email": "irfan_shaik@aesincus.com",
+        "jd": "Hello,Job Title: Snowflake DeveloperLocation: Seattle WAYear of Experience : 10 YearsJob DetailsAt least 5 years of software development experience, and minimum 2 years of experience on Snowflake development in AWSSnowflake data engineers will be responsible for supporting data intelligence solutions around Snowflake Data Warehouse.A solid experience and understanding of architecting, designing and operationalization of large scale data and analytics solutions on Snowflake Cloud Data Warehouse is a must.Snowflake SQL Writing SQL queries against Snowflake, developing scripts in python to do Extract, Load, and Transform dataHands-on experience with Snowflake utilities such as SnowSQL, SnowPipe, Python, Tasks, Streams, Time travel, Optimizer, Metadata Manager, data sharing, and stored procedures.In-depth understanding of Data Warehouse/ODS, ETL concept and modelling structure principlesUnderstanding data transformation and translation requirements and which tools to leverage to get the job doneExperience in Data warehousing - OLTP, OLAP, Dimensions, Facts, and Data modelling.Experience gathering and analysing system requirementsDeveloping ETL pipelines in and out of data warehouse using combination of Python and Snowflakes SnowSQL Writing SQL queries against SnowflakeThanks & Regards,Irfan ShaikP : 972-440-0069Cell No: 647-375-2228Agile Enterprise Solutions Inc.2591 Dallas Parkway,Suite 300, Frisco,TX 75034.",
+        "source": "Email",
+        "date_posted": "2024-10-18 07:49:50-05:00",
+        "unique_id": "1929fcdcd48afd4e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

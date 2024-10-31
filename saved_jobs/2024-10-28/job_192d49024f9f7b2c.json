@@ -1,0 +1,97 @@
+[
+    {
+        "company": "Delta",
+        "job_title": "Senior Cloud Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Degree in Information Systems, Computer Science or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cloud Technologies (AWS / Azure / Google)",
+                "Python",
+                "Java",
+                "shell scripting (Bash and Poweshell)",
+                "SQL"
+            ],
+            "primary": [
+                "data APIs",
+                "data delivery services",
+                "streaming data",
+                "data extraction from different databases (Oracle, DB2, MySQL etc.)",
+                "Docker",
+                "Kubernetes",
+                "OpenShift",
+                "Kafka",
+                "Aurora",
+                "AWS Glue",
+                "Redshift",
+                "automating application deployment",
+                "continuous delivery",
+                "continuous integration (Jenkins, Ansible etc.)",
+                "micro services",
+                "API architecture"
+            ],
+            "secondary": [
+                "Business Intelligence/Analytics experience",
+                "Airline Industry experience",
+                "scalable data extraction tools"
+            ],
+            "all": [
+                "Cloud Technologies (AWS / Azure / Google)",
+                "Python",
+                "Java",
+                "shell scripting (Bash and Poweshell)",
+                "SQL",
+                "data APIs",
+                "data delivery services",
+                "streaming data",
+                "data extraction from different databases (Oracle, DB2, MySQL etc.)",
+                "Docker",
+                "Kubernetes",
+                "OpenShift",
+                "Kafka",
+                "Aurora",
+                "AWS Glue",
+                "Redshift",
+                "automating application deployment",
+                "continuous delivery",
+                "continuous integration (Jenkins, Ansible etc.)",
+                "micro services",
+                "API architecture",
+                "Business Intelligence/Analytics experience",
+                "Airline Industry experience",
+                "scalable data extraction tools"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivi Chaudhary",
+        "email": "shivani@pinakastaffing.com",
+        "jd": "From: shivani, pinaka staffing shivani@pinakastaffing.com Reply to: shivani@pinakastaffing.com Senior Cloud DeveloperContract: 12+ monthsLocation: Atlanta, GA onC2C Description:Seeking a Senior Cloud DeveloperOur client is on a journey to becoming the best IT organization in the airline industry, a journey of transformation. They are changing the way we do business from top to bottom as we strive to create meaningful and innovative solutions and are looking for team members to help us realize our visionResponsibilities: Develop solid and supportable modular designs for data streaming, Cloud transformation/migration, and API product development in support of critical applications Develop data APIs and data delivery services that support operational and analytical applications for Delta's internal business operations, customers and partnersCreation and support of data-centric products that encompass multiple specializations, platforms, and technologiesAnalyze technical information and produce quality softwareInitiate collaboration with teammatesOffer creative solutions to overcome obstaclesWork within automated testing and CICD processesBe an expert on the products we builtDocument solutions in written and diagram form, and communicate across teamsLeverage developer coding standards to ensure it meets design goals and business needs Identify technical issues, articulate impact and need for prioritizationProactive communication to both team and leadershipWork collaboratively with vendor(s) Requirements: Good verbal and Written communication skillsExperience working with multiple disparate systemsExperience in Cloud Technologies (AWS / Azure / Google)Proficiency with Python, Java, shell scripting (Bash and Poweshell) & SQLExperience working with streaming data and data extraction from different databases (Oracle, DB2, MySQL etc.)Experience with deploying and managing infrastructures based on Docker, Kubernetes, or OpenShiftExperience working with Kafka, Aurora, AWS Glue, Redshift is a plusUnderstanding of data engineering, real time streaming and/or eventing, and jsonparsingExperience with automating application deployment, continuous delivery, and continuous integration (Jenkins, Ansible etc.)Experience building micro services and API architectureDebugging & troubleshooting skillsEmbraces diverse people, thinking and stylesConsistently makes safety and security, of self and others, the priority Desired skills: Business Intelligence/Analytics experienceDegree in Information Systems, Computer Science or equivalent experienceAirline Industry experienceExperience with scalable data extraction toolsAWSShivi ChaudharyTechnical Recruiter",
+        "source": "Email",
+        "date_posted": "2024-10-28 13:42:49-05:00",
+        "unique_id": "192d49024f9f7b2c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

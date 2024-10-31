@@ -1,0 +1,53 @@
+[
+    {
+        "company": "XFORIA",
+        "job_title": "Data Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "containers"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python",
+                "AWS",
+                "containers"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shyam Seth",
+        "email": "shyam.seth@xforia.com",
+        "jd": "From: Shyam Seth, XFORIA shyam.seth@xforia.com Reply to: shyam.seth@xforia.com Hi,Greetings from XFORIA. Note: Need only locals, PP no is mandate. NO OPT/ CPT. Sr. Data engineer with strong experience on containers, Python and AWS. Preferably in close proximity of Phoenix, AZ for hybrid 6 months contract.",
+        "source": "Email",
+        "date_posted": "2024-10-16 13:02:17-05:00",
+        "unique_id": "192969f34280e921",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

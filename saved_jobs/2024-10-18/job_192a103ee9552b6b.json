@@ -1,0 +1,81 @@
+[
+    {
+        "company": "SIRI INFO",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "OCJP certification",
+                "Spring Boot",
+                "Spring Cloud",
+                "SQL"
+            ],
+            "primary": [
+                "Java 8",
+                "Microservices",
+                "AWS",
+                "Redis",
+                "Unit testing",
+                "Integration testing"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "DevOps",
+                "Analytical skills",
+                "Problem-solving skills"
+            ],
+            "all": [
+                "Java",
+                "OCJP certification",
+                "Spring Boot",
+                "Spring Cloud",
+                "SQL",
+                "Java 8",
+                "Microservices",
+                "AWS",
+                "Redis",
+                "Unit testing",
+                "Integration testing",
+                "Docker",
+                "Kubernetes",
+                "DevOps",
+                "Analytical skills",
+                "Problem-solving skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Danish Iqbal",
+        "email": "danish.iqbal@siriinfo.com",
+        "jd": "From: Danish Iqbal, siri Info Solutions Inc danish.iqbal@siriinfo.com Reply to: danish.iqbal@siriinfo.com Hello Dear,Hope You\u2019re Doing Well!!My name is Danish Iqbal and I am a Staffing Specialist at SIRI INFO. I am reaching out to you on an exciting job opportunity with one of our clients.Job Title: Java DeveloperJob Location: RemoteJob Duration: Contract Visa:- H1B Mandatory:- Must have OCJP certified Job Description:-10+ years of experience in designing, developing, and successfully 10+ deploying critical and complex projectsMust have OCJP certifiedStrong Java skills with experience in development of concurrent and distributed systems Hands on experience using Java 8 features (Streams API, Functional programming) Advanced experience with Spring-based technologies (Spring Boot, Spring Cloud etc.) and caching frameworks like redis Experience in designing and implementing micro services based solutions Should have experience writing unit/integration tests Experience writing SQL queries and good understanding of data model Exposure of AWS cloud (EC2, ECS, Load Balancer, Security Group, Lambda, S3, etc.) - Good to have Experience in DevOps development and deployment using docker and Kubernetes - Good to have Strong analytical and problem-solving skills",
+        "source": "Email",
+        "date_posted": "2024-10-18 13:28:35-05:00",
+        "unique_id": "192a103ee9552b6b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

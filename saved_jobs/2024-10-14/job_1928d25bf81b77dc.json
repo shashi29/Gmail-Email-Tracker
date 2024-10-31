@@ -1,0 +1,87 @@
+[
+    {
+        "company": "kk Software Associates LLC",
+        "job_title": "Senior GCP Security Engineer (DevSecOps)",
+        "location": "USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "DevSecOps",
+                "Terraform",
+                "Cloud Security",
+                "CI/CD"
+            ],
+            "primary": [
+                "IAM",
+                "KMS",
+                "VPC",
+                "Cloud Security Command Center",
+                "Python",
+                "Bash"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "SAST",
+                "DAST",
+                "vulnerability scanning",
+                "CISSP",
+                "OWASP",
+                "NIST"
+            ],
+            "all": [
+                "GCP",
+                "DevSecOps",
+                "Terraform",
+                "Cloud Security",
+                "CI/CD",
+                "IAM",
+                "KMS",
+                "VPC",
+                "Cloud Security Command Center",
+                "Python",
+                "Bash",
+                "Docker",
+                "Kubernetes",
+                "SAST",
+                "DAST",
+                "vulnerability scanning",
+                "CISSP",
+                "OWASP",
+                "NIST"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Deeksha Rawat",
+        "email": "deeksha.r@kksoftwareassociates.com",
+        "jd": "From: Deeksha Rawat, kk Software Associates LLC deeksha.r@kksoftwareassociates.com Reply to: deeksha.r@kksoftwareassociates.com Job Title: Senior GCP Security Engineer (DevSecOps) Location: Minneapolis, MN(Preferred), Candidate from nearby states is fine but should be happy to travel at their own expense when called in office. Duration : 12+ Months Job Summary: We are looking for an experienced Senior GCP Security Engineer (DevSecOps) to lead and drive security initiatives across our cloud environment. This senior-level role will focus on integrating security into the entire development and operational lifecycle, bridging the gap between Security Analysts, Architects, Developers, and Platform Engineers. The ideal candidate is a subject matter expert in GCP security, with a strong foundation in DevOps practices, and can implement cutting-edge security solutions across cloud infrastructure. You will play a key role in ensuring our GCP environment is secure, scalable, and compliant with industry standards. Key Responsibilities:\u2022 Security Leadership: Lead security design and architecture reviews for GCP environments, ensuring security is embedded at all layers of the infrastructure. o Define and implement security standards for GCP infrastructure, including network segmentation, firewall rules, and secure configurations for compute, storage, and database services. o Conduct threat modeling exercises to identify potential security risks and develop mitigation strategies. o Establish and maintain security baselines for GCP resources \u2022 Strategic Collaboration: Partner with security architects, developers, and platform engineers to implement security best practices across DevSecOps pipelines and cloud infrastructure. o Work closely with development teams to integrate security testing into the software development lifecycle (SDLC). o Collaborate with operations teams to implement security monitoring and incident response processes. o Provide guidance to architects and engineers on secure cloud design patterns and best practices. \u2022 Advanced Cloud Security: Develop and enhance security controls in GCP, including identity and access management (IAM), encryption strategies, and cloud security posture management (CSPM). \u2022 DevSecOps Advocacy: Champion the integration of security automation tools (SAST, DAST, IaC scanning) into CI/CD pipelines, ensuring proactive identification and remediation of vulnerabilities. \u2022 Security Automation: Build and maintain automated security tooling for cloud infrastructure, using Infrastructure as Code (IaC) technologies like Terraform to streamline security operations. \u2022 Incident Response & Threat Hunting: Collaborate with security operations and incident response teams during investigations and implement remediations for security incidents in GCP. o Develop and implement security incident response plans for GCP environments. o Proactively hunt for threats and vulnerabilities in GCP using threat intelligence and security analytics platforms. o \u201cShift\u201d notification channels left to ensure developers receive notifications / alerts about the workloads they deploy and manage. \u2022 Compliance & Risk Management: Ensure adherence to security frameworks (SOC 2, ISO 27001, NIST, etc.) and assist with cloud governance, risk, and compliance initiatives. o Conduct security assessments and audits to ensure compliance with relevant regulations and industry standards (e.g., SOC 2, ISO 27001, PCI DSS, FERPA, GDPR, CCPA). o Develop and maintain a risk register for GCP environments, identifying and prioritizing security risks. \u2022 Monitoring & Threat Detection: Partner with Infosec on implementation and managing security monitoring, logging, and alerting mechanisms across GCP, leveraging native services and third-party tools for continuous security visibility. \u2022 Continuous Security Improvement: Lead eZorts to continuously evaluate and improve platform security practices in response to emerging threats, evolving technologies, and industry trends. o Stay abreast of emerging security threats, vulnerabilities, and best practices in the cloud security domain. o Research and evaluate new security technologies and tools to enhance the security posture of GCP environments. o Contribute to the development of security policies and standards for the organization. Required Skills & Qualifications: \u2022 Experience: 7+ years of experience in cloud security engineering, with at least 3 years focused on GCP. 3+ years experience with Terraform. \u2022 Certifications: GCP Professional Cloud Security Engineer certification is required. Additional certifications such as GCP Professional Cloud Architect, Certified Kubernetes Security Specialist (CNCF), or CISSP are highly preferred. \u2022 DevSecOps Expertise: Strong experience with integrating security within CI/CD pipelines using tools like Jenkins, GitLab, CircleCI, or similar. \u2022 Cloud Security Mastery: Deep expertise in GCP services such as IAM, KMS, VPC, Cloud Security Command Center, and security best practices for GCP-native services. \u2022 Automation & IaC: Proficiency with Infrastructure as Code tools (Terraform) and cloud security automation. Programming & Scripting: Advanced proficiency in languages like Python, Bash, or similar for automating security tasks and orchestrating security processes. \u2022 Security Tools & Frameworks: Hands-on experience with security tools like SAST, DAST, vulnerability scanning, and container security. Familiarity with frameworks such as OWASP, NIST, and CIS. \u2022 Soft Skills: Excellent communication and leadership skills, with the ability to work across technical and non-technical teams to implement security strategies. Preferred Qualifications: \u2022 Expertise with containerization and orchestration technologies (Docker, Kubernetes), including security measures for microservices and containerized applications. \u2022 Experience using a Internal Developer Platform (Humanitec) to orchestrate workloads. Deleted: , CloudFormation\u2022 Experience in Zero Trust security models and GCP implementation strategies. \u2022 Knowledge of security compliance frameworks (SOC 2, HIPAA, PCI-DSS) and GCP compliance services.",
+        "source": "Email",
+        "date_posted": "2024-10-14 15:51:57-05:00",
+        "unique_id": "1928d25bf81b77dc",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

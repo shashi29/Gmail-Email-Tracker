@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "Sr. Back-end Java Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaScript",
+                "JMS",
+                "JAXB",
+                "JDBC",
+                "EJB",
+                "Hibernate",
+                "Oracle",
+                "REST",
+                "SOAP",
+                "Spring Framework",
+                "Spring Boot"
+            ],
+            "primary": [
+                "Kubernetes",
+                "Azure",
+                "Cloud",
+                "Object/Relational Mapping",
+                "Query performance tuning"
+            ],
+            "secondary": [
+                "DevOps Toolchain methodologies",
+                "Continuous Integration",
+                "Continuous Deployment"
+            ],
+            "all": [
+                "Java",
+                "JavaScript",
+                "JMS",
+                "JAXB",
+                "JDBC",
+                "EJB",
+                "Hibernate",
+                "Oracle",
+                "REST",
+                "SOAP",
+                "Spring Framework",
+                "Spring Boot",
+                "Kubernetes",
+                "Azure",
+                "Cloud",
+                "Object/Relational Mapping",
+                "Query performance tuning",
+                "DevOps Toolchain methodologies",
+                "Continuous Integration",
+                "Continuous Deployment"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "sangya kumari nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title: Sr. Back-end Java DeveloperVisa: ALL VisaLocation : Dallas, TX ( Hybrid)Duration: 6 MonthInterview Mode: F2F Minimum Requirements for Java backendProficiency and demonstrated experience in the following technologies:J2EE technologies: Java, JavaScript, JMS, JAXB, JDBC, EJBDatabase and persistence frameworks: Hibernate, Oracle, Object/Relational Mapping, Query performance tuningCloud-based development: Kubernetes, Azure, CloudWeb Services: REST/SOAP (JSON/WSDL/XML)Frameworks: Spring Framework, Spring BootProficiency in object-oriented design techniques and principlesExperience in DevOps Toolchain methodologies, including Continuous Integration and Continuous Deployment",
+        "source": "Email",
+        "date_posted": "2024-10-11 08:30:02-05:00",
+        "unique_id": "1927bf91f4e59e49",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

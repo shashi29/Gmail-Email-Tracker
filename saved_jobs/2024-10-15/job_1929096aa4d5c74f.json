@@ -1,0 +1,113 @@
+[
+    {
+        "company": "Tekgence",
+        "job_title": "Data Specialist",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 6 years of experience in IT industry with over 4 years of experience as a data modeller preferably in finance domain",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Monitoring",
+                "ADLS G2",
+                "Blob",
+                "Cosmos DB",
+                "Data Explorer",
+                "Data Factory",
+                "Data Modelling Fundamentals",
+                "Data Warehousing",
+                "Data bricks",
+                "ETL Fundamentals",
+                "Event Hub",
+                "Logic App",
+                "Modern Data Platform Fundamentals",
+                "PLSQL",
+                "Python",
+                "SQL",
+                "SQL (Basic + Advanced)",
+                "SQL Server",
+                "Stream Analytics",
+                "Synapse"
+            ],
+            "primary": [
+                "Azure Data Architecture",
+                "Data Modelling",
+                "Data Analysis",
+                "Data Engineering",
+                "ETL/ELT methodologies"
+            ],
+            "secondary": [
+                "Data integrity",
+                "Data quality",
+                "Data security",
+                "Data governance",
+                "Azure SQL Database",
+                "parquet",
+                "JSON",
+                "Delta Formats"
+            ],
+            "all": [
+                "Azure Monitoring",
+                "ADLS G2",
+                "Blob",
+                "Cosmos DB",
+                "Data Explorer",
+                "Data Factory",
+                "Data Modelling Fundamentals",
+                "Data Warehousing",
+                "Data bricks",
+                "ETL Fundamentals",
+                "Event Hub",
+                "Logic App",
+                "Modern Data Platform Fundamentals",
+                "PLSQL",
+                "Python",
+                "SQL",
+                "SQL (Basic + Advanced)",
+                "SQL Server",
+                "Stream Analytics",
+                "Synapse",
+                "Azure Data Architecture",
+                "Data Modelling",
+                "Data Analysis",
+                "Data Engineering",
+                "ETL/ELT methodologies",
+                "Data integrity",
+                "Data quality",
+                "Data security",
+                "Data governance",
+                "Azure SQL Database",
+                "parquet",
+                "JSON",
+                "Delta Formats"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mahith Kumar",
+        "email": "mahith@tekgence.com",
+        "jd": "From: Gunda Mahith Kumar, Tekgence mahith@tekgence.com Reply to: mahith@tekgence.com Hello,This is Mahith Kumar from Tekgence; I am writing to let you know regarding a job opportunities with one of my client as a Data Specialist Location: Remote Job Title: Data SpecialistLocation: RemoteDuration: Long Term Job Description: Data SpecialistPrimary SkillsAzure Monitoring, ADLS G2, Blob, Cosmos DB, Data Explorer, Data Factory, Data Modelling Fundamentals, Data Warehousing, Data bricks, ETL Fundamentals, Event Hub, Logic App, Modern Data Platform Fundamentals, PLSQL, Purview, Python, SQL, SQL (Basic + Advanced), SQL Server, Stream Analytics, Synapse SpecializationAzure Data Architecture: Data Specialist Job requirementsMinimum 6 years of experience in IT industry with over 4 years of experience as a data modeller preferably in finance domainExpert knowledge of data modelling and conceptsExpert knowledge of data modelling tools like Erwin, ER/Studio, Lucid ChartDesign, develop and manage data models for large scale data warehousing projectsExcellent interpersonal skills to work across the organization departments and boundaries.Ability to collaborate and interact with customers including senior management, data analysts, business analysts and data engineersPreferred understanding of data engineering and ETL/ELT methodologies (candidate with prior ETL/ELT experience will be preferredUnderstanding of different data storage formatsMust have very strong data analysis capability especially in finance domain.Skills in advanced SQL and querying techniquesDesired Knowledge & SkillsDesirable - Strong grasp of data integrity, quality, data security and data governance.Experience with data formats like Azure SQL Database, parquet, JSON and Delta Formats.",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:53:50-05:00",
+        "unique_id": "1929096aa4d5c74f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

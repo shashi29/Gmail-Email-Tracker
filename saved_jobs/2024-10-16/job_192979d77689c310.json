@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Source Infotech Inc",
+        "job_title": "DATA ENGINEER",
+        "location": "Redmond, WA, USA",
+        "full_location": {
+            "city": "Redmond",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "KUSTO",
+                "Microsoft experience",
+                "Pyspark",
+                "Python",
+                "Azure Synapse"
+            ],
+            "primary": [
+                "Azure Data Lake",
+                "SQL",
+                "Data warehousing",
+                "Data management",
+                "Data modeling"
+            ],
+            "secondary": [
+                "Azure DevOps",
+                "Azure Web Apps",
+                "Azure Cosmos Db",
+                "Event Hub"
+            ],
+            "all": [
+                "KUSTO",
+                "Microsoft experience",
+                "Pyspark",
+                "Python",
+                "Azure Synapse",
+                "Azure Data Lake",
+                "SQL",
+                "Data warehousing",
+                "Data management",
+                "Data modeling",
+                "Azure DevOps",
+                "Azure Web Apps",
+                "Azure Cosmos Db",
+                "Event Hub"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bhavya Chaturvedi",
+        "email": "bhavya.c@sourceinfotech.com",
+        "jd": "From: Bhavya, Source infotec inc bhavya.c@sourceinfotech.com Reply to: bhavya.c@sourceinfotech.com DATA ENGINEER LONG TERM CONTRACT REDMOND, WASHINGTON NEED LOCAL TO REDMOND, WA OR PST ZONE ONLY ONSITE FROM DAY ONE VISA- NO CPT/OPT/H1B Mandatory skills \u2013 Working experience on KUSTO. Microsoft experience is a MUST within last 3-4 years Requirements: 10 years of experience Microsoft experience is a MUST with last 3-4 years Should have experience in using Pyspark Working experience on KUSTO for telemetry data Should be able to write python code in Azure Synapse Notebook. Good understanding working experience of Azure Synapse end-to-end. Should have experience in working with Spark structured streaming data possibly from Event hubs Should have experience in handing large volume of data possibly in 100s of GB Should be able to debug and fine tune the jobs note book for optimum memory consumption and processing. Should have knowledge of Data warehousing, data management for efficient data handling. Should have good knowledge of data modeling data engineering work Experience working with large data sets using SQL Azure Data Lake PySpark ADF Synapse, etc., to derive actionable insights is highly desirable. They should be productive soonest possible post joining. Skills: Microsoft ecosystem knowledge. Azure DevOps Azure Web Apps functions Azure Cosmos Db event hub Responsibilities: (1.) To be responsible for providing technical guidance or solutions; define, advocate, and implement best practices and coding standards for the team. (2.) To develop and guide the team members in enhancing their technical capabilities and increasing productivity (3.) To ensure process compliance in the assigned module, and participate in technical discussions or review as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations). (4.) To prepare and submit status reports for minimizing exposure and risks on the project or closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-16 15:05:25-05:00",
+        "unique_id": "192979d77689c310",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

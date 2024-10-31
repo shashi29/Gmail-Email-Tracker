@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Adventa tech inc",
+        "job_title": "Java Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Object-oriented programming",
+                "Collections",
+                "Multithreading",
+                "Kafka",
+                "MQs"
+            ],
+            "primary": [
+                "SQL",
+                "Oracle",
+                "MongoDB",
+                "Transaction management",
+                "Data scaling",
+                "Data partitioning",
+                "Heap/memory management",
+                "Performance tuning"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "Object-oriented programming",
+                "Collections",
+                "Multithreading",
+                "Kafka",
+                "MQs",
+                "SQL",
+                "Oracle",
+                "MongoDB",
+                "Transaction management",
+                "Data scaling",
+                "Data partitioning",
+                "Heap/memory management",
+                "Performance tuning"
+            ],
+            "with_experience": [
+                "Java (8+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "banani banojini das",
+        "email": "banani@adventatech.com",
+        "jd": "From: banani banojini das, Adventa tech inc banani@adventatech.com Reply to: banani@adventatech.com Title: Java DeveloperLocation: Charlotte, North Carolina(Need Local Only DL And Visa)Duration: 12 MonthsVisa: CITIZEN,Asylum,GC EAD,GREEN CARD,H4 EAD,J2 EAD,L2 EAD,TN PermitMoi: SkypeJob Description \u2013Must Have:LinkedIn id is must (Should not been created recently, at least 6 Years old in case of senior candidates)Job Summary: 8+ years of experience in Java development, particularly within the banking or financial services domain.Proven experience in developing low latency and high-volume applications.Technical Skills:Strong proficiency in Core Java and object-oriented programming.Hands-on experience with Collections, Multithreading, Kafka, MQs, and other messaging frameworks.Knowledge of database technologies including SQL, Oracle, and MongoDB.Familiarity with transaction management, data scaling, and data partitioning techniques.Understanding of heap/memory management principles and performance tuning.",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:24:34-05:00",
+        "unique_id": "192d43ab3e7f7b19",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

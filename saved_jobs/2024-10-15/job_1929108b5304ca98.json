@@ -1,0 +1,104 @@
+[
+    {
+        "company": "VySystems",
+        "job_title": "Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "J2EE",
+                "Rest APIs",
+                "Microservices",
+                "Angular",
+                "React"
+            ],
+            "primary": [
+                "CI/CD",
+                "Jenkins",
+                "Junit",
+                "Mockito",
+                "SQL",
+                "No-SQL",
+                "Agile",
+                "Jira",
+                "Git",
+                "Kafka",
+                "Kubernetes",
+                "Cloud AWS",
+                "EKS",
+                "Amazon Aurora PostgreSQL",
+                "Dynamo DB",
+                "S3",
+                "IAM",
+                "Route 53",
+                "ELB",
+                "SNS",
+                "SQS",
+                "Managed Streaming for Apache Kafka (MSK)",
+                "Cloud Watch"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "J2EE",
+                "Rest APIs",
+                "Microservices",
+                "Angular",
+                "React",
+                "CI/CD",
+                "Jenkins",
+                "Junit",
+                "Mockito",
+                "SQL",
+                "No-SQL",
+                "Agile",
+                "Jira",
+                "Git",
+                "Kafka",
+                "Kubernetes",
+                "Cloud AWS",
+                "EKS",
+                "Amazon Aurora PostgreSQL",
+                "Dynamo DB",
+                "S3",
+                "IAM",
+                "Route 53",
+                "ELB",
+                "SNS",
+                "SQS",
+                "Managed Streaming for Apache Kafka (MSK)",
+                "Cloud Watch"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Chandran",
+        "email": "chandran.l@vysystems.com",
+        "jd": "From: Chandran, VySystems chandran.l@vysystems.com Reply to: chandran.l@vysystems.com JD : Java FSD with AWSAn FSD/FSPE has an \u201cend to end product\u201d mindset - design, implementation, testing and deployment, and adds an additional skill (s) on top of traditional front/back-end developer roleDesign and developer application using Core JavaDesign and developer application using J2EE. Experience in J2EE design patternsCreate/consume Rest APIs & MicroservicesExperience with Angular/ReactExperience with CI/CD, JenkinsExperience with Junit/MockitoExperience with database (SQL/No-SQL_Experience with Agile, Jira, GitExperience with Kafka/KubernetesExperience with Cloud AWS \u2013 EKS, Amazon Aurora PostgreSQL, Dynamo DB, S3, IAM, Route 53, ELB, SNS, SQS, Managed Streaming for Apache Kafka (MSK), Cloud Watch",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:59:36-05:00",
+        "unique_id": "1929108b5304ca98",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

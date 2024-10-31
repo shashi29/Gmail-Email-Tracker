@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "ServiceNow Project Manager",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ServiceNow",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular JS"
+            ],
+            "primary": [
+                "ServiceNow HRSD",
+                "ServiceNow ITAM",
+                "ServiceNow ITSM"
+            ],
+            "secondary": [
+                "ServiceNow MSP",
+                "license issuer",
+                "support"
+            ],
+            "all": [
+                "ServiceNow",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular JS",
+                "ServiceNow HRSD",
+                "ServiceNow ITAM",
+                "ServiceNow ITSM",
+                "ServiceNow MSP",
+                "license issuer",
+                "support"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dilip Kumar",
+        "email": "dilip.k@centraprise.com",
+        "jd": "From: Dilip Kumar, Centraprise dilip.k@centraprise.com Reply to: dilip.k@centraprise.com Role: Service Now Project ManagerLocation: ServiceNow PM - Phoenix, AZType: Day 1 Onsite Job Description:ServiceNow PM - user level licensing and optimizationsHTML, CSS, JavaScript, Angular JS, ServiceNow HRSD, ServiceNow ITAM, ServiceNow ITSMRequired ServiceNow MSP / license issuer and support.We are looking for ServiceNow SME/PM to deploy for managing the transition and stakeholder relationship.",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:12:36-05:00",
+        "unique_id": "192c45cbfe4bbff8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

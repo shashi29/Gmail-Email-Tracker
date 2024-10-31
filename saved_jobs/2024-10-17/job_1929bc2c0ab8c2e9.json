@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Softcom Systems",
+        "job_title": "Java Developer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5-10 years",
+            "degree_required": "Bachelor's degree in technology",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "TypeScript"
+            ],
+            "primary": [
+                "Micro Frontend (MFE) Architecture",
+                "JIRA",
+                "Database Management",
+                "DevOps Practices",
+                "Team Collaboration"
+            ],
+            "secondary": [
+                "Agile/iterative development methodologies",
+                "Health Insurance Domain Knowledge",
+                "Problem-solving"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "TypeScript",
+                "Micro Frontend (MFE) Architecture",
+                "JIRA",
+                "Database Management",
+                "DevOps Practices",
+                "Team Collaboration",
+                "Agile/iterative development methodologies",
+                "Health Insurance Domain Knowledge",
+                "Problem-solving"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vinod",
+        "email": "vinod@softcomsystems.com",
+        "jd": "From: Vinod, Softcom Systems vinod@softcomsystems.com Reply to: vinod@softcomsystems.com Role: Java DeveloperLocation: Alpharetta, GA \u2013 Onsite/Locals PreferredDuration: Lon term contract12+ years RequiredDescription:Requires programming skills, involved in the development of software applications. Knowledge of programming languages to develop necessary specifications for the software by following the technical designs. In specific cases, knowledgeable on Agile/iterative development methodologies will be required (and called out). Skill/Experience/Education: Mandatory:5-10 years relevant client experience in similar technology (does not include training period) with at least 2 years on-site in similar technology and domain - Min Education - Bachelors degree in technology Desired Skills:Java Development: Proficiency in Java and Spring Boot for building scalable applications. Micro Frontend (MFE) Architecture: Experience in implementing MFE solutions for modularity. JIRA: Proficiency in using JIRA for project management and agile methodologies. API Development: Experience in designing and consuming RESTful APIs. TypeScript: Proficiency in TypeScript for frontend and backend development. Health Insurance Domain Knowledge: Understanding of health insurance concepts and regulations. Database Management: Knowledge of relational and NoSQL databases for data storage. DevOps Practices: Familiarity with CI/CD, Docker, and Kubernetes. Team Collaboration: Strong communication skills for effective collaboration within a team. Problem-solving: Ability to identify and resolve complex technical issues efficiently.",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:59:14-05:00",
+        "unique_id": "1929bc2c0ab8c2e9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

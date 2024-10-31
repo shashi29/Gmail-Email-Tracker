@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Infotech Spectrum",
+        "job_title": "Lead Software Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "C#",
+                "REST API",
+                "Healthcare integration",
+                "EMR"
+            ],
+            "primary": [
+                "Microservices",
+                "Kafka",
+                "Full Stack",
+                "React",
+                "Next.JS"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "C#",
+                "REST API",
+                "Healthcare integration",
+                "EMR",
+                "Microservices",
+                "Kafka",
+                "Full Stack",
+                "React",
+                "Next.JS"
+            ],
+            "with_experience": [
+                "Java (7-10 years)",
+                "C#",
+                "REST API",
+                "Healthcare integration",
+                "EMR"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jaya",
+        "email": "jaya@infotechspectrum.com",
+        "jd": "Hello,I am looking for the candidates regarding the following position::Lead Software Engineer ONLY CANDIDATES WITH GENUINE HEALTHCARE (EMR) EXPEREINCE NEEDEDONLY USC, H4 (Genuine visa copy required along with resume.)Remote Senior Software Engineer \u2013 Same skill set as architect with less experience \u2013 7-10 years experience. Healthcare integration/migration EMR experience needed. He or she should be willing to be exposed to modern architecture and patterns. Needs to be exposed to REST API - .NET / JAVA (C#, Boot/Microservices). The tech stack has not been established. Needs to be exposed to messaging platforms like Kafka or any other streaming services. Full stack Is helpful - Leveraged in multiple UI discussions in the future \u2013 definitely will help being Full Stack with React/ Next.JS on the front end and headless architecture in a SaaS environment.",
+        "source": "Email",
+        "date_posted": "2024-10-10 10:11:41-05:00",
+        "unique_id": "19277274df02ef33",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

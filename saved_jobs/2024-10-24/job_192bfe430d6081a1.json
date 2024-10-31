@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Yochana IT Solutions Inc.",
+        "job_title": "Business System Analyst",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-Term Project",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "APIs",
+                "OIC",
+                "Swagger",
+                "Clearwater"
+            ],
+            "primary": [
+                "Confluence",
+                "SharePoint",
+                "Office"
+            ],
+            "secondary": [
+                "Integration management",
+                "Documentation",
+                "Change management",
+                "Stakeholder communication",
+                "ServiceNow"
+            ],
+            "all": [
+                "APIs",
+                "OIC",
+                "Swagger",
+                "Clearwater",
+                "Confluence",
+                "SharePoint",
+                "Office",
+                "Integration management",
+                "Documentation",
+                "Change management",
+                "Stakeholder communication",
+                "ServiceNow"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Suvarna",
+        "email": "suvarna@yochana.com",
+        "jd": "Hi ,I am Suvarna from Yochana IT Solutions Inc. I hope you are doing well.Please look at the job description below and let me know if you're interested.Job Role: Business System AnalystJob Location: Atlanta, GA or Frisco, TX or Bellevue, WA (Locals )Project Duration: Long-Term Project Employment Type: C2CJob Description:3 - 5 years of experience max for Technical Analyst/DeveloperTechnical Analyst/Developer: Working on a set of integrations to ensure everything is completely documented and developed as par standardsPartner with SI and internal stakeholders to ensure operational processes and SOX controls are designed and built with repeatability and automation in mind.Ensure each specific integrations in their individual area are documented as per standards/specifications., code/config is checked into repo and code pipelines are leveraged for deploymentsEnforce change management process to manage changes to the inventory of integrations. Communicate with stakeholders and define appropriate testing when changes occur.Make changes to the integration inventory to ensure they are representative of the integration design and all key details are captured.Work with each application owner to ensure all application related roadmap and information is captured accurately.Work with each work stream SME to onboard applications to ServiceNow if they are missing for boundary applications.Skills RequiredExposure and knowledge of working with APIs (OIC) and the various documentations tools such as Swagger, ClearwaterExperience working on a bigger team managing/analyzing a set of integrations from start to finishExperience with Confluence/SharePoint/Office.Ability to figure out what needs to be done given limited guidance/directions",
+        "source": "Email",
+        "date_posted": "2024-10-24 13:21:36-05:00",
+        "unique_id": "192bfe430d6081a1",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "Business Analyst"
+    }
+]

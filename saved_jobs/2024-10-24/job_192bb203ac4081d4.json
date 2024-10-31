@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Mobcoder IT Solutions LLC",
+        "job_title": "Database Administrator with Must Vertica exp",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Vertica",
+                "Performance Tuning",
+                "Database Management"
+            ],
+            "primary": [
+                "Vertica Architecture",
+                "Database Backup and Recovery",
+                "Automation (bash, python)"
+            ],
+            "secondary": [
+                "Troubleshooting",
+                "Resource Management",
+                "Database Monitoring"
+            ],
+            "all": [
+                "Vertica",
+                "Performance Tuning",
+                "Database Management",
+                "Vertica Architecture",
+                "Database Backup and Recovery",
+                "Automation (bash, python)",
+                "Troubleshooting",
+                "Resource Management",
+                "Database Monitoring"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sushil Kaushik",
+        "email": "sushil.k@mobcoderstaffing.com",
+        "jd": "Hi Please share the resume on sushil.k@mobcoderstaffing.comPosition : Database Administrator with Must Vertica exp (Min 10+ year exp required) Location : Austin, TXJob type : contract Minimum 10+ years experience in Vertica and managing several multi-terabyte Vertica databases both on-prem and cloud.Expert Knowledge of Vertica Architecture - Vertica Enterprise and Vertica Eon.Expertise in installing/upgrade and maintaining 50+ Vertica environments.5+ year experience in Performance Tuning and Optimization in Vertica which includes projections, partitionsMaintain Vertica databases and assist with regular OS patching.Troubleshoot and resolve Vertica issues for aggressive SLA needs in production environment.Maintain database services, database monitoring and performance tuning and resource managementEnhance and add more tools for automation of manual tasks for DBA activities - bash and pythonExperience in working mission critical production environment .Experience in working with database backup and recovery, and resolving production database incidents.",
+        "source": "Email",
+        "date_posted": "2024-10-23 15:07:40-05:00",
+        "unique_id": "192bb203ac4081d4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

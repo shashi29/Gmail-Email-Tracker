@@ -1,0 +1,76 @@
+[
+    {
+        "company": "smartitframe",
+        "job_title": "Sr. Data Engineer/Data Architect",
+        "location": "TX, USA",
+        "full_location": {
+            "city": "TX",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Services",
+                "Azure DataBricks",
+                "Python",
+                "Azure Data Factory",
+                "SQL"
+            ],
+            "primary": [
+                "GitLab",
+                "Data Modeling",
+                "Data Analysis",
+                "Test Automation",
+                "Snowflake"
+            ],
+            "secondary": [
+                "CI/CD Pipeline",
+                "DevOps practices",
+                "Agile fundamentals",
+                "Jira"
+            ],
+            "all": [
+                "Azure Services",
+                "Azure DataBricks",
+                "Python",
+                "Azure Data Factory",
+                "GitLab",
+                "Data Modeling",
+                "Data Analysis",
+                "Test Automation",
+                "SQL",
+                "Snowflake",
+                "CI/CD Pipeline",
+                "DevOps practices",
+                "Agile fundamentals",
+                "Jira"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "dhamodharan",
+        "email": "dhamodharan@smartitframe.com",
+        "jd": "From: dhamodharan, smartitframe dhamodharan@smartitframe.com Reply to: dhamodharan@smartitframe.com Hi All Job Title: Sr. Data Engineer/Data Architect Location: - TX, KS, Atlanta (Onsite 3 days)Contract Skill SetRatingAzure Services Azure DataBricks Python Azure Data Factory GitLab Data Modeling Data Analysis Test Automation SQL Snowflake Job SummarySr. Data Engineer/Data Architect who is self driven, can lead a team of Data engineers working on an Onshore-Offshore model collaborating with customer SMEs. Job responsibilities -Design, build and deploy efficient & reliable data pipelines to move and transform dataOptimize existing pipelines and maintenance of all source-related data pipelinesSupport on-call shift as needed to support the teamBuild and Deploy extensive data quality checks to ensure high quality of dataBuild high-performance scalable data warehouses and data productsPartner with leadership, engineers, product managers and data scientists to understand data needs.Improve existing data movement frameworks and add more featuresExtreme focus on automationExpert level SQL skillsData ModelingCI/CD Pipeline and DevOps practicesAgile fundamentalsPrior use of Jira and GitLab",
+        "source": "Email",
+        "date_posted": "2024-10-14 09:37:59-05:00",
+        "unique_id": "1928b978ba729b0b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

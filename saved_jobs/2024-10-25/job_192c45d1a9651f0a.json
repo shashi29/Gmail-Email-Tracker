@@ -1,0 +1,61 @@
+[
+    {
+        "company": "CBS LLC",
+        "job_title": "Full Stack Java Lead",
+        "location": "Mt. Laurel, NJ, USA",
+        "full_location": {
+            "city": "Mt. Laurel",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12-18+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Fullstack UI Angular 14+",
+                "Java",
+                "Spring Framework"
+            ],
+            "primary": [],
+            "secondary": [
+                "Cloud experience",
+                "Microsoft Azure"
+            ],
+            "all": [
+                "Fullstack UI Angular 14+",
+                "Java",
+                "Spring Framework",
+                "Cloud experience",
+                "Microsoft Azure"
+            ],
+            "with_experience": [
+                "Fullstack UI Angular 14+",
+                "Java",
+                "Spring Framework"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Upama",
+        "email": "upama@cbsllc.us",
+        "jd": "From: Upama, CBS LLC upama@cbsllc.us Reply to: upama@cbsllc.us Full Stack Java Lead : Onsite at Mt. Laurel, NJ 2 Days in OfficeDuration: 12-18+ MonthsResponsibilities:7+ years of developing and maintaining Fullstack UI Angular 14+ and java based applications, and sound understanding of spring framework.Nice to Have: Cloud experience preferably in Microsoft azure.",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:32:49-05:00",
+        "unique_id": "192c45d1a9651f0a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

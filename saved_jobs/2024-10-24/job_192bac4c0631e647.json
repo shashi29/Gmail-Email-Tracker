@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Rurisoft LLC",
+        "job_title": "Machine Learning Engineer with GCP",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Machine Learning",
+                "GCP",
+                "Model Deployment",
+                "Spark",
+                "SQL"
+            ],
+            "primary": [
+                "Data Pipelines",
+                "ML Pipelines",
+                "Batch Processing",
+                "Real-time Processing",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Collaboration",
+                "Big Data Processing",
+                "Time-series Models",
+                "Regression Models"
+            ],
+            "all": [
+                "Machine Learning",
+                "GCP",
+                "Model Deployment",
+                "Spark",
+                "SQL",
+                "Data Pipelines",
+                "ML Pipelines",
+                "Batch Processing",
+                "Real-time Processing",
+                "Kubernetes",
+                "Collaboration",
+                "Big Data Processing",
+                "Time-series Models",
+                "Regression Models"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dinesh",
+        "email": "dinesh@rurisoft.com",
+        "jd": "ML engineer with GCP\nLocation: Irving,TX or Basking ridge,NJ office (Onsite) ML Ops engineer, who is good in Model deployment both in Real time and batch mode. Below find the JD.Need a strong profile.Develop and implement data pipelines and ML Pipelines to facilitate model inference (both Real-time and Batch).Analyze large, complex data sets to identify the most performant way to process large volume data using Spark, Hive, and SQLCollaborate with cross-functional teams to gather reqs and design scalable solutionsWork on deployment of machine learning models - On Prem, Cloud and KubernetesMonitor the performance of data pipelines and make improvements as necessaryStay up to date with the latest advances in big data processingProductionalize time-series and regression real-time models",
+        "source": "Email",
+        "date_posted": "2024-10-23 13:21:07-05:00",
+        "unique_id": "192bac4c0631e647",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

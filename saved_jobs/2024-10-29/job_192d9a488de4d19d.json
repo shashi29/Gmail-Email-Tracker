@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Convex Tech Inc.",
+        "job_title": "Python developer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Bachelor\u2019s degree in Robotics, Computer Science or a closely related field",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Robotic manipulation",
+                "Software development"
+            ],
+            "primary": [
+                "Motion planning",
+                "Kinematics",
+                "Control strategies",
+                "Motion execution"
+            ],
+            "secondary": [
+                "Simulation software",
+                "Multi-arm manipulation capabilities"
+            ],
+            "all": [
+                "Python",
+                "Robotic manipulation",
+                "Software development",
+                "Motion planning",
+                "Kinematics",
+                "Control strategies",
+                "Motion execution",
+                "Simulation software",
+                "Multi-arm manipulation capabilities"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Hemant Rawat",
+        "email": "hemant@convextech.com",
+        "jd": "From: Hemant Rawat, convextech hemant@convextech.com Reply to: hemant@convextech.com Title: Python developerLocation:Hybrid( Boston, MA)- need local candidates onlyDuration: 6 months contractVisa Restrictions: No H1b/CPTMode of Interview:Phone/Skype Job Description:Required Experience and Skills:Bachelor\u2019s degree in Robotics, Computer Science robotic manipulation Development expertise Python.Master\u2019s degree in Robotics, Computer Science or a closely related field. 6+ years of experience in software development applied to robotic manipulation Design, develop, and support advanced robotic manipulation software deployed in production environments.Create high-performance software solutions for robotic manipulation, focusing on motion planning, kinematics, control strategies and motion execution, to enhance the robotic solutions. Utilize and extend simulation software environments to test and refine manipulation development, ensuring expected and robust performance. Develop software to effectively enable multi-arm manipulation capabilities into our solutions. Work closely with hardware engineers, product managers, and other software teams to integrate capabilities into our broader robotic systems. Communicate technical priorities and status.",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:23:14-05:00",
+        "unique_id": "192d9a488de4d19d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

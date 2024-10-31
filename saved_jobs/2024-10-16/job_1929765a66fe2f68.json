@@ -1,0 +1,79 @@
+[
+    {
+        "company": "NAM INFO INC",
+        "job_title": "Full Stack Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS"
+            ],
+            "primary": [
+                "Micro-service architecture",
+                "Containerized architecture",
+                "API Gateway",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx"
+            ],
+            "secondary": [
+                "Junit version upgrade",
+                "Refactoring",
+                "Multi-layer architecture",
+                "Asset Management"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS",
+                "Micro-service architecture",
+                "Containerized architecture",
+                "API Gateway",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx",
+                "Junit version upgrade",
+                "Refactoring",
+                "Multi-layer architecture",
+                "Asset Management"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pooja",
+        "email": "pooja@nam-it.com",
+        "jd": "Need locals to NJ/NY/PA/CTFull Stack Java DeveloperLocation: NYC, NY (Hybrid - 3 days from office)Duration: Long Term Contract opportunityNo: of roles: 3Need local candidates: NY/NJ/PA/CTDomain Exp must: Asset Management exp Job Description / Requirements\u2022 Strong experience in Java, Spring boot, Angular, NodeJS, etc.\u2022 Experience working as a full stack Developer\u2022 Experience in Java, Spring Boot, Junit version upgrade and refactoring \u2022 Strong understanding on micro-service based architecture \u2022 Good experience with containerized based architecture like Openshift \u2022 Good understanding on multi-layer architecture \u2022 API Gateway \u2022 Angular 12+ , Angular Material or equivalent, RxJS or equivalent, NgRx or any redux/flux style pattern\u2022 Asset Management Exp must: - Stocks/ Equities/ Equity/ Fixed Income/ Bonds/ Cash/ Investment",
+        "source": "Email",
+        "date_posted": "2024-10-16 16:39:02-05:00",
+        "unique_id": "1929765a66fe2f68",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

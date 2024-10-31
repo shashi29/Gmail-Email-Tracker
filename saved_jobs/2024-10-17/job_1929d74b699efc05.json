@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "SQL DBA with AWS and Terraform",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "11+ years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS",
+                "Terraform",
+                "Python"
+            ],
+            "primary": [
+                "Database Engineer",
+                "SQL Server",
+                "Always On clusters",
+                "PostgreSQL",
+                "IAM",
+                "EC2",
+                "RDS",
+                "S3",
+                "Splunk",
+                "Datadog"
+            ],
+            "secondary": [
+                "Oracle",
+                "Agile",
+                "Problem-solving",
+                "Communication"
+            ],
+            "all": [
+                "SQL",
+                "AWS",
+                "Terraform",
+                "Python",
+                "Database Engineer",
+                "SQL Server",
+                "Always On clusters",
+                "PostgreSQL",
+                "IAM",
+                "EC2",
+                "RDS",
+                "S3",
+                "Splunk",
+                "Datadog",
+                "Oracle",
+                "Agile",
+                "Problem-solving",
+                "Communication"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rohit Singh",
+        "email": "srohit@vyzeinc.com",
+        "jd": "From: Rohit Singh, Vyze Inc srohit@vyzeinc.com Reply to: srohit@vyzeinc.com Hi,Hope you are doing well today! My name is Rohit Singh and I am a Technical Recruiter working with Vyze Inc. I have an exciting opportunity with one of our client. Below are the job details for your review. If interested send me your updated resume with contact details, expected pay rate along with below information.Job Description -JOB TITLE: SQL DBA with AWS and TerraformClient: Finance DomainRemote!Duration: 6+ monthsNeed a SQL DBA who has solid experience with Terraform, AWS, and Python!Need LinkedIn (Please try to submit the old one)Qualifications:Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.11+ years of Proven experience as a Database Engineer or similar role with a strong focus on cloud environments.Expertise in SQL Server, Always On clusters, and secondary databases (Oracle, PostgreSQL) with automation skills (Python, Terraform).Extensive knowledge of database technologies, especially Postgres, and familiarity with AWS cloud services.Proficient in using IAM, EC2, RDS, S3, and observability tools like Splunk and Datadog.Strong programming skills in Python and experience with Terraform.Experience working in an Agile environment.Excellent problem-solving abilities and strong communication skills.Optional: Experience with Oracle and SQL Server is a plus Best RegardsRohit SinghUS Technical Recruiter |Vyze Inc.E-Mail: Srohit@vyzeinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-17 20:53:16-05:00",
+        "unique_id": "1929d74b699efc05",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

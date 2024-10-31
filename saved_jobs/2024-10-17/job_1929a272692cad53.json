@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Data Scientist",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "HDFS",
+                "Hadoop",
+                "Spark",
+                "Hive",
+                "Airflow",
+                "Trino",
+                "Pyspark",
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "AWS Lakeformation",
+                "AWS Glue Data Catalog",
+                "AWS EMR",
+                "S3",
+                "Athena",
+                "Lambda",
+                "Terraform",
+                "Jenkins",
+                "Angular"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "HDFS",
+                "Hadoop",
+                "Spark",
+                "Hive",
+                "Airflow",
+                "Trino",
+                "Pyspark",
+                "SQL",
+                "Python",
+                "AWS Lakeformation",
+                "AWS Glue Data Catalog",
+                "AWS EMR",
+                "S3",
+                "Athena",
+                "Lambda",
+                "Terraform",
+                "Jenkins",
+                "Angular"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Chandra N",
+        "email": "chandra.n@siriinfo.com",
+        "jd": "From: Chandra N, Siri Info chandra.n@siriinfo.com Reply to: chandra.n@siriinfo.com Role name:Data ScientistRole Description:? 8 to 10 years of experience in Data Engineering space with AWS as primary cloud experience.? Experience in conducting design reviews with Architects and Development Lead? Experience in AWS technologies and services like : AWS Lakeformation, AWS Glue Data Catalog, AWS EMR,S3, Athena, Lambda.? Data Engg Technologies like : HDFS, Hadoop, Spark, Hive, Airflow, Trino, Pyspark? Experience in Designing Ci \\CD pipelines using Terraform and Jenkins? Experience in front end technologies like Angular etc? Experience in Programming language like SQL and Python.Competencies:Digital : Amazon Web Service(AWS) Cloud Computing, Data Concepts & Data ModellingExperience (Years):8-10Essential Skills:? 8 to 10 years of experience in Data Engineering space with AWS as primary cloud experience.? Experience in conducting design reviews with Architects and Development Lead? Experience in AWS technologies and services like : AWS Lakeformation, AWS Glue Data Catalog, AWS EMR,S3, Athena, Lambda.? Data Engg Technologies like : HDFS, Hadoop, Spark, Hive, Airflow, Trino, Pyspark? Experience in Designing Ci \\CD pipelines using Terraform and Jenkins? Experience in front end technologies like Angular etc? Experience in Programming language like SQL and Python.Desirable Skills:? 8 to 10 years of experience in Data Engineering space with AWS as primary cloud experience.? Experience in conducting design reviews with Architects and Development Lead? Experience in AWS technologies and services like : AWS Lakeformation, AWS Glue Data Catalog, AWS EMR,S3, Athena, Lambda.? Data Engg Technologies like : HDFS, Hadoop, Spark, Hive, Airflow, Trino, Pyspark? Experience in Designing Ci \\CD pipelines using Terraform and Jenkins? Experience in front end technologies like Angular etc? Experience in Programming language like SQL and Python.Country:United StatesBranch | City | Location:TCS - NEW YORK 1, NYNEW YORKNew York, NY",
+        "source": "Email",
+        "date_posted": "2024-10-17 05:29:39-05:00",
+        "unique_id": "1929a272692cad53",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

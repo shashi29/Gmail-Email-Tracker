@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Lead Data Engineer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "2-4 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Scala",
+                "Spark",
+                "AWS",
+                "CICD"
+            ],
+            "primary": [
+                "SQL",
+                "Data Warehousing",
+                "Relational Databases",
+                "Snowflake",
+                "Oracle",
+                "PostgresSQL"
+            ],
+            "secondary": [
+                "Customer Services",
+                "Amazon EC2",
+                "Amazon FallGate"
+            ],
+            "all": [
+                "Python",
+                "Scala",
+                "Spark",
+                "AWS",
+                "CICD",
+                "SQL",
+                "Data Warehousing",
+                "Relational Databases",
+                "Snowflake",
+                "Oracle",
+                "PostgresSQL",
+                "Customer Services",
+                "Amazon EC2",
+                "Amazon FallGate"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Chandan Rai",
+        "email": "chand@vaaridatech.com",
+        "jd": "From: Chandan Rai, Vaaridatech chand@vaaridatech.com Reply to: chand@vaaridatech.com Role:-Lead Data EngineerLocation:-Onsite VA Capital one formers1 step interview Skills' Details2 - 4 years PYTHON2-4 years in Scala2-4 years in Spark2-4 years of AWS - Ec2, EMR, ECS, S3, SNS, Lambda, RDS, VPCKnowledgeable w/ SDLC best practices - CICD, unit testing, functional testing**Need experience working w/ legacy to serverlessSecondary Skills - Nice to HavesSqlDatasnowflakeJob DescriptionThe Enterprise Detection group at Capital One is looking for strong Data Engineers with Python, Scala and Spark, that also have robust experience with AWS and CICD, as well as unit and functional testing. Must be able to quickly adapt, contribute to other initiatives.Additional Skills & Qualifications2-4 years data warehousing and relational database experience (Snowflake, Oracle, or PostgresSQL)2-4 years of exp. w/ Customer Services (Amazon EC2, Amazon FallGate)Employee Value Proposition (EVP)Work EnvironmentAll consultants/teams will sit out of the McLean or NYC offices at Capital One.Business Drivers/Customer ImpactENTERPRISE DETECTIONWill be working on the MetaBot platform, a key piece in C1's journey to get the most value out of data. It will make data easy to govern, easy to find and easy to use. MetaBot communicates with Catalog, where all datasets need to be registered. MetaBot will solve the problem of \"How do we get all different data sets in the company into the catalog, and get them registered?\" MetaBot's main goal is to go out and find all unregistered data sets and bring them to the data owners for them to take action, meaning: do I want to register fully in catalog, or just clean up/create exclusion or deletion rules?There are still millions of unregistered data sets, and they're not sure who to present to. Right now, users are presented with UI with millions of results. It's so manual, error-prone, and tedious. Can't keep up with creation of new data sets. Goal for metabot is to autoregister - take out all manual intervention and make it so that whatever Metabot detects goes into Autoregistration services, fills in data, and registers it in the catalog.Why is the position open(provide details)External Communities Job DescriptionOne of our financial services customers is looking for strong Java backend engineers with experience in following areas:-2 - 4 years Python Development-2 - 4 years in Scala and Spark-2 - 4 years of AWS - Ec2, EMR, ECS, S3, SNS, Lambda, RDS, VPC-Knowledgeable w/ SDLC best practices - CICD, unit testing, functional testing",
+        "source": "Email",
+        "date_posted": "2024-10-11 10:38:31-05:00",
+        "unique_id": "1927c85defd97f49",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

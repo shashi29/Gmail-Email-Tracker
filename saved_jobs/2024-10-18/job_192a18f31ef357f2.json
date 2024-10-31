@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Baxter Healthcare",
+        "job_title": "Full Stack Python Developer",
+        "location": "Deerfield, IL, USA",
+        "full_location": {
+            "city": "Deerfield",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level, 13-14 years",
+            "degree_required": "Bachelor's degree in Computer Science, Data Analytics, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Unix",
+                "Docker",
+                "RESTful services"
+            ],
+            "primary": [
+                "Flask",
+                "gUnicorn",
+                "Redis",
+                "UI/UX",
+                "Javascript",
+                "Node.js",
+                "AWS",
+                "Azure"
+            ],
+            "secondary": [
+                "Machine learning",
+                "Predictive modeling",
+                "Data visualization tools",
+                "Tableau",
+                "Power BI",
+                "Certification in data analytics"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Unix",
+                "Docker",
+                "RESTful services",
+                "Flask",
+                "gUnicorn",
+                "Redis",
+                "UI/UX",
+                "Javascript",
+                "Node.js",
+                "AWS",
+                "Azure",
+                "Machine learning",
+                "Predictive modeling",
+                "Data visualization tools",
+                "Tableau",
+                "Power BI",
+                "Certification in data analytics"
+            ],
+            "with_experience": [
+                "Python (13-14 years)",
+                "SQL (13-14 years)",
+                "Unix (13-14 years)",
+                "Docker (13-14 years)",
+                "RESTful services (13-14 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "ANKITA GAUTAM",
+        "email": "ankita.gautam@gvrinfotek.com",
+        "jd": "Hi, Hope you are doing well. Full Stack Python DeveloperLocation: Onsite - Deerfield IL Need only local candidates with DL copy Please share really senior profile Such as 13-14 years of candidate for this role.Candidate Must have previous healthcare or Medical Equipment Manufacturing domain exp Job DescriptionWe are seeking a highly skilled and motivated Full Stack Developer to join our team at Baxter Healthcare. As a Full Stack Developer, you will be responsible for creating the pipelines and endpoints that expose data to the enterprise. This position requires a strong background in Python, SQL, Unix, Docker, and RESTful services.Key Responsibilities:* Design and implement data pipelines using Python, SQL, and Unix to ensure data quality and integrity.* Work with Docker to containerize data pipelines and ensure scalability and portability.* Develop and maintain RESTful services to provide secure and efficient data access to stakeholders.* Collaborate with cross-functional teams to gather requirements and integrate data analytics into business operations.* Ensure data privacy and security by implementing appropriate controls and protocols.Requirements:* Bachelor's degree in Computer Science, Data Analytics, or a related field.* At least 3 years of experience in endpoint development or data engineering.* Strong background in Python, Flask, gUnicorn, SQL, and Unix.* Experience with Redis, Docker, and RESTful services is highly desirable.* Experience with UI/UX, Javascript, Node.js or equivalent.* At least 3 years of experience in AWS, Azure, or equivalent cloud computing platform.* Strong understanding of data privacy and security principles.* Excellent communication and collaboration skills.* Ability to work in a fast-paced environment and adapt to changing priorities.* Strong problem-solving skills and ability to think critically.* Master's degree in Computer Science, Data Analytics, or a related field plus 5 years of experience.* Bachelors' degree in Computer Science, Data Analytics, or a related field plus 8 years of experience.* Experience with machine learning and predictive modeling.* Certified in AWS.* Experience with data visualization tools such as Tableau or Power BI.* Certification in data analytics or a related field is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:33:01-05:00",
+        "unique_id": "192a18f31ef357f2",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

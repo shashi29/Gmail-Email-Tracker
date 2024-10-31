@@ -1,0 +1,85 @@
+[
+    {
+        "company": "ITECS",
+        "job_title": "GCP GKE - Architect I",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP Logging and Monitoring",
+                "Shell scripting",
+                "Python scripting",
+                "Terraform",
+                "Git",
+                "GitHub",
+                "JavaScript",
+                "Regular Expressions (RegEx)"
+            ],
+            "primary": [
+                "Troubleshooting",
+                "Anomaly detection",
+                "Configuration management",
+                "Infrastructure-as-code",
+                "Large-scale distributed systems",
+                "Cloud concepts"
+            ],
+            "secondary": [
+                "Technical documentation",
+                "Runbooks",
+                "Automating GCP",
+                "GCP SDKs",
+                "APIs"
+            ],
+            "all": [
+                "GCP Logging and Monitoring",
+                "Shell scripting",
+                "Python scripting",
+                "Terraform",
+                "Git",
+                "GitHub",
+                "JavaScript",
+                "Regular Expressions (RegEx)",
+                "Troubleshooting",
+                "Anomaly detection",
+                "Configuration management",
+                "Infrastructure-as-code",
+                "Large-scale distributed systems",
+                "Cloud concepts",
+                "Technical documentation",
+                "Runbooks",
+                "Automating GCP",
+                "GCP SDKs",
+                "APIs"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "From: SAPNA, ITECS sapna@itecsus.com Reply to: sapna@itecsus.com GCP GKE - Architect I **ON SITE PX AZ**Location: Phoenix, AZ (Onsite)Skills RequiredStrong knowledge of searching logs for troubleshooting and anomaly detection\u2022Implement comprehensive monitoring and logging solutions with GCP Logging and Monitoring\u2022Must have strong scripting skills - proficiency in Shell or Python\u2022Experience in configuration management and Infrastructure-as-code using Terraform\u2022Experience with Git and Github JavaScript Regular Expressions (RegEx)\u2022Experience with large-scale distributed systems and architecture knowledge (Linux/UNIX and Windows operating systems networking storage) in a cloud computing or traditional IT infrastructure environment.\u2022Should have understanding of cloud concepts (Storage /compute/network)\u2022Proficient in developing and maintaining technical documentation runbooks\u2022Automating GCP using Python Bash GCP SDKs or APIs",
+        "source": "Email",
+        "date_posted": "2024-10-28 02:55:13-05:00",
+        "unique_id": "192d23f44c8a17e3",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

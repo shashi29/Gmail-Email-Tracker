@@ -1,0 +1,109 @@
+[
+    {
+        "company": "Sibitalent",
+        "job_title": "Full Stack Java Developer - Senior",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Spring MVC",
+                "RESTful web services",
+                "JavaScript",
+                "JSP",
+                "CSS",
+                "HTML",
+                "jQuery",
+                "multi-threading",
+                "SQL"
+            ],
+            "primary": [
+                "myBatis",
+                "Hibernate",
+                "XML",
+                "JSON",
+                "AJAX",
+                "task prioritization",
+                "high-pressure execution"
+            ],
+            "secondary": [
+                "JBoss",
+                "Apache",
+                "Tomcat",
+                "Angular",
+                "React",
+                "Node.js",
+                "XSLT",
+                "jUnit",
+                "Selenium",
+                "stored procedures",
+                "AWS",
+                "CI/CD Pipelines"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Spring MVC",
+                "RESTful web services",
+                "JavaScript",
+                "JSP",
+                "CSS",
+                "HTML",
+                "jQuery",
+                "multi-threading",
+                "SQL",
+                "myBatis",
+                "Hibernate",
+                "XML",
+                "JSON",
+                "AJAX",
+                "task prioritization",
+                "high-pressure execution",
+                "JBoss",
+                "Apache",
+                "Tomcat",
+                "Angular",
+                "React",
+                "Node.js",
+                "XSLT",
+                "jUnit",
+                "Selenium",
+                "stored procedures",
+                "AWS",
+                "CI/CD Pipelines"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vaibhav Bansal",
+        "email": "b.vaibhav@sibitalent.com",
+        "jd": "Job Title \u2013 Full Stack Java Developer - Senior\nJob Location \u2013 Local to Boston (Only)\nOnsite Interview (4 Days a Week Onsite)\nDuration \u2013 6+ Months\nVisa \u2013 No CPT, H1B\nMode of Interview \u2013 F2F\n\nJob description - The client is looking for a Senior candidate for this role.\n\nLooking for:\n8+ years of experience developing web-based applications and development experience in Java/J2EE technologies\n\nThe successful candidate must have, in order of importance:\nExperience with Spring, Spring MVC, an ORM framework (myBatis or Hibernate preferred)\nExperience using and implementing RESTful web services\nExperience with Java, JavaScript, JSP, CSS, HTML, jQuery\nExperience with multi-threading using core Java libraries particularly the Executor framework.\nKnowledge of XML, JSON, and AJAX techniques\nStrong understanding of SQL database design\nAbility to effectively prioritize and execute tasks in a high-pressure environment.\n\nThe below skills are nice to have in addition to the required skills in order of preference:\nExperience with JBoss, Apache, Tomcat\nExperience with Angular, React, Node.js and XSLT\nExperience with unit testing frameworks such as jUnit or Selenium\nStrong understanding of stored procedures\nExperience with Cloud technologies focused on AWS\nExperience with CI/CD Pipelines",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:18:29-05:00",
+        "unique_id": "192de7c5a88ffd35",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

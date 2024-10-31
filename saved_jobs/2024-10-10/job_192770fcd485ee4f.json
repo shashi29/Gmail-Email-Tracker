@@ -1,0 +1,101 @@
+[
+    {
+        "company": "Tech Talent Connect LLC",
+        "job_title": ".NET Application Developer",
+        "location": "San Antonio, TX, USA",
+        "full_location": {
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "$65/C2C"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET Framework 4.8",
+                ".NET 6 (Standard)",
+                "Windows Presentation Foundation (WPF)"
+            ],
+            "primary": [
+                "Production Support",
+                "HTML",
+                "JavaScript",
+                "ASP.NET MVC",
+                "ASP .NET Core",
+                "MVVM",
+                "IIS",
+                "SQL Server",
+                "LINQ",
+                "Web API",
+                "Azure Services"
+            ],
+            "secondary": [
+                "ServiceNow",
+                "Jira",
+                "Bitbucket",
+                "Visual Studio",
+                "qTest",
+                "Jenkins",
+                "Confluence",
+                "Bamboo",
+                "Dynatrace",
+                "Zabbix",
+                "Splunk"
+            ],
+            "all": [
+                "C#",
+                ".NET Framework 4.8",
+                ".NET 6 (Standard)",
+                "Windows Presentation Foundation (WPF)",
+                "Production Support",
+                "HTML",
+                "JavaScript",
+                "ASP.NET MVC",
+                "ASP .NET Core",
+                "MVVM",
+                "IIS",
+                "SQL Server",
+                "LINQ",
+                "Web API",
+                "Azure Services",
+                "ServiceNow",
+                "Jira",
+                "Bitbucket",
+                "Visual Studio",
+                "qTest",
+                "Jenkins",
+                "Confluence",
+                "Bamboo",
+                "Dynatrace",
+                "Zabbix",
+                "Splunk"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Steven",
+        "email": "steven@techtalentconnect.com",
+        "jd": "From: Steven, Tech Talent Connect LLC steven@techtalentconnect.com Reply to: steven@techtalentconnect.com Job Title: .NET Application Developer Location: San Antonio, TX (Onsite)Duration: 12+ monthsMax Rate: 65$/C2CNeed dotnet profiles matching with the below criteria:1. WPF experience2. Prior Lead experience3. Strong with .net full stack experience4. at least 3 years US experienceRequired Skills:C#, .NET Framework 4.8, .NET 6 (Standard), Windows Presentation Foundation (WPF), Production Support.Qualifications:* Minimum 10 years of experience in business systems analysis, application development, and testing.* Experience developing web-based applications in C#, HTML, JavaScript, ASP.NET MVC, and ASP .NET Core.* Expert full-stack development skills with n-tier applications utilizing the following technologies: C#, .Net, MVVM, Microsoft WPF, IIS, SQL Server, LINQ, and Web API.* Design, Develop, And Maintain High-Quality Software Applications Using C#, .NET Core, And Azure Services.* Strong experience leveraging design patterns including MVVM.* Strong experience in Production Support L3 role, Handling incidents, Tasks, and Problem management.* Experience in using Monitoring and log-capturing tools like Dynatrace, Zabbix, Splunk, etc.Responsibilities:* Leads and personally contributes to solution delivery through SDLC activities (analysis, development, testing, deployment, support, etc.) for one or more medium to high-complexity business capabilities and/or products.* Demonstrates thought leadership and deep understanding through analysis and improvement recommendations to multifaceted business processes, application features, and data change to resolve defects or enhance business capabilities. Tools & Technology:ServiceNow, Jira, Bitbucket, Visual Studio, qTest, Jenkins, Confluence, Bamboo.",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:49:54-05:00",
+        "unique_id": "192770fcd485ee4f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

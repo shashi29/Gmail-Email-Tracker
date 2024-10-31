@@ -1,0 +1,78 @@
+[
+    {
+        "company": "CAGUS",
+        "job_title": "AWS Cloud Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Cloud Services",
+                "ECS",
+                "EKS",
+                "EC2",
+                "MongoDB",
+                "Aurora"
+            ],
+            "primary": [
+                "Service Mesh",
+                "Design and Implement Gateways",
+                "Debugging on AWS Services",
+                "Blue Green Deployment",
+                "AWS Solution Architect Certification",
+                "Kubernetes",
+                "Terraform"
+            ],
+            "secondary": [
+                "Prior Work Experience in AWS"
+            ],
+            "all": [
+                "AWS",
+                "Cloud Services",
+                "ECS",
+                "EKS",
+                "EC2",
+                "MongoDB",
+                "Aurora",
+                "Service Mesh",
+                "Design and Implement Gateways",
+                "Debugging on AWS Services",
+                "Blue Green Deployment",
+                "AWS Solution Architect Certification",
+                "Kubernetes",
+                "Terraform",
+                "Prior Work Experience in AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sivabalan",
+        "email": "sivabalan.c@cagus.com",
+        "jd": "From: Sivabalan, CAGUS sivabalan.c@cagus.com Reply to: sivabalan.c@cagus.com Position: AWS Cloud EngineerLocation: Plano, TX (Day 1 Onsite)Duration: ContractUpdated Skill set:We are looking for Sr Principle(AWS) Engineer with strong Cloud Services knowledge such as ECS EKS and EC2 and Data MongoDB Aurora who knows service mesh how to design and implement Gateways and debugging on AWS services Able to design in most of AWS cloud ServicesExperience in Blue Green Deployment to run current and new application version in identical environments.Better certification in AWS Solution architect, Kubernetes, TerraformGood to have prior work experience in AWS.",
+        "source": "Email",
+        "date_posted": "2024-10-28 08:59:43-05:00",
+        "unique_id": "192d38cf7d2ac704",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

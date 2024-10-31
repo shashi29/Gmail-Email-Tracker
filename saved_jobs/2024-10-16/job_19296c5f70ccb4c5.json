@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Techrooted",
+        "job_title": "DATA ENGINEER",
+        "location": "West Des Moines, IA, USA",
+        "full_location": {
+            "city": "West Des Moines",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 3 years experience",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Kafka",
+                "ETL",
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "Cloud data platforms (AWS, Azure, Google Cloud Platform)",
+                "Data modeling",
+                "Data warehousing",
+                "Agile environment",
+                "Scrum framework"
+            ],
+            "secondary": [
+                "Java",
+                "Scala",
+                "Data governance",
+                "Metadata management",
+                "Data quality controls",
+                "Data lineage",
+                "Data security",
+                "Problem-solving skills"
+            ],
+            "all": [
+                "Kafka",
+                "ETL",
+                "SQL",
+                "Python",
+                "Cloud data platforms (AWS, Azure, Google Cloud Platform)",
+                "Data modeling",
+                "Data warehousing",
+                "Agile environment",
+                "Scrum framework",
+                "Java",
+                "Scala",
+                "Data governance",
+                "Metadata management",
+                "Data quality controls",
+                "Data lineage",
+                "Data security",
+                "Problem-solving skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rahul Saxena",
+        "email": "rahul@techrooted.com",
+        "jd": "From: Rahul Saxena, Techrooted rahul@techrooted.com Reply to: rahul@techrooted.com Hi, I am hiring a consultant for one of my client's requirement. Job Description for the same is written below. If you find yourself comfortable with the requirement please reply back with your updated resume. I would really appreciate if you can give me a call back at my contact Title : DATA ENGINEER Location : West Des Moines, Iowa Duration : 6+ Months Job Description locals or nearby usc/gc One Python Assessment test Industry: Financial Services/Life & Annuities Location of Client: West Des Moines, Iowa Remote/Onsite: Hybrid Onsite in West Des Moines Interviews: 2 Contract: 18 month contract **Must Have experience: Kafka, ETL, SQL and cloud job Description: Preferred Office Location: We are seeking a highly skilled and motivated Data Engineer with expertise in cloud-based data integration to join our dynamic team. The ideal candidate will play a pivotal role in designing, developing, and maintaining robust data pipelines and systems to support our insurance and annuity products. Design, implement, and manage scalable data pipelines for ingesting, transforming, and storing diverse data sets from various sources into our cloud-based data infrastructure. Develops, tests, and deploys code using internal software development toolsets, including the code for deploying infrastructure and solutions for secure data storage, ETL pipelines, data catalogs and data queries. Collaborate with cross-functional teams to understand data requirements and develop solutions that meet business objectives. Optimize data workflows and processes for efficiency, reliability, cost and performance. Ensure data quality, integrity, and security throughout the data lifecycle. West Des Moines, Iowa Desired Skill Years of Experience Proven experience publishing and managing Kafka topics. Proven experience as a Data Engineer, preferably in the insurance or financial services industry. Strong expertise in data modeling, ETL/ELT processes, and data warehousing concepts. Hands-on experience with programming languages (Python, Java, or Scala) and SQL. Strong understanding of data governance, metadata management, data quality controls, data lineage and data security. Proficiency in cloud data platforms such as AWS, Azure, or Google Cloud Platform. Experience working in an Agile environment with strong Scrum framework knowledge. Excellent problem-solving skills and ability to work in a fast-paced, collaborative environment. Minimum 3 years experience Regards Rahul Saxena Sr. Technical Recruiter E: rahul@techrooted.com TechRooted. 14 Wall Street 20th Floor | New York, NY 10005 www.techrooted.com/",
+        "source": "Email",
+        "date_posted": "2024-10-16 13:44:36-05:00",
+        "unique_id": "19296c5f70ccb4c5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

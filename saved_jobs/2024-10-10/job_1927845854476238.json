@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Teamware Solutions",
+        "job_title": "Sybase DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "Production Support",
+                "UNIX",
+                "Linux Shell Scripting"
+            ],
+            "primary": [
+                "Database Design",
+                "High Availability",
+                "Disaster Recovery",
+                "SQL Performance Tuning",
+                "Database Management"
+            ],
+            "secondary": [
+                "Oracle",
+                "MS SQL Server",
+                "Monitoring",
+                "Alerting",
+                "Failover Solutions",
+                "Hot Standby Solutions",
+                "Enterprise Failover Manager"
+            ],
+            "all": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "Production Support",
+                "UNIX",
+                "Linux Shell Scripting",
+                "Database Design",
+                "High Availability",
+                "Disaster Recovery",
+                "SQL Performance Tuning",
+                "Database Management",
+                "Oracle",
+                "MS SQL Server",
+                "Monitoring",
+                "Alerting",
+                "Failover Solutions",
+                "Hot Standby Solutions",
+                "Enterprise Failover Manager"
+            ],
+            "with_experience": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "Production Support",
+                "UNIX",
+                "Linux Shell Scripting"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Ajaz sharieff",
+        "email": "ajaz.t@twsol.com",
+        "jd": "From: Ajaz sharieff, Teamware Solutions ajaz.t@twsol.com Reply to: ajaz.t@twsol.com Skills Needed - Production Support Exp., Sybase ASE , Sybase IQ Summary:\u00b7The Level L1/2 Sybase Administrator is a senior-level position responsible for the design, implementation, and management of databases. This role involves overseeing the database infrastructure, ensuring high availability, performance, and security. The Level 3 DBA provides technical expertise, leads database projects, and collaborates with other IT teams to deliver robust and scalable database services.\u00b7DBA working experience with Sybase open source and good understanding of other RDBMS such as Sybase, Oracle and MS SQL server.\u00b7Experience in Production Support with monitoring\u00b7Experienced in setting up Sybase clusters and supporting HA/DR solutions\u00b7Strong skills in UNIX / Linux Shell Scripting\u00b7Install, monitor and maintain software, implement monitoring and alerting.\u00b7Experience in building high-scalable clusters, failover and hot standby solutions based on Maximum available architecture\u00b7Experience in architecting, configuring, setting up Enterprise Fail over manager or similar technology for High availability solution.\u00b7Experience in leading efforts related to system and SQL performance tuning and assisting business process integration with various data sources.\u00b7Ability to work well with development and infrastructure teams in doing database design, changes and enhancement to new and existing applications\u00b7Proven ability to provide High Availability and Disaster Recovery solutions",
+        "source": "Email",
+        "date_posted": "2024-10-10 13:28:08-05:00",
+        "unique_id": "1927845854476238",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

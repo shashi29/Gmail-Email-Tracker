@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Rwaltz",
+        "job_title": "Java Fullstack Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 \u2013 12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "$65"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "React",
+                "microservices",
+                "Oracle",
+                "PL/SQL",
+                "AWS EC2",
+                "S3",
+                "API Gateway",
+                "Lambda",
+                "Route53",
+                "Secrets Manager",
+                "CloudWatch"
+            ],
+            "primary": [
+                "JMS",
+                "ActiveMQ",
+                "Tomcat",
+                "Maven",
+                "GitHub",
+                "Jenkins",
+                "Linux/Unix"
+            ],
+            "secondary": [
+                "Experience with rewriting legacy Java applications using Spring Boot & React",
+                "Building serverless applications",
+                "Ocean Shipping domain knowledge",
+                "AWS CodePipeline"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "React",
+                "microservices",
+                "JMS",
+                "ActiveMQ",
+                "Tomcat",
+                "Maven",
+                "GitHub",
+                "Jenkins",
+                "Linux/Unix",
+                "Oracle",
+                "PL/SQL",
+                "AWS EC2",
+                "S3",
+                "API Gateway",
+                "Lambda",
+                "Route53",
+                "Secrets Manager",
+                "CloudWatch",
+                "Experience with rewriting legacy Java applications using Spring Boot & React",
+                "Building serverless applications",
+                "Ocean Shipping domain knowledge",
+                "AWS CodePipeline"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Paul",
+        "email": "paul@rwaltz.com",
+        "jd": "From: Paul, Rwaltz paul@rwaltz.com Reply to: paul@rwaltz.com RATE: $65ONLY LOCALIN-PERSON MUSTNO OPT/CPT/H1B TRANSFERDL MUST AZ Job Title : Java Fullstack DeveloperLocation : Phoenix, AZ (Local Candidates preferred)Job Type : Onsite (Weekly 2 Days of Office)Duration : 12 Months ContractExperience: 8 \u2013 12 yearsInterview \u2013 Client Zoom Video Call and Face To Face Interview (Mandatory) Job DescriptionRequired Skills: Java, Spring, Spring Boot, React, microservices, JMS, ActiveMQ, Tomcat, Maven, GitHub, Jenkins, Linux/Unix, Oracle and PL/SQL, AWS EC2, S3, API Gateway, Lambda, Route53, Secrets Manager, CloudWatch Nice to have skills:Experience with rewriting legacy Java applications using Spring Boot & ReactBuilding serverless applicationsOcean Shipping domain knowledgeAWS CodePipeline Responsibilities:Develop and implement front-end and back-end solutions using Java, Spring, Spring Boot, React, microservices, Oracle and PL/SQL and AWS services.Experience working with business users in defining processes and translating those to technical specifications.Design and develop user-friendly interfaces and ensure seamless integration between front-end and back-end components.Write efficient code following best practices and coding standards.Perform thorough testing and debugging of applications to ensure high-quality deliverables.Optimize application performance and scalability through performance tuning and code optimization techniques.Integrate third-party APIs and services to enhance application functionality.Build serverless applicationsDeploy applications in AWS environmentPerform Code Reviews.Pick up production support engineer role when neededExcellent grasp of application security concerns and remediation techniques.Well-rounded technical background in current web and micro-service technologies.Responsible for being an expert resource for architects in the development of target architectures to ensure that they can be properly designed and implemented through best practices.Should be able to work in a fast paced environment.Stay updated with the latest industry trends and emerging technologies to continuously improve skills and knowledge",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:53:50-05:00",
+        "unique_id": "1927c331b17f1c97",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

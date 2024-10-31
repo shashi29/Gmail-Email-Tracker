@@ -1,0 +1,72 @@
+[
+    {
+        "company": "SPAR Information Systems",
+        "job_title": "Sr. Data Engineer- Lead",
+        "location": "Frisco, TX, USA",
+        "full_location": {
+            "city": "Frisco",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Data Modeling",
+                "CI/CD Pipeline",
+                "DevOps practices"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Architecture",
+                "Data Quality Checks",
+                "Data Warehousing",
+                "Automation",
+                "Agile fundamentals",
+                "Jira",
+                "GitLab"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "Data Modeling",
+                "CI/CD Pipeline",
+                "DevOps practices",
+                "Data Engineering",
+                "Data Architecture",
+                "Data Quality Checks",
+                "Data Warehousing",
+                "Automation",
+                "Agile fundamentals",
+                "Jira",
+                "GitLab"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Satnam Singh",
+        "email": "satnam.singh@sparinfosys.com",
+        "jd": "Hello All,Hope you are doing great Please go through the job description and let me know your interest.Role: Sr. Data Engineer/ Lead (Need 12+ years of exp)Location: Frisco, TX/ Atlanta, GA/ Bellevue, WA/ Overland Park, KS (Need Only Locals)Duration: Long Term ContractJob Requirement:Client is looking for a Sr. Data Engineer/Data Architect who is self driven, can lead a team of Data engineers working on an Onshore-Offshore model collaborating with customer SMEs.Job Responsibilities :\u2022 Design, build and deploy efficient & reliable data pipelines to move and transform data\u2022 Optimize existing pipelines and maintenance of all source-related data pipelines\u2022 Support on-call shift as needed to support the team\u2022 Build and Deploy extensive data quality checks to ensure high quality of data\u2022 Build high-performance scalable data warehouses and data products\u2022 Partner with leadership, engineers, product managers and data scientists to understand data needs.\u2022 Improve existing data movement frameworks and add more features\u2022 Extreme focus on automation\u2022 Expert level SQL skills\u2022 Data Modeling\u2022 CI/CD Pipeline and DevOps practices\u2022 Agile fundamentals\u2022 Prior use of Jira and GitLab",
+        "source": "Email",
+        "date_posted": "2024-10-14 07:39:18-05:00",
+        "unique_id": "1928b32e950ca2bf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Adventatech",
+        "job_title": "SQL Database Administrator",
+        "location": "Montgomery, AL, USA",
+        "full_location": {
+            "city": "Montgomery",
+            "state": "AL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Information Systems, or related field",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL expertise",
+                "MS SQL Server",
+                "Power BI",
+                "Tableau",
+                "Redgate tools",
+                "Database performance tuning",
+                "On-prem to Azure SQL migration",
+                "SSIS packages"
+            ],
+            "primary": [
+                "Database administration",
+                "Backup and recovery",
+                "Database security standards",
+                "Performance tuning",
+                "Web applications deployment"
+            ],
+            "secondary": [
+                "Microsoft Certification in SQL Server Database Administration",
+                "Datawarehouse",
+                "MS Internet Information Services (IIS)",
+                "Azure",
+                "PowerShell",
+                "Continuous integration tools",
+                "Problem solving skills",
+                "Good written and verbal communication skills"
+            ],
+            "all": [
+                "SQL expertise",
+                "MS SQL Server",
+                "Power BI",
+                "Tableau",
+                "Redgate tools",
+                "Database performance tuning",
+                "On-prem to Azure SQL migration",
+                "SSIS packages",
+                "Database administration",
+                "Backup and recovery",
+                "Database security standards",
+                "Performance tuning",
+                "Web applications deployment",
+                "Microsoft Certification in SQL Server Database Administration",
+                "Datawarehouse",
+                "MS Internet Information Services (IIS)",
+                "Azure",
+                "PowerShell",
+                "Continuous integration tools",
+                "Problem solving skills",
+                "Good written and verbal communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "manish",
+        "email": "manish@adventatech.com",
+        "jd": "From: manish, Adventatech manish@adventatech.com Reply to: manish@adventatech.com Role - SQL Database AdministratorLocation: Onsite in Montgomery, AL Need DLVisa: No H1B/CPT Mode of Interview: Skype Need Linkedin and Local Candidates Only Must Have:SQL expertise with at least 8 years of experience.Strong familiarity with Power BI, Tableau, and Redgate tools.On-prem to Azure SQL migration experience is a big plus, as we're during transitioning.Candidates with broader, multi-tasking backgrounds are ideal, especially if they\u2019ve worn many hats in smaller environments. Qualifications:Bachelor\u2019s degree in computer science, Information Systems, or related field.8+ years of experience in working as MS SQL Server database administrator and database internals, with strong focus in SQL Server 2016, 2019, and 2022.8+ years in SQL Server database performance tuning along with good understanding of indexing, execution plans, DMV, database storage, database problem identification, problem diagnosis and resolution.8+ years writing scripts or using leading tools to monitor, perform backup & recovery, and maintenance automation.Hands on experience in on-prem to cloud migration; hands on experience in creating and troubleshooting SSIS packages.5+ years of experience in performing code.5+ years of experience with MS Internet Information Services (IIS) with strong focus on server administration and web applications deployment.5+ years of experience with creating SSIS packages.Microsoft Certification in SQL Server Database Administration.MS SQL Server and Datawarehouse, MS Internet Information Services (IIS), PowerBI and SSAS.Creating, deploying, and monitoring SSIS packages; good knowledge on maintaining SQL report servers (SSRS).SQL server encryption; familiar with industry-level best practices for Microsoft SQL Server security standards.Backup & recovery; expert knowledge of on-prem to cloud migration.Azure, industry standard server hardware, operating systems, storage, virtualization, and networking technologies.PowerShell, database source control and continuous integration tools.RedGate, Tableau and Idera Data Architect tools.problem solving skills and a commitment to getting things done right.Eagerness to learn and help others.Good written and verbal communication skills and professionalism. Responsibilities:The resource in this position will handle database administration for mission critical transactional and Datawarehouse SQL servers with a significant focus on continuous improvement and technology strategy. The resource manages and maintains all production and non-production databases.Responsible for standards and design of physical data storage, maintenance, access, and security administration.Performs backup and recovery on Database Management Systems, configures database parameters, and prototype designs against logical data models, defines data repository requirements, data dictionaries and warehousing requirements. This position optimizes database access and allocates/re-allocates database resources for optimum configuration, database performance and cost. Additionally, this position will handle web administration for mission critical web servers with a significant focus on web applications\u2019 deployment, connectivity, and maintenance. This will include expert escalation for troubleshooting production issues, assists in development lifecycle, capacity management and strategy, operational standards and procedures, stabilization and optimization, performance tuning and monitoring, standards identification and compliance, continuous improvement, and security enhancement. The Database Administrator (DBA) in this position must have passion for data, databases, web applications, and bring expertise to help us deliver best in class data delivery solutions.Supports multiple services and multiple databases of medium to high complexity (complexity defined by database size, technology used, systems feeds and interfaces) with multiple concurrent users, ensuring control, integrity, and accessibility of data. Works on multiple projects as a project leader or sometimes as a project advisor. May coach more junior technical staff.",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:30:37-05:00",
+        "unique_id": "192b4a4596da19f2",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

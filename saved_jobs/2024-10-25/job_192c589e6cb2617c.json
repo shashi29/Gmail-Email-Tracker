@@ -1,0 +1,61 @@
+[
+    {
+        "company": "3B Staffing",
+        "job_title": "Python Developer",
+        "location": "San Jose, CA, USA",
+        "full_location": {
+            "city": "San Jose",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Investment systems knowledge",
+                "AWS services",
+                "GitHub"
+            ],
+            "primary": [
+                "Ability to effectively communicate with portfolio managers"
+            ],
+            "secondary": [
+                "AWS certification"
+            ],
+            "all": [
+                "Python",
+                "Investment systems knowledge",
+                "AWS services",
+                "GitHub",
+                "Ability to effectively communicate with portfolio managers",
+                "AWS certification"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vaibhav Panchbhaiya",
+        "email": "vaibhav@3bstaffing.com",
+        "jd": "From: Vaibhav Panchbhaiya, 3B Staffing vaibhav@3bstaffing.com Reply to: vaibhav@3bstaffing.com Role: Python developerLocation: San Jose, CA (Day 1 Onsite) (Only Local)Duration: Long term contractMust haves:* Investment systems knowledge (trading, securities, etc)* Ability to effectively communicate with portfolio managers, work closely with them to rapidly build solutions* Python strongly preferred* Knowledge of AWS services like lambdas, ECS and AWS infrastructure * GitHubPreferred:* AWS certification",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:41:33-05:00",
+        "unique_id": "192c589e6cb2617c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

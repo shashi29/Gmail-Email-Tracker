@@ -1,0 +1,78 @@
+[
+    {
+        "company": "VDart",
+        "job_title": "AWS Data Engineer [L8]",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Apache Spark",
+                "ETL tools",
+                "Apache Airflow",
+                "Scala",
+                "Python",
+                "AWS",
+                "S3",
+                "Redshift"
+            ],
+            "primary": [
+                "CI/CD",
+                "data pipelines",
+                "data transformation",
+                "data architecture"
+            ],
+            "secondary": [
+                "data ingestion",
+                "troubleshooting",
+                "documentation"
+            ],
+            "all": [
+                "Apache Spark",
+                "ETL tools",
+                "Apache Airflow",
+                "Scala",
+                "Python",
+                "AWS",
+                "S3",
+                "Redshift",
+                "CI/CD",
+                "data pipelines",
+                "data transformation",
+                "data architecture",
+                "data ingestion",
+                "troubleshooting",
+                "documentation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jeorge Smith",
+        "email": "jeorge.smith@dimiour.io",
+        "jd": "From: jeorge, VDart jeorge.smith@dimiour.io Reply to: jeorge.smith@dimiour.io Role Title: AWS Data Engineer [L8]Location: St. Louis, MO [Onsite] Duration: Long Term Contract Key Responsibilities:Design, develop, and maintain scalable data pipelines using Apache Spark and other ETL tools.Implement data processing workflows using Apache Airflow to ensure efficient data ingestion and transformation.Collaborate with data scientists and analysts to understand data requirements and deliver high-quality datasets.Write efficient data transformation scripts in Scala and Python to process large datasets.Manage data storage solutions on AWS, including S3, Redshift, and other AWS services.Develop and implement CI/CD pipelines to automate data deployment and improve code quality.Monitor data pipelines and troubleshoot issues to ensure optimal performance and reliability.Document data architecture and workflows to maintain clear communication within the team.",
+        "source": "Email",
+        "date_posted": "2024-10-10 12:16:48-05:00",
+        "unique_id": "1927810e141d85c8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

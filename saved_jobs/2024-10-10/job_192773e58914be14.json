@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Largeton.Inc",
+        "job_title": "Senior Cloud Data Engineer - DPH/DMH",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica",
+                "IICS",
+                "Snowflake",
+                "AWS"
+            ],
+            "primary": [
+                "Tableau",
+                "Cognos",
+                "SAS",
+                "GitHub",
+                "MOVEit MFT"
+            ],
+            "secondary": [
+                "SQL",
+                "PL/SQL",
+                "Linux shell scripting",
+                "data security protocol",
+                "encryption",
+                "decryption",
+                "communication",
+                "organizational skills",
+                "HIPAA"
+            ],
+            "all": [
+                "Informatica",
+                "IICS",
+                "Snowflake",
+                "AWS",
+                "Tableau",
+                "Cognos",
+                "SAS",
+                "GitHub",
+                "MOVEit MFT",
+                "SQL",
+                "PL/SQL",
+                "Linux shell scripting",
+                "data security protocol",
+                "encryption",
+                "decryption",
+                "communication",
+                "organizational skills",
+                "HIPAA"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Deepak Thakur",
+        "email": "deepak@largeton.us",
+        "jd": "From: Deepak Thakur, Largeton.Inc deepak@largeton.us Reply to: deepak@largeton.us Job Description Title- Senior Cloud Data Engineer - DPH/DMHLocation- Hybrid- Boston,, MA- Locals onlyDuration- 6+ Months The candidate needs to be local to MA.The candidate needs to have current or recent working experience in MA.Top skills: for this role Informatica, IICS AND Snowflake AND AWS. Job Duties & Responsibilities:Administer, configure & support Cloud Database services (Snowflake).Administer, configure & support Data Platform services, Informatica Cloud (IICS), Tableau, Cognos, SAS, GitHub and MOVEit MFT.Design, implement & support cloud applications and AWS services.Install and configure software on AWS cloud services.Administer and manage internal and external requests for data applications access and permissions, while supporting data security and protection.Defines and implements data security policies, authentication, and authorization mechanisms for cloud-based platforms.Collaborates with cross-functional teams to design and implement highly scalable, highly available, and highly performant cloud data solutions.Evaluates and recommends new cloud products and services for efficient data storage and processing.Monitors the performance of cloud data services and strategizes optimization measures.Implements data management and data governance processes for cloud data.Establish regular overall system performance assessment processes and action plans.Provide excellent customer service (email, telephone, and written correspondence) to all internal and external customers.Ensure timely delivery of solutions meeting requirements and expectations Requirements:3-5 years of experience in implementing and supporting Cloud-based (AWS) data solutions.5+ years of Cloud database platform experience such as Snowflake.3+ years in Cloud Data services such as IICS, AWS and GitHub.5+ years of experience in Database administration and Data Warehouse applications on AWS.Minimum two years of experience with installing and configuring applications using Cloud Technologies (AWS, MS Azure etc.)Knowledge of cloud network policies and the firewall rulesExperienced in SQL skills and PL/SQL skills.Experience in Linux shell scripting, user security and server administration.Experience in data security protocol using encryption and decryption methodologies.Strong communication and organizational skillsExperience working with highly sensitive health care information and familiar with HIPAA and other data privacy controls.",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:57:05-05:00",
+        "unique_id": "192773e58914be14",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

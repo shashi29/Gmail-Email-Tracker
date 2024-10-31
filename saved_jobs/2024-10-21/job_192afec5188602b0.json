@@ -1,0 +1,76 @@
+[
+    {
+        "company": "HAN IT Staffing",
+        "job_title": "Lead Java Fullstack Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "React JS",
+                "Kafka",
+                "Microservices"
+            ],
+            "primary": [
+                "Python",
+                "Node-js",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Event Driven Architecture",
+                "real time messaging processing",
+                "Agile practices"
+            ],
+            "secondary": [
+                "Azure"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "React JS",
+                "Kafka",
+                "Microservices",
+                "Python",
+                "Node-js",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Event Driven Architecture",
+                "real time messaging processing",
+                "Agile practices",
+                "Azure"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rohith Reddy",
+        "email": "rohithr@hanstaffing.com",
+        "jd": "Hi,I'd like you to take a look at a great new position we now have available! Your opinion would be valued with regards to this opening. I really appreciate sending an updated resume & the best number with the best time to reach you. Role: Lead Java Fullstack Developer Location: Chicago, IL (Only Locals)Duration: Long-Term Contract What you will do-Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions to deliver new capabilities in the Securities Finance spaceLooking for resources who have worked on large scale enterprise applications and leading teams.Basic Qualifications:Bachelor's DegreeAt least 10+ years of professional software engineering experienceAt least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)Event Driven Architecture and real time messaging processingPreferred Qualifications:10+ years of experience in at least one of the following: Java and knowledge in Python and Node-js2+ years of experience with AWS, GCP, Azure, or another cloud service4+ years of experience in open-source frameworks1+ years of people management experience2+ years of experience in Agile practicesSecurities Finance or Financial Industry domain knowledge Mandatory skillsSpring BootReact JSKafkaMicroservicesSecondary skills:Azure",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:53:40-05:00",
+        "unique_id": "192afec5188602b0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

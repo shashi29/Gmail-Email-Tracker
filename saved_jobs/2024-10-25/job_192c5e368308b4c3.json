@@ -1,0 +1,75 @@
+[
+    {
+        "company": "GVR INFO TEK",
+        "job_title": "Java Developer",
+        "location": "Reston, VA, USA",
+        "full_location": {
+            "city": "Reston",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Micro-Services",
+                "AWS",
+                "IBM MQ"
+            ],
+            "primary": [
+                "Spring Integration",
+                "Web Services",
+                "EventBridge",
+                "Lambda",
+                "EKS"
+            ],
+            "secondary": [
+                "Datadog",
+                "Cloudwatch",
+                "Healthcare Experience"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Micro-Services",
+                "AWS",
+                "IBM MQ",
+                "Spring Integration",
+                "Web Services",
+                "EventBridge",
+                "Lambda",
+                "EKS",
+                "Datadog",
+                "Cloudwatch",
+                "Healthcare Experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Tarun Kumar",
+        "email": "tarun.kumar@gvrinfotek.com",
+        "jd": "From: Tarun Kumar, GVR INFO TEK tarun.kumar@gvrinfotek.com Reply to: tarun.kumar@gvrinfotek.com Job Description -Job Title: Java DeveloperDuration: : 12 monthsVisa: Only open to GC or USC OnlyLocation: Candidates must be local to Washington DCConsultant must have LinkedInCandidates must be local to Washington DC , Maryland or West Virginia, or Virginia. You will be required to work onsite in Reston Va. twice per month. Spring, Microservices IBM MQ or MS MQ, AWS/ETS Web Services experience required. Candidates must of application architecture and design experience ..proof of concept etc.. Experience LEAD Architect and design experience required.12+ years of Software design and hands on development, 2 years of Team Lead experience, along with 3 years of AWS, Proof of Concept (POC) understandingExperience (for SENIOR position): 10+ years of Software design and hands on development, along with 2 years of AWS Education Level: Bachelor's Degree.Must have Technology Stack:(1) Java, Spring Framework, Spring Integration, Micro-Services, Web Services, IBM MQ(2) Hands-on AWS development experience, EventBridge, Lambda, EKS services, ETS, basic knowledge in AWS event driving architecture and designing(3) Monitoring Tools: Datadog or Cloudwatch or similar PROJECT:Migrating MQ applications to AWS, must have MQ and AWS knowledge.Eventbridge Architecture for AWS is requiredLambda is required.Amazon Elastic Transcoder (AWS ETS) knowledge - requiredWhat are you using AWS ETS service for: packaging applications for AWS deploymentsHealthcare Exp: Nice to haveFrontend development not relevant here, all backend work. Regards, Tarun KumarIT RecruiterGVR Info Tek: 13573 Tabasco Cat Trail, Frisco, TX 75035Email: tarun.kumar@gvrinfotek.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:08:58-05:00",
+        "unique_id": "192c5e368308b4c3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

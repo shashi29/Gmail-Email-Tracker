@@ -1,0 +1,89 @@
+[
+    {
+        "company": "intellecttechsolutions",
+        "job_title": "Senior .NET Consultant",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET Framework (4.7.2 and higher)",
+                ".NET Core 2.2 and higher",
+                "Visual Studio (2022/2019)",
+                "SQL Server 2016",
+                "ASP.NET MVC 5",
+                "MVC Core",
+                "Entity Framework 6.2",
+                "LINQ to SQL",
+                "Entity Framework Core",
+                "Kendo UI Controls for ASP.NET MVC",
+                "JavaScript",
+                "jQuery",
+                "CSS 3.0",
+                "C# 7.0 and higher",
+                "WCF/Web API",
+                "Visual Studio Unit Testing",
+                "Azure DevOps",
+                "Git",
+                "Azure App Service",
+                "Azure Blob Storage"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                ".NET Framework (4.7.2 and higher)",
+                ".NET Core 2.2 and higher",
+                "Visual Studio (2022/2019)",
+                "SQL Server 2016",
+                "ASP.NET MVC 5",
+                "MVC Core",
+                "Entity Framework 6.2",
+                "LINQ to SQL",
+                "Entity Framework Core",
+                "Kendo UI Controls for ASP.NET MVC",
+                "JavaScript",
+                "jQuery",
+                "CSS 3.0",
+                "C# 7.0 and higher",
+                "WCF/Web API",
+                "Visual Studio Unit Testing",
+                "Azure DevOps",
+                "Git",
+                "Azure App Service",
+                "Azure Blob Storage"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sbabu",
+        "email": "sbabu@intellecttechsolutions.com",
+        "jd": "Role: Senior .NET Consultant \u2013 Min 12+ years \u2013 OH \u2013 Need Locals \u2013 Hybrid Role Mandatory skills:.NET Framework (4.7.2 and higher), .net core 2.2 and higher Visual Studio (2022/2019) SQL Server 2016 Asp.net MVC 5, MVC Core Entity Framework 6.2 including LINQ to SQL, Entity framework core Kendo UI Controls for ASP.NET MVC Java Script, jQuery and CSS 3.0 C# 7.0 and higher WCF/Web API Visual Studio Unit Testing Azure DevOps Build and release using DevOps pipelines Git source code repository ( 2 +) Azure App Service (2 years) Azure blob storage (< 1year)",
+        "source": "Email",
+        "date_posted": "2024-10-28 11:49:27-05:00",
+        "unique_id": "192d4285b1a33915",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

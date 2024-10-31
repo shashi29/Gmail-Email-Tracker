@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "GCP Engineer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Windows",
+                "Linux"
+            ],
+            "primary": [
+                "PaaS",
+                "GCP networking",
+                "ITSM tool automation",
+                "Middleware"
+            ],
+            "secondary": [
+                "Monitoring automation",
+                "CA certificates management"
+            ],
+            "all": [
+                "GCP",
+                "Windows",
+                "Linux",
+                "PaaS",
+                "GCP networking",
+                "ITSM tool automation",
+                "Middleware",
+                "Monitoring automation",
+                "CA certificates management"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pradeep Sharma",
+        "email": "pradeep.sharma@scalable-systems.com",
+        "jd": "From: Pradeep, Scalable Systems pradeep.sharma@scalable-systems.com Reply to: pradeep.sharma@scalable-systems.com Hi,Greetings of the day! I have an urgent requirement below, please go through JD and let me know if you are comfortable or have any profile. Kindly revert me back with your updated resume as well. Job Title: GCP Engineer Location: Atlanta, GA (Work from Office)Duration: Long Term Contract Key Responsibilities:Experience working with any of the OS (windows or Linux, preferably both)\u2022 Ability to work well with multiple priorities.\u2022 Good PaaS resource understanding and how it works generally in GCP Environments.\u2022 Good GCP networking knowledge and how things can be connected across on-prem and Azure environment.\u2022 Understanding on the monitoring automation on various tools, if possible\u2022 ITSM tool automation and its configuration and setup with GCP and Azure\u2022 Middleware knowledge and manage and maintaining CA certificates for applications Thanks & Regards, Pradeep SharmaEmail: pradeep.sharma@scalable-systems.com \"Scalable Systems is an Equal Opportunity Employer. We are committed to creating an inclusive environment for all employees and do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other legally protected status.\"",
+        "source": "Email",
+        "date_posted": "2024-10-29 06:08:11-05:00",
+        "unique_id": "192d8164190a416c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "company": "Yochana IT Solutions",
+        "job_title": "Sr. Data Engineer/Architect",
+        "location": "Illinois, USA",
+        "full_location": {
+            "city": "Illinois",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SSIS",
+                "SQL"
+            ],
+            "primary": [
+                "Python"
+            ],
+            "secondary": [],
+            "all": [
+                "SSIS",
+                "SQL",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Harshini Gadam",
+        "email": "harshini@yochana.com",
+        "jd": "Hi, This is Harshini from Yochana IT Solutions, I Recently found your resume in one of our Job portal and We are looking for \u201cSr. Data Engineer/Architect at Illinois (Onsite)\u201d with one of our client, I have included the job information below, If you are interested, please share your updated resume.\n\nSr. Data Engineer/Architect\nIllinois (Onsite)\n12 months+\n\nMandatory required skills: SSIS and SQL\nPreferred/Desired skills: Python\n\nJob Description:\nPrefer resource based out of US .(Any location in US) / Proficiency with ETL and Python technologies\nGood exposure to design and coordinating with all stakeholders\nAble to communicate Design deliverables effectively with stakeholders\nHaving work experience in Claims Management (P&C) is preferred\n\nThanks & Regards\nHarshini Gadam\nYochana IT Solutions Inc\n23000 Commerce Drive, Farmington Hills, MI 48335\nEmail id harshini@yochana.com",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:32:40-05:00",
+        "unique_id": "192de65a0486cdb8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

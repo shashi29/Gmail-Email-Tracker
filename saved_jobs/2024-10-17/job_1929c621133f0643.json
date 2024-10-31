@@ -1,0 +1,69 @@
+[
+    {
+        "company": "State of CO - OIT",
+        "job_title": ".Net Developer",
+        "location": "Lakewood, CO, USA",
+        "full_location": {
+            "city": "Lakewood",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "SQL Server",
+                "VB.NET"
+            ],
+            "primary": [
+                "application development",
+                "software debugging",
+                "scripting",
+                "source control",
+                "change requests"
+            ],
+            "secondary": [
+                "training",
+                "certification"
+            ],
+            "all": [
+                ".NET",
+                "SQL Server",
+                "VB.NET",
+                "application development",
+                "software debugging",
+                "scripting",
+                "source control",
+                "change requests",
+                "training",
+                "certification"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhay",
+        "email": "abhay.yadav@consultstm.com",
+        "jd": "From: Abhay, STM Consulting, Inc. abhay.yadav@consultstm.com Reply to: abhay.yadav@consultstm.com Customer: State of CO - OITLocation: Lakewood, CO 80215 (Hybrid)Duration: 12 Months DUTIES AND RESPONSIBILITIES: Design, code, and test computer software in a .NET framework. Perform application development for software debugging, scripting, source control, and change requests. Utilize SQL server on a VB.NET platform. Support and maintain configurations to in-house applications.Additional appropriate experience will substitute for the required education on a year-for-year basis.Additional appropriate education will substitute for the required experience on a year-for-year basis.Training or certification related to the work assigned to the position will be considered as a substitution for the required experience and/or education.",
+        "source": "Email",
+        "date_posted": "2024-10-17 15:53:16-05:00",
+        "unique_id": "1929c621133f0643",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "company": "Stellent IT",
+        "job_title": "Azure Data Architect",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12-month contract with rolling extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "data warehousing",
+                "data architecture",
+                "data mining",
+                "data modeling",
+                "data profiling",
+                "data mapping",
+                "Azure Cloud",
+                "Azure Data Factory",
+                "Data Bricks",
+                "Oracle",
+                "DataStage",
+                "IBM Integration Bus (IIB)"
+            ],
+            "primary": [
+                "data governance",
+                "data transformation",
+                "data quality",
+                "data lineage",
+                "metadata management",
+                "master data management",
+                "data virtualization",
+                "data services",
+                "cloud infrastructure",
+                "IBM Information Governance Catalog (IGC)",
+                "Information Knowledge Catalog (IKC)",
+                "Collibra",
+                "Azure Synapse Analytics",
+                "Snowflake",
+                "Google Big Query",
+                "Azure Data Lake"
+            ],
+            "secondary": [
+                "ETL processes",
+                "data integration strategies",
+                "data migration",
+                "data modeling",
+                "big data technologies",
+                "analytical skills",
+                "problem-solving skills",
+                "stakeholder management",
+                "cross-functional collaboration"
+            ],
+            "all": [
+                "data warehousing",
+                "data architecture",
+                "data mining",
+                "data modeling",
+                "data profiling",
+                "data mapping",
+                "Azure Cloud",
+                "Azure Data Factory",
+                "Data Bricks",
+                "Oracle",
+                "DataStage",
+                "IBM Integration Bus (IIB)",
+                "data governance",
+                "data transformation",
+                "data quality",
+                "data lineage",
+                "metadata management",
+                "master data management",
+                "data virtualization",
+                "data services",
+                "cloud infrastructure",
+                "IBM Information Governance Catalog (IGC)",
+                "Information Knowledge Catalog (IKC)",
+                "Collibra",
+                "Azure Synapse Analytics",
+                "Snowflake",
+                "Google Big Query",
+                "Azure Data Lake",
+                "ETL processes",
+                "data integration strategies",
+                "data migration",
+                "data modeling",
+                "big data technologies",
+                "analytical skills",
+                "problem-solving skills",
+                "stakeholder management",
+                "cross-functional collaboration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Priyanka",
+        "email": "priyanka@stellentit.com",
+        "jd": "From: priyanka, Stellent IT priyanka@stellentit.com Reply to: priyanka@stellentit.com Position Title: Programmer Analyst 4/Datawarehouse Technical Architect/Azure Data ArchitectLocation: 1401 E Broad Street, Richmond, VA 23219 Position Status: 12-month contract with rolling extensions Schedule: HYBRIDOverview: Our client is looking for a Programmer Analyst 4/Datawarehouse Technical Architect for a HYBRID position based out of Richmond, VA. TOP MUST HAVES:**Local candidates only please.15+ years of experience in data warehousing and data architecture.Extensive experience in data mining, large scale data modeling, data profiling, and data mapping.Experience with Azure Cloud, Azure Data Factory, and Data Bricks.Experience with different database platforms and services like SOAP, REST, etc.Strong experience with Oracle, DataStage, and IBM Integration Bus (IIB) for data integration and ETL. Responsibilities:Data architect to provide data intake, data governance, data transformation, data quality, data Lineage, metadata and master data management, data virtualization, data services and consumption. Extensive experience with cloud infrastructure.We are seeking an experienced Data Warehouse Technical Architect who will be responsible for supporting and evolving our existing data warehouse technologies, which include Oracle Datawarehouse, IBM DataStage, and MFT.The ideal candidate will also have deep experience in data management and governance tools like IBM Information Governance Catalog (IGC), Information Knowledge Catalog (IKC), or Collibra, ensuring effective data quality management including data quality, data lineage, metadata and master data management.This role also requires expertise in modern cloud data warehouse technologies such as Azure Synapse Analytics or Snowflake or Google Big Query, Azure Data Lake, and Azure Data Factory with the ability to support existing on-premises systems while also collaborating with Enterprise Architecture to create roadmaps that transition the organization to future data technologies.Provide technical oversight and support for existing data warehouse technologies including Oracle Data warehouse and DataStage.Collaborate with Enterprise Architecture teams to define and implement roadmaps for transitioning to modern cloud-based data warehousing solutions.Design, develop, and maintain data governance and management processes using tools like IGC, IKC, or Collibra.Conduct data capacity planning, life cycle, duration, usage requirements, feasibility studies.Ensure the data infrastructure meets the needs of business operations by ensuring data quality, integrity, and security.Work closely with business analysts, developers, business users, architects, and DBAs to ensure the data warehouse supports business goals.Drive initiatives related to data integration, ETL processes, and data migration strategies.Provide leadership and mentorship to the data warehouse team, ensuring best practices in data architecture and engineering are followed.Monitor performance and manage scaling strategies for existing data warehouse environments.Stay up to date with industry trends and innovations in data warehouse and data management technologies, recommending improvements as necessary.",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:35:44-05:00",
+        "unique_id": "192b9f2d1681f292",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

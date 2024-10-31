@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Capgemini",
+        "job_title": "Airflow-Snowflake Data Engineer",
+        "location": "Orlando, FL, USA",
+        "full_location": {
+            "city": "Orlando",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS data engineering",
+                "Snowflake",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "AWS services (S3, Managed Airflow, Glue, Lambda, Redshift, IAM)",
+                "data pipeline solution design",
+                "data governance",
+                "data security",
+                "data warehousing concepts"
+            ],
+            "secondary": [
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "communication skills"
+            ],
+            "all": [
+                "AWS data engineering",
+                "Snowflake",
+                "Python",
+                "SQL",
+                "AWS services (S3, Managed Airflow, Glue, Lambda, Redshift, IAM)",
+                "data pipeline solution design",
+                "data governance",
+                "data security",
+                "data warehousing concepts",
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Santhoshi",
+        "email": "santhoshi@hanstaffing.com",
+        "jd": "From: Santhoshi, HAN IT Staffing santhoshi@hanstaffing.com Reply to: santhoshi@hanstaffing.com Role : Airflow-Snowflake Data Engineer - Onsite(Need Local)Location: ORLANDO, FLClient : CapgeminiJob Description :12+ years overall IT experience1. 6+ years of experience in AWS data engineering and very strong in data pipeline solution design..2. Extensive experience with AWS services such as S3, Managed Airflow (MWAA), Glue, Lambda, Redshift and IAM.3. 3+ years of proven experience with Snowflake, including database design, data loading, and query optimization.4. Strong proficiency in Python for data manipulation, ETL processes, and automation.5. Proficient in SQL and experience with data warehousing concepts.6. Knowledge of data governance and best practices in data security and privacy.7. Provide technical leadership and guidance to the data engineering team.8. Proven track record of designing and implementing data solutions at scale.9. Familiarity with big data technologies such as Hadoop, Spark, or Kafka.10. Strong communication skills, both written and verbal, with the ability to explain technical concepts.",
+        "source": "Email",
+        "date_posted": "2024-10-14 07:45:12-05:00",
+        "unique_id": "1928b304a0326ef1",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

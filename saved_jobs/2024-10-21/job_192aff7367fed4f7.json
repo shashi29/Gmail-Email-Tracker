@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "AIML Algorithm Senior",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AI",
+                "machine learning",
+                "natural language processing",
+                "cloud platforms"
+            ],
+            "primary": [
+                "Generative AI",
+                "LLMs",
+                "MLOps",
+                "sentiment analysis",
+                "text generation"
+            ],
+            "secondary": [
+                "problem-solving",
+                "communication"
+            ],
+            "all": [
+                "Python",
+                "AI",
+                "machine learning",
+                "natural language processing",
+                "cloud platforms",
+                "Generative AI",
+                "LLMs",
+                "MLOps",
+                "sentiment analysis",
+                "text generation",
+                "problem-solving",
+                "communication"
+            ],
+            "with_experience": [
+                "Python (10+ years)",
+                "AI (10+ years)",
+                "machine learning (10+ years)",
+                "natural language processing (10+ years)",
+                "cloud platforms (10+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ramakrishnan",
+        "email": "ramakrishnan@vysystems.com",
+        "jd": "From: Ramakrishnan, Vysystems ramakrishnan@vysystems.com Reply to: ramakrishnan@vysystems.com Key Responsibilities:Design a scalable, secure, and efficient internal assistant solution using cutting-edge AI and natural language processing technologiesDevelop proof-of-concepts and prototypes to validate architectural decisionsLead the integration of the chatbot with internal systems, databases, and APIsCollaborate with cross-functional teams to gather requirements and ensure alignment with business objectivesImplement best practices for AI model deployment, monitoring, and continuous improvementProvide technical leadership and mentorship to the development teamStay up-to-date with the latest advancements in AI, GenAI, and LLMs, incorporating innovative features into the chatbot architectureRequired Qualifications:10+ years of experience in software development, with a focus on AI and machine learningProven experience architecting and implementing internal-facing AI chatbot solutions similar to Glean or RogoStrong hands-on experience with Python, LLMs, and Generative AI technologiesDeep understanding of natural language processing, sentiment analysis, and text generation techniquesExpertise in cloud platforms (AWS, Azure, or GCP) for AI model deployment and scalingExperience with MLOps practices and tools for model lifecycle managementStrong problem-solving skills and ability to translate complex business requirements into technical solutionsExcellent communication skills to explain technical concepts to both technical and non-technical stakeholders",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:06:08-05:00",
+        "unique_id": "192aff7367fed4f7",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

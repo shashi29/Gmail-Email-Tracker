@@ -1,0 +1,72 @@
+[
+    {
+        "company": "NorthITE",
+        "job_title": "React Developer with Java",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6 to 9 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "4 Months C2H",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "React",
+                "Java"
+            ],
+            "primary": [
+                "TypeScript",
+                "jQuery",
+                "Redux",
+                "NodeJS",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Git",
+                "Jest",
+                "SCSS"
+            ],
+            "secondary": [],
+            "all": [
+                "React",
+                "Java",
+                "TypeScript",
+                "jQuery",
+                "Redux",
+                "NodeJS",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Git",
+                "Jest",
+                "SCSS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Criz Salvin",
+        "email": "criz@northite.com",
+        "jd": "From: Criz Salvin, NorthITE criz@northite.com Reply to: criz@northite.com Title: React Developer with JavaLocations: St.Louis, MO \u2013 HybridDuration: 4Months C2H Job Description:Experience: 6 to 9 years in software development.Core React Proficiency: Strong understanding of the core React language and related libraries.Asynchronous Programming: Knowledge of asynchronous programming techniques.React Technologies: Familiarity with ReactJS, TypeScript, jQuery, Redux, and NodeJS.Version Control: Experience using version control systems such as Git.Web Technologies: Strong experience with JavaScript, HTML, and CSS.Testing: Familiarity with Jest for unit testing and SCSS preprocessor.Java: Proficient in Java development.B2B \u2013 Software",
+        "source": "Email",
+        "date_posted": "2024-10-10 15:00:05-05:00",
+        "unique_id": "1927825254fdf3d9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

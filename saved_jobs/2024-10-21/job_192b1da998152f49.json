@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Tanisha Systems",
+        "job_title": "Java Full Stack Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "ReactJS",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [
+                "Kotlin",
+                "Hibernate",
+                "JPA",
+                "GitHub",
+                "CI/CD",
+                "Maven",
+                "Gradle",
+                "Spring Cloud Config"
+            ],
+            "secondary": [
+                "Object Oriented Programming",
+                "Debugging",
+                "Communication",
+                "Collaboration",
+                "Attention to detail"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "ReactJS",
+                "Spring Boot",
+                "Microservices",
+                "Kotlin",
+                "Hibernate",
+                "JPA",
+                "GitHub",
+                "CI/CD",
+                "Maven",
+                "Gradle",
+                "Spring Cloud Config",
+                "Object Oriented Programming",
+                "Debugging",
+                "Communication",
+                "Collaboration",
+                "Attention to detail"
+            ],
+            "with_experience": [
+                "Java (10+ years)",
+                "Spring Framework (10+ years)",
+                "ReactJS (10+ years)",
+                "Spring Boot (10+ years)",
+                "Microservices (10+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek Yadav",
+        "email": "abhishek.yadav@tanishasystems.com",
+        "jd": "Hello , This is Abhishek Yadav from Tanisha Systems . I am hiring for below urgent role in Columbus , OH. Title : : Java Full Stack DeveloperLocation : Columbus , OHType-: Contract Exp. 10+ Years Job descriptionKey Responsibilities:Design and develop microservices using Spring Cloud.Implement SPA based UI applications using ReactJS/AngularKotlin development experience to work on compose multi-platformDeploy and manage applications on Private or Public Cloud (MS Azure preferred)Collaborate with cross-functional teams to define, design, and ship new features.Identify and correct bottlenecks and fix bugs.Help maintain code quality, organization, and automatization.Understands Object Oriented Programming and design and building modular, unit testable code. Requirements:Bachelor\u2019s degree in computer science, Engineering, or related field.Proven experience as a Full stack Developer.Strong proficiency in Java and Spring Framework (Spring Boot, Spring Cloud).Strong work experience in development of UI applications using ReactJS.Hands-on experience with Spring Boot Microservices development.Proven experience with Spark.Extensive experience with Hibernate, JPA, logging, cache libraries.Familiarity with GitHub, Git-Action with CI/CD pipelines and tools like Maven/Gradle.Understanding of distributed systems and microservices architecture.Experience with configuration management tools such as Spring Cloud Config.Strong troubleshooting/debugging skills and ability to work independently with minimal instructionExcellent written and verbal communication skills and high attention to detail.Demonstrated track record of working well with others in cross-functional roles in fast-paced and changing environments, including asynchronously with distributed teams.",
+        "source": "Email",
+        "date_posted": "2024-10-21 17:09:55-05:00",
+        "unique_id": "192b1da998152f49",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

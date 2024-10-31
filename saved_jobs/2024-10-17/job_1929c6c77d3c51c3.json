@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Tanisha Systems Inc",
+        "job_title": "Java Spark Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java Spark",
+                "Snowflake",
+                "AWS"
+            ],
+            "primary": [
+                "Apache Spark",
+                "ETL",
+                "SQL",
+                "NoSQL",
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ],
+            "secondary": [],
+            "all": [
+                "Java Spark",
+                "Snowflake",
+                "AWS",
+                "Apache Spark",
+                "ETL",
+                "SQL",
+                "NoSQL",
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Akshat Kumar",
+        "email": "akshat@tanishasystems.com",
+        "jd": "Greetings..!! My name is Akshat, and I am a Technical Recruiter at Tanisha Systems Inc. Tanisha Systems Inc is a global contingency staffing firm servicing. We have an excellent job opportunity with one of our clients. Role: Java Spark DeveloperLocation: Plano, Tx, Wilmington, DE \u2013 Only Local \u20133 Day onsite per weekExperience: 9+YearsType: ContractJob Description:Must Have skill : Java Spark, Snowflake and AWSDesign, develop, and maintain scalable data pipelines using Apache Spark and Java.Implement data processing workflows and ETL processes to ingest, transform, and store large volumes of data.Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and deliver high-quality data solutions.Optimize and tune data processing jobs for performance and cost-efficiency.Ensure data quality, integrity, and security across all data pipelines and storage solutions.Develop and maintain data models, schemas, and documentation.Monitor and troubleshoot data pipeline issues, ensuring high availability and reliability.Hands-on experience with AWS services, including S3, EMR, Lambda, and Glue. SnowflakeExperience with SQL and NoSQL databases.CICD/ Jules /Spinnaker",
+        "source": "Email",
+        "date_posted": "2024-10-17 16:04:37-05:00",
+        "unique_id": "1929c6c77d3c51c3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

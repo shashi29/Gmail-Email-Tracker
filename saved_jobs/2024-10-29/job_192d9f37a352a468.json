@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Sitecore Developer W2",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Sitecore",
+                "C#",
+                ".NET",
+                "MVC",
+                "JavaScript"
+            ],
+            "primary": [
+                "HTML5",
+                "CSS",
+                "React",
+                "Angular",
+                "Vue"
+            ],
+            "secondary": [
+                "Azure PaaS",
+                "SOLR",
+                "Azure DevOps",
+                "CI/CD",
+                "A/B testing"
+            ],
+            "all": [
+                "Sitecore",
+                "C#",
+                ".NET",
+                "MVC",
+                "JavaScript",
+                "HTML5",
+                "CSS",
+                "React",
+                "Angular",
+                "Vue",
+                "Azure PaaS",
+                "SOLR",
+                "Azure DevOps",
+                "CI/CD",
+                "A/B testing"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rohit Kumar Bid",
+        "email": "rbid@vyzeinc.com",
+        "jd": "From: Rohit Kumar Bid, Vyze Inc rbid@vyzeinc.com Reply to: rbid@vyzeinc.com Job Title: Sitecore Developer W2 Location: New York, NY Need Local Duration: 12+ Months Visa: USC/GC Client: Confidential Top Skills Sitecore C# .NET Certs MVC JavaScript Key aspects of the role: Sitecore development in C# Day-to-day Expectations: system development, enhancements, maintenance Responsibilities Contribute as a squad member to design and implement products throughout the PDLC including coding, testing, and documentation independently Working with Product Owner and Scrum Master in an Agile environment to improve velocity on a product delivery Collaborates with product owners and development team members to implement front-end POCs from concept to product delivery Work as cross-functional team player to augment the squad needs as needed Contribute to the community of practice and proactively share knowledge with squad members Qualifications Extensive experience in the Sitecore technical development / implementation of Sitecore Experience platform 9.x/10.x (Azure PaaS must have) and deep familiarity with Sitecore modules/products ecosystem Strong experience in core Sitecore server-side development experience with proficiency in Sitecore site design/layouts, Sitecore MVC, API development, C# language, and net technologies Proven ability of development experience in front-end web development HTML5, CSS, JavaScript; and moderate development experience in using modern UI frameworks React/Angular/Vue Deep hands-on experience implementing best practices in content publishing, workflow, custom fields, template design, RSS feed, and media library items; and integrating with modern website analytics tools Strong experience in analyzing and resolving performance issues with Sitecore CMS and search technologies such as SOLR, Azure search, including caching strategies Hands-on automation experience in the deployment solutions such as Azure DevOps or equivalent CI/CD tool; and orchestrate automation across various environment Experience in writing technical/enablement user stories, documenting technical specifications and platform-specific component diagrams Experience with quality assurance process for testing CMS applications including functional, non-functional and A/B testing Ability to work on multiple tasks, perform in-depth configuration/code reviews and ensure design and coding are adhering to security and architectural standards An agile mindset to collaborate with the product owner, technical platform owner, and squad members throughout the product development life cycle to deliver product features rapidly Sitecore advanced solution/developer certification 8+ years of Sitecore Development Experience",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:49:28-05:00",
+        "unique_id": "192d9f37a352a468",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

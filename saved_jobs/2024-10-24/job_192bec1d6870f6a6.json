@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Netonics inc",
+        "job_title": "Java fullstack developer",
+        "location": "Texas, USA",
+        "full_location": {
+            "city": "Texas",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Cassandra",
+                "Oracle SQL",
+                "Kafka",
+                "Vue.js",
+                "Freemarker Web Components"
+            ],
+            "primary": [
+                "Software architecture",
+                "Design patterns",
+                "Microservices architecture",
+                "Cloud platforms (e.g., AWS, Azure)"
+            ],
+            "secondary": [
+                "Leadership",
+                "Communication skills",
+                "Problem-solving",
+                "Attention to detail"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Cassandra",
+                "Oracle SQL",
+                "Kafka",
+                "Vue.js",
+                "Freemarker Web Components",
+                "Software architecture",
+                "Design patterns",
+                "Microservices architecture",
+                "Cloud platforms (e.g., AWS, Azure)",
+                "Leadership",
+                "Communication skills",
+                "Problem-solving",
+                "Attention to detail"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Atiya",
+        "email": "atiya.s@netonicsinc.com",
+        "jd": "From: Atiya, Netonics inc atiya.s@netonicsinc.com Reply to: atiya.s@netonicsinc.com Role: Java fullstack developerLocation: Texas, Georgia and New YorkNEED LOCAL ONLY WITH DL COPYExp: 10+ years Bachelor's degree in Computer Science, Engineering, or related field.Proven experience as a Full Stack Developer, with at least 10+ years of experience in a leadership or senior technical role.Strong proficiency in backend development using Java, Spring Boot, Cassandra, Oracle SQL, and Kafka.Solid understanding of frontend technologies including Vue.js and Freemarker Web Components.Experience with software architecture and design patterns, microservices architecture, and cloud platforms (e.g., AWS, Azure).Excellent leadership and communication skills, with the ability to effectively communicate technical concepts to non-technical stakeholders.Strong problem-solving abilities and attention to detail, with a focus on delivering high-quality solutions on time and within budget",
+        "source": "Email",
+        "date_posted": "2024-10-24 08:05:15-05:00",
+        "unique_id": "192bec1d6870f6a6",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

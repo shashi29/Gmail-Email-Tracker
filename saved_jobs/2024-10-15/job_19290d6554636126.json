@@ -1,0 +1,95 @@
+[
+    {
+        "company": "sibitalent.com",
+        "job_title": "Lead Java Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, MIS or a related field or equivalent work experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "PostgreSQL",
+                "Kafka",
+                "REST API"
+            ],
+            "primary": [
+                "API gateway",
+                "OpenShift",
+                "Cloud experience",
+                "DevOps",
+                "Agile methodology"
+            ],
+            "secondary": [
+                "CICD",
+                "Eclipse",
+                "Maven",
+                "Gradle",
+                "JSON",
+                "SOAP",
+                "Chef",
+                "Puppet",
+                "Git",
+                "Jenkins",
+                "JUnit",
+                "Mongo",
+                "Dynamo"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "PostgreSQL",
+                "Kafka",
+                "REST API",
+                "API gateway",
+                "OpenShift",
+                "Cloud experience",
+                "DevOps",
+                "Agile methodology",
+                "CICD",
+                "Eclipse",
+                "Maven",
+                "Gradle",
+                "JSON",
+                "SOAP",
+                "Chef",
+                "Puppet",
+                "Git",
+                "Jenkins",
+                "JUnit",
+                "Mongo",
+                "Dynamo"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Gaurav Nain",
+        "email": "g.nain@sibitalent.com",
+        "jd": "From: Gaurav Nain, sibitalent.com g.nain@sibitalent.com Reply to: g.nain@sibitalent.com Job Title Lead Java Developer Location Columbus, Ohio Job Description Job Title:- Lead Java DeveloperVisa :: USC/GC/GC EAD Location :: Columbus, Ohio (Hybrid)Duration :: 6 months Experience :: 6+ years Must Have:JavaSpringbootPostgre SQL or SQLKafkaRest API devAPI gatewayopenshiftAny cloud experienceSomeone who can talk with other cross functional teams, gather information and kick of project immediately.Ledger exp huge plusJOB DESCRIPTIONWe are looking for high capacity individuals that will work under the guidance of our dev manager in order to assist us in creating best in class Enterprise APIs and the necessary Production Infrastructure to successfully provide performance, scale and reliability. These individuals might find themselves assisting in the following activities on a daily basis:Developing modern REST API\u2019s using Java Spring Boot, CICD, Cloud enabled services (Container, both on prem and in the cloud)Assist with system design / Business Analysis (server layout, availability, disaster recovery planning, production deployments etc.)Assist with software / Data design (Database Schema, Storage considerations, Data Mapping, Data Storage Efficiency, NOSQL Data Considerations, RDMS to NOSQL considerations, Flat file to NOSQL considerations and design related matters, API design including call signature, schema, business logic, data access, resilience, logging, supportability etc.)Assist with software delivery (Hands on \u2013 typically, but also in an advisory or architectural role in order to Create server architecture, Create table layouts, Create highly available data resources, Create highly recoverable data resources, Configure highly performant data sources)Work on Kafka \u2013 specifically with analyzing proper use cases, detailed Kafka environment setup considerations, enrichment and transformations.We are looking for innovative, hands-on engineers who are excited about the newest technologies and are committed to embracing the future of software engineering. Responsibilities include implementing API layers and integrating that work into our continuous delivery, continuous integration pipelineResponsibilities include:Collaborate with other engineers and architects to create a common API layer between a variety of different data sources and applications via an agile product model working in 2 week sprints.Develop software in an agile environment leveraging DevOps for environment setup, automated builds, continuous deployment, continuous integration and automated testing.Play a key role implementing enterprise services and APIs under the guidance of the architectural team and engineering leadership.Deliver rapid, scalable, and quality solutions that meet the business needs. Develop and implement unit test code and automated test scripts as a routine part of development activities.Work closely with other engineers, vendor partners and business owners to ensure that the finished solution meets the needs of the business and our customers.Follow industry standard agile software design methodologies. Embrace new technologies and methods Introduce.Maintain and evolve existing integration assets and systems.Introduce and evolve existing processes and methods required for maturing Huntington\u2019s integration development, implementation and operation of our key platforms.Minimum Qualifications:Required:Bachelor\u2019s degree in Computer Science, MIS or a related field or equivalent work experienceWork Experience/Skills:Required:6+ years of experience in software development including creating and maintaining application interfaces between various data sources and applications.1+ years of experience with DevOps.Strong Java development experience including experience with the Spring Framework, Eclipse, Maven and Gradle.Strong experience developing application interfaces (API) with Java or similar object oriented languages.Experience using any of the relational and non-relational databasesStrong experience with an agile framework/methodology.Adept in building team relationships and partnering across organizational lines.Excellent collaboration skills, a positive attitude, high energy, strong interpersonal skills, and highly motivated.Expert in conceptual and analytical skills, demonstrating out-of-the-box problem solving skills.Able to see and articulate patterns and relationships between technologies, processes, business models and people.Self-starter with the ability to appropriately prioritize and plan complex tasks in rapidly changing environment.Thrives in a dynamic work environment, does whatever it takes to delivery successfully, exhibits flexibility, and is recognized as being a strong team player.Preferred:Experience with Any Ledgering solutionsExperience with REST, JSON, or SOAP web interfaces.Experience with Continuous Integration, Continuous Deployment (CICD) methodologies.Experience with Chef, Puppet or other similar deployment automation products.Experience with Git source control management and web interfaces such as GitHub.Experience with Jenkins build management systems and automated testing frameworks such as Junit.Experience with KafkaExperience with any of the cloud technologiesExperience with any RDBMS and non-relational databases like Mongo/Dynamo.",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:04:01-05:00",
+        "unique_id": "19290d6554636126",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

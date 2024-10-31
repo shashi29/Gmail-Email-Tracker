@@ -1,0 +1,73 @@
+[
+    {
+        "company": "StellentitLLC",
+        "job_title": "AWS Migration Infrastructure Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Step Functions",
+                "AWS Batch",
+                "Terraform IaC",
+                "PowerShell",
+                "SQL"
+            ],
+            "primary": [
+                "Cloud migration projects",
+                "Azure",
+                "GitHub",
+                "GitHub Actions",
+                "CI/CD"
+            ],
+            "secondary": [
+                "AWS certifications",
+                "AWS Certified Solutions Architect",
+                "AWS Certified DevOps Engineer"
+            ],
+            "all": [
+                "AWS Step Functions",
+                "AWS Batch",
+                "Terraform IaC",
+                "PowerShell",
+                "SQL",
+                "Cloud migration projects",
+                "Azure",
+                "GitHub",
+                "GitHub Actions",
+                "CI/CD",
+                "AWS certifications",
+                "AWS Certified Solutions Architect",
+                "AWS Certified DevOps Engineer"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ashish",
+        "email": "ashish@stellentit.com",
+        "jd": "From: Ashish, StellentitLLC ashish@stellentit.com Reply to: ashish@stellentit.com AWS Migration Infrastructure Engineer100% RemotePhone+Skype6+MonthsJD:Role snapshot:Responsibilities:Migrate and test migrating significant Control-M jobs (PowerShell, OS procedures, and SQL scripts for Oracle and other databases) from Azure and AWS EC2 to AWS Step Functions, AWS Batch and LambdaProvision AWS infrastructure using Terraform IaC and CI/CD pipelines.Develop observability capability for execution monitoring.Collaborate with cross-functional teams to ensure seamless migration and zero-downtime deployment.Troubleshoot and resolve migration-related issues.Document migration processes and best practices.Requirements:Proven experience in cloud migration projects, specifically Step Functions, Batch, & Systems Manager for AWS.Strong knowledge in Azure and AWS.Proficiency in Terraform IaC, GitHub platform for source code management and git branching patternExperience in GitHub Actions for CICD.Experience in PowerShell, SQL, etc based scheduled / cron jobs.Preferred Qualifications:AWS certifications (e.g., AWS Certified Solutions Architect, AWS Certified DevOps Engineer)",
+        "source": "Email",
+        "date_posted": "2024-10-11 11:33:44-05:00",
+        "unique_id": "1927c8e8de5018c4",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "company": "iTech US, Inc.",
+        "job_title": "Snowflake Developer with Databricks",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract Role",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Snowflake",
+                "Scala",
+                "Data Engineering",
+                "Data Warehousing"
+            ],
+            "primary": [
+                "ETL Concepts",
+                "Data Lake",
+                "Delta Tables",
+                "SQL Server",
+                "Oracle",
+                "Big Data",
+                "Hadoop",
+                "Spark SQL"
+            ],
+            "secondary": [
+                "TSQL",
+                "PLSQL",
+                "Communication Skills",
+                "Delta Lakehouses",
+                "Medallion Architecture"
+            ],
+            "all": [
+                "Databricks",
+                "Snowflake",
+                "Scala",
+                "Data Engineering",
+                "Data Warehousing",
+                "ETL Concepts",
+                "Data Lake",
+                "Delta Tables",
+                "SQL Server",
+                "Oracle",
+                "Big Data",
+                "Hadoop",
+                "Spark SQL",
+                "TSQL",
+                "PLSQL",
+                "Communication Skills",
+                "Delta Lakehouses",
+                "Medallion Architecture"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sowmyasri Sistla",
+        "email": "sowmya.s@itechus.net",
+        "jd": "From: Sowmyasri, ITECH sowmya.s@itechus.net Reply to: sowmya.s@itechus.net Hi,Greetings from iTech US, Please go through the below requirement and let me know your interest. Position:: Snowflake Developer with DatabricksLocation:: Quincy, MA:: Onsite Role ::Duration:: Contract Role Role Description: Senior/Lead developer position who has extensive experience with development/design in Azure Databricks (language :Scala) experience. The candidate should have strong experience in either Databricks or Snowflake however Databricks knowledge is must The candidate should have extensive experience in the data engineering The candidate should have good experience in Scala programming language for data bricks development(He should have done the end-to-end data ingestion and data transformation in Databricks/snowflake). Candidate should have strong experience in the Data warehousing (ETL Concepts, Types of SCD)Candidate should have very good experience in the data lake and delta tables concepts. Candidate should have experience in databases like SQL server/Oracle If Candidate have bigdata Hadoop experience will be added advantage. Willing to work out of Quincy, MAPrior experience with migrations from SQLSERVER/ORACLE to Databricks Familiarity with multiple source systems database Need strong experience in Data ingestion and Data transformation in azure DatabricksExpecting very good knowledge in data warehousing concepts in Azure DatabricksCapability to migrate data from multiple data source to data bricks.Strong coding knowledge in scala languageShould have a experience in Spark SQLAny other etl experience is preferableTSQL /PLSQL Experience writing functions complex queriesStrong communication skills,Strong experience with implementing delta lakehouses on Azure Databricks using medallion architecture (Bronze, Silver, Gold) Please share your updated resume along with current location details: Thanks,Sowmyasri SistlaEmail : sowmya.s@itechus.netiTech US, Inc. https://www.linkedin.com/in/sri-s-8795a9168/",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:30:39-05:00",
+        "unique_id": "192bafccc91dac9d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

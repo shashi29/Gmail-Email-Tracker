@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Cloudingest",
+        "job_title": "Site Reliability Engineer and Capacity Planning",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud services",
+                "Automation tools",
+                "Scripting skills",
+                "Monitoring tools"
+            ],
+            "primary": [
+                "Google BI and AI/ML tools",
+                "CI/CD pipelines",
+                "Networking concepts and protocols"
+            ],
+            "secondary": [
+                "Terraform",
+                "Ansible",
+                "Puppet",
+                "Azure pipelines",
+                "Jenkins",
+                "GitLab CI",
+                "Prometheus",
+                "Grafana"
+            ],
+            "all": [
+                "Google Cloud services",
+                "Automation tools",
+                "Scripting skills",
+                "Monitoring tools",
+                "Google BI and AI/ML tools",
+                "CI/CD pipelines",
+                "Networking concepts and protocols",
+                "Terraform",
+                "Ansible",
+                "Puppet",
+                "Azure pipelines",
+                "Jenkins",
+                "GitLab CI",
+                "Prometheus",
+                "Grafana"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manohar",
+        "email": "manohar@cloudingest.com",
+        "jd": "Job Description: Site Reliability Engineer and Capacity Planning\n\nWe are looking for a talented Site Reliability Engineer (SRE) with a strong background in Google Cloud Platform (GCP), and RedHat OpenShift administration. The ideal candidate will be responsible for ensuring the reliability, performance, and scalability of our on-premise and cloud-based systems along with focus on reducing costs for Google Cloud.\n\nSystem Reliability: Ensure the reliability and uptime of critical services and infrastructure.\n\nGoogle Cloud Expertise: Design, implement, and manage cloud infrastructure using Google Cloud services.\n\nAutomation: Develop and maintain automation scripts and tools to improve system efficiency and reduce manual intervention.\n\nMonitoring and Incident Response: Implement monitoring solutions and respond to incidents to minimize downtime and ensure quick recovery.\n\nCollaboration: Work closely with development and operations teams to improve system reliability and performance.\n\nCapacity Planning: Conduct capacity planning and performance tuning to ensure systems can handle future growth.\n\nDocumentation: Create and maintain comprehensive documentation for system configurations, processes, and procedures.\n\nQualifications:\n\nEducation: Bachelor\u2019s degree in computer science, Engineering, or a related field.\n\nExperience: 3+ years of experience in site reliability engineering or a similar role.\n\nSkills:\nProficiency in Google Cloud services (Compute Engine, Kubernetes Engine, Cloud Storage, BigQuery, Pub/Sub, etc.).\nFamiliarity with Google BI and AI/ML tools (Looker, BigQuery ML, Vertex AI, etc.)\nExperience with automation tools (Terraform, Ansible, Puppet).\nFamiliarity with CI/CD pipelines and tools (Azure pipelines Jenkins, GitLab CI, etc.).\nStrong scripting skills (Python, Bash, etc.).\nKnowledge of networking concepts and protocols.\nExperience with monitoring tools (Prometheus, Grafana, etc.).\n\nPreferred Certifications:\nGoogle Cloud Professional DevOps Engineer\nGoogle Cloud Professional Cloud Architect\nRed Hat Certified Engineer (RHCE) or similar Linux certification",
+        "source": "Email",
+        "date_posted": "2024-10-30 16:26:55-05:00",
+        "unique_id": "192e24801ef14333",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

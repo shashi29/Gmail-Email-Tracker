@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Spar",
+        "job_title": "Senior Full Stack Developer with Angular",
+        "location": "Mason, OH, USA",
+        "full_location": {
+            "city": "Mason",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular UI",
+                "Java",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "User Interface Development",
+                "Collaboration with UX/UI Designers",
+                "Writing Clean Code"
+            ],
+            "secondary": [
+                "Keeping up with Angular updates",
+                "Best Practices"
+            ],
+            "all": [
+                "Angular UI",
+                "Java",
+                "RESTful APIs",
+                "User Interface Development",
+                "Collaboration with UX/UI Designers",
+                "Writing Clean Code",
+                "Keeping up with Angular updates",
+                "Best Practices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mohit",
+        "email": "mohit.n@sparinfosys.com",
+        "jd": "Hello;Role - Senior Angular UI with backend DeveloperOnsite requirement \u2013 Mason, OhioLong Term Skills Required:\u2022 Angular UI \u2013 more than 5 years\u2019 experience with Java Background\u2022 Develop user interfaces using the Angular framework\u2022 Collaborate with UX/UI designers to translate designs into web elements\u2022 Work closely with backend developers to integrate RESTful APIs\u2022 Write reusable, efficient, and clean code\u2022 Keep up with Angular updates, best practices, and relevant technol",
+        "source": "Email",
+        "date_posted": "2024-10-15 14:35:18-05:00",
+        "unique_id": "19291ce0ef09dddb",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

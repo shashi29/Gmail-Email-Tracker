@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Blue Ocean Ventures",
+        "job_title": "Kafka Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Over 10 yrs experience",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Kafka Development",
+                "Kafka API",
+                "Kafka Streams",
+                "Kafka Connect",
+                "Kafka schema",
+                "Java"
+            ],
+            "primary": [
+                "distributed systems",
+                "data pipelines",
+                "custom connectors",
+                "Kafka core concepts",
+                "Kafka schema versioning",
+                "data integration",
+                "event streaming",
+                "microservices",
+                "enterprise integration patterns",
+                "Agile methodologies",
+                "on-premises deployments"
+            ],
+            "secondary": [],
+            "all": [
+                "Kafka Development",
+                "Kafka API",
+                "Kafka Streams",
+                "Kafka Connect",
+                "Kafka schema",
+                "Java",
+                "distributed systems",
+                "data pipelines",
+                "custom connectors",
+                "Kafka core concepts",
+                "Kafka schema versioning",
+                "data integration",
+                "event streaming",
+                "microservices",
+                "enterprise integration patterns",
+                "Agile methodologies",
+                "on-premises deployments"
+            ],
+            "with_experience": [
+                "Kafka Development",
+                "Kafka API",
+                "Kafka Streams",
+                "Kafka Connect",
+                "Kafka schema",
+                "Java"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rakesh",
+        "email": "rakesh.d@blue-oceanventures.com",
+        "jd": "From: Rakesh, Blue Ocean Ventures rakesh.d@blue-oceanventures.com Reply to: rakesh.d@blue-oceanventures.com Hi,Kafka DeveloperRemoteSkills: Kafka Development, Kafka API, Kafka Streams, Kafka Connect, Kafka schema, Java Over 10 yrs experience in Apache & Confluent Kafka development. Proficiency in Kafka API, experience with Kafka Streams and Kafka Connect.Knowledge of distributed systems, and the ability to design and optimize data pipelines.Experience on custom connectors using the Kafka core concepts and API. Experience in Kafka schema versioning and validation.Proficiency and expertise in Java programming language. Experience with data integration and event streaming. Experience in microservices and enterprise integration patterns. Experience in Agile methodologies.Experience with on-premises deployments.",
+        "source": "Email",
+        "date_posted": "2024-10-29 12:24:01-05:00",
+        "unique_id": "192d9c583f1445f7",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

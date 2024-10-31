@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Tek Pyramids",
+        "job_title": "SQL DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Bachelor's Degree in Business Administration, Computer Science, Mathematics, Engineering or related field with programming and database systems coursework or equivalent database administration experience.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "3-6 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Database Administration",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "SQL Server 2016",
+                "Database Services"
+            ],
+            "primary": [
+                "Reporting services",
+                "Integration Services",
+                "Database partitioning",
+                "Database mirroring",
+                "Windows server",
+                "Active Directory integration",
+                "Software Development Life Cycle",
+                "Visual Studio 2017"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL Database Administration",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "SQL Server 2016",
+                "Database Services",
+                "Reporting services",
+                "Integration Services",
+                "Database partitioning",
+                "Database mirroring",
+                "Windows server",
+                "Active Directory integration",
+                "Software Development Life Cycle",
+                "Visual Studio 2017"
+            ],
+            "with_experience": [
+                "SQL Database Administration (4+ years)",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "SQL Server 2016",
+                "Database Services"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kaveri",
+        "email": "kaveri@tekpyramids.com",
+        "jd": "From: Kaveri, Tek Pyramids kaveri@tekpyramids.com Reply to: kaveri@tekpyramids.com SQL DBA100% Remote - Must support AZ business hoursVideo Interview3-6 months contractVisa: USC Note: MUST be able to go through an FBI background checkMUST be able to provide photos of their workstation once offered the positionSkills: 4+ years as a SQL Database Administrator with progressively higher-level experience leading to a Senior Database Administrator role or equivalent.Experience implementing and managing High Availability (HA) and Disaster Recovery (DR) for SQL Server.Experience in implementing SQL 2016 Availability Groups.Experience with all facets of the SQL Server Services group: Database Services, Reporting services, Integration Services.Experience with SQL Server 2016, through current versions.Experience with database partitioning and mirroring.Experience working with Windows server, including Active Directory integration for SQL Server.Experience following the Software Development Life Cycle.Knowledge of Visual Studio 2017 through current versions and the use of code management and promotion methodologies for T-SQL and SSIS base solutions.Bachelor's Degree in Business Administration, Computer Science, Mathematics, Engineering or related field with programming and database systems coursework or equivalent database administration experience.",
+        "source": "Email",
+        "date_posted": "2024-10-21 14:17:57-05:00",
+        "unique_id": "192b10c373930d2b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

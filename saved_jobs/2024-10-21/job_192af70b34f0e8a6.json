@@ -1,0 +1,83 @@
+[
+    {
+        "company": "GVR Infotek",
+        "job_title": "Senior Java Developer",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "RESTful API design",
+                "Apache Kafka",
+                "Splunk",
+                "Azure"
+            ],
+            "primary": [
+                "SQL",
+                "NoSQL databases",
+                "CI/CD processes",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Relevant certifications",
+                "Microservices architecture",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills"
+            ],
+            "all": [
+                "Java",
+                "RESTful API design",
+                "Apache Kafka",
+                "Splunk",
+                "Azure",
+                "SQL",
+                "NoSQL databases",
+                "CI/CD processes",
+                "Agile methodologies",
+                "Relevant certifications",
+                "Microservices architecture",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills"
+            ],
+            "with_experience": [
+                "Java (8+ years)",
+                "RESTful API design",
+                "Apache Kafka",
+                "Splunk",
+                "Azure"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vikash Kumar",
+        "email": "vikash.kumar@gvrinfotek.com",
+        "jd": "From: vikash kumar, gvr infotek vikash.kumar@gvrinfotek.com Reply to: vikash.kumar@gvrinfotek.com Role: Senior Java DeveloperLocation: Minneapolis, MN Need Local Candidates only Onsite HybridLinkedIn id is must (Should not been created recently, at least 6 Years old in case of senior candidates)Job Description:As a Senior Java Developer, you will collaborate with stakeholders across the business to work on complex technical requirements. You will be responsible for managing multiple engagements, prioritize and resolve complex problems and escalate as necessary, in a fast-paced environment.Responsibilities:Design, develop, and maintain scalable Java applications with a focus on performance and reliability.Create and manage RESTful APIs for seamless communication between systems and services.Implement and manage Apache Kafka for real-time data processing and streaming applications.Utilize Splunk for log analysis, monitoring, and creating dashboards to visualize application performance.Deploy and manage applications on Azure, utilizing cloud services such as Azure Functions, Azure Kubernetes Service (AKS), and Azure DevOps.Collaborate with cross-functional teams to gather requirements and provide technical solutions.Participate in code reviews, mentoring junior developers, and promoting best practices in software development.Troubleshoot and resolve application issues in a timely manner.Stay current with emerging technologies and industry trends to enhance development practices.Requirements:You are:Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or a related field.8+ years of professional experience in Java development.Strong experience with RESTful API design and implementation.Hands-on experience with Apache Kafka, including producing and consuming messages.Proficiency in using Splunk for log management and application monitoring.Solid understanding of Azure cloud services and experience in deploying Java applications.Familiarity with SQL and NoSQL databases (e.g., PostgreSQL, MongoDB).Knowledge of CI/CD processes and tools (e.g., Jenkins, Docker).Experience with Agile methodologies and working in a collaborative team environment.It would be great if you also had:Relevant certifications (e.g., Azure Developer Associate, Kafka certifications).Knowledge of micro services architecture and design patterns.Strong analytical and problem-solving skills.Excellent communication and interpersonal skills.",
+        "source": "Email",
+        "date_posted": "2024-10-21 08:39:39-05:00",
+        "unique_id": "192af70b34f0e8a6",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Panzer Solutions LLC",
+        "job_title": ".NET Developer",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "07+ Months Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                ".NET core",
+                "T-SQL",
+                "SQL",
+                "C#"
+            ],
+            "primary": [
+                "Blazor",
+                "ASP.NET",
+                "ASP.NET Core",
+                "Data mapping",
+                "Application architecture"
+            ],
+            "secondary": [
+                "Azure Cloud",
+                "DevOps",
+                "Continuous integration",
+                "Continuous delivery",
+                "Data integration"
+            ],
+            "all": [
+                ".NET",
+                ".NET core",
+                "T-SQL",
+                "SQL",
+                "C#",
+                "Blazor",
+                "ASP.NET",
+                "ASP.NET Core",
+                "Data mapping",
+                "Application architecture",
+                "Azure Cloud",
+                "DevOps",
+                "Continuous integration",
+                "Continuous delivery",
+                "Data integration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arman Malik",
+        "email": "arman.malik@panzersolutions.com",
+        "jd": "Hi,How are you doing?I am Arman Malik, a Certified LinkedIn Recruiter with Panzer Solutions. With many years of experience in the industry, we are well-known for delivering exceptional service to both our clients and candidates, maintaining a strong reputation with zero complaints. If you are interested, please reply to this email with your updated resume and the best number to reach you.Title: .NET DeveloperLocation: Tallahassee, FL 32303 (100% On-Site)Duration: 07+ Months ContractNEED LOCAL to FLRequired Experience 5+ years of experience in .NET/.NET core application development (recent experience preferred),5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.3+ years of experience with application design, including Data mapping.3+ years of experience in application architecture and data integration.3+ years of analyzing and interpreting large datasets, including cleaning, transforming, and visualizing data.3+ years of experience in testing high-volume of complex data integration processes.1+ years of experience using BlazorFamiliarity with system catalog views, and Azure CloudEducation:Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience. Certifications:Microsoft or Other Related Certification (Desired)Responsibilities Collaborate with business analysts, project managers, and stakeholders to understand the functional and non-functional requirements of the application.Translate business requirements into architectural designs that align with business goals.Design the overall system architecture and define how different components of the interact.Design, develop, and implement software applications using the .NET framework and C#.Utilize ASP.NET (or ASP.NET Core) for web application development, including MVC, Web API, andBlazor for client-side and server-side programming.Develop and optimize SQL queries, stored procedures, and functions.Develop user interfaces and ensure the front end is responsive, accessible, and user- friendly.Review code, architecture, and design to ensure they meet the standards.Analyze and optimize the performance of the application.Design strategies for scaling the application efficiently as user demand grows.Ensure the application adheres to security best practices and compliance requirements.Implement DevOps practices such as continuous integration and continuous delivery (CI/CD) via Azure DevOps and GitHub repositories.",
+        "source": "Email",
+        "date_posted": "2024-10-17 22:20:53-05:00",
+        "unique_id": "1929dc4f16f802b6",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

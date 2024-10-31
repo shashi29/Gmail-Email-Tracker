@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Techgene Solutions, LLC",
+        "job_title": ".NET full Stack Developer",
+        "location": "Montvale, NJ, USA",
+        "full_location": {
+            "city": "Montvale",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular 14",
+                "Angular 15",
+                ".NET Core",
+                "SQL",
+                "Entity Framework",
+                "Dapper"
+            ],
+            "primary": [
+                "Azure Cloud",
+                "Agile",
+                "Git"
+            ],
+            "secondary": [
+                "Financial Experience"
+            ],
+            "all": [
+                "Angular 14",
+                "Angular 15",
+                ".NET Core",
+                "SQL",
+                "Entity Framework",
+                "Dapper",
+                "Azure Cloud",
+                "Agile",
+                "Git",
+                "Financial Experience"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Gyan Prakash Rai",
+        "email": "gyanprakash.r@techgene.com",
+        "jd": "Hello Vendors ,I hope this email finds you well.We are currently seeking a .NET Developer for an exciting opportunity in Montvale, NJ . Please review the job details below and let us know if you are interested.Job Title: .NET full Stack DeveloperLocation: Montvale, NJ - This is a hybrid role with work on site 2 days a week at their Montvale office.Looking local to NJ only Visa-USC, GC, GC EAD, L2 EAD,H4 EAD- No H1BLocal candidates required within 60 miles final round will be in-personRequired Skills/Experience: Angular 14 & 15 .NET Core (6.0 or above)SQL experience with respect to app development, Entity Framework or Dapper experienceExperience in Azure Cloud; having any certification (or just AZ-900) is a plus.Experience working in Agile based development.Experience in Git branching/code commit process.Financial Experience is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-21 15:48:05-05:00",
+        "unique_id": "192b11965dae68c8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

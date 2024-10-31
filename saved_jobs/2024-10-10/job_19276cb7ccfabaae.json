@@ -1,0 +1,54 @@
+[
+    {
+        "company": "CAGUS",
+        "job_title": "Data Tech (Blue/Green Deployment)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spark",
+                "Ab Initio",
+                "AWS Blue/Green Deployment"
+            ],
+            "primary": [
+                "Terraform"
+            ],
+            "secondary": [],
+            "all": [
+                "Spark",
+                "Ab Initio",
+                "AWS Blue/Green Deployment",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Fizal",
+        "email": "fizal.a@cagus.com",
+        "jd": "From: Fizal, CAGUS fizal.a@cagus.com Reply to: fizal.a@cagus.com Role: Data Tech (Blue/Green Deployment)Location: TX,NY,NJ,DE and OH (any of this Location) Skills : Spark & Ab Initio (AWS Blue/Green Deployment) Job Description:Develop/upgrade spark Infrastructure scripts (EAC) for blue/green deployment on AWS Dev environment.Develop/Upgrade Jules pipeline to deploy Spark job.Execute jules pipeline and deploy spark job to AWS Dev environment.Execute BLUE / GREEN deployment pipeline using Jules for Spark job.Develop/upgrade AbInitio Infrastructure scripts (EAC) on AWS Dev environment for blue / green deployment.Develop/Upgrade Jules pipeline to deploy AbInitio scripts.Execute jules pipeline and deploy AbInitio scripts to AWS Dev environment.Execute BLUE / GREEN deployment pipeline using for AbInitio scripts.Nice to have Terraform.",
+        "source": "Email",
+        "date_posted": "2024-10-10 08:10:15-05:00",
+        "unique_id": "19276cb7ccfabaae",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

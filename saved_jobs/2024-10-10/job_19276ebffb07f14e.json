@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Procorp systems",
+        "job_title": "Java Full Stack Developer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "DOE"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "ReactJS"
+            ],
+            "primary": [
+                "UI",
+                "Backend",
+                "SOAP API",
+                "REST API"
+            ],
+            "secondary": [
+                "AWS",
+                "JPMC GKP migrations"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "ReactJS",
+                "UI",
+                "Backend",
+                "SOAP API",
+                "REST API",
+                "AWS",
+                "JPMC GKP migrations"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vardhan",
+        "email": "vardhan.r@procorpsystems.com",
+        "jd": "From: Vardhan, Procorp systems vardhan.r@procorpsystems.com Reply to: vardhan.r@procorpsystems.com Hello,Hope you are doing well, Note: Must Need to Go Onsite Go Onsite From Day 1. Title: Java FSD Location: Houston, TX Duration: 12 MonthsRate: DOE Job Description:Java Full Stack developer with UI30:70 \u2013 UI: BackendSpring boot apps, deploying spring boot appssoap API to rest API conversionDeveloped UI - ReactJSno DB skills requiredAWS and JPMC GKP migrations",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:11:32-05:00",
+        "unique_id": "19276ebffb07f14e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

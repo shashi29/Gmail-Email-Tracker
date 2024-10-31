@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": "Full-Stack Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Azure Functions",
+                "Web API",
+                "SQL",
+                "ASP.NET",
+                "JavaScript",
+                "React"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "C#",
+                "Azure Functions",
+                "Web API",
+                "SQL",
+                "ASP.NET",
+                "JavaScript",
+                "React"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jeorge",
+        "email": "jeorge.smith@dimiour.io",
+        "jd": "Hi, This is Jeorge from Dimiour. We have an excellent job opening for Full-Stack Developer in Remote. It is a long-term contract. If you are interested, please share your updated resume here. Full-Stack DeveloperLocation: RemoteLong Term Contract Job Description:C#Azure FunctionsWeb APISQLASP. Net\\Java Script\\React etcHands on Coding",
+        "source": "Email",
+        "date_posted": "2024-10-28 08:22:30-05:00",
+        "unique_id": "192d37ec543a2ad7",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

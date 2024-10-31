@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Fluxtek solutions",
+        "job_title": "Azure Data Architect",
+        "location": "Texas City, TX, USA",
+        "full_location": {
+            "city": "Texas City",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data services",
+                "ADF",
+                "Azure Databricks",
+                "Azure SQL Database",
+                "Azure Synapse",
+                "SQL Scripting"
+            ],
+            "primary": [
+                "data architecture",
+                "data pipelines",
+                "data governance",
+                "data quality"
+            ],
+            "secondary": [
+                "Power Apps",
+                "Azure Functions",
+                "Python",
+                "PySpark",
+                "Data modelling",
+                "Unity Catalog"
+            ],
+            "all": [
+                "Azure Data services",
+                "ADF",
+                "Azure Databricks",
+                "Azure SQL Database",
+                "Azure Synapse",
+                "SQL Scripting",
+                "data architecture",
+                "data pipelines",
+                "data governance",
+                "data quality",
+                "Power Apps",
+                "Azure Functions",
+                "Python",
+                "PySpark",
+                "Data modelling",
+                "Unity Catalog"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "David",
+        "email": "david@fluxteksol.com",
+        "jd": "From: David, Fluxtek solutions david@fluxteksol.com Reply to: david@fluxteksol.com Job Ttile: Azure Data Architect Location: Texas City or Atlanta GA- HybridLocal onlyHire Type: CTH - NO H1B Implementation Partner: TechM Responsibility Design and maintain data architecture solution on the Azure platform.Provide solutions to build configurable DI/DQ frameworksPresent the solution approach, design documents, associated artefacts and strategy to Client\u2019s architectural council, Data governance and management team.Develop and maintain data pipelines for data ingestion, processing, and transformation from on-prem to Cloud native.Develop and maintain data governance policies and procedures.Create and maintain technical documentation for data architecture.Identify and troubleshoot data issues related to Data Quality and implement the data quality rules.Liaise with stakeholders and program managers on the design aspects of the platformProvide guidance and support to team members and stakeholders on data solutions and toolsExpertise in Azure Data services (ADF, Azure Databricks, Azure SQL Database , Azure Synapse & SQL Scripting)SkillsHands on experience in designing scalable, high performance data solutionsSound knowledge in Azure services to integrate these into building end to end solutions. ( Power Apps, Azure Functions, Python, PySpark, Data modelling and Unity Catalog).",
+        "source": "Email",
+        "date_posted": "2024-10-11 08:51:07-05:00",
+        "unique_id": "1927c11a84b76b47",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

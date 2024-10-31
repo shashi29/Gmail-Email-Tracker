@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Java Full Stack Developer (AWS)",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "NoSQL",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "primary": [
+                "CI/CD",
+                "Serverless Architecture",
+                "Automated Testing",
+                "Security Best Practices"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "Cloud-Native Development",
+                "Automated Backup",
+                "Disaster Recovery",
+                "AWS Certified Solutions Architect",
+                "AWS Certified DevOps Engineer"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "NoSQL",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "CI/CD",
+                "Serverless Architecture",
+                "Automated Testing",
+                "Security Best Practices",
+                "Docker",
+                "Kubernetes",
+                "Cloud-Native Development",
+                "Automated Backup",
+                "Disaster Recovery",
+                "AWS Certified Solutions Architect",
+                "AWS Certified DevOps Engineer"
+            ],
+            "with_experience": [
+                "Java (Strong proficiency)",
+                "AWS (In-depth knowledge)",
+                "Microservices (Experience required)",
+                "NoSQL (Experience required)",
+                "CI/CD (Experience required)",
+                "Serverless Architecture (Experience required)",
+                "Automated Testing (Experience required)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Ayush Yadav",
+        "email": "ayush.yadav@scalable-systems.com",
+        "jd": "From: ayush, Scalable Systems ayush.yadav@scalable-systems.com Reply to: ayush.yadav@scalable-systems.com Job Title: Java Full Stack Developer (AWS)Location: McLean, VA / Local to VAUSC & GC OnlyKey Responsibilities:AWS Expertise: Leverage your deep understanding of AWS services like EC2, S3, EMR, Lambda, CloudWatch, and more to architect and implement efficient and cost-effective cloud solutions.Java Microservices: Demonstrate proficiency in Java programming and a strong grasp of microservices architecture to build modular and scalable applications.NoSQL Databases: Experience working with MongoDB or other NoSQL databases is essential for handling large-scale data sets efficiently.Full Stack Development: Be comfortable working across the entire application stack, including frontend development (e.g., HTML, CSS, JavaScript) and backend development.Cloud-Native Development: Design and develop cloud-native applications using AWS services like ECS, EKS, and Fargate to optimize performance and scalability.CI/CD Automation: Implement continuous integration and continuous deployment (CI/CD) pipelines using AWS services like CodePipeline and CodeBuild to streamline development and deployment processes.Serverless Architecture: Build and maintain serverless architectures using AWS services like API Gateway, CloudFormation, and CloudWatch to reduce operational overhead and improve scalability.Testing and Quality Assurance: Develop and maintain automated testing frameworks using AWS services like CodeBuild and CodeDeploy to ensure high-quality code.Security and Compliance: Adhere to security best practices and ensure compliance with industry standards when working with AWS services like IAM, KMS, and CloudTrail.Performance Optimization: Monitor and troubleshoot application performance using AWS services like CloudWatch and X-Ray to identify and resolve bottlenecks.Required Skills and Qualifications:Strong proficiency in Java programming languageIn-depth knowledge of AWS services (EC2, S3, EMR, Lambda, CloudWatch, etc.)Experience with microservices architectureExperience with NoSQL databases (MongoDB preferred)Strong understanding of frontend development (HTML, CSS, JavaScript)Experience with CI/CD pipelines (CodePipeline, CodeBuild)Knowledge of serverless architecture (API Gateway, CloudFormation, CloudWatch)Experience with automated testing (CodeBuild, CodeDeploy)Familiarity with security best practices in cloud environmentsExcellent problem-solving and analytical skillsStrong communication and collaboration skillsPreferred Skills and Qualifications:Experience with containerization (Docker, Kubernetes)Experience with cloud-native application development (ECS, EKS, Fargate)Experience with serverless application development (Lambda, Step Functions)Experience with automated backup and disaster recovery solutions on AWSCertification in AWS Certified Solutions Architect or AWS Certified DevOps Engineer",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:41:05-05:00",
+        "unique_id": "192b49b6da478a71",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

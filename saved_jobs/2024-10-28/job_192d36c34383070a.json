@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Oracle PL/SQL Developer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "SQL",
+                "Database design",
+                "Database concepts",
+                "Query tuning"
+            ],
+            "primary": [
+                "Unix",
+                "Agile methodologies",
+                "Root cause analysis",
+                "Production support"
+            ],
+            "secondary": [
+                "Financial Industry experience"
+            ],
+            "all": [
+                "PL/SQL",
+                "SQL",
+                "Database design",
+                "Database concepts",
+                "Query tuning",
+                "Unix",
+                "Agile methodologies",
+                "Root cause analysis",
+                "Production support",
+                "Financial Industry experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vinkal Dhaka",
+        "email": "vinkal.dhaka@siriinfo.com",
+        "jd": "From: Vinkal Dhaka, Siri Info vinkal.dhaka@siriinfo.com Reply to: vinkal.dhaka@siriinfo.com Only H1b candidate required\u2026passport number is mandatory for i94. Title: Oracle PL/SQL DeveloperLocation: BOSTON, MA (day 1 Onsite)Contract/C2C Job Description:Candidate 1.Oracle PLSQL Developer.7+ years of hand\u2019s on experience in writing complex SQL and PL/SQL code.Solid partitioning and Database concepts.Hand on Tuning of complex queries.Database design and modelling experience is a plus.Basic Unix knowledgeAddress data issues, root cause analysis and production support.Experience working in a Financial Industry.Understanding Agile methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-28 08:23:56-05:00",
+        "unique_id": "192d36c34383070a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

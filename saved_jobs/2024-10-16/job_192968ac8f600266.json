@@ -1,0 +1,72 @@
+[
+    {
+        "company": "IntegrateUS, LLC",
+        "job_title": "Oracle Database Administrator",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle Database",
+                "Performance Tuning",
+                "Backup and Recovery",
+                "Monitoring",
+                "Troubleshooting"
+            ],
+            "primary": [
+                "Oracle RAC",
+                "Golden Gate",
+                "Capacity Planning",
+                "Remote Communication",
+                "Collaboration"
+            ],
+            "secondary": [
+                "Task Estimation",
+                "Deadline Management"
+            ],
+            "all": [
+                "Oracle Database",
+                "Performance Tuning",
+                "Backup and Recovery",
+                "Monitoring",
+                "Troubleshooting",
+                "Oracle RAC",
+                "Golden Gate",
+                "Capacity Planning",
+                "Remote Communication",
+                "Collaboration",
+                "Task Estimation",
+                "Deadline Management"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ajay",
+        "email": "ajay@stratuscoder.com",
+        "jd": "We are seeking a Full-time Oracle Database Administrator for advanced performance tuning on multi-terabyte databases with heavy transaction volumes. Initial tasks include installing Oracle Database 19c, Oracle RAC, and Golden Gate for a new database tier, along with capacity planning for an ERP upgrade. Core duties involve backup, recovery, monitoring, troubleshooting, tuning, and supporting the upgrade team. The role may require work outside regular hours for maintenance. Strong remote communication, collaboration, task estimation, and deadline management skills are essential.",
+        "source": "Email",
+        "date_posted": "2024-10-16 13:15:30-05:00",
+        "unique_id": "192968ac8f600266",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

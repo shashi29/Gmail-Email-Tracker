@@ -1,0 +1,51 @@
+[
+    {
+        "company": "Sibitalent",
+        "job_title": "Lead Java Kotlin engineer",
+        "location": "San Diego, CA, USA",
+        "full_location": {
+            "city": "San Diego",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Kotlin"
+            ],
+            "primary": [
+                "GraphQL",
+                "Dynamo DB"
+            ],
+            "secondary": [],
+            "all": [
+                "Kotlin",
+                "GraphQL",
+                "Dynamo DB"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Saurabh Sharma",
+        "email": "ssaurabh@sibitalent.com",
+        "jd": "From: Saurabh sharma, Sibitalent ssaurabh@sibitalent.com Reply to: ssaurabh@sibitalent.com Hi this side saurabh From SibitalentI have a Job Opportunity For You Position:- Lead Java Kotlin engineer Location:- San Diego,CA Required Skills:- Kotlin, GraphQL, Dynamo DB",
+        "source": "Email",
+        "date_posted": "2024-10-24 16:12:04-05:00",
+        "unique_id": "192c106229e0c3f3",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

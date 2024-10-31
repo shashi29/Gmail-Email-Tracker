@@ -1,0 +1,123 @@
+[
+    {
+        "company": "Atlas Cloud",
+        "job_title": "Senior Data Engineer",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "BS or MS in Computer Science or similar relevant field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "relational SQL",
+                "NoSQL databases",
+                "AWS cloud services",
+                "stream-processing systems",
+                "object-oriented scripting languages",
+                "data pipeline management tools",
+                "big data tools",
+                "software engineering tools"
+            ],
+            "primary": [
+                "Postgres",
+                "Cassandra",
+                "EC2",
+                "MSK",
+                "S3",
+                "RDS",
+                "SNS",
+                "SQS",
+                "Storm",
+                "Spark-Structured-Streaming",
+                "Kafka consumers",
+                "Python",
+                "Java",
+                "Scala",
+                "R",
+                "SQL",
+                "AWS Data Pipeline",
+                "Apache Airflow",
+                "Argo",
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "Github",
+                "VSCode",
+                "CI/CD"
+            ],
+            "secondary": [
+                "big data structures",
+                "high performance data structures",
+                "high availability data structures",
+                "data schema life-cycles"
+            ],
+            "all": [
+                "relational SQL",
+                "NoSQL databases",
+                "Postgres",
+                "Cassandra",
+                "AWS cloud services",
+                "EC2",
+                "MSK",
+                "S3",
+                "RDS",
+                "SNS",
+                "SQS",
+                "stream-processing systems",
+                "Storm",
+                "Spark-Structured-Streaming",
+                "Kafka consumers",
+                "object-oriented scripting languages",
+                "Python",
+                "Java",
+                "Scala",
+                "R",
+                "SQL",
+                "data pipeline management tools",
+                "AWS Data Pipeline",
+                "Apache Airflow",
+                "Argo",
+                "big data tools",
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "software engineering tools",
+                "Github",
+                "VSCode",
+                "CI/CD",
+                "big data structures",
+                "high performance data structures",
+                "high availability data structures",
+                "data schema life-cycles"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sachin Kumar",
+        "email": "sachin@acloudinc.com",
+        "jd": "From: sachin, Atlas Cloud, solution sachin@acloudinc.com Reply to: sachin@acloudinc.com HiHope you all are doing wellWe have requirement with our client let us know if u have suitable profileSenior Data EngineerDener, COLong Term ContractClient :One AmericaResponsibilities:\u2022 You have a BS or MS in Computer Science or similar relevant field\u2022 You work well in a collaborative, team-based environment\u2022 You are an experienced engineering with 12+ years of experience\u2022 You have a passion for big data structures\u2022 You possess strong organizational and analytical skills related to working with structured and unstructured data operations\u2022 You have experience implementing and maintaining high performance / high availability data structures\u2022 You are most comfortable operating within cloud based eco systems\u2022 You enjoy leading projects and mentoring other team membersSpecific Skills:\u2022 Experience or knowledge of relational SQL and NoSQL databases, including Postgres and Cassandra.\u2022 Strong understanding of in-memory processing and data formats (Avro, Parquet, Json etc.)\u2022 Experience or knowledge of AWS cloud services: EC2, MSK, S3, RDS, SNS, SQS\u2022 Experience or knowledge of stream-processing systems: i.e., Storm, Spark-Structured-Streaming, Kafka consumers.\u2022 Experience or knowledge of object-oriented/object function scripting languages: i.e., Python, Java, Scala, R, SQL.\u2022 Experience or knowledge of data pipeline and workflow management tools: i.e., AWS Data Pipeline, Apache Airflow, Argo.\u2022 Experience or knowledge of big data tools: i.e., Hadoop, Spark, Kafka.\u2022 Experience or knowledge of software engineering tools/practices: i.e., Github, VSCode, CI/CD.\u2022 Hands-on experience in designing and maintaining data schema life-cycles.With Best Regards, Sachin KumarDelivery LeadAtlas Cloud, solution for your IT.P: +1 4195959070E: sachin@acloudinc.comwww.acloudinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-15 15:14:16-05:00",
+        "unique_id": "19291f1ba2fb54f4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

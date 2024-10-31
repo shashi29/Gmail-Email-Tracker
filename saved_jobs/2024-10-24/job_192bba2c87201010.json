@@ -1,0 +1,62 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": "Lead Hadoop Bigdata Engineer",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cloudera Data Platform",
+                "PySpark",
+                "Python",
+                "Hive-Map Reduce",
+                "Linux/Unix",
+                "Impala",
+                "Big Data Technologies",
+                "Cloud Technologies"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Cloudera Data Platform",
+                "PySpark",
+                "Python",
+                "Hive-Map Reduce",
+                "Linux/Unix",
+                "Impala",
+                "Big Data Technologies",
+                "Cloud Technologies"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen Kumar",
+        "email": "naveen.t@itechus.net",
+        "jd": "From: Naveen Kumar, iTechUS naveen.t@itechus.net Reply to: naveen.t@itechus.net Hi,My name is Naveen Kumar, and I represent iTech US Inc. iTech is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have job opening for the below role. Role: Lead Hadoop Bigdata EngineerLocation: Pittsburgh, PA (Only Locals)Duration: ContractExperience: 10+ yearsC2C: Yes, Only H1B Role Description:Experience level : 10+ yearsSkill set- Cloudera Data Platform , PySpark, python ,Hive-Map Reduce, Linux /Unix, Impala , Big Data Technologies, Cloud TechnologiesRoles and responsibilitiesUnderstand requirements/use cases and build efficient ETL solutions using Apache Spark, python , Kafka, Hive targeting Cloudera Data Platform Requirement/use case analysis and convert functional requirements into concrete technical tasks and able to provide reasonable effort estimates.Work closely with Data analyst/modeler, Business User to understand the data requirement. Convert requirements to high-level , low-level design and, source-to- target documents.Responsible to design , develop and schedule data pipelines which handle large volume of data within SLA. Work with solution architect, Technical Managers, Admins to understand SLAs , limitations of systems and provide efficient solutions.Expertise in processing large volume of data aggregation using spark , must know different performance improvement technique and should lead teams on optimization.Responsible to develop efficient data ingestion and data governance framework as per specification.Performance improvement of existing spark-based data ingestion, aggregation pipelines to meet SLA.Work proactively, independently with global teams to address project requirements, articulate issues/challenges with enough lead time to address project delivery risks.Plan production implementation activities , execute change requests and resolve issues in production implementation.Plan and execute large data migration, history data rebuild activitiesCode reviews/optimization, test case reviews . Demonstrate troubleshooting skill in resolving technical issues, bugs.Demonstrate ownership and initiative. Ability to bring-in best practices /solutions which best fit for client problem and environment.",
+        "source": "Email",
+        "date_posted": "2024-10-23 16:40:57-05:00",
+        "unique_id": "192bba2c87201010",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

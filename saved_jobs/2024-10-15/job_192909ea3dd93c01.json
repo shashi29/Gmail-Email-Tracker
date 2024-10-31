@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Softcom Systems Inc",
+        "job_title": "SQL DBA",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS",
+                "SQL Server migration"
+            ],
+            "primary": [
+                "DAG setup",
+                "troubleshooting SQL Server issues",
+                "system locks",
+                "fragmentation",
+                "index reorganization",
+                "rebuild",
+                "system logs issues",
+                "replication delays",
+                "ghost records"
+            ],
+            "secondary": [
+                "database administrator certifications from Microsoft",
+                "hands-on system engineer",
+                "managing extra large databases",
+                "high availability",
+                "real-time replication from OLTP and OLAP",
+                "handling SQL Server migration from on-prem to AWS",
+                "upgrading SQL Server versions"
+            ],
+            "all": [
+                "SQL",
+                "AWS",
+                "SQL Server migration",
+                "DAG setup",
+                "troubleshooting SQL Server issues",
+                "system locks",
+                "fragmentation",
+                "index reorganization",
+                "rebuild",
+                "system logs issues",
+                "replication delays",
+                "ghost records",
+                "database administrator certifications from Microsoft",
+                "hands-on system engineer",
+                "managing extra large databases",
+                "high availability",
+                "real-time replication from OLTP and OLAP",
+                "handling SQL Server migration from on-prem to AWS",
+                "upgrading SQL Server versions"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Harish Aitha",
+        "email": "aitha@softcomsystems.com",
+        "jd": "From: Harish Aitha, Softcom Systems Inc aitha@softcomsystems.com Reply to: aitha@softcomsystems.com Hi Xavier, We are looking for SQL DBA at New York, NY (5 Days onsite) role with our client. If you are available and interested, then please reply to me with your updated resume. Role: SQL DBA Location: New York, NY (Onsite) 5 Days a week Duration: Contract Need local candidates to NY, NJ Primary Skills: SQL, AWS, SQL Server migration, . Expert in DAG setup Job Description: SQL server DBA who has experience of handling sql server on AWS Database administrator certifications from Microsoft or a reputed organization Hands on System engineer who can manage extra large databases with high availability, Realtime replication from OLTP and OLAP using distributed database Ability to troubleshoot sql server issues not limited but covering system locks, fragmentation, index reorganization and rebuild, system logs issues, replication delays, ghost records Experience in handling swl server migration from on Prem to AWS and from old SQL server version to new SQL server version. Expert in DAG setup and troubleshooting of DAG related issues. Thanks & Regards, Harish Aitha Talent Acquisition Specialist Softcom Systems Inc. II 104 Tamarack Circle, Skillman, NJ 08558 Desk: 609-333-9000 Ext: 96 ll Email: aitha@softcomsystems.com",
+        "source": "Email",
+        "date_posted": "2024-10-15 09:03:02-05:00",
+        "unique_id": "192909ea3dd93c01",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

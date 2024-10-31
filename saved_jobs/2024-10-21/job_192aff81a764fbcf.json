@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Largeton inc",
+        "job_title": "Sr. Software Engineer / SDET",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java (1.8/11)",
+                "Spring Framework",
+                "JBehave",
+                "REST API testing",
+                "Gherkin syntax"
+            ],
+            "primary": [
+                "Postman",
+                "Insomnia",
+                "Agile methodologies",
+                "Git",
+                "SDLC processes"
+            ],
+            "secondary": [
+                "Analytical skills"
+            ],
+            "all": [
+                "Java (1.8/11)",
+                "Spring Framework",
+                "JBehave",
+                "REST API testing",
+                "Gherkin syntax",
+                "Postman",
+                "Insomnia",
+                "Agile methodologies",
+                "Git",
+                "SDLC processes",
+                "Analytical skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Praveen Kumar",
+        "email": "praveenk@largeton.us",
+        "jd": "From: Praveen Kumar, Largeton inc praveenk@largeton.us Reply to: praveenk@largeton.us Sr. Software Engineer / SDET (Java, Spring, JBehave, TDD)Location: Hybrid \u2013 St. Louis, MONeed Local to ST.LouisDuration: 6 MonthsClient: Master CardInterview Mode: Video InterviewsWork Authorization: Only US Citizens, Green Card Holders, or EAD-GC (Local candidates to St. Louis, MO preferred due to client restrictions). Job Overview:We are seeking a Sr. Software Engineer / SDET with advanced expertise in Java (1.8/11), Spring Framework, and TDD methodologies to join our team. The ideal candidate will have hands-on experience with JBehave, Rest API testing tools (Postman/Insomnia), and Gherkin-based acceptance testing. You will work closely with stakeholders to convert business requirements into efficient technical solutions, contributing to a high-performance, Agile environment. Key Responsibilities:Design, develop, and maintain test frameworks for APIs and microservices using Java 1.8/11 and Spring Framework.Write clear and effective Gherkin syntax-based acceptance tests aligned with business requirements.Perform REST API testing using tools like Postman or Insomnia, ensuring the robustness of backend services.Collaborate with cross-functional teams to translate business requirements into technical tasks and test cases.Implement and maintain TDD practices to drive high-quality software development.Utilize Git or other version control systems to manage code and collaborate efficiently within an Agile workflow.Adhere to SDLC processes and contribute to Agile methodologies to ensure timely delivery of features. Required Skills and Experience:Advanced proficiency in Java (1.8/11) and Spring Framework.Strong experience with JBehave for writing and executing behavior-driven tests.Hands-on expertise with REST API testing tools (Postman, Insomnia).Proficient in Gherkin syntax for acceptance testing.Solid understanding of SDLC processes and Agile methodologies.Strong knowledge of version control tools (e.g., Git) for collaborative development.Excellent analytical skills with the ability to translate business needs into technical requirements.",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:07:54-05:00",
+        "unique_id": "192aff81a764fbcf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

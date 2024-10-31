@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Shrive Technologies LLC",
+        "job_title": "GCP Data Architect",
+        "location": "El Segundo, CA, USA",
+        "full_location": {
+            "city": "El Segundo",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Big Query",
+                "Google Cloud Platform",
+                "Python",
+                "PySpark",
+                "Airflow"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Big Data technologies",
+                "DBT",
+                "ETL ELT framework",
+                "SQL",
+                "NoSQL"
+            ],
+            "secondary": [
+                "Data Integration",
+                "Data Transformation",
+                "Data Quality",
+                "Data Lineage",
+                "CICD",
+                "YAML",
+                "Pandas",
+                "Spark",
+                "Hadoop",
+                "Hive",
+                "MapReduce"
+            ],
+            "all": [
+                "Google Big Query",
+                "Google Cloud Platform",
+                "Python",
+                "PySpark",
+                "Airflow",
+                "Data Engineering",
+                "Big Data technologies",
+                "DBT",
+                "ETL ELT framework",
+                "SQL",
+                "NoSQL",
+                "Data Integration",
+                "Data Transformation",
+                "Data Quality",
+                "Data Lineage",
+                "CICD",
+                "YAML",
+                "Pandas",
+                "Spark",
+                "Hadoop",
+                "Hive",
+                "MapReduce"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Krishna",
+        "email": "saikrishna@shrivetechnologies.com",
+        "jd": "From: Krishna, Shrive Technologies LLC saikrishna@shrivetechnologies.com Reply to: saikrishna@shrivetechnologies.com Role: GCP Data ArchitectLocation: El Segundo, CA - Day1 OnsiteDuration: Long term Job Description:Has worked in the past as an Architect. Professional experience in Data Engineering using Google Big Query (GBQ) and Google Cloud Platform (GCP) data sets and building data pipelines. Hands on and deep experience working with Google Data Products (e.g. BigQuery, Dataflow, Dataproc, Dataprep, Cloud Composer, Airflow, DAG etc.). Python Programming Expert PySpark, PandasExperience in Airflow (Create DAG, Configure the variables in Airflow, Scheduling) Big Data technologies and solutions (Spark, Hadoop, Hive, MapReduce) and multiple scripting and languages (YAML, Python). Experience in DBT to create the lineage in GCP. \u2013 Optional Worked in Dev-Sec-Ops (CICD) environment.Design and develop the ETL ELT framework using BigQuery, Expertise in Big Query concepts like Nested Queries, Clustering, Partitioning, etc.Experience in Data Integration, Data Transformation, Data Quality and Data Lineage tools. Should be able to automate the data load from Big Query using APIs or scripting language.E2E Data Engineering and Lifecycle (including non-functional requirements and operations) management. E2E Solution Design skills \u2013 Prototyping, Usability testing and data visualization literacy. Experience with SQL and NoSQL modern data stores",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:11:50-05:00",
+        "unique_id": "1929b9759099ce0c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

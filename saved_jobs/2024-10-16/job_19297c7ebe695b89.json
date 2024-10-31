@@ -1,0 +1,92 @@
+[
+    {
+        "company": "VySystems",
+        "job_title": "Full Stack Developer (Principal level consultant)",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net Core",
+                "C#",
+                "JSON",
+                "Elastic Search",
+                "JMeter",
+                "SpecFlow",
+                "DevOps",
+                "Docker",
+                "Kubernetes"
+            ],
+            "primary": [
+                "ASP.NET Core",
+                "Kafka",
+                "Azure DevOps",
+                "Cloud Experience",
+                "Elastic APM",
+                "Kibana"
+            ],
+            "secondary": [
+                "Windows platform (WPF/UWP)",
+                "iOS applications using Xamarin",
+                "Automated regression test suites",
+                "Agile team experience"
+            ],
+            "all": [
+                ".Net Core",
+                "C#",
+                "JSON",
+                "Elastic Search",
+                "JMeter",
+                "SpecFlow",
+                "DevOps",
+                "Docker",
+                "Kubernetes",
+                "ASP.NET Core",
+                "Kafka",
+                "Azure DevOps",
+                "Cloud Experience",
+                "Elastic APM",
+                "Kibana",
+                "Windows platform (WPF/UWP)",
+                "iOS applications using Xamarin",
+                "Automated regression test suites",
+                "Agile team experience"
+            ],
+            "with_experience": [
+                ".Net Core (4+ years)",
+                "C# (4+ years)",
+                "JMeter (4+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arul",
+        "email": "arulprakash@vysystems.com",
+        "jd": "From: Arul, VySystems arulprakash@vysystems.com Reply to: arulprakash@vysystems.com Experience/Responsibilities:\u2022 Full Stack Developer with specialized focus on developing and testing C# services and applications(i.e. .Net Core and Kubernetes are preferred)\u2022 Building web API service utilizing JSON and ASP.NET Core\u2022 Building back message processing service utilizing C# and message queueing systems such as Service Bus, MQ Series and Kafka\u2022 Building services that query Elastic Search\u2022 Define and build API applications tests for web services (4+ years) utilizing JMeter and Visual Studio Test\u2022 Building user experience using Modern Web App framework experience (i.e. React), Windows platform (WPF/UWP) and/or iOS applications using Xamarin.\u2022 Define and build performance tests for web based/mobile applications (4+ years) utilizing JMeter\u2022 Define and build automated regression test suites utilizing a combination of tools that must include Selenium, SpecFlow for BDD, JMeter, Visual Studio unit tests\u2022 Ability to work on a small agile team developing applications, services, automated test and that will be utilized by multiple devices. Required to have:\u00b7 .Net Core C# experience\u00b7 JSON based API building experience using C#\u00b7 Experience that query Elastic Search\u00b7 JMETER experience\u00b7 SpecFlow as a tool for Behavior Driven Development (BDD)\u00b7 DevOps experience (prefer Azure DevOps)\u00b7 Experience with team utilizing CI/CD that includes automation testing in the pipelines\u00b7 Virtualization and containerization using Docker and Kubernetes\u00b7 Creation of CI/CD pipelines for Azure Dev Ops\u00b7 Cloud Experience (prefer Azure)\u00b7 Developing Kafka message consumers and producers\u00b7 Elastic APM and Kibana experience",
+        "source": "Email",
+        "date_posted": "2024-10-16 18:26:22-05:00",
+        "unique_id": "19297c7ebe695b89",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": ".net developer"
+    }
+]

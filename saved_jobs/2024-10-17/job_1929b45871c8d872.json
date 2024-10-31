@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Tech Rakers",
+        "job_title": "Sr.Python Developer (No H1 and CPT)",
+        "location": "Washington, DC, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "9 Months \u2013 Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python"
+            ],
+            "primary": [
+                "Excel",
+                "Documentation",
+                "Testing",
+                "Optimization"
+            ],
+            "secondary": [
+                "Error handling",
+                "Version control",
+                "Performance tuning"
+            ],
+            "all": [
+                "Python",
+                "Excel",
+                "Documentation",
+                "Testing",
+                "Optimization",
+                "Error handling",
+                "Version control",
+                "Performance tuning"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Srikanth",
+        "email": "srikanth@techrakers.com",
+        "jd": "From: Srikanth, Tech Rakers srikanth@techrakers.com Reply to: srikanth@techrakers.com Title: Sr.Python Developer (No H1 and CPT) Local to VA,MD,DCDuration: 9 Months \u2013 Long TermLocation: Washington, DC - 20433 Hybrid Onsite: 4 Days onsite per week from Day1. The Python Developer will be responsible for the following tasks: a. Requirement Analysis: Review and understand the existing Excel-based calculations. Identify the key functionalities and logic implemented in the Excel sheets. Collaborate with stakeholders to gather additional requirements and clarify any ambiguities. b. Code Conversion: Convert the Excel-based calculations to Python code, ensuring accuracy and consistency. Optimize the Python code for performance and scalability. Implement error handling and validation to ensure robustness. c. Documentation: Document the existing Excel-based calculations, including formulas, macros, and data flows. Create comprehensive documentation for the Python code, including code comments, user guides, and technical specifications. Maintain an organized repository of all project documentation. d. Testing and Validation: Develop and execute test cases to validate the accuracy and performance of the Python code. Compare the results of the Python code with the original Excel calculations to ensure consistency. Address any discrepancies and refine the code as needed. e. Optimization and Best Practices: Identify and implement the most efficient methods for migrating calculations from Excel to Python. Follow best practices for coding, documentation, and version control. Provide recommendations for further improvements and optimizations.",
+        "source": "Email",
+        "date_posted": "2024-10-17 09:43:42-05:00",
+        "unique_id": "1929b45871c8d872",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

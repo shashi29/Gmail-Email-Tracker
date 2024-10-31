@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Parin Technologies",
+        "job_title": "Senior Frontend Developer",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months (with possible extension)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "React.js",
+                "HTML5",
+                "CSS Frameworks",
+                "ADA compliance",
+                "WCAG 2.1",
+                "Section 508 compliance",
+                "User Experience design principles",
+                "Java",
+                "JPA framework",
+                "Spring framework",
+                "Spring Boot",
+                "Spring Data",
+                "Java 8+",
+                "Agile development"
+            ],
+            "primary": [],
+            "secondary": [
+                "JBOSS Enterprise environment"
+            ],
+            "all": [
+                "React.js",
+                "HTML5",
+                "CSS Frameworks",
+                "ADA compliance",
+                "WCAG 2.1",
+                "Section 508 compliance",
+                "User Experience design principles",
+                "Java",
+                "JPA framework",
+                "Spring framework",
+                "Spring Boot",
+                "Spring Data",
+                "Java 8+",
+                "Agile development",
+                "JBOSS Enterprise environment"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Niki",
+        "email": "niki@parintec.com",
+        "jd": "From: Niki, Parin Technologies niki@parintec.com Reply to: niki@parintec.com Title: Senior Frontend DeveloperLocation: Lansing, MIHybrid - 2 days onsite from day 1 (Tuesday and Wednesday)Duration: 12 months (with possible extension)Interview: MS Teams video interview . Job DescriptionThis resource position will be supporting the Development program. As a frontend developer, responsibilities include but not limited to working with development project teams, UI/UX designers and Business analysts to develop and maintain reusable UI components that are accessible, performant, scalable, and robust. Must be familiar with WCAG 2.1, ADA compliance and responsive design. All development will be tested by the developer for accessibility using Jaws reader along with multiplebrowser plugins. Required Skills and ExperienceStrong background with React.js. Required, 5 years.Experience with HTML5 and CSS Frameworks. Required, 5 Years.Strong knowledge and background with ADA, WCAG 2.1, Section 508 compliance policies, User Experience design principles and standards. Required, 5 years.Experience with current JAVA, this includes using relevant IDE tools such as Eclipse/Jboss Developer Studio. Required, 3 Years.Experience programming in projects using JPA framework. Required, 2 Years.Experience programming in projects using current Spring framework. Required, 2 Years.Experience programming with Spring Boot and Spring Data. Required, 2 Years.Experience programming with Java 8+. Required, 3 Years.Experience participating as a programmer within an Agile development environment. Required, 2 Years.Experience programming in the JBOSS Enterprise environment. Desired, 2 Years",
+        "source": "Email",
+        "date_posted": "2024-10-18 08:02:33-05:00",
+        "unique_id": "1929fd9722e2a79c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

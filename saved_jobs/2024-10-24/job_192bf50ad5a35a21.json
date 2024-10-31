@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Netonics Inc",
+        "job_title": "Java developer",
+        "location": "San Antonio, TX, USA",
+        "full_location": {
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "Springboot"
+            ],
+            "primary": [
+                "Java development",
+                "Web based applications",
+                "Angular",
+                "React",
+                "Node",
+                "Restful API",
+                "Swagger",
+                "Micro services",
+                "AWS Lambda",
+                "AWS Step functions",
+                "AWS EKS",
+                "AWS EC2",
+                "AWS S3"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "J2EE",
+                "Springboot",
+                "Java development",
+                "Web based applications",
+                "Angular",
+                "React",
+                "Node",
+                "Restful API",
+                "Swagger",
+                "Micro services",
+                "AWS Lambda",
+                "AWS Step functions",
+                "AWS EKS",
+                "AWS EC2",
+                "AWS S3"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Samir Priya Darshan",
+        "email": "samir.p@netonicsinc.com",
+        "jd": "From: Samir Priya Darshan, Netonics Inc samir.p@netonicsinc.com Reply to: samir.p@netonicsinc.com Role: Java developer (10+ years)Location: San Antonio, TX (Onsite) Only locals to Texas Essential Skills: Should have 10+ Years of hands-on experience in development with JavaExpertise in developing Web based applications in a multi-tier architecture using Java, J2EE, Springboot and front-end UI development using JS (Angular, React or Node)Working knowledge of Restful API, Swagger documentation and Micro servicesFamiliar with AWS services such as Lambda, Step functions, EKS, EC2 and S3",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:41:37-05:00",
+        "unique_id": "192bf50ad5a35a21",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

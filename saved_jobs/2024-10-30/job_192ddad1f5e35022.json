@@ -1,0 +1,94 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "Java Full Stack Developer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "MongoDB"
+            ],
+            "primary": [
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFormation",
+                "API Gateway",
+                "CloudWatch",
+                "DynamoDB",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "CodePipeline",
+                "CodeBuild",
+                "CodeDeploy",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "MongoDB",
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFormation",
+                "API Gateway",
+                "CloudWatch",
+                "DynamoDB",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "CodePipeline",
+                "CodeBuild",
+                "CodeDeploy",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray"
+            ],
+            "with_experience": [
+                "Java",
+                "AWS (EC2, S3, Lambda, etc.)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manasa Salla",
+        "email": "manasa.s@itechus.net",
+        "jd": "Role Description:\nShould be very good in AWS services - EC2, S3, EMR, Lambda, Cloud watch and more.\n\nJava with Microservice\nMongo DB experience.\n\nDesign, develop, and deploy web applications using AWS services such as EC2, S3, Lambda, and DynamoDB\nDevelop and maintain serverless architectures using AWS services such as API Gateway, CloudFormation, and CloudWatch\nCreate and maintain automated deployment pipelines using AWS CodePipeline and CodeBuild\nDesign and develop RESTful APIs using AWS API Gateway and Lambda\nDevelop and maintain automated testing frameworks using AWS services such as CodeBuild and CodeDeploy\nDesign and develop cloud-native applications using AWS services such as ECS, EKS, and Fargate\nDevelop and maintain cloud infrastructure using AWS services such as CloudFormation and CloudWatch\nMonitor and troubleshoot application performance using AWS services such as CloudWatch and X-Ray\nDevelop and maintain security best practices for AWS services such as IAM, KMS, and CloudTrail\nDevelop and maintain CI/CD pipelines using AWS services such as CodePipeline and CodeBuild\nDesign and develop serverless applications using AWS services such as Lambda and Step Functions\nDevelop and maintain automated backup and disaster recovery solutions using AWS services such as EBS and S3",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:11:08-05:00",
+        "unique_id": "192ddad1f5e35022",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

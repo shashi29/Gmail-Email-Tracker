@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Medidata",
+        "job_title": "AWS Cloud Engineer",
+        "location": "New Jersey, USA",
+        "full_location": {
+            "city": "New Jersey",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "JavaScript",
+                "Python",
+                "Java",
+                "Shell",
+                "AWS SDK/API"
+            ],
+            "primary": [
+                "IAM",
+                "EC2",
+                "S3",
+                "AWS Costing/Billing",
+                "Quicksight reporting"
+            ],
+            "secondary": [
+                "Platform Engineering",
+                "Cost optimization",
+                "AWS DevOps Engineer certification",
+                "AWS Developer Associate certification"
+            ],
+            "all": [
+                "AWS",
+                "JavaScript",
+                "Python",
+                "Java",
+                "Shell",
+                "AWS SDK/API",
+                "IAM",
+                "EC2",
+                "S3",
+                "AWS Costing/Billing",
+                "Quicksight reporting",
+                "Platform Engineering",
+                "Cost optimization",
+                "AWS DevOps Engineer certification",
+                "AWS Developer Associate certification"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Chandra Kanth M K",
+        "email": "chandra@northite.com",
+        "jd": "From: Chandra Kanth M K, NorthITe chandra@northite.com Reply to: chandra@northite.com Role: AWS cloud EngineerClient: MedidataLocation: New JerseyJob Description for Cloud Engineer1. Deep working experience on various tools on AWS like quicksight.2. Strong Scripting knowledge on Javascript/Python/Java/Shell, CLI, AWS SDK/API3. Deep knowledge on IAM, EC2, S3, AWS Costing/Billing, Quicksight reporting,, working with exporting/importing data for reporting4. Proven experience on handing tickets for Dev/Production environments5. Experience in Platform Engineering in optimizing the environments for cost and efficiency6. Independently think through usecases and infer details on the requirements7. Certification on AWS DevOps Engineer/Developer Associate",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:43:55-05:00",
+        "unique_id": "192c48320f699c9e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

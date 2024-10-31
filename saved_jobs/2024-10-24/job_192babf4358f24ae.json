@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Vanguard",
+        "job_title": "Python Full-stack software developer",
+        "location": "PA, USA",
+        "full_location": {
+            "city": "",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS services",
+                "Investment systems knowledge"
+            ],
+            "primary": [
+                "Full-stack software development",
+                "Automation",
+                "Communication with portfolio managers"
+            ],
+            "secondary": [
+                "Github"
+            ],
+            "all": [
+                "Python",
+                "AWS services",
+                "Investment systems knowledge",
+                "Full-stack software development",
+                "Automation",
+                "Communication with portfolio managers",
+                "Github"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Aditi",
+        "email": "aditi@3bstaffing.com",
+        "jd": "From: Aditi, 3B Staffing LLC aditi@3bstaffing.com Reply to: aditi@3bstaffing.com Title- Python Full-stack software developerVisa- H1B Only Client- Vanguard Location- PA \u2013 Hybrid (Locals only) ResponsibilitiesWork with the Vanguard Personalized Indexing portfolio management team to design and build automations to improve the team's efficiency. Automate the collection of data needed for portfolio managers to make decisions. Determine when a local solution (e.g. scripts) is the right answer versus building a more robust enhancement into existing systems.Duties and responsibilities would include full-stack software development for the Vanguard Personalized Indexing portfolio managers. This contractor would work with the Oakland based portfolio management team to understand their workflow and develop applications which focus on time savings through automation, cost savings through optimization, and risk mitigation. While an AWS certification is not required, knowledge of AWS services like lambdas, ECS and AWS infrastructure is important. Knowledge of investment systems strongly preferred. Qualifications- Investment systems knowledge (trading, securities, ect)- Ability to effectively communicate with portfolio managers, work closely with them to rapidly build solutions- Python strongly preferred- Knowledge of AWS services- Github",
+        "source": "Email",
+        "date_posted": "2024-10-23 13:23:56-05:00",
+        "unique_id": "192babf4358f24ae",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

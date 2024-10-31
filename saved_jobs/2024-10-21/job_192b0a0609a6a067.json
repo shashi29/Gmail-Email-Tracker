@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "Software Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level, 6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud (GCP)",
+                "Data Engineering",
+                "Big Query (BQ)",
+                "Google Cloud Storage (GCS)",
+                "Data Lake/Hadoop"
+            ],
+            "primary": [
+                "Data frameworks",
+                "Cloud services",
+                "Cloud architectures",
+                "DevSecOps",
+                "CI/CD pipeline",
+                "Unix platforms",
+                "Data Warehouse",
+                "SQL/analytic tools"
+            ],
+            "secondary": [
+                "Dremio",
+                "Hive",
+                "Toad",
+                "GitHub",
+                "Jenkins",
+                "Cucumber",
+                "Harness"
+            ],
+            "all": [
+                "Google Cloud (GCP)",
+                "Data Engineering",
+                "Big Query (BQ)",
+                "Google Cloud Storage (GCS)",
+                "Data Lake/Hadoop",
+                "Data frameworks",
+                "Cloud services",
+                "Cloud architectures",
+                "DevSecOps",
+                "CI/CD pipeline",
+                "Unix platforms",
+                "Data Warehouse",
+                "SQL/analytic tools",
+                "Dremio",
+                "Hive",
+                "Toad",
+                "GitHub",
+                "Jenkins",
+                "Cucumber",
+                "Harness"
+            ],
+            "with_experience": [
+                "Google Cloud (GCP)",
+                "Data Engineering",
+                "Data frameworks",
+                "Cloud services",
+                "Cloud architectures",
+                "DevSecOps",
+                "CI/CD pipeline"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Farha Khan",
+        "email": "farha.khan@tekinspirations.com",
+        "jd": "From: Farha khan, Tek Inspirations LLC farha.khan@tekinspirations.com Reply to: farha.khan@tekinspirations.com Job Description -Title: Software EngineerLocation: Charlotte, NC (3 days onsite, 2 days remote)Duration: 6+monthsMOI: skype + F2F- 1 round video, 2nd in-personSoftware Engineer 4- Bigdata/ GCP Senior resource with strong background in design and implementation of data frameworks and hands on experience building scalable data platforms on Cloud Platform.Must have strong Data Engineering experience with Google Cloud (GCP) platform and frameworks including Big Query (BQ), Google Cloud Storage (GCS), Google Dataplex, Dataproc, Dataflow and Google API offerings.Must have Hands on experience delivering end to end products with cloud services and cloud architectures at scale.Working experience building scalable data platforms on Data Lake/Hadoop infrastructure.Lead complex technology Cloud buildout and migrations to Google platforms.Build and enable cloud infrastructure, automate the orchestration of GCP cloud platforms, design and deploy service enablement solutions, and engineer patterns and landing zones for workloads in the cloud.Hands on experience with DevSecOps and SDLC tooling, CI/CD pipeline (GitHub, Jenkins, Cucumber, Harness).Must have hands on experience working on Unix platforms.Strong background building Data Warehouse and SQL/analytic tools (Dremio, Hive/Toad).Must possess excellent communication skills, ability to work with teams in various team zones.",
+        "source": "Email",
+        "date_posted": "2024-10-21 14:11:12-05:00",
+        "unique_id": "192b0a0609a6a067",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

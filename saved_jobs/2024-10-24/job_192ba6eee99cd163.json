@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "4 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "JavaScript (Node.js)",
+                "AWS services"
+            ],
+            "primary": [
+                "ECS",
+                "Lambda",
+                "RDS",
+                "Cloudwatch"
+            ],
+            "secondary": [
+                "Full Stack development experience",
+                "Prior experience working with Capital One systems and processes"
+            ],
+            "all": [
+                "JavaScript (Node.js)",
+                "AWS services",
+                "ECS",
+                "Lambda",
+                "RDS",
+                "Cloudwatch",
+                "Full Stack development experience",
+                "Prior experience working with Capital One systems and processes"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sam",
+        "email": "slenka@vyzeinc.com",
+        "jd": "Job Description -Need Candidate on PV W2****Title: Java Developer Client: Capital OneDuration: 4 monthLocation: RemoteVisa: USC, GC, GC-EAD Here is the brief job description: Job Description:We are seeking an experienced Java Developer for a 4-month contract position at Capital One. This role is remote and offers an excellent opportunity to work in a dynamic environment with a focus on cutting-edge technologies. The ideal candidate will have over 5 years of experience in software development, with a strong emphasis on JavaScript (Node.js) and AWS services. Previous experience working with Capital One is a plus.Key Responsibilities:Develop and maintain applications using JavaScript (Node.js).Design, implement, and manage AWS services including ECS, Lambda, RDS, and Cloudwatch.Collaborate with cross-functional teams to define and develop robust solutions.Participate in code reviews, provide feedback, and ensure the best practices are followed.Monitor, troubleshoot, and optimize system performance on AWS.Adhere to agile development practices and contribute to sprint goals.Must-Have Skills:5+ years of experience in software development.Proficiency in JavaScript (Node.js).Hands-on experience with AWS services: ECS, Lambda, RDS, and Cloudwatch.Nice to Have:Full Stack development experience.Prior experience working with Capital One systems and processes.Additional Information:Open to remote work or working from any Capital One office location.",
+        "source": "Email",
+        "date_posted": "2024-10-23 11:56:11-05:00",
+        "unique_id": "192ba6eee99cd163",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "company": "StellentIT",
+        "job_title": "Java SQL Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SQL",
+                "Spring Boot",
+                "PostgreSQL",
+                "Oracle"
+            ],
+            "primary": [
+                "Microservices Architecture",
+                "RESTful APIs",
+                "JUnit",
+                "GitHub",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Node 16+",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular 17+",
+                "OAuth 2.0",
+                "JWT",
+                "SAML/SSO",
+                "Bash",
+                "PowerShell",
+                "Python",
+                "MongoDB",
+                "Cassandra"
+            ],
+            "all": [
+                "Java",
+                "SQL",
+                "Spring Boot",
+                "PostgreSQL",
+                "Oracle",
+                "Microservices Architecture",
+                "RESTful APIs",
+                "JUnit",
+                "GitHub",
+                "CI/CD",
+                "Node 16+",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular 17+",
+                "OAuth 2.0",
+                "JWT",
+                "SAML/SSO",
+                "Bash",
+                "PowerShell",
+                "Python",
+                "MongoDB",
+                "Cassandra"
+            ],
+            "with_experience": [
+                "Java (7+ years)",
+                "Spring Framework",
+                "Microservices Architecture",
+                "Database Management (PostgreSQL, Oracle)",
+                "RESTful Web Services"
+            ]
+        },
+        "job_type": [
+            "hybrid",
+            "onsite"
+        ],
+        "contact_person": "abhishek",
+        "email": "abhishek@stellentit.com",
+        "jd": "From: abhishek, StellentIT abhishek@stellentit.com Reply to: abhishek@stellentit.com Java SQL Developer,Atlanta, GA12+ MonthsPhone + Skype Job description:The suitable candidate will be a Java Developer with strong database knowledge. This role will be responsible for developing and maintaining high-quality software applications, ensuring seamless integration with various database systems. Java ResponsibilitiesDevelop and maintain Java-based applications using core Java and advanced Java (Java 17).Design and implement microservices using Spring Boot and other relevant frameworks.Build and consume RESTful APIs and web services.Integrate with databases, ensuring performance optimization (e.g., SQL databases like PostgreSQL, Oracle).Write unit and integration tests using JUnit, TestNG, Mockito, or other testing frameworks.Develop SQL queries and analyze data to support application development and production issues.Implement object-oriented design principles and patterns for scalable and maintainable codebases.Ensure adherence to clean code principles and write reusable, modular code.Troubleshoot and debug Java applications, ensuring optimal performance and security.Participate in code reviews and provide constructive feedback to peers.Follow Agile methodologies (Scrum) and participate in sprints, daily stand-ups.Use version control systems like GitHub for source code management.Implement and manage CI/CD pipelines using GitHub Actions.Collaborate with DevOps teams for cloud deployment and infrastructure management (AWS).Design, configure, and implement Spring Batch jobs for processing large datasets and scheduling tasks.Implement dynamic web pages and views using JSP (Java Server Pages).Design and implement authentication and authorization mechanisms using Key Cloak for identity and access management, ensuring secure communication through OAuth 2.0 and JWT tokens.Leverage SAML/SSO integration for single sign-on and authentication.Proficiency in Postgres, PL/SQL and Oracle database technologies.Formulating data dictionaries that are congruent with task specifications.Creating technical documents that outline the purpose, capacity, and guidelines attached to each database.Providing practical guidance on the use and migration of each database.Servicing and updating databases, as required. Database ResponsibilitiesDevelopment: Design and implement PL/SQL functions, procedures, and packages to meet business requirements.Triggers: Create and manage database triggers for automation of tasks and enforcement of business rules.Performance Tuning: Optimize SQL queries and PL/SQL code for performance and scalability.Database Design: Collaborate with the data modeling team to create efficient database designs.Testing: Conduct unit and integration testing of PL/SQL code to ensure reliability and accuracy.Documentation: Maintain documentation for developed code, processes, and database schemas.Collaboration: Work closely with application developers, business analysts, and other stakeholders to gather requirements and provide technical support.Troubleshooting: Diagnose and resolve database issues, including performance bottlenecks and data integrity problems.",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:32:17-05:00",
+        "unique_id": "192c08a4326e6d1d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

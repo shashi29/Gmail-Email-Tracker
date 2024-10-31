@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "Business Analyst",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Business Analysis",
+                "Documentation",
+                "Data Analysis",
+                "User Story Creation",
+                "UAT Testing"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Business Analysis",
+                "Documentation",
+                "Data Analysis",
+                "User Story Creation",
+                "UAT Testing"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sandeep Gautam",
+        "email": "sandeep.gautam@siriinfo.com",
+        "jd": "Hello, Hope you are doing great. This is Sandeep Gautam, a recruiter working with Siri Info Solutions. Trying to reach you regarding the below job position please have a look at the job description. Please go through it and if you are comfortable with this role, reply to this email with your updated resume. Position: Business Analyst Location: Minneapolis, MN (Onsite) Duration: Contract Job Description: o Document business needs and features. o Document As-Is and To-Be business processes. o Facilitate User Story grooming sessions and create user stories. o Identify and document business and technical requirements for various features. o Conduct data analysis and data mapping on various features. o Create and maintain a streamlined documentation for all the services effort. This includes content like: Design Documents, Business/System Process flows, Source Data Mapping, Stored Proc used by API, Session log events, Test support documentation, etc. o Document UAT Test Scenarios, conduct UAT testing and facilitate UAT Training sessions.",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:28:25-05:00",
+        "unique_id": "192d939e2707d484",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "company": "SANROSE Information Services, Inc",
+        "job_title": "Oracle DBA",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle DBA",
+                "Database Administration",
+                "SQL",
+                "PL/SQL"
+            ],
+            "primary": [
+                "Oracle 19C",
+                "Oracle Cloud",
+                "Oracle Enterprise Manager (OEM)",
+                "Oracle Recovery Manager (RMAN)",
+                "Oracle Data Guard",
+                "Oracle SQL Developer",
+                "Toad"
+            ],
+            "secondary": [
+                "Database design",
+                "Database testing",
+                "Database implementation",
+                "Database maintenance",
+                "Database backup procedures",
+                "Database recovery systems",
+                "Communication skills",
+                "Troubleshooting"
+            ],
+            "all": [
+                "Oracle DBA",
+                "Database Administration",
+                "SQL",
+                "PL/SQL",
+                "Oracle 19C",
+                "Oracle Cloud",
+                "Oracle Enterprise Manager (OEM)",
+                "Oracle Recovery Manager (RMAN)",
+                "Oracle Data Guard",
+                "Oracle SQL Developer",
+                "Toad",
+                "Database design",
+                "Database testing",
+                "Database implementation",
+                "Database maintenance",
+                "Database backup procedures",
+                "Database recovery systems",
+                "Communication skills",
+                "Troubleshooting"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Diwakar",
+        "email": "recruiter1@sanrose.com",
+        "jd": "From: Diwakar, SANROSE Information Services, Inc recruiter1@sanrose.com Reply to: recruiter1@sanrose.com Role: Oracle DBA Hybrid at Tallahassee FL No OPT, CPT, H1 Transfer Need PP Number for Submission Required Experience: Education: Bachelor\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience. Certifications: Oracle DBA Required Experience: Experience working with various database management systems in database design, testing, implementation, maintenance and administration in a multiple platform environment. Experience as a Database Administrator with Oracle, preferably 19C and Cloud; Experience with database backup procedures and recovery systems; Experience with Oracle tools and utilities, including Oracle Enterprise Manager (OEM), Oracle Recovery Manager (RMAN), Oracle Data Guard, Oracle SQL Developer, and Toad; Strong understanding of SQL and PL/SQL and ability to write complex queries; Ability to effectively communicate technical information; Ability to work well with system administrators and application developers while troubleshooting issues; and Responsibilities: Installing and maintaining Oracle database software; Identifying and testing database software updates, patches, and Oracle service packs; Creating storage database structures with high-level security features; Setting up database user accounts; Implementing backup and recovery plans to protect that database against data loss and reconstruct the data if loss occurs; Participating in design and planning of database and related database objects; Minimizing database downtime and managing parameters to provide fast query responses; Developing automation scripts for routine tasks; Performing tests and evaluations regularly to ensure data security, privacy, and integrity; Maintaining database performance by identifying and resolving production and application development problems; and Writing technical procedures and documents.",
+        "source": "Email",
+        "date_posted": "2024-10-28 08:04:07-05:00",
+        "unique_id": "192d3b8d89fb26eb",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

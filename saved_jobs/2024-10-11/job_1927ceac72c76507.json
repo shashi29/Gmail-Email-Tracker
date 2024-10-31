@@ -1,0 +1,83 @@
+[
+    {
+        "company": "VizonInc",
+        "job_title": "Software Development Engineer in Test",
+        "location": "Woodbridge, NJ, USA",
+        "full_location": {
+            "city": "Woodbridge",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Selenium",
+                "JUnit",
+                "JMeter",
+                "API/web services testing"
+            ],
+            "primary": [
+                "CI/CD",
+                "Eclipse",
+                "Maven",
+                "Nexus Repository",
+                "XML",
+                "SOAP",
+                "RESTful"
+            ],
+            "secondary": [
+                "Excellent communication skills",
+                "Mobile automation frameworks",
+                "Appium",
+                "Espresso",
+                "Performance testing"
+            ],
+            "all": [
+                "Java",
+                "Selenium",
+                "JUnit",
+                "JMeter",
+                "API/web services testing",
+                "CI/CD",
+                "Eclipse",
+                "Maven",
+                "Nexus Repository",
+                "XML",
+                "SOAP",
+                "RESTful",
+                "Excellent communication skills",
+                "Mobile automation frameworks",
+                "Appium",
+                "Espresso",
+                "Performance testing"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kuldeep Sharma",
+        "email": "kuldeep@vizoninc.com",
+        "jd": "From: Kuldeep Sharma, VizonInc kuldeep@vizoninc.com Reply to: kuldeep@vizoninc.com Job Description -Software Development Engineer in Test6+ MonthsWoodbridge, NJ (Hybrid) Need Local candidates onlySkype + F2F NEED to know how to code in JAVA. NEED to be able to write algorithms.They need to be local to the Boston area or Woodbridge, NJ \u2013 the role is 4 days a week on site and final interview is on siteThey should be able to share examples on where thy did it and how did they improve performance etc. NEED Selenium Framework exp, NEED to know how to code in JAVA. NEED to be able to write algorithms.Interviews might include a screen share for them to solve an algorithm Quality Assurance Analyst You will be part of a small QA automation team working on a suite of digital sales and service applications for the insurance industry. You will have the opportunity to participate in UI-driven regression automation, load/performance testing, as well as API/web services test automation using industry-leading tool sets. If you have experience coding automated scripts for regression testing on billing or transactional web applications in a CI/CD environmentEssential Duties and Responsibilities:- Develop and execute software test plans in order to identify software problems and their causes.- Develop structured testing methods, tools and templates, manage and monitor bug detection, resolve and track successes.- Create and maintain UI-driven regression automation test scripts using Selenium.- Create and maintain performance and load test scripts using Junit, JMeter and Selenium Grid.- Create and maintain API/web services automation test scripts using Selenium.- Facilitate the integration of the test process into the development cycles to support the Continuous Integration environment using tools such as Jenkins, Maven and Nexus Repository- Creation and management of test data for use by automated scripts- Provide feedback and recommendations to developers on software usability and functionality.- Support user or third party testing.- Develop and maintain mobile automation frameworks using tools like Appium, Espresso.- Design, implement, and execute automated tests for mobile applications on iOS and Android platforms.Key Requirements:3-8 years of experience working with advanced automation testing tools and techniques.Strong knowledge of, and experience with, software development processes and procedures applied to a range of web technologies such as Java, Javascript and SQL.Experience with IDE\u2019s such as Eclipse (preferred)Experience with Jenkins, Maven, SVN, Nexus repositoryPrior experience developing test automation with Selenium.3-8 years of experience developing software test cases and plans.Experience using and testing with XML and web services (SOAP and RESTful); Web services test automation using SoapUI or JMeter highly desirable.Excellent skills as a communicator and facilitator, both written and oral.Prior experience testing property & casualty applications a plus.Experience developing mobile automation frameworks from scratch is highly desirable.",
+        "source": "Email",
+        "date_posted": "2024-10-11 13:14:28-05:00",
+        "unique_id": "1927ceac72c76507",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

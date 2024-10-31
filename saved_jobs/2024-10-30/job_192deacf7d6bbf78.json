@@ -1,0 +1,80 @@
+[
+    {
+        "company": "CodersAmerica",
+        "job_title": "Python Architect",
+        "location": "San Diego, CA, USA",
+        "full_location": {
+            "city": "San Diego",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Locust",
+                "Performance Testing",
+                "APM",
+                "Datadog"
+            ],
+            "primary": [
+                "Enterprise and Project Performance Test strategies",
+                "Framework development",
+                "Collaboration with Development and Product teams",
+                "Performance Testing lifecycle",
+                "Test result analysis"
+            ],
+            "secondary": [
+                "Automated Performance Testing in CI/CD",
+                "Production monitoring dashboards",
+                "Microservices",
+                "Docker",
+                "Kubernetes",
+                "Application architecture concepts"
+            ],
+            "all": [
+                "Python",
+                "Locust",
+                "Performance Testing",
+                "APM",
+                "Datadog",
+                "Enterprise and Project Performance Test strategies",
+                "Framework development",
+                "Collaboration with Development and Product teams",
+                "Performance Testing lifecycle",
+                "Test result analysis",
+                "Automated Performance Testing in CI/CD",
+                "Production monitoring dashboards",
+                "Microservices",
+                "Docker",
+                "Kubernetes",
+                "Application architecture concepts"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Krish Kumar",
+        "email": "krish@codersamerica.com",
+        "jd": "Hi,\nHope you are doing great!!\n\nplease send me an updated copy of your resume and below details.\n\nPosition: Python Architect\nLocation: San Diego, CA\nDuration: Long term\n\nJob Description:\n\nMandatory Skills\n- Ability to develop Enterprise and Project Performance Test strategies\n- Strong Python/ Locust tool skills\n- Proven ability to develop frameworks preferably performance testing frameworks\n- Collaborate with Development, Product owners, solution architects, business teams\n- Good understanding of Performance Testing and Engineering lifecycle, including scoping and workload modeling\n- Conduct performance tests \u2013 Load, Stress, Endurance etc\n- Ability to analyze test results and provide performance improvement recommendations\n- Demonstrated experience with APM, preferably Datadog\n- Working knowledge of distributed Cache, Load Balancers, Database systems\n- Good project planning skills\n- Be able to identify improvement areas and implement for delivery excellence\n- Strong problem-solving skills\n- Strong written and verbal communication skills\n- Interest in learning new tools and technologies\n\nGood to have skills\n- Design and implement automated Performance Testing in the CI/CD pipeline.\n- Experienced in setting up Production monitoring dashboards based on business and IT goals\n- Experience with micros servers based on architecture and containerization-based deployments like Docker, Kubernetes\n- Knowledge of application architecture concepts, including topology, protocols, components, and principles would be advantageous\n- Good communication and interpersonal skills.\n\nIf you are interested in this job position mentioned please respond with your resume in MS word format with these details.\nFull Name:\nCurrent Location:\nContact No (Cell Number):\nEmail ID:\nSkype id:\nLinkedin id:\nVisa Status:\nAvailability:\nCurrently on Project (Y/N):\nOpen to relocate:\nLast 4 digits of SSN:\nPassport No:\nTotal Exp:\nUS Exp:\nRate:\nLast 2 References:\nReference Name:\nReference Email id:\nDesignation:\nContact No:\nReference Email id:\nDesignation:\nContact No:\n\nThanks & Regards,\nKrish Kumar,\nSenior IT Recruiter\nCodersAmerica\nkrish@codersamerica.com",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:00:43-05:00",
+        "unique_id": "192deacf7d6bbf78",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "company": "New Jersey Department of Health",
+        "job_title": "SQL Developer (OLTP/SQL Server Developer)",
+        "location": "Trenton, NJ, USA",
+        "full_location": {
+            "city": "Trenton",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "T-SQL",
+                "OLTP",
+                "SQL Server Integration Services (SSIS)",
+                "SQL Server Reporting Services (SSRS)"
+            ],
+            "primary": [
+                "Microsoft SQL Server 2017 and above",
+                "Database design",
+                "Performance optimization",
+                "Troubleshooting SQL Server outages",
+                "Multi-database environments"
+            ],
+            "secondary": [
+                "Light experience with Oracle",
+                "Custom application environments"
+            ],
+            "all": [
+                "SQL Server",
+                "T-SQL",
+                "OLTP",
+                "SQL Server Integration Services (SSIS)",
+                "SQL Server Reporting Services (SSRS)",
+                "Microsoft SQL Server 2017 and above",
+                "Database design",
+                "Performance optimization",
+                "Troubleshooting SQL Server outages",
+                "Multi-database environments",
+                "Light experience with Oracle",
+                "Custom application environments"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "kishan kumar",
+        "email": "kishan@sibitalent.com",
+        "jd": "From: kishan kumar, sibi talent kishan@sibitalent.com Reply to: kishan@sibitalent.com Job Title: SQL Developer (OLTP/SQL Server Developer)Client: New Jersey Department of HealthLocation: 55 N. Willow St, Trenton, NJ 08618 (2-3 days in office)Contract Type: 2-3 days in-office, hybrid modelJob Overview:We are seeking a highly skilled SQL Developer with advanced experience in SQL Server development and a strong focus on OLTP (Online Transactional Processing) systems. The role involves designing, developing, and maintaining databases for custom applications while optimizing SQL queries and stored procedures for maximum efficiency and performance. This is a SQL Server Developer DBA role, emphasizing SQL Server development rather than BI tools.Key Responsibilities:Design and develop complex SQL queries, stored procedures, and database solutions for highly concurrent OLTP systems.Lead the planning and development of database solutions and technology standards for solving complex business problems.Write, debug, optimize, and performance-tune T-SQL queries, stored procedures, views, UDFs, and dynamic queries.Manage multi-DB environments, including production setups, and troubleshoot SQL Server outages.Collaborate with cross-functional teams to recommend and implement system improvements.Develop, deploy, and maintain SQL Server databases for custom applications.Provide support for SQL Server Integration Services (SSIS) and SQL Server Reporting Services (SSRS).Continuously monitor system health and performance, implementing enhancements as necessary.Required Skills and Experience:Extensive experience in SQL Server technologies, specifically Microsoft SQL Server 2017 and above.Advanced proficiency in writing complex T-SQL queries, stored procedures, and dynamic queries.Expertise in designing and managing databases for highly concurrent OLTP systems.Experience with SQL Server Integration Services (SSIS) and SQL Server Reporting Services (SSRS).Strong knowledge of indexes, constraints, views, UDFs, and T-SQL functions.Proven track record in troubleshooting and resolving SQL Server service outages.Experience in managing production and multi-database environments.Preferred Skills:Light experience with Oracle is acceptable, but this position emphasizes SQL Server development.Prior experience working in custom application environments.This position is ideal for an advanced SQL developer who excels in database design, performance optimization, and working within OLTP environments. You'll be responsible for core database development and ensuring system performance and reliability across multiple DB environments.",
+        "source": "Email",
+        "date_posted": "2024-10-24 15:05:47-05:00",
+        "unique_id": "192c068509547d93",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

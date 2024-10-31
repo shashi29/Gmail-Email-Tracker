@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Abidi Solutions",
+        "job_title": "Teradata Engineer/Data Engineer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science or equivalent",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Teradata Utilities",
+                "ETL Development",
+                "Data Modeling",
+                "Query Optimization",
+                "AWS Services"
+            ],
+            "primary": [
+                "Data Security",
+                "Cloud Integration",
+                "Automation",
+                "Scripting Skills",
+                "Advanced Teradata Expertise"
+            ],
+            "secondary": [
+                "Data Governance",
+                "Performance Tuning",
+                "Shell",
+                "Python",
+                "AWS CloudFormation",
+                "Terraform"
+            ],
+            "all": [
+                "Teradata Utilities",
+                "ETL Development",
+                "Data Modeling",
+                "Query Optimization",
+                "AWS Services",
+                "Data Security",
+                "Cloud Integration",
+                "Automation",
+                "Scripting Skills",
+                "Advanced Teradata Expertise",
+                "Data Governance",
+                "Performance Tuning",
+                "Shell",
+                "Python",
+                "AWS CloudFormation",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shaik Mohammed",
+        "email": "smohammed@abidisolutions.com",
+        "jd": "From: shaik mohammed, www.abidisolutions.com smohammed@abidisolutions.com Reply to: smohammed@abidisolutions.com Job Title: Teradata Engineer/Data EngineerHybrid: Atlanta, GAVisa: all visa is workable except H1b, OPT, and CPT(Hybrid) (No H1b, OPT, and CPT) The OpportunityWe\u2019re looking for a Senior Data Engineer to join the Enterprise Data Services team, transforming data from various sources to deliver actionable insights for business stakeholders. You\u2019ll use cloud-based infrastructure to build solutions that are scalable, reliable, and efficient. This role involves working closely with Data Engineers, Analysts, DBAs, cross-functional teams, and business leaders to design, implement, and manage data engineering solutions using Agile practices that empower better business decisions.What We\u2019re Looking ForWe need someone who is self-motivated, independent, and experienced with all phases of the software development lifecycle, from design through deployment. A strong understanding of data lifecycles is essential, especially how quality data supports business analytics, reporting, and machine learning. If you have a passion for solving complex problems and turning data into impactful solutions, this could be the role for you.We value someone who thrives in fast-paced environments and can take ownership of technical projects. Clear communication skills are essential, as you'll work with a wide range of business and technical stakeholders. The ideal candidate will also bring a can-do attitude and the ability to mentor other engineers when needed.Preferred QualificationsBachelor\u2019s degree in Computer Science or equivalentVantage Master 2.0 / Data Science Master certifications7+ years of professional experience post-degree5+ years in the airline industry4+ years building and maintaining ETL pipelines3+ years with database technologies (e.g., Python, PLSQL)Experience mentoring junior engineers through code reviewsStrong background in test case development to ensure data quality and reliabilityTrack record of adopting new technologies to improve pipelinesProficient in query optimization, indexing, and performance tuningExperience identifying business rules and risks associated with data sourcesKey Responsibilities & SkillsDatabase Management & ETL Development \u2013 Experience with Teradata Utilities (e.g., BTEQ, FastLoad, MultiLoad, TPT)Data Modeling & Performance Tuning \u2013 Expertise in query optimization and indexingData Security & Governance \u2013 Ensure data meets security and compliance standardsCloud Integration & Infrastructure \u2013 Hands-on with AWS services like EC2, S3, RDS, Lambda, CloudWatchAutomation & DevOps \u2013 Automate tasks and workflows using AWS Lambda, Step Functions, GlueAdvanced Teradata Expertise \u2013 In-depth knowledge of Teradata architecture (AMPs, Nodes, Parsing Engines)Scripting Skills \u2013 Experience with Shell, Python for automationFamiliar with AWS storage solutions (e.g., S3, Glacier) and integration with RedshiftHands-on with AWS CloudFormation, Terraform, or similar tools for infrastructure automation",
+        "source": "Email",
+        "date_posted": "2024-10-29 16:08:09-05:00",
+        "unique_id": "192da3b84cc82ead",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

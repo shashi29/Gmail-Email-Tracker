@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Delaware Dept of Education (DOE)",
+        "job_title": "SQL Server Developer/DBA",
+        "location": "Dover, DE, USA",
+        "full_location": {
+            "city": "Dover",
+            "state": "DE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server 2017",
+                "Complex SQL queries",
+                "SSIS packages",
+                "ETL pipeline processes"
+            ],
+            "primary": [
+                "Visual Studio 2022",
+                "Visual Studio 2019",
+                "Data mapping",
+                "Octopus deployments",
+                "Performance tuning"
+            ],
+            "secondary": [
+                "Collaboration with teams",
+                "State/government client experience",
+                "Project description in resume",
+                "Handling CSV files"
+            ],
+            "all": [
+                "SQL Server 2017",
+                "Complex SQL queries",
+                "SSIS packages",
+                "ETL pipeline processes",
+                "Visual Studio 2022",
+                "Visual Studio 2019",
+                "Data mapping",
+                "Octopus deployments",
+                "Performance tuning",
+                "Collaboration with teams",
+                "State/government client experience",
+                "Project description in resume",
+                "Handling CSV files"
+            ],
+            "with_experience": [
+                "SQL Server 2017",
+                "Complex SQL queries",
+                "SSIS packages",
+                "ETL pipeline processes"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "From: Vinita Singh, Tek Inspirations vinita.singh@tekinspirations.com Reply to: vinita.singh@tekinspirations.com job Description -Job Position ::: SQL Server Developer/DBA Hybrid - Dover, DE (Candidate must be local ) Client - Delaware Dept of Education (DOE). USC/GC/GCEAD/H4EAD Need LINKEDIN Each project should have project description in resume State / govt client experience required Here is a preliminary rundown of the skills and experiences they will be looking for. 1. Solid experience with SQL Server 2017 and newer versions. 2. Skilled in writing complex SQL queries, especially involving joins. 3. Build and maintain SSIS packages using Visual Studio 2022/2019. 4. Gather CSV files for PSAT10, SAT, IAB, and other assessments from different vendors. 5. Handle export of CSV files, ensuring accurate mapping of teachers and students for vendors. 6. Run ETL pipeline processes as needed to keep data flowing smoothly into Staging and then to iMart Databases. 7. Manage deployments, mainly using Octopus, to ensure everything rolled out smoothly. 8. Improve the performance of existing processes by fine-tuning code and making it more efficient. 9. Collaborate closely with the data, assessments, security, and storage teams Thanks and Regards, Vinita Singh Technical Recruiter TEK Inspirations LLC | 13573 Tabasco Cat Trail, Frisco, TX 75035 E: vinita.singh@tekinspirations.com Contact No-+ 469-205-(6817)",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:39:32-05:00",
+        "unique_id": "192c0301829b157d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "company": "VYZE INC",
+        "job_title": "Sr. Big Data Engineer",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Scala",
+                "Spark",
+                "SQL"
+            ],
+            "primary": [
+                "Python",
+                "CI/CD",
+                "Jenkins",
+                "Airflow",
+                "Data warehousing"
+            ],
+            "secondary": [
+                "Programming design patterns",
+                "System design",
+                "Data processing",
+                "Data manipulation"
+            ],
+            "all": [
+                "Scala",
+                "Spark",
+                "SQL",
+                "Python",
+                "CI/CD",
+                "Jenkins",
+                "Airflow",
+                "Data warehousing",
+                "Programming design patterns",
+                "System design",
+                "Data processing",
+                "Data manipulation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manendra Das",
+        "email": "mdas@vyzeinc.com",
+        "jd": "From: Manendra das, VYZE INC mdas@vyzeinc.com Reply to: mdas@vyzeinc.com HiHope you are doing great, Please go through the below job description and provide me your consultant updated resume. Sr. Big Data EngineerLocation: Sunnyvale, CA (Local Candidates Only) On-Site Role Duration: 12+ MonthsVisa: USC, GC Only MOI: Skype Must Have: LinkedIn Is MustStrong Scala, Spark, SQLMust pass Glider test! Skills\u2022 Professional hand-on experience in Scala/Python.\u2022 Professional hand-on experience in Sql and QueryOptimization.\u2022 Experience in programming design patterns.\u2022 Experience in system design.\u2022 Should have Experience with CI/CD tool like Jenkins etc. \u2022 Should have Experience with Orchestration tools likeAirflow/ Automic etc.\u2022 Should have hand-on experience in Data processing and Data manipulation skills like Data warehousing concepts, SCD types etc.\u2022 Atleast one cloud exposure (GCP is preferred). Best Regards,Manendra DasTechnical Recruiter,VYZE INC. (An E-Verified Company),Phone: 1 571-370-488724718 Tribe Square #306, Dulles VA 20166 Email mdas@vyzeinc.comDisclaimer: This communication, along with any documents, files or attachments, is intended only for the use of the addressee and may contain confidential information. If you are not the intended recipient, you are hereby notified that any dissemination, distribution or copying of any information contained in or attached to this communication is strictly prohibited, To remove your email address permanently from future mailings",
+        "source": "Email",
+        "date_posted": "2024-10-28 16:59:38-05:00",
+        "unique_id": "192d55dc24013b0c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

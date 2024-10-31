@@ -1,0 +1,77 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "Sr Java Developer",
+        "location": "Waltham, MA, USA",
+        "full_location": {
+            "city": "Waltham",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Kafka"
+            ],
+            "primary": [
+                "JSON",
+                "Web Services",
+                "XML",
+                "XSLT",
+                "PL/SQL"
+            ],
+            "secondary": [
+                "Unit Testing",
+                "Integration Testing",
+                "Documentation",
+                "Problem Solving",
+                "Team Coordination"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Kafka",
+                "JSON",
+                "Web Services",
+                "XML",
+                "XSLT",
+                "PL/SQL",
+                "Unit Testing",
+                "Integration Testing",
+                "Documentation",
+                "Problem Solving",
+                "Team Coordination"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Venkat Gayam",
+        "email": "venkat.g@itechus.net",
+        "jd": "Greetings from iTech US Inc.! We have an urgent requirement for you and the details are as follows\u2026 Job Title: Sr Java Developer Location: Waltham MA (Day1 onsite) Duration: 6+ Months (Implementation/Prime Vendor Partner: TCS) Job Details: Need Strong profile on Sr Java Developer with 8+yrs IT exp. Job Description: Design and implement enterprise level microservices using the spring boot framework. Analyzing and assessing user issues and working with other team members to perform systems review and problem solving in a timely and accurate fashion. Working in a fast-paced and team-oriented environment. - onsite - offshore coordination - guide the offshore team and review work Implementing unit test coverage. Identifying and resolving bugs Ensuring the design criteria are satisfied. Producing well-written documentation for each microservice. Disseminating and sharing knowledge. Creating and deploying microservices using the Spring Boot framework. Adhering to the whole Software Development Life Cycle. Interconnecting microservices with databases. Utilizing Event Driven Design (i.e., Kafka). Create solutions that are high-quality, scalable, and maintainable, with an emphasis on backend systems and related technologies Carry out unit and integration tests Interconnecting microservices with databases Demonstrate strong design and programming skills using JSON, Web Services, XML, XSLT, PL/SQL in Unix and Windows environments.",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:42:44-05:00",
+        "unique_id": "192c4af43a81ff88",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

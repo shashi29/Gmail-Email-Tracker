@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Cygnus Professionals",
+        "job_title": "Databricks DevOps",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Data Modeling",
+                "PySpark",
+                "Python",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Azure Storage"
+            ],
+            "primary": [
+                "Data Engineering",
+                "CI/CD",
+                "DevOps",
+                "GIT",
+                "Testing automation"
+            ],
+            "secondary": [
+                "Healthcare Domain knowledge",
+                "Productionizing data pipelines",
+                "Pytest"
+            ],
+            "all": [
+                "SQL",
+                "Data Modeling",
+                "PySpark",
+                "Python",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Azure Storage",
+                "Data Engineering",
+                "CI/CD",
+                "DevOps",
+                "GIT",
+                "Testing automation",
+                "Healthcare Domain knowledge",
+                "Productionizing data pipelines",
+                "Pytest"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Syed Zameer Ahmed",
+        "email": "ahmed@cygnuspro.com",
+        "jd": "From: Syed Zameer Ahmed, Cygnus Professionals ahmed@cygnuspro.com Reply to: ahmed@cygnuspro.com Job Title: Databricks DevOpsLocation: (Remote Role)Duration: Long-term ContractNOTE: Please don't send DevOps profiles. Share Data Engineer or Databricks profiles with DevOps/CI/CD experience.Job Description:Handled data engineering projects for batch and streaming ingestion. Structured and unstructured data management - 5+YearExpert SQL Developer with Data Modeling experience - 5+YearPySpark, Python - 3+YearAzure Data Factory, Azure Databricks, Azure Storage - 3+YearHealthcare Domain & Data knowledge - 3+YearCI/CD, DevOps, GIT, Productionizing data pipelines - 2+YearTesting automation using Pytest or other frameworks - 2+Year.If you are interested, please share me a copy of your resume along with following details ASAP.Required Details:Full Name:Current Location:Expected Rate: Work Authorization:Best Regards, Syed Zameer AhmedE: ahmed@cygnuspro.com",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:34:54-05:00",
+        "unique_id": "192d49db1458fc98",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

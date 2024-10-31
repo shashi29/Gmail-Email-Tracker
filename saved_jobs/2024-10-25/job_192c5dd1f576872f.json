@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Nitya Software Solution",
+        "job_title": "Azure .Net Developer",
+        "location": "Langhorne, PA, USA",
+        "full_location": {
+            "city": "Langhorne",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months contract to hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure cloud solution",
+                ".Net",
+                "C#",
+                "communication",
+                "teamwork"
+            ],
+            "primary": [
+                "architecture",
+                "design",
+                "backend development",
+                "Docker",
+                "MongoDB",
+                "ReactJS",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "FDA 510(K) process",
+                "quality system requirements",
+                "ISO9001",
+                "ISO13485",
+                "IEC62304",
+                "Azure Solutions Architect Certification"
+            ],
+            "all": [
+                "Azure cloud solution",
+                ".Net",
+                "C#",
+                "communication",
+                "teamwork",
+                "architecture",
+                "design",
+                "backend development",
+                "Docker",
+                "MongoDB",
+                "ReactJS",
+                "Azure DevOps",
+                "FDA 510(K) process",
+                "quality system requirements",
+                "ISO9001",
+                "ISO13485",
+                "IEC62304",
+                "Azure Solutions Architect Certification"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nitya",
+        "email": "ryan@nityainc.com",
+        "jd": "From: Nitya, Nitya software solution ryan@nityainc.com Reply to: ryan@nityainc.com Azure .Net DeveloperLocation: Langhorne, PA - Onsite6 months contract to hireJob Description:Our client is searching for an Azure .Net DeveloperRequired Skills:Architecture, design, and implementation of an Azure cloud solutionAssist in the development of backend .Net/C# software for a web applicationStrong communication and teamwork abilities.Bonus/Soft Skills: Familiarity with FDA 510(K) process and quality system requirements ISO9001/13485 and IEC62304Azure Solutions Architect CertificationExperience with some or all of the following technologies: Docker, MongoDB, ReactJS, Azure DevOps.REMARKScandidate must be USC/GC and can convert to FTE with client**Could go to 3-4 days onsite at some point",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:19:07-05:00",
+        "unique_id": "192c5dd1f576872f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

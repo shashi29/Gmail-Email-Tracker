@@ -1,0 +1,94 @@
+[
+    {
+        "company": "SMART IT FRAME",
+        "job_title": "AWS Data Engineer ll",
+        "location": "Torrance, CA, USA",
+        "full_location": {
+            "city": "Torrance",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7-10 years",
+            "degree_required": "Bachelor\u2019s degree in computer science information technology or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Glue",
+                "EMR",
+                "Lambda",
+                "Redshift",
+                "PySpark",
+                "Python"
+            ],
+            "primary": [
+                "ETL processes",
+                "Database design",
+                "AWS tools and technologies",
+                "S3",
+                "Athena",
+                "Postgres",
+                "RDS"
+            ],
+            "secondary": [
+                "Data security",
+                "Privacy",
+                "Compliance",
+                "CICD implementation",
+                "Agile development",
+                "Technical guidance",
+                "Mentorship"
+            ],
+            "all": [
+                "AWS Glue",
+                "EMR",
+                "Lambda",
+                "Redshift",
+                "PySpark",
+                "Python",
+                "ETL processes",
+                "Database design",
+                "AWS tools and technologies",
+                "S3",
+                "Athena",
+                "Postgres",
+                "RDS",
+                "Data security",
+                "Privacy",
+                "Compliance",
+                "CICD implementation",
+                "Agile development",
+                "Technical guidance",
+                "Mentorship"
+            ],
+            "with_experience": [
+                "AWS tools and technologies (5 years)",
+                "Programming languages (5 years)",
+                "Databases, data marts, data warehouses (3 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sona Chhabra",
+        "email": "sona@smartitframe.com",
+        "jd": "From: Sona Chhabra, SMART IT FRAME sona@smartitframe.com Reply to: sona@smartitframe.com Job Location: AWS Data Engineer (AWS Glue EMR Lambda Redshift)Location : Torrance, CA - Onsite Duration- 12+ Months Job Description: Responsibilities- Bachelor\u2019s degree in computer science information technology or a related field A master\u2019s degree can be advantageous 7-10 years of experience in data engineering database design ETL processes 5 in programming languages such as PySpark Python 5 years of experience with AWS tools and technologies S3 EMR Glue Athena RedShift Postgres RDS Lambda PySpark3 years of experience of working with databases data marts data warehousesProven experience in ETL development system integration and CICD implementationExperience in complex database objects to move the changed data across multiple environmentsSolid understanding of data security privacy and compliance Excellent problem solving and communication skills Display good communication skills to effectively collaborate with multifunctional teams Participate in agile development processes including sprint planning standups and retrospectivesProvide technical guidance and mentorship to junior developersAttention to detail and a commitment to data quality Continuous learning mindset to keep up with evolving technologies and best practices in data engineering",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:54:19-05:00",
+        "unique_id": "192bf3a4f7198846",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

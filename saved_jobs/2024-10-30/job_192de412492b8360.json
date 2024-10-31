@@ -1,0 +1,89 @@
+[
+    {
+        "company": "TechStar Group",
+        "job_title": ".Net Developer",
+        "location": "Redmond, WA, USA",
+        "full_location": {
+            "city": "Redmond",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "Shyam",
+            "email": "shyam@techstargroup.com"
+        },
+        "skills": {
+            "core": [
+                "Core .NET",
+                "API Integration",
+                "Azure",
+                "C#",
+                ".NET core",
+                "Web App development",
+                "Azure Functions",
+                "Azure Logic Apps",
+                "Azure Service Bus",
+                "Azure Event Grid",
+                "Azure Pipelines",
+                "ReactJS",
+                "JavaScript"
+            ],
+            "primary": [
+                "Azure Data skills",
+                "ADF Pipelines",
+                "Azure Synapse",
+                "Azure Data Lake",
+                "Dynamics 365 CE skills",
+                "Power Platform",
+                "TypeScript"
+            ],
+            "secondary": [],
+            "all": [
+                "Core .NET",
+                "API Integration",
+                "Azure",
+                "C#",
+                ".NET core",
+                "Web App development",
+                "Azure Functions",
+                "Azure Logic Apps",
+                "Azure Service Bus",
+                "Azure Event Grid",
+                "Azure Pipelines",
+                "ReactJS",
+                "JavaScript",
+                "Azure Data skills",
+                "ADF Pipelines",
+                "Azure Synapse",
+                "Azure Data Lake",
+                "Dynamics 365 CE skills",
+                "Power Platform",
+                "TypeScript"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "jd": "Job Title: .Net Developer\nLocation: Redmond, WA (Hybrid \u2013 3 Days Onsite)\n\nMust Have Skills:\nStrong hands-on experience in Core .NET + API Integration skills + Azure (Senior resource who can also unblock team members in case of technical issues blockers)\nC#, .NET core Web App developer capable of deploying hosting on App Services.\nAzure Functions\nAzure Logic Apps\nAzure Service Bus, Azure Event Grid\nDeployment using Azure Pipelines\nReactJS\nJavaScript\n\nGood To Have:\nAzure Data skills like, ADF Pipelines, Azure Synapse, Azure Data Lake, Dynamics 365 CE skills and Power Platform\nTypeScript\n\n(1.) To be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity.\n(2.) To conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization, implementation of best practices and coding standards to ensure successful delivery of complex projects.\n(3.) To ensure process compliance in the assigned module and participate in technical discussions/review as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations).\n(4.) To collaborate with stakeholders to define project scope, objectives, deliverables and accordingly prepare and submit status reports for minimizing exposure & closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-30 10:04:35-05:00",
+        "unique_id": "192de412492b8360",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

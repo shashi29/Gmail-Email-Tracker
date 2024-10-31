@@ -1,0 +1,63 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Cloud Infrastructure Services",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure native Databases",
+                "Data and Data pipeline analysis",
+                "Data encryption & access controls",
+                "Agile development",
+                "Storage solutions in AWS & Azure",
+                "Azure Data Migration Tools"
+            ],
+            "primary": [
+                "DataLake",
+                "DWH",
+                "BI tools like PowerBI",
+                "Tableau"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure native Databases",
+                "Data and Data pipeline analysis",
+                "Data encryption & access controls",
+                "Agile development",
+                "Storage solutions in AWS & Azure",
+                "Azure Data Migration Tools",
+                "DataLake",
+                "DWH",
+                "BI tools like PowerBI",
+                "Tableau"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "From: rajkumar, NITYA Software Solutions Inc. rajkumar.v@nityainc.com Reply to: rajkumar.v@nityainc.com Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: Cloud Infrastructure ServicesExtensive knowledge on Azure native DatabasesData and Data pipeline analysisData encryption & access controlsAgile developmentStorage solutions in AWS & AzureAzure Data Migration Tools experience like DMS, Databox, ADFDataLake and DWHBI tools like PowerBI / TableauThank you,RajkumarEMAIL ID:rajkumar.v@nityainc.comNITYA Software Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-14 15:05:10-05:00",
+        "unique_id": "1928d4cf8e812a60",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

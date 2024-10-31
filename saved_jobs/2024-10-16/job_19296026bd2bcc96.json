@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Cigniti",
+        "job_title": "Azure Architect",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GIT Hub Actions",
+                "Azure Infra",
+                "Azure Apps",
+                "Terraform"
+            ],
+            "primary": [
+                "Docker",
+                "Azure Kubernetes (AKS)"
+            ],
+            "secondary": [],
+            "all": [
+                "GIT Hub Actions",
+                "Azure Infra",
+                "Azure Apps",
+                "Terraform",
+                "Docker",
+                "Azure Kubernetes (AKS)"
+            ],
+            "with_experience": [
+                "GIT Hub Actions",
+                "Azure Infra",
+                "Azure Apps",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Hannah Rwaltz",
+        "email": "hannah@rwaltz.com",
+        "jd": "From: Hannah, Rwaltz hannah@rwaltz.com Reply to: hannah@rwaltz.com Job Title: Azure ArchitectLocation : Chicago IL \u2013 Day 1 onsiteHiring Process: Video CallDuration: Long TermNote: Cigniti Is Implementing this ProjectRequired:Strong communication Hands on experience inGIT Hub Actions (Must)Azure Infra and Azure Apps (Must)Terraform (Must)Docker (Nice to have)Azure Kubernetes (AKS) (Nice to have) Responsibilities:Performs system administration (Linux/Unix or Windows) at the command-line level.Maintains Docker and Kubernetes infrastructure.Build pipes to migrate on prem work loads to cloudProvides guidance and expertise on system options including identifying risk, impact and costs vs. benefits. Create requirements and development forecasts to allow for timely and accurate planning of projects.Installs and configures solutions, implements reusable components, translates technical requirements, assists with all stages of test data, develop interface stubs and simulators and performs script maintenance and updates.Deploys new modules and upgrades and complete fixes including CI/CD, continuous testing, app performance monitoring, infrastructure settings and configurations.Performs routine application maintenance tasksCreates requirements and procedures for implementing routine maintenance.Troubleshoots existing information systems for errors and resolving those errorsProvisions multi-tier architectures: load balancers, caching, web servers, application servers, databases, and networking. Basic monitoring techniques in a dynamic environment.Infrastructure as Code: design with security, configuration management, integration, deployment, performance monitoring and tuning, automation of infrastructure.Creates automated build and release pipelines for code deploymentsPerforms other duties, as assigned.",
+        "source": "Email",
+        "date_posted": "2024-10-16 10:09:13-05:00",
+        "unique_id": "19296026bd2bcc96",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

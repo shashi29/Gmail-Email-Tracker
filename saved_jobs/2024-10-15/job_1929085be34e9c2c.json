@@ -1,0 +1,74 @@
+[
+    {
+        "company": "iTech US",
+        "job_title": ".Net",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": ""
+        },
+        "skills": {
+            "core": [
+                ".NET Core",
+                "Microservices",
+                "ASP.Net",
+                "C#.Net"
+            ],
+            "primary": [
+                "Domain Driven Design (DDD)",
+                "Event Driven Architecture (EDA)",
+                "API-first Architectures",
+                "Kafka Implementation",
+                "Cloud-native architectures",
+                "RDBMS",
+                "NoSQL Data Modelling",
+                "DevOps methodologies",
+                "Automation tools"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET Core",
+                "Microservices",
+                "ASP.Net",
+                "C#.Net",
+                "Domain Driven Design (DDD)",
+                "Event Driven Architecture (EDA)",
+                "API-first Architectures",
+                "Kafka Implementation",
+                "Cloud-native architectures",
+                "RDBMS",
+                "NoSQL Data Modelling",
+                "DevOps methodologies",
+                "Automation tools"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Divya Sai",
+        "email": "divya.c@itechus.net",
+        "jd": "HelloThis is Divya Sai from iTech US, we have an urgent Job opening from one our client, please go through below JD if you are interested, please share me your updated resume.Role : .Net Location: Raleigh/RTP,NC (Locals)Type : ContractDescription:DeveloperAgile DevelopmentDigital : Microservices, Core .NET Technologies, RDBMS Concepts8-10At least 8 years of overall experience in .Net Core Net Core Experience (ASP.Net, C#.Net) Microservices, Domain Driven Design (DDD), Event Driven Architecture (EDA) and API-first Architectures Kafka Implementation experience Knowledge and experience in cloud-native architectures and services in at least one public cloud platform RDBMS, NoSQL Data Modelling and Design conceptsStrong understanding of DevOps methodologies and automation tools.NET CORE MicroservicesDivya Sai ChanduiTech US Inc,Email:divya.c@itechus.netPh:18028510921 Ext:308",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:34:22-05:00",
+        "unique_id": "1929085be34e9c2c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

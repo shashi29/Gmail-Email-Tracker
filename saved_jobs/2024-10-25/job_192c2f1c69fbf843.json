@@ -1,0 +1,71 @@
+[
+    {
+        "company": "ITECS",
+        "job_title": "Performance Engineering ON SITE PX",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Any Visa will work.",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Performance tuning",
+                "Code optimization",
+                "Performance tests",
+                "JMeter",
+                "K6",
+                "Mock framework development",
+                "Dynatrace",
+                "Splunk",
+                "Prometheus",
+                "Grafana",
+                "Kafka"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Springboot",
+                "Performance tuning",
+                "Code optimization",
+                "Performance tests",
+                "JMeter",
+                "K6",
+                "Mock framework development",
+                "Dynatrace",
+                "Splunk",
+                "Prometheus",
+                "Grafana",
+                "Kafka"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "Performance Engineering **ON SITE PX**Phoenix, AZ (Onsite) Any Visa will work. Skills: Java / Springboot (Must)Strong Performance tuning & code optimization experience (Must have)Experience enabling performance tests as part of the CI pipeline (Must have)Experience with tools like JMeter & K6 (Must)Mock framework development experience (Jmock Mockito etc)Experience with building performance dashboards (Dynatrace Splunk Prometheus Grafana etc.) (Must have)Kafka experience",
+        "source": "Email",
+        "date_posted": "2024-10-25 03:36:08-05:00",
+        "unique_id": "192c2f1c69fbf843",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

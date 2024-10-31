@@ -1,0 +1,74 @@
+[
+    {
+        "company": "smartitframe",
+        "job_title": ".NET Developer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server 2016",
+                "Stored Procedures",
+                "SSIS",
+                "SSRS",
+                "Angular",
+                "Microservices",
+                "Web API",
+                "Unit Testing",
+                "ASP.Net",
+                ".Net Core"
+            ],
+            "primary": [
+                "Architecture and Design"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL Server 2016",
+                "Stored Procedures",
+                "SSIS",
+                "SSRS",
+                "Angular",
+                "Microservices",
+                "Web API",
+                "Unit Testing",
+                "ASP.Net",
+                ".Net Core",
+                "Architecture and Design"
+            ],
+            "with_experience": [
+                "SQL Server 2016",
+                "ASP.Net",
+                ".Net Core"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rahul Chigharia",
+        "email": "rahul.chigharia@smartitframe.com",
+        "jd": "From: Rahul Chigharia, smartitframe rahul.chigharia@smartitframe.com Reply to: rahul.chigharia@smartitframe.com Job Title: .NET DeveloperExp \u2013 10+ yearsLocation \u2013 New York City, NY (Hybrid) JOB DUTIES/RESPONSIBILITIES Strong knowledge in SQL server 2016 and must be able to write Stored procedures SSIS SSRS etcHands on AngularGood knowledge on Micro ServicesExperience in Web APIKnowledge in Unit TestingStrong knowledge in Architecture and DesignHighly proficient in ASP.Net CNet and Net Core and SQL server 2016",
+        "source": "Email",
+        "date_posted": "2024-10-15 13:44:41-05:00",
+        "unique_id": "19292032483da3ee",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

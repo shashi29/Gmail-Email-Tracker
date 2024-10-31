@@ -1,0 +1,83 @@
+[
+    {
+        "company": "PwC",
+        "job_title": "Oracle MDM Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle CDH",
+                "Oracle PDH",
+                "Oracle SDH",
+                "Data Modeling",
+                "SQL"
+            ],
+            "primary": [
+                "Data Cleansing",
+                "Data Validation",
+                "Data Governance",
+                "Data Stewardship",
+                "Oracle SQL Developer",
+                "ETL",
+                "ODI"
+            ],
+            "secondary": [
+                "Data Migration",
+                "Automated Workflows",
+                "Oracle Autonomous Data Warehouse",
+                "Analytics",
+                "Advanced Analytics",
+                "Oracle Applications",
+                "PL/SQL"
+            ],
+            "all": [
+                "Oracle CDH",
+                "Oracle PDH",
+                "Oracle SDH",
+                "Data Modeling",
+                "SQL",
+                "Data Cleansing",
+                "Data Validation",
+                "Data Governance",
+                "Data Stewardship",
+                "Oracle SQL Developer",
+                "ETL",
+                "ODI",
+                "Data Migration",
+                "Automated Workflows",
+                "Oracle Autonomous Data Warehouse",
+                "Analytics",
+                "Advanced Analytics",
+                "Oracle Applications",
+                "PL/SQL"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Vaibhav Raghuvanshi",
+        "email": "vaibhav.raghuvanshi@tekinspirations.com",
+        "jd": "From: Vaibhav Raghuvanshi, TEK Inspirations vaibhav.raghuvanshi@tekinspirations.com Reply to: vaibhav.raghuvanshi@tekinspirations.com Hi,Hope you are doing great!!!Please share suitable profile and mention JOB. Job Description -Oracle MDM Engineer MDM technical engineer is an experienced consultant who will drive alongside with PwC technical team - solution design and implementation for Oracle CDH/PDH/SDH.MDM consultant will partner with UNF technical team specifically EIM Director, UNF infrastructure, and PwC implementation partner team.ResponsibilitiesBe part of the implementation team, prepare for, and participate in the Oracle MDM - CDH, PDH, SDH integration strategy for the UNF ERP solution.Be part of the MDM committee team and collaborate across customer, product and supplier business and PwC on tapping into out-of-the-box MDM solutions, PwC proposals and customized solutionsIn the long run, evolve as the point of contact within UNF for MDM subject area \u2013 upkeep and enhancementsUnderstand, Research and validate the data model and build that is being undertaken by PwCUnderstand DQM principles around data cleansing, validation, and profiling techniques to ensure high-quality data.Be part of Data Governance, Data Stewardship built around MDM data hubs \u2013 recommend as needed from IT data stewardship perspective.Provide technical leadership and leading other implementation team members (integration, data quality) throughout the implementationsQualifications and Education Requirements:Must have hands-on experience with Oracle CDH/PDH/SDH tool that includes data modeling, designing and implementing components for imports, exports, data migration and associated data cleansing/transformations, data validations rules, matching/duplicate identification, catalog management, techniques for managing digital assets and unstructured content, etc.Should have designed & implemented automated workflows in the tool for data management processesExperience in Oracle Autonomous Data Warehouse (ADW), Data Modelling, Oracle SQL Developer, Data warehouse concepts and implementation, analytics and advanced analytics concepts and implementation.Development experience of custom Data Warehouse projects using ETL tool as ODI/ODI Marketplace on OCI infrastructure.Functional understanding of Oracle Applications (HCM, ERP and SCM modules) data models and public view object (PVO) analysis and designing star schema modeling in Data Warehouse.Prior Oracle data warehouse experience, ideally with integration to/from Oracle Applications/third-party applications.Prior ODI/OBIA experience would be added plus.Strong SQL skills for querying and managing Oracle databases, as well as familiarity with PL/SQL for data manipulation.",
+        "source": "Email",
+        "date_posted": "2024-10-28 23:55:59-05:00",
+        "unique_id": "192d6c1810e2e3b1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

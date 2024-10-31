@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "Data Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kafka",
+                "MongoDB",
+                "Informatica Power Center",
+                "ETL"
+            ],
+            "primary": [
+                "Linux/Unix Shell Scripting",
+                "Data Modeling",
+                "Data Warehousing",
+                "Oracle Database",
+                "Advanced SQL",
+                "Agile Delivery Methodology",
+                "Python",
+                "Spark SQL",
+                "Cloud Technologies (Azure and/or GCP)"
+            ],
+            "secondary": [
+                "Informatica Mappings",
+                "Mapplets",
+                "Session",
+                "Workflows",
+                "Events Creation",
+                "Star Schema Data Modeling"
+            ],
+            "all": [
+                "Java",
+                "Kafka",
+                "MongoDB",
+                "Informatica Power Center",
+                "ETL",
+                "Linux/Unix Shell Scripting",
+                "Data Modeling",
+                "Data Warehousing",
+                "Oracle Database",
+                "Advanced SQL",
+                "Agile Delivery Methodology",
+                "Python",
+                "Spark SQL",
+                "Cloud Technologies (Azure and/or GCP)",
+                "Informatica Mappings",
+                "Mapplets",
+                "Session",
+                "Workflows",
+                "Events Creation",
+                "Star Schema Data Modeling"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjay",
+        "email": "sanjay@vysystems.com",
+        "jd": "From: Sanjay, Vysystems sanjay@vysystems.com Reply to: sanjay@vysystems.com Must have skill : Java, Kafka, MongoDB5+years of experience in building end-to-end business solutions using Informatica Power Center Demonstrated strength in data modeling, ETL development, and data warehousing. Demonstrated experience with Linux/ Unix Shell ScriptingStrong hands-on development experience in ETL Informatica Mappings/ mapplets, Session, Workflows and events creation.Expertise in Informatica all mapping transformations like Lookup, Normalizer, Update Strategy, Expression, Filter TX, etc.Strong experience on star schema data modeling and data warehouse concepts.Expertise in Oracle database and advanced SQLExpertise in Agile delivery methodology including Sprint and KanbanExpertise in Python and Spark SQLKnowledge of Cloud technologies Azure and/or GCPKnowledge of Kafka",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:42:38-05:00",
+        "unique_id": "192b015f8547960e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

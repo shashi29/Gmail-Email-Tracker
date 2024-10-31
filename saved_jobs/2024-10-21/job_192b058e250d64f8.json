@@ -1,0 +1,57 @@
+[
+    {
+        "company": "HealthEdge",
+        "job_title": "HealthRules Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Apache Camel",
+                "Spring Boot",
+                "PLSQL",
+                "SOAP services"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Apache Camel",
+                "Spring Boot",
+                "PLSQL",
+                "SOAP services",
+                "batch execution"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Hemant Kumar",
+        "email": "hemantk@vbeyond.com",
+        "jd": "From: Hemant Kumar, Vbeyond hemantk@vbeyond.com Reply to: hemantk@vbeyond.com Hello,I have job opportunity for you, if you are looking for new job, please email me your updated resume at your earliest convenience. Java DeveloperRemote Skills: -Mandatory skills:Java, Apache Camel, Spring Boot, PLSQL, SOAP services, batch executionCreating inbound / outbound Integration interfaces from HealthEdge's HealthRules Payor (HRP) system. Thanks and regards Hemant Kumar",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:55:49-05:00",
+        "unique_id": "192b058e250d64f8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

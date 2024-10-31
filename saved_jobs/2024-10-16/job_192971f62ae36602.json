@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Acies IT Solutions",
+        "job_title": "Python developer (RCM - HL7- EDI Experience is Mandatory)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum of 5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "HL7",
+                "FHIR",
+                "EDI 837",
+                "EDI 835"
+            ],
+            "primary": [
+                "Healthcare RCM",
+                "Automation",
+                "Data Exchange Standards",
+                "Integration with EHR/EMR",
+                "Problem-Solving",
+                "Communication"
+            ],
+            "secondary": [
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Machine Learning"
+            ],
+            "all": [
+                "Python",
+                "HL7",
+                "FHIR",
+                "EDI 837",
+                "EDI 835",
+                "Healthcare RCM",
+                "Automation",
+                "Data Exchange Standards",
+                "Integration with EHR/EMR",
+                "Problem-Solving",
+                "Communication",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Machine Learning"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Pavan",
+        "email": "pavanv@aciesit.com",
+        "jd": "From: Pavan, Acies IT Solutions pavanv@aciesit.com Reply to: pavanv@aciesit.com HI, we have a new job opening below. Please see below. Python developer (RCM - HL7- EDI Experience is Mandatory) 100% remote Open for C2C Note : Please dont send NON Matching resumes. We are seeking skilled Python Developers with strong experience in healthcare RCM (Revenue Cycle Management) automation. The ideal candidates will have a deep understanding of healthcare APIs (such as HL7, FHIR, and EDI 837/835) and the ability to design, develop, and maintain automated solutions to optimize RCM workflows. Responsibilities:- Develop, test, and maintain Python-based automation solutions for healthcare RCM applications.- Integrate and interact with various healthcare APIs (HL7, FHIR, EDI, etc.) to facilitate seamless data exchange between systems.- Collaborate with cross-functional teams (RCM analysts, coding specialists, etc.) to understand automation requirements and develop efficient solutions.- Build, deploy, and manage scalable and reliable healthcare data processing pipelines.- Troubleshoot and resolve issues in the automation of RCM processes, ensuring high data accuracy and compliance with healthcare regulations.- Optimize existing processes and develop new features to improve the RCM automation systems.- Stay updated on healthcare technology trends, particularly those relevant to RCM and data exchange standards. Requirements:Experience: Minimum of 5 years of experience in Python development with a focus on healthcare automation.Healthcare API Knowledge: In-depth experience with healthcare APIs such as HL7, FHIR, EDI 837/835, and other relevant data exchange standards.RCM Automation: Proven experience in automating complex workflows within the healthcare revenue cycle, including eligibility, claims processing, payments, and denials management.Integration Skills: Experience integrating with third-party healthcare software (EHR/EMR systems, billing software, etc.).Problem-Solving: Excellent analytical and problem-solving skills to handle complex data and workflow scenarios.Communication: Strong verbal and written communication skills to collaborate with technical and non-technical stakeholders. Preferred Qualifications:- Experience with Azure cloud platforms and containerization technologies (Docker, Kubernetes).- Familiarity with machine learning techniques for predictive analytics in RCM processes.",
+        "source": "Email",
+        "date_posted": "2024-10-16 14:32:10-05:00",
+        "unique_id": "192971f62ae36602",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

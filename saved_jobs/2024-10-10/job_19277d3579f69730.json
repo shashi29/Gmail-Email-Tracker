@@ -1,0 +1,79 @@
+[
+    {
+        "company": "HMG America LLC",
+        "job_title": "Data Architect",
+        "location": "Framingham, MA, USA",
+        "full_location": {
+            "city": "Framingham",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Data Engineering, or a related field; Master\u2019s degree preferred.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "DBT",
+                "Snowflake",
+                "Azure",
+                "Python",
+                "Big Data"
+            ],
+            "primary": [
+                "Data Architecture",
+                "Data Engineering",
+                "Data Modeling",
+                "ETL/ELT",
+                "Cloud Platforms"
+            ],
+            "secondary": [
+                "Customer Data Platforms (CDP)",
+                "Master Data Management (MDM)",
+                "Customer 360 architectures",
+                "AI/ML models",
+                "Data privacy regulations"
+            ],
+            "all": [
+                "DBT",
+                "Snowflake",
+                "Azure",
+                "Python",
+                "Big Data",
+                "Data Architecture",
+                "Data Engineering",
+                "Data Modeling",
+                "ETL/ELT",
+                "Cloud Platforms",
+                "Customer Data Platforms (CDP)",
+                "Master Data Management (MDM)",
+                "Customer 360 architectures",
+                "AI/ML models",
+                "Data privacy regulations"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sanjeev",
+        "email": "sanjeev@hmgamerica.com",
+        "jd": "From: sanjeev, HMG America LLC sanjeev@hmgamerica.com Reply to: sanjeev@hmgamerica.com Job Title: Data ArchitectLocation: Framingham, MA (Onsite role from day 1; need only local candidates)Duration: 6+ MonthLocal to MA Only Job Description:Position Overview: We are looking for a skilled Sr. Data Architect to design and implement data solutions supporting Marketing, Sales, and Customer Service areas. The ideal candidate will have experience with DBT, Snowflake, Python and Azure, along with a strong foundation Big Data, and Cloud Platforms. You will be responsible for developing scalable, efficient data architectures that enable personalized customer experiences and advanced analytics.Key Responsibilities:\u2022 Architect and implement data solutions across Marketing, Sales, and Customer Service, using technologies such as DBT, Snowflake, and Azure.\u2022 Design and optimize data pipelines that integrate various data sources (1st party, 3rd party, operational) to support business intelligence and advanced analytics.\u2022 Develop data models and data flows that enable personalized customer experiences and support omnichannel marketing and customer engagement.\u2022 Lead efforts to ensure data governance, data quality, and data security, adhering to compliance with regulations such as GDPR and CCPA.\u2022 Implement and maintain data warehousing solutions in Snowflake to handle large-scale data processing and analytics needs.\u2022 Optimize workflows using DBT to streamline data transformation and modeling processes.\u2022 Leverage Azure for cloud infrastructure, data storage, and real-time data analytics, while ensuring the architecture supports scalability and performance.\u2022 Collaborate with cross-functional teams, including data engineers, analysts, and business stakeholders, to ensure data architectures meet business needs.\u2022 Support both real-time and batch data integration, ensuring data is accessible for actionable insights and decision-making.\u2022 Continuously assess and integrate new data technologies and methodologies to enhance the organization\u2019s data capabilities.Qualifications:\u2022 7+ years of experience in Data Architecture or Data Engineering, with specific expertise in DBT, Snowflake, and Azure.\u2022 Strong understanding of data modeling, ETL/ELT processes, and modern data architecture frameworks. \u2022 Experience designing scalable data architectures for personalization and customer analytics across marketing, sales, and customer service domains.\u2022 Expertise with cloud data platforms (Azure preferred) and Big Data technologies for large-scale data processing.\u2022 Hands-on experience with Python for data engineering tasks and scripting.\u2022 Proven track record of building and managing data pipelines and data warehousing solutions using Snowflake.\u2022 Familiarity with Customer Data Platforms (CDP), Master Data Management (MDM), and Customer 360 architectures.\u2022 Strong problem-solving skills and ability to work with cross-functional teams to translate business requirements into scalable data solutions.\u2022 Bachelor\u2019s degree in Computer Science, Data Engineering, or a related field; Master\u2019s degree preferred. Preferred:\u2022 Experience working with AI/ML models for customer analytics and personalization.\u2022 Knowledge of data privacy and compliance regulations (GDPR, CCPA).",
+        "source": "Email",
+        "date_posted": "2024-10-10 13:30:43-05:00",
+        "unique_id": "19277d3579f69730",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

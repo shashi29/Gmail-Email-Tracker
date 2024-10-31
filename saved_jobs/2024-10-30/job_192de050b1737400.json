@@ -1,0 +1,79 @@
+[
+    {
+        "company": "TEKSALT",
+        "job_title": "AWS Cloud Lead",
+        "location": "Fort Mill, SC, USA",
+        "full_location": {
+            "city": "Fort Mill",
+            "state": "SC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8-10 Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud Certification",
+                "Cloud solutions",
+                "Networking",
+                "Containers",
+                "Fault tolerance"
+            ],
+            "primary": [
+                "SQL",
+                "MySQL",
+                "NoSQL",
+                "Agile/SCRUM methodologies",
+                "Ansible",
+                "AWS Cloud Formation",
+                "MAG Resource Manager",
+                "DevOps",
+                "Scripting",
+                "Configuration Management",
+                "Infrastructure automation"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS Cloud Certification",
+                "Cloud solutions",
+                "Networking",
+                "Containers",
+                "Fault tolerance",
+                "SQL",
+                "MySQL",
+                "NoSQL",
+                "Agile/SCRUM methodologies",
+                "Ansible",
+                "AWS Cloud Formation",
+                "MAG Resource Manager",
+                "DevOps",
+                "Scripting",
+                "Configuration Management",
+                "Infrastructure automation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shekar Patel",
+        "email": "shekar.patel@teksalt.com",
+        "jd": "Role: AWS Cloud Lead - Onsite\nLocation: Fort Mill, SC (Onsite)\nDuration: 12 month\n\nJob Description:\nAWS cloud Engineer would be responsible for implementing & and maintaining cloud infrastructure and services. The role involves working with cloud providers, developing automation scripts, ensuring security and compliance, and collaborating with cross-functional teams to optimize cloud-based solutions.\n\n\u2022 A good understanding of various PaaS services like Lambda, Elasticache, Open search, Loadbalancer, Eventbridge and DB\n\u2022 Deploy, and manage scalable and reliable cloud infrastructure on AWS platform.\n\u2022 Collaborate with architecture and development teams to ensure cloud solutions align with business requirements.\n\u2022 Define and develop blueprints and roadmaps for building solutions on the cloud\n\u2022 Good understanding and work experience on reporting on service health, Incidents, performance trends and capacity/utilization of AWS services.\n\u2022 Knowledge on access control on public cloud environment, tools used to operate and monitor IaaS and PaaS services and measure characteristics (e.g., performance, incidents, problems, issues, and events) to identify, correlate, report and resolve incidents and problems.\n\u2022 Work experience on Monitoring, operating, maintaining, and supporting the OS (Operating Systems) installed on EC2 instances\n\u2022 Provide regular support for permission related (IAM) issues, and creation of new IAM roles and policies.\n\u2022 Systematically distribute and apply software updates and oversee system currency up/down the stack\n\u2022 Good understanding of event management system to detect events, assess their potential impact, and determine the appropriate control actions\n\u2022 Monitor workload performance and so that capacity meets current and future demands.\n\u2022 Meet Incident/Problem management SLAs to promptly restore service operations and reduce adverse business impact\n\u2022 Provide support, and break-fix, for cloud Infrastructure workloads in AWS\n\u2022 Team and workload management\n\nDesired Skill Set:\n\u2022 8-10 Years of work experience on Cloud solutions\n\u2022 Proven experience as AWS Cloud Certification.\n\u2022 Strong understanding of networking, containers, and fault tolerance\n\u2022 Experience with SQL and MySQL (NoSQL experience is a plus).\n\u2022 Knowledge of, and preferably experienced with, Agile/SCRUM methodologies.\n\u2022 Familiarity or experience with Ansible, AWS Cloud Formation, and MAG Resource Manager.\n\u2022 DevOps, Scripting, Configuration Management, and Infrastructure automation.\n\u2022 Manage cloud specific tool sets.",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:34:49-05:00",
+        "unique_id": "192de050b1737400",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

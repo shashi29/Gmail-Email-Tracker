@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Vyzeinc",
+        "job_title": "Senior Java Developer(W2)",
+        "location": "Tampa, FL, USA",
+        "full_location": {
+            "city": "Tampa",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6-8 years",
+            "degree_required": "Bachelor's degree/University degree or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Microservice architecture",
+                "Java Webservices",
+                "RDBMS",
+                "Oracle"
+            ],
+            "primary": [
+                "Unix/Linux Shell commands",
+                "Git",
+                "Bitbucket",
+                "SDLC standards",
+                "Release management procedures",
+                "Code Quality and standards"
+            ],
+            "secondary": [
+                "JMS",
+                "Kafka",
+                "Redhat OpenShift",
+                "collaboration tools"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Microservice architecture",
+                "Java Webservices",
+                "RDBMS",
+                "Oracle",
+                "Unix/Linux Shell commands",
+                "Git",
+                "Bitbucket",
+                "SDLC standards",
+                "Release management procedures",
+                "Code Quality and standards",
+                "JMS",
+                "Kafka",
+                "Redhat OpenShift",
+                "collaboration tools"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Roshan",
+        "email": "roshan@vyzeinc.com",
+        "jd": "Job Description -Senior Java Developer(W2)Location: Tampa, FL (3 days Onsite - Hybrid) only localDuration: 6+ months Responsibilities/Skills:\u2022 Design, develop and support application using Java technologies and Spring Framework\u2022 Hands on experience with Microservice architecture and Java Webservices is desired\u2022 Working knowledge on relational database management systems (RDBMS) such as Oracle\u2022 Working knowledge on Unix/Linux Shell commands\u2022 Experience working with Git/Bitbucket\u2022 Must have good understanding of SDLC standards, Release management procedures and Code Quality and standards\u2022 Experience with any of the following technologies will be a plus - JMS, Kafka, Redhat OpenShift,\u2022 Experience of collaboration tools (source control)\u2022 Work in collaborative environment while owning individual work streams and executing tasks with minimal guidance Qualifications:\u2022 6-8 years of relevant experience Education:\u2022 Bachelors degree/University degree or equivalent experience",
+        "source": "Email",
+        "date_posted": "2024-10-25 23:58:19-05:00",
+        "unique_id": "192c750adb66ebe8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

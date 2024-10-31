@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Cloud Data Engineer (Azure & Databricks)",
+        "location": "Dearborn, MI, USA",
+        "full_location": {
+            "city": "Dearborn",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor's degree in science, Technology, Engineering, or Mathematics",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "15+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Databricks",
+                "Azure Data Factory",
+                "Python",
+                "SQL",
+                "Scala"
+            ],
+            "primary": [
+                "Data modeling",
+                "ETL/ELT development",
+                "Data integration",
+                "Orchestration techniques",
+                "Data Lake"
+            ],
+            "secondary": [
+                "Azure ML",
+                "Analytics Specialty",
+                "Azure Solutions Architect"
+            ],
+            "all": [
+                "Azure",
+                "Databricks",
+                "Azure Data Factory",
+                "Python",
+                "SQL",
+                "Scala",
+                "Data modeling",
+                "ETL/ELT development",
+                "Data integration",
+                "Orchestration techniques",
+                "Data Lake",
+                "Azure ML",
+                "Analytics Specialty",
+                "Azure Solutions Architect"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Renu Sharma",
+        "email": "renu.sharma@vyzeinc.com",
+        "jd": "Hi, I have a very urgent role, If interested then please send me your resume. Job Title - Cloud Data Engineer (Azure & Databricks)Base Location \u2013 Dearborn, Michigan(Hybrid)Duration \u2013 15+monthsInterview Process: Video and Inperson**Candidates must be local to MichiganNeed only local candidates with LinkedInJob Description :As a cloud engineer for Azure, you will be responsible for designing and implementing scalable, high-performance data engineering solutions using Azure Databricks and Azure Data Factory. Essential Job Functions:Responsibilities:*Design and implementation of complex cloud solutions using Microsoft Azure, focusing on integration with Databricks and Azure Data Factory.Develop and maintain scalable and efficient data pipelines and architectures.Ensure optimal architecture and performance of applications deployed on Azure.Provide expertise in cloud security, ensuring compliance with industry standards and company policies.Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.Manage the full lifecycle of data and analytics solutions, from requirements gathering to deployment and maintenance.Conduct system troubleshooting and provide technical support as needed.Stay updated with the latest developments in cloud technologies and introduce innovations and improvements to internal systems.Bachelor's degree in science, Technology, Engineering, or Mathematics.7+ years of experience as a data engineer, with strong proficiency in Azure cloud services, Databricks, and Azure Data Factory3+ years of experience with designing and implementing data solutions using Azure Cloud.Azure Data Engineering or Databricks Certification.Strong knowledge of programming languages such as Python, SQL, or Scala.Experience with data modeling, ETL/ELT development, data integration and orchestration techniquesExperience with designing and developing end-to-end data and analytics solutions leveraging Azure Data Lake, Azure Databricks, and Data FactoryExperience with designing scalable data analytics architecture to implement advanced analytics solutions, including machine learning and AI, to extract actionable insights from data. Other Responsibilities: Minimum Qualifications and Job Requirements: *Nice to Have:*Additional Azure Certifications like Azure ML, Analytics Specialty, or Azure Solutions Architect",
+        "source": "Email",
+        "date_posted": "2024-10-23 13:03:09-05:00",
+        "unique_id": "192baac3da79198c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "company": "KK Software Associates",
+        "job_title": "Senior GCP Cloud Developer",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP services",
+                "Python",
+                "Java",
+                "Go",
+                "Node.js",
+                "CI/CD",
+                "Infrastructure as Code (IaC)"
+            ],
+            "primary": [
+                "Cloud Functions",
+                "App Engine",
+                "GKE",
+                "BigQuery",
+                "Pub/Sub",
+                "Terraform",
+                "Jenkins",
+                "GitLab CI",
+                "Cloud Build"
+            ],
+            "secondary": [
+                "GCP Professional Cloud Developer certification",
+                "GCP Professional Cloud Architect certification",
+                "Docker",
+                "Kubernetes",
+                "Humanitec",
+                "cloud security practices"
+            ],
+            "all": [
+                "GCP services",
+                "Python",
+                "Java",
+                "Go",
+                "Node.js",
+                "CI/CD",
+                "Infrastructure as Code (IaC)",
+                "Cloud Functions",
+                "App Engine",
+                "GKE",
+                "BigQuery",
+                "Pub/Sub",
+                "Terraform",
+                "Jenkins",
+                "GitLab CI",
+                "Cloud Build",
+                "GCP Professional Cloud Developer certification",
+                "GCP Professional Cloud Architect certification",
+                "Docker",
+                "Kubernetes",
+                "Humanitec",
+                "cloud security practices"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Somesh Gupta",
+        "email": "somesh.g@kksoftwareassociates.com",
+        "jd": "Hello,Hope you are doing well !Please let me know if you are interested Role: Senior GCP Cloud Developer (Developer Enablement Focus)Locations: Minneapolis, MN (Remote)Duration: Long- Term Contract Job Description: Job Summary: We are looking for a Senior GCP Cloud Developer to join our team with a focus on developer enablement. In this role, you will empower developers who are new to cloud based deployments, providing guidance, building tools, and establishing best practices for working within Google Cloud Platform (GCP). You will act as a bridge between cloud infrastructure and development teams, ensuring that developers can seamlessly adopt cloud technologies, improve workflows, and deliver scalable, cloud-native applications. Key Responsibilities: \u2022 Developer Enablement: Provide guidance and technical mentorship to developers, helping them understand cloud-native development principles, GCP services, and best practices for deploying applications in the cloud. \u2022 Cloud Tooling: Work with Platform Engineering to design and build internal tools, libraries, and frameworks that simplify cloud development processes and improve developer productivity on GCP. \u2022 Training & Documentation: Develop comprehensive documentation, run workshops, and oLer hands-on support to upskill developers on cloud deployment pipelines, infrastructure-as-code (IaC), and GCP service usage. \u2022 Cloud Best Practices: Advocate for and implement best practices for cloud development, including microservices architecture, serverless computing, containerization, and continuous integration/continuous delivery (CI/CD). \u2022 Developer Collaboration: Collaborate closely with software development, operations, and platform teams to ensure that cloud infrastructure is developer friendly, secure, and scalable. \u2022 Code Reviews & Support: Conduct code reviews and provide feedback on cloud based implementations, ensuring they meet security, performance, and scalability standards. \u2022 Automated Deployments: Help build and optimize CI/CD pipelines, enabling seamless and automated deployments for teams inexperienced with cloud environments. \u2022 Cloud-Native Solutions: Assist in the design and implementation of cloud-native solutions, using GCP services such as Cloud Functions, App Engine, GKE, BigQuery, and Pub/Sub. \u2022 Performance Tuning & Optimization: Assist teams in performance tuning, cost optimization, and scaling of cloud applications and infrastructure. \u2022 Feedback Loop: Collect feedback from developers and continuously improve the developer experience for cloud-based projects, ensuring they have the necessary tools and support. Required Skills & Qualifications: \u2022 Experience: 5+ years of experience in software development with at least 2 years working on GCP or other cloud platforms. \u2022 Cloud Development Expertise: Strong experience with GCP services, including compute (GCE, GKE), serverless (Cloud Functions, App Engine), databases (Firestore, Cloud SQL), and networking (VPC, Cloud Load Balancing).\u2022 Programming Skills: Proficiency in one or more programming languages such as Python, Java, Go, or Node.js, with experience in building and deploying cloud-native applications. \u2022 Developer Enablement: Proven experience mentoring or enabling developers to work in cloud environments, with the ability to simplify complex cloud concepts for those unfamiliar with them. \u2022 CI/CD & Automation: Hands-on experience with building CI/CD pipelines and automating cloud deployments using tools such as Jenkins, GitLab CI, or Cloud Build. \u2022 Infrastructure as Code (IaC): Knowledge of infrastructure automation and IaC tools such as Terraform, or Deployment Manager. \u2022 Collaboration & Communication: Excellent communication skills with the ability to work closely with cross-functional teams, explain technical concepts clearly, and develop strong documentation. Preferred Qualifications: \u2022 GCP Professional Cloud Developer or GCP Professional Cloud Architect certification. \u2022 Experience working with containerization and orchestration technologies such as Docker and Kubernetes. \u2022 Experience with Internal Developer Platforms like Humanitec. \u2022 Familiarity with serverless architectures and event-driven design patterns. \u2022 Knowledge of cloud security practices and designing secure, scalable applications in GCP.",
+        "source": "Email",
+        "date_posted": "2024-10-17 17:44:49-05:00",
+        "unique_id": "1929cfe32ee89a13",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

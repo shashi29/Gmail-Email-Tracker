@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "AWS Developer",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "DynamoDB",
+                "Lambda",
+                "Cloud watch",
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Angular"
+            ],
+            "primary": [
+                "AWS certifications (e.g., AWS Certified Developer, Solutions Architect)",
+                "DevOps tools",
+                "Jenkins",
+                "Git",
+                "Docker",
+                "Kubernetes",
+                "Cloud security frameworks",
+                "Compliance standards"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "DynamoDB",
+                "Lambda",
+                "Cloud watch",
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Angular",
+                "AWS certifications (e.g., AWS Certified Developer, Solutions Architect)",
+                "DevOps tools",
+                "Jenkins",
+                "Git",
+                "Docker",
+                "Kubernetes",
+                "Cloud security frameworks",
+                "Compliance standards"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pradeep Sharma",
+        "email": "pradeep.sharma@scalable-systems.com",
+        "jd": "From: Pradeep, Scalable Systems pradeep.sharma@scalable-systems.com Reply to: pradeep.sharma@scalable-systems.com Hi,Greetings of the day! I have an urgent requirement below, please go through JD and let me know if you are comfortable or have any profile. Kindly revert me back with your updated resume as well. Job Title: AWS Developer Location: Malvern, PA (Work from Office)Duration: Long Term Contract Key Responsibilities:AWS, DynamoDB, Lambda, Cloud watchJava , spring boot, microservices, AngularAWS certifications (e.g., AWS Certified Developer, Solutions Architect).Experience with DevOps tools and practices, such as Jenkins, Git, Docker, and Kubernetes.Knowledge of cloud security frameworks and compliance standards. Thanks & Regards, Pradeep SharmaEmail: pradeep.sharma@scalable-systems.com \"Scalable Systems is an Equal Opportunity Employer. We are committed to creating an inclusive environment for all employees and do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other legally protected status.\"",
+        "source": "Email",
+        "date_posted": "2024-10-28 13:24:17-05:00",
+        "unique_id": "192d47f2c531383d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

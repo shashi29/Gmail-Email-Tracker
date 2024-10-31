@@ -1,0 +1,77 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "Terraform",
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "secondary": [
+                "unit testing",
+                "integration testing",
+                "end-to-end testing",
+                "performance optimization",
+                "scalability",
+                "security"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "Terraform",
+                "AWS",
+                "Azure",
+                "GCP",
+                "unit testing",
+                "integration testing",
+                "end-to-end testing",
+                "performance optimization",
+                "scalability",
+                "security"
+            ],
+            "with_experience": [
+                "Java",
+                "Spring Boot"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "From: rajkumar, NITYA Software Solutions Inc. rajkumar.v@nityainc.com Reply to: rajkumar.v@nityainc.com Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: Java DeveloperDesign, develop, and maintain high-quality Java applications.Collaborate with cross-functional teams to understand business requirements and translate them into technical specifications.Develop and maintain RESTful APIs using Java frameworks like Spring Boot.Work with Terraform to automate the provisioning and configuration of infrastructure resources on cloud platforms like AWS, Azure, or GCP.Integrate with various backend systems and databases.Perform unit testing, integration testing, and end-to-end testing to ensure application quality.Optimize applications for performance, scalability, and security.Stay updated with the latest trends and technologies in the Java and cloud computing ecosystems.Thank you,RajkumarEMAIL ID:rajkumar.v@nityainc.comNITYA Software Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-29 17:49:06-05:00",
+        "unique_id": "192da97f046d4e46",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

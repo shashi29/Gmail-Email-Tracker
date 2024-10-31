@@ -1,0 +1,64 @@
+[
+    {
+        "company": "SPAR Information Systems",
+        "job_title": "Java Application Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java (Spring Boot)",
+                "Node.js",
+                "React (Frontend)",
+                "RESTful API Design"
+            ],
+            "primary": [
+                "GraphQL",
+                "AWS/Azure/GCP",
+                "OAuth2 Authentication & Authorization",
+                "Hyperscaler Frameworks",
+                "Kubernetes APIs"
+            ],
+            "secondary": [],
+            "all": [
+                "Java (Spring Boot)",
+                "Node.js",
+                "React (Frontend)",
+                "RESTful API Design",
+                "GraphQL",
+                "AWS/Azure/GCP",
+                "OAuth2 Authentication & Authorization",
+                "Hyperscaler Frameworks",
+                "Kubernetes APIs"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sampath",
+        "email": "sampath@sparinfosys.com",
+        "jd": "From: Sampath, SPAR Information Systems sampath@sparinfosys.com Reply to: sampath@sparinfosys.com Job title: Java Application ArchitectLocation: RemoteDuration: 12 Months Skill Years of Experience Must-Have (Yes/No)Java (Spring Boot)Node.jsReact (Frontend)RESTful API DesignGraphQLAWS/Azure/GCPOAuth2 Authentication & AuthorizationHyperscaler FrameworksKubernetes APIs",
+        "source": "Email",
+        "date_posted": "2024-10-21 13:20:05-05:00",
+        "unique_id": "192b06f1d9cb7ad8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

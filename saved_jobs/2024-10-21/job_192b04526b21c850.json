@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Morgan Stanley",
+        "job_title": "Java/Scala Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Scala",
+                "Microservices",
+                "Relational Databases",
+                "Distributed Caching"
+            ],
+            "primary": [
+                "Agile",
+                "DevOps",
+                "Linux",
+                "MQ",
+                "Kafka"
+            ],
+            "secondary": [
+                "Cloud-ready development",
+                "Docker",
+                "Confluent Kafka",
+                "Redis",
+                "Automation and scripting languages",
+                "Data Modeling",
+                "Big Data",
+                "Hadoop",
+                "Spark"
+            ],
+            "all": [
+                "Java",
+                "Scala",
+                "Microservices",
+                "Relational Databases",
+                "Distributed Caching",
+                "Agile",
+                "DevOps",
+                "Linux",
+                "MQ",
+                "Kafka",
+                "Cloud-ready development",
+                "Docker",
+                "Confluent Kafka",
+                "Redis",
+                "Automation and scripting languages",
+                "Data Modeling",
+                "Big Data",
+                "Hadoop",
+                "Spark"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Komal Bhojak",
+        "email": "komal@zealhire.com",
+        "jd": "From: komal bhojak, zealhire komal@zealhire.com Reply to: komal@zealhire.com I hope you are doing well. I am hiring a consultant for one of my client's requirements. I've written the Job Description for the same below. If you find yourself comfortable with the requirement please reply back with your updated resume. Position: JAVA/SCALA DEVELOPERLocation: NYC,NYDuration: 12+ MONTHSVisa: USC GCEnd Client: MORGAN STANLEYJob DescriptionLocal OnlyHeavy Financial experienceNo job hoppersLinked in Profile with photo Diversity CandidatesTitle: Java/Scala Developer- Not a Full Stack personLocation: NYC, NY (onsite 3 days a week)Duration: Long Term Consulting Opportunity Note: 3 Page Resume, and In Person Interview Manager wants diversity candidates (non Indian) Role ProfileAs a software developer, you will be responsible for the development and maintenance of Morgan Stanley\u2019s next generation fraud screening platform for real-time fraud detection and prevention. You will work with our architecture team to ensure industrial and departmental best practices are being followed. Your role will be a focal point between our fraud analytics, reporting, and data governance teams. You will be a productive member of the development team and share core tasks as a member of an Agile squad. In your role you will be expected to share ownership of our projects and contribute to the active development and maintenance of our applications. You will have the opportunity to be exposed to modern software engineering tools and best practices. You will also learn how a large investment bank like Morgan Stanley detects and prevents fraud. You will work in a dynamic agile Fleet that uses Scrum for its workflow. You will be expected to be involved in the full development lifecycle. You will be expected to collaborate with others in the wider team and across the firm, as well as working on your own initiatives. Skills Required- Commercial experience of core Java programming with strong proficiency- Experience of working with a functional programming language- Experience with Scala programming (or willingness on becoming an expert on it)- Fundamental knowledge of Microservices- Strong experience with distributed caching and relational databases, preferably with Sybase, Oracle, MSSQL- Good Exposure to middleware- MQ, Kafka- Experience of working in a Linux environment- Strong analytical and problem-solving skills- Strong oral and written communication skills- Excellent interpersonal skills and professional approach- Ability to work effectively in a global and dynamic team- Understanding of distributed system design and infrastructure Skills Desired - Experience in the full software development life cycle- Experience working in an agile team using Agile and DevOps practices & tools- Experience working with Continuous Integration systems- Experience with cloud-ready development, Docker containers- Experience with Confluent Kafka- Experience with Redis- Experience with automation and scripting languages (Python preferred)- Experience in Data Modeling- Experience with Big Data \u2013 Hadoop, Spark etc.",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:49:52-05:00",
+        "unique_id": "192b04526b21c850",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

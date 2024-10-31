@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Teamware Solutions",
+        "job_title": "Snowflake Lead Developer",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Databricks",
+                "Scala",
+                "Data Engineering",
+                "Data Warehousing",
+                "SQL Server",
+                "Oracle"
+            ],
+            "primary": [
+                "Snowflake",
+                "Data Ingestion",
+                "Data Transformation",
+                "Spark SQL",
+                "ETL Concepts",
+                "Delta Lake",
+                "Big Data",
+                "TSQL",
+                "PLSQL"
+            ],
+            "secondary": [
+                "Communication Skills",
+                "Medallion Architecture"
+            ],
+            "all": [
+                "Azure Databricks",
+                "Scala",
+                "Data Engineering",
+                "Data Warehousing",
+                "SQL Server",
+                "Oracle",
+                "Snowflake",
+                "Data Ingestion",
+                "Data Transformation",
+                "Spark SQL",
+                "ETL Concepts",
+                "Delta Lake",
+                "Big Data",
+                "TSQL",
+                "PLSQL",
+                "Communication Skills",
+                "Medallion Architecture"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vignesh Ramakrishnan",
+        "email": "vignesh.r@twsol.com",
+        "jd": "From: Vignesh Ramakrishnan, Teamware solution vignesh.r@twsol.com Reply to: vignesh.r@twsol.com Hi,Hope you are doing well!! This is Vignesh from Teamware Solutions....We have Job opening on Snowflake Lead Developer.Position: Snowflake Lead Developer,Location: Quincy, MA,Duration: Contract (Onsite).Job Description:-Role name:EngineerRole Description:1. Senior/Lead developer position who has extensive experience with development/design in Azure Databricks (language :Scala) experience. 2. The candidate should have strong experience in either Databricks or Snowflake however Databricks knowledge is must 3. The candidate should have extensive experience in the data engineering 4. The candidate should have good experience in Scala programming language for data bricks development(He should have done the end to end data ingestion and data transformation in Databricks/snowflake). 5. Candidate should have strong experience in the Data warehousing (ETL Concepts, Types of SCD) 6. Candidate should have very good experience in the data lakeand delta tables concepts. 7. Candidate should have experience in databases like SQL server/Oracle 8. If Candidate have bigdata hadoop experience will be added advantage. Willing to work out of Quincy, MAPrior experience with migrations from SQLSERVER/ORACLE to Databricks Familiarity with multiple source systems database Need strong experience in Data ingestion and Data transformation in azure DatabricksExpecting very good knowledge in datawarehousing concepts in Azure DatabricksCapablity to migrate data from multiple data source to databricks.Strong coding knowledge in scala languageShould have a experience in Spark sqlAny other etl experiece is preferableTSQL /PLSQLExperiance writing functions complex queriesStrong communication skills,Strong experience with implementing delta lakehouses on Azure Databricks using medallion architecture (Bronze, Silver, Gold)Competencies:Digital : Microsoft Azure, Digital : Snowflake, Digital : DatabricksExperience (Years):8-10Essential Skills:1. Senior/Lead developer position who has extensive experience with development/design in Azure Databricks (language :Scala) experience. 2. The candidate should have strong experience in either Databricks or Snowflake however Databricks knowledge is must 3. The candidate should have extensive experience in the data engineering 4. The candidate should have good experience in Scala programming language for data bricks development(He should have done the end to end data ingestion and data transformation in Databricks/snowflake). 5. Candidate should have strong experience in the Data warehousing (ETL Concepts, Types of SCD) 6. Candidate should have very good experience in the data lakeand delta tables concepts. 7. Candidate should have experience in databases like SQL server/Oracle 8. If Candidate have bigdata hadoop experience will be added advantage. Willing to work out of Quincy, MAPrior experience with migrations from SQLSERVER/ORACLE to Databricks Familiarity with multiple source systems database Need strong experience in Data ingestion and Data transformation in azure DatabricksExpecting very good knowledge in datawarehousing concepts in Azure DatabricksCapablity to migrate data from multiple data source to databricks.Strong coding knowledge in scala languageShould have a experience in Spark sqlAny other etl experiece is preferableTSQL /PLSQLExperiance writing functions complex queriesStrong communication skills,Strong experience with implementing delta lakehouses on Azure Databricks using medallion architecture (Bronze, Silver, Gold)",
+        "source": "Email",
+        "date_posted": "2024-10-17 11:45:04-05:00",
+        "unique_id": "1929b7ed98799fa0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

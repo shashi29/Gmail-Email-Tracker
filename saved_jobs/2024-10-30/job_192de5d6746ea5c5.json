@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Altitude Technology Solutions Inc",
+        "job_title": "Python Developer with Pyspark & GCP",
+        "location": "Woonsocket, RI, USA",
+        "full_location": {
+            "city": "Woonsocket",
+            "state": "RI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "4-6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "PySpark",
+                "GCP Data Proc",
+                "SQL",
+                "BigQuery"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python",
+                "PySpark",
+                "GCP Data Proc",
+                "GCP Composer",
+                "GCS",
+                "SQL",
+                "BigQuery"
+            ],
+            "with_experience": [
+                "Python (4-6 years)",
+                "PySpark",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Avinash Kumar",
+        "email": "a.kumar@atsitinc.com",
+        "jd": "Job Title: Python Developer with Pyspark & GCP\nJob Location: Woonsocket, RI (Onsite from Day 1)\nJob Duration: Contract\n\nJob Description:\nSupport analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.\nSupport and monitor the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, and GCP \u2018big data\u2019 technologies.\nWork with data and analytics experts to strive for greater functionality in our data systems.\nWork with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.\nDeveloping, supporting and monitoring data pipelines.\nWork closely with client to discover needs, collect appropriate data, and deliver valuable data products.\nProvide valuable insights from data sets quickly.\nCommunicate complex findings and ideas in plain language and visualizations that is friendly to business and operational audiences.\n\nExperience (Years): 4-6\n\nEssential Skills:\nStrong skills in Python Programming\nStrong Experience in PySpark\nExperience with data pipeline and workflow management tool: GCP Data Proc, Composer and GCS\nStrong experience in handling window function in SQL\nBigQuery Experience (may not be expert)\nTo work on data engineering solutions to leverage best practices and industry-leading tools and technologies to profile data, develop efficient ingestion, and build semantic data layers\n\nDesirable Skills:\nSupport analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.\nSupport and monitor the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, and GCP \u2018big data\u2019 technologies.\nWork with data and analytics experts to strive for greater functionality in our data systems.\nWork with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.\nDeveloping, supporting and monitoring data pipelines.\nWork closely with client to discover needs, collect appropriate data, and deliver valuable data products.\nProvide valuable insights from data sets quickly.\nCommunicate complex findings and ideas in plain language and visualizations that is friendly to business and operational audiences.",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:23:41-05:00",
+        "unique_id": "192de5d6746ea5c5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

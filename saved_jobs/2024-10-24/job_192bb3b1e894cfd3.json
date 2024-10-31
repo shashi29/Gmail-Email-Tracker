@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Cloud Think Technologies",
+        "job_title": "Cloud Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "cloud computing",
+                "Microsoft Azure",
+                "Microsoft Machine Learning",
+                "Microsoft security model"
+            ],
+            "primary": [
+                "Azure OpenAI",
+                "security controls",
+                "compliance with industry standards",
+                "problem-solving",
+                "communication",
+                "collaboration"
+            ],
+            "secondary": [],
+            "all": [
+                "cloud computing",
+                "Microsoft Azure",
+                "Microsoft Machine Learning",
+                "Microsoft security model",
+                "Azure OpenAI",
+                "security controls",
+                "compliance with industry standards",
+                "problem-solving",
+                "communication",
+                "collaboration"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ishavdeep Singh",
+        "email": "ishavdeep@cloudthinktech.com",
+        "jd": "From: Ishavdeep Singh, Cloud Think Technologies ishavdeep@cloudthinktech.com Reply to: ishavdeep@cloudthinktech.com Duties:Design, develop, and maintain cloud infrastructure with a focus on the Microsoft security model and Azure Machine Learning components.Ensure the security, availability, and scalability of A.I. cloud-based systems.Collaborate with cross-functional teams to implement and maintain security controls and compliance with industry standards and regulations.Collaborate with cross-functional teams to identify, provision, and manage A.I. based cloud solutions that meet business requirements.Monitor and optimize cloud infrastructure to ensure optimal performance and cost-effectiveness.Stay up-to-date with emerging trends and technologies in Microsoft Azure\u2019s A.I. cloud computing and security capabilities. Required Skills:Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.Strong experience with cloud computing, particularly with Microsoft Azure including Microsoft Machine Learning.Experience with Azure OpenAI and the related Azure Components.In-depth knowledge of the Microsoft security model and related technologies.Experience with implementing and maintaining security controls and compliance with industry standards and regulations.Strong problem-solving skills and the ability to work independently and as part of a team.Excellent communication and collaboration skills",
+        "source": "Email",
+        "date_posted": "2024-10-23 15:38:59-05:00",
+        "unique_id": "192bb3b1e894cfd3",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

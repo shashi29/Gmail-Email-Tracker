@@ -1,0 +1,90 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "Sr Full Stack Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 8",
+                "Spring Boot",
+                "Microservices",
+                "React JS",
+                "Mongo DB"
+            ],
+            "primary": [
+                "Cloud",
+                "API model",
+                "Token model",
+                "DynamoDB",
+                "Domain-Driven Design",
+                "Object-Oriented Design",
+                "Dockers",
+                "Containers",
+                "CI/CD Pipeline",
+                "Agile Scrum"
+            ],
+            "secondary": [
+                "Stream API",
+                "Micronauts",
+                "Coding standards",
+                "Readable code"
+            ],
+            "all": [
+                "Java 8",
+                "Spring Boot",
+                "Cloud",
+                "API model",
+                "Token model",
+                "Microservices",
+                "Micronauts",
+                "Stream API",
+                "AWS Services",
+                "DynamoDB",
+                "Domain-Driven Design",
+                "React JS",
+                "Mongo DB",
+                "Object-Oriented Design",
+                "Dockers",
+                "Containers",
+                "CI/CD Pipeline",
+                "Agile Scrum",
+                "Coding standards",
+                "Readable code"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Priyanka",
+        "email": "priyanka.yadav@tekinspirations.com",
+        "jd": "From: Priyanka, TEK Inspirations LLC priyanka.yadav@tekinspirations.com Reply to: priyanka.yadav@tekinspirations.com Job Description -Role: Sr Full Stack DeveloperLocation: Charlotte , NC Local For F2F interviewDay 1 Hybrid Onsite LinkedIn id is must (Should not been created recently, at least 6 Years old in case of senior candidates)Job Summary: 8-10 years of Java 8, Spring Boot, Cloud, API model, Token model development experienceAt least 5-7 full-scale development projects with Microservices, Micronauts, Stream API, AWS Services, and DynamoDB. Token-based calling model.Must have good knowledge and expertise with Java 8 frameworks (Thread, Reflection API, Stream API), including Springboot/Micronaut, etc.Must have a good understanding of Domain-Driven Design principlesMust have on React JS with Mongo DBMust be passionate about design and development methodology, including coding standards and writing efficient and readable codeShould have experience with Object-Oriented Design (OOD)Should have experience in deploying cloud applications using Dockers/ ContainersShould have experience in integrating automation scripts with CI/CD PipelineMust have executed projects using Agile Scrum methodology and be aware of all processes involved in Scrum",
+        "source": "Email",
+        "date_posted": "2024-10-17 10:43:11-05:00",
+        "unique_id": "1929b474c3117c26",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

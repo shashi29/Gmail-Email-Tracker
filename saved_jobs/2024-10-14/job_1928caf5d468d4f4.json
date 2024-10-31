@@ -1,0 +1,110 @@
+[
+    {
+        "company": "Tanisha Systems Inc",
+        "job_title": "AWS Pyspark with Python",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's Degree in Computer Science/Programming or similar is preferred",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS"
+            ],
+            "primary": [
+                "Java",
+                "Go",
+                "Terraform",
+                "Kubernetes",
+                "DevOps tools"
+            ],
+            "secondary": [
+                "Hudi",
+                "Iceberg",
+                "Delta Lake",
+                "data observability solutions",
+                "data governance frameworks",
+                "Ansible",
+                "Artifactory",
+                "Docker",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "Apache Kafka",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS",
+                "Java",
+                "Go",
+                "Terraform",
+                "Kubernetes",
+                "DevOps tools",
+                "Hudi",
+                "Iceberg",
+                "Delta Lake",
+                "data observability solutions",
+                "data governance frameworks",
+                "Ansible",
+                "Artifactory",
+                "Docker",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "Apache Kafka",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "with_experience": [
+                "Python (5+ years)",
+                "SQL (5+ years)",
+                "Spark (5+ years)",
+                "AWS (5+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rishav Verma",
+        "email": "rishav.verma@tanishasystems.com",
+        "jd": "From: Rishav Verma, Tanisha Systems Inc rishav.verma@tanishasystems.com Reply to: rishav.verma@tanishasystems.com Job Type :: Contract/FulltimeJob Title:- AWS Pyspark with PythonJob Location:- Plano TX / Wilmington DE (5 Days Onsite \u2013 No Remote)Experience: 12+ Years & Locals Only Note: In-person Interview is mandatory Job Description:Duties and responsibilitiesMandatory Skills: 5+ years of experience in a data engineering positionProficiency is Python (or similar) and SQLStrong experience building data pipelines with SparkStrong verbal & written communicationStrong analytical and problem solving skillsExperience with relational datastores, NoSQL datastores and cloud object storesExperience building data processing infrastructure in AWSBonus: Experience with infrastructure as code solutions, preferably TerraformBonus: Cloud certificationBonus: Production experience with ACID compliant formats such as Hudi, Iceberg orDelta LakeBonus: Familiar with data observability solutions, data governance frameworksRequirementsBachelor\u2019s Degree in Computer Science/Programming or similar is preferredRight to workMust have legal right to work in the USA Job responsibilitiesRequired qualifications, capabilities, and skills Formal training or certification on software engineering concepts and 10+ years applied experienceHands-on practical experience delivering system design, application development, testing, and operational stabilityAdvanced in one or more programming language(s) - Java, Python, GoA strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practicesDesign and building web environments on AWS, which includes working with services like EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53Advanced in modern technologies such as: Java version 8+, Spring Boot, Restful Microservices, AWS or Cloud Foundry, Kubernetes.Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar QubeExperience and knowledge of writing Infrastructure-as-Code (IaC) and Environment-as-Code (EaC), using tools like CloudFormation or TerraformExperience with high volume, SLA critical applications, and building upon messaging and or event-driven architecturesDeep understanding of financial industry and their IT systemsPreferred qualifications, capabilities, and skillsExpert in one or more programming language(s) preferably JavaAWS Associate level certification in Developer, Solutions Architect or DevOpsExperience in building the AWS infrastructure like EKS, EC2, ECS, S3, DynamoDB, RDS, MFTS, Route53, ALB, NLBExperience with high volume, mission critical applications, and building upon messaging and or event-driven architectures using Apache KafkaExperience with logging, observability and monitoring tools including Splunk, Datadog, Dynatrace. CloudWatch or GrafanaExperience in automation and continuous delivery methods using Shell scripts, Gradle, Maven, Jenkins, SpinnakerExperience with microservices architecture, high volume, SLA critical applications and their interdependencies with other applications, microservices and databasesExperience developing process, tooling, and methods to help improve operational maturity",
+        "source": "Email",
+        "date_posted": "2024-10-14 14:43:38-05:00",
+        "unique_id": "1928caf5d468d4f4",
+        "emp_type": [
+            "contract",
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

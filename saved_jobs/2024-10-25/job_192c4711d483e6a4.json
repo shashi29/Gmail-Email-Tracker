@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Smart Tech Link",
+        "job_title": ".NET Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#/.NET Development",
+                "Azure",
+                "Azure IoT Hub",
+                "Azure Service Bus",
+                "Event Hub",
+                "Cosmos DB",
+                "PostgreSQL",
+                "Azure Serverless Functions",
+                "Azure Kubernetes Service (AKS)"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "C#/.NET Development",
+                "Azure",
+                "Azure IoT Hub",
+                "Azure Service Bus",
+                "Event Hub",
+                "Cosmos DB",
+                "PostgreSQL",
+                "Azure Serverless Functions",
+                "Azure Kubernetes Service (AKS)"
+            ],
+            "with_experience": [
+                "C#/.NET Development (8+ years)",
+                "Azure (8+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Daniel Livingston",
+        "email": "daniel.l@smarttechlink.com",
+        "jd": "From: Daniel Livingston, Smart Tech Link daniel.l@smarttechlink.com Reply to: daniel.l@smarttechlink.com Hi,We do have a priority requirement with one of our clients. Kindly review and let me know if you have any questions.Role: .NET DeveloperLocation: Atlanta, GA(8+ Years)Development in Azure environmentAzure Skills Azure IoT HuboAzure Service Bus and/or Event HuboCosmos DB and/or PostgreSQLAzure Serverless FunctionsAzure Kubernetes Service (AKS) Required Skills:C#/.NET Development Experience (8+ Years) Development in Azure environment Azure Skills Azure IoT Hubo Azure Service Bus and/or Event Hubo Cosmos DB and/or PostgreSQL Azure Serverless Functions Azure Kubernetes Service (AKS) Thanks & Regards Daniel LivingstonSr Technical RecruiterDaniel.l@smarttechlink.com | www.smarttechlink.com |",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:33:49-05:00",
+        "unique_id": "192c4711d483e6a4",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

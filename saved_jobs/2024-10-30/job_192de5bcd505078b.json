@@ -1,0 +1,99 @@
+[
+    {
+        "company": "KNK",
+        "job_title": "Core Java Developer",
+        "location": "Mountain View, CA, USA",
+        "full_location": {
+            "city": "Mountain View",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kotlin",
+                "Microservices",
+                "API design",
+                "Cloud platforms"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Spring Cloud",
+                "PostgreSQL",
+                "MySQL",
+                "Oracle",
+                "MongoDB",
+                "Cassandra",
+                "RESTful APIs",
+                "GraphQL",
+                "Google Cloud",
+                "Maven",
+                "Gradle",
+                "Jenkins",
+                "GitLab CI/CD",
+                "JUnit",
+                "TestNG"
+            ],
+            "secondary": [
+                "Ktor",
+                "Kotlin-specific libraries and tools",
+                "Analytical and problem-solving skills",
+                "Effective collaboration with cross-functional teams"
+            ],
+            "all": [
+                "Java",
+                "Kotlin",
+                "Microservices",
+                "API design",
+                "Cloud platforms",
+                "Spring Boot",
+                "Spring Cloud",
+                "PostgreSQL",
+                "MySQL",
+                "Oracle",
+                "MongoDB",
+                "Cassandra",
+                "RESTful APIs",
+                "GraphQL",
+                "Google Cloud",
+                "Maven",
+                "Gradle",
+                "Jenkins",
+                "GitLab CI/CD",
+                "JUnit",
+                "TestNG",
+                "Ktor",
+                "Kotlin-specific libraries and tools",
+                "Analytical and problem-solving skills",
+                "Effective collaboration with cross-functional teams"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Nitin Kumar",
+        "email": "nitin.k80@knkglobaltalents.com",
+        "jd": "Title: Core Java Developer\nLocation: Mountain view CA /REMOTE\n\nJD: 12+ Years of experience required - Looking Someone Prior experience with Google and exp with G3 and other Google tool\n\nKey Responsibilities:\n- Develop and maintain backend services for the client portal.\n- Optimize systems for performance and scalability.\n- Collaborate with frontend teams for API integration.\n- Implement and maintain portal-specific features.\n- Troubleshoot and resolve performance issues.\n\nRequired Skills and Qualifications:\n- Proven experience in backend development for high-traffic applications.\n- Proficiency in Java and Kotlin.\n- Familiarity with telecom environments.\n- Experience with microservices, API design, and cloud platforms.\n\nProgramming Languages:\n- Java: Proficiency in Java SE/EE, frameworks (e.g., Spring, Hibernate)\n- Kotlin: Strong knowledge, experience with coroutines and extension functions.\n\nFrameworks and Tools:\n- Java Frameworks: Spring Boot, Spring Cloud\n- Kotlin Libraries: Ktor, Kotlin-specific libraries and tools.\n\nDatabase Management:\n- Relational Databases: SQL databases (PostgreSQL, MySQL, Oracle)\n- NoSQL Databases: MongoDB, Cassandra.\n\nAPIs and Web Services:\n- RESTful APIs: Designing and implementing\n- GraphQL: Familiarity (optional).\n\nArchitecture and Design:\n- Microservices: Architecture and design patterns.\n- Cloud Platforms: Google Cloud.\n\nDevOps and CI/CD:\n- Build Tools: Maven, Gradle.\n- CI/CD Pipelines: Jenkins, GitLab CI/CD.\n\nTesting:\n- Unit Testing: JUnit, TestNG, Kotlin-specific testing frameworks.\n- Integration Testing: Practices and tools.\n\nSecurity:\n- Security Best Practices: Authentication, authorization, data protection.\n\nSoft Skills:\n- Problem-Solving: Analytical and problem-solving skills.\n- Communication: Effective collaboration with cross-functional teams.",
+        "source": "Email",
+        "date_posted": "2024-10-30 10:16:47-05:00",
+        "unique_id": "192de5bcd505078b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

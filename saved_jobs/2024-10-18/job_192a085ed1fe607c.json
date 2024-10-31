@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Nam Info Inc",
+        "job_title": "Full Stack Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS"
+            ],
+            "primary": [
+                "Micro-service architecture",
+                "Containerized architecture",
+                "API Gateway",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx"
+            ],
+            "secondary": [
+                "Junit version upgrade",
+                "Refactoring",
+                "Multi-layer architecture"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Angular",
+                "NodeJS",
+                "Micro-service architecture",
+                "Containerized architecture",
+                "API Gateway",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx",
+                "Junit version upgrade",
+                "Refactoring",
+                "Multi-layer architecture"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Manjunath",
+        "email": "manju@nam-it.com",
+        "jd": "Dear Partners, Good Morning. Please find the Job description. Kindly share resumes along with Visa status, and Passport No along with one local ID proof to manju@nam-it.com NOTE: NON-LOCALS AND CORE BANKING Expeirence is a must. DO NOT CALL I SHALL GET BACK TO THE RIGHT MATCH PLEASE. ROLE : Full Stack Java DeveloperLocation: NYC, NY (Hybrid - 3 days from office)Duration: Long Term Contract opportunityNo: of roles: 3Domain Exp must: Capital Market / Asset Management exp (Financial Domain)Job Description / Requirements\u2022 Strong experience in Java, Spring boot, Angular, NodeJS, etc.\u2022 Experience working as a full stack Developer\u2022 Experience in Java, Spring Boot, Junit version upgrade and refactoring \u2022 Strong understanding on micro-service based architecture \u2022 Good experience with containerized based architecture like Openshift \u2022 Good understanding on multi-layer architecture \u2022 API Gateway \u2022 Angular 12+ , Angular Material or equivalent, RxJS or equivalent, NgRx or any redux/flux style pattern\u2022 Asset Management Exp must: - Stocks/ Equities/ Equity/ Fixed Income/ Bonds/ Cash/ Investment",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:51:27-05:00",
+        "unique_id": "192a085ed1fe607c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

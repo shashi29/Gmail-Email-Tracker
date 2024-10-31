@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Metasys Inc",
+        "job_title": "Full Stack Engineers (multiple positions available)",
+        "location": "Deerfield, IL, USA",
+        "full_location": {
+            "city": "Deerfield",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Digital Payment Systems",
+                "SRE",
+                "ETL",
+                "PostgreSQL",
+                "Oracle",
+                "MongoDB"
+            ],
+            "primary": [
+                "Reactive Programming",
+                "Vert.x framework",
+                "Data Formats (JSON, XML, TOML, CSON, YAML)",
+                "Cloud Technologies",
+                "Scalability and Performance"
+            ],
+            "secondary": [
+                "Site Reliability Engineering (SRE)",
+                "APM tools",
+                "Networking Protocols",
+                "TCP/IP",
+                "Kubernetes",
+                "Grafana"
+            ],
+            "all": [
+                "Java",
+                "Digital Payment Systems",
+                "SRE",
+                "ETL",
+                "PostgreSQL",
+                "Oracle",
+                "MongoDB",
+                "Reactive Programming",
+                "Vert.x framework",
+                "Data Formats (JSON, XML, TOML, CSON, YAML)",
+                "Cloud Technologies",
+                "Scalability and Performance",
+                "Site Reliability Engineering (SRE)",
+                "APM tools",
+                "Networking Protocols",
+                "TCP/IP",
+                "Kubernetes",
+                "Grafana"
+            ],
+            "with_experience": [
+                "Java (9+ years)",
+                "Digital Payment Systems",
+                "SRE",
+                "ETL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abishek Balasubramaniyan",
+        "email": "abalasubramaniyan@metasysinc.com",
+        "jd": "Hi All, Need Local candidates only and looking for 9+ years genuine candidate with Java and Digital Payment Background is Must with SRE and ETL. Job Title: Full Stack Engineers (multiple positions available)Job Location: Deerfield, IL (onsite)Job Duration: 6+ Months ContractJob DescriptionKey Responsibilities:Digital Payment Systems: Develop and maintain robust digital payment solutions for major financial companies, ensuring high availability, security, and performance.Java Development: Utilize strong proficiency in core Java fundamentals, data structures, thread safety, JVM and garbage collection mechanisms, and serialization/deserialization techniques. Leverage connection pooling and thread pooling concepts effectively.Scalability and Performance: Design and implement low-latency, high-throughput systems. Apply best practices in design patterns and distributed transaction processing.Reactive Programming: Employ reactive programming concepts using the Vert.x framework to build responsive and resilient applications.Data Formats: Work with various data formats, including JSON, XML, TOML, CSON, and YAML, to ensure data interoperability and efficiency.Database Management: Manage and optimize databases, with a solid understanding of PostgreSQL, Oracle, and MongoDB, to meet application requirements.Qualifications:Cloud Expertise: Proven experience implementing horizontal and vertical scaling concepts, with a strong understanding of parallel processing and hybrid cloud functionalities.ETL Processes: Demonstrated experience with Extract, Transform, Load (ETL) processes to manage data workflows.SRE/Alert Monitoring Tools: Proficient in using SRE and alert monitoring tools to ensure system reliability and quick incident response.Proven experience in digital payment systems with major companies.Strong expertise in Java development and related technologies.Experience with reactive programming and the Vert.x framework.In-depth knowledge of database management and various data formats.Familiarity with site reliability engineering practices and networking protocols.Experience with cloud technologies and scaling strategies.Highly Desired Skills:Site Reliability Engineering (SRE): Debug and optimize systems using APM tools. Understand service mesh within Kubernetes, differentiate between API gateways and service meshes, and create Grafana dashboards for monitoring.Networking Protocols: Apply a solid understanding of transport protocols like TCP/IP and differentiate between TCP and UDP to optimize network performance.",
+        "source": "Email",
+        "date_posted": "2024-10-18 15:40:18-05:00",
+        "unique_id": "192a1e1f6d09fbf3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

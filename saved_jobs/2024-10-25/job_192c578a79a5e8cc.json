@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Pega Business Analyst",
+        "location": "Groton, CT, USA",
+        "full_location": {
+            "city": "Groton",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Pega",
+                "Business Analysis",
+                "Data Mapping",
+                "User Interface Design"
+            ],
+            "primary": [
+                "Requirements Gathering",
+                "System Testing",
+                "User Acceptance Testing",
+                "Process Flow Development"
+            ],
+            "secondary": [
+                "Mentoring",
+                "Collaboration",
+                "Continuous Improvement"
+            ],
+            "all": [
+                "Pega",
+                "Business Analysis",
+                "Data Mapping",
+                "User Interface Design",
+                "Requirements Gathering",
+                "System Testing",
+                "User Acceptance Testing",
+                "Process Flow Development",
+                "Mentoring",
+                "Collaboration",
+                "Continuous Improvement"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vishnu",
+        "email": "vishnu.m@siriinfo.com",
+        "jd": "From: Vishnu, siri vishnu.m@siriinfo.com Reply to: vishnu.m@siriinfo.com Pega Business Analyst Groton, CTHire Type: ContractLead the business team in gathering requirements and choosing the best way to implement requirements leveraging the Pega system software.Design and configure rules and flows and assist with the draft user interface and draft process flow development.Function as an Information Technology Business Analyst by understanding business requirements and transforming those requirements into data mapping specs.Possesses and applies a comprehensive knowledge across key tasks and high impact assignments.Evaluates performance results and recommends major changes affecting short term project growth and success.Participates in the development of functional business requirements and helps users assess relative priorities for both business process and technology solutions.Understands business processes and priorities. Evaluates alternative business process and technology solutions, and participates in making technology recommendations to enhance business operations.Communicate with the internal customer to analyze information and business workflow to deliver functional requirements, use cases, and user interface designs.Effectively communicate with internal teams and clients to deliver UI requirements such as Graphical User Interfaces, Screen, and Interface mock-ups.Experience supporting Pega development or implementation.Conducts system testing and facilitates user acceptance testing.Works collaboratively with peers to coordinate the overall delivery of technology solutions to business groups.Mentor and oversee work of junior team members.Develops working knowledge of the client\u2019s industry and uses this information to support continuous improvement initiatives.",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:22:43-05:00",
+        "unique_id": "192c578a79a5e8cc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "PEGA Developer"
+    }
+]

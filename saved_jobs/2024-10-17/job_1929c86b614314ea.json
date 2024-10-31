@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Prospect Infosystem",
+        "job_title": "Sr Java Progammer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Java EE",
+                "OOP Design",
+                "Multi-Threading",
+                "Generics",
+                "Exception Handling",
+                "Collections",
+                "Java Reflection",
+                "Annotation"
+            ],
+            "primary": [
+                "Oracle",
+                "Git Workflows",
+                "CI/CD",
+                "Azure DevOps",
+                "Selenium",
+                "Cucumber",
+                "Playwright",
+                "JUnit",
+                "IBM SOA products",
+                "Node.js",
+                "Angular"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Java EE",
+                "OOP Design",
+                "Multi-Threading",
+                "Generics",
+                "Exception Handling",
+                "Collections",
+                "Java Reflection",
+                "Annotation",
+                "Oracle",
+                "Git Workflows",
+                "CI/CD",
+                "Azure DevOps",
+                "Selenium",
+                "Cucumber",
+                "Playwright",
+                "JUnit",
+                "IBM SOA products",
+                "Node.js",
+                "Angular"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek",
+        "email": "abhishek@prospectinfosystem.com",
+        "jd": "From: Abhishek, Prospect Infosystem abhishek@prospectinfosystem.com Reply to: abhishek@prospectinfosystem.com Sr Java ProgammerHybrid 2 days a week on site requiredABOUT THE ROLEThis position will serve as a senior BACK-END application developer for the Information Management Division in the design, development, and maintenance of Java/ JEE based applications. Extensive practical experience in building enterprise applications using Java EE technologies.Expertise in Core Java concepts, such as OOP Design, Multi-Threading, Generics, Exception Handling, Collections, Java Reflection, Annotation.Understanding of relational database concepts with experience in Oracle.Experience developing with Git Workflows.Experience developing CI/CD pipelines and automation.Experience using Azure DevOps.Experience with Testing Frameworks such as Selenium, Cucumber, Playwright, JUnit and an understanding of Test Left approach to development.Experience with IBM SOA products like IIB/ACE, ODM, WAS, MQ, and ITXExperience with Front End Development using Node.js and Angular THANKS & REGARDS:AbhishekProspect Infosystem Inc.Email: abhishek@prospectinfosystem.comLinkedIn: linkedin.com/in/abhishek-reddy-08b490217",
+        "source": "Email",
+        "date_posted": "2024-10-17 16:33:18-05:00",
+        "unique_id": "1929c86b614314ea",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Crea Services LLC",
+        "job_title": "Data Engineer",
+        "location": "New Jersey, USA",
+        "full_location": {
+            "city": "New Jersey",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Databricks",
+                "Snowflake"
+            ],
+            "primary": [
+                "Pyspark",
+                "ETL",
+                "Data Warehousing",
+                "Cloud Data Architectures"
+            ],
+            "secondary": [
+                "Airflow",
+                "Cloud certification(s)",
+                "Data Integration",
+                "Data Modeling",
+                "Event-based technologies"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Databricks",
+                "Snowflake",
+                "Pyspark",
+                "ETL",
+                "Data Warehousing",
+                "Cloud Data Architectures",
+                "Airflow",
+                "Cloud certification(s)",
+                "Data Integration",
+                "Data Modeling",
+                "Event-based technologies"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Aryan Kaushik",
+        "email": "akaushik@creaservices.net",
+        "jd": "From: Aryan Kaushik, Crea services.LLC akaushik@creaservices.net Reply to: akaushik@creaservices.net Hi ,This is Aryan from crea services We have an urgent requirement with our client Please see the below jd and share me your best local candidates . JD-- Role: Data EngineerLocation: New Jersey (3 Days Hybrid from Day 1) Must Have:SnowflakeSQLPythonADF Job Description :This position is for a Cloud Data engineer with a background in Python, Pyspark, SQL and data warehousing for enterprise level systems. The position calls for someone that is comfortable working with business users along with business analyst expertise. Major Responsibilities:Build and optimize data pipelines for efficient data ingestion, transformation and loading from various sources while ensuring data quality and integrity.Design, develop, and deploy Spark program in databricks environment to process and analyze large volumes of data.Experience of Delta Lake, DWH, Data Integration, Cloud, Design and Data Modelling.Proficient in developing programs in Python and SQLExperience with Data warehouse Dimensional data modeling.Working with event based/streaming technologies to ingest and process data.Working with structured, semi structured and unstructured data.Optimize Databricks jobs for performance and scalability to handle big data workloads. Monitor and troubleshoot Databricks jobs, identify and resolve issues or bottlenecks. Implement best practices for data management, security, and governance within the Databricks environment. Experience designing and developing Enterprise Data Warehouse solutions.Proficient writing SQL queries and programming including stored procedures and reverse engineering existing process.Perform code reviews to ensure fit to requirements, optimal execution patterns and adherence to established standards. Skills:5+ years Python coding experience.5+ years - SQL Server based development of large datasets5+ years with Experience with developing and deploying ETL pipelines using Databricks Pyspark.Experience in any cloud data warehouse like Synapse, Big Query, Redshift, Snowflake.Experience in Data warehousing - OLTP, OLAP, Dimensions, Facts, and Data modeling.Previous experience leading an enterprise-wide Cloud Data Platform migration with strong architectural and design skills.Experience with Cloud based data architectures, messaging, and analytics.Cloud certification(s).Any experience with Airflow is a Plus. Regards,Aryan kaushikTalent Acquisition Crea Services LLC E-mail: akaushik@creaservices.netVisit us: https://www.creaservices.net/",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:29:16-05:00",
+        "unique_id": "192d3dfff9e5f123",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

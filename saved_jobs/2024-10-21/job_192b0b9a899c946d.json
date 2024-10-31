@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Sita Consulting Services",
+        "job_title": "Programmer Analyst 6 - Java Developer",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SQL",
+                "Java JEE",
+                "Spring",
+                "Angular"
+            ],
+            "primary": [
+                "Eclipse",
+                "STS",
+                "PL/SQL",
+                "SpringBoot 3.0",
+                "JavaScript frameworks",
+                "AWS",
+                "Databricks",
+                "Elastic search"
+            ],
+            "secondary": [
+                "Apache Kafka",
+                "Apache Spark",
+                "ActiveMQ",
+                "CI/CD pipelines",
+                "EHR",
+                "HL7",
+                "5010 EDI X12"
+            ],
+            "all": [
+                "Java",
+                "SQL",
+                "Java JEE",
+                "Spring",
+                "Angular",
+                "Eclipse",
+                "STS",
+                "PL/SQL",
+                "SpringBoot 3.0",
+                "JavaScript frameworks",
+                "AWS",
+                "Databricks",
+                "Elastic search",
+                "Apache Kafka",
+                "Apache Spark",
+                "ActiveMQ",
+                "CI/CD pipelines",
+                "EHR",
+                "HL7",
+                "5010 EDI X12"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shashank Bajpai",
+        "email": "shashank@scstech.us",
+        "jd": "From: Shashank Bajpai, Sita Consulting Services shashank@scstech.us Reply to: shashank@scstech.us Hi,Hope you are doing great!If the opportunity interests you and want to apply for the position, please respond to this mail with recent copy of your resume. Role \u2013 Programmer Analyst 6 \u2013 Java DeveloperLocation \u2013 Lansing, MI (Hybrid \u2013 2 days onsite per week from day 1)Job Type \u2013 Contract Top Skills Required:12+ years in Java development for complex systems.12+ years with Java IDEs (e.g., Eclipse, STS).12+ years in SQL and/or PL/SQL programming.8+ years using Java JEE Struts and Spring/SpringBoot 3.0 frameworks.5+ years working with Angular/React JS, JavaScript frameworks.5+ years experience with AWS, Databricks, and Elastic search.Responsibilities:Maintain and enhance the MDHHS MBCIS system.Lead technical efforts and guide other developers in the department.Work on system stability, functionality, and ensure data integrity.Develop Java applications using Spring MVC, Hibernate, Angular, RESTful Web Services, and Apache Struts.Collaborate with stakeholders for business requirement gathering.Implement CI/CD pipelines (Azure DevOps preferred).Design both logical and physical databases, SQL optimization, and troubleshooting.Nice-to-Have Skills:Knowledge of Apache Kafka, Apache Spark, and ActiveMQ broker.Experience in creating CI/CD pipelines using Azure DevOps.Familiarity with EHR, HL7, and 5010 EDI X12 healthcare claims processing.Key Projects:The resource will support MBCIS (Michigan Birth Defects Information System), a critical system used by healthcare organizations for screenings and follow-up services.Additional Notes:Local candidates only (Mid-Michigan). No remote-only options available. Shashank BajpaiSr. Technical RecruiterPhone : +1 917 410 5816Email : shashank@scstech.us |URL : https://scstech.us/ 1735 Keller Springs Road , Suit # 212 , Carrollton, Texas \u2013 75006",
+        "source": "Email",
+        "date_posted": "2024-10-21 14:39:10-05:00",
+        "unique_id": "192b0b9a899c946d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

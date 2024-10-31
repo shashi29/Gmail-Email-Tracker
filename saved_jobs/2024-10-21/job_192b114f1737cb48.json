@@ -1,0 +1,98 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "Python Code Developer",
+        "location": "Washington, DC, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Must have a college degree in MS Computer Science or related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "3+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python code development",
+                "Glue jobs design using Python Shell and PySpark",
+                "Unit testing and mocking techniques",
+                "Docker",
+                "ETL data processing"
+            ],
+            "primary": [
+                "AWS Lambda functions",
+                "SNS/SQL implementation techniques",
+                "Event triggering (e.g., EventBridge)",
+                "Step Functions",
+                "AWS CDK",
+                "Logging in AWS",
+                "Database development and data migration (Postgres and Redshift)",
+                "Data Lakes using Glue/Athena/Redshift",
+                "Data access APIs",
+                "Database/data lake granular access security",
+                "Access integration with Okta/Cognito"
+            ],
+            "secondary": [],
+            "all": [
+                "Python code development",
+                "Glue jobs design using Python Shell and PySpark",
+                "Unit testing and mocking techniques",
+                "Docker",
+                "ETL data processing",
+                "AWS Lambda functions",
+                "SNS/SQL implementation techniques",
+                "Event triggering (e.g., EventBridge)",
+                "Step Functions",
+                "AWS CDK",
+                "Logging in AWS",
+                "Database development and data migration (Postgres and Redshift)",
+                "Data Lakes using Glue/Athena/Redshift",
+                "Data access APIs",
+                "Database/data lake granular access security",
+                "Access integration with Okta/Cognito"
+            ],
+            "with_experience": [
+                "Python code development",
+                "Glue jobs design using Python Shell and PySpark",
+                "Unit testing and mocking techniques",
+                "Docker",
+                "ETL data processing",
+                "AWS Lambda functions",
+                "SNS/SQL implementation techniques",
+                "Event triggering (e.g., EventBridge)",
+                "Step Functions",
+                "AWS CDK",
+                "Logging in AWS",
+                "Database development and data migration (Postgres and Redshift)",
+                "Data Lakes using Glue/Athena/Redshift",
+                "Data access APIs",
+                "Database/data lake granular access security",
+                "Access integration with Okta/Cognito"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Farha khan",
+        "email": "farha.khan@tekinspirations.com",
+        "jd": "From: Farha khan, Tek Inspirations LLC farha.khan@tekinspirations.com Reply to: farha.khan@tekinspirations.com Job Description -Python Code DeveloperLocation: Washington, DC \u2013 Hybrid (Local Candidates) (These are Hybrid positions with a requirement of 4 days per month on site.)Duration: 3+ Months MOI: Skype Must be able to pass a (Public Trust Background check)Resume should be of maximum 4-5 pages. Work Experience RequiredPython code development Experience with designing Glue jobs using both Python Shell and PySparkFull understanding of Python applications design, code structure, packaging, and deploymentsAbility to write unit tests and use various mocking techniquesFunctional knowledge of DockerExperience with ETL data processing. Airflow experience is highly desired.Experience with writing AWS Lambda functionsExperience with SNS/SQL implementation techniques, event triggering (e.g., EventBridge) and Step FunctionsExperience with infrastructure building using AWS CDKUnderstanding of logging in AWS Experience with database development and data migration (Postgres and Redshift)Experience in building/accessing Data Lakes using Glue/Athena/Redshift and building data access APIsImplementation of database/data lake granular access security, and access integration with Okta/Cognito Technical Skills Required:Python code development Experience with designing Glue jobs using both Python Shell and PySparkFull understanding of Python applications design, code structure, packaging, and deploymentsAbility to write unit tests and use various mocking techniquesFunctional knowledge of DockerExperience with ETL data processing. Airflow experience is highly desired.Experience with writing AWS Lambda functionsExperience with SNS/SQL implementation techniques, event triggering (e.g., EventBridge) and Step FunctionsExperience with infrastructure building using AWS CDK Understanding of logging in AWS Experience with database development and data migration (Postgres and Redshift)Experience in building/accessing Data Lakes using Glue/Athena/Redshift and building data access APIsImplementation of database/data lake granular access security, and access integration with Okta/Cognito Education Required:Must have a college degree in MS Computer Science or related field.",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:21:13-05:00",
+        "unique_id": "192b114f1737cb48",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

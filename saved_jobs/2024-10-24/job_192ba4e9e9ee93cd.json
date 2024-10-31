@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Genuineitllc",
+        "job_title": "Senior engineer with chat bot Experience",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "C#/.NET"
+            ],
+            "primary": [
+                "Speech-to-text",
+                "text-to-speech solutioning",
+                "LLM/Prompt Engineering",
+                "Chatbot Implementation"
+            ],
+            "secondary": [
+                "Angular",
+                "TypeScript"
+            ],
+            "all": [
+                "Python",
+                "C#/.NET",
+                "Speech-to-text",
+                "text-to-speech solutioning",
+                "LLM/Prompt Engineering",
+                "Chatbot Implementation",
+                "Angular",
+                "TypeScript"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "manoj",
+        "email": "manoj@genuineitllc.com",
+        "jd": "From: manoj, Genuineitllc manoj@genuineitllc.com Reply to: manoj@genuineitllc.com Role: Senior engineer with chat bot ExperiencePosition: RemoteDuration: 6 months\u00b7 Strong communicator\u00b7 Able to work independently with minimal direction and large amount of autonomy\u00b7 Preferred Project Experience\u00b7 Speech-to-text and text-to-speech solutioning\u00b7 LLM/Prompt Engineering\u00b7 Chatbot Implementation\u00b7 Tech Stack: Python (Primary), C#/.NET (Secondary), Angular/TypeScript (Bonus/Nice to Have).",
+        "source": "Email",
+        "date_posted": "2024-10-23 11:19:23-05:00",
+        "unique_id": "192ba4e9e9ee93cd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Vertex Elite",
+        "job_title": "Databricks Engineer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or related field, or equivalent work experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Spark",
+                "SQL",
+                "Pyspark",
+                "Azure"
+            ],
+            "primary": [
+                "Data engineering",
+                "Data pipeline development",
+                "ETL processes",
+                "Data warehouse solutions",
+                "Data integration"
+            ],
+            "secondary": [
+                "Distributed computing",
+                "Data governance",
+                "Big data technologies",
+                "Kafka",
+                "Hadoop",
+                "Hive"
+            ],
+            "all": [
+                "Databricks",
+                "Spark",
+                "SQL",
+                "Pyspark",
+                "Azure",
+                "Data engineering",
+                "Data pipeline development",
+                "ETL processes",
+                "Data warehouse solutions",
+                "Data integration",
+                "Distributed computing",
+                "Data governance",
+                "Big data technologies",
+                "Kafka",
+                "Hadoop",
+                "Hive"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Prasanna",
+        "email": "john@vertexelites.us",
+        "jd": "From: Prasanna, Vertex Elite john@vertexelites.us Reply to: john@vertexelites.us Databricks EngineerLocation \u2013 New-York City, NY and/or Metropark, NJExp range: above 12 yrs as this is lead position. JD:Strong knowledge on databricks architecture and toolsHave experience of task and wf jobs creations in databricks.Deep understanding of distributed computing and how to use spark for dataprocessing.SQL and pyspark : strong command over querying databases and proficiency in pyspark.Cloud platform: Preferred Azure for databricks deployment. ResponsibilitiesDesign, develop, and maintain data pipelines using Databricks and Spark, and other cloud technologies as neededOptimize data pipelines for performance, scalability, and reliabilityEnsure data quality and integrity throughout the data lifecycleCollaborate with data scientists, analysts, and other stakeholders to understand and meet their data needsTroubleshoot and resolve data-related issues, and provide root cause analysis and recommendationsDocument data pipeline specifications, requirements, and enhancements, and communicate them effectively to the team and managementCreate new data validation methods and data analysis tools, and share best practices and learnings with the data engineering communityImplement ETL processes and data warehouse solutions, and ensure compliance with data governance and security policies QualificationsBachelor's degree in Computer Science, Engineering, or related field, or equivalent work experience5+ years of experience in data engineering with Databricks and SparkProficient in SQL and Python and PysparkExperience with Azure Databricks Medallion Architecture with DLT, IcebergFinancial/Corporate Banking context would be a plusExperience with data integration and ETL tools, such as Azure Data FactoryExperience with Azure cloud platform and servicesExperience with data warehouse and data lake concepts and architecturesGood to have experience with big data technologies, such as Kafka, Hadoop, Hive, etcStrong analytical and problem-solving skillsExcellent communication and teamwork skills Requirements:Strong knowledge on data bricks architecture and tools.Have experience of task and wf jobs creations in data bricks.Deep understanding of distributed computing and how to use spark for data processing.SQL and Pyspark - strong command over querying databases and proficiency in Pyspark.Cloud platform: Preferred Azure for data bricks deployment.",
+        "source": "Email",
+        "date_posted": "2024-10-26 14:27:03-05:00",
+        "unique_id": "192ca6c02d63bab5",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

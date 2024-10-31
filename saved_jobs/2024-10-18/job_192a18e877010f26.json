@@ -1,0 +1,82 @@
+[
+    {
+        "company": "HMG America LLC",
+        "job_title": "Azure Data Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$50/hr Max",
+            "job_code": "",
+            "contact_person": "sanjeev",
+            "email": "sanjeev@hmgamerica.com"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Lake Storage",
+                "Delta Lake",
+                "Power BI",
+                "Azure Databricks",
+                "Azure SQL databases"
+            ],
+            "primary": [
+                "data pipelines",
+                "data lakes",
+                "data models",
+                "CI/CD pipelines",
+                "data governance"
+            ],
+            "secondary": [
+                "Python",
+                "Power Shell",
+                "ARM templates",
+                "Terraform",
+                "Azure certifications"
+            ],
+            "all": [
+                "Azure Data Lake Storage",
+                "Delta Lake",
+                "Power BI",
+                "Azure Databricks",
+                "Azure SQL databases",
+                "data pipelines",
+                "data lakes",
+                "data models",
+                "CI/CD pipelines",
+                "data governance",
+                "Python",
+                "Power Shell",
+                "ARM templates",
+                "Terraform",
+                "Azure certifications"
+            ],
+            "with_experience": [
+                "Python"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "jd": "From: sanjeev, HMG America LLC sanjeev@hmgamerica.com Reply to: sanjeev@hmgamerica.com Azure Data Engineer Phoenix, AZ ( Onsite from day 1)ContractPlease dont share the profile if already submitted to HCL for any position in the last 3-4 Months Rate is $50/hr MaxPlease dont share EST or CST Time Zone Candidates Job Description:Develop and maintain data pipelines to ingest, transform, and load data from various sources.Design and manage scalable data lakes to support comprehensive data storage and analysis needs.Design retention, lifecycle, archival policies for datasetsWork with Azure Data Lake Storage to efficiently store and manage large datasets.Create and manage data models and data warehouses to support business intelligence and analytics needs.Set up and manage external tables and integrate with various data sources.Utilize Delta Lake for optimized data storage and real-time analytics capabilities.Develop and deploy interactive and visually compelling reports and dashboards using Power BI.Utilize Azure Databricks for advanced data processing.Optimize and manage Azure SQL databases to ensure high performance and availability.Implement CI/CD pipelines using Azure DevOps to streamline development and deployment processes.Ensure data security and compliance with relevant regulations and best practices (eg: NIST).Setup Azure Purview for data governanceExperience with data integration and migration from on-premises to cloud environments.Proficiency in Python and experience with Python Notebooks.Proficiency in scripting and automation (Power Shell, ARM templates, TerraformAzure certifications (e.g., Azure Solutions Architect, Azure Data Engineer) are a plus",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:40:11-05:00",
+        "unique_id": "192a18e877010f26",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "company": "VDart.INC",
+        "job_title": "AWS Data Engineer",
+        "location": "Reston, VA, USA",
+        "full_location": {
+            "city": "Reston",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "PySpark",
+                "AWS native services",
+                "PostgreSQL",
+                "Aurora",
+                "Data engineering",
+                "EMR",
+                "Redshift",
+                "Glue",
+                "Lambda",
+                "step functions",
+                "SQL",
+                "PL/SQL",
+                "Star/Snowflake Schema Design",
+                "Datamart",
+                "Data Warehousing",
+                "CI/CD pipelines",
+                "CloudFormation",
+                "Gitlab",
+                "Multi-Dimensional OLAP"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python",
+                "PySpark",
+                "AWS native services",
+                "PostgreSQL",
+                "Aurora",
+                "Data engineering",
+                "EMR",
+                "Redshift",
+                "Glue",
+                "Lambda",
+                "step functions",
+                "SQL",
+                "PL/SQL",
+                "Star/Snowflake Schema Design",
+                "Datamart",
+                "Data Warehousing",
+                "CI/CD pipelines",
+                "CloudFormation",
+                "Gitlab",
+                "Multi-Dimensional OLAP"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abdul",
+        "email": "abdul.r@vdartinc.com",
+        "jd": "Hi Team,This is Abdul from VDart. We are a global IT services and workforce solutions firm based in Alpharetta, Georgia.I have the job description below and would like to discuss it further if this interests you.Role: AWS Data EngineerLocation: Reston, VA (Onsite)ContractMust Have Strong hands-on working experience in Python, PySparkAWS native services Databases (PostgreSQL, Aurora) Data engineering (EMR, Redshift, Glue)Serverless experience (Lambda, step functions)Strong SQL, PL/SQLStar/Snowflake Schema Design Datamart / Data WarehousingStrong experience building CI/CD pipelines on AWS (CloudFormation and Gitlab)Multi-Dimensional OLAP",
+        "source": "Email",
+        "date_posted": "2024-10-29 16:38:15-05:00",
+        "unique_id": "192daeee98eb7057",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Convex Tech Inc",
+        "job_title": "Senior Cloud Engineer",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Professional Certification",
+                "Advanced cloud implementation",
+                "Infrastructure as Code (IaC)",
+                "EC2",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Terraform",
+                "CloudFormation",
+                "Ansible",
+                "Python",
+                "Docker"
+            ],
+            "secondary": [
+                "Kafka",
+                "Networking and Security",
+                "Identity and Access Management (IAM)",
+                "CI/CD best practices",
+                "Azure"
+            ],
+            "all": [
+                "AWS Professional Certification",
+                "Advanced cloud implementation",
+                "Infrastructure as Code (IaC)",
+                "EC2",
+                "Kubernetes",
+                "Terraform",
+                "CloudFormation",
+                "Ansible",
+                "Python",
+                "Docker",
+                "Kafka",
+                "Networking and Security",
+                "Identity and Access Management (IAM)",
+                "CI/CD best practices",
+                "Azure"
+            ],
+            "with_experience": [
+                "AWS Professional Certification",
+                "Advanced cloud implementation",
+                "Infrastructure as Code (IaC)",
+                "EC2",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sarfaraz Khan",
+        "email": "sarfaraz@convextech.com",
+        "jd": "Hope you are doing good.!!Please let me know if you are interested in the position below Title: Senior Cloud EngineerLocation: Jersey City, NJ - 3 days a week onsite \u2013 Try to find Local Candidates First Duration: 6-12MonthsVISA: NO H1B/CPT MUST Have financial industry experience ---------------------------JOB DESCRIPTION---------------------------Qualifications:15+ years of relevant experienceMust have AWS Professional CertificationAdvanced cloud implementation experience using compute, storage, networking and security services and cloud native best Practices on AWS.Proven background working in an Enterprise IT environment.Familiar with IaC tools, Terraform, CloudFormationDesign capabilities aligned with the well-architected frameworkEC2, Unix/Linux, User Data, AnsibleKubernetes, ServerlessExperience with Kafka a plusNetworking and SecurityIdentity and Access Management (IAM)Python, DockerExperience collaborating with Infrastructure and Application teamsSelf-disciplined, self-starter who can provide leadership and mentor others while resolving complex incident and delivering projectsKnowledge of SDLC and CI/CD best practicesAzure experience not required, but nice to have Responsibilities:Design, build, and maintain CI/CD pipelines that deploy customers\u2019 applications to cloud infrastructure while promoting security and cloud computing best practices.Use infrastructure as code tools to automate immutable infrastructureManage, configuration, administration, and maintain AWS servicesProvide guidance to Application and Business teams on infrastructure design decisionsCollaborate and liaise with various technical teams on escalations, development of cloud and managed servicesDrive DevOps team process improvement wit Enterprise IT cloud management capabilitiesIdentify opportunities for threat management and critical upgradesUtilize enterprise SaaS products to align with business technology needsContinuously learn to keep up with industry trends and best practicesManage multiple projects simultaneously and can adapt to changing business needsWork well with cross functional global and remote teams.",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:47:54-05:00",
+        "unique_id": "192d9f20b67814f4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

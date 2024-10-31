@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Securekloud",
+        "job_title": "Data Automation",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "0-3 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "data warehousing",
+                "data mining",
+                "mathematics",
+                "statistical analysis",
+                "data reporting"
+            ],
+            "secondary": [
+                "attention to detail",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "interpersonal skills",
+                "team collaboration"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "data warehousing",
+                "data mining",
+                "mathematics",
+                "statistical analysis",
+                "attention to detail",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "interpersonal skills",
+                "team collaboration",
+                "data reporting"
+            ],
+            "with_experience": [
+                "SQL",
+                "Python"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Muthukumaran",
+        "email": "muthukumaran.krishnamoorthy@securekloud.com",
+        "jd": "From: Muthukumaran, Securekloud muthukumaran.krishnamoorthy@securekloud.com Reply to: muthukumaran.krishnamoorthy@securekloud.com - 0-3 years of experience with scripts, data warehousing, and / or automation - Hands-on experience (or proficiency with SQL and Python) - Proficiency in data mining, mathematics, and statistical analysis - Keen attention to detail to ensure accuracy in data processing, analysis, and reporting - Strong analytical and problem-solving skills - Good communication and interpersonal skills - Ability to work effectively within a team and collaborate with cross-functional departments - Experience in data reporting and proficiency in SQL are advantageous for querying and managing relational databases",
+        "source": "Email",
+        "date_posted": "2024-10-15 15:08:37-05:00",
+        "unique_id": "19291ec8e670e8e8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

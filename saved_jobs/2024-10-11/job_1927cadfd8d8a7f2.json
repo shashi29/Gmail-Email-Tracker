@@ -1,0 +1,79 @@
+[
+    {
+        "company": "VySystems",
+        "job_title": "Big Data Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor's Degree in Computer Science/Programming or similar is preferred",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark"
+            ],
+            "primary": [
+                "AWS",
+                "data pipelines",
+                "relational datastores",
+                "NoSQL datastores",
+                "cloud object stores"
+            ],
+            "secondary": [
+                "infrastructure as code",
+                "Terraform",
+                "cloud certification",
+                "ACID compliant formats",
+                "data observability solutions",
+                "data governance frameworks"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS",
+                "data pipelines",
+                "relational datastores",
+                "NoSQL datastores",
+                "cloud object stores",
+                "infrastructure as code",
+                "Terraform",
+                "cloud certification",
+                "ACID compliant formats",
+                "data observability solutions",
+                "data governance frameworks",
+                "strong verbal & written communication",
+                "strong analytical and problem solving skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Deepak",
+        "email": "deepak.mp@vysystems.com",
+        "jd": "From: Deepak, VySystems deepak.mp@vysystems.com Reply to: deepak.mp@vysystems.com Duties and responsibilities\u25cf Collaborate with the team to build out features for the data platform and consolidate dataassets\u25cf Build, maintain and optimize data pipelines built using Spark\u25cf Advise, consult, and coach other data professionals on standards and practices\u25cf Work with the team to define company data assets\u25cf Migrate CMS\u2019 data platform into Chase\u2019s environment\u25cf Partner with business analysts and solutions architects to develop technicalarchitectures for strategic enterprise projects and initiatives\u25cf Build libraries to standardize how we process data\u25cf Loves to teach and learn, and knows that continuous learning is the cornerstone of everysuccessful engineer\u25cf Has a solid understanding of AWS tools such as EMR or Glue, their pros and cons andis able to intelligently convey such knowledge\u25cf Implement automation on applicable processesMandatory Skills:\u25cf 5+ years of experience in a data engineering position\u25cf Proficiency is Python (or similar) and SQL\u25cf Strong experience building data pipelines with Spark\u25cf Strong verbal & written communication\u25cf Strong analytical and problem solving skills\u25cf Experience with relational datastores, NoSQL datastores and cloud object stores\u25cf Experience building data processing infrastructure in AWS\u25cf Bonus: Experience with infrastructure as code solutions, preferably Terraform\u25cf Bonus: Cloud certification\u25cf Bonus: Production experience with ACID compliant formats such as Hudi, Iceberg orDelta Lake\u25cf Bonus: Familiar with data observability solutions, data governance frameworksRequirementsBachelor\u2019s Degree in Computer Science/Programming or similar is preferredRight to workMust have legal right to work in the USA",
+        "source": "Email",
+        "date_posted": "2024-10-11 12:08:04-05:00",
+        "unique_id": "1927cadfd8d8a7f2",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

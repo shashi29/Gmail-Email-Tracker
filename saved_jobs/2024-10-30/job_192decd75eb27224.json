@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Pullskill Technologies Inc",
+        "job_title": "Sr Data Analyst",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Systems, Data Science, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "3 months + Ext",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "ETL",
+                "Snowflake",
+                "data analysis",
+                "documentation"
+            ],
+            "primary": [
+                "communication",
+                "data mapping",
+                "technical specifications",
+                "user stories",
+                "testing strategies"
+            ],
+            "secondary": [
+                "data quality",
+                "process improvement"
+            ],
+            "all": [
+                "SQL",
+                "ETL",
+                "Snowflake",
+                "data analysis",
+                "documentation",
+                "communication",
+                "data mapping",
+                "technical specifications",
+                "user stories",
+                "testing strategies",
+                "data quality",
+                "process improvement"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Tim Patten",
+        "email": "tim@pullskill.com",
+        "jd": "Role: Data Analyst\nDuration: 3 months + Ext.\nLocation: Remote Is Fine\n\nNotes:\nWorks to understand and document the technical requirements. For this effort, much of the work will be to understand the source and target data content and required format for interoperability and collaborating with QA for executing testing. The primary skills are analysis of data sets, SQL, documentation and communication. All jobs below require ETL experience. This is a Snowflake data warehouse. Snowflake for Data Warehousing | Snowflake Workloads\n\nKey Responsibilities:\nCollaborate with stakeholders to gather and document technical requirements, ensuring a clear understanding of project objectives.\nAnalyze source and target data sets to identify content requirements, format specifications, and interoperability needs.\nCreate comprehensive documentation, including data mapping documents, technical specifications, and user stories, to guide the development and testing processes.\nWork closely with the QA team to define testing strategies and criteria, ensuring that all data content requirements are thoroughly tested and validated.\nFacilitate clear communication between technical and non-technical stakeholders, ensuring alignment on project goals and deliverables.\nAssist in identifying data quality issues and work with relevant teams to address them, ensuring high-quality data for end-users.\nContribute to process improvement initiatives by identifying gaps in documentation and data handling processes.\n\nQualifications:\nBachelor\u2019s degree in Computer Science, Information Systems, Data Science, or a related field.\nProven experience as a Business Analyst, Data Analyst, or similar role with a focus on data requirements and interoperability.\nStrong analytical skills with experience in data analysis and SQL for querying and validating data sets.\nExcellent documentation skills with keen attention to detail.\nExceptional communication skills, both verbal and written, with the ability to convey technical concepts to non-technical stakeholders.\nAbility to work collaboratively in a team environment and manage multiple tasks and priorities effectively.",
+        "source": "Email",
+        "date_posted": "2024-10-30 13:26:04-05:00",
+        "unique_id": "192decd75eb27224",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

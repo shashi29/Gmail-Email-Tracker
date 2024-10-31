@@ -1,0 +1,103 @@
+[
+    {
+        "company": "WISE EQUATION SOLUTION INC",
+        "job_title": "Senior Java and Database Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "750021",
+            "experience_required": "Seven (7) years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "PostgreSQL",
+                "Oracle",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "Microservices Architecture",
+                "Java Server Pages",
+                "JUnit",
+                "GitHub",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Node.js",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular",
+                "OAuth 2.0",
+                "JWT tokens",
+                "SAML/SSO",
+                "Bash",
+                "PowerShell",
+                "Python",
+                "MySQL",
+                "MongoDB",
+                "Cassandra"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "PostgreSQL",
+                "Oracle",
+                "RESTful APIs",
+                "Microservices Architecture",
+                "Java Server Pages",
+                "JUnit",
+                "GitHub",
+                "CI/CD",
+                "Node.js",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular",
+                "OAuth 2.0",
+                "JWT tokens",
+                "SAML/SSO",
+                "Bash",
+                "PowerShell",
+                "Python",
+                "MySQL",
+                "MongoDB",
+                "Cassandra"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Tarun Verma",
+        "email": "tarun.v@wiseq.net",
+        "jd": "From: TARUN Verma, WISE EQUATION SOLUTION INC tarun.v@wiseq.net Reply to: tarun.v@wiseq.net Role: GA DHS - Senior Java and Database Developer (750021)Client: State of GeorgiaWorksite Address: Atlanta, GA 30334- Hybrid- Local onlyInterview type: Webcam only Job Summary:The Georgia Department of Human Services (DHS), Office of Information Technology, is seeking a qualified candidate for a contractor staffing position for a Senior Java and Database Developer on Georgia\u2019s Child Welfare technical team in Atlanta, Georgia. Job Description:The suitable candidate will be a Java Developer with strong database knowledge. This role will be responsible for developing and maintaining high-quality software applications, ensuring seamless integration with various database systems.Java Responsibilities\u00b7 Develop and maintain Java-based applications using core Java and advanced Java (Java 17).\u00b7 Design and implement microservices using Spring Boot and other relevant frameworks.\u00b7 Build and consume RESTful APIs and web services.\u00b7 Integrate with databases, ensuring performance optimization (e.g., SQL databases like PostgreSQL, Oracle).\u00b7 Write unit and integration tests using JUnit, TestNG, Mockito, or other testing frameworks.\u00b7 Develop SQL queries and analyze data to support application development and production issues.\u00b7 Implement object-oriented design principles and patterns for scalable and maintainable codebases.\u00b7 Ensure adherence to clean code principles and write reusable, modular code.\u00b7 Troubleshoot and debug Java applications, ensuring optimal performance and security.\u00b7 Participate in code reviews and provide constructive feedback to peers.\u00b7 Follow Agile methodologies (Scrum) and participate in sprints, daily stand-ups.\u00b7 Use version control systems like GitHub for source code management.\u00b7 Implement and manage CI/CD pipelines using GitHub Actions.\u00b7 Collaborate with DevOps teams for cloud deployment and infrastructure management (AWS).\u00b7 Design, configure, and implement Spring Batch jobs for processing large datasets and scheduling tasks.\u00b7 Implement dynamic web pages and views using JSP (Java Server Pages).\u00b7 Design and implement authentication and authorization mechanisms using Key Cloak for identity and access management, ensuring secure communication through OAuth 2.0 and JWT tokens.\u00b7 Leverage SAML/SSO integration for single sign-on and authentication.Proficiency in Postgres, PL/SQL and Oracle database technologies.Formulating data dictionaries that are congruent with task specifications.Creating technical documents that outline the purpose, capacity, and guidelines attached to each database.Providing practical guidance on the use and migration of each database.Servicing and updating databases, as required. Experience and Technical Skills Required\u00b7 Seven (7) years of experience in Java and modern technologies.\u00b7 Previous experience using- Java (Java 17+) features such as records, sealed classes, switch expressions, pattern matching, and enhanced performance improvements- Node 16+- ServiceNow, Splunk, Dynatrace- Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Batch)- Microservices Architecture (Designing, developing, and deploying microservices)- Java Server Pages (creating dynamic web pages and integrating with back-end logic)- Database Management (PostgreSQL, Oracle and experience with ORM tools like Hibernate)- RESTful Web Services (API development, consumption, and integration)- Thorough understanding of REST, SOAP, Web services and API Communication protocols S/FTP/S, HTTP/S, File I/O etc.- Testing: JUnit, TestNG, Mockito- Version Control: GitHub- Build Tools: Maven, NPM- CI/CD: GitHub Actions- Frontend Integration: Understanding of HTML, CSS, JavaScript, and Angular 17+- Security & Identity Management: Experience with OAuth 2.0, JWT tokens, and SAML/SSO integration for authentication and authorization- KeyCloak Integration: Integrate KeyCloak with Java-based applications and services for API authentication- Scripting Languages: Proficiency in one or more scripting languages, such as Bash, or PowerShell, Python- Experience with cloud-based databases (e.g., AWS RDS).- Proficiency in SQL and experience with relational databases (e.g., MySQL, PostgreSQL, Oracle).- Knowledge of NoSQL databases (e.g., MongoDB, Cassandra) is a plus.- Familiarity with agile methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-25 08:45:27-05:00",
+        "unique_id": "192c40cf49bc855a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

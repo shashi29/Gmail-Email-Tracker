@@ -1,0 +1,91 @@
+[
+    {
+        "company": "NCDIT-Transportation Web Systems Team",
+        "job_title": "Azure Databricks Engineer",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "749799",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks notebook code",
+                "data engineering best practices",
+                "data warehouses",
+                "data lakes",
+                "Delta Lake architecture",
+                "Spark",
+                "Databricks SQL",
+                "PySpark",
+                "Azure Databricks"
+            ],
+            "primary": [
+                "cloud providers like AWS",
+                "Google Cloud",
+                "OLTP systems",
+                "OLAP systems",
+                "Apache Spark",
+                "streaming products like Azure Service Bus",
+                "Databricks Delta Live Tables"
+            ],
+            "secondary": [
+                "object-oriented languages like C#",
+                "Java",
+                "Python",
+                "excellent interpersonal skills",
+                "written and communication skills"
+            ],
+            "all": [
+                "Databricks notebook code",
+                "data engineering best practices",
+                "data warehouses",
+                "data lakes",
+                "Delta Lake architecture",
+                "Spark",
+                "Databricks SQL",
+                "PySpark",
+                "Azure Databricks",
+                "cloud providers like AWS",
+                "Google Cloud",
+                "OLTP systems",
+                "OLAP systems",
+                "Apache Spark",
+                "streaming products like Azure Service Bus",
+                "Databricks Delta Live Tables",
+                "object-oriented languages like C#",
+                "Java",
+                "Python",
+                "excellent interpersonal skills",
+                "written and communication skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Jitendra Upreity",
+        "email": "jitendra@technocraftsol.com",
+        "jd": "From: Jitendra Upreity, Technocraft solutions jitendra@technocraftsol.com Reply to: jitendra@technocraftsol.com Job Title: Azure Databricks EngineerLocation: Raleigh, NC (Hybrid)Duration: 12 Months Contract Note: *** Hybrid Schedule: ****The candidate will need to come onsite on the first day to collect equipment.****All candidates must be local to the Triangle region of North Carolina, and posting may require up to 1-2 days per month in a Triangle area office for meetings.** Responsibilities and Skills: Job ID: 749799 Location: Raleigh, NC (NCDOT)Duration: 12 Months Skills:Excellent interpersonal skills as well as written and communication skills. Required 5 YearsAble to write clean, easy-to-follow Databricks notebook code Required 2 YearsDeep knowledge of data engineering best practices, data warehouses, data lakes, and the Delta Lake architecture Required 2 YearsGood knowledge of Spark and Databricks SQL/PySpark Required 2 YearsTechnical experience with Azure Databricks and cloud providers like AWS, Google Cloud, or Azure Required 2 YearsIn-depth knowledge of OLTP and OLAP systems, Apache Spark, and streaming products like Azure Service Bus Required 2 YearsGood practical experience with Databricks Delta Live Tables Required 2 YearsKnowledge of object-oriented languages like C#, Java, or Python Desired 7 Years Description:NCDIT-Transportation Web Systems Team seeks an Azure Databricks Engineer who will work with existing staff to plan and design ETL pipelines and product solutions using Azure Databricks. NCDIT-Transportation Web Systems Team seeks an Azure Databricks Engineer who will work with existing staff to plan and design ETL pipelines and product solutions using Azure Databricks. The person filling this role will create resilient processes to ingest data from a variety of on-prem and cloud transactional databases and APIs. Responsibilities will also include developing business requirements, facilitating change management documentation, and actively collaborating with stakeholders. This individual will work closely with a development technical lead and discuss all aspects of the design and planning with the development team. Roles and Responsibilities*Research and engineer repeatable and resilient ETL workflows using Databricks notebooks and Delta Live Tables for both batch and stream processing*Collaborate with business users to develop data products that align with business domain expectations*Work with DBAs to ingest data from cloud and on-prem transactional databases*Contribute to the development of the Data Architecture for NC DIT \u2013 Transportation:**By following practices for keeping sensitive data secure**By streamlining the development of data products for use by data analysts and data scientists**By developing and maintaining documentation for data engineering processes**By ensuring data quality through testing and validation**By sharing insights and experiences with stakeholders and engineers throughout DIT \u2013 Transportation",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:26:43-05:00",
+        "unique_id": "192ba304fa1a3326",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Agile Enterprise Solutions Inc.",
+        "job_title": "Senior Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12-13 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Databricks",
+                "pyspark"
+            ],
+            "primary": [
+                "AWS",
+                "Terraform",
+                "GitLab CICD",
+                "Spark SQL",
+                "Snowflake",
+                "data warehousing"
+            ],
+            "secondary": [
+                "query tuning",
+                "performance optimization",
+                "FHIR",
+                "data analysis",
+                "data mapping"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Databricks",
+                "pyspark",
+                "AWS",
+                "Terraform",
+                "GitLab CICD",
+                "Spark SQL",
+                "Snowflake",
+                "data warehousing",
+                "query tuning",
+                "performance optimization",
+                "FHIR",
+                "data analysis",
+                "data mapping"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ibrahim Md",
+        "email": "ibrahim@aesincus.com",
+        "jd": "From: Ibrahim, Agile Enterprise Solutions Inc. ibrahim@aesincus.com Reply to: ibrahim@aesincus.com Senior Data Engineer Contract Remote Need 12+ Years ResumeOnly H1b And H4Ead ResumesNeed PP Number in order to submit resumeJob Description : We are currently seeking for a Senior Data Engineer with Minimum of 12-13 years of experienceProficient with Python and SQL\u2022 Build and manage efficient ETL pipelines using Databricks workflows or other orchestration framework\u2022 Familiarity with both structured and semi[1]structured data and ingesting and processing this data using pyspark\u2022 Fundamental AWS services (S3, SQS) or similar services for other clouds\u2022 Terraform and GitLab CICD \u2022 Query tuning and performance optimization in SQL and/or SparkSQL\u2022 Familiarity with data warehousing (snowflake or similar)\u2022 Spark SQL \u2022 AWS, Databricks, Snowflake \u2022 Experience working for a cloud-based data services provider to large healthcare clients.\u2022 FHIR experienceAdditional information: \u2022 Work with clients & implementation team and understand the data distribution requirements \u2022 Perform data analysis and data mapping required to produce client output. \u2022 Build the data distribution extracts and scripts \u2022 Optimize the performance of the data extract scriptThanks & Regards,Ibrahim Md Agile Enterprise Solutions Inc.7460 Warren Pkwy,Suite 100, Frisco, TX 75034.Email: ibrahim@aesincus.com Website: www.aesincus.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 10:50:30-05:00",
+        "unique_id": "19296277b3a2eb45",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

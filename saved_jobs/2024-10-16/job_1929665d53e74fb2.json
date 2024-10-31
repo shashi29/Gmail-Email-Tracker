@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Crea Services LLC",
+        "job_title": "SQL Database Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Data Modeling",
+                "JSON",
+                "AWS",
+                "Kafka"
+            ],
+            "primary": [
+                "Quicksight",
+                "Redshift",
+                "S3",
+                "RDS",
+                "Glue",
+                "Lambda",
+                "PowerBI",
+                "Cognos",
+                "Tableau"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Collaboration"
+            ],
+            "all": [
+                "SQL",
+                "Data Modeling",
+                "JSON",
+                "AWS",
+                "Kafka",
+                "Quicksight",
+                "Redshift",
+                "S3",
+                "RDS",
+                "Glue",
+                "Lambda",
+                "PowerBI",
+                "Cognos",
+                "Tableau",
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Nikhil Kabir",
+        "email": "nkabir@creaservices.net",
+        "jd": "From: nikhil, Creaservices nkabir@creaservices.net Reply to: nkabir@creaservices.net Hi ,I Hope you all are doing well!We have a critical role opening with our direct client.If you are interested please share your response. Position: SQL Database DeveloperLocation: New York Note-: Only Independent visa will work. Key Responsibilities:Develop and optimize complex SQL queries for data extraction and analysis.Design and implement data models to support reporting and analytics needs.Work with JSON data structures and ensure efficient storage and retrieval.Collaborate with cross-functional teams to understand data requirements and deliver solutions.Utilize AWS cloud technologies, including Quicksight, Redshift, S3, RDS, Glue, and Lambda, to build and maintain scalable data architectures.Implement Kafka streaming for real-time data processing and integration.Create and maintain dashboards and reports using tools like PowerBI, Cognos, or Tableau.Monitor and troubleshoot data pipelines and reporting tools to ensure data accuracy and availability.Stay updated with industry trends and best practices in data engineering and analytics.Required Skills and Qualifications:Strong SQL development skills with a proven track record in complex query writing.Expertise in data modeling, including dimensional and relational modeling techniques.Experience with JSON data structures and manipulation.Familiarity with cloud technologies (AWS), particularly Quicksight, Redshift, S3, RDS, Glue, and Lambda (nice to have).Knowledge of reporting tools such as PowerBI, Cognos, or Tableau (nice to have).Excellent problem-solving and analytical skills.Strong communication and collaboration abilities.Preferred Qualifications:Bachelor's degree in Computer Science, Information Technology, or a related field.Experience in a data engineering role or similar capacity.Understanding of data governance and data quality frameworks.",
+        "source": "Email",
+        "date_posted": "2024-10-16 11:59:36-05:00",
+        "unique_id": "1929665d53e74fb2",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

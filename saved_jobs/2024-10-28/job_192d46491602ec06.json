@@ -1,0 +1,56 @@
+[
+    {
+        "company": "Northite",
+        "job_title": "SQL Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL"
+            ],
+            "primary": [
+                "Database Management",
+                "Report Development",
+                "Communication"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "Database Management",
+                "Report Development",
+                "Communication"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Asha",
+        "email": "asha@northite.com",
+        "jd": "Looking for a SQL DeveloperWe are seeking Mexican candidates who are available to work remotelyLocations: 100% REMOTE(Mexico)Duration: Long TermNote : Someone who can write complex SQL queries and has very good communicationDescription:We are seeking a highly skilled SQL Developer with a strong ability to write complex SQL queries and an exceptional aptitude for clear communication. The ideal candidate will have a strong background in database management, report development, and the ability to work cross-functionally with various teams to understand data needs and deliver actionable insights",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:55:13-05:00",
+        "unique_id": "192d46491602ec06",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

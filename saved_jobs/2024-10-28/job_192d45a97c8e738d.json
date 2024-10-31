@@ -1,0 +1,85 @@
+[
+    {
+        "company": "CodersAmerica",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaScript",
+                "React",
+                "Graph API",
+                "RESTful",
+                "SOAP",
+                "GraphQL",
+                "Kafka",
+                "Spring Boot"
+            ],
+            "primary": [
+                "AWS Cloud",
+                "EC2",
+                "EBS",
+                "CloudWatch",
+                "AWS Config",
+                "Auto-scaling",
+                "AWS S3"
+            ],
+            "secondary": [
+                "Good communication",
+                "Interpersonal skills"
+            ],
+            "all": [
+                "Java",
+                "JavaScript",
+                "React",
+                "Graph API",
+                "RESTful",
+                "SOAP",
+                "GraphQL",
+                "Kafka",
+                "Spring Boot",
+                "AWS Cloud",
+                "EC2",
+                "EBS",
+                "CloudWatch",
+                "AWS Config",
+                "Auto-scaling",
+                "AWS S3",
+                "Good communication",
+                "Interpersonal skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Krish Kumar",
+        "email": "krish@codersamerica.com",
+        "jd": "From: Krish, CodersAmerica krish@codersamerica.com Reply to: krish@codersamerica.com Hi,Hope you are doing great!!please send me an updated copy of your resume and below details.Position:Java DeveloperLocation:RemoteDuration:Long termJob Description:Healthcare Domain4+ years of exp. Java Script, React, Graph API\u2019s, Restful, SOAP, GraphQL, Kafka, SpringbootExperience in AWS Cloud platform and its features which includes EC2, EBS Cloud watch, AWS Config, Auto-scaling, and AWS S3* Good communication and interpersonal skills.If you are interested in this job position mentioned please respond with your resume in MS word format with these details.Full Name:Current Location:Contact No (Cell Number):Email ID:Skype id:Linkedin id:Visa Status:Availability:Currently on Project (Y/N):Open to relocate:Last 4 digits of SSN:Passport No:Total Exp:US Exp:Rate:Last 2 References:Reference Name:Reference Email id:Designation:Contact No:Reference Email id:Designation:Contact No:Thanks & Regards,KrishKumar,Senior IT RecruiterCodersAmericaKrish@CodersAmerica.com",
+        "source": "Email",
+        "date_posted": "2024-10-28 09:25:35-05:00",
+        "unique_id": "192d45a97c8e738d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

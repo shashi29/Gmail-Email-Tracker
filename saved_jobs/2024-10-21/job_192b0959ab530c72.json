@@ -1,0 +1,102 @@
+[
+    {
+        "company": "STM Consulting, Inc.",
+        "job_title": "Programmer 5/PR5",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "8 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "SQL Server",
+                "ASP.NET Core",
+                "Entity Framework"
+            ],
+            "primary": [
+                "Java",
+                "RESTful APIs",
+                "WCF",
+                "TFS",
+                "AJAX",
+                "SSRS",
+                "Test Driven Development",
+                "Visual Studio"
+            ],
+            "secondary": [
+                "N-tier environments",
+                "Secure coding practices",
+                "ETL development",
+                "CI/CD pipelines",
+                "Design mock-ups",
+                "Wireframes"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "SQL Server",
+                "ASP.NET Core",
+                "Entity Framework",
+                "Java",
+                "RESTful APIs",
+                "WCF",
+                "TFS",
+                "AJAX",
+                "SSRS",
+                "Test Driven Development",
+                "Visual Studio",
+                "N-tier environments",
+                "Secure coding practices",
+                "ETL development",
+                "CI/CD pipelines",
+                "Design mock-ups",
+                "Wireframes"
+            ],
+            "with_experience": [
+                ".NET",
+                "C#",
+                "SQL Server",
+                "ASP.NET Core",
+                "Entity Framework",
+                "Java",
+                "RESTful APIs",
+                "WCF",
+                "TFS",
+                "AJAX",
+                "SSRS",
+                "Test Driven Development",
+                "Visual Studio"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abhay",
+        "email": "abhay.yadav@consultstm.com",
+        "jd": "From: Abhay, STM Consulting, Inc. abhay.yadav@consultstm.com Reply to: abhay.yadav@consultstm.com Position: Programmer 5/PR5 Core Location: Columbus OH 43223 - In-person interviews Only.Duration: 8 Months Skill Matrix: (Minimum 12 Years' Experience - Mandatory)Verifiable experience as a .NET Web Developer developing ASP.NET CoreMVC applicationsVerifiable ASP.NET experience developing with the C\u2013Sharp (C#) languageVerifiable experience with the Java languageVerifiable experience with Microsoft C# .NET Core or .NET 8.Verifiable experience with SQL Server Database Design and development including optimization of queries, creating tables, views, and stored proceduresApplication experience developing applications using Entity Framework (EF) 4.0 or later.Experience creating design mock-ups and wireframes into front-end codeExperience with consuming RESTful APIsVerifiable Service Oriented Architecture (SOA) experience developing and securing Windows Communication Foundation (WCF)Experience or a demonstrable understanding of N-tier environments as it relates to development and deploymentExperience or a demonstrable understanding of code repository strategies, code promotion strategies and recovery using Team Foundation Server (TFS).Verifiable experience implementing Asynchronous JavaScript and XML (AJAX) enabled controls within Active Server Pages (ASP).NET Web applicationsVerifiable experience developing reports in SQL Server Reporting Services (SSRS) and making them accessible within an MVC web application.A demonstrable understanding of implementing secure coding practices for an ASP.NET MVC applicationExperience in Test Driven Development (TDD) or a verifiable experience implementing a testing strategy for applications developedExperience developing with Visual Studio; 2 year with Visual Studio 2019Experience with TFS/Azure DevOps including git, boards and CI/CD pipelinesExperience ETL development experience",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:36:03-05:00",
+        "unique_id": "192b0959ab530c72",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

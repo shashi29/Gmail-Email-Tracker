@@ -1,0 +1,73 @@
+[
+    {
+        "company": "siri InfoSolutions",
+        "job_title": "JBPM Java Architect",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract \u2013 2 Years",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JBPM",
+                "Node JS",
+                "Angular",
+                "CI-CD",
+                "AWS"
+            ],
+            "primary": [
+                "Data Integration",
+                "Multithreading"
+            ],
+            "secondary": [
+                "Business Communication"
+            ],
+            "all": [
+                "Java",
+                "JBPM",
+                "Node JS",
+                "Angular",
+                "CI-CD",
+                "AWS",
+                "Data Integration",
+                "Multithreading",
+                "Entity Framework",
+                "log4j/log4net",
+                "Spring",
+                "Hibernate",
+                "IBatis",
+                "distributed caching software",
+                "AMQ"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ganesh Kathila",
+        "email": "ganesh.k@siriinfo.com",
+        "jd": "From: Ganesh Kathila, siri InfoSolutions ganesh.k@siriinfo.com Reply to: ganesh.k@siriinfo.com Title: JBPM Java ArchitectLocation: Houston, TX - Day 1 OnsiteDuration: Long term contract \u2013 2 Years + Must Have: Java, JBPM, Node JS, Angular, CI-CD, AWS, Data Integration, MultithreadingDescription:Day 1 Onsite in Houston Client Office. 3 Days in a week mandatory in office: Tue, Wed, & Thurs.Client is looking for someone who can architect and develop solutions of his own and lead the work independently.At least 12+ years Expertise in handling component deployment and maintenance of Node JS and Angular/Angular JS application.Strong knowledge of Java technologies and experience of handling process manager tool like JBPM / Red Hat PAM .Strong experience in CI-CD using Jenkins, Ansible and Artifactory and AWS deployments.Strong hands-on development experience using Java frameworks and/or a variety of open-source frameworks, including Entity Framework, log4j/log4net, Spring, Hibernate, IBatis, distributed caching software (both open source and commercial)Expertise with data streaming technologies like AMQ etc. for batch mode data processing.Good knowledge on Data Integration using message-oriented architectureExperience with multithreading and thread safetyGood in Business Communication",
+        "source": "Email",
+        "date_posted": "2024-10-10 08:08:45-05:00",
+        "unique_id": "19276adee3313a59",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

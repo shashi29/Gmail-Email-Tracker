@@ -1,0 +1,51 @@
+[
+    {
+        "company": "American Airlines",
+        "job_title": "Full Stack Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Angular",
+                "JavaScript"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Angular",
+                "JavaScript"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Amit Sharma",
+        "email": "amit.s@tekinspirations.com",
+        "jd": "From: Amit Sharma, Tekinspirations LLC amit.s@tekinspirations.com Reply to: amit.s@tekinspirations.com Full Stack DeveloperNeed local to Phoenix, AZ(The candidate need to be with very good communication, as they want someone who proves to be a cultural fit )I need someone for a role at American Airlines in Phoenix AZ. They must have expertise in Java Angular JavaScriptThree plus years in each.",
+        "source": "Email",
+        "date_posted": "2024-10-29 11:15:28-05:00",
+        "unique_id": "192d92f8f2b8886e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "company": "Resource Logistics",
+        "job_title": "Java Backend Developer L7",
+        "location": "St. Louise, MO, USA",
+        "full_location": {
+            "city": "St. Louise",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shayista Sultan",
+        "email": "shayista@resource-logistics.com",
+        "jd": "From: shayista sultan, resource logistics shayista@resource-logistics.com Reply to: shayista@resource-logistics.com Role Title: Java Backend Developer L7 {LinkedIN Id is mandatory}Hiring Mode: Contract (TP)Location: St. Louise, MO Mandatory:CodingSpringboottMicroservices Job description:Java backend Consultant(1.) To be responsible for providing technical guidance or solutions ;define, advocate, and implement best practices and coding standards for the team.(2.) To develop and guide the team members in enhancing their technical capabilities and increasing productivity(3.) To ensure process compliance in the assigned module, and participate in technical discussionsorreview as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations).(4.) To prepare and submit status reports for minimizing exposure and risks on the project or closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-10 11:35:22-05:00",
+        "unique_id": "19277c0df93a3b14",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

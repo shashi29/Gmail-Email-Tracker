@@ -1,0 +1,98 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "SQL Database Administrator",
+        "location": "San Jose, CA, USA",
+        "full_location": {
+            "city": "San Jose",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle database concepts",
+                "SQL Tuning",
+                "Performance tuning",
+                "Database administration",
+                "Analytical skills"
+            ],
+            "primary": [
+                "Understanding of Software design patterns",
+                "SDLC",
+                "Continuous Integration",
+                "Continuous Delivery",
+                "Oracle Cluster Ready services (CRS)",
+                "Data Guard",
+                "RMAN backup/recovery methods",
+                "Maintenance of ASM",
+                "Oracle RAC administration",
+                "AWR report analysis",
+                "TKPROF analysis",
+                "Troubleshooting long running transactions"
+            ],
+            "secondary": [
+                "Agile development environment",
+                "Problem-solving skills",
+                "Expertise in Plan change Analysis",
+                "SQL query optimization",
+                "Instance tuning",
+                "Gathering statistics",
+                "Running scripts",
+                "Bug fixing"
+            ],
+            "all": [
+                "Oracle database concepts",
+                "SQL Tuning",
+                "Performance tuning",
+                "Database administration",
+                "Analytical skills",
+                "Understanding of Software design patterns",
+                "SDLC",
+                "Continuous Integration",
+                "Continuous Delivery",
+                "Oracle Cluster Ready services (CRS)",
+                "Data Guard",
+                "RMAN backup/recovery methods",
+                "Maintenance of ASM",
+                "Oracle RAC administration",
+                "AWR report analysis",
+                "TKPROF analysis",
+                "Troubleshooting long running transactions",
+                "Agile development environment",
+                "Problem-solving skills",
+                "Expertise in Plan change Analysis",
+                "SQL query optimization",
+                "Instance tuning",
+                "Gathering statistics",
+                "Running scripts",
+                "Bug fixing"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nishtha",
+        "email": "nishtha.t@siriinfo.com",
+        "jd": "From: Nishtha, siriinfo nishtha.t@siriinfo.com Reply to: nishtha.t@siriinfo.com Position: SQL Database Administrator Location: San Jose, CA Type: Contract Minimum 8+ years\u2019 Experience in the Software Industry Understanding of Software design patterns, SDLC, Continuous Integration and Continuous Delivery A drive to get things done in a highly collaborative and agile development environment. Strong analytical and problem-solving skills Oracle database concepts and Architecture Knowledge on Oracle Cluster Ready services (CRS), Data Guard, RMAN backup/recovery methods and maintenance of ASM Oracle RAC administration and performance analysis Overall system performance tuning SQL Tuning, Wait Events, Histogram, Join Methods (Nested Loop, Hash Join, Merge join cartesian) Index scan Methods (Range Index scan, Fast full index scan, Skip scan index methods) AWR report, TKPROF analysis and interpretation Troubleshooting Long running transactions and ERP concurrent requests Experience in performance tuning of database, instances, SGA, I/O, and rollback segment. Experience in SQL Tuning, Wait Events, Histogram, Join Methods (Nested Loop, Hash Join, Merge join cartesian), Index scan Methods (Range Index scan, Fast full index scan, Skip scan index methods), oracle wait events ( DB file sequential read , db file scattered read , GC wait events), Top SQLs Analysis at database level ( CPU/Memory/load) Expertise in Plan change Analysis of the SQLs while upgradation of databases. SQL query optimization and instance tuning using TKPROF, SQL Trace, Explain Plan, AWR and ADDM reports, gathering statistics, pinning the objects, running scripts, troubleshooting, bug fixing. Able to work with oracle support to create SR and troubleshooting and fix the issues.",
+        "source": "Email",
+        "date_posted": "2024-10-15 19:13:28-05:00",
+        "unique_id": "19292e4770a36205",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "company": "Techgene Solutions, LLC",
+        "job_title": "Senior Java and Database Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Microservices Architecture",
+                "Database Management",
+                "RESTful Web Services"
+            ],
+            "primary": [
+                "Java 17+",
+                "Node 16+",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "Java Server Pages",
+                "CI/CD",
+                "GitHub Actions",
+                "Key Cloak",
+                "SQL"
+            ],
+            "secondary": [
+                "Bash",
+                "PowerShell",
+                "Python",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular 17+",
+                "OAuth 2.0",
+                "JWT tokens",
+                "SAML/SSO",
+                "Maven",
+                "NPM",
+                "NoSQL databases",
+                "Agile methodologies"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Microservices Architecture",
+                "Database Management",
+                "RESTful Web Services",
+                "Java 17+",
+                "Node 16+",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "Java Server Pages",
+                "CI/CD",
+                "GitHub Actions",
+                "Key Cloak",
+                "SQL",
+                "Bash",
+                "PowerShell",
+                "Python",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular 17+",
+                "OAuth 2.0",
+                "JWT tokens",
+                "SAML/SSO",
+                "Maven",
+                "NPM",
+                "NoSQL databases",
+                "Agile methodologies"
+            ],
+            "with_experience": [
+                "Java (7 years)",
+                "Spring Framework",
+                "Microservices Architecture",
+                "Database Management",
+                "RESTful Web Services"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Gyan Prakash Rai",
+        "email": "gyanprakash.r@techgene.com",
+        "jd": "Hello Vendors, I hope this email finds you well. We are currently seeking a Senior Java and Database Developer for an exciting opportunity in Atlanta, GA. Please review the job details below and let us know if you are interested. Job Title: Senior Java and Database Developer Location: 47 Trinity Ave SW, Atlanta, GA 30334 Looking candidate local to GA only Skills- 7 years of experience in Java and modern technologies. 3 years of experience with Java 17+ features (records, sealed classes, switch expressions, pattern matching, and performance improvements). 3 years of experience with Node 16+. 3 years of experience with ServiceNow, Splunk, and Dynatrace. 3 years of experience with Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Batch). 3 years of experience in Microservices Architecture (designing, developing, and deploying microservices). 3 years of experience with Java Server Pages (creating dynamic web pages and back-end integration). 3 years of experience in Database Management (PostgreSQL, Oracle, and ORM tools like Hibernate). 3 years of experience in RESTful Web Services (API development, consumption, and integration). 3 years of experience with CI/CD tools like GitHub Actions. 3 years of experience integrating Key Cloak with Java applications for API authentication. 3 years of proficiency in scripting languages like Bash, PowerShell, or Python. 3 years of proficiency in SQL and experience with relational databases (e.g., MySQL, PostgreSQL, Oracle). The suitable candidate will be a Java Developer with strong database knowledge. This role will be responsible for developing and maintaining high-quality software applications, ensuring seamless integration with various database systems. Java Responsibilities: Develop and maintain Java-based applications using core Java and advanced Java (Java 17). Design and implement microservices using Spring Boot and other relevant frameworks. Build and consume RESTful APIs and web services. Integrate with databases, ensuring performance optimization (e.g., SQL databases like PostgreSQL, Oracle). Write unit and integration tests using JUnit, TestNG, Mockito, or other testing frameworks. Develop SQL queries and analyze data to support application development and production issues. Implement object-oriented design principles and patterns for scalable and maintainable codebases. Ensure adherence to clean code principles and write reusable, modular code. Troubleshoot and debug Java applications, ensuring optimal performance and security. Participate in code reviews and provide constructive feedback to peers. Follow Agile methodologies (Scrum) and participate in sprints, daily stand-ups. Use version control systems like GitHub for source code management. Implement and manage CI/CD pipelines using GitHub Actions. Collaborate with DevOps teams for cloud deployment and infrastructure management (AWS). Design, configure, and implement Spring Batch jobs for processing large datasets and scheduling tasks. Implement dynamic web pages and views using JSP (Java Server Pages). Design and implement authentication and authorization mechanisms using Key Cloak for identity and access management, ensuring secure communication through OAuth 2.0 and JWT tokens. Leverage SAML/SSO integration for single sign-on and authentication. Proficiency in Postgres, PL/SQL and Oracle database technologies. Formulating data dictionaries that are congruent with task specifications. Creating technical documents that outline the purpose, capacity, and guidelines attached to each database. Providing practical guidance on the use and migration of each database. Servicing and updating databases, as required. Database Responsibilities: Development: Design and implement PL/SQL functions, procedures, and packages to meet business requirements. Triggers: Create and manage database triggers for automation of tasks and enforcement of business rules. Performance Tuning: Optimize SQL queries and PL/SQL code for performance and scalability. Database Design: Collaborate with the data modeling team to create efficient database designs. Testing: Conduct unit and integration testing of PL/SQL code to ensure reliability and accuracy. Documentation: Maintain documentation for developed code, processes, and database schemas. Collaboration: Work closely with application developers, business analysts, and other stakeholders to gather requirements and provide technical support. Troubleshooting: Diagnose and resolve database issues, including performance bottlenecks and data integrity problems.",
+        "source": "Email",
+        "date_posted": "2024-10-24 11:58:38-05:00",
+        "unique_id": "192bf978c0cc08b0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

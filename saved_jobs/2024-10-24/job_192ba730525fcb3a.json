@@ -1,0 +1,130 @@
+[
+    {
+        "company": "Core Alliance Group Inc",
+        "job_title": "AWS Cloud Architect",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Cloud Services",
+                "ECS",
+                "EKS",
+                "EC2",
+                "MongoDB",
+                "Aurora",
+                "Terraform"
+            ],
+            "primary": [
+                "Service Mesh",
+                "Debugging on AWS services",
+                "Blue Green Deployment",
+                "AWS Solution Architect certification",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Java",
+                "Python",
+                "Go",
+                "Spring Boot",
+                "Restful Microservices",
+                "Ansible",
+                "Artifactory",
+                "Docker",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "Infrastructure-as-Code",
+                "Environment-as-Code",
+                "CloudFormation",
+                "High volume applications",
+                "Event-driven architectures",
+                "IaC",
+                "EaC",
+                "CI/CD",
+                "Shell scripts",
+                "Gradle",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "all": [
+                "AWS",
+                "Cloud Services",
+                "ECS",
+                "EKS",
+                "EC2",
+                "MongoDB",
+                "Aurora",
+                "Terraform",
+                "Service Mesh",
+                "Debugging on AWS services",
+                "Blue Green Deployment",
+                "AWS Solution Architect certification",
+                "Kubernetes",
+                "Java",
+                "Python",
+                "Go",
+                "Spring Boot",
+                "Restful Microservices",
+                "Ansible",
+                "Artifactory",
+                "Docker",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "Infrastructure-as-Code",
+                "Environment-as-Code",
+                "CloudFormation",
+                "High volume applications",
+                "Event-driven architectures",
+                "IaC",
+                "EaC",
+                "CI/CD",
+                "Shell scripts",
+                "Gradle",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abhijeet Karika",
+        "email": "abhijeet.k@cagus.com",
+        "jd": "From: Abhijeet, CAGUS abhijeet.k@cagus.com Reply to: abhijeet.k@cagus.com Position: AWS Cloud Architect (Only 12+ Years of exp)Location: Plano, TX (Day 1 Onsite)Duration: ContractMandatory Skills:We are looking for Sr Principle(AWS) Engineer with strong Cloud Services knowledge such as ECS EKS and EC2 and Data MongoDB, Aurora who knows service mesh how to design and implement Gateways and debugging on AWS services Hands on AWS services debugging, terraforms.Should be able create and manage AWS environment across services both internal and externalAble to design in most of AWS cloud ServicesExperience in Blue Green Deployment to run current and new application version in identical environments.Better to have certification in AWS Solution architect, Kubernetes, TerraformGood to have prior work experience in JPMC OR AWSExperience in Terraform Enterprise(TFE).Detailed Job Description:\u2022Formal training or certification on software engineering concepts and 13+ years applied experience\u2022Hands-on practical experience delivering system design, application development, testing, and operational stability\u2022Advanced in one or more programming language(s) - Java, Python, Go\u2022A strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practices\u2022Design and building web environments on AWS, which includes working with services like EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53\u2022Advanced in modern technologies such as: Java version 8+, Spring Boot, Restful Microservices, AWS or Cloud Foundry, Kubernetes.\u2022Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar Qube\u2022Experience and knowledge of writing Infrastructure-as-Code (IaC) and Environment-as-Code (EaC), using tools like CloudFormation or Terraform\u2022Experience with high volume, SLA critical applications, and building upon messaging and or event-driven architectures\u2022Deep understanding of financial industry and their IT systemsNice to Have:\u2022IaC, EaC & CI/CD, Shell scripts, Gradle, Maven, Jenkins, Spinnaker\u2022Splunk, Datadog, Dynatrace. CloudWatch or Grafana",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:00:39-05:00",
+        "unique_id": "192ba730525fcb3a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

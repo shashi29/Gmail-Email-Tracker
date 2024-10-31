@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Softcom Systems",
+        "job_title": ".NET Senior Developer Lead",
+        "location": "Newark, NJ, USA",
+        "full_location": {
+            "city": "Newark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "BS degree in Computer Science, a related technical field, or equivalent practical experience required",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months+ (could go longer)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "SQL Server",
+                "API"
+            ],
+            "primary": [
+                "Object-oriented programming",
+                "PL/SQL",
+                "Stored procedures",
+                "Microsoft Fabric",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Test Driven Development",
+                "Entity Framework",
+                "MVC",
+                "TFS",
+                "Bit bucket",
+                "Autosys",
+                "JIRA",
+                "CICD",
+                "API management software"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "SQL Server",
+                "API",
+                "Object-oriented programming",
+                "PL/SQL",
+                "Stored procedures",
+                "Microsoft Fabric",
+                "Agile methodologies",
+                "Test Driven Development",
+                "Entity Framework",
+                "MVC",
+                "TFS",
+                "Bit bucket",
+                "Autosys",
+                "JIRA",
+                "CICD",
+                "API management software"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Vinod",
+        "email": "vinod@softcomsystems.com",
+        "jd": "From: Vinod, Softcom Systems vinod@softcomsystems.com Reply to: vinod@softcomsystems.com .NET Senior Developer/Lead Newark, NJ Hybrid (3 days onsite) 6 months+ (could go longer) Exp 12+ years required Interview Process: Initial Phone/Video interviews followed by an in person interview. SO LOCAL CANDIDATES ONLY. JD: NET and C# - API/SQL Server DB - Senior Developer Qualifications BS degree in Computer Science, a related technical field, or equivalent practical experience required 12+ years of current experience in Software Development Experience with one or more object-oriented programming language, e.g. C#, .NET Core, SQL, etc. Knowledge of database systems including Oracle, SQL Server & also ETL. Strong PL\\SQL or stored procedure experience Strong analytical skills, including a thorough understanding of how to interpret business needs and translate them into application requirements Excellent verbal and written communication skills to effectively and confidently communicate with users, team members, and management Ability to develop effective internal/external working relationships with both business units and vendors Familiarity with Microsoft Fabric Experience with the following would be a plus: Microsoft Fabric experience is plus Application Lifecycle Management techniques and concepts Experience with investments or securities Ability to work with Agile methodologies in a fast paced environment Experience with one or more object-oriented programming language C# Test Driven Development, Entity Framework, MVC TFS/Bit bucket source control tool Autosys job management experience JIRA experience for Agile Projects Continuous Integration Continuous Delivery (CICD) tools such as Jenkins and automated processes API management software like Apigee or equivalent",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:43:20-05:00",
+        "unique_id": "192b1292e5a58edc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

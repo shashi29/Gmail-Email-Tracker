@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Teamware solutions",
+        "job_title": "Dot Net Fullstack Developer",
+        "location": "Auburn Hills, MI, USA",
+        "full_location": {
+            "city": "Auburn Hills",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Camstar MES",
+                ".NET",
+                "C#",
+                "SQL Server"
+            ],
+            "primary": [
+                "ASP.Net",
+                "VB.NET",
+                "AngularJS",
+                "Postgre SQL",
+                "Redis",
+                "Python",
+                "MES",
+                "SSRS"
+            ],
+            "secondary": [
+                "Java",
+                "WCF services",
+                "Portal UI customizations",
+                "Database Understanding",
+                "ERP integration",
+                "LIMS",
+                "HMI"
+            ],
+            "all": [
+                "Java",
+                ".NET",
+                "C#",
+                "AngularJS",
+                "Postgre SQL",
+                "SQL Server",
+                "Redis",
+                "Python",
+                "MES",
+                "SSRS",
+                "Camstar MES",
+                "WCF services",
+                "Portal UI customizations",
+                "Database Understanding",
+                "ERP integration",
+                "LIMS",
+                "HMI"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arun Prasad",
+        "email": "arunprasad.g@twsol.com",
+        "jd": "From: Arun Prasad, Teamware solutions arunprasad.g@twsol.com Reply to: arunprasad.g@twsol.com Location: Auburn Hills, MIClinton, MAMemphis, TNDuration: 12+ MonthsType: ContractMode: Onsite JOB DESCRIPTION: \u00b7Relevant Experience Required: 8+ Years\u00b7Complete life cycle implementation of Manufacturing\u00b7Execution Systems (MES) on Siemens Opcenter.\u00b7Technical experience in Camstar MES, Object model extensions (Designer), Portal UI customizations, Database Understanding.\u00b7Strong experience with Camstar WCF services and Camstar Portal\u00b7Strong Experience in Other System (ERP) integration with Opcenter MIO\u00b7Knowledge of interfaces with the Camstar MES application and external applications like ERP, LIMS, Equipment, HMI etc.\u00b7Knowledge / Experience on other MES applications will be an added advantage.\u00b7Strong software development experience using Camstar, Microsoft .Net, ASP.Net, C# VB.NET, SQL Server\u00b7Strong Camstar XML/JSON interface experience.\u00b7Additional Domain experience in Metal Domain or Medical Devices and Pharma Manufacturing will be advantage\u00b7Ability to communicate clearly and accurately both orally and in writing.",
+        "source": "Email",
+        "date_posted": "2024-10-10 15:25:57-05:00",
+        "unique_id": "192783cd67bc09dd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

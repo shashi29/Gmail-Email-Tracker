@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "GCP Architect and Solution Designer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP Architect",
+                "ML algorithms",
+                "Vertex ASI",
+                "Big Query",
+                "Data Proc",
+                "Composer",
+                "STS",
+                "DataPlex"
+            ],
+            "primary": [
+                "containerization",
+                "orchestration tools",
+                "GKE",
+                "OpenShift Container Platform",
+                "Docker",
+                "Kubernetes",
+                "DevOps practices",
+                "CI/CD pipelines",
+                "automation tools"
+            ],
+            "secondary": [
+                "problem-solving skills",
+                "effective communication skills"
+            ],
+            "all": [
+                "GCP Architect",
+                "ML algorithms",
+                "Vertex ASI",
+                "Big Query",
+                "Data Proc",
+                "Composer",
+                "STS",
+                "DataPlex",
+                "containerization",
+                "orchestration tools",
+                "GKE",
+                "OpenShift Container Platform",
+                "Docker",
+                "Kubernetes",
+                "DevOps practices",
+                "CI/CD pipelines",
+                "automation tools",
+                "problem-solving skills",
+                "effective communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Venkatesh",
+        "email": "venkatesh@smartitframe.com",
+        "jd": "Hi All,Warm greetings from Smart IT Frame! We are currently seeking candidates for an exciting job opportunity within our organization. If you're interested in learning more about this role, please don't hesitate to get in touch. You can either share your updated resume. Role: GCP Architect and Solution DesignerLocation: Dallas, TX |Charlotte, NC \u2013 OnsiteType: Contract Responsibilities: \u00b7 Design and architect scalable cloud platforms to develop, deploy scalable integration and PetaByte scale data migration, and AI solutions leveraging ML techniques.\u00b7 Drive Joint Architecture Design to collaborating with business stakeholders, data scientists, engineering teams, product, and other key partners to gather functional, non-functional requirements for solving AI use case on the AI Platform\u00b7 Design foundational solutions to enable multiple batch and real time integration patterns between On Premise and Cloud\u00b7 Evaluate emerging technologies and tools in the AI area and do fitment analysis to the Enterprise AI Platform and capabilities strategy.\u00b7 Define and implement GCP architecture best practices, frameworks, and standards.\u00b7 Lead GCP infrastructure setup, including cloud services selection, data pipelines, and model deployment.\u00b7 Ensure robustness, reliability, and scalability of solutions in production environments.\u00b7 Design and implement data governance, security, and compliance measures for data and non-data objects.\u00b7 Optimize ML workflows for performance, cost efficiency, and resource utilization.\u00b7 Provide technical leadership and mentorship to development teams.\u00b7 Communicate architecture decisions and solution design to stakeholders and executives. Requirements: \u00b7 Proven experience as GCP Architect\u00b7 Deep understanding of ML algorithms, Vertex ASI, Big Query, Data Proc, Composer, STS, DataPlex\u00b7 Strong knowledge of development life cycle, software engineering principles, data engineering principles\u00b7 Experience with containerization and orchestration tools on prem and cloud (e.g GKE, OpenShift Container Platform, Docker, Kubernetes) for deploying AI/ML models.\u00b7 Ability to design and optimize distributed computing systems for AI/ML workloads.\u00b7 Familiarity with DevOps practices, CI/CD pipelines, and automation tools in AI-ML contexts.\u00b7 Excellent problem-solving skills and ability to address complex technical challenges.\u00b7 Effective communication skills to collaborate with cross-functional teams and stakeholders.",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:27:15-05:00",
+        "unique_id": "192c4a13a3ec7469",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

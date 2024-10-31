@@ -1,0 +1,54 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "API Development"
+            ],
+            "primary": [
+                "Vertex",
+                "Vert.x"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "API Development",
+                "Vertex",
+                "Vert.x"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dilip Kumar",
+        "email": "dilip.k@centraprise.com",
+        "jd": "From: Dilip Kumar, Centraprise dilip.k@centraprise.com Reply to: dilip.k@centraprise.com Java API Developer with Vertex / Vert.x \u2013 Phoexnix, AZ \u2013 Day 1 Onsite",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:20:03-05:00",
+        "unique_id": "192b03825892cfdb",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

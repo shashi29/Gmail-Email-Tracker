@@ -1,0 +1,118 @@
+[
+    {
+        "company": "IndusAilabs",
+        "job_title": "Sr. Data Engineer",
+        "location": "Arizona, USA",
+        "full_location": {
+            "city": "Arizona",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "8 to 10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Datafactory",
+                "Azure Databricks",
+                "Azure Datalake storage",
+                "Python",
+                "Java",
+                "Scala",
+                "Hadoop"
+            ],
+            "primary": [
+                "Azure Data Factory",
+                "Azure Synapse Analytics",
+                "Azure Data Lake Storage",
+                "Microsoft Fabric",
+                "SQL"
+            ],
+            "secondary": [
+                "Azure data engineer certification",
+                "DP-203",
+                "Microsoft Fabric Certification",
+                "DP - 600",
+                "Data Storage",
+                "Data structures",
+                "Data Processing",
+                "Data Security",
+                "Lakehouse architecture",
+                "SAP ecosystem",
+                "ECC",
+                "BW",
+                "Apache Hadoop",
+                "Apache Spark",
+                "Amazon Web Services",
+                "Redshift",
+                "HDFS",
+                "Amazon S3",
+                "NoSQL",
+                "ETL Tools",
+                "Machine learning",
+                "Agile principles",
+                "Scrum",
+                "Kanban"
+            ],
+            "all": [
+                "Azure Datafactory",
+                "Azure Databricks",
+                "Azure Datalake storage",
+                "Python",
+                "Java",
+                "Scala",
+                "Hadoop",
+                "Azure Data Factory",
+                "Azure Synapse Analytics",
+                "Azure Data Lake Storage",
+                "Microsoft Fabric",
+                "SQL",
+                "Azure data engineer certification",
+                "DP-203",
+                "Microsoft Fabric Certification",
+                "DP - 600",
+                "Data Storage",
+                "Data structures",
+                "Data Processing",
+                "Data Security",
+                "Lakehouse architecture",
+                "SAP ecosystem",
+                "ECC",
+                "BW",
+                "Apache Hadoop",
+                "Apache Spark",
+                "Amazon Web Services",
+                "Redshift",
+                "HDFS",
+                "Amazon S3",
+                "NoSQL",
+                "ETL Tools",
+                "Machine learning",
+                "Agile principles",
+                "Scrum",
+                "Kanban"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mercy Ramya",
+        "email": "mercy@indusailabs.com",
+        "jd": "Hello Everyone!Position : Sr. Data EngineerLocation : Arizona (Remote)Duration : 6+ monthsVisa : No OPT & CPTExperience: 8 to 10 years * Primary Skills: Azure Datafactory,Azure Databricks,Azure Datalake storageNote : Good to have Azure data engineer certification || DP-203Good to have Microsoft Fabric Certification || DP - 600Job Description:Knowledge required on Data Storage, Data structures, Data Processing, Data Security.Strong in programming languages like Python, Java, or Scala, Hadoop (Mandatory).Knowledge required and Hands on implementation || Lakehouse architecture.Must have knowledge and Hands on implementation || Lakehouse on Microsoft fabric.Design, develop, and implement end-to-end data pipelines using Azure Data Factory for efficient data extraction, transformation, and loading (ETL).Knowledge required and must have work on experience with SAP ecosystem, ECC, BW.Develop and maintain azure data pipelines with SAP as data source and data lake as target location for the pipeline.Ensure data pipelines are scalable, reliable, and meet business requirements.Leverage Azure Databricks for big data processing and analytics, optimizing performance and efficiency.Collaborate with data scientists and analysts to implement and enhance data processing workflows on the Azure Databricks platform.Strong understanding of parallel processing and data architecture patterns, proficient in using the following to create data processing solutions:Azure Data FactoryAzure Synapse AnalyticsAzure Data Lake StorageAzure DatabricksMicrosoft FabricDevelop and maintain databases on Azure SQL Database, ensuring optimal performance and data integrity.?Write complex SQL queries and optimize database performance for various data retrieval needs.?Implement data integration solutions to consolidate data from diverse sources into a unified format.Transform and cleanse data as needed to meet quality and consistency standards.Monitor data pipelines, Azure Databricks clusters, and SQL databases for performance issues and optimize as necessary.Experience in distributed systems, data pipelines, Apache Hadoop, and Apache Spark.Strong background in Amazon Web Services/Redshift (for data warehousing), Azure, HDFS and Amazon S3, Database systems (SQL and NoSQL), Data warehousing solutions, ETL Tools, Machine learning.Ability to tackle complex problems, learn quickly and independently, and proactively recommend solutions to improve efficiency or effectiveness.Adhere to Agile principles and philosophies (Scrum or Kanban, as applicable) in fulfillment of the role.Collaborate within the direct team in accordance with Team Agreement, Definition of Ready, and Definition of Done.Work as a cross-functional team member in an Agile setting to help complete and deliver the team commitments.",
+        "source": "Email",
+        "date_posted": "2024-10-24 08:53:06-05:00",
+        "unique_id": "192bf06e50ef80bb",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

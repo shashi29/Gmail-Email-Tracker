@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Calabitek",
+        "job_title": "Gen AI Developer",
+        "location": "Allentown, PA, USA",
+        "full_location": {
+            "city": "Allentown",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "RAG implementation",
+                "GenAI solution development",
+                "Azure resources and services",
+                "Custom Copilots development",
+                "Prompt engineering"
+            ],
+            "primary": [
+                "Microsoft Copilot Studio",
+                "Custom Connector development",
+                "Azure OpenAI",
+                "Azure AI Search",
+                "Azure AI Studio",
+                "Agile",
+                "ADO",
+                "Distributed architecture patterns",
+                "Java development"
+            ],
+            "secondary": [
+                "Microservices",
+                "REST",
+                "GenAI life cycle process"
+            ],
+            "all": [
+                "RAG implementation",
+                "GenAI solution development",
+                "Azure resources and services",
+                "Custom Copilots development",
+                "Prompt engineering",
+                "Microsoft Copilot Studio",
+                "Custom Connector development",
+                "Azure OpenAI",
+                "Azure AI Search",
+                "Azure AI Studio",
+                "Agile",
+                "ADO",
+                "Distributed architecture patterns",
+                "Java development",
+                "Microservices",
+                "REST",
+                "GenAI life cycle process"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "kishore",
+        "email": "kishore@calabitek.com",
+        "jd": "From: kishore, Calabitek kishore@calabitek.com Reply to: kishore@calabitek.com Hiring:-Position: Gen AI DeveloperLocation: Allentown, PA- HybridAny visa is fine \u201cMUST HAVE\u201d SkillsKnowledge and experience implementing RAG and fine-tuning GenAI solution using the relevant Azure resources and services. Experience with developing Custom Copilots using Microsoft Copilot Studio. Custom Connector and Extension development experience a plus. Experience with developing Gen AI solutions using Azure OpenAI, Azure AI Search and Azure AI Studio for RAG and fine-tune LLM for GenAI solutions. Must possess expertise in prompt engineering to facilitate gen ai solution testing and usage.Agile / ADO experienceKnowledge and experience in implementing distributed architecture patterns (e.g. web applications, REST/microservices). Azure experience a plus. Knowledge and experience in implementing GenAI solutions using a defined GenAl life cycle process. Java development experience Share your resume to kishore@calabitek.com",
+        "source": "Email",
+        "date_posted": "2024-10-17 10:50:42-05:00",
+        "unique_id": "1929b4d4ab9ff4e5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

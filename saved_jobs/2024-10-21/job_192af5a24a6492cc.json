@@ -1,0 +1,54 @@
+[
+    {
+        "company": "CBS LLC",
+        "job_title": "Teradata Engineer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "Upama",
+            "email": "upama@cbsllc.us"
+        },
+        "skills": {
+            "core": [
+                "Teradata \u2013 BTEQ\u2019s",
+                "GCP \u2013 BigQuery"
+            ],
+            "primary": [
+                "Python"
+            ],
+            "secondary": [],
+            "all": [
+                "Teradata \u2013 BTEQ\u2019s",
+                "GCP \u2013 BigQuery",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "jd": "From: Upama, CBS LLC upama@cbsllc.us Reply to: upama@cbsllc.us Teradata Engineer : Irving TX-HybridWork Location: Irving TXOnsite at Irving TX (3 days a week)GC, USC, H4 EAD , OPT EADJob Description:This is for PBM compliance domain, some of their upstream system migrated to BQ and due to funding restrictions, not all applications are going to be in BQ immediately. So this team consumes data from BQ in the form of extract data, sometime, they wanted to access BQ for data check/validation and push data to their Teradata platform. They need someone who has hands on experience on skill set like GCP \u2013 BigQuery (60%), Teradata \u2013 BTEQ\u2019s (40%), pipeline process, python etc would be good start here. Must Have:Teradata \u2013 BTEQ\u2019sGCP \u2013 BigQuery Nice To have:Python",
+        "source": "Email",
+        "date_posted": "2024-10-21 07:57:33-05:00",
+        "unique_id": "192af5a24a6492cc",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

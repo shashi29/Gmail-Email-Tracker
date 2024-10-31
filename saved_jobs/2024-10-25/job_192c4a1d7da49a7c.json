@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Resource Logistics",
+        "job_title": "Machine Learning Engineer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Cron Jobs",
+                "Python",
+                "CI/CD",
+                "Terraform",
+                "Ansible",
+                "Spark",
+                "PySpark"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Cron Jobs",
+                "Python",
+                "CI/CD",
+                "Terraform",
+                "Ansible",
+                "Spark",
+                "PySpark"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Anuj Singh",
+        "email": "anuj.singh@resource-logistics.com",
+        "jd": "Hey ,Greetings!! This is Anuj Singh from Resource Logistics. I am looking for a Machine Learning Engineer and it is Irving , Texas or Basking Ridge, New Jersey or Tampa, FL(day1 onsite - hybrid) role.\"Looking for Immediate Joiners\"Role: Machine Learning EngineerLocation - Irving , Texas or Basking Ridge, New Jersey or Tampa, FL(day1 onsite - hybrid)Duration: ContractMandatory skillset: Cron Jobs, Customer is stringent on GCP model deployment experiencecron jobshell scriptsdeploy modelspythonci/cd pipeline: tera form, ansiblespark/pyspark hands on experienceNote: Need candidate who can come for F2F interview, hence local candidates are highly preferred",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:27:51-05:00",
+        "unique_id": "192c4a1d7da49a7c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

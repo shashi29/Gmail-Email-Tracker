@@ -1,0 +1,81 @@
+[
+    {
+        "company": "DMS Visions INC",
+        "job_title": "Data Warehouse",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "121908",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Snowflake",
+                "Apache Kafka",
+                "Data warehousing",
+                "ETL tools"
+            ],
+            "primary": [
+                "Agile development methodology",
+                "Data ingestion using Kafka",
+                "Data Modelling",
+                "Oracle/SQL",
+                "Unix/Linux",
+                "Shell Scripting",
+                "Git"
+            ],
+            "secondary": [
+                "JAVA script",
+                "APIs",
+                "Data Stage v11.3",
+                "Data Stage v11.7"
+            ],
+            "all": [
+                "Python",
+                "Snowflake",
+                "Apache Kafka",
+                "Data warehousing",
+                "ETL tools",
+                "Agile development methodology",
+                "Data ingestion using Kafka",
+                "Data Modelling",
+                "Oracle/SQL",
+                "Unix/Linux",
+                "Shell Scripting",
+                "Git",
+                "JAVA script",
+                "APIs",
+                "Data Stage v11.3",
+                "Data Stage v11.7"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek Yadav",
+        "email": "abhishek@dmsvisions.com",
+        "jd": "From: Abhishek Yadav, DMS Visions INC abhishek@dmsvisions.com Reply to: abhishek@dmsvisions.com Hi,Hope you are doing well !!I have an urgent position. Kindly go through the Job description and let me know if this would be of interest to you. Job Title: Data WarehouseLocation: Downtown Chicago, IL (3 days onsite per week)Duration: 6+ Months Contract ****While sharing resume mention consultant location and visa status*** Job Description: Need Only LOCAL CANDIDATE Project Overview / Contractor\u2019s Role:This position is for a Data Engineer post in view of RCE initiative Experience level: 3 (7+ years) Qualifications (must haves):> Knowledge of Python, Snowflake, Apache Kafka, Data warehousing, ETL tools and Agile development methodology> Knowledge of full secure development life cycle> Analytical and problem-solving skills> A positive goal-oriented attitude with a focus on delivery. Experience working in onsite-offshore setup Skillsets:- Python framework design and development- Data ingestion using Kafka- Snowflake, SnowSQLs- Data Modelling, Design and Coding- Oracle/SQL- Unix/Linux- Shell Scripting, Git Nice to have:> JAVA script and APIs> Data Stage v11.3 and v11.7 Tasks & Responsibilities:- Design and Develop effective Data load solution using Python, Kafka or other data integration methodologies- Data load using Snowflake SQLs and stored procedures- Design technical solutions using the best available technologies- Design, develop and unit test components as defined above- Consult with product analysts and/or business partners on requirements and synthesize into technical requirements and designs- On the technical side, work with architects, designers and enterprise framework groups on the best solution for both business and IT- Ensure that non-functional requirements such as security, performance, maintainability, scalability, usability and reliability are being considered when architecting solutions- Ensure code meets standards and tested appropriate- Responsible for identifying and fixing any environmental issues and regularly gets pulled to resolve platform production related issues Notes with the hiring manager todayJob ID / Title 121908Data Warehouse Most importantData Engineer warehouse project entering into second phase \u2013 Corporate warehouse phase 2Python and SnowSQL (Is required)Kafka \u2013 Not building the pipelines \u2013 knowledge of to be able to debugAirflow and Astro DataStage is a nice to have and so is PeoplesoftLooking at existing stages No Digital Visualization tools needed Modelling, design and code data pipelines If you are interested, please share your updated resume and suggest the best number & time to connect with you. Thanks & Regards, Abhishek YadavDMS Vision Inc. | http://dmsvisions.com/4645 Avon Lane, Suite 210, Frisco, TX 75033Email: abhishek@dmsvisions.com | Phone : 972-645-5314 | EXT - 103",
+        "source": "Email",
+        "date_posted": "2024-10-21 19:35:27-05:00",
+        "unique_id": "192b1c6bfa6c8573",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "GTech LLC",
+        "job_title": "Sr. Apache Spark",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Apache Spark",
+                "Airflow",
+                "Databricks",
+                "AWS",
+                "Scala",
+                "Java",
+                "Python"
+            ],
+            "primary": [
+                "CI/CD Pipelines",
+                "ETL pipelines",
+                "containerization",
+                "Jenkins"
+            ],
+            "secondary": [
+                "web service APIs",
+                "microservices",
+                "scaling techniques",
+                "DevOps",
+                "Agile development",
+                "analytical skills",
+                "communication skills"
+            ],
+            "all": [
+                "Apache Spark",
+                "Airflow",
+                "Databricks",
+                "AWS",
+                "Scala",
+                "Java",
+                "Python",
+                "CI/CD Pipelines",
+                "ETL pipelines",
+                "containerization",
+                "Jenkins",
+                "web service APIs",
+                "microservices",
+                "scaling techniques",
+                "DevOps",
+                "Agile development",
+                "analytical skills",
+                "communication skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ram Prasad Chaudhary",
+        "email": "rpchaudhary@greattechglobal.com",
+        "jd": "Hello,Hope you are doing well, Role: Sr. Apache Spark Location \u2013 RemoteJob Type: Contract C2CDuration: 6+ Months Job Description: Must Have \u2013 Develop big data processing systems using Apache Spark, Airflow, Databricks, AWS and related technologies. Fluency in one or more languages like Scala (preferred), Java, Python. Familiar with CI/CI Pipelines, ETL pipelines, containerizationGood to have \u2013 Experience using web service APIs. Knowledge of microservices and scaling techniques \u2022 12+ years of hands-on experience with Apache Spark, Airflow, Databricks, AWS and related technologies.\u2022 Fluency in one or more languages like Scala (preferred), Java, Python.\u2022 Knowledge and experience on Jenkins for CI/CD automations. DevOps knowledge is added advantage\u2022 Nice to have experience using web service APIs. Knowledge of microservices and scaling techniques.\u2022 Strong analytical skills\u2022 Must follow the guideline, process, and best practices of Agile development\u2022 Good written and verbal communication skills",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:56:55-05:00",
+        "unique_id": "192bb15de118a87b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

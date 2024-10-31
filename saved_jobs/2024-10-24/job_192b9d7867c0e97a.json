@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Archon Software",
+        "job_title": "AWS Cloud Architect",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Cloud Services",
+                "ECS",
+                "EKS",
+                "EC2",
+                "MongoDB",
+                "Aurora",
+                "service mesh",
+                "Terraform"
+            ],
+            "primary": [
+                "AWS services debugging",
+                "Blue Green Deployment",
+                "AWS Solution Architect certification",
+                "Kubernetes",
+                "Terraform Enterprise"
+            ],
+            "secondary": [
+                "prior work experience in JPMC",
+                "prior work experience in AWS"
+            ],
+            "all": [
+                "AWS",
+                "Cloud Services",
+                "ECS",
+                "EKS",
+                "EC2",
+                "MongoDB",
+                "Aurora",
+                "service mesh",
+                "Terraform",
+                "AWS services debugging",
+                "Blue Green Deployment",
+                "AWS Solution Architect certification",
+                "Kubernetes",
+                "Terraform Enterprise",
+                "prior work experience in JPMC",
+                "prior work experience in AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sunanda",
+        "email": "sunanda@archonsoftwares.com",
+        "jd": "From: sunanda, Archon Software sunanda@archonsoftwares.com Reply to: sunanda@archonsoftwares.com Please find below job description:Note: Candidate need to Come Face to Face for client interview in any of the JPMC Location in Wilmington, DE/Columbus, OH/NYC, NY/Jersey City, NJ/Plano, TX, but work location is at Plano, TX (Onsite is Must) Mandatory Skills:We are looking for Sr Principle(AWS) Engineer with strong Cloud Services knowledge such as ECS EKS and EC2 and Data MongoDB, Aurora who knows service mesh how to design and implement Gateways and debugging on AWS services Hands on AWS services debugging, terraforms.Should be able create and manage AWS environment across services both internal and externalAble to design in most of AWS cloud ServicesExperience in Blue Green Deployment to run current and new application version in identical environments.Better to have certification in AWS Solution architect, Kubernetes, TerraformGood to have prior work experience in JPMC OR AWSExperience in Terraform Enterprise(TFE).",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:09:02-05:00",
+        "unique_id": "192b9d7867c0e97a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

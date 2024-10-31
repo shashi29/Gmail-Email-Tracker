@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Tanisha Systems",
+        "job_title": "Data Analyst with Azure Snowflake and Power BI",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries"
+            ],
+            "primary": [],
+            "secondary": [
+                "Power BI",
+                "BRD",
+                "Data Lineage"
+            ],
+            "all": [
+                "Azure",
+                "Snowflake",
+                "SQL Server",
+                "SQL Queries",
+                "Power BI",
+                "BRD",
+                "Data Lineage"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vikas Kumar",
+        "email": "vikas.kumar@tanishasystems.com",
+        "jd": "Sr. Data Analysts having strong experience in data identification and querying with standard relational and non-relational systems, along with strong knowledge of Structured and Unstructured Data. Strong Data Profiling and SQL skills to analyze the source-target data identification and generate Source \u2013 Target Mapping Sheets (STTM). Working experience in big data environments on both on-prem and cloud, such as Azure and Snowflake and reporting tools like Power BI skills Grid: Skill Level (Advance, Intermediate, beginner) Years of experience Self-Ratings out of 10 Data Identification, Querying, cleaning, wrangling, checking quality Data Profiling SQL Skills (Query, Stored Procs etc.) Exp in Big Data Env Azure Snowflake Power BI",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:47:27-05:00",
+        "unique_id": "192c58f4b33e5966",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

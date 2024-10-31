@@ -1,0 +1,96 @@
+[
+    {
+        "company": "Themesoft Inc.",
+        "job_title": "Java Developer",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring framework",
+                "Spring boot",
+                "Spring cloud",
+                "REST API",
+                "Microservices"
+            ],
+            "primary": [
+                "Angular",
+                "React",
+                "oAuth2",
+                "OIDC",
+                "CI/CD",
+                "DevOps",
+                "Oracle",
+                "SQL server",
+                "MongoDB"
+            ],
+            "secondary": [
+                "Telemetry",
+                "Open Telemetry",
+                "Circuit Breaker design pattern",
+                "Jenkins",
+                "Test automation",
+                "Log management tools",
+                "Splunk",
+                "Data Dog",
+                "Dynatrace"
+            ],
+            "all": [
+                "Java",
+                "Spring framework",
+                "Spring boot",
+                "Spring cloud",
+                "REST API",
+                "Microservices",
+                "Angular",
+                "React",
+                "oAuth2",
+                "OIDC",
+                "CI/CD",
+                "DevOps",
+                "Oracle",
+                "SQL server",
+                "MongoDB",
+                "Telemetry",
+                "Open Telemetry",
+                "Circuit Breaker design pattern",
+                "Jenkins",
+                "Test automation",
+                "Log management tools",
+                "Splunk",
+                "Data Dog",
+                "Dynatrace"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "John Richardson",
+        "email": "john@themesoft.com",
+        "jd": "Job Title: Tech PMLcation: Hybrid - Office in Denver, COJob Description:\u2022 10+ years of Java Development experience\u2022 In-depth knowledge of Spring framework, Spring boot and Spring cloud\u2022 Building REST API, microservice in domain driven using hexagonal architecture principles\u2022 Good demonstrated understanding of UI web-based application architectures and frameworks (Angular or React) and the way it integrates with services.\u2022 oAuth2 (industry standard protocol for authentication) and OIDC (identity layer on the top of Oauth 2)\u2022 Knowledge of relevant security considerations for applications on cloud\u2022 Familiar with CI/CD pipelines and experience with DevOps\u2022 Solid understanding of both relational (Oracle, SQL server) and non-relational databases (MongoDB)\u2022 Exceptional resilient application design pattern understanding to support mission customer facing technology assets.\u2022 Experience in building low-latency, high-availability, and performing micro-services\u2022 Ability to independently analyze and solve increasingly difficult business and cloud environment issues.\u2022 Building REST API, microservice in domain driven using hexagonal architecture principles\u2022 Familiar with Telemetry and Open Telemetry framework\u2022 Familiar with Circuit Breaker design pattern\u2022 DevOps practices including CI/CD, Jenkins, test automation\u2022 Familiar with Log management tools like Splunk, Data Dog\u2022 Exceptional understanding of Dynatrace to troubleshoot performance issue related to Time-Cost analysis.\u2022 Embrace on learning mindset to take each task as a challenge to learn and share the knowledge as a way of continuous improvement\u2022 Act with ownership culture to drive meaningful change that aligns with the overall enterprise product vision\u2022 Be an active player in PoC and Solution Design Thinking\u2022 Nice to have: Autosys Top Skills RequiredCore Java , Java , Angular , Springboot Microservices with project management experience 10+ years of experience required",
+        "source": "Email",
+        "date_posted": "2024-10-28 09:48:32-05:00",
+        "unique_id": "192d3e03f81d4188",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

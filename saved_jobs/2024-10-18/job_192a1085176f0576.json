@@ -1,0 +1,85 @@
+[
+    {
+        "company": "4-Serve Solutions",
+        "job_title": "Senior Analytics Engineer",
+        "location": "Livonia, MI, USA",
+        "full_location": {
+            "city": "Livonia",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Bachelor\u2019s degree in Engineering, Computer Science, Math or a related technical field required.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "ETL development",
+                "data modeling",
+                "data analysis",
+                "Python"
+            ],
+            "primary": [
+                "DBT",
+                "GitHub",
+                "cloud-based data warehouses",
+                "AWS S3",
+                "Azure Blob Storage",
+                "Google Cloud Storage",
+                "Pandas",
+                "Numpy"
+            ],
+            "secondary": [
+                "data validation",
+                "QA",
+                "communication skills",
+                "marketing channels",
+                "Salesforce",
+                "Adobe Campaign",
+                "Google Analytics"
+            ],
+            "all": [
+                "SQL",
+                "ETL development",
+                "data modeling",
+                "data analysis",
+                "Python",
+                "DBT",
+                "GitHub",
+                "cloud-based data warehouses",
+                "AWS S3",
+                "Azure Blob Storage",
+                "Google Cloud Storage",
+                "Pandas",
+                "Numpy",
+                "data validation",
+                "QA",
+                "communication skills",
+                "marketing channels",
+                "Salesforce",
+                "Adobe Campaign",
+                "Google Analytics"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rukmini",
+        "email": "rukmini@4-serveinc.com",
+        "jd": "From: Rukmini, 4-Serve Solutions rukmini@4-serveinc.com Reply to: rukmini@4-serveinc.com Role: Senior Analytics EngineerLocation: Livonia,MIVisa: USC , GC or TN RemoteResponsibilities:Translate business needs into ETL and report requirements, as well as provide expert advice and education in the usage and interpretation of data.Ability to diagram complex technical processes and translate abstract problems into discrete technology actions.Design and implement data pipelines with DBT, Python, and GitHub using software and data engineering best practices to ensure that data is accurate, reliable, and timely.Enhance development and implementation environments by implementing new and custom DBT libraries, and writing/modifying Python and shell scripts.Monitor daily job execution and fix issues as they arise to ensure SLAs are met with internal stakeholders.Enhance data warehouse design using data modeling best practices and identify gaps in our data collection capabilities.Collaborate with product and engineering, governance, and security on requirements for data capture, retention, and security.Develop reports and dashboards using to answer key business questions clearly, accurately, and with minimal latency.Work with Cloud Engineering to configure docker images.Coordinate with Data Platform Engineering team, Enterprise Data Analyst Team, Data Governance Team, and IT Teams to align with change management processes and to ensure performance, processes and access is optimal for our reporting solutions.Requirements:Bachelor\u2019s degree in Engineering, Computer Science, Math or a related technical field required.A minimum of 7 years experience in data engineering and analytics, with a focus on ETL development, data modeling, and data analysis.Expertise in SQL and ETL optimization techniques, especially within cloud-based data warehouses like Snowflake, BigQuery, and Redshift, as well as use of command line and version control software (git).Experience with cloud-based data storage solutions such as AWS S3, Azure Blob Storage, or Google Cloud Storage.Proficiency in Python including the Pandas and Numpy libraries.Ability to leverage tools, business intuition, and attention to detail for data validation and QA.Excellent communication skills, particularly when explaining technical or complex matters to less technical co-workers.A high degree of motivation to be proactive and go above and beyond the task at hand.Understanding of major marketing channels, such as TV, direct mail, social media, search.Familiarity with data schemas and logging of common marketing platforms, such as Salesforce, Adobe Campaign, and Google Analytics.Experience mentoring and guiding junior data engineers and analysts.",
+        "source": "Email",
+        "date_posted": "2024-10-18 13:33:22-05:00",
+        "unique_id": "192a1085176f0576",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

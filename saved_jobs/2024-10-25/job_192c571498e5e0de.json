@@ -1,0 +1,86 @@
+[
+    {
+        "company": "SmartITframe LLC",
+        "job_title": "Data Science Engineer",
+        "location": "Scottsdale, AZ, USA",
+        "full_location": {
+            "city": "Scottsdale",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Data Engineering",
+                "Data Warehousing",
+                "Data Analytics",
+                "GCP"
+            ],
+            "primary": [
+                "GCP Vertex AI",
+                "Data Governance",
+                "Metadata Management",
+                "ETL",
+                "Data Pipelines"
+            ],
+            "secondary": [
+                "Scala",
+                "DevOps",
+                "CICD",
+                "Technical Documentation",
+                "Communication Skills"
+            ],
+            "all": [
+                "Python",
+                "Data Engineering",
+                "Data Warehousing",
+                "Data Analytics",
+                "GCP",
+                "GCP Vertex AI",
+                "Data Governance",
+                "Metadata Management",
+                "ETL",
+                "Data Pipelines",
+                "Scala",
+                "DevOps",
+                "CICD",
+                "Technical Documentation",
+                "Communication Skills"
+            ],
+            "with_experience": [
+                "Python (6 years)",
+                "Data Engineering (6 years)",
+                "Data Warehousing (6 years)",
+                "Data Analytics (6 years)",
+                "GCP (6 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Praveen Kumar",
+        "email": "praveen@smartitframe.com",
+        "jd": "Dear, Greetings from Smart IT Frame, Hope you are doing well!!! Smart IT Frame specializes in enabling you with your most critical line of resources. Whether it\u2019s for permanent staffing, contract staffing, contract-to-hire or executive search, we understand the importance of delivering the most suitable talent; on time and within budget. With our Core focus in emerging technologies, we have provided global technology workforce solutions in North America, Canada & India. We take pride in delivering specialized talent, superior performance, and seamless execution to meet the challenging business needs of customers worldwide. Position: Data Science Engineer Location: Scottsdale, AZ (Onsite) Duration: Contract Job description Job Summary Principal Duties: A solid experience and understanding of considerations for largescale solutioning and operationalization of data warehouses data lakes and analytics platforms on GCP is a must works on creating a framework for ML and LLM Ops works on processes and flow of AI Compliance Governance framework Monitors the Data Lake constantly and ensures that the appropriate support teams are engaged at the right times Create reports to monitor usage data for billing and SLA tracking Work with business and crossfunctional teams to gather and document requirements to meet business needs Provide support as required to ensure the availability and performance of ETL ELT jobs Provide technical assistance and cross training to business and internal team members Collaborate with business partners for continuous improvement opportunities Requirements Experience Skills Qualifications: 6 years of experience in Data Engineering with an emphasis on Data Warehousing and Data Analytics Very strong hands on Python expertise Strong Data and GCP Vertex AI knowledge 6 years of experience with one of the leading public clouds 6 years of experience in design and build of salable data pipelines that deal with extraction transformation and loading 6 years of experience with Python Scala with working knowledge on Notebooks 6 years hands on experience on GCP Cloud data implementation projects Dataflow DataProc Cloud Composer Big Query Cloud Storage GKE Airflow etc At least 5 years of experience in Data governance and Metadata Management Ability to work independently solve problems update the stake holders Analyze design develop and deploy solutions as per business requirements Strong understanding of relational and dimensional data modeling Experience in DevOps and CICD related technologies Excellent written verbal communication skills including experience in technical documentation and ability to communicate with senior business managers and executives Skills: AI Engineering - GCP",
+        "source": "Email",
+        "date_posted": "2024-10-25 14:22:57-05:00",
+        "unique_id": "192c571498e5e0de",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

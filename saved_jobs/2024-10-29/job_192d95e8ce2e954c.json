@@ -1,0 +1,66 @@
+[
+    {
+        "company": "ConvexTech Inc.",
+        "job_title": "LOOKER DEVELOPER/ARCHITECT",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Looker",
+                "Tableau",
+                "data visualization tools"
+            ],
+            "primary": [
+                "cloud data warehouses",
+                "BigQuery",
+                "Snowflake",
+                "Google Cloud",
+                "infrastructure as code",
+                "GCP Professional Data Engineer Certification"
+            ],
+            "secondary": [],
+            "all": [
+                "Looker",
+                "Tableau",
+                "data visualization tools",
+                "cloud data warehouses",
+                "BigQuery",
+                "Snowflake",
+                "Google Cloud",
+                "infrastructure as code",
+                "GCP Professional Data Engineer Certification"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "MD AFTAB ALAM",
+        "email": "aftab@convextech.com",
+        "jd": "Hope you are doing good.!!Please let me know if you are interested in the below position.!! Position : LOOKER DEVELOPER/ARCHITECTLocation: REMOTEDuration: Long Term Contract.Visa : USCInterview mode: : video Job DescriptionInstallation and testing of Looker and Looker Studio extension or API plugins. Identification and deprecation of unused Looker dashboards.Improving our Looker modeling architecture to make the GenAI capability more effective.Supporting our engineering team and analytic partners model tuning needs.Experience with Looker, Tableau, or other data visualization tools.Experience working with cloud data warehouses such as BigQuery or Snowflake.Experience with Google Cloud and infrastructure as code. GCP Professional Data Engineer Certification.",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:55:34-05:00",
+        "unique_id": "192d95e8ce2e954c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

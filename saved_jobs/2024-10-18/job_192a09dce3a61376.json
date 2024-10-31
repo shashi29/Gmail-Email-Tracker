@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Flexon Technologies",
+        "job_title": "SDET Lead with Java",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "10+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Multi-threading",
+                "Service Oriented Architectures",
+                "RESTful Services"
+            ],
+            "primary": [
+                "Shell",
+                "Python",
+                "SQL",
+                "NoSQL",
+                "Messaging Queues"
+            ],
+            "secondary": [
+                "Automated software tests",
+                "Unit-tests",
+                "Regression tests",
+                "Functional tests",
+                "Stress tests",
+                "CI/CD integration"
+            ],
+            "all": [
+                "Java",
+                "Multi-threading",
+                "Service Oriented Architectures",
+                "RESTful Services",
+                "Shell",
+                "Python",
+                "SQL",
+                "NoSQL",
+                "Messaging Queues",
+                "Automated software tests",
+                "Unit-tests",
+                "Regression tests",
+                "Functional tests",
+                "Stress tests",
+                "CI/CD integration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sai Kumar",
+        "email": "saikumar@flexontechnologies.com",
+        "jd": "From: Sai Kumar, Flexon Technologies saikumar@flexontechnologies.com Reply to: saikumar@flexontechnologies.com Job Title: SDET Lead with JavaLocation: Sunnyvale, CA (Day 1 Onsite)Duration: 12 Months Job Description:Experience: 10+ YearsRequired:Hands-on programming experience in Java, Multi-threading, Service Oriented Architectures and RESTful ServicesKnowledge of scripting languages ( Shell and/or Python ) Design & Develop testing strategies, infrastructure (tools, frameworks, reporting mechanisms) to test software & services. Experience writing and triaging automated software tests (e.g., unit-tests, regression tests, functional tests, stress tests)Integrate test suites and infrastructure with the CI/CD systemsExperience in SQL/NoSQL technologies and Messaging Queues",
+        "source": "Email",
+        "date_posted": "2024-10-18 11:37:02-05:00",
+        "unique_id": "192a09dce3a61376",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

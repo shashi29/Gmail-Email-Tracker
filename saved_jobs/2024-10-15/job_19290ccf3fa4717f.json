@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Vkore Solutions",
+        "job_title": "JAVA BACKEND with SAP / ORACLE DBA with SRE",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle DBA",
+                "SAP",
+                "SRE",
+                "Python",
+                "Shell scripting"
+            ],
+            "primary": [
+                "Exadata",
+                "EBS Applications",
+                "Fusion Middleware",
+                "GitHub",
+                "system reliability",
+                "performance monitoring"
+            ],
+            "secondary": [
+                "automation",
+                "troubleshooting",
+                "collaborative development",
+                "documentation",
+                "best practices"
+            ],
+            "all": [
+                "Oracle DBA",
+                "SAP",
+                "SRE",
+                "Python",
+                "Shell scripting",
+                "Exadata",
+                "EBS Applications",
+                "Fusion Middleware",
+                "GitHub",
+                "system reliability",
+                "performance monitoring",
+                "automation",
+                "troubleshooting",
+                "collaborative development",
+                "documentation",
+                "best practices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mohit",
+        "email": "mohit@vkoresolutions.com",
+        "jd": "From: Mohit, Vkore Solutions mohit@vkoresolutions.com Reply to: mohit@vkoresolutions.com REQUIREMENT 1 : JAVA BACKEND with SAPREQUIREMENT 2: ORACLE DBA with SREBOTH ARE ONSITE ROLE.PASSPORT NUMBER REQUIREMENT Key Responsibilities:Manage and maintain Oracle Database environments, including EBS Applications and Fusion Middleware, ensuring high availability and performance.Implement and manage Exadata infrastructure to optimize database performance and scalability.Develop and maintain automation scripts in Python or Shell to streamline database operations and deployments.Monitor system performance, identify bottlenecks, and troubleshoot issues in operating systems and networks.Collaborate with development and operations teams to improve system reliability, availability, and performance.Utilize GitHub for version control and collaborative development of scripts and automation tools.Participate in on-call support rotation to address production incidents and outages.Contribute to documentation and best practices for database management and SRE processes.Qualifications:Proven experience as an Oracle DBA with a strong understanding of the Oracle tech stack, including Oracle DB, EBS Applications, Fusion Middleware, and Exadata.Solid SRE experience, particularly in scripting, automation, monitoring, and troubleshooting.Proficient in Python and Shell scripting for automation tasks.Strong analytical and problem-solving skills, with a focus on system reliability and performance.Familiarity with GitHub and version control best practices.Excellent communication skills and ability to work collaboratively in a team environment.Prior experience with LinkedIn, Google, or Cisco is highly preferred.",
+        "source": "Email",
+        "date_posted": "2024-10-15 09:53:26-05:00",
+        "unique_id": "19290ccf3fa4717f",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

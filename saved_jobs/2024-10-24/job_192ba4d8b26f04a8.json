@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Amber IT Staffing",
+        "job_title": "Java NodeJS Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Node.js"
+            ],
+            "primary": [
+                "Asynchronous programming",
+                "Server-side templating languages",
+                "Web stack understanding",
+                "Web server optimization techniques"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Node.js",
+                "Asynchronous programming",
+                "Server-side templating languages",
+                "Web stack understanding",
+                "Web server optimization techniques"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Amandeep Singh",
+        "email": "amandeep.s@amberitstaffing.com",
+        "jd": "From: Amandeep Singh, Amber IT Staffing amandeep.s@amberitstaffing.com Reply to: amandeep.s@amberitstaffing.com Job Title: Java NodeJS DeveloperLocation: Phoenix, AZ Duration: 12 Months Contract Start Date: ASAP Job Description:Understanding the characteristics of asynchronous programming and its quirks and workarounds.Excellent command of server-side templating languages.Ability to combine multiple data sources and databases into a single system.Understanding of the entire web stack, including protocols and web server optimization techniques.Understanding of the Node.js Framework.",
+        "source": "Email",
+        "date_posted": "2024-10-23 11:17:11-05:00",
+        "unique_id": "192ba4d8b26f04a8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

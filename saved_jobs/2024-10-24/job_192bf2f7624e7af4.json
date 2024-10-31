@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Infinity quest",
+        "job_title": "Lead Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$60/hour"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Java",
+                "PostgreSQL"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Kubernetes",
+                "Snowflake"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "Java",
+                "PostgreSQL",
+                "Spring Boot",
+                "Kubernetes",
+                "Snowflake"
+            ],
+            "with_experience": [
+                "AWS",
+                "Java",
+                "PostgreSQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "suganesh",
+        "email": "suganesh.s@i-q.co",
+        "jd": "From: suganesh, Infinity quest suganesh.s@i-q.co Reply to: suganesh.s@i-q.co Lead DeveloperLocation : Remote / Frisco TX , Atlanta GA.Rate: 60/hrSkills:AWSJava Spring boot.KubernetesPostgreSQLSnowflakeJob Summary: We are looking for a skilled Lead Developer to join our team. The ideal candidate will have a strong background in AWS, Java microservices, PostgreSQL, Kubernetes , and analytics tools like Snowflake. You will lead development efforts, mentor junior developers, and collaborate with cross-functional teams to deliver high-quality software solutions.Key Responsibilities:\u2022 Design, develop, and deploy scalable applications using Java and PostgreSQL on AWS.\u2022 Lead architecture discussions and drive best practices for cloud-based solutions.\u2022 Implement and manage Kubernetes (K8) for container orchestration and deployment.\u2022 Utilize analytics tools like Snowflake to drive data-driven decision-making.\u2022 Collaborate with product managers, designers, and other stakeholders to define project requirements and timelines.\u2022 Mentor and guide junior developers, fostering a culture of learning and collaboration.\u2022 Conduct code reviews and ensure adherence to coding standards and best practices.\u2022 Troubleshoot and optimize application performance and reliability.Qualifications:\u2022 Bachelor\u2019s degree in computer science, Engineering, or a related field.\u2022 years of experience in software development, with a focus on leading teams.\u2022 Strong proficiency in AWS services and cloud architecture.\u2022 Extensive experience with Java and PostgreSQL.\u2022 Familiarity with Kubernetes (K8) for managing containerized applications.\u2022 Experience with analytics platforms such as Snowflake.\u2022 Excellent problem-solving skills and attention to detail.\u2022 Strong communication and interpersonal skills.",
+        "source": "Email",
+        "date_posted": "2024-10-24 10:01:10-05:00",
+        "unique_id": "192bf2f7624e7af4",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

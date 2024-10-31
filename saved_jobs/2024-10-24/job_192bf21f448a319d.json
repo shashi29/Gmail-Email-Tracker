@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Aspired Solutions Inc.",
+        "job_title": "Python Developer",
+        "location": "Keene, NH, USA",
+        "full_location": {
+            "city": "Keene",
+            "state": "NH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "FastAPI",
+                "Django",
+                "Flask"
+            ],
+            "primary": [
+                "ORM",
+                "Data Storage Solutions",
+                "Multi-process Architecture",
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "User Authentication",
+                "Event-driven Programming"
+            ],
+            "secondary": [
+                "Good Communication Skills"
+            ],
+            "all": [
+                "Python",
+                "FastAPI",
+                "Django",
+                "Flask",
+                "ORM",
+                "Data Storage Solutions",
+                "Multi-process Architecture",
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "User Authentication",
+                "Event-driven Programming",
+                "Good Communication Skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ramesh",
+        "email": "ramesh@aspiredsolutions.com",
+        "jd": "From: Ramesh, Aspired Solutions Inc. ramesh@aspiredsolutions.com Reply to: ramesh@aspiredsolutions.com Hi,Hope you are well. Job Title: Python DeveloperLocation: Keene, NH (Onsite)Duration: Long Term Contract Job DescriptionSoftware Engineering Code development in PythonWriting reusable, testable, and efficient codeDesign and implementation of low-latency, high-availability, and performant applicationsImplementation of security and data protectionIntegration of data storage solutions, e.g. databases, key-value stores, blob stores, etc.Expert in Python, with knowledge of at least one Python web framework (such as FastAPI, Django, Flask, etc. depending on your technology stack)Familiarity with some ORM (Object Relational Mapper) librariesAble to integrate multiple data sources and databases into one systemUnderstanding of the threading limitations of Python, and multi-process architectureBasic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3Knowledge of user authentication and authorization between multiple systems, servers, and environmentsUnderstanding of fundamental design principles behind a scalable applicationFamiliarity with event-driven programming in PythonGood Communication SkillsThanks,Ramesh,Ramesh@aspiredsolutions.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:45:14-05:00",
+        "unique_id": "192bf21f448a319d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Datagama",
+        "job_title": "Sr. Python Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "API Development",
+                "Backend Development"
+            ],
+            "primary": [
+                "DynamoDB",
+                "UI Development"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "AWS",
+                "API Development",
+                "Backend Development",
+                "DynamoDB",
+                "UI Development"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sai Teja",
+        "email": "saiteja.b@datagama.com",
+        "jd": "From: saiteja, Datagama saiteja.b@datagama.com Reply to: saiteja.b@datagama.com Job Title: Sr. Python DeveloperLocation:Plano, Richmond, McleanDuration: Long TermJob Description:AWS, Python, API Development, Backend Development, DynamoDB, UI Development Best Regards Sai TejaSr. IT Recruiter \u200bE - Mail I'D : saiteja.b@datagama.comPH: 732-402-8141",
+        "source": "Email",
+        "date_posted": "2024-10-15 17:23:37-05:00",
+        "unique_id": "1929332ab2e1d4f1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

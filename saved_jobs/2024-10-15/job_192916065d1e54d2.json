@@ -1,0 +1,97 @@
+[
+    {
+        "company": "Vaaridatech",
+        "job_title": ".net with strong AWS",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 MONTH CONTRACT",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net",
+                "AWS",
+                "Rest API",
+                "Javascript",
+                "HTML"
+            ],
+            "primary": [
+                ".Net core",
+                "C#",
+                "ASP.Net",
+                "MVC",
+                ".Net microservices",
+                "EKS",
+                "S3",
+                "RDS",
+                "DynamoDB",
+                "OpenSearch",
+                "Lambdas",
+                "SNS",
+                "SQS",
+                "LocalStack",
+                "N-Unit",
+                "Cucumber"
+            ],
+            "secondary": [
+                "Unit testing",
+                "Integration testing",
+                "Database integration"
+            ],
+            "all": [
+                ".Net",
+                "AWS",
+                "Rest API",
+                "Javascript",
+                "HTML",
+                ".Net core",
+                "C#",
+                "ASP.Net",
+                "MVC",
+                ".Net microservices",
+                "EKS",
+                "S3",
+                "RDS",
+                "DynamoDB",
+                "OpenSearch",
+                "Lambdas",
+                "SNS",
+                "SQS",
+                "LocalStack",
+                "N-Unit",
+                "Cucumber",
+                "Unit testing",
+                "Integration testing",
+                "Database integration"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Chandan Rai",
+        "email": "chand@vaaridatech.com",
+        "jd": "From: Chandan Rai, Vaaridatech chand@vaaridatech.com Reply to: chand@vaaridatech.com This client is looking for senior .net with strong AWS 100% remote.100% remoteClient is in FL We have 5 spots open at our health care client looking only for .NET/AWS. These roles are 6 MONTH CONTRACTS that are 100% remote and will extend most likely long term. THE INTERVIEWS WILL BE ONLY ONE STEP AND 30 MINUTES. 1 step interview and make some money together! Top Skills' Details1. 4+ years of experience with .Net technologies. The new application will be in .Net core, C#, ASP.Net, MVC, .Net microservices.2. Solid AWS experience- this is an AWS migration project. AWS tech needed: the use of EKS, S3, RDS, DynamoDB, OpenSearch, Lambdas, SNS, SQS, LocalStack)3. Solid Rest API experience- 90% of the work is building APIs and data APIs on the new clearinghouse, Rest API work, database integration type work (they use flyaway for database migration)4. Javascript backend and HTML experience5. Unit testing experience- they use N-Unit and cucumber is used for integration testing. They are trying to do as much shift left development as possible.",
+        "source": "Email",
+        "date_posted": "2024-10-15 12:35:31-05:00",
+        "unique_id": "192916065d1e54d2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

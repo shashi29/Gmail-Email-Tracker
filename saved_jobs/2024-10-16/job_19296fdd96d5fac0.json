@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Tek Inspiration",
+        "job_title": "AWS Infrastructure Engineer",
+        "location": "Las Vegas, NV, USA",
+        "full_location": {
+            "city": "Las Vegas",
+            "state": "NV",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "EKS",
+                "Elasticsearch",
+                "Lambda"
+            ],
+            "primary": [
+                "AWS CloudFormation",
+                "Infrastructure as Code (IaC)",
+                "Kubernetes",
+                "AWS compute resources",
+                "Prometheus",
+                "Grafana",
+                "AWS CloudWatch Logs Insights"
+            ],
+            "secondary": [
+                "Ansible",
+                "Python",
+                "PowerShell",
+                "Bash",
+                "PostgreSQL",
+                "Oracle",
+                "MS-SQL",
+                "ELK stack",
+                "SolarWinds"
+            ],
+            "all": [
+                "Terraform",
+                "EKS",
+                "Elasticsearch",
+                "Lambda",
+                "AWS CloudFormation",
+                "Infrastructure as Code (IaC)",
+                "Kubernetes",
+                "AWS compute resources",
+                "Prometheus",
+                "Grafana",
+                "AWS CloudWatch Logs Insights",
+                "Ansible",
+                "Python",
+                "PowerShell",
+                "Bash",
+                "PostgreSQL",
+                "Oracle",
+                "MS-SQL",
+                "ELK stack",
+                "SolarWinds"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Satyam Yadav",
+        "email": "satyam.yadav@tekinspirations.com",
+        "jd": "From: Satyam Yadav, Tek Inspiration satyam.yadav@tekinspirations.com Reply to: satyam.yadav@tekinspirations.com Hi,Hope you are doing great!!!Please share suitable profile and mention JOB Title: AWS Infrastructure EngineerLocation: Las Vegas, NV (100% onsite DAY 1)MoI; SkypeDuration: 12+ Months Note: RESUMES MUST BE UNDER 4 PAGES. 1 INCH MARGINS. SIZE 11 TIMES NEW ROMAN FONT (SERIOULY!) DO NOT SEND ME FAKE RESUMES!!!! I WILL MEET EVERY CANDIDATE BY VIDEO. I WILL KNOW!! Candidate need fill skill matrix Top Skills: Terraform, EKS, Elasticsearch, Lamba. Someone that has experience migrating from AWS CloudFormation to Terraform is a huge plus. We're seeking an experienced AWS Infrastructure Engineer with expertise in cloud infrastructure management, Terraform, EKS, and Kubernetes troubleshooting. In this role, you'll design, deploy, and maintain AWS environments. Responsibilities:Lead AWS CloudFormation to Terraform migration.Efficiently use Terraform for Infrastructure as Code (IaC).Manage environment lifecycle with Terraform.Securely handle sensitive data in Terraform code.Deploy resources across AWS regions.Understand AWS compute resources like EC2 and Lambda.Manage Kubernetes clusters, especially with EKS.Implement advanced monitoring using tools like Prometheus, Grafana, and AWS CloudWatch Logs Insights.Proven experience deploying and monitoring applications which leverage Elastic Search. Qualifications:Experience migrating from AWS CloudFormation to Terraform.Proficiency in Terraform and Infrastructure as Code (IaC) principles.Expertise in multi-region AWS deployments.Deep knowledge of Kubernetes, especially EKS, and troubleshooting.Proficiency in AWS compute resources (e.g., EC2, Lambda).Hands-on experience with advanced monitoring and metrics tools.QUALIFICATIONSIn-depth understanding of AWS services, including EC2, Lambda, S3, RDS, EBS, ECS (Elastic Container Service), AWS EKS (Elastic Kubernetes Service), MSK and Apache Kafka.Expert level proficiency with Terraform and Ansible to define & deploy Infrastructure as Code as well as to tear-down existing environments that are no longer needed.Expert level proficiency with EKS to deploy, manage, and scale containerized applications using Kubernetes on the cloud infrastructure.Strong background in on-prem and cloud-based networking protocols to ensure efficient flow of information securely between systems and environments.Skill in scripting languages Python, PowerShell, Bash to automate tasks to interact with AWS services programmatically.Understanding of security best practices for cloud environments including identity and access management, encryption, vulnerability management, etc. to ensure that environments are hardened using best practices.Knowledge of PostgreSQL, Oracle and MS-SQL including deployment, configuration, and optimization.Skill in using monitoring tools such as Prometheus, Grafana, ELK stack, SolarWinds or similar cloud-native solutions.7+ years of experience with history of engagements lasting 3-5 years minimum.AWS Certified Solutions Architect highly preferred.Regards,Satyam Yadav",
+        "source": "Email",
+        "date_posted": "2024-10-16 14:45:39-05:00",
+        "unique_id": "19296fdd96d5fac0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

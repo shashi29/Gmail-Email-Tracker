@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Yochana Solutions INC",
+        "job_title": "HVR Fivetran Lead",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Minimum 5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1+ year",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "HVR",
+                "Fivetran",
+                "Snowflake",
+                "SQL",
+                "ETL"
+            ],
+            "primary": [
+                "Data modeling",
+                "Cloud data warehousing",
+                "DevOps best practices",
+                "Data profiling",
+                "Data quality checks"
+            ],
+            "secondary": [
+                "RHEL VMs",
+                "Oracle NAS storage",
+                "Snap logic",
+                "Technical documentation",
+                "Collaboration"
+            ],
+            "all": [
+                "HVR",
+                "Fivetran",
+                "Snowflake",
+                "SQL",
+                "ETL",
+                "Data modeling",
+                "Cloud data warehousing",
+                "DevOps best practices",
+                "Data profiling",
+                "Data quality checks",
+                "RHEL VMs",
+                "Oracle NAS storage",
+                "Snap logic",
+                "Technical documentation",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "James Smith",
+        "email": "smith@yochana.com",
+        "jd": "From: James Smith, Yochana Solutions INC smith@yochana.com Reply to: smith@yochana.com Job Title- HVR Fivetran LeadLocation \u2013 Phoenix, AZ- Onsite Duration \u2013 1+year Minimum 5 years of experience with HVR Fivetran.Design and implement scalable and performant data pipelines for ingesting, processing, and transforming data from various sources into Snowflake.Proven experience in configuring and managing Fivetran connectors for data integration.Establish connectivity from Fivetran to Snowflake.Knowledge and experience working with RHEL VM's, Oracle NAS storage.Preferrable Snap logic knowledgeStrong understanding of data modeling, ETL processes, and cloud data warehousing concepts.Continuously optimize Fivetran configurations and data ingestion processes for improved performance and efficiency.Troubleshoot and resolve any technical issues related to Fivetran connectors and data ingestion pipelines.Develop and maintain data models that optimize data storage, access, and query performance.Utilize DevOps best practices for deploying, monitoring, and maintaining the data platform infrastructure.Perform Data profiling and quality checks to ensure data integrity and consistency.Strong SQL proficiency with writing complex queries to extract meaningful insights from data. Document technical processes and design decisions for future reference.Stay up to date with latest advancements in Snowflake and data engineering technologies.Collaborate with data engineers, data analysts, and other stakeholders to understand data requirements and deliver data solutions that meet business needs.Excellent communication and collaboration skills. (1.) To architect, design and develop (through Team) solution for productorproject and sustenance delivery (2.) To support as an Subject Matter Expert (3.) To ensure knowledge up-gradation and work with new technologies so that the solution is current and meets quality standards and the client requirements (4.) Ensuring a sufficient pool of skilled professionals in the designated technology, through activities such as conducting interviews, providing training sessions and offering mentorship. (5.) To gather specifications and deliver solutions to the client organization based on understanding of a domain or technology. (6.) To support competency development with envisioning and articulating propositions building collateralsor whitepaper creation, market trend analysis etc. (7.) To recommend client value creation initiatives and implement industry best practices (on specific technologyorproduct). Thanks & Regards, James Smith- Team Lead smith@yochana.com Direct No: 949-201-1313Yochana Solutions INCWindsor, Ontario- CanadaFarmington hills, MI-48335- USAUSA | CANADA I INDIA W: www.yochana.comNote: This is not an unsolicited mail. If you are not interested in receiving our e-mails then please reply with subject line",
+        "source": "Email",
+        "date_posted": "2024-10-23 10:47:26-05:00",
+        "unique_id": "192ba3304bdbe7e1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": ".Net Developer",
+        "location": "Harrisburg, PA, USA",
+        "full_location": {
+            "city": "Harrisburg",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET core",
+                "MVC Framework",
+                "Rest API",
+                "SOA services"
+            ],
+            "primary": [
+                "Ability to analyze and design & document the design using UML tools",
+                "Ability to create Activity, Class and Sequence diagrams"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET core",
+                "MVC Framework",
+                "Rest API",
+                "SOA services",
+                "Ability to analyze and design & document the design using UML tools",
+                "Ability to create Activity, Class and Sequence diagrams"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vipin Kumar",
+        "email": "vipin.kumar@tekinspirations.com",
+        "jd": "Job Description -.Net Developer - Harrisburg, PA (Onsite) (PV W2)Maintaining and operations for the strategic Client systems that include app priorities, bug fixes, operational tasks, direct support, capacity planning and data fixes.Required Skills: .NET core, MVC Framework, Rest API, SOA services with 5+ years experience.Preferred Skills: Ability to analyze and design & document the design using UML tools - Ability to create Activity, Class and Sequence diagramsResponsibilities: System analysis, Reengineering, documentation, design and development",
+        "source": "Email",
+        "date_posted": "2024-10-17 15:01:48-05:00",
+        "unique_id": "1929c32f23729cd5",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

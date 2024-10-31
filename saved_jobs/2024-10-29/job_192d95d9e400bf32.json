@@ -1,0 +1,98 @@
+[
+    {
+        "company": "Convextech",
+        "job_title": "DevOps Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "$50/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Terraform",
+                "Python",
+                "DevOps"
+            ],
+            "primary": [
+                "S3",
+                "IAM",
+                "EC2",
+                "Route53",
+                "SNS",
+                "SQS",
+                "ELB",
+                "CloudWatch",
+                "Lambda",
+                "VPC",
+                "GitHub Actions",
+                "Python/Shell scripting"
+            ],
+            "secondary": [
+                "Denodo",
+                "Redshift",
+                "DynamoDB",
+                "Databricks",
+                "Glue",
+                "Athena"
+            ],
+            "all": [
+                "AWS",
+                "Terraform",
+                "Python",
+                "DevOps",
+                "S3",
+                "IAM",
+                "EC2",
+                "Route53",
+                "SNS",
+                "SQS",
+                "ELB",
+                "CloudWatch",
+                "Lambda",
+                "VPC",
+                "GitHub Actions",
+                "Python/Shell scripting",
+                "Denodo",
+                "Redshift",
+                "DynamoDB",
+                "Databricks",
+                "Glue",
+                "Athena"
+            ],
+            "with_experience": [
+                "AWS (experience mandatory)",
+                "Terraform (experience mandatory)",
+                "Bigdata (Experience with at least 2)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "shaik",
+        "email": "shaik@convextech.com",
+        "jd": "From: shaik, Convextech shaik@convextech.com Reply to: shaik@convextech.com Job Title: Devops EngineerLocation: Plano, TXDuration of the project: 12+ months Contract with possible extensionVisa acceptance: USC or GCRate: $50/hr on C2CClient name (To prevent dual submission): DXC TechnologyType of engagement CTC, CTH, or FT: CTC Job Description:Extensive experience in designing, configuring, deploying, managing and automating AWS Core Services like S3, IAM, EC2, Route53, SNS, SQS, ELB, CloudWatch, Lambda and VPC.Experience in automating cloud deployments using Terraform and PythonExperience in DevOPS, administering the deployment, management, and monitoring of applications deployed on AWS via CI/CD.Maintaining the Jenkins pipeline and Perform code promotions through change managementExperience in AWS data platform services like Redshift, DynamoDB, Databricks, Glue, MLops and Athena.Ensuring the compliance of the data science operations on AWS.Monitoring usage, cost, and implement optimizations of a variety of AWS resources.Provision DynamoDB tables with encryption and grant access using the IAM policiesDeploy and manage AWS Serverless application running on API Gateway and LAMBDADeploy Redshift Clusters into VPC with encryption, enable cross region snapshots, configure subnet groups and setup monitoring, and resize the cluster using elastic and classic methodsManage Denodo VDBs, address performance issues, support onboarding of new apps and datasetsManage Denodo stored procedures, healthchecks, HA setup, and address connectivity issues.Provide detailed capacity assessment on a regular basis for Denodo, Redshift, and Databricks.Required Skills:AWS (experience mandatory): S3, IAM, EC2, Route53, SNS, SQS, ELB, CloudWatch, Lambda and VPC Automation (experience mandatory): Terraform and PythonBigdata (Experience with atleast 2): Denodo, Redshift, DynamoDB, Databricks, Glue, and Athena.DevOPS (Mandatory): GitHub Actions, Python/Shell scripting",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:56:24-05:00",
+        "unique_id": "192d95d9e400bf32",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

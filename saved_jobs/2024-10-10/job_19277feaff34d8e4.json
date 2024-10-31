@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Sun-itsolution",
+        "job_title": "Data Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Immediate",
+            "duration": "Not specified",
+            "rate": "$50"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Java",
+                "Kafka"
+            ],
+            "primary": [
+                "Informatica Power Center",
+                "ETL development",
+                "data modeling",
+                "data warehousing"
+            ],
+            "secondary": [
+                "Flink",
+                "Kubernetes",
+                "Mongo"
+            ],
+            "all": [
+                "Data Engineering",
+                "Java",
+                "Kafka",
+                "Informatica Power Center",
+                "ETL development",
+                "data modeling",
+                "data warehousing",
+                "Linux",
+                "Unix Shell Scripting",
+                "Informatica Mappings",
+                "applets",
+                "Sessions",
+                "Workflows",
+                "events creation",
+                "mapping transformations",
+                "Lookup",
+                "Normalizer",
+                "Update Strategy",
+                "Expression",
+                "Filter TX",
+                "star schema",
+                "Oracle database",
+                "advanced SQL",
+                "Agile delivery methodology",
+                "Sprint",
+                "Kanban",
+                "Python",
+                "Spark SQL",
+                "Cloud technologies",
+                "Azure",
+                "GCP"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ganesh",
+        "email": "ganesh@sun-itsolutions.com",
+        "jd": "From: Ganesh, Sun-itsolution ganesh@sun-itsolutions.com Reply to: ganesh@sun-itsolutions.com Job Title: Data Engineer Location: Charlotte NC (Hybrid) Looking for C2C profiles Rate:-$50 Immedidate interview slots Primary: Data Eng. , Java, Kafka/real-time streaming data Secondary: Flink, Kubernetes, Mongo Job Description: 5+ years of experience in building end-to-end business solutions using Informatica Power Center Demonstrated strength in data modeling, ETL development, and data warehousing. \u200e Demonstrated experience with Linux/ Unix Shell Scripting \u200e Strong hands-on development experience in ETL Informatica Mappings/applets, Sessions, Workflows, and events creation. \u200e Expertise in Informatica all mapping transformations like Lookup, Normalizer, Update Strategy, Expression, Filter TX, etc. \u200e Strong experience in star schema data modeling and data warehouse concepts. \u200e Expertise in Oracle database and advanced SQL \u200e Expertise in Agile delivery methodology including Sprint and Kanban \u200e Expertise in Python and Spark SQL Knowledge of Cloud technologies Azure and GCP Knowledge of Kafka.",
+        "source": "Email",
+        "date_posted": "2024-10-10 14:18:04-05:00",
+        "unique_id": "19277feaff34d8e4",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

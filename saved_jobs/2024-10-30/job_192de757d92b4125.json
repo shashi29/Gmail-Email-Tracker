@@ -1,0 +1,69 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": "GCP Data Engineer",
+        "location": "Woonsocket, RI, USA",
+        "full_location": {
+            "city": "Woonsocket",
+            "state": "RI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python Programming",
+                "PySpark",
+                "SQL",
+                "GCP Data Proc",
+                "GCP Composer",
+                "GCS",
+                "BigQuery"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python Programming",
+                "PySpark",
+                "SQL",
+                "GCP Data Proc",
+                "GCP Composer",
+                "GCS",
+                "BigQuery"
+            ],
+            "with_experience": [
+                "Python Programming",
+                "PySpark",
+                "SQL",
+                "GCP Data Proc",
+                "GCP Composer",
+                "GCS",
+                "BigQuery"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen Kumar",
+        "email": "naveen.t@itechus.net",
+        "jd": "Role: GCP Data Engineer\n\nLocation: Woonsocket, RI or Boston, MA (Only Locals)\n\nDuration: Contract\n\nExperience: 10+ years\n\nRole Description:\nResponsibilities:\nSupport analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.\nSupport and monitor the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, and GCP \u2018big data\u2019 technologies.\nWork with data and analytics experts to strive for greater functionality in our data systems.\nWork with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.\nDeveloping, supporting and monitoring data pipelines.\nWork closely with client to discover needs, collect appropriate data, and deliver valuable data products.\nProvide valuable insights from data sets quickly.\nCommunicate complex findings and ideas in plain language and visualizations that is friendly to business and operational audiences.\n\nQualifications:\nBachelor's degree in Computer Science, Information Technology, or related field.\nStrong skills in Python Programming\nStrong Experience in PySpark\nExperience with data pipeline and workflow management tool: GCP Data Proc, Composer and GCS\nStrong experience in handling window function in SQL\nBigQuery Experience (may not be expert)\nTo work on data engineering solutions to leverage best practices and industry-leading tools and technologies to profile data, develop efficient ingestion, and build semantic data layers.",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:49:59-05:00",
+        "unique_id": "192de757d92b4125",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

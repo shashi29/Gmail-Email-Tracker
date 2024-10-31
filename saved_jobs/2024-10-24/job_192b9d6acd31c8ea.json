@@ -1,0 +1,79 @@
+[
+    {
+        "company": "ITC Infotech",
+        "job_title": "PostgreSQL DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PostgreSQL",
+                "Database Operations",
+                "Database Performance Tuning",
+                "Data Replication",
+                "High Availability"
+            ],
+            "primary": [
+                "Cloud Databases",
+                "Dynamo DB",
+                "Azure Synapse",
+                "Redshift",
+                "Agile/Scrum"
+            ],
+            "secondary": [
+                "Documentation",
+                "Troubleshooting",
+                "Service Levels",
+                "Software Patches",
+                "On-call Rotation"
+            ],
+            "all": [
+                "PostgreSQL",
+                "Database Operations",
+                "Database Performance Tuning",
+                "Data Replication",
+                "High Availability",
+                "Cloud Databases",
+                "Dynamo DB",
+                "Azure Synapse",
+                "Redshift",
+                "Agile/Scrum",
+                "Documentation",
+                "Troubleshooting",
+                "Service Levels",
+                "Software Patches",
+                "On-call Rotation"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Laxmi Kumari",
+        "email": "laxmi@smartitframe.com",
+        "jd": "Dear Vendor, Please help me with some appropriate profiles for the below closable job position.Role: PostgreSQL DBALocation: RemoteDuration: Long Term Client: ITC Infotech Job Description:\u2022 Design and Setup DR for cloud databases - Aurora PostgreSQL Global, Dynamo DB etc..\u2022 Setup the data replication from/to PostgreSQL/Aurora to Data Lake, Sqlserver, Azure Synapse, Redshift etc.\u2022 Prioritize work based on the project needs and work effectively with minimum supervision. \u2022 Manage, Monitor, Troubleshoot Database Operations, Optimize database performance, tuning.\u2022 Implement high availability, replication, and cluster on databases.\u2022 Database refreshes in on-prem and cloud.\u2022 Support application release deployment and perform data fixes.\u2022 Working with the application team to rewrite the Stored Procedures. \u2022 Troubleshooting performance issues in real time.\u2022 Work in a globally distributed team in an Agile/Scrum approach\u2022 Provide routine status reports to leadership and escalate as necessary.\u2022 Maintain Service Levels and department goals for problem resolution. \u2022 Follow security stands and effectively manage software patches and upgrades.\u2022 Utilize best practices, standard procedures.\u2022 Write and maintain clear documentation.\u2022 Ensure 24x7 availability for critical database systems hosted \u201con premise\u201d and on AWS & Azure Cloud.\u2022 Be available to participate in 24x7 on-call rotation for the team.",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:07:48-05:00",
+        "unique_id": "192b9d6acd31c8ea",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

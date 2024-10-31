@@ -1,0 +1,81 @@
+[
+    {
+        "company": "State of MI",
+        "job_title": "Senior SQL Server DBA",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server 16",
+                "Database administration",
+                "HA and DR solutions",
+                "Transparent Data Encryption"
+            ],
+            "primary": [
+                "Systems documentation",
+                "Database standards",
+                "Database integrity checks",
+                "Database replication",
+                "Backup environments"
+            ],
+            "secondary": [
+                "Monitoring database environments",
+                "Troubleshooting",
+                "Capacity changes",
+                "Patch management",
+                "Clustered database environments"
+            ],
+            "all": [
+                "SQL Server 16",
+                "Database administration",
+                "HA and DR solutions",
+                "Transparent Data Encryption",
+                "Systems documentation",
+                "Database standards",
+                "Database integrity checks",
+                "Database replication",
+                "Backup environments",
+                "Monitoring database environments",
+                "Troubleshooting",
+                "Capacity changes",
+                "Patch management",
+                "Clustered database environments"
+            ],
+            "with_experience": [
+                "SQL Server 16 (7+ years)",
+                "Database administration (7+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "Job Description -Senior DBA (SQL SERVER DBA) Hybrid \u2013 Lansing, MI (Need local)Visa :: Any visa workable Client - State of MI REQUIRED:\u2022 7+ years of Database administration specifically on SQL Server 16 and upwards. \u2022 Expertise in HA and DR solutions. \u2022 Transparent Data Encryption within SQL Server. \u2022 Over 3+ years of experience creating, updating and maintaining systems documentation. As an Senior-level Database Administrator, the resource, participates in 24x7 software and hardware support for complex applications in several versions of SQL Server, with high availabilty and Disaster Recovery support, following industry and DTMB development standards. Helps develop and/or submit for approval, plans for installation, patch management maintenance, upgrades and support for the Database systems. . Evaluate impacts of change and new technology, recommend solutions to persistent problems, and serves as Agency Services liaison to external consultants.Individual tasks related to the duty: \u00b7 Follow and enforce database standards, policies & procedures. Research and draft guidelines within the boundaries of current policies and standards.\u00b7 Monitor space allocation across databases. perform adjustments in test and development environments as necessary and as prescribed by predefined standards/guidelines.\u00b7 Calculate disk space requirements for existing and/or new installations of existing business needs \u00b7 Modify DBMS parameters based on capacity changes.\u00b7 Configure and execute database integrity checks.\u00b7 Monitor for database integrity checks.\u00b7 Install database base management software for development and test environments.\u00b7 Install database patches and service packs for development and test environments. \u00b7 Monitor and support clustered database environments. \u00b7 Monitor and support database replication and backup environments.\u00b7 Implement the strategy to release unused space or repair fragmentation in test and development environments.\u00b7 Execute (run) scripts provided by Systems Analysts or Database Architect/Designer for creating and modifying database objects (tables, views, constraints, indexes, etc.)\u00b7 Monitor database back-ups to ensure recoverability. Troubleshoot backup errors.\u00b7 Monitor database jobs and scheduled processes in development, test and production environments. Participate in troubleshooting. \u00b7 Monitor database environments (using alert logs, trace files, alert mechanisms, and other tools) for issues and problems with database functionality, connectivity, or downtime.\u00b7 Follow standards and guidelines for database space allocation based on best practices and implementation considerations based on business requirements.",
+        "source": "Email",
+        "date_posted": "2024-10-24 13:18:13-05:00",
+        "unique_id": "192c0369e7e0d50a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

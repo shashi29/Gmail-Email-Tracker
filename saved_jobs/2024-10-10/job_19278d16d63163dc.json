@@ -1,0 +1,88 @@
+[
+    {
+        "company": "AmeriCorps",
+        "job_title": ".NET Core Lead Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 Years or Above",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months with possibility of extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET Core",
+                "C#",
+                "Azure Services",
+                "ReactJS",
+                "Microservices Architecture"
+            ],
+            "primary": [
+                "Entity Framework",
+                "SQL/PostgreSQL",
+                "CI/CD pipelines",
+                "GitHub Actions",
+                "xUnit"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "Agile/Scrum methodologies",
+                "Cloud-native solutions",
+                "Problem-solving skills",
+                "Leadership skills"
+            ],
+            "all": [
+                ".NET Core",
+                "C#",
+                "Azure Services",
+                "ReactJS",
+                "Microservices Architecture",
+                "Entity Framework",
+                "SQL/PostgreSQL",
+                "CI/CD pipelines",
+                "GitHub Actions",
+                "xUnit",
+                "Docker",
+                "Kubernetes",
+                "Agile/Scrum methodologies",
+                "Cloud-native solutions",
+                "Problem-solving skills",
+                "Leadership skills"
+            ],
+            "with_experience": [
+                ".NET Core (5+ years)",
+                "ReactJS (3+ years)",
+                "Azure Services",
+                "CI/CD pipelines",
+                "xUnit"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Akshay Kumar",
+        "email": "akshay.k@globalapplications.com",
+        "jd": "Hello, Trust this email finds you well. I am Akshay Kumar from Global Applications Solution, writing this email to share few exciting Job Opportunity with one of our premium clients. If you are interested, please share resume on my email \u2013 akshay.k@globalapplications.com To know more about Global Applications Solution, visit our website: https://www.globalapplications.com/ Job Title: .NET Core Lead Developer - Azure & ReactJSLocation: RemoteClient: AmeriCorpsDuration: 6 Months with possibility of extensionExperience: 10 Years or Above(Requires Active Public Trust Clearance Certification)Job Description:We are seeking an experienced .NET Core Tech Lead to drive the development of a cutting-edge portal application. The ideal candidate will have a strong background in .NET Core, Azure Services, and ReactJS, combined with a deep understanding of microservices architecture. As a Tech Lead, you will be responsible for guiding the development team, architecting solutions, and ensuring alignment with best practices in cloud-native deployments. Key Responsibilities:Lead the design and development of a scalable, cloud-based portal application utilizing .NET Core, ReactJS, and Azure Services.Architect and implement a microservices-based solution where services are designed around specific business capabilities, ensuring modularity, flexibility, and maintainability.Collaborate closely with product owners, business analysts, and other stakeholders to understand requirements and define technical solutions that meet business needs.Oversee the development and deployment processes, including the implementation of CI/CD pipelines using GitHub Actions for automated deployments to development and test environments.Maintain best practices in multi-repository management, ensuring each microservice has its own repository, and manage integration between services.Drive the development of unit tests using xUnit to ensure high-quality code.Promote the use of cloud-native best practices and Azure DevOps to ensure the solution is scalable, secure, and aligned with industry standards.Facilitate technical discussions, code reviews, and mentorship for junior developers to promote a collaborative and high-performing team environment.Manage data schema for each microservice, ensuring that services own their own data and implement the appropriate database schema design patterns (e.g., one schema per service).Troubleshoot and resolve issues related to performance, security, and other aspects of application health.Stay current with emerging technologies and provide recommendations for continuous improvements. Technical Skills and Qualifications:5+ years of experience in software development with a focus on .NET Core, C#, Entity Framework, and SQL/PostgreSQL.3+ years of experience with front-end development using ReactJS.Proven experience in architecting and deploying solutions using Azure Services, including but not limited to Azure Functions, Azure App Service, Azure Kubernetes Service (AKS), and Azure Cosmos DB.Solid understanding of Microservices Architecture, RESTful services, and API management.Expertise in building and maintaining CI/CD pipelines using GitHub Actions or other similar tools.Strong knowledge of software development best practices, including Test-Driven Development (TDD) using xUnit or equivalent testing frameworks.Experience managing multi-repo solutions and applying best practices for source control and version management.Familiarity with containerization and orchestration technologies like Docker and Kubernetes.Excellent problem-solving skills, with a focus on performance, scalability, and reliability.Effective communication and leadership skills, with the ability to articulate technical concepts to both technical and non-technical audiences.Preferred Qualifications:Experience working with cloud-native solutions and leveraging the latest in DevOps practices.Prior experience leading development teams and managing cross-functional collaboration.Familiarity with Agile/Scrum methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-10 15:47:08-05:00",
+        "unique_id": "19278d16d63163dc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

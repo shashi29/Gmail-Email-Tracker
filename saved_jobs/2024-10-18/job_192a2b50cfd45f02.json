@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Sr. Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "PySpark",
+                "ADF",
+                "SQL",
+                "ADLS",
+                "Microsoft Azure",
+                "Azure Databricks",
+                "Azure Synapse"
+            ],
+            "primary": [
+                "Azure Data Factory",
+                "Azure Databricks",
+                "CI/CD",
+                "GitHub Actions",
+                "Agile Methodology"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "PySpark",
+                "ADF",
+                "SQL",
+                "ADLS",
+                "Microsoft Azure",
+                "Azure Databricks",
+                "Azure Synapse",
+                "Azure Data Factory",
+                "CI/CD",
+                "GitHub Actions",
+                "Agile Methodology"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rahul Mishra",
+        "email": "rmishra@vyzeinc.com",
+        "jd": "From: Rahul Mishra, Vyzeinc rmishra@vyzeinc.com Reply to: rmishra@vyzeinc.com Sr. Data Engineer RemoteUSC/GCSkype JDthe top skills are Azure Data factory, Azure Databricks and Ci/CD. It is also critical that the candidate has some experience working for a large company on a supply chain focused project but the more supply chain experience they have the betterCandidates will also need to have some leadership capabilities such as collaboration and stakeholder communicationRequired Skills:\u2022 Technical skill:- Python, PySpark, ADF, SQL, ADLS, Microsoft Azure, Azure Databricks, Azure Synapse.\u2022 GitHub Actions: Familiarity with setting up and managing CI/CD pipelines using GitHub Actions, ensuring smooth and automated deployment processes.\u2022 Agile Methodology: Experience working in an Agile/Scrum environment, with a focus on iterative development, continuous feedback, and delivery.Qualifications:\u2022 Experience: Proven experience in a similar role, with a strong track record as Sr. Data Engineer and has helped/lead development teams in delivering high-quality data orchestration solutions with min 8+ years\u2019 experience. Best RegardsRahul Mishra US Technical Recruiter |Vyze Inc.E-Mail: rmishra@vyzeinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-18 21:21:41-05:00",
+        "unique_id": "192a2b50cfd45f02",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "Java Fullstack Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot"
+            ],
+            "primary": [
+                "REST APIs",
+                "Microservices",
+                "CI/CD",
+                "Jenkins",
+                "OpenShift"
+            ],
+            "secondary": [
+                "Unit Testing",
+                "Troubleshooting",
+                "Production Monitoring"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "REST APIs",
+                "Microservices",
+                "CI/CD",
+                "Jenkins",
+                "OpenShift",
+                "Unit Testing",
+                "Troubleshooting",
+                "Production Monitoring"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manasa Salla",
+        "email": "manasa.s@itechus.net",
+        "jd": "Hi...........Greetings, This is Manasa from ITech US Inc. Given below are the details of the position with one of our clients and was wondering if you would be interested or can recommend someone who would be interested in this job. Role: Java Full stack DeveloperLocation: Phoenix, AZ, Chicao IL (Need local ID proof)Duration: 12+ Months ContractVisa: H1B | Need passport number along with submissionNote : Not looking other location consutlants Role Description: . Develop and maintain REST APIs and Microservices using Spring Boot.2. Manage CI/CD pipelines with Jenkins3. Deploy and monitor services on OpenShift4. write and execute unit test case5. Troubleshoot and resolve issues in production environment6. work autonomously and ensure timely project delivery. Competencies: Digital : Spring Boot, Core Java",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:39:51-05:00",
+        "unique_id": "192bf52afcd3af96",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

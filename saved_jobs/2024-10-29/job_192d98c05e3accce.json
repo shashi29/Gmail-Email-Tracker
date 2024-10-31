@@ -1,0 +1,94 @@
+[
+    {
+        "company": "4 Serve",
+        "job_title": "Data Base Administrator",
+        "location": "Montgomery, AL, USA",
+        "full_location": {
+            "city": "Montgomery",
+            "state": "AL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s Degree in Computer Science, Information Systems, or other related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months contract to Hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MS SQL Server",
+                "Datawarehouse",
+                "MS Internet Information Services (IIS)",
+                "PowerBI",
+                "SSAS",
+                "SSIS",
+                "SQL report servers (SSRS)",
+                "SQL server encryption",
+                "backup & recovery",
+                "on-prem to cloud migration",
+                "Azure"
+            ],
+            "primary": [
+                "RedGate",
+                "Tableau",
+                "Idera Data Architect tools",
+                "PowerShell",
+                "database source control",
+                "continuous integration tools"
+            ],
+            "secondary": [
+                "strong problem-solving skills",
+                "good written and verbal communication skills",
+                "professionalism",
+                "Power BI capacity Admin",
+                "Snowflake",
+                "strong teamwork and interpersonal skills"
+            ],
+            "all": [
+                "MS SQL Server",
+                "Datawarehouse",
+                "MS Internet Information Services (IIS)",
+                "PowerBI",
+                "SSAS",
+                "SSIS",
+                "SQL report servers (SSRS)",
+                "SQL server encryption",
+                "backup & recovery",
+                "on-prem to cloud migration",
+                "Azure",
+                "RedGate",
+                "Tableau",
+                "Idera Data Architect tools",
+                "PowerShell",
+                "database source control",
+                "continuous integration tools",
+                "strong problem-solving skills",
+                "good written and verbal communication skills",
+                "professionalism",
+                "Power BI capacity Admin",
+                "Snowflake",
+                "strong teamwork and interpersonal skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "shyam",
+        "email": "shyam@4-serveinc.com",
+        "jd": "From: shyam, 4 serve shyam@4-serveinc.com Reply to: shyam@4-serveinc.com Data Base AdministratorMontgomery AL (Onsite from Day 1)12+ Months contract to HireUSC and GC Position DescriptionThe resource in this position will handle database administration for mission critical transactional and Datawarehouse SQL servers with a significant focus on continuous improvement and technology strategy. The resource manages and maintains all production and non-production databases; responsible for standards and design of physical data storage, maintenance, access and security administration; performs backup and recovery on Database Management Systems, configures database parameters, and prototype designs against logical data models, defines data repository requirements, data dictionaries and warehousing requirements. This position optimizes database access and allocates/re-allocates database resources for optimum configuration, database performance and cost. Additionally, this position will handle web administration for mission critical web servers with a significant focus on web applications\u2019 deployment ,connectivity and maintenance. This will include expert escalation for troubleshooting production issues, assists in development lifecycle, capacity management and strategy, operational standards and procedures, stabilization and optimization, performance tuning and monitoring, standards identification and compliance, continuous improvement, and security enhancement. The Database Administrator (DBA) in this position must have passion for data, databases, web applications, and bring expertise to help us deliver best in class data delivery solutions. Skills RequiredIntermediate professional level role. Supports multiple services and multiple databases of medium to high complexity (complexity defined by database size, technology used, systems feeds and interfaces) with multiple concurrent users, ensuring control, integrity and accessibility of data.Works on multiple projects as a project leader or sometimes as a project advisor.May coach more junior technical staff.Advanced knowledge in MS SQL Server and Datawarehouse, MS Internet Information Services (IIS), PowerBI and SSAS; advanced knowledge in creating, deploying, and monitoring SSIS packages; good knowledge on maintaining SQL report servers (SSRS)Good knowledge with SQL server encryption; familiar with industry-level best practices for Microsoft SQL Server security standards; expert knowledge on backup & recovery; expert knowledge of on-prem to cloud migration;Good knowledge of Azure, industry standard server hardware, operating systems, storage, virtualization, and networking technologies; familiar with PowerShell, database source control and continuous integration toolsFamiliar with RedGate, Tableau and Idera Data Architect tools; strong problem-solving skills and a commitment to getting things done right; eagerness to learn and help othersGood written and verbal communication skills and professionalism. Skills PreferredPower BI capacity Admin, connecting gateways to data sources, granting access permissions, creating workspaces, publishing Power BI reports and dashboards. Familiar with Snowflake; strong teamwork and interpersonal skills with the ability to communicate and persuade to all levels of management. Experience Required10+ years of experience in working as MS SQL Server database administrator and database internals, with strong focus in SQL Server 2016, 2019, and 202210+ years in SQL Server database performance tuning along with good understanding of indexing, execution plans, DMV, database storage, database problem identification, problem diagnosis and resolution8+ years writing scripts or using leading tools to monitor, perform backup & recovery, and maintenance automation; hands on experience in on-prem to cloud migration; hands on experience in creating and troubleshooting SSIS packages5+ years of experience in performing code5+ years of experience with MS Internet Information Services (IIS) with strong focus on server administration and web applications deployment. Experience Preferred5+ years of experience with creating SSIS packages. Education RequiredBachelor\u2019s Degree in Computer Science, Information Systems, or other related field. Education PreferredMicrosoft Certification in SQL Server Database Administration.",
+        "source": "Email",
+        "date_posted": "2024-10-29 11:36:39-05:00",
+        "unique_id": "192d98c05e3accce",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

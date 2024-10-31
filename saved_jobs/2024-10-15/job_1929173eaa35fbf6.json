@@ -1,0 +1,90 @@
+[
+    {
+        "company": "ICS Globalsoft",
+        "job_title": "Backend GCP Data engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data pipelines",
+                "Dataflow",
+                "Google Cloud Platform",
+                "Relational Database",
+                "Datawarehouse"
+            ],
+            "primary": [
+                "Composer",
+                "Airflow",
+                "Gradle",
+                "Maven",
+                "Jenkins",
+                "GitHub Actions",
+                "ETL products",
+                "Bulk Loads",
+                "Streaming load integration",
+                "BigQuery"
+            ],
+            "secondary": [
+                "Excellent communication skills",
+                "Collaboration",
+                "Security best practices"
+            ],
+            "all": [
+                "Data pipelines",
+                "Dataflow",
+                "Google Cloud Platform",
+                "Relational Database",
+                "Datawarehouse",
+                "Composer",
+                "Airflow",
+                "Gradle",
+                "Maven",
+                "Jenkins",
+                "GitHub Actions",
+                "ETL products",
+                "Bulk Loads",
+                "Streaming load integration",
+                "BigQuery",
+                "Excellent communication skills",
+                "Collaboration",
+                "Security best practices"
+            ],
+            "with_experience": [
+                "Data pipelines",
+                "Dataflow",
+                "Google Cloud Platform",
+                "Relational Database",
+                "Datawarehouse"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ram",
+        "email": "ram@icsglobalsoft.com",
+        "jd": "Hello ,Hope you are doing well.This is Ram from ICS Global Soft. Kindly find the below job description and let me know your availability. Role: Backend GCP Data engineer (need 12+ years consultans)Location: RemoteDuration: Long-term Technical SkillsOver All 3-5 years of professional experienceExperience developing Data pipelines using Dataflow. Integrate with Composer/Airflow or any scheduler Components.Build and deploy services using Gradle, Maven, Jenkins, GitHub Actions etc. as part of CI/CD processKnowledge of Data model of OLTP & Datawarehouse.Knowledge of ETL products and working on Structure and Unstructured data.Experience in Bulk Loads and any Streaming load integration is a plus.Experience working in Google Cloud Platform \u2013GCP knowledge is preferred for onshore but any one cloud knowledge is mandatoryExperience with any Relational Database (Spanner, Oracle, PostgreSQL etc.)Experience with Datawarehouse Databases \u2013 BigQuerySoft skillsDesigning, developing, and implementing custom software and database application capabilities with limited oversightExcellent communication skills \u2013 design-related conversations, ability to build and nurture good relationships and foster an environment for collaborationActing as a member of the team supporting teammates and collaborating with a do what it takes attitude to ensure project and team successResponsibilitiesBe part of a team of engineers in developing elegant and high performant codeEnsure quality practices \u2013 unit testing, code reviews / leading testsOptimize application for non-functional requirementsBuild and deploy components as part of CI/CD processWill be responsible for end-to-end application delivery including coordination with required teams for production deploymentContinuously monitors application health and KPIs (Key Performance Indicators), support triage of any production issues as and when neededCollaborate in troubleshooting complex data, features, service, platform issues and perform root cause analysis to proactively resolve product and operational issuesBe an advocate of security best practices, champion and support the importance of security within engineering",
+        "source": "Email",
+        "date_posted": "2024-10-15 12:13:59-05:00",
+        "unique_id": "1929173eaa35fbf6",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

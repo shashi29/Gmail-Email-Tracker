@@ -1,0 +1,51 @@
+[
+    {
+        "company": "kksoftwareassociates",
+        "job_title": "PL-SQL Developer",
+        "location": "Irvine, CA, USA",
+        "full_location": {
+            "city": "Irvine",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "AWS",
+                "Informatica"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "PL/SQL",
+                "AWS",
+                "Informatica"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bavana",
+        "email": "bavana.g@kksoftwareassociates.com",
+        "jd": "From: Bavana, kksoftwareassociates bavana.g@kksoftwareassociates.com Reply to: bavana.g@kksoftwareassociates.com Hi all,hope you are doing well,PLSQL,AWS,InformaticaDesirable Skills:Roles and Responsibilities:Database Design and Development:- Design and implement database structures, including tables, views, and indexes.- Develop PL/SQL procedures, functions, and packages to encapsulate business logic.Performance Tuning:- Optimize SQL queries and PL/SQL code for performance.- Analyze and resolve performance issues using tools like Oracle Explain Plan and SQL Trace.Data Manipulation:- Write complex SQL queries to retrieve, insert, update, and delete data.- Use PL/SQL to automate data processing tasks.Testing and Debugging:- Conduct unit testing of PL/SQL code to ensure functionality and reliability.- Debug and troubleshoot PL/SQL programs, identifying and fixing issues.Documentation:- Maintain comprehensive documentation of database designs, PL/SQL code, and procedures.- Create user manuals and technical documentation for future reference.Collaboration:- Work closely with database administrators, application developers, and business analysts to gather requirements.- Participate in code reviews and provide constructive feedback to peers.Maintenance and Support:- Monitor database performance and make recommendations for improvements.- Provide support for production issues and assist in system upgrades.Security Management:- Implement security measures to protect sensitive data and ensure compliance with regulations.- Manage user roles and permissions within the database.Integration:- Integrate with other systems and applications, ensuring smooth data flow and communication.- Use tools and technologies such as Oracle Forms, Oracle Reports, or APEX for front-end development.Continuous Learning:Stay updated with the latest Oracle technologies and PL/SQL features.Participate in training sessions and workshops to enhance skills.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:57:44-05:00",
+        "unique_id": "192b05aa309a963b",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

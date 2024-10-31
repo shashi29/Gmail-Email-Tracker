@@ -1,0 +1,73 @@
+[
+    {
+        "company": "VBeyond",
+        "job_title": "Pega LSA",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Pega LSA",
+                "cloud migration",
+                "Pega Cloud",
+                "Azure",
+                "Pega infrastructure management"
+            ],
+            "primary": [
+                "server maintenance",
+                "App Dynamics installation",
+                "Pega upgrades",
+                "performance patch installation"
+            ],
+            "secondary": [
+                "scheduling PDC connectivity",
+                "spinning up new servers",
+                "moving Pega applications to cloud"
+            ],
+            "all": [
+                "Pega LSA",
+                "cloud migration",
+                "Pega Cloud",
+                "Azure",
+                "Pega infrastructure management",
+                "server maintenance",
+                "App Dynamics installation",
+                "Pega upgrades",
+                "performance patch installation",
+                "scheduling PDC connectivity",
+                "spinning up new servers",
+                "moving Pega applications to cloud"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Arpit Yadav",
+        "email": "arpity@vbeyond.com",
+        "jd": "Hello Partners, Sharing with you the requirement with one of clients. Please share the relevant profiles on it. Job Title: Pega LSA Location: Irving Place, New York (Need local) Hybrid/Onsite Duration: Long term contract Job Description: Need someone similar; LSA, with cloud migration experience- Pega Cloud, Azure etc., experience in managing Pega on-premises infrastructure/deployments etc. Pega Infrastructure & deployment experience Experience managing On-premises Pega infrastructure, server maintenance etc. Experience spinning up new servers, installation of App Dynamics Scheduling PDC Connectivity Experience on Pega upgrades Experience moving Pega applications to cloud whether Pega Cloud or Azure Server maintenance, performance, and patch installation.",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:42:35-05:00",
+        "unique_id": "192ba9966fdec293",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "PEGA Developer"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "Java Full Stack Engineer",
+        "location": "Wilmington, DE, USA",
+        "full_location": {
+            "city": "Wilmington",
+            "state": "DE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "BS/BA degree or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Microservices",
+                "AWS",
+                "GKP SDK"
+            ],
+            "primary": [
+                "No-SQL databases",
+                "DynamoDB",
+                "MongoDB",
+                "Cassandra",
+                "Jenkins",
+                "Scrum agile methodology"
+            ],
+            "secondary": [
+                "Strong communication skills",
+                "Strong analytical skills",
+                "Problem-solving",
+                "Terraform"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Microservices",
+                "AWS",
+                "GKP SDK",
+                "No-SQL databases",
+                "DynamoDB",
+                "MongoDB",
+                "Cassandra",
+                "Jenkins",
+                "Scrum agile methodology",
+                "Strong communication skills",
+                "Strong analytical skills",
+                "Problem-solving",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjeev Kumar Singh",
+        "email": "sanjeev.singh@tekinspirations.com",
+        "jd": "From: Sanjeev Kumar Singh, Tek Inspirations LLC sanjeev.singh@tekinspirations.com Reply to: sanjeev.singh@tekinspirations.com Job Description Recruiters Note:- need Linkedin Title: Java Full Stack EngineerVisa: H4eadLocation: Onsite from Wilmington, DEDuration: 12+monthsMOI: skypeJob Description:\u2022 6+ years of software development experience\u2022 Proficiency in Java, Spring, Spring Boot, Microservices, AWS/GKP SDK, Invest API\u2022 No-SQL database experience is good to have - DynamoDB, MongoDB, Cassandra etc.\u2022 Build and deployment tools like Jules and Jenkins\u2022 Strong communication skills and experienced in delivering projects in Scrum agile methodology.\u2022 Strong Analytical skills and problem-solving\u2022 BS/BA degree or equivalent experienceJob Description/ Responsibilities\u2022 Involve in various phases of Software Development Life Cycle (SDLC) and work in a highly dynamic Agile environment\u2022 Design and develop software using Java, Spring, Spring Boot, Microservices, Invest API\u2022 Hands on experience AWS EKS or Google GKP/, Terraform\u2022 Troubleshoot, debug and upgrade software\u2022 Testing and fixing bugs or other coding issues\u2022 Adds value to team delivery and works with team to complete tasks to high quality and actively learns new skills.",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:28:31-05:00",
+        "unique_id": "192b11b9b5a29d24",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

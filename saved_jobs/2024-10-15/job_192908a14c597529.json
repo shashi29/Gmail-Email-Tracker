@@ -1,0 +1,83 @@
+[
+    {
+        "company": "UST/Applied Materials",
+        "job_title": "Azure ML Architect",
+        "location": "Santa Clara, CA, USA",
+        "full_location": {
+            "city": "Santa Clara",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hour"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Azure ML",
+                "Data Bricks",
+                "Natural Language Processing (NLP)",
+                "Microservices"
+            ],
+            "primary": [
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Azure Datalake",
+                "Delta Lake",
+                "Azure Synapse Analytics",
+                "PySpark",
+                "Scala",
+                "SQL",
+                "Docker",
+                "Kubernetes",
+                "Azure AI services",
+                "Azure OpenAI services"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Azure ML",
+                "Data Bricks",
+                "Natural Language Processing (NLP)",
+                "Microservices",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Azure Datalake",
+                "Delta Lake",
+                "Azure Synapse Analytics",
+                "PySpark",
+                "Scala",
+                "SQL",
+                "Docker",
+                "Kubernetes",
+                "Azure AI services",
+                "Azure OpenAI services"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "suganesh",
+        "email": "suganesh.s@i-q.co",
+        "jd": "From: suganesh, Infinity quest suganesh.s@i-q.co Reply to: suganesh.s@i-q.co Azure ML ArchitectSanta Clara, CA55/hr. on C2C UST/Applied Materials Must Have SkillsSkill 1 \u2013 Strong programming skills in PythonSkill 2 \u2013 Hands-on experience on design, and optimizing LLM, natural language processing (NLP) systems, frameworks, and toolsSkill 3 \u2013 Building RAG application independently using available open source LLM models. data bricks and Azure ML architect for their client. Successful candidate will have hands-on experience on design, and optimizing LLM, natural language processing (NLP) systems, frameworks, and tools. Skills and Responsibilities \u2022 Experience in designing and implementing scalable and secure Azure cloud solutions using Data Bricks ML platform. \u2022 Model development , deployment and job scheduling using unstructured data. \u2022 Certification in databricks ML \u2022 Expert level in Designing and Architect solutions in Azure Data factory, Azure Databricks, Azure Datalake, Delta Lake and Azure synapse analytics implementation. \u2022 Experience in Azure cloud technologies like PySpark, Synapse, ADF, Databricks, Python, Scala and SQL. \u2022 Have good experience configuring Microservices using Docker, Kubernetes on Azure Data Bricks \u2022 Extensive Experience on working on Azure AI services including Data Bricks and Azure cognitive services \u2022 Highly preferred experience on working with Azure OpenAI services \u2022 Hands-on experience on design, and optimizing LLM, natural language processing (NLP) systems, frameworks, and tools",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:39:17-05:00",
+        "unique_id": "192908a14c597529",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

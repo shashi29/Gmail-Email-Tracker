@@ -1,0 +1,119 @@
+[
+    {
+        "company": "Vyzeinc",
+        "job_title": "AI Java Developer - Public Safety Product",
+        "location": "Boca Raton, FL, USA",
+        "full_location": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months (Potential to extend or convert to Full-Time)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 11+",
+                "Spring Boot 3+",
+                "Spring AI framework",
+                "SQL databases",
+                "NoSQL databases",
+                "vector databases",
+                "AI ETL pipelines"
+            ],
+            "primary": [
+                "Python",
+                "SQL Server",
+                "MySQL",
+                "MongoDB",
+                "Elasticsearch",
+                "Azure AI Services",
+                "Neo4J",
+                "data structures",
+                "algorithms",
+                "software design principles",
+                "JUnit",
+                "Mockito",
+                "Postman",
+                "SOAP UI",
+                "Gradle",
+                "Maven",
+                "Git",
+                "Linux OS",
+                "Docker",
+                "Kubernetes",
+                "Azure",
+                "AWS",
+                "cybersecurity best practices",
+                "Agile development methodologies",
+                "communication",
+                "team collaboration"
+            ],
+            "secondary": [],
+            "all": [
+                "Java 11+",
+                "Spring Boot 3+",
+                "Spring AI framework",
+                "SQL databases",
+                "NoSQL databases",
+                "vector databases",
+                "AI ETL pipelines",
+                "Python",
+                "SQL Server",
+                "MySQL",
+                "MongoDB",
+                "Elasticsearch",
+                "Azure AI Services",
+                "Neo4J",
+                "data structures",
+                "algorithms",
+                "software design principles",
+                "JUnit",
+                "Mockito",
+                "Postman",
+                "SOAP UI",
+                "Gradle",
+                "Maven",
+                "Git",
+                "Linux OS",
+                "Docker",
+                "Kubernetes",
+                "Azure",
+                "AWS",
+                "cybersecurity best practices",
+                "Agile development methodologies",
+                "communication",
+                "team collaboration"
+            ],
+            "with_experience": [
+                "Java (5+ years)",
+                "Spring Boot",
+                "AI ETL pipelines"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Roshan",
+        "email": "roshan@vyzeinc.com",
+        "jd": "From: Roshan, Vyzeinc roshan@vyzeinc.com Reply to: roshan@vyzeinc.com Job Title: AI Java Developer - Public Safety ProductLocation: Boca Raton, FL (Remote option available; preference for local or relocate)Duration: 6 Months (Potential to extend or convert to Full-Time)LinkedIn: Required (with picture)Interview Process:1st Round: 30-minute initial interview with a brief coding exercise.2nd Round: 1-hour deep dive technical interview and screening.Optional 3rd Round: Additional coding exercise if required.About the Role:Join us on a mission to build advanced public safety solutions that help prevent and solve crimes through analytics, visualization, and AI-driven insights. As an AI Java Developer, you will be a critical contributor to our next-generation platform, delivering performant and reliable applications to empower public safety professionals with actionable insights.Key Responsibilities:Design, develop, and maintain AI-driven applications and services using Java.Implement and manage vector databases to support AI models and enable data retrieval.Build search capabilities and orchestrate data using vector databases.Develop and optimize ETL pipelines to ensure seamless data processing and integration.Collaborate with data scientists to integrate AI models into production systems.Ensure the scalability, reliability, and performance of AI services.Implement data preprocessing and feature engineering to enhance AI model outcomes.Monitor and troubleshoot AI systems to maintain optimal performance.Stay up-to-date with advancements in AI, machine learning, and data engineering technologies.Report progress regularly against assigned tasks.Required Qualifications:Bachelor\u2019s degree in Computer Science or a related field.5+ years of experience with Java (preferred) or Python, focusing on AI and data engineering projects.Proficiency with Java 11+, Spring Boot 3+, and Spring AI framework.Experience with SQL databases (SQL Server, MySQL) and NoSQL databases (MongoDB, Elasticsearch).Hands-on experience building vector databases (e.g., Azure AI Services, Elasticsearch, Neo4J).Understanding of RAG retrieval methods and best practices.Expertise in designing and implementing AI ETL pipelines.Strong grasp of data structures, algorithms, and software design principles.Proficiency with JUnit, Mockito, Postman, and SOAP UI for unit and integration testing.Experience with Gradle (preferred) or Maven, and Git for version control.Familiarity with Linux OS and hands-on experience building Docker images.Experience deploying services using Kubernetes (services, ingress, config maps, secrets).Expertise in Azure or AWS cloud environments.Knowledge of cybersecurity best practices.Strong problem-solving skills and attention to detail.Experience working within Agile development methodologies.Excellent communication and team collaboration abilities.",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:37:41-05:00",
+        "unique_id": "192b9f50d9cdb66a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

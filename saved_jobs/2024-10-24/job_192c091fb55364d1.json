@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Infosys",
+        "job_title": "Oracle DBA with Golden Gate",
+        "location": "Richardson, TX, USA",
+        "full_location": {
+            "city": "Richardson",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle DBA",
+                "Oracle Golden Gate",
+                "MySQL",
+                "Cassandra",
+                "RMAN",
+                "Data Pump"
+            ],
+            "primary": [
+                "Database tuning",
+                "Performance Tuning",
+                "Unix shell scripting",
+                "Disaster recovery planning"
+            ],
+            "secondary": [
+                "Master-slave replication",
+                "Automatic failover",
+                "Database documentation",
+                "Database audits",
+                "Data migration",
+                "SQL*Loader",
+                "Oracle Cloud Infrastructure Architect Professional"
+            ],
+            "all": [
+                "Oracle DBA",
+                "Oracle Golden Gate",
+                "MySQL",
+                "Cassandra",
+                "RMAN",
+                "Data Pump",
+                "Database tuning",
+                "Performance Tuning",
+                "Unix shell scripting",
+                "Disaster recovery planning",
+                "Master-slave replication",
+                "Automatic failover",
+                "Database documentation",
+                "Database audits",
+                "Data migration",
+                "SQL*Loader",
+                "Oracle Cloud Infrastructure Architect Professional"
+            ],
+            "with_experience": [
+                "Oracle DBA (10+ years)",
+                "Oracle Golden Gate",
+                "MySQL",
+                "Cassandra"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Azhar Mohammad",
+        "email": "azhar@softcomsystems.com",
+        "jd": "Hello Professionals,This Azhar Mohammad from Softcom Systems INC.I have a below Job Opportunity if you have any Consultants Please let me know\u2026!! Job Title: Oracle DBA with Golden Gate ExpLocation Richardson, TX 75082 (Hybrid work model with 3 days from office in a week)Duration: 6 Months Job Description:\u2022 Install, configure, and maintain Oracle Golden Gate for real-time data replication across heterogeneous databases.\u2022 Hands on 10+ years\u2019 experience on Oracle DBA skills\u2022 Experience on MySQL, Cassandra\u2022 Experience setting up master-slave replication and configured automatic failover in MySQL to ensure data availability\u2022 Managed and monitored Oracle RAC environments, ensuring high availability and performance.\u2022 Implement backup and recovery strategies using RMAN and Data Pump.\u2022 Experience on Optimized Cassandra data partitioning and replication strategies\u2022 Perform database tuning and optimization to achieve zero lag times in Golden Gate processes.\u2022 Develop and maintain database documentation, including schemas, procedures, and best practices.\u2022 Collaborate with development and operations teams to ensure seamless integration and performance of database systems.\u2022 Conduct regular database audits and health checks to ensure optimal performance and security.\u2022 Perform data migration and transformation tasks using Data Pump and SQL*Loader.\u2022 Develop and implemented disaster recovery plans to ensure data integrity and availability.\u2022 Proficient in below tools\u2022 Backup & Recovery: RMAN, Data Pump, Export/Import\u2022 Performance Tuning: AWR, ASH, SQL Tuning\u2022 Tools & Utilities: OEM, Grid Control, SQL*Loader\u2022 Unix shell scripting and the ability to automate routine tasks\u2022 Certifications preferred: Oracle Cloud Infrastructure Architect Professional.",
+        "source": "Email",
+        "date_posted": "2024-10-24 16:32:14-05:00",
+        "unique_id": "192c091fb55364d1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

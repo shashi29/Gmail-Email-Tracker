@@ -1,0 +1,106 @@
+[
+    {
+        "company": "Mobcoder Staffing",
+        "job_title": "Java Developer",
+        "location": "Halifax, NS, Canada",
+        "full_location": {
+            "city": "Halifax",
+            "state": "NS",
+            "country": "Canada"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Restful APIs",
+                "SOAP",
+                "JSON",
+                "XML",
+                "Spring Framework",
+                "API design",
+                "Test Driven Development"
+            ],
+            "primary": [
+                "Asynchronous messaging technology",
+                "Kafka",
+                "Dell Boomi",
+                "API management tools",
+                "Postman",
+                "Swagger",
+                "Excellent communication skills"
+            ],
+            "secondary": [
+                "Azure Storage",
+                "Azure Relation Databases",
+                "Key vault",
+                "Agile development methods",
+                "DevOps",
+                "Continuous integration",
+                "GitHub",
+                "Jenkins",
+                "Nexus",
+                "JIRA",
+                "Confluence",
+                "Ansible",
+                "SonarQube",
+                "Checkmarx"
+            ],
+            "all": [
+                "Java",
+                "Restful APIs",
+                "SOAP",
+                "JSON",
+                "XML",
+                "Spring Framework",
+                "API design",
+                "Test Driven Development",
+                "Asynchronous messaging technology",
+                "Kafka",
+                "Dell Boomi",
+                "API management tools",
+                "Postman",
+                "Swagger",
+                "Excellent communication skills",
+                "Azure Storage",
+                "Azure Relation Databases",
+                "Key vault",
+                "Agile development methods",
+                "DevOps",
+                "Continuous integration",
+                "GitHub",
+                "Jenkins",
+                "Nexus",
+                "JIRA",
+                "Confluence",
+                "Ansible",
+                "SonarQube",
+                "Checkmarx"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sushil Kaushik",
+        "email": "sushil.k@mobcoderstaffing.com",
+        "jd": "From: sushil, mobcoderstaffing sushil.k@mobcoderstaffing.com Reply to: sushil.k@mobcoderstaffing.com Hi Please share the resume on sushil.k@mobcoderstaffing.comPosition : Java DeveloperLocation : Halifax, Canada (3 days a week onsite)Job type : contract JD-Must-have - 5+ years of proven experience in designing and documenting API\u2019s and integration solutions in customer facing environment in JAVA.- Strong understanding of Restful API\u2019s, SOAP, JSON, XML- Strong knowledge of Java Stream and Functional Programming - Strong advocate of test driven development for ALL API\u2019s built.- Experience with asynchronous messaging technology - Proficiency with integration platforms (eg: Kafka, Dell Boomi,) and API management tools (Postman/Swagger etc).- 5+ years\u2019 hands on experience in designing and developing applications from scratch using Spring framework- Excellent communication skills both written and verbal with ability to convey technical concepts to non-technical stakeholders and vice versa. Nice-to-have - Knowledge with Azure Storage, Azure Relation Databases, Key vault - Experience with \u2018Agile\u2019 style development methods - DevOps experience with continuous integration/delivery best-practices, technologies and tools such as GitHub, Jenkins, Nexus, JIRA, Confluence, Ansible, SonarQube, Checkmarx Wishing you a great day ahead !!! Thanks and RegardsSushil Kaushik",
+        "source": "Email",
+        "date_posted": "2024-10-11 14:03:20-05:00",
+        "unique_id": "1927d682d33169c4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

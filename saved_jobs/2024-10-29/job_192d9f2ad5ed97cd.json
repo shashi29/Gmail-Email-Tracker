@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Amber IT Staffing",
+        "job_title": "Data Engineer/Java",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12-month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Kafka",
+                "MongoDB",
+                "OpenShift",
+                "AWS",
+                "Java"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Pipelines",
+                "Springboot"
+            ],
+            "secondary": [],
+            "all": [
+                "Kafka",
+                "MongoDB",
+                "OpenShift",
+                "AWS",
+                "Java",
+                "Data Engineering",
+                "Data Pipelines",
+                "Springboot"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rashika Kashyap",
+        "email": "rashika.k@amberitstaffing.com",
+        "jd": "From: Rashika kashyap, Amber IT Staffing rashika.k@amberitstaffing.com Reply to: rashika.k@amberitstaffing.com Hi Partner\u2019s, I have very urgent position on Data Engineer/Java Role- Data Engineer/JavaLocation-Phoenix, AZ- OnsiteDuration-12-month contract Data Engineer/Java with expertise in Kafka, MongoDB, OpenShift (AWS). The ideal candidate will be responsible for designing, building, and maintaining robust data pipelines, ensuring the efficient flow of data across various systems. You will work closely with data scientists, analysts, and other stakeholders to optimize data processing and storage solutions.Key Responsibilities:\u2022 Design and implement scalable data pipelines using Kafka for real-time data ingestion and processing.\u2022 Manage and optimize MongoDB databases, ensuring high availability and performance.\u2022 Develop containerized Springboot/Java applications and deploy them using OpenShift for streamlined operations.\u2022 Utilize AWS services (e.g., S3, Redshift) for data storage, processing, and analysis.\u2022 Collaborate with cross-functional teams to gather requirements and deliver data solutions that meet business needs.\u2022 Monitor and troubleshoot data pipeline performance, implementing improvements, as necessary.",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:48:35-05:00",
+        "unique_id": "192d9f2ad5ed97cd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

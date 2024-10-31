@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Rwaltz",
+        "job_title": "Full Stack E-Commerce Architect",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "ATG",
+                "CMS"
+            ],
+            "primary": [
+                "E-commerce",
+                "Contentful",
+                "Content Stack"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "ATG",
+                "CMS",
+                "E-commerce",
+                "Contentful",
+                "Content Stack"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Paul Rwaltz",
+        "email": "paul@rwaltz.com",
+        "jd": "From: Paul, Rwaltz paul@rwaltz.com Reply to: paul@rwaltz.com Position: Full Stack E-Commerce Architect (Ecommerce/Retail Domain Experience)Contract Type: Long ContractLocation: San Francisco, CA (3 Days Hybrid per Week Onsite) Description:\u2022 It\u2019s a senior architect role. Hybrid\u20143 days per week onsite would be fine.Must Have Skills:\u2022 Java expertise along with some ATG/e-commerce tools and any CMS experience is a must.\u2022 Contentful or Content Stack would be the top preference for CMS, but we are fine with any other CMS experience as well.\u2022 3 days per week for onsite is mandatory.\u2022 Must be a hands-on architect who can code as well when required.",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:52:27-05:00",
+        "unique_id": "192d9f6380ab8bdd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "company": "SIRI INFO",
+        "job_title": "Full-Stack Software Engineers",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "$50/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "SQL"
+            ],
+            "primary": [
+                "Angular",
+                "Typescript",
+                "Blazor",
+                "cloud-native applications",
+                "APIs",
+                "SQL Server",
+                "T-SQL"
+            ],
+            "secondary": [
+                "software design",
+                "documentation",
+                "cloud migrations",
+                "containers"
+            ],
+            "all": [
+                "C#",
+                "SQL",
+                "Angular",
+                "Typescript",
+                "Blazor",
+                "cloud-native applications",
+                "APIs",
+                "SQL Server",
+                "T-SQL",
+                "software design",
+                "documentation",
+                "cloud migrations",
+                "containers"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Danish Iqbal",
+        "email": "danish.iqbal@siriinfo.com",
+        "jd": "From: Danish Iqbal, siri Info Solutions Inc danish.iqbal@siriinfo.com Reply to: danish.iqbal@siriinfo.com Hello Dear,Hope You\u2019re Doing Well!!My name is Danish Iqbal and I am a Staffing Specialist at SIRI INFO. I am reaching out to you on an exciting job opportunity with one of our clients.Job Title: Full-Stack Software EngineersJob Location: RemoteJob Duration: Contract Visa:-HIBRate:- $50/hr on C2C Experience: 6+ years in .NET developmentSkills: Proficient in C# and SQL3+ years of experience in building cloud-native applicationsSoftware design and documentation skills a plus. Responsibilities: Front-End: Develop responsive web interfaces using modern frameworks and libraries, including Angular, Typescript and Blazor.Ensure cross-browser compatibility and optimize for performanceCollaborate with UX/UI designers to implement user-friendly featuresMaintain and improve existing front-end codebasesBack-End: Design and implement robust APIs and background services using .NETManage and optimize SQL Server database schemas and T-SQL queriesIntegrate third-party services and APIsExperience with cloud migrations and containers a plus.General: Collaborate with cross-functional teams to define, design, and ship new featuresEnsure the performance, quality, and responsiveness of applicationsIdentify and correct bottlenecks and fix bugsHelp maintain code quality, organization, and automation",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:07:05-05:00",
+        "unique_id": "19290d8ccaeecf66",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

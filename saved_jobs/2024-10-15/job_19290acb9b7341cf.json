@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Smart IT Frame LLC",
+        "job_title": "Sr. Snowflake Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Spark SQL",
+                "SQL Server",
+                "ETL",
+                "AWS",
+                "Kafka",
+                "CI/CD",
+                "Azure"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Snowflake",
+                "Spark SQL",
+                "SQL Server",
+                "ETL",
+                "AWS",
+                "Kafka",
+                "CI/CD",
+                "Azure"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kathiresan",
+        "email": "kathiresan@smartitframe.com",
+        "jd": "From: Kathiresan, Smart IT kathiresan@smartitframe.com Reply to: kathiresan@smartitframe.com Hi ,Greetings!My name is Kathiresan, and I'm with Smart IT Frame LLC. We're currently seeking to hire a Sr. Snowflake Data EngineerPlease find the job description below. If you're interested, I would appreciate it if you could share your updated resume with me. Additionally, let me know a convenient time for us to discuss the details further.Looking forward to your response Role: Sr. Snowflake Data EngineerLocation: RemoteType: Contract Mandatory Skills: SnowflakeSpark SQLSQL Server (Stored Procs, SQL\u2019s, etc.)ETLAWS (Hadoop, Postgres SQL)Streaming Platforms (Kafka)CI/CDAzureJob Description:Data engineers should be proficient in Snowflake, with experience in designing and implementing solutions in a Big Data Environment. The Data Engineer's role involves building the necessary infrastructure for efficient extraction, transformation, and loading of data from various sources using SQL, Azure, and Snowflake big data technologies. Additionally, the Data Engineer is responsible for identifying, designing, and implementing internal process improvements, such as automating manual processes, optimizing data delivery, and re-designing infrastructure for improved scalability. Thanks and RegardsKathiresan GTalent Acquisition GroupEmail: kathiresan@smartitframe.com",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:53:17-05:00",
+        "unique_id": "19290acb9b7341cf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

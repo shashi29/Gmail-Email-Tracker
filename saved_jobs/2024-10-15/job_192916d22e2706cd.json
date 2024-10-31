@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Heliogic LLC",
+        "job_title": "Data Architect",
+        "location": "Alameda, CA, USA",
+        "full_location": {
+            "city": "Alameda",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Cloud data platform",
+                "Machine Learning",
+                "Data Lifecycle Management",
+                "Data Governance",
+                "Infrastructure as Code"
+            ],
+            "primary": [
+                "DBT",
+                "Airflow",
+                "S3",
+                "Athena",
+                "Glue",
+                "RDS",
+                "SQL"
+            ],
+            "secondary": [
+                "Terraform",
+                "GitHub",
+                "CI/CD",
+                "Data Mesh",
+                "Data Fabric"
+            ],
+            "all": [
+                "Cloud data platform",
+                "Machine Learning",
+                "Data Lifecycle Management",
+                "Data Governance",
+                "Infrastructure as Code",
+                "DBT",
+                "Airflow",
+                "S3",
+                "Athena",
+                "Glue",
+                "RDS",
+                "SQL",
+                "Terraform",
+                "GitHub",
+                "CI/CD",
+                "Data Mesh",
+                "Data Fabric"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ben",
+        "email": "ben@heliogic.com",
+        "jd": "From: Ben, Heliogic LLC ben@heliogic.com Reply to: ben@heliogic.com Role: Data Architect (Only Local)Location : Alameda, CA 94502 (Onsite)Key ResponsibilitiesDevelop Architecture, high-level design for enhancing Cloud data platform capabilities in the areas like Machine Learning (ML), Data Lifecycle Management with focus on Data Archival, Data Governance utilities and best practicesDevelop prototypes for new & complex use cases in data engineering using tools like DBT, Airflow, S3, Athena, Glue, RDS by leveraging engineering best practices like Infrastructure as Code, SQL as codeWork with data engineering teams to identify opportunities for improving developer efficiency, implementing data security & data quality measuresWork with data governance teams across various functions to define data security policies, data governance processes and utilitiesContinuously refine data lake architecture on AWS for cost efficiency, enhanced security, user experience, resiliency, and alignment with industry best practices Skills & ExperienceWorked on Infrastructure as code tools such as Terraform, Used GitHub tool as infra pipeline and for CI/CDExperience in building custom applications, search portals, monitoring & observability solutions using AWS Cloud Native technology stackKnowledge of Data Mesh / Data Fabric with exposure to various architecture frameworks",
+        "source": "Email",
+        "date_posted": "2024-10-15 12:49:26-05:00",
+        "unique_id": "192916d22e2706cd",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

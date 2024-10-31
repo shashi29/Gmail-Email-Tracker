@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Yochana IT Solutions",
+        "job_title": "AWS GLUE Lead Data Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Pyspark",
+                "Glue",
+                "AWS",
+                "Snowflake"
+            ],
+            "primary": [
+                "Lambda",
+                "Airflow",
+                "Cloud formation",
+                "Informatica",
+                "ETL"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Pyspark",
+                "Glue",
+                "AWS",
+                "Snowflake",
+                "Lambda",
+                "Airflow",
+                "Cloud formation",
+                "Informatica",
+                "ETL"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pavan Kumar",
+        "email": "pavank@yochana.com",
+        "jd": "Hi, This is Pavan from Yochana IT Solutions, I Recently found your resume in one of our Job portal and We are looking for \u201cAWS GLUE Lead Data Engineer, Chicago, IL//Charlotte, NC(Onsite)\u201d with one of our client, I have included the job information below, If you are interested, please share your updated resume.Job Description:Python/Pyspark scriptingGlue / lambdaSnowflake (sql, stored procs)Airflow or equivalent orchestrationAWS Cloud formationInformatica / ETL",
+        "source": "Email",
+        "date_posted": "2024-10-10 08:51:06-05:00",
+        "unique_id": "19276dce25c1fd50",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

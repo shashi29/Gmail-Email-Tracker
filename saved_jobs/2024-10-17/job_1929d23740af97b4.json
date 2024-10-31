@@ -1,0 +1,68 @@
+[
+    {
+        "company": "the church of Jesus Christ of latter-day Saints",
+        "job_title": "DataBase Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$90/hour"
+        },
+        "skills": {
+            "core": [
+                "ANSI SQL",
+                "3NF",
+                "PL/SQL"
+            ],
+            "primary": [
+                "left joins",
+                "common table expressions (CTE)",
+                "RDS objects",
+                "views",
+                "materialized views",
+                "triggers",
+                "packages"
+            ],
+            "secondary": [],
+            "all": [
+                "ANSI SQL",
+                "3NF",
+                "PL/SQL",
+                "left joins",
+                "common table expressions (CTE)",
+                "RDS objects",
+                "views",
+                "materialized views",
+                "triggers",
+                "packages"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "ashish",
+        "email": "ashish@pinakastaffing.com",
+        "jd": "From: ashish, Pinakastaffing ashish@pinakastaffing.com Reply to: ashish@pinakastaffing.com 100%remoteRate:- $90/hour on c2cClient:- the church of Jesus Christ of latter-day SaintsDatabase Engineer that has experience in the following areas.Ability to model in third normal form (3NF). If they are experienced in 3NF, they will have little problem coming up to speed on our data models.Ability to write queries against the data model using ANSI SQL, especially proficient with left joins and common table expressions (CTE).Basic understanding of RDS objects (including views, materialized views, triggers, packages, etc.).Basic PL/SQL skill. They should be very skilled in SQL, but our PL/SQL is fairly basic.",
+        "source": "Email",
+        "date_posted": "2024-10-17 16:59:41-05:00",
+        "unique_id": "1929d23740af97b4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

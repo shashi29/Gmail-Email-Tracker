@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Softcom Systems Inc",
+        "job_title": "Web Backend Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "7+ years",
+            "degree_required": "Preferably a BS or MS degree in computer science, computer engineering, or other technical discipline.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hour"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Reactive Programming using RxJava",
+                "Vert.x",
+                "RESTful APIs",
+                "NoSQL DBs"
+            ],
+            "primary": [
+                "Kotlin",
+                "Web technologies",
+                "React",
+                "JavaScript Frameworks",
+                "HTML5",
+                "CSS3"
+            ],
+            "secondary": [
+                "Agile",
+                "Scrum",
+                "AgileXP",
+                "Test-Driven Development",
+                "Waterfall"
+            ],
+            "all": [
+                "Java",
+                "Reactive Programming using RxJava",
+                "Vert.x",
+                "RESTful APIs",
+                "NoSQL DBs",
+                "Kotlin",
+                "Web technologies",
+                "React",
+                "JavaScript Frameworks",
+                "HTML5",
+                "CSS3",
+                "Agile",
+                "Scrum",
+                "AgileXP",
+                "Test-Driven Development",
+                "Waterfall"
+            ],
+            "with_experience": [
+                "Java (6+ years)",
+                "Reactive Programming using RxJava",
+                "Vert.x",
+                "RESTful APIs",
+                "NoSQL DBs"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Raj",
+        "email": "raj@softcomsystems.com",
+        "jd": "Responsibilities Performs hands-on architecture, design, and development of systems. Identifying opportunities for adopting new technologies. Work with Staff Engineer to define solution requirements and technical implementation approach. Drive both high-level and detailed technical designs and conduct design reviews as needed. Actively participate in team and company-wide architecture and engineering discussions and forums. Analyze, design, program, debug, and modify software for use in local, networked, cloud-based or Internet-related environments. Responsible for health and quality of the code across the portfolio, including leadership over SCM, functional testing, and CI/CD tool integration. Qualifications: Preferably a BS or MS degree in computer science, computer engineering, or other technical discipline. 7+ years of software development experience. Ability to effectively interpret technical and business objectives and challenges and articulate solutions. Willingness to learn new technologies and exploit them to their optimal potential. Skilled in the delivery methodology used by the team (Agile, Scrum, AgileXP, Test-Driven Development, Waterfall, etc.). Active engineering experience in a complex environment with ability to deal with ambiguous/under-defined problems. Expertise in building fault-tolerant, scalable solutions that are performed at a global enterprise scale. 6+ Years of experience with Java, Reactive Programming using RxJava, Vert.x. 5+ Expertise with integrating RESTful APIs. Experience working with database technologies including NoSQL DBs. Experience with Kotlin programming language. Experience with Web technologies like React, JavaScript Frameworks, HTML5, CSS3 is a plus. Past working experiences with other languages are a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-15 14:46:40-05:00",
+        "unique_id": "19291d875cde4307",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

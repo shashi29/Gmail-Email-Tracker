@@ -1,0 +1,68 @@
+[
+    {
+        "company": "1st-Recruit LLC",
+        "job_title": "Senior GCP Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Python",
+                "Hadoop",
+                "Spark",
+                "Cloud"
+            ],
+            "primary": [
+                "Scala",
+                "Streaming (pub/sub)",
+                "Kafka",
+                "SQL",
+                "data proc",
+                "data flow"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Python",
+                "Hadoop",
+                "Spark",
+                "Cloud",
+                "Scala",
+                "Streaming (pub/sub)",
+                "Kafka",
+                "SQL",
+                "data proc",
+                "data flow"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sapna",
+        "email": "sapna@1st-recruit.com",
+        "jd": "From: Sapna, 1st-Recruit LLC sapna@1st-recruit.com Reply to: sapna@1st-recruit.com Senior GCP Data EngineerREMOTEGCP, Python, Hadoop, Spark, Cloud, Scala, Streaming (pub/sub), Kafka, SQL, data proc, data flow",
+        "source": "Email",
+        "date_posted": "2024-10-25 12:55:26-05:00",
+        "unique_id": "192c4f1cebf5f726",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

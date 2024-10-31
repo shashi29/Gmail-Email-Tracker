@@ -1,0 +1,58 @@
+[
+    {
+        "company": "HCL America",
+        "job_title": "Java Lead developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract To Hire",
+            "rate": "$45/hr on W2 or $55/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "Java 8",
+                "Springboot",
+                "Microservices"
+            ],
+            "primary": [
+                "MongoDB",
+                "Kafka"
+            ],
+            "secondary": [],
+            "all": [
+                "Java 8",
+                "Springboot",
+                "Microservices",
+                "MongoDB",
+                "Kafka"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nora West",
+        "email": "nora.west@w3global.com",
+        "jd": "Hello, Location \u2013 Phoenix, AZ-CTHRole: Java Lead developerRate: $45/hr on W2 or $55/hr on C2C Skills: Java 8, Springboot and Microservices, MongoDB, KafkaRole: Sr Software engineer (8+ years of experience)(1.) To be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity.(2.) To conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization , implementation of best practices and coding standards to ensure succeful delivery of complex projects.(3.) To ensure process compliance in the assigned module, and participate in technical discussionsorreview as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations).(4.) To collaborate with stakeholders to define project scope, objectives, deliverables and accordingly prepare and submit status reports for minimizing exposure and closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-25 12:49:44-05:00",
+        "unique_id": "192c53c10087d3ad",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Siri InfoSolutions Inc",
+        "job_title": "Technical Data Architect",
+        "location": "Oakland, CA, USA",
+        "full_location": {
+            "city": "Oakland",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10 & Above",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract to Hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks workflows",
+                "APIs",
+                "Data Engineering"
+            ],
+            "primary": [
+                "Microsoft Azure",
+                "Databricks"
+            ],
+            "secondary": [],
+            "all": [
+                "Databricks workflows",
+                "APIs",
+                "Data Engineering",
+                "Microsoft Azure",
+                "Databricks"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Navneet Jha",
+        "email": "navneet.jha@siriinfo.com",
+        "jd": "Hello, My Name is Navneet Jha. I am reaching out to you today because we have your resume in our database and wanted to check if you are currently available in the market actively looking for an opportunity. Please see the below mentioned requirement and I believe you would be a good match for the role. I would appreciate if you could respond with your updated resume along with the good time to speak so we can move forward with the process. Role: Technical Data ArchitectLocation: Oakland, CA- onsiteDuration: Contract to HireMode: VideoJob Details: Role name: Role Description: Data processing scheduling and management, in particular ETL.Generating dashboards and visualizations.Managing security, governance, high availability, and disaster recovery.Data discovery, annotation, and exploration.Competencies: Digital : Microsoft Azure, Digital : DatabricksExperience (Years): 10 & AboveEssential Skills: Databricks workflows, APIs, and Data Engineering.",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:31:05-05:00",
+        "unique_id": "192afd87a060ff45",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

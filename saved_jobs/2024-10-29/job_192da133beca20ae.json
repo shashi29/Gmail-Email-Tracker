@@ -1,0 +1,103 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": "Lead Software Engineer",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "React",
+                "Node.JS",
+                "Database Experience"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Git",
+                "Docker",
+                "DevOps tools",
+                "Design Patterns",
+                "Security Best Practices",
+                "Python",
+                "Groovy",
+                "Cloud native applications",
+                "AWS",
+                "API Gateway",
+                "R53",
+                "EC2",
+                "ECS",
+                "ECR",
+                "IoT",
+                "CFTs",
+                "CloudWatch",
+                "RDS",
+                "DynamoDB",
+                "SNS",
+                "SQS",
+                "Lambda",
+                "S3"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "React",
+                "Node.JS",
+                "Database Experience",
+                "Spring Boot",
+                "Git",
+                "Docker",
+                "DevOps tools",
+                "Design Patterns",
+                "Security Best Practices",
+                "Python",
+                "Groovy",
+                "Cloud native applications",
+                "AWS",
+                "API Gateway",
+                "R53",
+                "EC2",
+                "ECS",
+                "ECR",
+                "IoT",
+                "CFTs",
+                "CloudWatch",
+                "RDS",
+                "DynamoDB",
+                "SNS",
+                "SQS",
+                "Lambda",
+                "S3"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dimiour Midunsathyaa",
+        "email": "midunsathyaa.subramanian@dimiour.io",
+        "jd": "From: Midunsathyaa, Dimiour midunsathyaa.subramanian@dimiour.io Reply to: midunsathyaa.subramanian@dimiour.io Role Title: Lead Software EngineerLocation: St. Louis, MO [Onsite]Duration: Long Term Contract Mandatory Skills looking for: React, Node.JS, Java and Database Experience and Qualifications:\u00b7 Needed Min 12+ experienced candidate.\u00b7 Strong experience in developing services and applications in Java\u00b7 Recent experience in developing and managing highly available distributed applications using toolkits such as Spring Boot, Git, Docker, DevOps tools.\u00b7 Good understanding of various Design Patterns in building highly available, highly scalable distributed applications connecting a large volume of devices, serving millions of users.\u00b7 Good understanding of Security Best Practices to implement security at various levels to protect the devices & data.\u00b7 Must have Programming / Scripting Knowledge such as Java, Python, Groovy, etc.\u00b7 Expert level technical knowledge in developing cloud native applications \u2013 covering infrastructure, platform and software as services.\u00b7 AWS Technical knowledge in \u2013 API Gateway, R53, EC2, ECS, ECR, IoT, CFTs, CloudWatch, RDS/ DynamoDB, SNS/SQS, Lambda, S3 etc.\u00b7 Developing and designing REST APIs using JSON, other messaging protocols.",
+        "source": "Email",
+        "date_posted": "2024-10-29 15:24:09-05:00",
+        "unique_id": "192da133beca20ae",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

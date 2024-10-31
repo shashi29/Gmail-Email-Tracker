@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Aspired Solutions Inc.",
+        "job_title": "Azure Cloud Migration Consultant",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure App Services",
+                "Azure Functions",
+                "Azure SQL Database",
+                ".NET Core",
+                "Kubernetes (AKS)"
+            ],
+            "primary": [
+                "Docker",
+                "Microservices",
+                "CI/CD",
+                "Terraform",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "Azure Cosmos DB",
+                "ASP.NET Core",
+                "Entity Framework",
+                "RESTful API development",
+                "Azure AD",
+                "RBAC",
+                "VNet",
+                "ExpressRoute",
+                "Azure Security Center",
+                "Azure Cost Management"
+            ],
+            "all": [
+                "Azure App Services",
+                "Azure Functions",
+                "Azure SQL Database",
+                ".NET Core",
+                "Kubernetes (AKS)",
+                "Docker",
+                "Microservices",
+                "CI/CD",
+                "Terraform",
+                "Azure DevOps",
+                "Azure Cosmos DB",
+                "ASP.NET Core",
+                "Entity Framework",
+                "RESTful API development",
+                "Azure AD",
+                "RBAC",
+                "VNet",
+                "ExpressRoute",
+                "Azure Security Center",
+                "Azure Cost Management"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ramesh",
+        "email": "ramesh@aspiredsolutions.com",
+        "jd": "From: Ramesh, Aspired Solutions Inc. ramesh@aspiredsolutions.com Reply to: ramesh@aspiredsolutions.com Hi,Hope you are doing well, Role: Azure Cloud Migration ConsultantLocation: Remote Lead the cloud migration of .NET-based SaaS applications to Azure, with a focus on Azure App Services, Azure Functions, and Azure SQL Database.Develop cloud migration roadmaps for customer-facing portals and backend services, ensuring scalability, availability, and resilience.Design hybrid or multi-cloud architectures when needed, ensuring smooth data and service integration.Application Modernization & .NET Expertise Modernize legacy .NET applications by transitioning to .NET Core or .NET 6/7, optimizing for cloud-native architectures.Guide the adoption of microservices and containerization using Docker and Kubernetes (AKS) for scalable, modular services.Implement serverless architectures (Azure Functions) for event-driven processes, decoupling services for improved agility and performance.Data Migration & Modernization Lead SQL Server data migration from on-premises to Azure SQL Database or Managed Instances, ensuring data consistency, minimal downtime, and optimal performance.Modernize existing SQL Server stored procedures, refactoring them for cloud optimization, scalability, and compatibility with Azure SQL environments.Optimize database performance through indexing, partitioning, and query tuning using tools like Azure SQL Performance Insights.Implement cloud-native data solutions like Azure Cosmos DB for unstructured data and high-velocity analytics, leveraging modern data platforms.Performance Tuning & Scalability Ensure high performance and low latency for customer-facing portals using Azure Front Door, CDNs, and caching solutions like Redis.Implement proactive monitoring and scaling mechanisms with Azure Monitor, Application Insights, and auto-scaling features to handle traffic spikes.Establish end-to-end monitoring and observability, ensuring real-time performance optimization and troubleshooting capabilities.Cost Optimization Drive cost-efficiency by utilizing PaaS solutions such as Azure App Services, Azure Functions, and SQL Managed Instances, reducing overhead.Regularly audit and right-size cloud resources using Azure Cost Management, optimizing the use of compute, storage, and networking.Implement Reserved Instances, Spot VMs, and scaling policies to balance cost and performance for predictable workloads.Automation, DevOps & Infrastructure as Code Lead the creation of CI/CD pipelines for .NET applications using Azure DevOps, automating deployments, testing, and monitoring across environments.Automate cloud infrastructure provisioning using Terraform, ARM templates, or Bicep, ensuring consistency in environment setup.Introduce DevSecOps practices, embedding security in CI/CD pipelines and leveraging tools like Azure Security Center for continuous monitoring.Cloud Security & Governance Ensure security compliance through Azure AD, Role-Based Access Control (RBAC), and Azure Key Vault for managing application secrets and credentials.Implement industry-standard security protocols for the SaaS platform, adhering to compliance frameworks such as SOC 2, GDPR, and NIST.Design secure networking solutions using Azure Virtual Networks (VNets), VPN Gateways, and ExpressRoute for secure, high-performance connectivity.Cross-Team Collaboration & Stakeholder Management Collaborate with backend engineers, DevOps teams, and product managers to align cloud strategies with business objectives.Provide leadership in cloud adoption, offering mentorship on cloud-native practices and automation to internal teams.Key Technical Skills:Azure Cloud Services: Azure App Services, Functions, SQL Database, Kubernetes (AKS), Cosmos DB..NET Technologies: .NET Core/6/7, ASP.NET Core, Entity Framework, and RESTful API development.SQL Server Data Migration & Modernization: On-prem to cloud migration, stored procedure refactoring, query tuning, and performance optimization.Automation & DevOps: Azure DevOps, CI/CD, Terraform, ARM templates.Security & Networking: Azure AD, RBAC, VNet, ExpressRoute, Azure Security Center, and cost management tools. Thanks,Ramesh,Ramesh@aspiredsolutions.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 10:19:17-05:00",
+        "unique_id": "192bf3fd038afd71",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

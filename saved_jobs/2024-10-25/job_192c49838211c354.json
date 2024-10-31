@@ -1,0 +1,91 @@
+[
+    {
+        "company": "HMG America LLC",
+        "job_title": "Sr. Oracle Database Engineer",
+        "location": "Overland Park, KS, USA",
+        "full_location": {
+            "city": "Overland Park",
+            "state": "KS",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "5-6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Database Migration to Cloud",
+                "Database Security Management",
+                "Database Design",
+                "PL/SQL programming",
+                "Oracle RDBMS"
+            ],
+            "primary": [
+                "Performance Monitoring and Tuning",
+                "Disaster Recovery",
+                "Test Data Management",
+                "Database Optimization",
+                "Task Automation"
+            ],
+            "secondary": [
+                "NoSQL",
+                "Graph DB",
+                "GoldenGate",
+                "AWS RDS",
+                "ETL tools",
+                "Scripting (shell, Python, Go)",
+                "Git",
+                "CI/CD tools",
+                "Good communication skills"
+            ],
+            "all": [
+                "Database Migration to Cloud",
+                "Database Security Management",
+                "Database Design",
+                "PL/SQL programming",
+                "Oracle RDBMS",
+                "Performance Monitoring and Tuning",
+                "Disaster Recovery",
+                "Test Data Management",
+                "Database Optimization",
+                "Task Automation",
+                "NoSQL",
+                "Graph DB",
+                "GoldenGate",
+                "AWS RDS",
+                "ETL tools",
+                "Scripting (shell, Python, Go)",
+                "Git",
+                "CI/CD tools",
+                "Good communication skills"
+            ],
+            "with_experience": [
+                "Oracle RDBMS (5-6 years)",
+                "PL/SQL programming (2-3 years)",
+                "GoldenGate (1-2 years)",
+                "AWS RDS (1-2 years)",
+                "Scripting (3-4 years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Suman Bala",
+        "email": "sbala@hmgamerica.com",
+        "jd": "HMG America LLC is the best Business Solutions focused Information Technology Company with IT consulting and services, software and web development, staff augmentation and other professional services. One of our direct clients is looking for Sr. Database Engineer in Overland Park, KS. Below is the detailed job description.Title: Sr. Oracle Database EngineerLocation: Overland Park, KS (day1 onsite - 3 day work from office)Mandatory skill: Database Migration to Cloud, Database Security Management , Database DesignNote: Prior experience with T-Mobile Exp Job Description:Responsibilities\u2022 Hands-on driver for Database Migration to Cloud: Oversee the migration of databases to the cloud, ensuring minimal downtime and data integrity.\u2022 Database Security Management: Implement and maintain robust security measures to protect sensitive data and ensure compliance with industry standards and regulations. Perform regular security scans on all databases to ensure compliance with security standards and policies. Ensure security defects are resolved within SLA.\u2022 Disaster Recovery: Develop and maintain comprehensive disaster recovery plans to ensure data integrity and availability in case of system failures or disasters. Own and drive disaster recovery (DR) plans (for db) and ensure recovery time objectives (RTO) and recovery point objectives (RPO) are met for all databases.\u2022 Database Design: Design databases for high availability, scalability, and performance that meet platform SLIs.\u2022 Collaboration with Development Teams: Work closely with software development teams to integrate databases with applications and ensure efficient data flow.\u2022 Performance Monitoring and Tuning: Continuously monitor database performance and implement tuning measures to optimize query execution and resource utilization. Obtain and analyze Automatic Workload Repository (AWR) reports to identify performance bottlenecks and suggest tuning improvements. Conduct thorough SQL code reviews, optimize queries for performance, and implement best practices.\u2022 Test Data Management: Introduce and maintain automated processes to simplify non-production environment (NPE) test data management.\u2022 Database Optimization:\u2022 Implement data archival and cleanup strategies.\u2022 Work with dev teams on identifying and cleanup of deprecated/unused users, objects and schemas to simplify the databases.\u2022 Evaluate and propose alternative technologies to simplify the database footprint.\u2022 Task Automation Develop automation scripts for routine database tasks. Actively integrate with CI/CD pipelines where possible.",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:17:35-05:00",
+        "unique_id": "192c49838211c354",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

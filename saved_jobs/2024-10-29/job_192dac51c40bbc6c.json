@@ -1,0 +1,70 @@
+[
+    {
+        "company": "TEK Inspirations",
+        "job_title": "Backend developer- PVW2",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months with possibility of extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "TypeScript",
+                "Bazel"
+            ],
+            "primary": [
+                "Google Cloud Platform (GCP)",
+                "Cloud environments",
+                "Code reviews",
+                "Collaboration"
+            ],
+            "secondary": [
+                "Fault tolerance",
+                "Scalability",
+                "Performance",
+                "Operational excellence"
+            ],
+            "all": [
+                "Java",
+                "TypeScript",
+                "Bazel",
+                "Google Cloud Platform (GCP)",
+                "Cloud environments",
+                "Code reviews",
+                "Collaboration",
+                "Fault tolerance",
+                "Scalability",
+                "Performance",
+                "Operational excellence"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vaibhav Raghuvanshi",
+        "email": "vaibhav.raghuvanshi@tekinspirations.com",
+        "jd": "Hi,Hope you are doing great!!!Please share suitable profile and mention JOB. Job Description -IMP- Bazel is not an ordinary thing , only few client use it . Backend developer- PVW2REMOTE - NYContract 6+ months with possibility of extension Backend developer with java, Bazel and Typescript.Need local Need LINKEDIN We are seeking a talented Backend Developer with specialized experience in the Bazel build and test framework to join our team. This role will be pivotal in our project to merge our polyrepo and monorepo backend code bases into a single cohesive repository, fostering a unified development culture across our organization.Responsibilities:Utilize Bazel Framework Expertise: Lead the adoption and optimization of the Basil build and test framework to support multiple languages, ensuring robust and efficient development practices.Backend Development Excellence: Develop backend services primarily using Java and TypeScript, focusing on fault tolerance, scalability, and performance.Code Reviews and Quality Assurance: Conduct and participate in code reviews, ensuring adherence to best practices and high code quality standards.Cloud Environment Expertise: Preferably leverage Google Cloud Platform (GCP) for backend services; familiarity with other cloud environments is acceptable, particularly if experienced with integrating Bazel.Project Leadership: Contribute to a significant cultural shift by consolidating our backend repositories, working through complex technical challenges and unknowns with a proactive mindset.Collaboration and Support: Work closely with cross-functional teams including DevOps, QA, and frontend developers to support releases, diagnose and fix bugs, and maintain operational excellence.Requirements:Proven experience with the Bazel build and test framework, ideally in a large-scale enterprise environment.Strong proficiency in backend development using Java and TypeScript, with a track record of delivering scalable and fault-tolerant systems.Experience with cloud environments, preferably Google Cloud Platform (GCP), and a willingness to adapt to other cloud services as needed.Background in performing code reviews, ensuring code quality, and supporting release processes.Ability to thrive in a collaborative environment, communicating effectively with diverse teams and stakeholders.Prior experience in an industry where developer experience is a business priority is advantageous.",
+        "source": "Email",
+        "date_posted": "2024-10-29 17:26:40-05:00",
+        "unique_id": "192dac51c40bbc6c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

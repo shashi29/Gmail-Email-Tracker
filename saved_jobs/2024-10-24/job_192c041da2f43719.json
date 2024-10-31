@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Themesoft Inc.",
+        "job_title": "Lead .Net Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$65/hr"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET Core",
+                "SQL",
+                "RESTful APIs",
+                "Cloud platforms"
+            ],
+            "primary": [
+                "ASP.NET",
+                "ASP.NET MVC",
+                "Oracle RDBMS",
+                "CI/CD Pipeline",
+                "Docker",
+                "Kubernetes",
+                "Kafka"
+            ],
+            "secondary": [
+                "Microservices architecture",
+                "DevOps practices",
+                "Excellent communication skills",
+                "Problem-solving skills"
+            ],
+            "all": [
+                "C#",
+                ".NET Core",
+                "SQL",
+                "RESTful APIs",
+                "Cloud platforms",
+                "ASP.NET",
+                "ASP.NET MVC",
+                "Oracle RDBMS",
+                "CI/CD Pipeline",
+                "Docker",
+                "Kubernetes",
+                "Kafka",
+                "Microservices architecture",
+                "DevOps practices",
+                "Excellent communication skills",
+                "Problem-solving skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Bharath",
+        "email": "bharath.k@themesoft.com",
+        "jd": "From: Bharath, Themesoft Inc. bharath.k@themesoft.com Reply to: bharath.k@themesoft.com Rate: $65/hr Hello, Please find the below job opening and let me know your interest Role: Lead .Net DeveloperLocation: Dallas, TX \u2013 Hybrid Job Description:Your responsibilities in this role will include:Lead the design, development, and implementation of robust and scalable .NET Core APIs.Hands-on Knowledge on SQL queriesCollaborate with cross-functional teams to gather requirements and architect solutions.Hands-on coding and debugging of API components to ensure high performance and reliability.Mentor junior developers and provide technical guidance and support.Stay current with industry trends and best practices, particularly in cloud technologies.Extensive experience in developing .NET APIs using C#.Strong proficiency in cloud platforms such as AWS, Azure, or Google Cloud Platform.Demonstrated expertise in designing and implementing RESTful APIs.Solid understanding of software development methodologies and practices.Excellent communication skills and ability to collaborate effectively with teams.Knowledge of microservices architecture.Familiarity with DevOps practices and tools. Requirements:Bachelor\u2019s degree in computer science, Engineering, or a related field.Proven experience as a .NET/C# Developer with a minimum of 8 years in software development.Strong proficiency in C#, ASP.NET, and the .NET Framework.Solid understanding of software development principles and best practices.Good in database systems (Oracle RDBMS, etc.).Excellent problem-solving and communication skills.Ability to work independently and collaboratively within a team. Primary skillsets:CI/CD Pipeline, ASP.NET MVC, Oracle RDBMS, Kafka, Docker, C#, .Net, Kubernetes",
+        "source": "Email",
+        "date_posted": "2024-10-24 15:01:16-05:00",
+        "unique_id": "192c041da2f43719",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

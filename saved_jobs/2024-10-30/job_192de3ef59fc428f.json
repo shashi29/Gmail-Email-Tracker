@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Maintec",
+        "job_title": "Java Full Stack Developer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Springboot",
+                "Microservices",
+                "REST API"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Angular",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Springboot",
+                "Microservices",
+                "REST API"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Princy Jain",
+        "email": "princy@maintec.com",
+        "jd": "Java FSD----Face 2 Face Interview\nAlpharetta, GA\nHe is more on Frontend\n\nFrontend: Angular, Javascript, HTML, CSS\nBackend: Springboot, microservices, rest api\n\nAlpharetta, GA (local or near preferred)",
+        "source": "Email",
+        "date_posted": "2024-10-30 10:50:25-05:00",
+        "unique_id": "192de3ef59fc428f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "company": "Delta System",
+        "job_title": "Systems Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS platform management",
+                "Windows OS",
+                "Active Directory administration",
+                "Nutanix",
+                "Citrix",
+                "Commvault",
+                "Avamar"
+            ],
+            "primary": [
+                "Storage Gateway",
+                "FSX",
+                "Lambda",
+                "VPC",
+                "EC2",
+                "API Gateway",
+                "Code Commit",
+                "RDS",
+                "MQ",
+                "Config",
+                "Cloud Trail",
+                "ELB",
+                "OpenSearch",
+                "Glue",
+                "Route 53",
+                "Elasti Cache",
+                "Shiled",
+                "Workspace",
+                "WAF",
+                "Managed Airflow",
+                "Directory Service",
+                "Kenisis",
+                "Secrets Manager",
+                "Transfer Family",
+                "Guard Duty"
+            ],
+            "secondary": [
+                "Python"
+            ],
+            "all": [
+                "AWS platform management",
+                "Windows OS",
+                "Active Directory administration",
+                "Nutanix",
+                "Citrix",
+                "Commvault",
+                "Avamar",
+                "Storage Gateway",
+                "FSX",
+                "Lambda",
+                "VPC",
+                "EC2",
+                "API Gateway",
+                "Code Commit",
+                "RDS",
+                "MQ",
+                "Config",
+                "Cloud Trail",
+                "ELB",
+                "OpenSearch",
+                "Glue",
+                "Route 53",
+                "Elasti Cache",
+                "Shiled",
+                "Workspace",
+                "WAF",
+                "Managed Airflow",
+                "Directory Service",
+                "Kenisis",
+                "Secrets Manager",
+                "Transfer Family",
+                "Guard Duty",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vishal Sharma",
+        "email": "vishal.sharma@delta-ssi.net",
+        "jd": "From: Vishal Sharma, Delta System. vishal.sharma@delta-ssi.net Reply to: vishal.sharma@delta-ssi.net Job title: Systems Engineer Duration: 12+ Months Location: DALLAS TX 75202 Visa: Only GC and USC Must-have skills for this role: 1. AWS platform management, administration 2. Windows OS / Active Directory administration 3. Nutanix, Citrix, Commvault, Avamar. Years of experience required for each skill: 7-10 years. Primary job duties/responsibilities: - Lead an offshore team of system administrators to support & manage approx. 3000 VMs. - Administer and manage AWS platform and various AWS services in use. - Support & manage client\u2019s server infrastructure in various power plant. - Work with security services and the client\u2019s business teams to remediate identified vulnerabilities. - Actively participate in driving to resolution any tickets (incl. P1/P2) logged. - Adhere to and help improve client\u2019s security poster. - Work closely with other cross functional teams to identify and resolve any issues. Nice-to-have skills: 1. Other AWS services the client uses - Storage Gateway, FSX, Lambda, VPC, EC2, API Gateway, Code Commit, RDS, MQ, Config, Cloud Trail, ELB, OpenSearch, Glue, Route 53, Elasti Cache, Shiled, Workspace, WAF, Managed Airflow, Directory Service, Kenisis, Secrets Manager, Transfer Family, Guard Duty. 2. Python. Thanks & Kind Regards, Vishal Sharma Sr. Recruiter Delta System & Software, Inc. Email: vishal.sharma@delta-ssi.net",
+        "source": "Email",
+        "date_posted": "2024-10-11 13:02:49-05:00",
+        "unique_id": "1927ce01dd133b6e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

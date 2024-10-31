@@ -1,0 +1,58 @@
+[
+    {
+        "company": "GB Tech Inc",
+        "job_title": "Data Engineer",
+        "location": "Herndon, VA, USA",
+        "full_location": {
+            "city": "Herndon",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "Kumar",
+            "email": "sunil@gbtechinc.com"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Medicare claims processing",
+                "Medicaid claims processing"
+            ],
+            "primary": [
+                "API",
+                "Data Testing"
+            ],
+            "secondary": [],
+            "all": [
+                "Databricks",
+                "Medicare claims processing",
+                "Medicaid claims processing",
+                "API",
+                "Data Testing"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "jd": "From: Kumar, GB Tech Inc sunil@gbtechinc.com Reply to: sunil@gbtechinc.com Hi All,Please share the resume for below requirement Location : Herndon, VA onsite Data Engineer with 8 years min experienceMust have experience with Databricks and Medicare/Medicaid claims processing.Regular Data Engineer experience Second role API and Data Testing.",
+        "source": "Email",
+        "date_posted": "2024-10-28 17:03:51-05:00",
+        "unique_id": "192d56b5d04300f6",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

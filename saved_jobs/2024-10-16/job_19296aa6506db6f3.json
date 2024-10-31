@@ -1,0 +1,60 @@
+[
+    {
+        "company": "urbench",
+        "job_title": "Bigdata resource",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Hadoop",
+                "Spark",
+                "SQL",
+                "PySpark",
+                "Hive",
+                "BigQuery",
+                "GCP"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Hadoop",
+                "Spark",
+                "SQL",
+                "PySpark",
+                "Hive",
+                "BigQuery",
+                "GCP"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Simran Rathol",
+        "email": "simran@urbench.com",
+        "jd": "From: simran, Bigdata resource simran@urbench.com Reply to: simran@urbench.com Role: Bigdata resourceLocation: PHX, AZ(Onsite) 6+ years in Big data, hands on. Hadoop/HDFC, Spark, SQL, PySpark, Hive, BigQuery, GCP Kind Regards, Simran Rathol| Sr. Recruiter Direct:Email: Simran@urbench.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 13:14:29-05:00",
+        "unique_id": "19296aa6506db6f3",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

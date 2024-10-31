@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Morgan Stanley",
+        "job_title": "Azure Data Engineer",
+        "location": "Middlesex County, NJ, USA",
+        "full_location": {
+            "city": "Middlesex County",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$65/hr on c2c"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Data Warehouse",
+                "Databricks",
+                "Data Lake",
+                "SQL"
+            ],
+            "primary": [
+                "Data Processing",
+                "Cloud Solutions Architecture",
+                "Data Pipeline Development",
+                "Data Modeling",
+                "Schema Designing"
+            ],
+            "secondary": [
+                "PySpark",
+                "Technical Specification Design",
+                "Application Interface Design",
+                "Batch Processing",
+                "Communication Skills",
+                "Presentation Skills"
+            ],
+            "all": [
+                "Azure",
+                "Data Warehouse",
+                "Databricks",
+                "Data Lake",
+                "SQL",
+                "Data Processing",
+                "Cloud Solutions Architecture",
+                "Data Pipeline Development",
+                "Data Modeling",
+                "Schema Designing",
+                "PySpark",
+                "Technical Specification Design",
+                "Application Interface Design",
+                "Batch Processing",
+                "Communication Skills",
+                "Presentation Skills"
+            ],
+            "with_experience": [
+                "Azure (10+ years)",
+                "Databricks (3+ years)",
+                "Data Lake (3+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shubham Singh",
+        "email": "shubham@spearstaffing.com",
+        "jd": "From: shubham, Spearstaffing shubham@spearstaffing.com Reply to: shubham@spearstaffing.com Job Title - Azure Data EngineerLocation: Middlesex County, Central Jersey (Hybrid) Experience: 10+YearsEnd Client: Morgan StanleyVISA : USC GC only Rate: $65/hr on c2c MCSA Cloud Platform Azure Training Certification MCSE Cloud Platform Infrastructure Certification is a MUST for this role (Cert ID / Link is required) Job Summary:We are seeking an experienced Azure Data Solutions EngineerIf you are data freak and looking for a professionally challenging and financially rewarding career this position might be of interest to you. This position will play a pivotal role in the growth dynamics in your careerAzure Data Solutions Engineer will spearhead new Data Driven initiatives of turnkey IT Projects and Consulting servicesusing Azure Databricks and Data lake environment.Must Have Skills: Strong experience in Datawarehouse, DatabricksData Lake knowledge with structured and unstructured data processingSkillset: 10 Years hands-on experience as a Data/ DWH Engineer in On-Prem and Cloud (Azure) environmentRecent 3 + years' experience as Cloud Data Solution Architect recommending and designing Azure Cloud Solutions for P&C Insurance domain ( Commercial Insurance preferred)Recent 3 years of hands-on experience in Azure Databricks and Datalake; Performs Design, Development & Deployment using Azure Services (Data Factory, Databricks, PySpark, SQL)Develops and maintains scalable data pipelines and build new Data Source integrations to support increasing data volume and complexity.Experience in creating Technical Specification Design, Application Interface Design.Develop batch processing and integration solutions and process Structured and Non-Structured DataData Modeling and Schema Designing expertiseDemonstrated in-depth skills with Azure Databricks and PySpark, and SQLCollaborate and engage with BI & analytics and the business teamsExcellent communication, presentation skills and ability to effectively interact with Sr. management",
+        "source": "Email",
+        "date_posted": "2024-10-11 11:20:30-05:00",
+        "unique_id": "1927cbbbcde889ba",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

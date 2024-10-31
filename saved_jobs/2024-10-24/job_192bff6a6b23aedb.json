@@ -1,0 +1,88 @@
+[
+    {
+        "company": "INNOZA TECH LLC",
+        "job_title": "Data Engineer (749832)",
+        "location": "USA",
+        "full_location": {
+            "city": "Durham",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "749832",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle",
+                "PL/SQL",
+                "SQL",
+                "data migrations",
+                "data cleansing"
+            ],
+            "primary": [
+                "DB2",
+                "ETL processes",
+                "Salesforce",
+                "Talend",
+                "GIT",
+                "Jira",
+                "Java",
+                "Python",
+                "cloud platforms",
+                "AWS",
+                "Azure",
+                "Azure Synapse",
+                "Azure Databricks",
+                "Cloud Computing",
+                "Power BI"
+            ],
+            "secondary": [],
+            "all": [
+                "Oracle",
+                "PL/SQL",
+                "SQL",
+                "data migrations",
+                "data cleansing",
+                "DB2",
+                "ETL processes",
+                "Salesforce",
+                "Talend",
+                "GIT",
+                "Jira",
+                "Java",
+                "Python",
+                "cloud platforms",
+                "AWS",
+                "Azure",
+                "Azure Synapse",
+                "Azure Databricks",
+                "Cloud Computing",
+                "Power BI"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Nagajyoti",
+        "email": "njyoti@innozatech.com",
+        "jd": "From: Nagajyoti, INNOZA TECH LLC. njyoti@innozatech.com Reply to: njyoti@innozatech.com Position: Data Engineer (749832)- REMOTE-NC-FASTLocation: Durham NC 27709Duration: 12 Months PLUSClient: NC-FASTNeed 10+ years CandidateNeed Local CandidatePlease list all Professional Certifications and the year they were received. The certifications will be validated.Please provide a brief description of recent professional development work in a data conversion effort.The Department of Health and Human Services (DHHS) requires the assistance of contract resources to serve as Data Engineers. The primary purpose of these positions is to analyze, map, build, test, and maintain database pipeline architectures using Oracle and DB2 for Child Welfare Data Conversion efforts as the legacy system migrates to Salesforce. The work involves collaborating with various stakeholders to understand business requirements and translating them into efficient and scalable technical solutions for the Child Welfare program.The persons in this position will play a crucial role in designing, implementing, and optimizing data pipelines and ETL processes to support the extraction, transformation, and loading of data from various Child Welfare sources into Salesforce. They will collaborate with cross-functional teams to understand data requirements and translate them into technical solutions. The data engineers will need excellent problem-solving skills and the ability to work independently as well as part of a team. The work involves developing and maintaining data models, schemas, and databases to support data conversion needs. The work also involves monitoring and troubleshooting data pipelines to ensure data quality, completeness, integrity, and availability. This position will be implementing best practices for data governance, security, and compliance to ensure regulatory requirements are met. Responsibilities and Duties:Analyze, Map, Build, Test, and Maintain database pipeline architectures using Oracle and DB2Collaborate with SMEs to understand and execute data conversion objectives that transforms, masks, and loads data into Salesforce objectsCreate and maintain table schemasCreate new data validation methods to ensure data accuracy, completeness, and cleanlinessEnsure compliance with data governance and security policiesSkillExperience with OracleExperience with PL/SQLExperience with SQLExperience with data migrations from legacy systemsExperience with data cleansingExperience with DB2Experience with ETL processes involving SalesforceExperience with TalendExperience with GITExperience with JiraExperience with JavaExperience with PythonExperience with cloud platforms (e.g. AWS and Azure) and associated services for data processing and storageExperience with Azure SynapseExperience with Azure DatabricksExperience with Cloud ComputingExperience with Power BI",
+        "source": "Email",
+        "date_posted": "2024-10-24 13:39:27-05:00",
+        "unique_id": "192bff6a6b23aedb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

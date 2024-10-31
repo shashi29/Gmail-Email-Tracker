@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Innozatech LLC",
+        "job_title": "Oracle DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle",
+                "PostgreSQL",
+                "Database Architecture",
+                "Database Security",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "Red Hat Linux",
+                "Database Installation",
+                "Backup and Recovery",
+                "Data Migration",
+                "High Availability"
+            ],
+            "secondary": [
+                "ETL",
+                "Automation",
+                "Scripting",
+                "Compliance",
+                "Documentation"
+            ],
+            "all": [
+                "Oracle",
+                "PostgreSQL",
+                "Database Architecture",
+                "Database Security",
+                "Performance Tuning",
+                "Red Hat Linux",
+                "Database Installation",
+                "Backup and Recovery",
+                "Data Migration",
+                "High Availability",
+                "ETL",
+                "Automation",
+                "Scripting",
+                "Compliance",
+                "Documentation"
+            ],
+            "with_experience": [
+                "Oracle (Senior-level)",
+                "PostgreSQL (Senior-level)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Irfan",
+        "email": "irfan@innozatech.com",
+        "jd": "From: Irfan, Innozatech LLC irfan@innozatech.com Reply to: irfan@innozatech.com We are looking for senior-level database administrator with advanced expertise in both Oracle and PostgreSQL, along with a deep understanding of database architectures, security principles, and performance tuning methodologies. The candidate should also have strong problem-solving skills, attention to detail, and the ability to work under pressure while managing multiple complex database systems. The candidate must also be willing to participate in a rotational 24x7 on-call Production Support. 1. Database Installation and Configuration \u00b7 Install, configure, and maintain Oracle Multi-Tenant Architecture and PostgreSQL database servers. \u00b7 Set up instances, database parameters, and schema objects. \u00b7 Perform upgrades and patch management to ensure databases are up-to-date with the latest features and security patches. \u00b7 Experience Red Hat Linux Operating Systems. 2. Database Architecture and Design \u00b7 Collaborate with development teams to design and implement efficient, scalable database solutions. \u00b7 Create database structures, including tables, views, indexes, and constraints. \u00b7 Define data storage, indexing strategies, and partitioning schemes for optimal performance. 3. Database Performance Monitoring and Tuning \u00b7 Monitor database performance and system resource utilization to ensure high availability. \u00b7 Identify bottlenecks, analyze slow queries, and tune databases for optimal performance. \u00b7 Utilize tools like Oracle AWR, PostgreSQL pg_stat_statements, and other performance analysis tools. \u00b7 Implement performance improvements such as indexing, query optimization, and caching mechanisms. 4. Backup and Recovery \u00b7 Implement and manage backup and disaster recovery strategies (e.g., RMAN for Oracle, pg_dump for PostgreSQL). \u00b7 Ensure data integrity and availability through regular backups and replication. \u00b7 Perform recovery tasks in the event of database corruption or failure. 5. Security Management \u00b7 Configure and maintain database security, ensuring appropriate user permissions and roles are in place. \u00b7 Encrypt sensitive data, ensure secure connections, and apply security best practices. \u00b7 Monitor for potential security threats and resolve vulnerabilities in both Oracle and PostgreSQL environments. 6. Capacity Planning and Scalability \u00b7 Analyze and forecast future database storage requirements. \u00b7 Plan for scalability, ensuring the databases can handle increasing workloads and data growth. \u00b7 Optimize database storage and processing capabilities, balancing performance with cost. 7. Data Migration and Integration \u00b7 Perform data migrations between Oracle, PostgreSQL, and other databases. \u00b7 Develop and manage ETL (Extract, Transform, Load) processes for data movement and transformation. \u00b7 Ensure data consistency and integrity during migration and integration efforts. 8. High Availability and Clustering \u00b7 Implement and manage high availability solutions such as Oracle Data Guard Replication, RAC and PostgreSQL streaming replication or clustering. \u00b7 Configure failover mechanisms to minimize downtime in case of hardware or software failure. 9. Database Troubleshooting and Issue Resolution \u00b7 Resolve database-related incidents such as connectivity issues, slow performance, and data corruption. \u00b7 Provide technical support to development and operations teams for database-related problems. \u00b7 Perform root cause analysis and implement preventive measures. 10. Automation and Scripting \u00b7 Automate routine database administration tasks using scripts (e.g., Bash, PowerShell, PL/SQL for Oracle, PL/pgSQL for PostgreSQL). \u00b7 Develop automation tools for monitoring, backups, and performance tuning. 11. Collaboration and Documentation \u00b7 Work closely with development, DevOps, and infrastructure teams to support application and system requirements. \u00b7 Document database configurations, processes, and procedures. \u00b7 Provide training and mentoring to junior DBAs or development teams on database best practices. 12. Compliance and Auditing \u00b7 Ensure databases comply with relevant regulatory standards (e.g., GDPR, SOX, HIPAA). \u00b7 Regularly audit database security, usage, and access logs. \u00b7 Manage and maintain database audit trails and security logs. 13. Innovation and Continuous Improvement \u00b7 Stay current with new database technologies, tools, and techniques. \u00b7 Propose and implement improvements to database systems, increasing efficiency, performance, and security.",
+        "source": "Email",
+        "date_posted": "2024-10-15 17:26:40-05:00",
+        "unique_id": "192926aef8e1e163",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

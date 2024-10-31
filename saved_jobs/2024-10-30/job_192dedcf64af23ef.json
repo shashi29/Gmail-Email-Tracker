@@ -1,0 +1,97 @@
+[
+    {
+        "company": "KK Software Associates",
+        "job_title": "Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "REST API",
+                "API Security"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Spring MVC",
+                "Spring Data",
+                "Spring Mobile",
+                "Tomcat",
+                "Git",
+                "Sourcetree"
+            ],
+            "secondary": [
+                "Internet security",
+                "Single-Sign On technologies",
+                "JWT",
+                "SAML",
+                "OAuth",
+                "bash shell",
+                "Linux servers",
+                "SOA",
+                "Microservice",
+                "Layered",
+                "Clean",
+                "Event Sourcing",
+                "CQRS"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "REST API",
+                "API Security",
+                "Spring Boot",
+                "Spring MVC",
+                "Spring Data",
+                "Spring Mobile",
+                "Tomcat",
+                "Git",
+                "Sourcetree",
+                "Internet security",
+                "Single-Sign On technologies",
+                "JWT",
+                "SAML",
+                "OAuth",
+                "bash shell",
+                "Linux servers",
+                "SOA",
+                "Microservice",
+                "Layered",
+                "Clean",
+                "Event Sourcing",
+                "CQRS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Adithya R.",
+        "email": "adithya.r@kksoftwareassociates.com",
+        "jd": "Hi,\n\nGreetings from KK Software Associates.\n\nThis is Adithya. R from KK Software Associates. I have an urgent requirement of Java Developer, please go through the below requirement and forward me your updated resume with contact details ASAP.\n\n**Title:** Java Developer\n\n**Location:** New York-2, NY\n\n**Duration:** 12+ Months\n\n**Experience:** 8-10yrs\n\n**Job Description:**\n\n**Preferred Technical Requirements**\n- Experience with Spring Framework including Spring boot, Security, Spring MVC, Spring Data and Spring Mobile\n- REST API development, best practices and standards\n- API Security\n- Working with REST JSON/XML and SOAP XML services\n- Experience with Tomcat and web containers\n- Familiarity with Internet security and Single-Sign On technologies like JWT, SAML and OAuth\n- Experience with IDE like Eclipse as well as version control tools like Git and Sourcetree\n- Familiarity/Experience with bash shell and app deployment to Linux servers\n- Understand and leverage common architectural styles and patterns (SOA, Microservice, Layered, Clean, Event Sourcing, CQRS, etc.)\n\n**Competencies:** Core Java",
+        "source": "Email",
+        "date_posted": "2024-10-30 12:35:34-05:00",
+        "unique_id": "192dedcf64af23ef",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

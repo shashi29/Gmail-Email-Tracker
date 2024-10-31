@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Independence Blue Cross",
+        "job_title": "Sr. Database Administrator",
+        "location": "Philadelphia, PA, USA",
+        "full_location": {
+            "city": "Philadelphia",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "BA/BS in Computer Science, Information Systems, or related field, or equivalent knowledge acquired by work experience and training.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft SQL Server",
+                "Database Administration",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Database Development"
+            ],
+            "primary": [
+                "Java",
+                "Mule",
+                "SSMS",
+                "SSIS",
+                "SSRS",
+                "Always on Failover Clustering",
+                "Idera SQL Diagnostic monitor",
+                "Query Store",
+                "SQL Server Profiler",
+                "Dynatrace"
+            ],
+            "secondary": [
+                "Analytical skills",
+                "Written communication",
+                "Verbal communication",
+                "Collaboration",
+                "Capacity planning"
+            ],
+            "all": [
+                "Microsoft SQL Server",
+                "Database Administration",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Database Development",
+                "Java",
+                "Mule",
+                "SSMS",
+                "SSIS",
+                "SSRS",
+                "Always on Failover Clustering",
+                "Idera SQL Diagnostic monitor",
+                "Query Store",
+                "SQL Server Profiler",
+                "Dynatrace",
+                "Analytical skills",
+                "Written communication",
+                "Verbal communication",
+                "Collaboration",
+                "Capacity planning"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sam",
+        "email": "slenka@vyzeinc.com",
+        "jd": "Job Description -Sr. Database Administrator USC/ GC OnlyLocation : (Hybrid )1901 Market St. Philadelphia, PA 19103 ( Must be local no represent ) The candidate must live in the PA, NJ, DE area Client : Independence Blue Cross (IBC) Job Description: Responsibilities:This posting is for a Senior SQL Server Performance Database Administrator. The position will work directly with various IT associates including Application Development, Server Admin, Networking, Database Administration, and others to optimize application / database performance. Candidate should have hands on experience with large scale environments and high transaction volumes. The ideal candidate should have extensive Java experience. Experience with Mule would be a plus, but not required. Specific Duties:Advanced Database Development experience with Microsoft SQL Server Database.Experience with Senior level Database Administration support. (e.g., Installing / Upgrading / Backup and Recovery / Configuring / SSMS / SSIS / SSRS / Always on Failover Clustering / Performance Tuning / Troubleshooting).Evaluating SQL Server Query performance. Providing guidance on query redesign, index modifications, database configuration changes, and database related application process improvements.Utilizing Idera SQL Diagnostic monitor, Query Store, SQL Server Profiler, Dynatrace and Query plans to evaluate and tune database queries. Evaluating index statistics/fragmentation.Creation of SQL Server performance documentation/best practices for consumption by SQL Server Database Development and Database Administration teams.Participate in evaluations and recommendations for associated database solutions based on business requirements and user needs.Provide performance monitoring and measuring of all database components and provide input on capacity and performance planning.Escalate issues for technical assistance as required.Participate in basic to moderately complex database tuning efforts as required.Apply administration best practices in daily operations. Qualifications:BA/BS in Computer Science, Information Systems, or related field, or equivalent knowledge acquired by work experience and training.Industry-recognized technical certification preferred (e.g. SQL, MCDBA)Working Knowledge of database file structure, retrieval and access methods, and performance analysis. Demonstrated analytical skills, excellent written and verbal communication skills, judgment, and the ability to work effectively with clients and IT associates in a collaborative and cooperative manner. Basic Understanding of the development process and business process.10+ years\u2019 related IT experience working as a SQL Server database administrator and familiarization with related technologies and tools.The candidate should have Database Development experience in large scale environments with high transaction volumes such as ecommerce or banking.",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:31:28-05:00",
+        "unique_id": "192a02cc5de69afe",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

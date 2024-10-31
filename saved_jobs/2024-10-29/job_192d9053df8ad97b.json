@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Pivotal Technologies, Inc",
+        "job_title": "Cloud Developer",
+        "location": "Ocean City, MD, USA",
+        "full_location": {
+            "city": "Ocean City",
+            "state": "MD",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6-12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Bricks",
+                "Python",
+                "Spark",
+                "SQL",
+                "Kafka"
+            ],
+            "primary": [
+                "automation",
+                "cloud testing",
+                "OOP"
+            ],
+            "secondary": [
+                "healthcare background"
+            ],
+            "all": [
+                "Azure Data Bricks",
+                "Python",
+                "Spark",
+                "SQL",
+                "Kafka",
+                "automation",
+                "cloud testing",
+                "OOP",
+                "healthcare background"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rajesh Kumar",
+        "email": "rajesh.kumar@pivotal-technologies.com",
+        "jd": "From: Rajesh Kumar, Pivotal Technologies, Inc rajesh.kumar@pivotal-technologies.com Reply to: rajesh.kumar@pivotal-technologies.com POSITION Cloud Developer LOCATION Must be in Ocean City Maryland/Need DL of MDDURATION 6-12 months VISA USC REQUIRED SKILLS Top Must Have Skills \u2013 Azure Data Bricks, Python, Spark, SQL, Kafka. Job Description:\u2022 Strong experience in automation (may or may not be Cloud)\u2022 Cloud testing backgroundo Azure Data Bricks, Python, Spark, SQL, Kafka\u2022 Apart of the development team \u2013 conversion from oracle SQL to Cloud\u2022 Not a straight migration \u2013 a lot of changes, the pharmacy portal itself is changingo Not a lift and shift\u2022 Needs someone to pick up the functional requirements & start leading with it\u2022 A plus is the understanding of the classes of OOP (object-oriented programing) in the Java Platform API library\u2022 Healthcare background is nice to have\u2022 Tools: Azure Data Bricks, Python, Spark, SQL, Kafka, OOP",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:28:43-05:00",
+        "unique_id": "192d9053df8ad97b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

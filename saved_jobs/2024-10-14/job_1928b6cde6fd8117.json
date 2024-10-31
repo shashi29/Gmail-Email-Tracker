@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "Java Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "6-9 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Rest API",
+                "Web Services"
+            ],
+            "primary": [
+                "PostgreSQL",
+                "NoSQL",
+                "Redis",
+                "ELK Stack",
+                "Spring boot"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Rest API",
+                "Web Services",
+                "PostgreSQL",
+                "NoSQL",
+                "Redis",
+                "ELK Stack",
+                "Spring boot"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anoop Chaubey",
+        "email": "anoop.chaubey@siriinfo.com",
+        "jd": "From: Anoop Chaubey, Siri info Solutions anoop.chaubey@siriinfo.com Reply to: anoop.chaubey@siriinfo.com Hi, This is Anoop from Siri Info Solutions, if you are looking for a job change or available in the job market. Please send me your updated resume. Job Title: Java EngineerLocation- Phoenix, AZ (5 Days Onsite)Position Type \u2013 Contract Role Description: Java/ J2EE Engineers for developing applications that support travel technologies which includes, partner integrations and building Rest based web services. Additional responsibilities include building business domain capabilities to integrate with other enterprise assets plus working with persisting/ reading/ optimizing data in SQL/ NoSQL/ In memory DBs.Roles & Responsibilities6-9 years exp requiredJava, Rest API, Web Services, PostgreSQL, NoSQL, Redis, ELK Stack, Spring boot",
+        "source": "Email",
+        "date_posted": "2024-10-14 08:23:45-05:00",
+        "unique_id": "1928b6cde6fd8117",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

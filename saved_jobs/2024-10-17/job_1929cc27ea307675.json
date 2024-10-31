@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Convex Tech",
+        "job_title": "Database Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle SQL",
+                "Oracle PL/SQL",
+                "SQL*PLUS",
+                "SQL*Loader",
+                "Linux OS"
+            ],
+            "primary": [
+                "Shell Scripting",
+                "Toad",
+                "Advanced Excel",
+                "Knowledge of scheduling tools",
+                "Knowledge of MS Access",
+                "Python"
+            ],
+            "secondary": [
+                "Business knowledge of Life Products",
+                "Excellent oral and written communication skills",
+                "Excellent interpersonal skills",
+                "Excellent organizational skills",
+                "Excellent analytical skills",
+                "Detail oriented"
+            ],
+            "all": [
+                "Oracle SQL",
+                "Oracle PL/SQL",
+                "SQL*PLUS",
+                "SQL*Loader",
+                "Linux OS",
+                "Shell Scripting",
+                "Toad",
+                "Advanced Excel",
+                "Knowledge of scheduling tools",
+                "Knowledge of MS Access",
+                "Python",
+                "Business knowledge of Life Products",
+                "Excellent oral and written communication skills",
+                "Excellent interpersonal skills",
+                "Excellent organizational skills",
+                "Excellent analytical skills",
+                "Detail oriented"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sarfaraz Khan",
+        "email": "sarfaraz@convextech.com",
+        "jd": "From: sarfaraz, convextech Inc sarfaraz@convextech.com Reply to: sarfaraz@convextech.com HiHope you are doing good.!!Please let me know if you are interested in the position below Title: Database DeveloperLocation:Fully Onsite (NYC, NY)Duration: 6 months contractVisa Restrictions: No H1b/CPT Job Description: Responsibilities:The Financial Systems database team provides the data warehouse for life insurance financial and valuation reporting in support of Client's Actuarial Department. responsible for maintaining and enhancing our internal financial reporting database applications for life insurance.Database applications include implementation and enhancements for new and existing products, automation of reporting requirements, ensuring the successful monthly load of the data warehouse, creation of control processes, producing reports, including automated reports and ad hoc analyses.The Database Application Analyst translates complex business and actuarial requirements into programming specifications and technology solutions collaborating with business, finance and technology teams.This role includes both application development and production support (Provide L2 & L3 support for FMD oracle database applications). Qualifications:Proficiency in Oracle (11g / 19c) including Oracle SQL, and Oracle PL / SQL, SQL*PLUS, SQL*Loader.Linux OS (including Shell Scripting)ToadAdvanced Excel (e.g. VLOOKUP / macros).Knowledge of scheduling tools (ESP / Stonebranch UAC), preferred.Knowledge of MS Access, Python, preferred.Business knowledge of Life Products.Ability to work on multiple projects with a sense of urgency and ability to change focus to complete critical systems.Excellent oral and written communication skills.Excellent interpersonal, organizational, and analytical skills with a problem-solution attitude.Detail oriented, with a comprehensive approach to validating and proofing deliverables. Thanks and RegardsSarfaraz KhanUS IT Recruiter | Convex Tech InEmail: sarfaraz@convextech.com",
+        "source": "Email",
+        "date_posted": "2024-10-17 17:38:36-05:00",
+        "unique_id": "1929cc27ea307675",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

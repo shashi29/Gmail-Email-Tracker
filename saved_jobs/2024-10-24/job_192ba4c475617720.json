@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": "Python Developer with Data Structures and AWS Expertise",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Data Structures",
+                "Algorithms",
+                "AWS"
+            ],
+            "primary": [
+                "Sorting Algorithms",
+                "Data Fetching Techniques",
+                "RESTful APIs",
+                "Version Control Systems (Git)"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Attention to Detail",
+                "Communication",
+                "Teamwork"
+            ],
+            "all": [
+                "Python",
+                "Data Structures",
+                "Algorithms",
+                "AWS",
+                "Sorting Algorithms",
+                "Data Fetching Techniques",
+                "RESTful APIs",
+                "Version Control Systems (Git)",
+                "Problem-solving",
+                "Attention to Detail",
+                "Communication",
+                "Teamwork"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Prashanth",
+        "email": "prashanthn@brillius.com",
+        "jd": "From: Prashanth, Brillius prashanthn@brillius.com Reply to: prashanthn@brillius.com Job Title: Python Developer with Data Structures and AWS ExpertiseLocation: Sunnyvale, CA - Hybrid roleContract Job Description: We are seeking a skilled Python Developer with a strong foundation in data structures and algorithms, as well as experience with AWS infrastructure. The ideal candidate will be responsible for developing high-performance applications, optimizing existing systems, and implementing effective data handling and processing strategies.Key Responsibilities:Design, develop, and maintain robust Python applications.Utilize data structures and algorithms to optimize code and improve performance.Implement sorting and fetching algorithms for efficient data management.Collaborate with cross-functional teams to define and design new features.Deploy and manage applications on AWS infrastructure.Monitor and optimize application performance in a cloud environment.Write clean, maintainable, and efficient code.Participate in code reviews and contribute to best practices.Requirements:Proficiency in Python programming.Strong understanding of data structures and algorithms.Experience with sorting algorithms and data fetching techniques.Familiarity with AWS services (e.g., EC2, S3, RDS, Lambda).Knowledge of RESTful APIs and web services.Experience with version control systems (e.g., Git).Strong problem-solving skills and attention to detail.Excellent communication and teamwork abilities.",
+        "source": "Email",
+        "date_posted": "2024-10-23 11:16:30-05:00",
+        "unique_id": "192ba4c475617720",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Headway Tek Inc",
+        "job_title": "Data Specialist",
+        "location": "Bethesda, MD, USA",
+        "full_location": {
+            "city": "Bethesda",
+            "state": "MD",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Monitoring",
+                "ADLS G2",
+                "Blob",
+                "CosmosDB",
+                "Data Explorer",
+                "Data Factory",
+                "Data Modelling Fundamentals",
+                "Data Warehousing",
+                "Databricks",
+                "ETL Fundamentals",
+                "Event Hub",
+                "Logic App",
+                "Modern Data Platform Fundamentals",
+                "PLSQL",
+                "Purview",
+                "Python",
+                "SQL",
+                "SQL (Basic + Advanced)",
+                "SQL Server",
+                "Stream Analytics",
+                "Synapse"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Azure Monitoring",
+                "ADLS G2",
+                "Blob",
+                "CosmosDB",
+                "Data Explorer",
+                "Data Factory",
+                "Data Modelling Fundamentals",
+                "Data Warehousing",
+                "Databricks",
+                "ETL Fundamentals",
+                "Event Hub",
+                "Logic App",
+                "Modern Data Platform Fundamentals",
+                "PLSQL",
+                "Purview",
+                "Python",
+                "SQL",
+                "SQL (Basic + Advanced)",
+                "SQL Server",
+                "Stream Analytics",
+                "Synapse"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "sivaji",
+        "email": "sivaji@headwaytek.com",
+        "jd": "From: sivaji, Headway Tek Inc sivaji@headwaytek.com Reply to: sivaji@headwaytek.com Data SpecialistLocation \u2013 Bethesda, MD Near Byb states also fine who can go for twice in a month for onsite It would be a Hybrid model; Candidates are expected to go to office atleast twice a month. Primary SkillsAZure Monitoring, ADLS G2, Blob, CosmosDB, Data Explorer, Data Factory, Data Modelling Fundamentals, Data Warehousing, Databricks, ETL Fundamentals, Event Hub, Logic App, Modern Data Platform Fundamentals, PLSQL, Purview, Python, SQL, SQL (Basic + Advanced), SQL Server, Stream Analytics, SynapseSpecializationAzure Data Architecture: Data SpecialistJob requirementsJob Description:We are looking for an experienced Data Engineer with a focus on Master Data Management (MDM) to become a trusted advisor to the IT leadership teams. This role involves defining and executing MDM strategies in alignment with business objectives and regulatory compliance requirements. Key Responsibilities:MDM Strategy Development: Work closely with senior leadership (CDO/CIO/VP of IT) to define and develop MDM strategies, ensuring alignment with business goals and compliance standards.Consulting and Expertise: Guide clients on MDM concepts, industry best practices, methodologies, and emerging trends.Project Leadership: Lead MDM and data governance initiatives, managing consulting engagements related to data management and analytics projects.Solution Blueprinting: Perform assessments, gather requirements, and consolidate use cases to build a comprehensive MDM solution blueprint.Stakeholder Engagement: Engage with key stakeholders, including business leaders, IT teams, and data owners, to ensure effective communication, consensus building, and change management throughout MDM projects.Data Requirements & Documentation: Document business and functional requirements, including data models, mapping/cleansing protocols, matching hierarchies, and interfaces between MDM and other systems.Implementation & Delivery: Lead the implementation of at least two MDM solutions, ensuring the successful delivery of these projects.Technology Expertise: Provide hands-on experience with one or more MDM technologies such as Profisee, Semarchy, MS Purview, or Informatica. Propose tools and best practices for managing master data, ensuring quality and integrity.Cross-Functional Collaboration: Work with cross-functional teams to identify and implement MDM for downstream consumption.Data Quality & Governance: Ensure adherence to data governance standards, perform data quality checks, and enforce procedures to maintain data integrity across platforms.Leadership & Development: Demonstrate strong leadership and a positive attitude in driving organization-wide initiatives. Provide mentorship to the team, encouraging the development of skills and knowledge in MDM technologies and practices. Preferred: Certification in MDM technologies like Informatica, Profisee, Semarchy, MS Purview or similar platforms.Strong analytical and problem-solving skills with the ability to resolve data-related issues efficiently.Familiarity with multiple domains or cross-domain understanding is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:37:13-05:00",
+        "unique_id": "192d49b3909ac97e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

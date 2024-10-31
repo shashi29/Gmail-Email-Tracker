@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Source Infotech",
+        "job_title": "Senior Python Developer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level, 5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "Django",
+                "Flask",
+                "Automation Testing",
+                "Pytest"
+            ],
+            "primary": [
+                "SQL Performance tuning",
+                "Git",
+                "Agile software development",
+                "DevOps (CICD)"
+            ],
+            "secondary": [
+                "Financial industry experience"
+            ],
+            "all": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "Django",
+                "Flask",
+                "Automation Testing",
+                "Pytest",
+                "SQL Performance tuning",
+                "Git",
+                "Agile software development",
+                "DevOps (CICD)",
+                "Financial industry experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Khushank Chauhan",
+        "email": "khushank@sourceinfotech.com",
+        "jd": "From: KhushankChauhan, Source Infotech khushank@sourceinfotech.com Reply to: khushank@sourceinfotech.com Senior Python Developer Oniste InterviewLocation : McLean, VA 22102 (Need local candidates only)Duration : Long TermVISA : No H1B! Job Description : Note: 2nd round interview will be in-person interview. Job Description:. Looking for a Senior Python Developer with expertise in writing code, someone with good experience in NumPy, Pandas, Django/Flask and good experience in Automation Testing using Pytest. Responsibilities: - Provide L3 Production Support for python based I&CM core applications- Provide solutions to technical issues, including \u201chands-on\u201d code enhancements and defect fixing to the applications in the portfolio- Serve as a champion for change- Drive for tactical outcome to increase development team\u2019s efficiency and productivity- Engage with the business users, application owners and other affected parties during problem resolution- Document lessons learned, help maintain knowledge database- Coordinate end to end application onboarding to production- Occasional off-hour deployment and application validation support. Qualifications: - Design and implement Web-based applications using Python.- Develop specifications and designs for complex applications or modifying/maintaining complex existing applications.- Perform code analysis, requirements analysis, identification of code metrics, system risk analysis and software reliability analysis.- SQL Performance tuning, improvement, and ability to write complex SQL queries.- Work closely with design teams and business owners to define, design, and implement features.- Evaluate, suggest, and outline improvements to existing development work.- Collaborate with the rest of the development team to ensure data is validated and presented correctly through APIs and database calls as required.- Work with development team to validate requirements, design interfaces, data and workflows through the application lifecycle.- Use standard code management tools including Git, as well as Agile software development processes.- Experience with DevOps (CICD) environments is plus.- Experience in financial industry is plus.",
+        "source": "Email",
+        "date_posted": "2024-10-16 08:39:01-05:00",
+        "unique_id": "19295b0ab28e6056",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

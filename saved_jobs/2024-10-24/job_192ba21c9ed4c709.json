@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Cloud Think Tech Inc.",
+        "job_title": "Senior Software Engineer",
+        "location": "Sunrise, FL, USA",
+        "full_location": {
+            "city": "Sunrise",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's in Computer Science",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Backend Microservices",
+                "Machine Learning",
+                "Architecture Design",
+                "Docker",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Python",
+                "Scala",
+                "TensorFlow",
+                "PyTorch",
+                "scikit-learn",
+                "Big Data",
+                "Cloud Computing",
+                "Banking Data Knowledge"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Backend Microservices",
+                "Machine Learning",
+                "Architecture Design",
+                "Docker",
+                "Kubernetes",
+                "Python",
+                "Scala",
+                "TensorFlow",
+                "PyTorch",
+                "scikit-learn",
+                "Big Data",
+                "Cloud Computing",
+                "Banking Data Knowledge"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Saurabh Rai",
+        "email": "saurabh@cloudthinktech.com",
+        "jd": "From: Saurabh Rai, Cloud Think Tech Inc. saurabh@cloudthinktech.com Reply to: saurabh@cloudthinktech.com Senior Software EngineerUSC/H4 EAD ONLYLocation: Sunrise, FL \u2013 Hybrid Notes: \u201cWe are looking for someone with Java as a core experience with Backend Microservices development and has good architectural exposure\u201d Degree in Computer Science with 12+ years in experience Proficient in Programming Languages: Python, Java, Scala, and others.Proficient in writing clean and efficient code to implement machine learning algorithms.Deep understanding of various machine learning algorithms such as regression, classification, clustering, and deep learningFamiliarity with popular ML frameworks such as TensorFlow, PyTorch, or scikit-learnBig Data Platform Proficiency: Skilled in working with Big Data platforms and Big Data lakes.Cloud Knowledge: Proficient in cloud computing technologies.Banking Data Knowledge: Familiarity with banking data structures and requirements.Architecture design and modeling: should possess strong skills in designing and modeling complex systems and architectures. Ability to create scalable, reliable, and efficient solutions that meet business requirements.Docker and Kubernetes Proficiency: Proficient with containerization and orchestration using Docker and Kubernetes.",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:40:07-05:00",
+        "unique_id": "192ba21c9ed4c709",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

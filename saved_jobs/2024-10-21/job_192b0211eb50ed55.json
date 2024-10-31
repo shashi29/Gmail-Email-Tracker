@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Innovyt",
+        "job_title": "JAVA Backend Developer",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "SpringBoot"
+            ],
+            "primary": [
+                "Reactive Programming",
+                "KAFKA",
+                "Cassandra",
+                "SQL",
+                "NOSQL"
+            ],
+            "secondary": [
+                "DevOps",
+                "CI/CD"
+            ],
+            "all": [
+                "Java",
+                "J2EE",
+                "SpringBoot",
+                "Reactive Programming",
+                "KAFKA",
+                "Cassandra",
+                "SQL",
+                "NOSQL",
+                "DevOps",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Himanshu Yadav",
+        "email": "himanshu.yadav@innovyt.com",
+        "jd": "From: Himanshu Yadav, Innovyt himanshu.yadav@innovyt.com Reply to: himanshu.yadav@innovyt.com Position :: JAVA Backend DeveloperLocation :: Sunnyvale, CA(onsite)Duration :: 6+ Months JOB DESCRIPTION:Qualifications12+ Years of Solid experience in large scale distributed systems and event-driven architecturesStrong Java/J2EE, SpringBoot.Reactive Programming with JAVA is a plus.Handson Experience with L1/L2 Caching.KAFKA, Reactive Java.Cassandra, SQL, NOSQL Database experience.Knowledge of technologies used in building scalable, distributed systems in virtualized cloud environments.Solid DevOps skills in troubleshooting live applications, assessing performance bottlenecks of applications running on Linux.Develop high performance and scalable solutions that extract, transform, and load big data.Working with continuous development environments and decent knowledge of CI/CD pipelines.",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:54:54-05:00",
+        "unique_id": "192b0211eb50ed55",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

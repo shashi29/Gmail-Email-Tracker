@@ -1,0 +1,82 @@
+[
+    {
+        "company": "American Express",
+        "job_title": "Big Data Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Big Data Ecosystem",
+                "Software Development",
+                "Coding",
+                "Debugging"
+            ],
+            "primary": [
+                "Application Performance Assessment",
+                "System Architecture",
+                "Process Flow Diagrams",
+                "Microservices Architecture",
+                "Automation Tools"
+            ],
+            "secondary": [
+                "Post Implementation Support",
+                "Innovative Ideas",
+                "Proof of Concept",
+                "Collaboration with Development Teams",
+                "Quality Assurance"
+            ],
+            "all": [
+                "Data Engineering",
+                "Big Data Ecosystem",
+                "Software Development",
+                "Coding",
+                "Debugging",
+                "Application Performance Assessment",
+                "System Architecture",
+                "Process Flow Diagrams",
+                "Microservices Architecture",
+                "Automation Tools",
+                "Post Implementation Support",
+                "Innovative Ideas",
+                "Proof of Concept",
+                "Collaboration with Development Teams",
+                "Quality Assurance"
+            ],
+            "with_experience": [
+                "Data Engineering",
+                "Big Data Ecosystem",
+                "Software Development"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Asif Raza",
+        "email": "asifraza@hanstaffing.com",
+        "jd": "From: asif raza, han staffing asifraza@hanstaffing.com Reply to: asifraza@hanstaffing.com Relevant Experience: 10+ Years Required Skills:Responsible for designing Data Engineering solutions on bigdata ecosystem, developing custom applications, and modifying existing applications to meet distinct and changing business requirements. Hands on coding, debugging, and documentation, as well as working closely with SRE team. Provide post implementation and ongoing support.Develop and design software applications, translating user needs into system architecture. Assess and validate application performance and integration of component systems and provide process flow diagrams. Test the engineering resilience of software and automation tools.You will be challenged with identifying innovative ideas and proof of concept to deliver against the existing and future needs of our customers. Software Engineers who join our Loyalty Technology team will be assigned to one of several exciting teams that are developing a new, nimble, and modern loyalty platform which will support the key element of connecting with our customers where they are and how they choose to interact with American Express.Be part of an enthusiastic, high performing technology team developing solutions to drive engagement and loyalty within our existing cardmember base and attract new customers to the Amex brand.The position will also play a critical role partnering with other development teams, testing and quality, and production support, to meet implementation dates and allow smooth transition throughout the development life cycle.The successful candidate will be focused on building and executing against a strategy and roadmap focused on moving from monolithic, tightly coupled, batch-based legacy platforms to a loosely coupled, event-driven, microservices-based architecture to meet our long-term business goals.",
+        "source": "Email",
+        "date_posted": "2024-10-18 16:33:59-05:00",
+        "unique_id": "192a1ada9ad82359",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Talent Groups",
+        "job_title": "ETL Informatica IICS AWS Developer",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science or related field, or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS Data Warehousing",
+                "Informatica IICS",
+                "Airflow",
+                "Oracle",
+                "Snowflake SQL"
+            ],
+            "primary": [
+                "Cloud-based architectures",
+                "Version control practices using GitHub",
+                "Multi-terabyte data warehouses"
+            ],
+            "secondary": [
+                "Perl",
+                "Database administration",
+                "Storage architectures",
+                "Backup and recovery processes",
+                "Basic networking",
+                "Healthcare/claims processing systems"
+            ],
+            "all": [
+                "SQL",
+                "AWS Data Warehousing",
+                "Informatica IICS",
+                "Airflow",
+                "Oracle",
+                "Snowflake SQL",
+                "Cloud-based architectures",
+                "Version control practices using GitHub",
+                "Multi-terabyte data warehouses",
+                "Perl",
+                "Database administration",
+                "Storage architectures",
+                "Backup and recovery processes",
+                "Basic networking",
+                "Healthcare/claims processing systems"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ashish Mahender",
+        "email": "ashish.r@talentgroups.com",
+        "jd": "Need candidates from New England region only. Please share suitable resumes. Job Role: ETL Informatica IICS AWS Developer Location: Quincy, MA (Onsite or Hybrid or Remote): Hybrid \u2013 2-3 days (Relocation Allowed or Relocation not Allowed): Need candidates only from New England states. Contract Duration: 12+ months Qualifications: Required Qualifications: Experience: 5+ years in database development, with a focus on SQL code. AWS Knowledge: Thorough understanding of AWS Data Warehousing applications. Technical Skills: Proficient in Oracle and Snowflake SQL. Hands-on experience with cloud-based architectures. Skilled in Informatica IICS and Airflow. Familiarity with version control practices using GitHub. Exposure to multi-terabyte data warehouses. Additional Knowledge: Knowledge of Perl, database administration, storage architectures, backup and recovery processes, and basic networking. Education: Bachelor\u2019s degree in Computer Science or related field, or equivalent experience. Healthcare Industry Experience: Knowledge of Medicaid or other healthcare/claims processing systems is a strong plus.",
+        "source": "Email",
+        "date_posted": "2024-10-28 11:46:52-05:00",
+        "unique_id": "192d42600d42456c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

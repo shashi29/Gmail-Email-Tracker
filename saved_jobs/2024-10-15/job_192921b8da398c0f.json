@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Innovyt",
+        "job_title": "JAVA Backend Developer",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "Spring Boot",
+                "KAFKA",
+                "Cassandra",
+                "SQL",
+                "NOSQL"
+            ],
+            "primary": [
+                "Reactive Programming",
+                "L1/L2 Caching",
+                "DevOps",
+                "Cloud environments",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Distributed systems",
+                "Event-driven architectures",
+                "Performance bottlenecks",
+                "Big data"
+            ],
+            "all": [
+                "Java",
+                "J2EE",
+                "Spring Boot",
+                "Reactive Programming",
+                "L1/L2 Caching",
+                "KAFKA",
+                "Cassandra",
+                "SQL",
+                "NOSQL",
+                "DevOps",
+                "Cloud environments",
+                "CI/CD",
+                "Distributed systems",
+                "Event-driven architectures",
+                "Performance bottlenecks",
+                "Big data"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Priya Gupta",
+        "email": "priya.gupta@innovyt.com",
+        "jd": "From: Priya, Innovyt priya.gupta@innovyt.com Reply to: priya.gupta@innovyt.com Position : JAVA Backend Developer - 12+ yrs.Location : Seattle, WA(Hybrid) - Only PST time zone candidateDuration : 12+ months JOB DESCRIPTION:Qualifications12+ Years of Solid experience in large scale distributed systems and event-driven architecturesStrong Java/J2EE, Spring Boot.Reactive Programming with JAVA is a plus.Hands-on Experience with L1/L2 Caching.KAFKA, Reactive Java.Cassandra, SQL, NOSQL Database experience.Knowledge of technologies used in building scalable, distributed systems in virtualized cloud environments.Solid DevOps skills in troubleshooting live applications, assessing performance bottlenecks of applications running on Linux.Develop high performance and scalable solutions that extract, transform, and load big data.Working with continuous development environments and decent knowledge of CI/CD pipelines",
+        "source": "Email",
+        "date_posted": "2024-10-15 15:59:57-05:00",
+        "unique_id": "192921b8da398c0f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

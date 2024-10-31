@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Rivago Infotech",
+        "job_title": "C#.Net Engineer",
+        "location": "Arlington, VA, USA",
+        "full_location": {
+            "city": "Arlington",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term Project",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries",
+                "Database"
+            ],
+            "primary": [
+                "SQL",
+                "Hadoop",
+                "Impala",
+                "Splunk"
+            ],
+            "secondary": [
+                "Debugging",
+                "Performance Optimization",
+                "Mentoring",
+                "Collaboration"
+            ],
+            "all": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries",
+                "Database",
+                "SQL",
+                "Hadoop",
+                "Impala",
+                "Splunk",
+                "Debugging",
+                "Performance Optimization",
+                "Mentoring",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sarvan Kumar",
+        "email": "sarvan@rivagoinfotech.com",
+        "jd": "From: Sarvan Kumar, Rivago Infotech sarvan@rivagoinfotech.com Reply to: sarvan@rivagoinfotech.com Role: C#.Net EngineerLocation: Arlington, VA (Hybrid)Duration: Long term ProjectJD:Must Have: C#.NET, Web API, MS-SQL, Complex SQL Queries, Database.\u00b7 Develop and own full-stack applications using .NET and database technologies like SQL Hadoop, Impala, Splunk skills is a plus.\u00b7 Debug issues and provide resolution Tackle performance issues Proactively communicate work status Build high-value analytics off of large data sets while keeping performance top of mind Serve as a technical resource for team members and mentor junior engineers and team members Collaborate with partners teams across broader Mastercard (Software Delivery, Corporate Security, Privacy and Data Protection, Global Product Management) Continuously innovate and determine new technologies to improve our product suite",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:35:07-05:00",
+        "unique_id": "192913f8dea62112",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

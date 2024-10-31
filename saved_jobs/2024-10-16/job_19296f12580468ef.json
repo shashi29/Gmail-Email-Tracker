@@ -1,0 +1,109 @@
+[
+    {
+        "company": "State of Florida",
+        "job_title": "Data Architect",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "7+ month assignment with possible extension (budget driven)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML",
+                "T-SQL",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft"
+            ],
+            "primary": [
+                "advanced stored procedure writing skills",
+                "tables",
+                "primary keys",
+                "foreign keys",
+                "constraints",
+                "indexes",
+                "transactions",
+                "process logging",
+                "error handling",
+                "integrating data from various sources",
+                "managing large data pipelines",
+                "strong analytical and problem-solving skills",
+                "ability to design and implement robust, scalable, and efficient data architectures"
+            ],
+            "secondary": [
+                "Microsoft Dynamics 365 Certification",
+                "MS Dynamics Power Platform Certifications"
+            ],
+            "all": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML",
+                "T-SQL",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "advanced stored procedure writing skills",
+                "tables",
+                "primary keys",
+                "foreign keys",
+                "constraints",
+                "indexes",
+                "transactions",
+                "process logging",
+                "error handling",
+                "integrating data from various sources",
+                "managing large data pipelines",
+                "strong analytical and problem-solving skills",
+                "ability to design and implement robust, scalable, and efficient data architectures",
+                "Microsoft Dynamics 365 Certification",
+                "MS Dynamics Power Platform Certifications"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vivek Pandey",
+        "email": "vivek.pandey@tekinspirations.com",
+        "jd": "Hi,Hope you are doing great.Please let me know if you find the new below position as well We are working with the State of Florida who is adding a Data Architect to their team. This is an onsite 7+ month with possible extension (budget driven) opportunity. The agency name will be shared if our client requests an interview with your consultant.Deadline for submissions is October 24, 2024Please also let consultants know the following:Interviews will take place in early November 2024.Our client is anticipating a start date of mid-November 2024. Please share DL Visa and LinkedIn and Form at the submission time Work locationOnsite in Tallahassee, FL 32303 (remote work is not allowed for this role)Duration7+ month assignment with possible extension (budget driven)Start Date Mid-November 2024 Work HoursMonday \u2013 Friday 8 am \u2013 5 pm eastern timeInterview MethodVideo. Resume Self-Certification, Skills Matrix and Professional ReferencesAttached - Please send self-certification and completed skills matrix with resumes. The self-certification must be fully completed and signed by the candidate for us to send their resume to our client. Attached - In addition, we will need three (3) Professional References for each candidate we submit. Reference would be contacted by our client. Work AuthorizationIf they are on an OPT-EAD \u2013 please make sure they have a minimum of 24 months remaining without the need for renewalCommunicationExcellent \u2013 working with various team members at all levelsDeadline for submissionOctober 24, 2024Background Check RequiredPrior to hire, applicants must pass a Criminal Background check including fingerprinting.EducationBachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.Desired CertificationsMicrosoft Dynamics 365 CertificationMS Dynamics Power Platform CertificationsRequired Experience 4+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance.5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.4+ years of experience in data architecture design principles, methodologies, and best practices.3+ years of experience in data governance principles and compliance requirements related to data security and privacy.3+ years of experience in integrating data from various sources and managing large data pipelines.2+ years of experience in cloud computing concepts, particularly in Microsoft Azure, including storage solutions and compute capabilities.1+ years of experience with programming languages such as Python or Scala.1+ years of experience in Salesforce, Message MQ, and MuleSoftStrong analytical and problem-solving skills to address complex data challenges.Ability to design and implement robust, scalable, and efficient data architectures.Responsibilities Work with stakeholders and development team to determine project scope and vision, gather and prioritize collected requirements.Design and Implement Data Architectures: Develop comprehensive data architectures that support the organization\u2019s business goals, using Azure Synapse Analytics, Azure SQL, and other Azure data services.Manage Dedicated SQL Pools: Efficiently manage and optimize Dedicated SQL Pools in Synapse to handle large-scale data warehousing and analytics workloads.Database Design and Management: Design, implement, and manage databases using Azure SQL and Azure Managed Instance, ensuring high performance, availability, and security.Data Integration and ETL Processes: Develop and manage ETL (Extract, Transform, Load) processes using Synapse Pipelines, ensuring efficient data flow from various sources to the data warehouse.Data Governance and Cataloging: Implement data governance practices and manage the data catalog to ensure data quality, consistency, and accessibility.Build and Maintain Data Models: Create and maintain data models that accurately represent the data landscape, ensuring they are scalable and optimized for performance.Ensure Data Security and Compliance: Implement and oversee data security measures, ensuring compliance with legal and regulatory standards.Maintain procedures manuals and system documentation.Research software solutions to support recommendations, analyzing current and future technology trends.Provide technical guidance and expertise in supporting the department in developing, architecting, and maintaining data, data mappings, and monitoring high-volume complex data transfer processes.",
+        "source": "Email",
+        "date_posted": "2024-10-16 12:40:12-05:00",
+        "unique_id": "19296f12580468ef",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

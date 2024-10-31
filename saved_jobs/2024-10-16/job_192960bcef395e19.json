@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Deloitte/Vanguard",
+        "job_title": "Oracle Cloud Analytics - Fusion (Technical)",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$80-85/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "OBIEE",
+                "Oracle Analytics Cloud",
+                "Data Warehouse",
+                "Oracle SQL",
+                "Oracle Fusion"
+            ],
+            "primary": [
+                "Oracle Database",
+                "Data Modelling",
+                "Oracle SQL Developer",
+                "Data Quality",
+                "Master Data Management"
+            ],
+            "secondary": [
+                "Autonomous Data Warehouse (ADW)",
+                "Oracle Business Intelligence Application (OBIA)",
+                "Oracle Fusion Analytics Warehouse (FAW)",
+                "JDBC",
+                "ODBC",
+                "ETL",
+                "Python",
+                "Apache Spark"
+            ],
+            "all": [
+                "OBIEE",
+                "Oracle Analytics Cloud",
+                "Data Warehouse",
+                "Oracle SQL",
+                "Oracle Fusion",
+                "Oracle Database",
+                "Data Modelling",
+                "Oracle SQL Developer",
+                "Data Quality",
+                "Master Data Management",
+                "Autonomous Data Warehouse (ADW)",
+                "Oracle Business Intelligence Application (OBIA)",
+                "Oracle Fusion Analytics Warehouse (FAW)",
+                "JDBC",
+                "ODBC",
+                "ETL",
+                "Python",
+                "Apache Spark"
+            ],
+            "with_experience": [
+                "OBIEE",
+                "Oracle Analytics Cloud",
+                "Data Warehouse",
+                "Oracle SQL",
+                "Oracle Fusion"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek Saini",
+        "email": "abhishek.s@infotechspectrum.com",
+        "jd": "From: abhishek saini, infotechspectrum abhishek.s@infotechspectrum.com Reply to: abhishek.s@infotechspectrum.com Oracle AnalyticsMalvern, PA- hybrid(open to relocate)Deloitte/Vanguardrate: $80-85/hr on C2CVisa: No OPT/CPT/H1b OBIEE /Oracle Analytics Cloud, Data Warehouse, or Oracle SQL experience, ideally with integration to/from Oracle Fusion (AR, AP, Procurement & GL modules) and EPM applications detailed /Complete skillset Ask:\u2022 Experience in OBIEE /Oracle Analytics Cloud, Data Warehouse, or Oracle SQL experience, ideally with integration to/from Oracle Fusion (AR, AP, Procurement & GL modules) and EPM applications.\u2022 Solid grasp of Oracle Database, Data Modelling, Oracle SQL Developer, Data Warehouse concepts, advanced analytics concepts, and implementation.\u2022 Experience with the following Oracle solutions is greatly desired: Autonomous Data Warehouse (ADW), Oracle Analytics Cloud (OAC), Oracle Business Intelligence Application (OBIA) / Oracle Fusion Analytics Warehouse (FAW), JDBC/ODBC.\u2022 Experience in data design, data modeling, data mapping, data interrogation, data quality, and master data management is desired.\u2022 Experience in Building data pipelines from multiple data sources by performing necessary ETL tasks including processing, cleansing, and verifying the integrity of data used for analysis.\u2022 Hands-on development with Oracle Integration Cloud\u2022 Experience in handling large data sets by writing python programs using Apache spark.\u2022 Good interpersonal and communication skills",
+        "source": "Email",
+        "date_posted": "2024-10-16 09:53:56-05:00",
+        "unique_id": "192960bcef395e19",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

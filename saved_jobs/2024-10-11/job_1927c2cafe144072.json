@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Yochana IT Solutions Inc.",
+        "job_title": "Java/ AWS Solution Architect",
+        "location": "San Antonio, TX, USA",
+        "full_location": {
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-Term Project",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Architectural Design",
+                "Microservices"
+            ],
+            "primary": [
+                "Terraform",
+                "Docker",
+                "Kafka",
+                "Gitlab-CI",
+                "React",
+                "Springboot"
+            ],
+            "secondary": [
+                "JEE Design Patterns",
+                "REST",
+                "SOAP",
+                "IBM-DB2",
+                "Oracle",
+                "Websphere",
+                "Tomcat"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Architectural Design",
+                "Microservices",
+                "Terraform",
+                "Docker",
+                "Kafka",
+                "Gitlab-CI",
+                "React",
+                "Springboot",
+                "JEE Design Patterns",
+                "REST",
+                "SOAP",
+                "IBM-DB2",
+                "Oracle",
+                "Websphere",
+                "Tomcat"
+            ],
+            "with_experience": [
+                "Java",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Suvarna",
+        "email": "suvarna@yochana.com",
+        "jd": "Hi ,I am Suvarna from Yochana IT Solutions Inc. I hope you are doing well.We have a Job requirement with one of our clients. Please look at the job description below and let me know if you're interested.Job Role: Java/ AWS Solution ArchitectJob Location: San Antonio, TX (Locals)Project Duration: Long-Term Project Employment Type: C2cJob Description:Architect with Java / AWS skills\u00b7 Gather new requirements for different components, prepare an implementable design, drawing out a plan for releases of the solution\u00b7 Involve in all new RFP proposals and provide innovative solutions, design and estimates\u00b7 Be updated with the latest AWS services and have hands-on expertise on required AWS services\u00b7 Participate in PI Planning sessions to define Features to be developed in each PI and Sprint\u00b7 Review all technical deliverables from the teams and ensure its adhering to the client\u2019s standards and processes\u00b7 Design, develop, test and deploy critical application components. Coordinate with offshore team to develop and integrate all code components\u00b7 Create and maintain standardized documentation for the solutions implemented\u00b7 Coordinate with the testing teams to improve automation testing in different environments\u00b7 Interacting with onsite and offshore teams in resolving the impediments\u00b7 Cloud Tools & Technologies:\u00b7 AWS \u2013 Lambda, EKS, SQS, S3, RDS, DynamoDB, API-Gateway. Terraform\u00b7 Openshift, Docker, Kafka, helm, Gitlab-CI, Gradle, Kibana, Grafana, Datadog, Postman\u00b7 Front End Technologies:\u00b7 React, Redux, NodeJS, ECMA script (ES6), Mocha, Chai, Pi-Test, Jest, CSS3, HTML5, Wicket, JSP/Servlets, Struts\u00b7 JEE Tools & Technologies:\u00b7 REST micro services (JAX-RS), SOAP Webservices (JAX-WS, JAX-RPC), Springboot, EJB, JPA, JDBC, XML, JEE Design Patterns, Java Batch\u00b7 Databases & Servers: IBM-DB2, Oracle, Websphere, Tomcat",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:21:18-05:00",
+        "unique_id": "1927c2cafe144072",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "Java developer"
+    }
+]

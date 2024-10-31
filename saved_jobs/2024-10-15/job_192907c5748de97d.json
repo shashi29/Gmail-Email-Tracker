@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Blue Ocean Ventures",
+        "job_title": "GCP Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 Years",
+            "degree_required": "Engineering Degree \u2013 BE/ME/BTech/MTech/BSc/MSc.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Azure",
+                "ETL processes",
+                "API development",
+                "Data engineering"
+            ],
+            "primary": [
+                "StreamSets",
+                "Azure Data Factory",
+                "Kafka",
+                ".NET",
+                "Python",
+                "Snowflake",
+                "MongoDB",
+                "FHIR"
+            ],
+            "secondary": [
+                "Container orchestration",
+                "Kubernetes",
+                "Databricks",
+                "API Gateway management",
+                "Healthcare payor systems",
+                "HIPAA",
+                "HL7 V2/V3",
+                "ADT",
+                "CCDA"
+            ],
+            "all": [
+                "GCP",
+                "Azure",
+                "ETL processes",
+                "API development",
+                "Data engineering",
+                "StreamSets",
+                "Azure Data Factory",
+                "Kafka",
+                ".NET",
+                "Python",
+                "Snowflake",
+                "MongoDB",
+                "FHIR",
+                "Container orchestration",
+                "Kubernetes",
+                "Databricks",
+                "API Gateway management",
+                "Healthcare payor systems",
+                "HIPAA",
+                "HL7 V2/V3",
+                "ADT",
+                "CCDA"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rakesh",
+        "email": "rakesh.d@blue-oceanventures.com",
+        "jd": "From: Rakesh, Blue Ocean Ventures rakesh.d@blue-oceanventures.com Reply to: rakesh.d@blue-oceanventures.com What is in it for you?As a Data Engineer, you will be a part of an Agile team to build healthcare applications and implement new features while adhering to the best coding development standards . Responsibilities: -We are seeking a highly skilled and experienced Lead Data\\Cloud Engineer to join our healthcare interoperability platform team. The ideal candidate will possess a strong background in data engineering, cloud infrastructure (primarily GCP and Azure), ETL processes, and API development. This role requires expertise in managing and optimizing data pipelines and working seamlessly across multiple cloud and on-premises infrastructures.The Lead Data\\Cloud Engineer will play a pivotal role in designing and implementing a robust, scalable, and secure data infrastructure to support interoperability solutions in the healthcare domain, interacting with numerous internal and external applications, ensuring compliance Healthcare standards such as CDEX, UDAP and integrating applications using relevant healthcare protocols such as FHIR, CCDA, HL7 etc. Design, build, and maintain scalable data pipelines using StreamSets, Azure Data Factory, and possibly related services on GCP.Work seamlessly across a multi-cloud environment, with 50% of infrastructure on GCP, 25% on Azure, and 25% on-premises.Manage and optimize API development within the .NET environment, and to a lesser extent, Python.Develop and maintain event streaming services using Kafka and StreamSets.Administer and work with databases including Snowflake, MongoDB, and FHIR servers (Firely and Azure FHIR).Ensure compliance with healthcare data standards such as UDAP, CDEX, FHIR, HL7, and ADT.Collaborate with cross-functional teams to gather requirements and deliver tailored data solutions that meet business and healthcare regulatory needs.Implement API Gateways using tools like Apigee and Datapower.Provide technical leadership and mentorship to junior data engineers.Monitor, troubleshoot, and optimize the performance and scalability of data solutions.Stay updated with the latest trends and technologies in healthcare interoperability and cloud services.Experience: -7 Years Location: -RemoteEducational Qualifications: -Engineering Degree \u2013 BE/ME/BTech/MTech/BSc/MSc. Technical certification in multiple technologies is desirable.Skills: -Mandatory skills:\u2022 Expertise in working with multiple cloud infrastructures, including 50% on GCP, 25% on Azure, and 25% on-premises setups.\u2022 Strong understanding of container orchestration K8s, Docker\u2022 Proven experience with StreamSets, Azure Data Factory, and related ETL tools including Databricks\u2022 Proficiency in managing API development primarily using .NET and familiarity with Python.\u2022 API Gateway management (e.g., Apigee, Datapower).\u2022 Hands-on experience with streaming technologies like Kafka and StreamSets.\u2022 Expertise in databases such as Snowflake, MongoDB, and FHIR servers (Firely, Azure FHIR).\u2022 Understanding of Firely and Azure FHIR services.Good to have skills:Familiarity with healthcare payor systems and regulatory standards such as HIPAA etc.Knowledge of Programming languages such Dot Net, Python and standards such as, HL7 V2/V3, ADT, FHIR, and CCDA. Experience with other cloud services related to GCP and Azure ecosystems.",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:25:47-05:00",
+        "unique_id": "192907c5748de97d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

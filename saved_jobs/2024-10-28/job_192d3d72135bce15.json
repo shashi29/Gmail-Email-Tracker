@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Dazzlon",
+        "job_title": "Integration Engineer (.Net)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$60/hr C2C"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "API Gateway",
+                "Java",
+                "C#",
+                ".NET",
+                "Kubernetes",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "Containerization",
+                "Microservices",
+                "JSON",
+                "XML",
+                "Kafka"
+            ],
+            "secondary": [
+                "Version control in GitLab",
+                "Code consistency",
+                "Unit testing",
+                "Solution engineering",
+                "Issue management"
+            ],
+            "all": [
+                "AWS",
+                "API Gateway",
+                "Java",
+                "C#",
+                ".NET",
+                "Kubernetes",
+                "RESTful APIs",
+                "Containerization",
+                "Microservices",
+                "JSON",
+                "XML",
+                "Kafka",
+                "Version control in GitLab",
+                "Code consistency",
+                "Unit testing",
+                "Solution engineering",
+                "Issue management"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Kalyani",
+        "email": "kalyanig@dazzlon.com",
+        "jd": "From: kalyani, dazzlon kalyanig@dazzlon.com Reply to: kalyanig@dazzlon.com Integration Engineer (.Net) Rate: Around $60/hr C2C Responsibilities: Code Development: Write clean, efficient, and maintainable code.Unit Testing: Develop and execute unit tests to ensure code quality.Deployment (Non-Prod): Manage and execute deployments in non-production environments.Investigate/Troubleshoot Code-Related Issues: Diagnose and resolve code-related problems promptly.Drive Code Consistency: Ensure adherence to coding standards and best practices.Issue Management: Efficiently handle bug investigations and resolutions.Solution Engineering: Design and implement scalable and robust solutions.Unit Testing: Continuously write and maintain unit tests. Technical Skills:Programming Languages:Proficient in AWS and API Gateway for API development.Experienced in Java for data ingestion.Familiarity with multiple programming languages (e.g., C#, .NET) and openness to learning new ones.Key Technologies:Containerization: Experience with containerizing applications to ensure all dependencies are included.Microservices: Knowledge of developing and managing microservices architecture.Kubernetes: Proficient in deploying and managing applications on Kubernetes. Development Practices:Strong understanding of RESTful APIs and web services.Experience with JSON and XML data formats, and building decision tablesExperience with Kafka messaging services Code Repositories:Proficient in using version control in GitLab",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:20:43-05:00",
+        "unique_id": "192d3d72135bce15",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

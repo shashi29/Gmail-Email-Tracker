@@ -1,0 +1,71 @@
+[
+    {
+        "company": "VY Systems",
+        "job_title": "Lead Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "kamini",
+            "email": "kamini@vysystems.com"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "AKS",
+                "Azure Security"
+            ],
+            "primary": [
+                "AKS Networking",
+                "AKS Security",
+                "ACT (for AKS images)",
+                "Istio",
+                "AKS Monitoring",
+                "logging",
+                "observability"
+            ],
+            "secondary": [
+                "Prior AKS Admin or development using AKS experience"
+            ],
+            "all": [
+                "Terraform",
+                "AKS",
+                "Azure Security",
+                "AKS Networking",
+                "AKS Security",
+                "ACT (for AKS images)",
+                "Istio",
+                "AKS Monitoring",
+                "logging",
+                "observability",
+                "Prior AKS Admin or development using AKS experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "jd": "From: kamini, VY Systems kamini@vysystems.com Reply to: kamini@vysystems.com Lead Engineer with hands-on Terraform, AKS, VMs, Azure Security Experience specifically with focus on AKS.Dallas TX 1. AKS Networking2. AKS Security3. ACT (for AKS images)4. Istio5. AKS Monitoring, logging and observability6. Prior AKS Admin or development using AKS experience",
+        "source": "Email",
+        "date_posted": "2024-10-21 18:34:30-05:00",
+        "unique_id": "192b1f9ea69c4ec8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

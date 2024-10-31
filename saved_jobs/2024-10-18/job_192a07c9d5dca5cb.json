@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Caterpillar",
+        "job_title": "Full Stack Java Developer",
+        "location": "Richfield, MN, USA",
+        "full_location": {
+            "city": "Richfield",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring"
+            ],
+            "primary": [
+                "Node.js",
+                "AWS",
+                "GraphQL",
+                "React"
+            ],
+            "secondary": [
+                "Cloud",
+                "Angular"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Node.js",
+                "AWS",
+                "GraphQL",
+                "React",
+                "Cloud",
+                "Angular"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Zaman Wasi",
+        "email": "zaman@techrooted.com",
+        "jd": "Hello,I am hiring a consultant for one of my client's requirement. Job Description for the same is written below. If you find yourself comfortable with the requirement please reply back with your updated resume. Job Title Full Stack Java Developer Duration 6+ month Location Richfield MN \u2013 Hybrid \u2013 Local Only USC GC GC-EAD Client - Caterpillar Role Overview: The role is primarily back-end Java development. Technical Requirements: Must-have skills: Java and Spring. Nice-to-haves: Node.js, AWS, and GraphQL. Front-end experience is a plus, though the role is 70-80% back-end focused. Candidate Criteria: Must be based in Minnesota; no relocation options are available. Must have at least 7+ years of exp., with a preference for those with retail or e-commerce backgrounds (e.g., Target, Walmart, Amazon). Responsibilities: You will be part of the engineering team responsible for designing and implementing technical solutions that will reach massive scale. Contribute to the architecture and development of the digital platform and tools to support key e-commerce and cloud technology initiatives. You will build and enhance core tools that are needed to support development, testing and integrations leading to Continuous Delivery. Use your creative and innovation-driven mindset to articulate engineering design strategies related to scale, performance, security, and usability. Use modern web development and cloud tools/technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:58:34-05:00",
+        "unique_id": "192a07c9d5dca5cb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

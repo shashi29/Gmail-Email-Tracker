@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Lead Java Developer",
+        "location": "Richmon, NY, USA",
+        "full_location": {
+            "city": "Richmon",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SpringBoot",
+                "Microservices",
+                "AWS"
+            ],
+            "primary": [
+                "Node",
+                "Data migration"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "SpringBoot",
+                "Microservices",
+                "AWS",
+                "Node",
+                "Data migration"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Sai Teja",
+        "email": "saiteja.b@datagama.com",
+        "jd": "From: saiteja, 732-402-8141 saiteja.b@datagama.com Reply to: saiteja.b@datagama.com Job Title: Lead Java DeveloperLocation: Richmon, McLean, NYDuration: Long TermJob Description:Java, SpringBoot, Microservices, AWS, Node, Data migration-New York (Onsite-hybrid)-3 days (local candidates preferred) Java Developer Java, SpringBoot, Microservices, AWSBest Regards Sai TejaSr. IT Recruiter \u200bE - Mail I'D : saiteja.b@datagama.comPH: 732-402-8141",
+        "source": "Email",
+        "date_posted": "2024-10-15 16:23:52-05:00",
+        "unique_id": "1929321cb2dcd887",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

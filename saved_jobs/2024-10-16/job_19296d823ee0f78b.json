@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Rivago Infotech",
+        "job_title": ".NET Full Stack Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "13+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net Core",
+                "C#",
+                "JSON",
+                "Elastic Search",
+                "JMeter",
+                "SpecFlow",
+                "DevOps",
+                "Docker",
+                "Kubernetes",
+                "Azure"
+            ],
+            "primary": [
+                "ASP.NET Core",
+                "Kafka",
+                "CI/CD",
+                "Visual Studio",
+                "React"
+            ],
+            "secondary": [
+                "Windows platform (WPF/UWP)",
+                "iOS applications using Xamarin",
+                "Elastic APM",
+                "Kibana"
+            ],
+            "all": [
+                ".Net Core",
+                "C#",
+                "JSON",
+                "Elastic Search",
+                "JMeter",
+                "SpecFlow",
+                "DevOps",
+                "Docker",
+                "Kubernetes",
+                "Azure",
+                "ASP.NET Core",
+                "Kafka",
+                "CI/CD",
+                "Visual Studio",
+                "React",
+                "Windows platform (WPF/UWP)",
+                "iOS applications using Xamarin",
+                "Elastic APM",
+                "Kibana"
+            ],
+            "with_experience": [
+                ".Net Core (13+ years)",
+                "C# (13+ years)",
+                "JSON (13+ years)",
+                "Elastic Search (13+ years)",
+                "JMeter (4+ years)",
+                "SpecFlow (4+ years)",
+                "DevOps (13+ years)",
+                "Docker (13+ years)",
+                "Kubernetes (13+ years)",
+                "Azure (13+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sarvan Kumar",
+        "email": "sarvan@rivagoinfotech.com",
+        "jd": "From: Sarvan Kumar, Rivago Infotech sarvan@rivagoinfotech.com Reply to: sarvan@rivagoinfotech.com Role: .NET Full Stack DeveloperLocation: RemoteTravel Requirements: Yes, travel will be required to our NYC office once in month Duration: Long term Project Description:Candidate will be developing and testing for a loosely coupled platform, event driven architecture with a heavy focus on data and resiliency. This role will focus on developing services and automation testing, but the resource may be required to work with various UI technologies as needed.Experience/Responsibilities:\u2022 Full Stack Developer with specialized focus on developing and testing C# services and applications(i.e. .Net Core and Kubernetes are preferred)\u2022 Building web API service utilizing JSON and ASP.NET Core\u2022 Building back message processing service utilizing C# and message queueing systems such as Service Bus, MQ Series and Kafka\u2022 Building services that query Elastic Search\u2022 Define and build API applications tests for web services (4+ years) utilizing JMeter and Visual Studio Test\u2022 Building user experience using Modern Web App framework experience (i.e. React), Windows platform (WPF/UWP) and/or iOS applications using Xamarin.\u2022 Define and build performance tests for web based/mobile applications (4+ years) utilizing JMeter\u2022 Define and build automated regression test suites utilizing a combination of tools that must include Selenium, SpecFlow for BDD, JMeter, Visual Studio unit tests\u2022 Ability to work on a small agile team developing applications, services, automated test and that will be utilized by multiple devices. Required to have:\u00b7 .Net Core C# experience\u00b7 JSON based API building experience using C#\u00b7 Experience that query Elastic Search\u00b7 JMETER experience\u00b7 SpecFlow as a tool for Behavior Driven Development (BDD)\u00b7 DevOps experience (prefer Azure DevOps)\u00b7 Experience with team utilizing CI/CD that includes automation testing in the pipelines\u00b7 Virtualization and containerization using Docker and Kubernetes\u00b7 Creation of CI/CD pipelines for Azure Dev Ops\u00b7 Cloud Experience (prefer Azure)\u00b7 Developing Kafka message consumers and producers\u00b7 Elastic APM and Kibana experience",
+        "source": "Email",
+        "date_posted": "2024-10-16 14:04:28-05:00",
+        "unique_id": "19296d823ee0f78b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

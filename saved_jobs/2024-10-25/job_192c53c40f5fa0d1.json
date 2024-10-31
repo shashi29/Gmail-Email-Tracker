@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vyze1 inc",
+        "job_title": "DBA",
+        "location": "Morristown, NJ, USA",
+        "full_location": {
+            "city": "Morristown",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "Oracle SQL",
+                "Database Administration",
+                "Database Design",
+                "Database Development"
+            ],
+            "primary": [
+                "Performance Tuning",
+                "Database Backup/Recovery",
+                "Database Object Design",
+                "Application Development",
+                "Client Relationship Management"
+            ],
+            "secondary": [
+                "Technical Writing",
+                "Business Analysis",
+                "Project Planning",
+                "Communication Skills",
+                "Interpersonal Skills"
+            ],
+            "all": [
+                "PL/SQL",
+                "Oracle SQL",
+                "Database Administration",
+                "Database Design",
+                "Database Development",
+                "Performance Tuning",
+                "Database Backup/Recovery",
+                "Database Object Design",
+                "Application Development",
+                "Client Relationship Management",
+                "Technical Writing",
+                "Business Analysis",
+                "Project Planning",
+                "Communication Skills",
+                "Interpersonal Skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sam",
+        "email": "slenka@vyzeinc.com",
+        "jd": "Job Description -Job Title: DBAClient: Location: hybrid in Morristown, NJ (only locals)Duration: 12 months C2HMOI: F2F Job Description:Need a solid DBA Someone that has extensive experience with PL/SQL and performance tuning of Oracle SQL code.Roles and Responsibilities:1. Database Admiration: Execute all aspects of database administration, including: Installation and maintenance of complex database management software in multiple environments on multiple platforms; monitoring of capacityrequirements and related database software tools to analyze and track database performance; replication and maintenance processes across multipleenvironments and platforms; maintenance of corporate data policies and procedures for data retention, data access and data archiving;Percent: 40%2. Database Design and Development: develop, implement, test, and migratephysical database data structures, stored procedures, triggers, views andscripts on multiple platforms and across multiple environments, including development, testing, production and disaster recovery to ensure secure,reliable and accurate databases for IT and client application developmentprojects.Percent: 40%3. Database Software Management: Support the installation and maintenance of complex database management software in multiple environments/platforms and participate in the execution of tests to verify proper installation.Percent: 10%4. Database Project Planning: Assist with project planning by providing estimates for assigned tasks.Percent: 5%Personal Development: Maintain business and technical expertise to allow for proper decision making on project and departmental issues. Remain current with Clients' business strategy, to align recommendations with that strategy. Percent: 5%Perform other duties as assigned.Qualifications:5 years related IT experience; 1-3 years application development and database design and/or administration experience with both Oracle and Microsoft SQL Server database platformsKNOWLEDGE, SKILLS & ABILITIES REQUIRED:\u2022 Technical database administration skills in a relational database environment, including:? Database object design and development? Database backup/recovery? Distribution and replication\u2022 Technical application development skills, including:? Business and data analysis using object or structured analysis techniques? Application and program design using object-oriented or structured design techniques\u2022 Communication and interpersonal skills, including? Technical and non-technical writing? Formal presentation and informal verbal communication? Client relationship development & management",
+        "source": "Email",
+        "date_posted": "2024-10-25 14:16:45-05:00",
+        "unique_id": "192c53c40f5fa0d1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

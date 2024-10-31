@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Vyze1 inc",
+        "job_title": "Full Stack Engineer",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "1-2 years",
+            "degree_required": "BS in Computer Science or Engineering, or equivalent demonstrated experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract 6 months plus extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "React",
+                "Pytorch",
+                "Tensorflow"
+            ],
+            "primary": [
+                "Next.js",
+                "Docker",
+                "Kubernetes",
+                "GitHub Actions"
+            ],
+            "secondary": [
+                "Machine Learning",
+                "UI/UX",
+                "Kanban"
+            ],
+            "all": [
+                "Python",
+                "React",
+                "Pytorch",
+                "Tensorflow",
+                "Next.js",
+                "Docker",
+                "Kubernetes",
+                "GitHub Actions",
+                "Machine Learning",
+                "UI/UX",
+                "Kanban"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sam",
+        "email": "slenka@vyzeinc.com",
+        "jd": "From: Sam, Vyze1 inc slenka@vyzeinc.com Reply to: slenka@vyzeinc.com Job Title: Full Stack Engineer LinkedinLocation: Hybrid - Pittsburgh (Pennsylvania (3 days onsite and 2 days remote)Duration: Contract 6 months plus extensions. Start Date: ASAPNumber of Openings: 2*Must have recent experience in highlighted skills below or client won't consider. Must have very strong communication, written and spoken English language The Opportunity As a member of the AI Engineering Team, you will play a key role in building and optimizing our platform to deliver AI-driven tools that align with client's mission of championing personal and spiritual growth. You will contribute to feature development across multiple applications, enhancing security, optimizing our full-stack architecture, and implementing solutions that enable client\u2019s strategic vision for AI-enabled growth. You will work closely with teams to ensure our platform is robust and scalable, supporting strategic initiatives such as next-generation AI tools, trusted data infrastructures, and enhanced developer experiences. Additionally, you\u2019ll support integrating advanced AI models and ensuring our applications serve a broad range of users, from faith organizations to individuals seeking personal growth and rooted in trust. This is a hybrid position working out of the Pittsburg, Pennsylvania area.Top 3-4 Skills Pytorch TensorflowPythonReact Skills & Qualifications:A passion for serving fellow team members and customers through thoughtful, effective, and robust software solutions. At least 1-2 years of experience working on web applications within collaborative teams. Autonomous and self-driven leadership in a collaborative environment that requires proactive solutions. A growth mindset to learn and deliver functional features in Artificial Intelligence and Machine Learning. Expertise in React, Next.js or equivalent front-end framework. Expertise in Python as a backend service to power APIs and AI workflows. BS in Computer Science or Engineering, or equivalent demonstrated experience. Experience with building and maintaining automated test suites for web applications. Familiarity with Docker, Kubernetes, containerized deployment environments, and GitHub Actions. Experience delivering work via a continuous improvement and delivery methodology. Familiarity with Kanban software development methodologies. Exposure and understanding implementing AI technologies. Excellent written and verbal communication skills for effectively translating technical solutions. Technical Stack:Pytorch TensorflowPythonReact AIMachine LearningUI/UXNextJS",
+        "source": "Email",
+        "date_posted": "2024-10-28 07:57:43-05:00",
+        "unique_id": "192d367a2e3a5893",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

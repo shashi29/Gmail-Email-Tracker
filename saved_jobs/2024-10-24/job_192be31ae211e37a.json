@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Enterprise Architect",
+        "location": "Grand Rapids, MI, USA",
+        "full_location": {
+            "city": "Grand Rapids",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure - Data Factory",
+                "Log Analytics",
+                "Databricks",
+                "Synapse",
+                "Power BI",
+                "ADLS Gen2",
+                "GCP Cloud storage",
+                "Big Query"
+            ],
+            "primary": [
+                "Retail Media Data Movement experience",
+                "Google Marketing platform",
+                "Salesforce MCI",
+                "The Trade Desk",
+                "ADvendio",
+                "Data Modeling",
+                "Data Classification and zones",
+                "Data architecture and reporting",
+                "Python",
+                "API architecture in Azure"
+            ],
+            "secondary": [
+                "Agile"
+            ],
+            "all": [
+                "Azure - Data Factory",
+                "Log Analytics",
+                "Databricks",
+                "Synapse",
+                "Power BI",
+                "ADLS Gen2",
+                "GCP Cloud storage",
+                "Big Query",
+                "Retail Media Data Movement experience",
+                "Google Marketing platform",
+                "Salesforce MCI",
+                "The Trade Desk",
+                "ADvendio",
+                "Data Modeling",
+                "Data Classification and zones",
+                "Data architecture and reporting",
+                "Python",
+                "API architecture in Azure",
+                "Agile"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Chandra N",
+        "email": "chandra.n@siriinfo.com",
+        "jd": "From: Chandra N, Siri Info chandra.n@siriinfo.com Reply to: chandra.n@siriinfo.com Role name:Enterprise ArchitectRole Description:Designs, codes, tests, and implements data movement pipelines, dashboarding and analytical assets; develops system documentation according to SAFe Agile principles and industry standards.Design and hands-on development on either vendor or internal applications and interfaces including Azure - Data Factory, Log Analytics, Databricks, Synapse, Power BI, ADLS Gen2, GCP Cloud storage and Big QueryAssist in configuration and administration of marketing platforms (Google Marketing platform, Salesforce MCI, The Trade Desk etc., ADvendio) that the team supportsBuild data ingestion into and out of the above listed marketing platformsGathers and implements functional and non-functional requirements including performance monitoring, alerting and code management and ensuring alignment with technology best practices and SLAs.Partnering with all areas of the business to gather requirements for Data and Analytics and designing solutions.Participate in agile ceremonies and follow agile cadence to build, test and deliver solutionsDriving engagement with ITS Security and Infrastructure teams to ensure secure development and deployment of solutions.Interfaces with the Product Manager and IT partners at the Program level and within other Release Trains to define and estimate features for agile teams.Competencies:Digital : Microsoft Azure, Digital : Python, Data Concepts & Data Modelling, Digital : Microsoft Power BI, Digital : DatabricksExperience (Years):8-10Essential Skills:1. Azure - Data Factory, Log Analytics, Databricks, Synapse, Power BI, ADLS Gen2,2. GCP Cloud storage and Big Query3. Retail Media Data Movement experience4. Google Marketing platform, Salesforce MCI, The Trade Desk, ADvendio5. Power BI, Data Modeling, Data Classification and zones, data movement, Data architecture and reporting6. Python and API architecture in AzureDesirable Skills:AgileCountry:United StatesBranch | City | Location:TCS - Detroit, MIGRAND RAPIDSGrand rapids, MI",
+        "source": "Email",
+        "date_posted": "2024-10-24 05:27:48-05:00",
+        "unique_id": "192be31ae211e37a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

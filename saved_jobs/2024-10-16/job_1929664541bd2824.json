@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Adventa Tech",
+        "job_title": "Senior Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Eureka",
+                "Oracle"
+            ],
+            "primary": [
+                "Spring Cloud",
+                "Maven",
+                "Log4j2",
+                "JavaScript",
+                "Vue.js",
+                "Vuex"
+            ],
+            "secondary": [
+                "Test-driven development",
+                "Automated testing frameworks",
+                "Spring Data JPA",
+                "Spring WebFlux",
+                "Lombok",
+                "Apache Commons Text",
+                "SpringDoc OpenAPI"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Eureka",
+                "Oracle",
+                "Spring Cloud",
+                "Maven",
+                "Log4j2",
+                "JavaScript",
+                "Vue.js",
+                "Vuex",
+                "Test-driven development",
+                "Automated testing frameworks",
+                "Spring Data JPA",
+                "Spring WebFlux",
+                "Lombok",
+                "Apache Commons Text",
+                "SpringDoc OpenAPI"
+            ],
+            "with_experience": [
+                "Java",
+                "Spring Boot",
+                "Eureka"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Satyajeet Kumar",
+        "email": "satyajeet@adventatech.com",
+        "jd": "From: Satyajeet Kumar, AdventaTech satyajeet@adventatech.com Reply to: satyajeet@adventatech.com Hi,Hope you are doingwell today!My name is Satyajeetworking as Technical recruiter at Adventa Tech. I have an excitingopportunity with one of our client. If interested send me your updated resumewith contact details, expected pay rate along with below information.Job Description -Role: Senior Java DeveloperDuration: 6 months +Location: Remote backend is java 11springboot with eureka micro service architectureoracle db (as you know) frontend jsvue 2vuex state mangementvueitfy styleManage and maintain the code configuration of software projects using Eureka service architecture.Implement and integrate the listed dependencies and properties, ensuring seamless integration with Eureka service registry.Incorporate Eureka client functionality to enable service registration and discovery within the application.Debug and resolve issues related to Eureka service registration and discovery.Requirements:Proven experience as a Java Developer or in a similar role.Proficiency in Java programming language.Strong understanding of code configuration and dependency management.Familiarity with Spring Boot, Spring Cloud, Maven, and Log4j2.Experience with relational databases, such as Oracle.Excellent problem-solving and troubleshooting skills.Strong communication and collaboration abilities.Ability to work in a fast-paced and agile environment.Preferred Qualifications:Knowledge of test-driven development and automated testing frameworks.Experience with the Spring Data JPA and Spring WebFlux frameworks.Familiarity with Lombok and Apache Commons Text.Knowledge of SpringDoc OpenAPI for API documentation.Best RegardsSatyajeet Kumar|Technical Recruiter | Adventa Tech.",
+        "source": "Email",
+        "date_posted": "2024-10-16 11:57:57-05:00",
+        "unique_id": "1929664541bd2824",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

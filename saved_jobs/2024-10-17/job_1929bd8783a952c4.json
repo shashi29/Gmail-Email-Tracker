@@ -1,0 +1,75 @@
+[
+    {
+        "company": "synkriom",
+        "job_title": "Java AWS Developer",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "AWS Aurora",
+                "PostgreSQL"
+            ],
+            "primary": [
+                "Microservices",
+                "Kafka",
+                "Cucumber Testing"
+            ],
+            "secondary": [
+                "DBMS",
+                "RDBMS",
+                "Banking domain experience",
+                "Communication skills",
+                "Interpersonal skills",
+                "Analytical thinking"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "AWS Aurora",
+                "PostgreSQL",
+                "Microservices",
+                "Kafka",
+                "Cucumber Testing",
+                "DBMS",
+                "RDBMS",
+                "Banking domain experience",
+                "Communication skills",
+                "Interpersonal skills",
+                "Analytical thinking"
+            ],
+            "with_experience": [
+                "Java (8+ years)",
+                "Microservices"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "shubham",
+        "email": "shubham.kumar@synkriom.com",
+        "jd": "From: shubham, synkriom shubham.kumar@synkriom.com Reply to: shubham.kumar@synkriom.com Skills: Java Spring boot + AWS Aurora Postgres Job Description:8+ years experience in handling JAVA and Microservices.Working knowledge in Kafka and Cucumeber Testing.Good to have DBMS and RDBMS experience with understanding of Postgresql and Aurora.Good to have Banking domain experience.Should have good communication and interpersonal skills.Should have good analytical thinking.",
+        "source": "Email",
+        "date_posted": "2024-10-17 13:22:58-05:00",
+        "unique_id": "1929bd8783a952c4",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

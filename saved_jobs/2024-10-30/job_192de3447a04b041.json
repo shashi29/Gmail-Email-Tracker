@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Bank of America",
+        "job_title": "Core Java Developer(Backend)",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12 Months with possible extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Collections",
+                "Inheritance",
+                "Concurrency",
+                "Multithreading"
+            ],
+            "primary": [
+                "Microservices",
+                "Spring Boot",
+                "Apache servers",
+                "Cron Jobs",
+                "Auto sys",
+                "Distributed computing",
+                "Oracle database 19C",
+                "Cassandra",
+                "CICD tools",
+                "Jenkins",
+                "JUnit",
+                "Mockito",
+                "Apache Kafka"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "Collections",
+                "Inheritance",
+                "Concurrency",
+                "Multithreading",
+                "Microservices",
+                "Spring Boot",
+                "Apache servers",
+                "Cron Jobs",
+                "Auto sys",
+                "Distributed computing",
+                "Oracle database 19C",
+                "Cassandra",
+                "CICD tools",
+                "Jenkins",
+                "JUnit",
+                "Mockito",
+                "Apache Kafka"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek Saini",
+        "email": "abhishek.s@infotechspectrum.com",
+        "jd": "Role: Core Java Developer(Backend)\nContract: 12 Months with possible extension\nClient: Bank of America\nLocation: Jersey City and 2 Braynt Park NYC (Look for someone for NYC location and if you find any one for NJ, he needs to go twice in JC office and once/ week to 2 BP NYC office).\nVisa: Any except OPT/CPT (also accept H1 Transfers, who can transfer to Innova)\nRequirement: Someone with Financial background like JPMC, Morgan etc. and all who has understanding of trading and stocks.\nCore java basic concepts like: Collections, Inheritance, concurrency and multithreading.\nMicroservices- Spring boot\nApplication Server- Apache servers\njob scheduler: Cron Jobs/ Auto sys\nDistributed computing/ Distributed Applications\ndatabase: Oracle database 19C, Cassandra\nDeployment: CICD tools like -Jenkins\nTesting Framework: Junit/Mockito for testing\nMessaging: Apache Kafka",
+        "source": "Email",
+        "date_posted": "2024-10-30 10:38:45-05:00",
+        "unique_id": "192de3447a04b041",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

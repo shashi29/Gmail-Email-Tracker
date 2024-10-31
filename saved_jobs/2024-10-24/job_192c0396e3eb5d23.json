@@ -1,0 +1,56 @@
+[
+    {
+        "company": "Vkore",
+        "job_title": "Senior Java Developer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "Microservices",
+                "Kubernetes",
+                "GraphQL",
+                "AWS"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "J2EE",
+                "Microservices",
+                "Kubernetes",
+                "GraphQL",
+                "AWS"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Sonu",
+        "email": "sonu@vkoresolutions.com",
+        "jd": "From: Sonu, Vkore sonu@vkoresolutions.com Reply to: sonu@vkoresolutions.com Hi,I hope you are doing well, Please check the job description below and let me know if you are interested: Role: Java developerLocation: Boston MA We are seeking a highly skilled and experienced Senior Java Developer to join our dynamic development team. The ideal candidate will have extensive experience in building and maintaining robust, scalable, and efficient applications using Java, J2EE, Microservices architecture, and other modern technologies. You will be responsible for designing and implementing enterprise-level applications and services, leveraging AWS cloud infrastructure, Kubernetes for container orchestration, and GraphQL for efficient API querying. Key Responsibilities:Design, develop, and maintain high-performance applications using Java and J2EE technologies.Architect and implement microservices solutions that are scalable, reliable, and secure.Leverage Kubernetes for container orchestration and ensure high availability of applications.Integrate and optimize GraphQL APIs for flexible and efficient data querying and manipulation.Collaborate with cross-functional teams to define, design, and deliver new features.Ensure the implementation of best practices for security, performance, and scalability.Utilize AWS services (e.g., EC2, S3, RDS, Lambda) to deploy and manage cloud-native applications.Conduct code reviews, mentor junior developers, and contribute to continuous improvement initiatives.Troubleshoot and resolve application and infrastructure issues.Stay updated with emerging technologies and industry trends to drive innovation. Required Skills and Qualifications:experience in Java and J2EE development.Strong experience with Micro services architecture and development.Expertise in Kubernetes for deploying, scaling, and managing applications.Experience with GraphQL for building APIs.Proficiency in AWS cloud services and solutions.Strong knowledge of software engineering best practices, design patterns, and performance tuning.Familiarity with DevOps practices, CI/CD pipelines, and automated testing.Excellent problem-solving skills and a proactive attitude.Strong collaboration and communication skills to work with team members across various functions.Skills:JavaJ2EEKubernetesGraphQLMicroservicesAWS",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:49:20-05:00",
+        "unique_id": "192c0396e3eb5d23",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Adventa tech inc",
+        "job_title": "Senior Full-Stack Java Developer",
+        "location": "Pontiac, MI, USA",
+        "full_location": {
+            "city": "Pontiac",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 7 years of professional software development experience",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 + month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Postgres",
+                "Angular",
+                "RESTful APIs"
+            ],
+            "primary": [
+                "Microservices",
+                "Database technologies",
+                "Build/release automation",
+                "Multi-threaded development",
+                "Cloud platforms",
+                "Kubernetes",
+                "Docker",
+                "HPC platforms"
+            ],
+            "secondary": [
+                "Electrical wiring harness",
+                "General electrical concepts",
+                "Vehicle diagnostics",
+                "Agile environment",
+                "UI Design"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Postgres",
+                "Angular",
+                "RESTful APIs",
+                "Microservices",
+                "Database technologies",
+                "Build/release automation",
+                "Multi-threaded development",
+                "Cloud platforms",
+                "Kubernetes",
+                "Docker",
+                "HPC platforms",
+                "Electrical wiring harness",
+                "General electrical concepts",
+                "Vehicle diagnostics",
+                "Agile environment",
+                "UI Design"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "banani banojini das",
+        "email": "banani@adventatech.com",
+        "jd": "Job Description -1st priority the candidate should have work on GM within 2 to 3 yrs . not too far 2nd priority if not prior GM , The candidate should have worked before on large Automotive industry in their recent project like FORD The Senior Full-Stack Software Developer (Java/Spring Boot) will design, develop, and maintain high-performance, scalable applications. This role involves working across the entire tech stack, focusing on back-end services using Java, Spring Boot and Postgres, while also contributing to front-end development using Angular framework. Responsibilities include collaborating with cross-functional teams to deliver robust solutions, driving the architecture and design of new features, optimizing performance, and ensuring code quality through best practices like testing and code reviews. The ideal candidate has extensive experience with full-stack development, microservices, RESTful APIs, and database technologies.This role entails the following and will work with GM\u2019s Customer Care and Aftersales (CCA) and Manufacturing IT teams to help accelerate the development of one of home-grown product to expand for dealerships. We are looking for a Senior Full-Stack Software Developer who: \u2022 Has a steadfast drive for excellence \u2022 Challenges themselves with innovative spirit \u2022 Enjoys working collaboratively in a cross-functional teams \u2022 Demonstrates a strong work ethic \u2022 Excels in software engineering\u2022 Understanding of electrical wiring harness, general electrical concepts and vehicle diagnostics is a plus\u2022 Has a strong attention to detail\u2022 Developing scalable software solutions based on detailed business requirements and supported technology architecture.\u2022 Actively engage in development activities associated with developing new solutions and refining current solutions.\u2022 Demonstrate success in software project delivery, experience driving technical efforts, and experience with a variety of development tools and technologies.\u2022 Possess technical depth and applied experience in multi-layer solution development, performance tuning, solution debug, incident triage/remediation, and usability improvement.\u2022 Ability to demonstrate adaptive experience gaining technical situational depth quickly, quantifying impact assessment, triage & root causing activities, defining remediation options, and expressing declarative technical recommendations.\u2022 Engage to identify and remediate software opportunities related to code quality, security, framework development, and software usability refinement.\u2022 Proficiency in build/release automation solutions.\u2022 Demonstrated experience augmenting build/release automation solutions to include unit testing, code quality scanning, security scanning, and dependency management.\u2022 Demonstrate strong written and verbal communication skills.\u2022 Demonstrate experience and proficiency in the following technology platforms/patterns:Java, Azure TFS Build/Release Automation, UI Framework Development, API Framework Development, Data Layer Development, Unit Testing, UI Experience with Angular. Solutions Architecture (design, proposal, develop, deliver, sustain), Secured Development Patterns, and Practices Kubernetes/Dock Mobile Development Network (Firewall, Proxy, Gateway).",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:09:32-05:00",
+        "unique_id": "192de5073c209af5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

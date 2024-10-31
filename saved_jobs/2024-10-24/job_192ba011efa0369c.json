@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Vertex Elite",
+        "job_title": "AWS Architect",
+        "location": "Sleepy Hollow, NY, USA",
+        "full_location": {
+            "city": "Sleepy Hollow",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "VEAWSART0001"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Google Cloud",
+                "Infrastructure as Code",
+                "Terraform",
+                "CloudFormation"
+            ],
+            "primary": [
+                "Python",
+                "Bash",
+                "PowerShell",
+                "Networking",
+                "Security",
+                "Database Management"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "Google Cloud",
+                "Infrastructure as Code",
+                "Terraform",
+                "CloudFormation",
+                "Python",
+                "Bash",
+                "PowerShell",
+                "Networking",
+                "Security",
+                "Database Management"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "John Bender",
+        "email": "john@vertexelites.us",
+        "jd": "Dear AWS Architect, Vertex Elite is looking for ServiceNow Technical PM. Please share your profile, if you are looking for a job. Job Location: Sleepy Hollow, NY (Onsite) Work Authorization: USC/GC/GC-EAD/H4-EAD/L2EAD/H1B Required Skills Design, deploy, and manage scalable, secure, and reliable cloud infrastructure on AWS and Google Cloud platforms. Automate cloud operations and workflows using Infrastructure as Code (IaC) tools such as Terraform or CloudFormation. Implement security best practices and compliance controls across cloud environments. Extensive experience with AWS Cloud and Google Cloud platforms. Proficiency in scripting languages such as Python, Bash, or PowerShell. Strong understanding of networking, security, and database management in cloud environments.",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:21:05-05:00",
+        "unique_id": "192ba011efa0369c",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

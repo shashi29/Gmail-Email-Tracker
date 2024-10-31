@@ -1,0 +1,75 @@
+[
+    {
+        "company": "iTechUS Inc",
+        "job_title": "Python Developer",
+        "location": "Dearborn, MI, USA",
+        "full_location": {
+            "city": "Dearborn",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "3+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "Flask",
+                "Fast API",
+                "Rest API"
+            ],
+            "primary": [
+                "Application Development",
+                "Pytest",
+                "Jenkins",
+                "GCP"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Django",
+                "Flask",
+                "Fast API",
+                "Rest API",
+                "Application Development",
+                "Pytest",
+                "Jenkins",
+                "GCP"
+            ],
+            "with_experience": [
+                "Python (3+ years)",
+                "Django (2+ years)",
+                "Flask (2+ years)",
+                "Fast API (2+ years)",
+                "Rest API (1+ years)",
+                "Application Development (2+ years)",
+                "Pytest",
+                "Jenkins"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Prem",
+        "email": "prem@itechus.net",
+        "jd": "Title: Python Developer\nLocation: Dearborn, MI (Onsite from Day 1)\nDuration: 6+ Months Contract\nMust be Local and Passport No. is Mandatory\n\nRequired Skills:\n1. Should have at least 3+ years as Python backend development\n2. Any Framework Experience (2+ Yrs): Django, Flask, Fast API\n3. Should have at least 1+ years of working experience on Rest API\n4. Should have at least 2+ years of Application Development Experience\n5. Should have experience on Pytest and Jenkins\n6. Working experience on GCP will add an advantage.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:02:37-05:00",
+        "unique_id": "192ddb7d7880977c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

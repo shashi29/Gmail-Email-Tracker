@@ -1,0 +1,64 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Lead Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "AKS",
+                "Azure Security"
+            ],
+            "primary": [
+                "AKS Networking",
+                "Security",
+                "ACT (for AKS images)",
+                "Istio",
+                "Monitoring",
+                "Logging",
+                "Observability"
+            ],
+            "secondary": [],
+            "all": [
+                "Terraform",
+                "AKS",
+                "Azure Security",
+                "AKS Networking",
+                "Security",
+                "ACT (for AKS images)",
+                "Istio",
+                "Monitoring",
+                "Logging",
+                "Observability"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "From: rajkumar, NITYA Software Solutions Inc. rajkumar.v@nityainc.com Reply to: rajkumar.v@nityainc.com Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: Lead EngineerHands-on experience with Terraform, AKS, VMs, and Azure SecurityFocus on AKS Networking, Security, ACT (for AKS images), Istio, Monitoring, logging, and observabilityPrior experience in AKS Admin or developmentThank you,RajkumarEMAIL ID:rajkumar.v@nityainc.comNITYA Software Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-22 04:45:34-05:00",
+        "unique_id": "192b3be6220d31c2",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

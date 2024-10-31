@@ -1,0 +1,113 @@
+[
+    {
+        "company": "Tech Rakers",
+        "job_title": "Python Test Automation Architect",
+        "location": "San Diego, CA, USA",
+        "full_location": {
+            "city": "San Diego",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Cloud Infrastructure",
+                "Data Architecture",
+                "Automation",
+                "AWS"
+            ],
+            "primary": [
+                "AWS Lambda",
+                "S3",
+                "RDS",
+                "EMR",
+                "Azure Data Factory",
+                "Databricks",
+                "PySpark",
+                "PyTest",
+                "Docker",
+                "Kafka",
+                "MongoDB",
+                "Terraform",
+                "CloudFormation",
+                "Ansible",
+                "Apache Airflow",
+                "Jenkins",
+                "Bash",
+                "Java",
+                "Hadoop",
+                "Spark",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "DevOps methodologies",
+                "Data security",
+                "Privacy",
+                "Compliance",
+                "Problem-solving",
+                "Communication skills"
+            ],
+            "all": [
+                "Python",
+                "Cloud Infrastructure",
+                "Data Architecture",
+                "Automation",
+                "AWS",
+                "AWS Lambda",
+                "S3",
+                "RDS",
+                "EMR",
+                "Azure Data Factory",
+                "Databricks",
+                "PySpark",
+                "PyTest",
+                "Docker",
+                "Kafka",
+                "MongoDB",
+                "Terraform",
+                "CloudFormation",
+                "Ansible",
+                "Apache Airflow",
+                "Jenkins",
+                "Bash",
+                "Java",
+                "Hadoop",
+                "Spark",
+                "Kubernetes",
+                "DevOps methodologies",
+                "Data security",
+                "Privacy",
+                "Compliance",
+                "Problem-solving",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Suresh Kumar",
+        "email": "sureshk@techrakers.com",
+        "jd": "From: Suresh, Tech Rakers sureshk@techrakers.com Reply to: sureshk@techrakers.com San Deigo, CA\n\nPython Test Automation Architect : \n\nKey Responsibilities:\nDesign, build, and maintain scalable cloud data architectures and automated solutions that support data ingestion, processing, and storage.\nDevelop automation frameworks and tools for deploying and managing cloud infrastructure and data services.\nCollaborate with data engineers, DevOps teams, and data scientists to implement end-to-end data pipelines and workflows.\nEnsure automation of data quality, security, and governance processes, enabling seamless integration across cloud environments.\nDrive the implementation of cloud best practices, including monitoring, disaster recovery, security, and cost optimization.\nLead efforts in automating testing, deployment, and monitoring of data infrastructure.\nEvaluate and recommend tools and technologies to improve automation processes for cloud data platforms.\nProvide technical leadership, mentoring, and knowledge sharing within the team.\n\nQualifications:\nBachelor's or Master's degree in Computer Science, Information Technology, or a related field.\n7+ years of experience in data architecture, cloud infrastructure, and automation.\nHands-on experience with cloud platforms like AWS, Azure, or Google Cloud, with deep expertise in services such as AWS Lambda, S3, RDS, EMR, Azure Data Factory, Databricks, etc.\nHands-on experience in Python, PySpark, PyTest, Docker\nStrong knowledge in Kafka and MongoDB\nStrong knowledge of infrastructure-as-code (IaC) tools such as Terraform, CloudFormation, or Ansible.\nProven expertise in automating data pipelines using tools like Apache Airflow, Jenkins, or similar CI/CD tools.\nProficiency in scripting and programming languages (e.g., Python, Bash, Java).\nExperience with big data technologies such as Hadoop, Spark, or Kafka.\nStrong knowledge of DevOps methodologies and containerization tools (e.g., Docker, Kubernetes).\nDeep understanding of data security, privacy, and compliance in cloud environments.\nExcellent problem-solving and communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:08:24-05:00",
+        "unique_id": "192ddaaa1cba2928",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "company": "Atlantis",
+        "job_title": "SENIOR .NET DEVELOPER",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".C#",
+                "ASP.NET MVC Framework",
+                ".NET core",
+                "API programming",
+                "web service development",
+                "Service-Oriented Architecture"
+            ],
+            "primary": [
+                "Cloud services",
+                "Integration",
+                "SOAP",
+                "REST services",
+                "Web API",
+                "Kibana",
+                "Elastic search",
+                "Log stash",
+                "Fiddler",
+                "Postman",
+                "Charles",
+                "Docker",
+                "Kubernetes",
+                "XUnit"
+            ],
+            "secondary": [
+                "Microsoft Enterprise Library",
+                "Test Driven Development",
+                "automated unit testing",
+                "Event Base Architecture",
+                "excellent written and oral communications skills"
+            ],
+            "all": [
+                ".C#",
+                "ASP.NET MVC Framework",
+                ".NET core",
+                "API programming",
+                "web service development",
+                "Service-Oriented Architecture",
+                "Cloud services",
+                "Integration",
+                "SOAP",
+                "REST services",
+                "Web API",
+                "Kibana",
+                "Elastic search",
+                "Log stash",
+                "Fiddler",
+                "Postman",
+                "Charles",
+                "Docker",
+                "Kubernetes",
+                "XUnit",
+                "Microsoft Enterprise Library",
+                "Test Driven Development",
+                "automated unit testing",
+                "Event Base Architecture",
+                "excellent written and oral communications skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ram",
+        "email": "ram.a@atlantisitgroup.com",
+        "jd": "From: Ram, Atlantis ram.a@atlantisitgroup.com Reply to: ram.a@atlantisitgroup.com SENIOR .NET DEVELOPERLong term - ContractHYBRID - CHICAGO, ILResponsibilities:Provide software development services to external customers and internal project teams. Responsible for development and/or leadership in the creation of custom software solutions using Deliver Microsoft .Net technology solutions designed to meet customers' business needs.Design and architect solutions and have the ability to understand the customers' businesses is imperative.Acts as trusted advisor by creating and maintaining effective customer relationships to ensure customer satisfaction.Maintain knowledge of leading-edge technologies and industry/market domain knowledge.Work with technical leads/architects and functional resources to shape technical direction and technical strategies within the organization and for external customers.Must have Skills:Significant experience in web service development and Service-Oriented Architecture4+ years of software development experience of API programming4+ years of .C# and ASP.NET MVC Framework, .NET core, MiddlwareSolid understand of security issues related to multi-tier enterprise applicationsSolid understanding of Cloud services and IntegrationSolid understanding of SOAP, REST services, and Web API based web service protocolsLogging : Kibana, Elastic search, Log stashDev Tool : Fiddler, Postmam and CharlesDevOps: Docker and Kubernetes (understanding)Testing tool : XUnit Nice to have:Experience with Microsoft Enterprise LibraryExperience with Test Driven Development and automated unit testingExperience with Event Base ArchitectureExcellent written and oral communications skills",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:32:02-05:00",
+        "unique_id": "192c0254f5534645",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "company": "kk soft tech",
+        "job_title": "AWS-DevOps",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Terraform",
+                "Python",
+                "GitHub Actions"
+            ],
+            "primary": [
+                "S3",
+                "IAM",
+                "EC2",
+                "Route53",
+                "SNS",
+                "SQS",
+                "ELB",
+                "CloudWatch",
+                "Lambda",
+                "VPC",
+                "Denodo",
+                "Redshift",
+                "DynamoDB",
+                "Databricks",
+                "Glue",
+                "Athena",
+                "Python/Shell scripting"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "S3",
+                "IAM",
+                "EC2",
+                "Route53",
+                "SNS",
+                "SQS",
+                "ELB",
+                "CloudWatch",
+                "Lambda",
+                "VPC",
+                "Terraform",
+                "Python",
+                "Denodo",
+                "Redshift",
+                "DynamoDB",
+                "Databricks",
+                "Glue",
+                "Athena",
+                "GitHub Actions",
+                "Python/Shell scripting"
+            ],
+            "with_experience": [
+                "AWS (experience mandatory)",
+                "Automation (experience mandatory)",
+                "Bigdata (Experience with at least 2)",
+                "DevOPS (Mandatory)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sushant kumar",
+        "email": "sushant.s@kksoftwareassociates.com",
+        "jd": "From: sushant kumar, kk soft tech sushant.s@kksoftwareassociates.com Reply to: sushant.s@kksoftwareassociates.com AWS-DevOps Plano Texas - Day 1 Onsite Required Skills:AWS (experience mandatory): S3, IAM, EC2, Route53, SNS, SQS, ELB, CloudWatch, Lambda and VPCAutomation (experience mandatory): Terraform and PythonBigdata (Experience with atleast 2): Denodo, Redshift, DynamoDB, Databricks, Glue, and Athena.DevOPS (Mandatory): GitHub Actions, Python/Shell scripting Job descriptions:Required Skills:AWS (experience mandatory): S3, IAM, EC2, Route53, SNS, SQS, ELB, CloudWatch, Lambda and VPCAutomation (experience mandatory): Terraform and PythonBigdata (Experience with atleast 2): Denodo, Redshift, DynamoDB, Databricks, Glue, and Athena.DevOPS (Mandatory): GitHub Actions, Python/Shell scriptingResponsibilities:Extensive experience in designing, configuring, deploying, managing and automating AWS Core Services like S3, IAM, EC2, Route53, SNS, SQS, ELB, CloudWatch, Lambda and VPC.Experience in automating cloud deployments using Terraform and PythonExperience in DevOPS, administering the deployment, management, and monitoring of applications deployed on AWS via CI/CD.Maintaining the Jenkins pipeline and Perform code promotions through change managementExperience in AWS data platform services like Redshift, DynamoDB, Databricks, Glue, MLops and Athena.Ensuring the compliance of the data science operations on AWS.Monitoring usage, cost, and implement optimizations of a variety of AWS resources.Provision DynamoDB tables with encryption and grant access using the IAM policiesDeploy and manage AWS Serverless application running on API Gateway and LAMBDADeploy Redshift Clusters into VPC with encryption, enable cross region snapshots, configure subnet groups and setup monitoring, and resize the cluster using elastic and classic methodsManage Denodo VDBs, address performance issues, support onboarding of new apps and datasetsManage Denodo stored procedures, healthchecks, HA setup, and address connectivity issues.Provide detailed capacity assessment on a regular basis for Denodo, Redshift, and Databricks.",
+        "source": "Email",
+        "date_posted": "2024-10-25 14:54:04-05:00",
+        "unique_id": "192c55e6e833b726",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

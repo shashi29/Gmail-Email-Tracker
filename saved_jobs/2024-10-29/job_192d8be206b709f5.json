@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Intellect Business Solutions Inc",
+        "job_title": "Sr Java Backend Developer",
+        "location": "Santa Clara, CA, USA",
+        "full_location": {
+            "city": "Santa Clara",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Rest Micro Services"
+            ],
+            "primary": [
+                "Kafka",
+                "ES",
+                "Oracle",
+                "Postgress",
+                "Some Relational DB",
+                "Splunk",
+                "Unit testing",
+                "Caching"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Rest Micro Services",
+                "Kafka",
+                "ES",
+                "Oracle",
+                "Postgress",
+                "Some Relational DB",
+                "Splunk",
+                "Unit testing",
+                "Caching"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sudhir",
+        "email": "sudhir@intellectbusiness.com",
+        "jd": "From: Sudhir, Intellect Business solutions Inc sudhir@intellectbusiness.com Reply to: sudhir@intellectbusiness.com We are looking for a Sr Java Backend Developer for our direct client in Santa Clara, CA. Please send a resume with contact details, DL, H1, LinkedIn profile, and Passport number for submission. Not considering profiles without these details.15+ years of experience must. Duration: 6+months BE Tech Stack \u2013 Java, Spring, Spring Boot, Rest Micro Services, Kafka, ES, Oracle/ Postgress/ Some Relational DB, Splunk, Unit testing, Caching and so.",
+        "source": "Email",
+        "date_posted": "2024-10-29 09:11:33-05:00",
+        "unique_id": "192d8be206b709f5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

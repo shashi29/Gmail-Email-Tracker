@@ -1,0 +1,107 @@
+[
+    {
+        "company": "VY Systems",
+        "job_title": "Cloud Storage Engineer (Azure & GCP)",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Blob Storage",
+                "Azure Disks",
+                "Azure Files",
+                "Google Cloud Platform (GCP) storage services",
+                "Terraform"
+            ],
+            "primary": [
+                "SAN",
+                "NAS",
+                "iSCSI",
+                "NFS",
+                "object storage",
+                "data lifecycle management",
+                "Azure Backup",
+                "GCP Backup and DR",
+                "data encryption",
+                "Azure Key Vault",
+                "GCP KMS",
+                "GDPR",
+                "HIPAA",
+                "SOC 2",
+                "Azure Monitor",
+                "GCP Cloud Monitoring"
+            ],
+            "secondary": [
+                "Microsoft Certified: Azure Solutions Architect Expert",
+                "Google Professional Cloud Architect",
+                "Ansible",
+                "Puppet",
+                "Chef",
+                "hybrid cloud storage strategies",
+                "Kubernetes environments",
+                "AKS",
+                "GKE"
+            ],
+            "all": [
+                "Azure Blob Storage",
+                "Azure Disks",
+                "Azure Files",
+                "Google Cloud Platform (GCP) storage services",
+                "Terraform",
+                "SAN",
+                "NAS",
+                "iSCSI",
+                "NFS",
+                "object storage",
+                "data lifecycle management",
+                "Azure Backup",
+                "GCP Backup and DR",
+                "data encryption",
+                "Azure Key Vault",
+                "GCP KMS",
+                "GDPR",
+                "HIPAA",
+                "SOC 2",
+                "Azure Monitor",
+                "GCP Cloud Monitoring",
+                "Microsoft Certified: Azure Solutions Architect Expert",
+                "Google Professional Cloud Architect",
+                "Ansible",
+                "Puppet",
+                "Chef",
+                "hybrid cloud storage strategies",
+                "Kubernetes environments",
+                "AKS",
+                "GKE"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Perumal",
+        "email": "perumalsamy@vysystems.com",
+        "jd": "From: Perumal, Vy perumalsamy@vysystems.com Reply to: perumalsamy@vysystems.com Key: Please look for cloud storage services only with automation skill set candidates. Role Overview:We are seeking an experienced Cloud Storage Engineer to drive end-to-end self-service enablement for the storage area within our client\u2019s portfolio. The ideal candidate should possess strong expertise in native storage technologies, making them well-suited to manage cloud storage solutions with minimal oversight. The role requires deep experience in Azure, Google Cloud Platform (GCP), and automation tools such as Terraform to efficiently scale and maintain the storage infrastructure.Key Responsibilities:Design, implement, and manage cloud storage solutions across Azure and Google Cloud Platform (GCP).Enable end-to-end self-service capabilities for storage within the client's portfolio, ensuring teams can provision and manage storage autonomously.Leverage Terraform and other automation tools to streamline the deployment and management of cloud storage infrastructure.Optimize storage provisioning, scalability, and performance for various workloads and use cases within the client's environment.Collaborate closely with internal teams and clients to assess storage needs, provide solutions, and manage ongoing storage performance.Monitor and troubleshoot cloud storage performance, identifying and resolving bottlenecks related to IOPS, latency, and throughput.Develop and implement storage backup, disaster recovery (DR), and high availability strategies to ensure business continuity.Ensure compliance with industry regulations and data governance policies, including encryption, access controls, and data retention.Required Skills & Expertise:Cloud Platforms:Expertise in Azure storage services such as Azure Blob Storage, Azure Disks, and Azure Files.Experience with Google Cloud Platform (GCP) storage services, including Cloud Storage Buckets, Persistent Disks, and Filestore.Automation & Infrastructure as Code:Hands-on experience with Terraform for automating storage infrastructure deployment and management.Knowledge of integrating Terraform with CI/CD pipelines for continuous storage updates and provisioning.Storage Technologies & Concepts:Strong knowledge of native storage technologies such as SAN, NAS, iSCSI, NFS, and object storage.Expertise in cloud-based storage architecture and implementing solutions for data lifecycle management (tiering between hot, cold, and archive storage).Data Protection & Disaster Recovery:Proficient in configuring and managing backup solutions in cloud environments, including Azure Backup and GCP Backup and DR.Experience with disaster recovery (DR) strategies for multi-region failover and snapshot management.Security & Compliance:Experience with data encryption at rest and in transit, and implementing access control policies using cloud-native tools like Azure Key Vault and GCP KMS.Knowledge of regulatory compliance such as GDPR, HIPAA, and SOC 2, ensuring all storage solutions adhere to the required standards.Monitoring & Optimization:Proficient in using Azure Monitor, GCP Cloud Monitoring, and other cloud-native monitoring tools to track performance and storage health.Expertise in tuning performance metrics such as IOPS, throughput, and latency for optimal storage utilization.Preferred Qualifications:Certifications in Azure (e.g., Microsoft Certified: Azure Solutions Architect Expert) or GCP (e.g., Google Professional Cloud Architect).Experience with additional automation tools like Ansible, Puppet, or Chef.Familiarity with hybrid cloud storage strategies, integrating both on-premise and cloud-based storage solutions.Experience managing containerized storage in Kubernetes environments (e.g., AKS, GKE). Rgds,Perumal 408-520-9317",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:28:19-05:00",
+        "unique_id": "192c50feda36d67e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

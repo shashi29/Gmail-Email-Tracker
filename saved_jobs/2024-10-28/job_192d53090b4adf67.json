@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Northite",
+        "job_title": "Business Analyst",
+        "location": "Orlando, FL, USA",
+        "full_location": {
+            "city": "Orlando",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, Business Administration, or related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Hibernate",
+                "SDLC",
+                "SQL"
+            ],
+            "primary": [
+                "Agile",
+                "Scrum",
+                "Git",
+                "API integration",
+                "RESTful services"
+            ],
+            "secondary": [
+                "CI/CD",
+                "business intelligence tools",
+                "data analysis",
+                "cloud platforms (AWS, Azure)"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Hibernate",
+                "SDLC",
+                "SQL",
+                "Agile",
+                "Scrum",
+                "Git",
+                "API integration",
+                "RESTful services",
+                "CI/CD",
+                "business intelligence tools",
+                "data analysis",
+                "cloud platforms (AWS, Azure)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Asha",
+        "email": "asha@northite.com",
+        "jd": "From: Asha, Northite asha@northite.com Reply to: asha@northite.com Job Title: Business AnalystLocation: Orlando, FLDuration: FTERequired Qualifications:Bachelor\u2019s degree in Computer Science, Information Technology, Business Administration, or related field.10+ years of experience in business analysis, systems analysis, or a related role.Proven experience with Java development, including frameworks such as Spring and Hibernate.Strong understanding of software development life cycle (SDLC) methodologies (Agile/Scrum preferred).Ability to translate business requirements into technical solutions.Strong problem-solving skills with an analytical mindset.Excellent communication and interpersonal skills.Proficiency with version control systems like Git and experience with SQL or relational databases.Preferred Qualifications:Experience with API integration and RESTful services.Familiarity with modern development practices like CI/CD pipelines.Experience with business intelligence tools and data analysis.Knowledge of cloud platforms (AWS, Azure, etc.).asha@northite.com",
+        "source": "Email",
+        "date_posted": "2024-10-28 15:54:34-05:00",
+        "unique_id": "192d53090b4adf67",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

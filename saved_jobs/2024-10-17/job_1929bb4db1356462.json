@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Smart Folks Inc",
+        "job_title": "Java Lead Developer",
+        "location": "Greensboro, NC, USA",
+        "full_location": {
+            "city": "Greensboro",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "06 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Spring Security",
+                "Spring Batch",
+                "Spring AOP",
+                "Spring Data JPA"
+            ],
+            "primary": [
+                "Microservices",
+                "CI/CD",
+                "SQL"
+            ],
+            "secondary": [
+                "Kafka",
+                "Angular"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Spring Security",
+                "Spring Batch",
+                "Spring AOP",
+                "Spring Data JPA",
+                "Microservices",
+                "CI/CD",
+                "SQL",
+                "Kafka",
+                "Angular"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "mallesh",
+        "email": "mallesh@smartfolksinc.com",
+        "jd": "From: mallesh, Smart Folks Inc mallesh@smartfolksinc.com Reply to: mallesh@smartfolksinc.com Hi ,Greeting from Smart Folks \u2026!!!Please find the Job description below, if you are available and interested, please send us your word copy of your resume with following detail to mallesh@smartfolksinc.com Job Details:Job Role: Java DeveloperLocation: Greensboro NC 27401_Need Local Candidates Duration: 06 months Minimum years of experience:10+ YearsNeed Local Candidates NOTE: In-Person Interview is required at client office. Post selection, candidate will have flexibility to work remotelyJob Details:Must Have SkillsSpringbootSpring batchKafkaNice to have skillsAngularInsuranceDetailed Job DescriptionShould have good experience on and be able to Design, Code, Review in following technologies:\uf0a7 Java(14 or above) and Spring Boot\uf0a7 Spring Security\uf0a7 Spring Batch\uf0a7 Spring AOP\uf0a7 Spring Data JPAShould have worked on microservices development.Should have worked on CI/CD tools. ArgoCD is preferred.Should be able to co-ordinate with client technical leads/architects and offshore Infosys teams.Participate and contribute in requirements gathering discussions.Should have SQL queries and basic data model knowledge.Kafka and Angular experience is good to have.",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:44:04-05:00",
+        "unique_id": "1929bb4db1356462",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

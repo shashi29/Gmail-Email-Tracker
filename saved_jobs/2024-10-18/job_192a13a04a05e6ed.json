@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Estee Lauder",
+        "job_title": "AWS Platform Architect",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12-15+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Kubernetes",
+                "CI/CD",
+                "Terraform",
+                "Git"
+            ],
+            "primary": [
+                "AWS Certified Solutions Architect",
+                "Certified Kubernetes Administrator (CKA)",
+                "Argo CD",
+                "Infrastructure as Code (IaC)",
+                "Cloud Security"
+            ],
+            "secondary": [
+                "Networking concepts",
+                "Troubleshooting",
+                "Problem-solving",
+                "Communication skills"
+            ],
+            "all": [
+                "AWS",
+                "Kubernetes",
+                "CI/CD",
+                "Terraform",
+                "Git",
+                "AWS Certified Solutions Architect",
+                "Certified Kubernetes Administrator (CKA)",
+                "Argo CD",
+                "Infrastructure as Code (IaC)",
+                "Cloud Security",
+                "Networking concepts",
+                "Troubleshooting",
+                "Problem-solving",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Satendra Shukla",
+        "email": "sshukla@vsoftconsulting.com",
+        "jd": "From: Sammy, VSoft Consulting sshukla@vsoftconsulting.com Reply to: sshukla@vsoftconsulting.com Hi,Hope you doing great...!!I have an open position of AWS Platform Architect at NYC Downtown with one of my clients, let me know if you are interested. Please find below the following Job Description and if you find it relevant as per your skills, please share your updated profile.Title: AWS Platform ArchitectRequired Location: Hybrid in NYC Downtown. Need locals in Tri-State.Duration: 12+ MonthsClient: Estee LauderInterview Required: Video Job Description Below:We need a very senior (12-15+ years) AWS Platform/Infrastructure Architect with extensive experience to Design, implement, and manage highly scalable and reliable cloud infrastructure solutions based on AWS services as well as Deploy and manage Kubernetes clusters using best practices and industry standards. They must Develop and maintain CI/CD pipelines utilizing Git, GitHub, and Git Actions for efficient and automated deployments. The candidates experience should be around AWS Infrastructure. Utilize Terraform to automate infrastructure provisioning and configuration management.*** CANDIDATES NEED HAVE AWS CERTIFICATIONS AS WELL AS ARCHITECT/TOGAF CERTIFICATIONS. ***CANDIDATES NEED TO BE WITHIN A TWO HOUR COMMUTE TO MIDTOWN FOR OCCASIONAL ONSITE EVENTS. **Candidates must have Long Projects/Good Tenure, Excellent communication skills and a State issued ID (Not Bills) showing they are Local. Candidates must be LOCAL to the NEW YORK or NEW JERSEY area and COMMUTE into the office A FEW TIMES A QUARTER. Design, implement, and manage highly scalable and reliable cloud infrastructure solutions based on AWS services.Deploy and manage Kubernetes clusters using best practices and industry standards.Develop and maintain CI/CD pipelines utilizing Git, GitHub, and Git Actions for efficient and automated deployments.Collaborate with cross-functional teams to architect, build, and deploy applications and services on the cloud platform.Utilize Terraform to automate infrastructure provisioning and configuration management.Ensure the availability, performance, and security of the cloud infrastructure and applications.Conduct regular security audits, vulnerability assessments, and implement appropriate security controls.Collaborate with DevOps and development teams to optimize application performance and troubleshoot issues.Monitor and analyze cloud infrastructure usage and cost optimization, suggesting improvements and efficiencies.Stay updated with the latest cloud technologies and trends, evaluating their potential benefits and implementing them as appropriate.Requirements:Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).Strong experience working with AWS services, including EKS, S3, RDS, IAM, VPC.Solid understanding of containerization technologies, particularly Kubernetes, and experience deploying and managing Kubernetes clusters in a production environment.Proficiency in version control systems such as Git and experience with GitHub and Git Actions for CI/CD pipelines.Hands-on experience with Argo CD or similar continuous deployment tools.Strong knowledge of infrastructure as code (IaC) principles and experience with Terraform for infrastructure provisioning and management.Experience with global deployments and multi-region architectures.Deep understanding of cloud security best practices and hands-on experience implementing security controls and monitoring systems.Familiarity with networking concepts.Excellent troubleshooting and problem-solving skills, with the ability to analyze and resolve complex infrastructure and application issues.Strong communication skills and ability to collaborate effectively with cross-functional teams.Relevant certifications such as AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA), or similar are a plus.Join us in this exciting opportunity to shape and optimize our cloud infrastructure, ensuring the security and scalability of our applications and services.",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:27:40-05:00",
+        "unique_id": "192a13a04a05e6ed",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "company": "4 Serve",
+        "job_title": "Java Developer",
+        "location": "Michigan, USA",
+        "full_location": {
+            "city": "",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "J2EE",
+                "Spring framework",
+                "SQL",
+                "Oracle Database"
+            ],
+            "primary": [
+                "Deep understanding of JVM",
+                "Angular",
+                "Typescript",
+                "Node",
+                "HTML",
+                "CSS",
+                "Jersey",
+                "PL/SQL",
+                "MongoDB",
+                "CouchDB",
+                "Kafka",
+                "Elastic Stack",
+                "Unix",
+                "Shell Scripts",
+                "Docker",
+                "Memcached",
+                "REDIS",
+                "OIDC",
+                "SAML",
+                "Knowledge of DevOps practices"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "J2EE",
+                "Deep understanding of JVM",
+                "Spring framework",
+                "Angular",
+                "Typescript",
+                "Node",
+                "HTML",
+                "CSS",
+                "Jersey",
+                "SQL",
+                "PL/SQL",
+                "Oracle Database",
+                "MongoDB",
+                "CouchDB",
+                "Kafka",
+                "Elastic Stack",
+                "Unix",
+                "Shell Scripts",
+                "Docker",
+                "Memcached",
+                "REDIS",
+                "OIDC",
+                "SAML",
+                "Knowledge of DevOps practices"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "shyam",
+        "email": "shyam@4-serveinc.com",
+        "jd": "From: shyam, 4 serve shyam@4-serveinc.com Reply to: shyam@4-serveinc.com Java DeveloperLOCAL to MI Must have Technical Skills:Core Java/J2EEDeep understanding of JVM, ProfilingSpring frameworkAngular / Typescript / NodeHTML/CSSJerseySQL, PL/SQLOracle DatabaseMongoDB, CouchDB etc.KafkaElastic StackUnix / Shell ScriptsDockerMemcached / REDISOIDC / SAMLKnowledge of DevOps practices",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:27:30-05:00",
+        "unique_id": "192b48d601fd7b89",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

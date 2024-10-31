@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Northern Trust",
+        "job_title": "Sr Snowflake Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "PLSQL",
+                "Kafka",
+                "Azure"
+            ],
+            "primary": [
+                "Data engineering",
+                "Oracle",
+                "Databricks",
+                "Airflow",
+                "Python",
+                "SQL"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Git",
+                "Collaboration platforms"
+            ],
+            "all": [
+                "Snowflake",
+                "PLSQL",
+                "Kafka",
+                "Azure",
+                "Data engineering",
+                "Oracle",
+                "Databricks",
+                "Airflow",
+                "Python",
+                "SQL",
+                "CI/CD",
+                "Git",
+                "Collaboration platforms"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Zara",
+        "email": "zararaza@techrakers.com",
+        "jd": "We have a hybrid Snowflake Data Engineer role Preference is a local candidate. If you have a candidate that can relocate let me know, but they need to have all the required skills. If they\u2019re local and are missing one technology I can try to still to submit Please check Illinois candidates first. Skills:SnowflakePLSQLKafkaAzure10+ years of IT experience Northern TrustSr Snowflake Developer12 MonthsHybrid \u2013 Downtown Chicago Job DescriptionKey Responsibilities:Data Integration:Implement and maintain data synchronization between on-premises Oracle databases and Snowflake using Kafka and CDC tools.Support Data Modeling:Assist in developing and optimizing the data model for Snowflake, ensuring it supports our analytics and reporting requirements.Data Pipeline Development:Design, build, and manage data pipelines for the ETL process, using Airflow for orchestration and Python for scripting, to transform raw data into a format suitable for our new Snowflake data model.Reporting Support:Collaborate with data architect to ensure the data within Snowflake is structured in a way that supports efficient and insightful reporting.Technical Documentation:Create and maintain comprehensive documentation of data pipelines, ETL processes, and data models to ensure best practices are followed and knowledge is shared within the team.Additional Skills & QualificationsTools and Skillsets:Data engineering: proven track record of developing and maintaining data pipelines and data integration projectsDatabases: Strong experience with Oracle, Snowflake, and Databricks.Data Integration Tools: Proficiency in using Kafka and CDC tools for data ingestion and synchronization.Orchestration Tools: Expertise in Airflow for managing data pipeline workflows.Programming: Advanced proficiency in Python and SQL for data processing tasks.Data Modeling: Understanding of data modeling principles and experience with data warehousing solutions.Cloud Platforms: Knowledge of cloud infrastructure and services, preferably Azure, as it relates to Snowflake and Databricks integration.Collaboration Tools: Experience with version control systems (like Git) and collaboration platforms.CI/CD Implementation: Utilize CI/CD tools to automate the deployment of data pipelines and infrastructure changes, ensuring high-quality data processing with minimal manual intervention.Communication: Excellent communication and teamwork skills, with a detail-oriented mindset. Strong analytical skills, with the ability to work independently and solve complex problems.",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:13:34-05:00",
+        "unique_id": "1929c201a70d2027",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

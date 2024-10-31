@@ -1,0 +1,94 @@
+[
+    {
+        "company": "CAGUS",
+        "job_title": "DBT (Core | Cloud) Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "DBT Core",
+                "DBT Cloud",
+                "Python",
+                "PySpark",
+                "SQL"
+            ],
+            "primary": [
+                "AWS",
+                "Glue",
+                "Redshift",
+                "S3",
+                "Athena",
+                "EMR"
+            ],
+            "secondary": [
+                "Kafka",
+                "Airflow",
+                "data lakehouse architecture",
+                "Iceberg format",
+                "healthcare data systems",
+                "Agile environments",
+                "problem-solving",
+                "communication",
+                "collaboration"
+            ],
+            "all": [
+                "DBT Core",
+                "DBT Cloud",
+                "Python",
+                "PySpark",
+                "SQL",
+                "AWS",
+                "Glue",
+                "Redshift",
+                "S3",
+                "Athena",
+                "EMR",
+                "Kafka",
+                "Airflow",
+                "data lakehouse architecture",
+                "Iceberg format",
+                "healthcare data systems",
+                "Agile environments",
+                "problem-solving",
+                "communication",
+                "collaboration"
+            ],
+            "with_experience": [
+                "DBT Core (5+ years)",
+                "DBT Cloud (5+ years)",
+                "Python (5+ years)",
+                "PySpark (5+ years)",
+                "SQL (5+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Fizal",
+        "email": "fizal.a@cagus.com",
+        "jd": "From: Fizal, CAGUS fizal.a@cagus.com Reply to: fizal.a@cagus.com Role: DBT (Core/ Cloud) Developer with Python, PySpark, SQL, AWS.Location: RemoteJob Description: 8+ Years overall IT experience with minimum 5 years of work experience in below tech skillsTech Skills:Proficient in DBT Core/DBT Cloud.Experience in ensuring data quality and optimizing data lakes.Strong skills in Python scripting and PySpark.Solid expertise in SQL.Familiarity with AWS services such as Glue, Redshift, S3, Athena, and EMR.Understanding of data lakehouse architecture, particularly with Iceberg format, is a plus.Preferred: Experience with Kafka and Airflow.Strong understanding of healthcare data systems and experience leading data engineering teamsExperience in Agile environments.Excellent problem-solving skills and attention to detail.Effective communication and collaboration skills.",
+        "source": "Email",
+        "date_posted": "2024-10-18 13:19:08-05:00",
+        "unique_id": "192a14fe5e5fb2c5",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

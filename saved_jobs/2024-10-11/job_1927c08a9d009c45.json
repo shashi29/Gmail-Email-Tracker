@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Metasysinc",
+        "job_title": "Business Data Analyst",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS",
+                "Starburst",
+                "Python"
+            ],
+            "primary": [
+                "data querying",
+                "data analysis",
+                "data reporting",
+                "financial data analysis"
+            ],
+            "secondary": [
+                "bond ratings",
+                "data wrangling",
+                "communication skills",
+                "problem-solving skills"
+            ],
+            "all": [
+                "SQL",
+                "AWS",
+                "Starburst",
+                "Python",
+                "data querying",
+                "data analysis",
+                "data reporting",
+                "financial data analysis",
+                "bond ratings",
+                "data wrangling",
+                "communication skills",
+                "problem-solving skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Murali",
+        "email": "mkrishna@metasysinc.com",
+        "jd": "From: Murali, Metasysinc mkrishna@metasysinc.com Reply to: mkrishna@metasysinc.com Business Data AnalystRemote Position6+ Months ContractUpdate JDJob Summary:We are seeking a highly skilled Business Data Analyst with strong experience in data querying, analysis, and reporting. The ideal candidate will have advanced SQL skills, experience with AWS environments, the ability to query in Starburst, and basic Python skills for data wrangling. Familiarity with bond ratings and financial data is a plus.Key Responsibilities:Perform advanced SQL queries to analyze and retrieve data from multiple sources.Query and extract data in a Starburst environment.Utilize AWS services to manage and store data securely.Use Python for data wrangling, cleaning, and creating CSV exports.Analyze and interpret financial data, with a focus on bond ratings.Collaborate with cross-functional teams to gather and define business requirements.Prepare clear, actionable reports and dashboards for stakeholders.Qualifications:Proven experience as a Business Data Analyst.Advanced SQL skills (complex joins, subqueries, etc.).Familiarity with AWS environment (S3, Redshift, etc.).Experience querying in Starburst.Basic Python skills for data manipulation and automation.Knowledge of bond ratings and financial data is preferred.Strong analytical, problem-solving, and communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-11 08:37:18-05:00",
+        "unique_id": "1927c08a9d009c45",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

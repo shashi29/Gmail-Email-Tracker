@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Micasaglobal",
+        "job_title": "Database Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "PL/SQL",
+                "Oracle",
+                "Data Warehousing",
+                "ETL"
+            ],
+            "primary": [
+                "Database Development",
+                "Performance Tuning",
+                "Oracle SQL Loader",
+                "Snowflake",
+                "AWS",
+                "Azure"
+            ],
+            "secondary": [
+                "Strong written and oral communication skills",
+                "Problem-solving skills",
+                "Quantitative skills",
+                "Teamwork",
+                "Investment Management experience"
+            ],
+            "all": [
+                "SQL",
+                "PL/SQL",
+                "Oracle",
+                "Data Warehousing",
+                "ETL",
+                "Database Development",
+                "Performance Tuning",
+                "Oracle SQL Loader",
+                "Snowflake",
+                "AWS",
+                "Azure",
+                "Strong written and oral communication skills",
+                "Problem-solving skills",
+                "Quantitative skills",
+                "Teamwork",
+                "Investment Management experience"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Hemant Patel",
+        "email": "hemant@micasaglobal.com",
+        "jd": "From: Hemant Patel, Micasaglobal hemant@micasaglobal.com Reply to: hemant@micasaglobal.com ob Title: Database DeveloperLocation: Dallas, TX ( Hybrid Onsite)Job Type: C2CClient : ConfidentialJob Description: Who are we looking for? We are looking for 8+ Years of database development experience should have min 5+ years of relevant experience . Strong SQL experience in creating database objects like Tables, Stored Procedures, DDL/DML Triggers, Views, Indexes, Cursors, Functions & User defined data types. Technical Skills: \u2022 Looking for 8+ Years of database development experience and should have min 5+ years of relevant experience\u2022 Strong PLSQL experience in creating database objects like Tables, Stored Procedures, DDL/DML Triggers, Views, Indexes, Cursors, Functions & User defined data types.\u2022 Expertise in using Oracle Performance tuning concepts with Oracle hints and EXPLAIN PLAN tool\u2022 Strong experience using SQL and PL/SQL features like Built In Functions, Analytical Functions, Cursors, Cursor variables, Native dynamic SQL, bulk binding techniques and Packages/Procedures/Functions wherever applicable to process data in an efficient manner\u2022 Strong understanding of Data Warehousing and Extraction Transformation Loading (ETL)\u2022 Sound understanding of RDBMS (Oracle)\u2022 Should have used Oracle SQL Loader/External File Utilities to load files\u2022 Good to have experience with Snowflake cloud data platform including Snowflake utilities like SnowSQL, SnowPipe, data loading within cloud (AWS or Azure)\u2022 Strong written and oral communication skills\u2022 Excellent problem-solving and quantitative skills\u2022 Demonstrated ability to work as part of a team.\u2022 Investment Management experience in the past",
+        "source": "Email",
+        "date_posted": "2024-10-23 10:22:43-05:00",
+        "unique_id": "192ba1b617466b7f",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

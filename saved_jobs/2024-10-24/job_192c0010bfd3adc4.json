@@ -1,0 +1,53 @@
+[
+    {
+        "company": "tekpyramids",
+        "job_title": "Sr. Software Developer (Python)",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12+ months contract",
+            "rate": "$60-65/hr. on c2c",
+            "job_code": ""
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Java",
+                "API"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Java",
+                "API"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sanjoo Singh",
+        "email": "sanjoo@tekpyramids.com",
+        "jd": "From: sanjoo singh, tekpyramids sanjoo@tekpyramids.com Reply to: sanjoo@tekpyramids.com Face to Face interview Richmond VA Sr. Software Developer (Python)Richmond, VA \u2013 Hybrid$60-65/hr. on c2cONSITE Interview12+ months contractVisa: AnyKey skills: Python, Java, and API. Responsibilities:Set up the project environment:Install required dependencies (Flask, etc.).Set up the basic folder structure (app/, repositories/, factories/, views/).Initialize Flask in app/__init__.py and test a basic endpoint.Implement the repository pattern:Define the Repository interface and implement the in-memory DallasRepository.Include CRUD methods (get_all, get_by_id, create, update, delete).Write unit tests for the repository using pytest.Implement the abstract factory pattern:Define the AbstractFactory interface and implement DallasFactory to create the repository instance.Modify Flask views to use the factory for repository instantiation.Design CRUD API endpoints:Build Flask routes for CRUD operations (GET /items, GET /items/<id>, POST /items, PUT /items/<id>, DELETE /items/<id>).Test using Postman or curl.Enhance the API with error handling:Add custom error messages, 404 handling, and validation for request data (POST, PUT).Implement standardized error responses for invalid input.Test and debug the application:Write comprehensive unit tests for both the repository and Flask routes.Test routes with FlaskClient and debug issues, especially error handling.Document and deploy the API:Write API documentation (routes, data structure, usage).Set up Docker for deployment.Deploy to a cloud service (Heroku, AWS).Optimize for production:Improve API performance, implement security best practices (HTTPS, input sanitization), and set up logging and rate limiting.Optimize query efficiency and move from in-memory storage to databases.Monitor and maintain:Monitor logs, fix bugs, and implement performance monitoring.Add new features (pagination, search), and refactor for scalability as needed.",
+        "source": "Email",
+        "date_posted": "2024-10-24 13:49:51-05:00",
+        "unique_id": "192c0010bfd3adc4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

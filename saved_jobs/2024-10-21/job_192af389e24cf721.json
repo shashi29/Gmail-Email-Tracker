@@ -1,0 +1,78 @@
+[
+    {
+        "company": "ProcorpSytems",
+        "job_title": "Python Pyspark Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s Degree in Computer Science/Programming or similar is preferred",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Pipelines",
+                "Relational Datastores",
+                "NoSQL Datastores",
+                "Cloud Object Stores"
+            ],
+            "secondary": [
+                "Infrastructure as Code (Terraform)",
+                "Cloud Certification",
+                "ACID Compliant Formats (Hudi, Iceberg, Delta Lake)",
+                "Data Observability Solutions",
+                "Data Governance Frameworks"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS",
+                "Data Engineering",
+                "Data Pipelines",
+                "Relational Datastores",
+                "NoSQL Datastores",
+                "Cloud Object Stores",
+                "Infrastructure as Code (Terraform)",
+                "Cloud Certification",
+                "ACID Compliant Formats (Hudi, Iceberg, Delta Lake)",
+                "Data Observability Solutions",
+                "Data Governance Frameworks"
+            ],
+            "with_experience": [
+                "Python (5+ years)",
+                "Spark",
+                "AWS"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Dilip Kumar",
+        "email": "dilip@procorpsystems.com",
+        "jd": "From: Dilip Kumar, ProcorpSytems dilip@procorpsystems.com Reply to: dilip@procorpsystems.com Title: Python Pyspark DeveloperLocation: Plano TexasPosition summaryA Data Engineer at CMS is a software engineer with proficiency in data. The data engineer willbuild and maintain the CMS data warehouse which is used for both reporting and analyticsacross the company. The individual works cross functionally with technical and business teamsto identify opportunities to better leverage data. The data comes from a variety of sources and itis the responsibility of the data engineer to make sense of the data using cloud based systems(AWS) and provide a reliable and structured format to meet the different business needs atCMS.Duties and responsibilities\u25cf Collaborate with the team to build out features for the data platform and consolidate dataassets\u25cf Build, maintain and optimize data pipelines built using Spark\u25cf Advise, consult, and coach other data professionals on standards and practices\u25cf Work with the team to define company data assets\u25cf Migrate CMS\u2019 data platform into Chase\u2019s environment\u25cf Partner with business analysts and solutions architects to develop technicalarchitectures for strategic enterprise projects and initiatives\u25cf Build libraries to standardize how we process data\u25cf Loves to teach and learn, and knows that continuous learning is the cornerstone of everysuccessful engineer\u25cf Has a solid understanding of AWS tools such as EMR or Glue, their pros and cons andis able to intelligently convey such knowledge\u25cf Implement automation on applicable processesThe ideal candidate\u25cf 5+ years of experience in a data engineering position\u25cf Proficiency is Python (or similar) and SQL\u25cf Strong experience building data pipelines with Spark\u25cf Strong verbal & written communication\u25cf Strong analytical and problem solving skills\u25cf Experience with relational datastores, NoSQL datastores and cloud object stores\u25cf Experience building data processing infrastructure in AWS\u25cf Bonus: Experience with infrastructure as code solutions, preferably Terraform\u25cf Bonus: Cloud certification\u25cf Bonus: Production experience with ACID compliant formats such as Hudi, Iceberg orDelta Lake\u25cf Bonus: Familiar with data observability solutions, data governance frameworksRequirementsBachelor\u2019s Degree in Computer Science/Programming or similar is preferredRight to workMust have legal right to work in the USAEmail: Dilip@procorpsystems.com",
+        "source": "Email",
+        "date_posted": "2024-10-21 07:40:56-05:00",
+        "unique_id": "192af389e24cf721",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

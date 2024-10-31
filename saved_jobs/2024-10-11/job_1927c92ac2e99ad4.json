@@ -1,0 +1,111 @@
+[
+    {
+        "company": "Vbeyond",
+        "job_title": "Java AWS Architect",
+        "location": "Reston, VA, USA",
+        "full_location": {
+            "city": "Reston",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud Architecture",
+                "Serverless Architecture",
+                "Microservice Architecture",
+                "Integration Architecture - Messaging, API and File",
+                "Distributed Data Architecture",
+                "REST and GraphQL API"
+            ],
+            "primary": [
+                "XML/JSON",
+                "Observability and Monitoring",
+                "HA, Resiliency Architecture",
+                "Data Lake Design and Architecture"
+            ],
+            "secondary": [
+                "AWS",
+                "SQS",
+                "SNS",
+                "S3",
+                "ECS Fargate",
+                "Lambda",
+                "Containers",
+                "APIGEE API Gateway",
+                "Terraform",
+                "AWS Networking",
+                "OTel",
+                "Splunk",
+                "Java",
+                "Spring boot",
+                "Microservices",
+                "Python",
+                "Aurora PostgreSQL",
+                "DynamoDB",
+                "Redshift",
+                "Athena",
+                "Glue"
+            ],
+            "all": [
+                "AWS Cloud Architecture",
+                "Serverless Architecture",
+                "Microservice Architecture",
+                "Integration Architecture - Messaging, API and File",
+                "Distributed Data Architecture",
+                "REST and GraphQL API",
+                "XML/JSON",
+                "Observability and Monitoring",
+                "HA, Resiliency Architecture",
+                "Data Lake Design and Architecture",
+                "AWS",
+                "SQS",
+                "SNS",
+                "S3",
+                "ECS Fargate",
+                "Lambda",
+                "Containers",
+                "APIGEE API Gateway",
+                "Terraform",
+                "AWS Networking",
+                "OTel",
+                "Splunk",
+                "Java",
+                "Spring boot",
+                "Microservices",
+                "Python",
+                "Aurora PostgreSQL",
+                "DynamoDB",
+                "Redshift",
+                "Athena",
+                "Glue"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Hemant Kumar",
+        "email": "hemantk@vbeyond.com",
+        "jd": "From: Hemant Kumar, Vbeyond hemantk@vbeyond.com Reply to: hemantk@vbeyond.com Hi, I have job opportunity for you, if you are looking for new job, please email me your updated resume at your earliest Java AWS Architect Location- Reston, VA (Hybrid) Required Skills:AWS Cloud ArchitectureServerless ArchitectureMicroservice ArchitectureIntegration Architecture - Messaging, API and File Distributed Data ArchitectureREST and GraphQL APIXML/JSONObservability and MonitoringHA, Resiliency ArchitectureData Lake Design and Architecture Tech Stack:AWS, SQS, SNS, S3, ECS Fargate, Lambda, Containers, APIGEE API Gateway, Terraform, AWS Networking, OTel, SplunkJava, Spring boot, Microservices, PythonAurora PostgreSQL, DynamoDB, Redshift, Athena, GlueStrong Hand-on Programming experience",
+        "source": "Email",
+        "date_posted": "2024-10-11 11:38:14-05:00",
+        "unique_id": "1927c92ac2e99ad4",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

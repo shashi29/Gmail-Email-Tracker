@@ -1,0 +1,98 @@
+[
+    {
+        "company": "Tekgence",
+        "job_title": "Senior Platform Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s in Computer Science, Engineering, or related technical discipline or equivalent combination of training and experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spark Scala",
+                "AWS services",
+                "Kafka",
+                "NoSQL databases",
+                "Snowflake"
+            ],
+            "primary": [
+                "Cloud front",
+                "Aurora",
+                "Athena",
+                "AWS EC2",
+                "Data Modelling Fundamentals",
+                "Data Warehousing",
+                "ETL Fundamentals",
+                "Glue",
+                "Lake Formation",
+                "Lambda",
+                "Modern Data Platform Fundamentals",
+                "PLSQL",
+                "Python",
+                "S3",
+                "Spark - Pyspark",
+                "SQL (Basic + Advanced)",
+                "Step Functions",
+                "EBS /EFS"
+            ],
+            "secondary": [
+                "Java",
+                "Spark - Scala"
+            ],
+            "all": [
+                "Spark Scala",
+                "AWS services",
+                "Kafka",
+                "NoSQL databases",
+                "Snowflake",
+                "Cloud front",
+                "Aurora",
+                "Athena",
+                "AWS EC2",
+                "Data Modelling Fundamentals",
+                "Data Warehousing",
+                "ETL Fundamentals",
+                "Glue",
+                "Lake Formation",
+                "Lambda",
+                "Modern Data Platform Fundamentals",
+                "PLSQL",
+                "Python",
+                "S3",
+                "Spark - Pyspark",
+                "SQL (Basic + Advanced)",
+                "Step Functions",
+                "EBS /EFS",
+                "Java"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mahith Kumar",
+        "email": "mahith@tekgence.com",
+        "jd": "Hello,This is Mahith Kumar from Tekgence; I am writing to let you know regarding a job opportunities with one of my client as a Senior Platform Engineer Location: Remote Job Title: Senior Platform EngineerLocation: RemoteDuration: Long Term Job Description: 1. Proficiency in Spark Scala \u2013 Mandatory2. Experience with AWS services \u2013 Mandatory3. Knowledge of Kafka \u2013 Mandatory4. Familiarity with NoSQL databases (MongoDB, Cassandra) \u2013 Required5. Experience with Snowflake \u2013 PreferredAdditionally, please inform your candidates that they will be required to participate in a one-hour Spark Scala coding interview. During this live session, they will be expected to code online Primary SkillsCloud front, Aurora, Athena, AWS EC2, Data Modelling Fundamentals, Data Warehousing, ETL Fundamentals, Glue, Lake Formation, Lambda, Modern Data Platform Fundamentals, PLSQL, Python, S3, Spark - Pyspark, SQL (Basic + Advanced), Step Functions, EBS /EFSSecondary SkillsJava, Spark - ScalaSpecializationAWS Data Engineering Basic: Lead Data EngineerJob requirementsBachelor\u2019s in Computer Science, Engineering, or related technical discipline or equivalent combination of training and experience10+ years programming experience: building application frameworks, and back-end systems for high-volume pipelines using Go/Java/Python. Python/Java preferred.10+ years\u2019 experience building data frameworks, platforms and scaling them to large volume of data using message brokers. Kafka experience is must.5+ years\u2019 experience building streaming platform using Apache Kafka, Confluent Kafka, AWS Managed Kafka Service.5+ years\u2019 experience ingesting data from SQL Server/My SQL/Oracle using Change Data Capture, debezium, and Kafka Connect.2 years\u2019 experience using AWS Data Services: any combination of DMS, EMR, Glue, Athena, S3, CloudWatch, Lambda or IAM1-year exp. with data architecture, ETL and processing of structured and unstructured data2 years\u2019 experience with DevOps tools (any combination of GitHub, TravisCI or Jira) and methodologies (Lean, Agile, Scrum, Test Driven Development)",
+        "source": "Email",
+        "date_posted": "2024-10-10 11:32:26-05:00",
+        "unique_id": "19277c222e5d07db",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Sibi Talent",
+        "job_title": "Senior Backend Developer (C#)",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "REST Web Services",
+                ".Net Framework",
+                "WebApi",
+                "MS SQL"
+            ],
+            "primary": [
+                "asynchronous mechanisms",
+                "APIs",
+                "Git",
+                "Agile",
+                "clean coding practices"
+            ],
+            "secondary": [
+                "financial market data management",
+                "gRPC",
+                "NoSQL databases",
+                "Docker",
+                "OpenShift"
+            ],
+            "all": [
+                "C#",
+                "REST Web Services",
+                ".Net Framework",
+                "WebApi",
+                "MS SQL",
+                "asynchronous mechanisms",
+                "APIs",
+                "Git",
+                "Agile",
+                "clean coding practices",
+                "financial market data management",
+                "gRPC",
+                "NoSQL databases",
+                "Docker",
+                "OpenShift"
+            ],
+            "with_experience": [
+                "C# (6+ years)",
+                "REST Web Services",
+                ".Net Framework",
+                "WebApi",
+                "MS SQL"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sapna Thakur",
+        "email": "sapnathakur@sibitalent.com",
+        "jd": "From: Sapna Thakur, Sibi Talent sapnathakur@sibitalent.com Reply to: sapnathakur@sibitalent.com Senior Backend Developer (C#)New York City, NY (Hybrid)Duration :: 12 months Experience :: 8+ years Phone + Video JD:Project descriptionProject for US-based hedge fund. The firm invests in multiple asset classes and strategies, namely long/short equity, systematic, global macro, and venture capital.We're looking for talented engineers for a highly visible and impactful internal product. As a software developer in the market data team, you will be responsible for the firm's primary market data management system that supports both real-time and end-of-day processes critical to client's Macro trading business.This is a highly visible role with significant business exposure. The engineer will be driving improvements to the primary system used at the firm to configure and disseminate market data for end-of-day and end-of-month operations, as well as provide intraday market data for our real-time risk and P&L systems used by the front office teams.This is a hands-on software developer position where you will be expected to balance tactical needs with strategic goals, while keeping a product ownership approach to software development.This role requires a combination of deep technical expertise, as well as an ability to balance tactical and strategic goals, and a strong sense of ownership over the product being worked on.The ideal candidate will have a strong technical background in either market data or risk systems. ResponsibilitiesEnhancements to Market Data Operations: Be able to improve systems and processes that support an end-to-end market data lifecycle, including acquisition, normalization, control, distribution, and archiving. Ensure timely and accurate delivery of market data to trading and analytical systems, with a strong focus on market data needed to value the firm portfolio both intraday and at end-of-day.Manage Data Flows: Optimize data pipelines and infrastructure to handle large volumes of market data efficiently and with minimal latency.Stakeholder Management: Collaborate with internal stakeholders to onboard new market data feeds, manage existing data feeds, and resolve issues on an ongoing basis in a timely manner.Data Quality Assurance: Implement and maintain data quality standards and processes. Monitor data integrity and address any discrepancies or issues promptly.System Integration: Oversee the integration of market data with various trading platforms, analytics tools, and reporting systems.Continuous Improvement: Stay abreast of industry trends and advancements in market data technologies SkillsMust haveMust be passionate about building mission-critical, elegantly engineered, scalable systems6+ years of relevant experienceProficient in creating REST Web Services using C#Thorough understanding of asynchronous mechanisms used in modern .net developmentExperience building APIsProficiency in .Net Framework, C#, WebApi, MS SQLExperience with Git source code managementProfessional, precise communication skillsCommitment to the highest ethical standardsCreating self-contained, reusable, and testable modules and componentsMust actively practice clean coding practices (SOLID, continuous refactoring, testing)Comfortable operating in a fast paced, Agile environmentFluency in operating with databasesWriting extensive unit tests using automated TDD tasksCreating configuration, build, and test scripts for Continuous Integration environments Nice to haveExperience with financial market data managementExposure to gRPC binary protocolExposure to NoSQL databasesContainerized deployments using Docker, OpenShift etc Thanks & RegardsSapna Thakur | Sr. Technical Recruiter",
+        "source": "Email",
+        "date_posted": "2024-10-17 11:44:17-05:00",
+        "unique_id": "1929b7e21745c649",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

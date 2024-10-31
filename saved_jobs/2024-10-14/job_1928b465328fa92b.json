@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "AWS Data Engineer",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "ETL",
+                "Data Pipelines",
+                "DBT",
+                "Snowflake"
+            ],
+            "primary": [
+                "DevOps",
+                "CI/CD",
+                "Infrastructure as Code",
+                "Data Lakes",
+                "Data Warehouses"
+            ],
+            "secondary": [
+                "Data Quality",
+                "Automation",
+                "Data Solutions",
+                "Analytics"
+            ],
+            "all": [
+                "AWS",
+                "ETL",
+                "Data Pipelines",
+                "DBT",
+                "Snowflake",
+                "DevOps",
+                "CI/CD",
+                "Infrastructure as Code",
+                "Data Lakes",
+                "Data Warehouses",
+                "Data Quality",
+                "Automation",
+                "Data Solutions",
+                "Analytics"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pradeep Sharma",
+        "email": "pradeep.sharma@scalable-systems.com",
+        "jd": "From: Pradeep, Scalable Systems pradeep.sharma@scalable-systems.com Reply to: pradeep.sharma@scalable-systems.com Hi,Greetings of the day! I have an urgent requirement below, please go through JD and let me know if you are comfortable or have any profile. Kindly revert me back with your updated resume as well. Job Title: AWS Data Engineer Location: Malvern, PA (Work from Office)Duration: Long Term Contract Responsibilities:We are looking for strong AWS Data Engineers who are passionate about Cloud technology.Your work will be to:Design and Develop Data Pipelines: Create robust pipelines to ingest, process, and transform data, ensuring it is ready for analytics and reporting.Implement ETL/ELT Processes: Develop Extract, Transform, Load (ETL) or Extract, Load, Transform (ELT) workflows to seamlessly move data from source systems to Data Warehouses, Data Lakes, and Lake Houses using Open Source and AWS tools.Worked on DBT (Data Build Tool) to perform transformations on Snowflake data.Worked on Extracting, Transforming and Loading data into Snowflake.Created complex queries to pull data from multiple source tables and created testing scripts to verify the data quality accuracy in the target tablesAdopt DevOps Practices: Utilize DevOps methodologies and tools for continuous integration and deployment (CI/CD), infrastructure as code (IaC), and automation to streamline and enhance our data engineering processes.Design Data Solutions: Leverage your analytical skills to design innovative data solutions that address complex business requirements and drive decision-making Thanks & Regards, Pradeep SharmaEmail: pradeep.sharma@scalable-systems.com \"Scalable Systems is an Equal Opportunity Employer. We are committed to creating an inclusive environment for all employees and do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other legally protected status.\"",
+        "source": "Email",
+        "date_posted": "2024-10-14 07:50:11-05:00",
+        "unique_id": "1928b465328fa92b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "company": "Sapphire Software Solutions",
+        "job_title": "Java Backend Developer",
+        "location": "St Louis, MO, USA",
+        "full_location": {
+            "city": "St Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6-8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [
+                "Design Patterns"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Design Patterns"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jatin",
+        "email": "jatin@sapphiresoftwaresolutions.com",
+        "jd": "From: Jatin, Sapphire Software Solutions jatin@sapphiresoftwaresolutions.com Reply to: jatin@sapphiresoftwaresolutions.com Job Title: Java Backend DeveloperLocation: St Louis, MODuration: 12+ Months Contract Job Description:Skill set:Java, spring boot, Microservices and Design patterns experience is a must.Core backend development.6-8 +years of development experience",
+        "source": "Email",
+        "date_posted": "2024-10-14 14:31:24-05:00",
+        "unique_id": "1928ca428eb9f405",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

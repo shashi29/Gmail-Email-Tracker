@@ -1,0 +1,54 @@
+[
+    {
+        "company": "Datagama",
+        "job_title": "Data Engineer",
+        "location": "Richmon, NY, USA",
+        "full_location": {
+            "city": "Richmon",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Spark/PySpark",
+                "AWS (EMR, EC2, Glue, Lambda, S3)"
+            ],
+            "primary": [
+                "Databricks"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Spark/PySpark",
+                "AWS (EMR, EC2, Glue, Lambda, S3)",
+                "Databricks"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sai Teja",
+        "email": "saiteja.b@datagama.com",
+        "jd": "From: saiteja, Datagama saiteja.b@datagama.com Reply to: saiteja.b@datagama.com Job Title: Data EngineerLocation: Richmon, McLean, NYDuration: Long TermJob Description:Python, Spark/PySpark, AWS (EMR, EC2, Glue, Lambda, 53), Sperk, Python, DatabricksBest Regards Sai TejaSr. IT Recruiter \u200bE - Mail I'D : saiteja.b@datagama.comPH: 732-402-8141",
+        "source": "Email",
+        "date_posted": "2024-10-15 16:56:54-05:00",
+        "unique_id": "19293418a16f32b3",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Nepstaff",
+        "job_title": "AWS System Analyst and Developer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS services monitoring",
+                "AWS IaaS and PaaS support",
+                "Linux administration",
+                "Security based on zero trust model"
+            ],
+            "primary": [
+                "Strong Programming skills",
+                "Splunk experience",
+                "Dev/Ops concepts",
+                "AWS SysOps Administrator Certification"
+            ],
+            "secondary": [
+                "Excellent oral and written communication skills",
+                "Ability to manage multiple responsibilities",
+                "Prioritization of conflicting assignments"
+            ],
+            "all": [
+                "AWS services monitoring",
+                "AWS IaaS and PaaS support",
+                "Linux administration",
+                "Security based on zero trust model",
+                "Strong Programming skills",
+                "Splunk experience",
+                "Dev/Ops concepts",
+                "AWS SysOps Administrator Certification",
+                "Excellent oral and written communication skills",
+                "Ability to manage multiple responsibilities",
+                "Prioritization of conflicting assignments"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Sai",
+        "email": "sai@nepstaff.com",
+        "jd": "From: Sai, nepstaff sai@nepstaff.com Reply to: sai@nepstaff.com Hi,Hope you are doing great,Hiring on AWS System Analyst/Developer - Onsite Work : Austin, TX 78751. The working position is Hybrid Skills Required: Minimum Requirements:Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.YearsRequired/PreferredExperience10RequiredExperience in establishing proactive controls to monitor the health of various AWS services to improve reliability of tools/applications.10RequiredExperience in supporting, maintaining, monitoring, and securing various AWS IaaS and PaaS services.8RequiredExperience in improving the security of various services based on zero trust model.8RequiredDemonstrated experience with Linux administration and troubleshooting network issues.4PreferredStrong Programming skills2PreferredSplunk experience strongly preferred2PreferredExperience or Knowledge of Dev/Ops concepts1PreferredAWS SysOps Administrator Certification.1PreferredEffectively manage multiple responsibilities, prioritize conflicting assignments, and switch quickly between assignments, as required.1PreferredExcellent oral and written communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-23 08:15:50-05:00",
+        "unique_id": "192baa46b5e95f81",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

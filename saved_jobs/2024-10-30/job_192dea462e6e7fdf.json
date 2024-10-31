@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Spar",
+        "job_title": "Python Solution Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "RESTful Web Services",
+                "Microservices",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Docker",
+                "AWS",
+                "Azure",
+                "Unix/Linux",
+                "Git",
+                "BitBucket"
+            ],
+            "secondary": [
+                "Kafka",
+                "Redis",
+                "OKTA",
+                "Java"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "RESTful Web Services",
+                "Microservices",
+                "Kubernetes",
+                "Docker",
+                "AWS",
+                "Azure",
+                "Unix/Linux",
+                "Git",
+                "BitBucket",
+                "Kafka",
+                "Redis",
+                "OKTA",
+                "Java"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "mohit",
+        "email": "mohit.n@sparinfosys.com",
+        "jd": "Title: Python Solution Architect\nLocation is Remote\nLong Term\n\nResponsibilities:\n\u2022 Participate in agile software development, prototyping and code reviews with a small team of developers\n\u2022 Design and implement the complex python back-end application and data pipeline\n\u2022 Provide supervision and guidance to development teams\n\u2022 Continually research the current and emerging technologies and propose changes where needed\n\u2022 Inform various stakeholders about any issues with the current technical solutions being implemented\n\u2022 Communicate directly with enterprise architects, developers, and clients.\n\u2022 Assess the business impact that certain technical choices have\n\u2022 Design, implement and/or use RESTful web services\n\u2022 Write testable, well-thought-out code within the Python ecosystem\n\u2022 Deploy applications using Dockers and Kubernetes\n\u2022 Deploy applications in cloud-based servers.\n\u2022 Performance testing software under load to ensure reliability and scalability\n\u2022 Monitor timelines and progress to ensure that team members are adhering to these specifications.\n\u2022 Be a good team player\n\u2022 Must have spoken and writing skills in English\n\nRequirements:\n\u2022 10+ years of experience as a Python developer/Solution Architect and/or server-side coding\n\u2022 Attention to detail and an ability to build reliable, scalable, and flexible software\n\nMandatory Skills:\n\u2022 Prior experience working on a scalable cloud-based application\n\u2022 Very Strong knowledge and experience with Python. Expert in python class, collection, NumPy, pandas, etc\n\u2022 Very Strong knowledge and experience with SQL, RDMS, Data modeling, and DB design.\n\u2022 Must have experience in designing, implementing, and using RESTful Web Services with Service-Oriented Architecture\n\u2022 Must Have experience in developing applications using Microservice\n\u2022 Should Have experience with Kubernetes/OCP\n\u2022 Must have good hands-on experience working in Unix/Linux platforms.\n\u2022 Solid understanding of version control principles, preferably using Git/BitBucket\n\u2022 Must have working experience use of logger.\n\u2022 Good knowledge and experience in working with cloud services - AWS/Azure\n\u2022 Good knowledge and experience with deploying applications using Dockers and Jenkins\n\nGood to Have skills:\n\u2022 Good to have knowledge and experience deploying applications on a cloud instance a plus\n\u2022 Good to have experience with Kafka and Redis\n\u2022 Good to have experience in handling streaming data.\n\u2022 Good to have knowledge and experience with authentication methods using OKTA or third-party apps.\n\u2022 Good to have some experience with core Java.",
+        "source": "Email",
+        "date_posted": "2024-10-30 12:41:13-05:00",
+        "unique_id": "192dea462e6e7fdf",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

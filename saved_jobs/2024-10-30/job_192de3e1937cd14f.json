@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Intelligenz IT",
+        "job_title": "AWS with API Technical Lead",
+        "location": "Alameda, CA, USA",
+        "full_location": {
+            "city": "Alameda",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "BE/Btech",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud",
+                "AWS API Gateway",
+                "AWS Lambda",
+                "Python"
+            ],
+            "primary": [
+                "API Design and Development",
+                "Architectural Guidance",
+                "Performance and Scalability",
+                "Security and Compliance",
+                "Continuous Improvement"
+            ],
+            "secondary": [
+                "Good communication skills",
+                "Team bonding and collaboration",
+                "Good attitude"
+            ],
+            "all": [
+                "AWS Cloud",
+                "AWS API Gateway",
+                "AWS Lambda",
+                "Python",
+                "API Design and Development",
+                "Architectural Guidance",
+                "Performance and Scalability",
+                "Security and Compliance",
+                "Continuous Improvement",
+                "Good communication skills",
+                "Team bonding and collaboration",
+                "Good attitude"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mohit Jaiswal",
+        "email": "mohit.jaiswal@intelligenzit.com",
+        "jd": "Job Overview:\nAs an API / Solutions Architect, you will be responsible for designing, developing, and maintaining complex API solutions that meet the requirements as well as adhere to established architectural principles, standards, and patterns.\n\nHe / She will collaborate closely with cloud engineering platform team to work on API and Devops tools. He / she will collaborate with software developers, system architects, product managers, and stakeholders, to ensure APIs are robust, scalable, and secure.\n\nMandatory Skills:\nTotal IT 13+ Years\nMinimum: 5 Years AWS Cloud Experience\nAWS API Gateway\nAWS Lambda\nAble to write Lambda functions using Python\n\nPrimary (Must have skills):\nKey Responsibilities:\nAPI Design and Development: Lead the design and development of APIs that enable integration between various AWS components.\nDefine API standards, best practices, and guidelines to ensure consistency across APIs.\nArchitectural Guidance: Provide reviews on present AWS architecture implementation and provide technical leadership and guidance on API architecture, design decisions, and implementation strategies.\nCollaborate with solution architects and development teams to integrate API solutions into larger systems or platforms.\nTechnologies and Frameworks: Use of Okta for authentication make use of CSRF and Access tokens.\nKnowledge of AWS well architected framework pillars.\nPerformance and Scalability: Design APIs with a focus on performance, scalability, reliability, and security.\nConduct performance tuning and optimization of APIs to handle high traffic and large volumes of data.\nSecurity and Compliance: Implement security measures such as authentication, authorization, encryption, and data protection mechanisms in APIs.\nUnderstand AWS SSO API working and cross role working across accounts.\nContinuous Improvement: Stay updated on emerging technologies, industry trends, and best practices related to APIs and integration.\nDrive initiatives for continuous improvement of API development processes, tools, and methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-30 10:49:29-05:00",
+        "unique_id": "192de3e1937cd14f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Senior PL/SQL Developer",
+        "location": "Philadelphia, PA, USA",
+        "full_location": {
+            "city": "Philadelphia",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "BS/BA in Computer Science, Engineering, or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "24+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "Toad",
+                "SQL Plus",
+                "DML",
+                "debugging"
+            ],
+            "primary": [
+                "creating views",
+                "creating packages",
+                "creating functions",
+                "creating stored procedures",
+                "working with collections",
+                "working with async processes",
+                "interpreting execution plans",
+                "optimizing queries"
+            ],
+            "secondary": [
+                "troubleshooting",
+                "communication skills",
+                "attention to detail"
+            ],
+            "all": [
+                "PL/SQL",
+                "Toad",
+                "SQL Plus",
+                "DML",
+                "debugging",
+                "creating views",
+                "creating packages",
+                "creating functions",
+                "creating stored procedures",
+                "working with collections",
+                "working with async processes",
+                "interpreting execution plans",
+                "optimizing queries",
+                "troubleshooting",
+                "communication skills",
+                "attention to detail"
+            ],
+            "with_experience": [
+                "PL/SQL (5+ years)",
+                "Toad",
+                "SQL Plus"
+            ]
+        },
+        "job_type": [
+            "remote",
+            "onsite"
+        ],
+        "contact_person": "Ravina",
+        "email": "ravina@vyzeinc.com",
+        "jd": "From: Ravina, Vyze Inc ravina@vyzeinc.com Reply to: ravina@vyzeinc.com Job Description -NEED LOCAL FROM PA.Job title: Senior PL/SQL Developer Visa: GC & USCLocation : Philadelphia, PA.NEED LINKEDIN & 10+ years candidates also with US Company experience.This role can be remote. Please let me know if your prior candidates are available and interested. I would like to set up calls for tomorrow morning or on Monday with them. Please only share senior candidates with strong communication skills. Senior Oracle PL/SQL Developer for a 24+ month contract opportunity at our client in Philadelphia, PA.We require an Oracle PL/SQL developer to create back-end software. You will work on existing mission critical applications. You must be able to interpret business requirement documents, write functional code and unit test. Additionally, you will be required to fix defects in legacy code. You need to be a team player and excellent communicator and must be able to work with source control on multiple simultaneous branches. Responsibilities:Participate in requirements analysisTake direction from senior developersCollaborate with internal teams to produce softwareWrite clean, scalable codeUnit test and prepare applications for deploymentRevise, update, refactor and debug codeImprove existing softwareCreate documentation as requiredProvide production supportAvailable to provide third tier support to the help desk on assigned weekends and holidays if needed.Required:Proven experience as a PL/SQL Application Developer using Toad, SQL Plus (minimum 5 years)Ability to create views, packages, functions, and stored proceduresAbility to work with collectionsAbility to work with async processesInterpret execution plans and optimize queries and functionsAbility to create complex DML and debugExcellent troubleshooting and communication skillsAttention to detail is of the utmost importanceBS/BA in Computer Science, Engineering, or equivalent experience with at least 5 years of development experience.",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:16:32-05:00",
+        "unique_id": "192bf0486415da70",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

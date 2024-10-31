@@ -1,0 +1,58 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "AWS developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Node JS",
+                "AWS",
+                "Elastic search"
+            ],
+            "primary": [
+                "Javascript",
+                "React"
+            ],
+            "secondary": [],
+            "all": [
+                "Node JS",
+                "AWS",
+                "Elastic search",
+                "Javascript",
+                "React"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Aman Saxena",
+        "email": "aman@adventatech.com",
+        "jd": "From: Aman Saxena, Adventa Tech aman@adventatech.com Reply to: aman@adventatech.com Hi, Hope you are doing good. I have following requirement, please reply me back with profile along with rate expectation Job Description -Node JS/AWS developerRemote6 MonthsHiring Process:IV: 1 hour int with panel interview with coding challengeJOB DESCRIPTIONProject This is for Bank tech line of business & for an internal knowledge management customer service app that helps 10000 + customer agents to help customers with various queries .This app is part of the pilot program which will use AI to help agent answers all the questions for customers .There are 5 members in the team and 1 of the team member is moving to another project so they are backfilling the position .The day to day responsibilities looks like supporting the app , work on elastic search functionality .The project is already existing & this role will involve both development & production support work . Must have skills (ALL MUST)Node JS Javascript React AWS (ECS, Lambda S3, RDS, CloudWatch)- ALL MUSTElastic search AMAN SAXENATechnical recruiterAdventa Tech Inc. (An E-Verified Company)24718 Tribe Square #306, Dulles, VA 20166 Phone: 571-667-9883E-Mail: aman@adventatech.com Website: www.adventatech.com",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:45:22-05:00",
+        "unique_id": "192ba9bf4dac40ea",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

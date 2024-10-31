@@ -1,0 +1,92 @@
+[
+    {
+        "company": "VDart.inc",
+        "job_title": ".Net full stack Developer",
+        "location": "Redmond, WA, USA",
+        "full_location": {
+            "city": "Redmond",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "Web APIs",
+                "ASP.NET",
+                "Azure",
+                "SQL"
+            ],
+            "primary": [
+                "Core .NET",
+                "API Integration",
+                "Azure Functions",
+                "Azure Logic Apps",
+                "Azure Service Bus",
+                "Azure Event Grid",
+                "Azure Pipelines",
+                "ReactJS",
+                "JavaScript"
+            ],
+            "secondary": [
+                "Azure Data skills",
+                "ADF Pipelines",
+                "Azure Synapse",
+                "Azure Data Lake",
+                "Dynamics 365 CE skills",
+                "Power Platform",
+                "TypeScript"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "Web APIs",
+                "ASP.NET",
+                "Azure",
+                "SQL",
+                "Core .NET",
+                "API Integration",
+                "Azure Functions",
+                "Azure Logic Apps",
+                "Azure Service Bus",
+                "Azure Event Grid",
+                "Azure Pipelines",
+                "ReactJS",
+                "JavaScript",
+                "Azure Data skills",
+                "ADF Pipelines",
+                "Azure Synapse",
+                "Azure Data Lake",
+                "Dynamics 365 CE skills",
+                "Power Platform",
+                "TypeScript"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mohamed Razith.R",
+        "email": "razith.r@vdartinc.com",
+        "jd": "Job Role: .Net full stack Developer\nLocation: Redmond, WA Onsite (3-day in-office requirement)\nEmployment Type: Contract\n\nMandatory skills : Required Skills:\nFull-Stack Developers: Expertise in C#, .NET, Web APIs, ASP.NET, Azure, and SQL.\n\nJob Description (Posting).\n\"Must Have Skills: Strong hands-on experience in Core .NET + API Integration skills + Azure (Senior resource who can also unblock team members in case of technical issues/blockers) C#, .NET core Web App developer capable of deploying hosting on App Services. Azure Functions Azure Logic Apps Azure Service Bus, Azure Event Grid Deployment using Azure Pipelines ReactJS JavaScript\n\nGood To Have: Azure Data skills like, ADF Pipelines, Azure Synapse, Azure Data Lake, Dynamics 365 CE skills and Power Platform TypeScript\"\n\nTo be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity.\nTo conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization, implementation of best practices and coding standards to ensure successful delivery of complex projects.\nTo ensure process compliance in the assigned module and participate in technical discussions/review as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations).\nTo collaborate with stakeholders to define project scope, objectives, deliverables and accordingly prepare and submit status reports for minimizing exposure & closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-30 14:46:49-05:00",
+        "unique_id": "192df175eca09875",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

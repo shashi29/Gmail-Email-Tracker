@@ -1,0 +1,112 @@
+[
+    {
+        "company": "Xforia",
+        "job_title": "AWS Cloud Architect (Java)",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "14+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "H1B Only",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Java",
+                "Terraform",
+                "Kubernetes",
+                "Cloud Services"
+            ],
+            "primary": [
+                "ECS",
+                "EKS",
+                "EC2",
+                "MongoDB",
+                "Aurora",
+                "Service Mesh",
+                "Debugging",
+                "Blue Green Deployment"
+            ],
+            "secondary": [
+                "Python",
+                "Go",
+                "Spring Boot",
+                "Restful Microservices",
+                "Ansible",
+                "Artifactory",
+                "Docker",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "Infrastructure-as-Code",
+                "Environment-as-Code",
+                "CloudFormation",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "all": [
+                "AWS",
+                "Java",
+                "Terraform",
+                "Kubernetes",
+                "Cloud Services",
+                "ECS",
+                "EKS",
+                "EC2",
+                "MongoDB",
+                "Aurora",
+                "Service Mesh",
+                "Debugging",
+                "Blue Green Deployment",
+                "Python",
+                "Go",
+                "Spring Boot",
+                "Restful Microservices",
+                "Ansible",
+                "Artifactory",
+                "Docker",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "Infrastructure-as-Code",
+                "Environment-as-Code",
+                "CloudFormation",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "kathiravan",
+        "email": "kathiravan.r@xforia.com",
+        "jd": "Job Details\nAWS Cloud Architect (Java)\nLong Term\nOnsite (Houston, TX)\nWork location is at Plano, TX (Onsite is Must)\nNote: Candidate need to Come Face to Face for client interview in any of the Location in Wilmington, DE/Columbus, OH/NYC, NY/Jersey City, NJ/Plano, TX)\n\nJob Description:\nMandatory Skills:\nWe are looking for Sr Principle(AWS) Engineer with strong Cloud Services knowledge such as ECS EKS and EC2 and Data MongoDB, Aurora who knows service mesh how to design and implement Gateways and debugging on AWS services\nHands on AWS services debugging, terraforms.\nShould be able create and manage AWS environment across services both internal and external\nAble to design in most of AWS cloud Services\nExperience in Blue Green Deployment to run current and new application version in identical environments.\nMust have any one certification in AWS Solution architect, Kubernetes, Terraform\nGood to have prior work experience in JPMC OR AWS\nExperience in Terraform Enterprise(TFE).\n\nDetailed Job Description:\n\u2022Formal training or certification on software engineering concepts and 13+ years applied experience\n\u2022Hands-on practical experience delivering system design, application development, testing, and operational stability\n\u2022Advanced in one or more programming language(s) - Java, Python, Go\n\u2022A strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practices\n\u2022Design and building web environments on AWS, which includes working with services like EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53\n\u2022Advanced in modern technologies such as: Java version 8+, Spring Boot, Restful Microservices, AWS or Cloud Foundry, Kubernetes.\n\u2022Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar Qube\n\u2022Experience and knowledge of writing Infrastructure-as-Code (IaC) and Environment-as-Code (EaC), using tools like CloudFormation or Terraform\n\u2022Experience with high volume, SLA critical applications, and building upon messaging and or event-driven architectures\n\u2022Deep understanding of financial industry and their IT systems\n\nNice to Have:\n\u2022IaC, EaC & CI/CD, Shell scripts, Gradle, Maven, Jenkins, Spinnaker\n\u2022Splunk, Datadog, Dynatrace. CloudWatch or Grafana",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:58:32-05:00",
+        "unique_id": "192de23a72c919da",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

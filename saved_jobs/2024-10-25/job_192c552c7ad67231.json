@@ -1,0 +1,107 @@
+[
+    {
+        "company": "3K Technologies",
+        "job_title": "Data architect",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML T-SQL",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Python",
+                "Scala"
+            ],
+            "primary": [
+                "advanced stored procedure writing",
+                "tables",
+                "primary keys",
+                "foreign keys",
+                "constraints",
+                "indexes",
+                "transactions",
+                "process logging",
+                "error handling",
+                "integrating data from various sources",
+                "managing large data pipelines",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft"
+            ],
+            "secondary": [
+                "analytical skills",
+                "problem-solving skills",
+                "customer support",
+                "quality of work"
+            ],
+            "all": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML T-SQL",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Python",
+                "Scala",
+                "advanced stored procedure writing",
+                "tables",
+                "primary keys",
+                "foreign keys",
+                "constraints",
+                "indexes",
+                "transactions",
+                "process logging",
+                "error handling",
+                "integrating data from various sources",
+                "managing large data pipelines",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "analytical skills",
+                "problem-solving skills",
+                "customer support",
+                "quality of work"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sanjay",
+        "email": "sanjay@3ktechnologies.com",
+        "jd": "From: sanjay, 3ktechnologies.com sanjay@3ktechnologies.com Reply to: sanjay@3ktechnologies.com HI ALL,Job Title: Data architectLocation:Tallahassee,FL(From dayone onsite)Duration: Long TermDescription:Minimum Required KSAs:\u2022 4+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance.\u2022 5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.\u2022 4+ years of experience in data architecture design principles, methodologies, and best practices.\u2022 3+ years of experience in data governance principles and compliance requirements related to data security and privacy.\u2022 3+ years of experience in integrating data from various sources and managing large data pipelines.\u2022 2+ years of experience in cloud computing concepts, particularly in Microsoft Azure, including storage solutions and compute capabilities.\u2022 1+ years of Experience with programming languages such as Python or Scala.\u2022 1+ years of experience in Salesforce, Message MQ, and MuleSoft\u2022 Strong analytical and problem-solving skills to address complex data challenges.\u2022 Ability to design and implement robust, scalable, and efficient data architectures.\u2022 Ability to provide excellent customer support; meticulous quality of work and work product.Thanks & RegardsSanjaySenior Technical Recruiter1114 Cadillac Ct, Milpitas, CA 95035www.3ktechnologies.com|sanjay@3ktechnologies.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 12:24:33-05:00",
+        "unique_id": "192c552c7ad67231",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "company": "RCube Creative Consulting",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Project-based, approximately 6 months with possibility of extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure SQL",
+                "Databricks",
+                "Azure Data Factory",
+                "GraphQL"
+            ],
+            "primary": [
+                "ETL",
+                "SSIS",
+                "Performance Tuning",
+                "Cloud Deployment",
+                "DevOps Mindset",
+                "Agile Collaboration"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure SQL",
+                "Databricks",
+                "Azure Data Factory",
+                "GraphQL",
+                "ETL",
+                "SSIS",
+                "Performance Tuning",
+                "Cloud Deployment",
+                "DevOps Mindset",
+                "Agile Collaboration"
+            ],
+            "with_experience": [
+                "Azure SQL (10+ years)",
+                "Databricks (10+ years)",
+                "Azure Data Factory (10+ years)",
+                "GraphQL (10+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Eli",
+        "email": "eli@rcubecreativeconsulting.com",
+        "jd": "From: Eli, RCube Creative Consulting eli@rcubecreativeconsulting.com Reply to: eli@rcubecreativeconsulting.com Job Title : Data Engineer Super urgent requirementTarget Start Date: 18-Nov-2024End Date: 25-Apr-2025 (extensions possible)Location: Remote, but candidates local to Chicago is preferred. If not Chicago, local to another PS office on CST/EST.Client : Implementation / publicis Sapient MUST PROVIDE : i94+travel. FOR ANY REASON CANNOT PROVIDE PLEASE AVOID. MUST HAVE 10+ years of experienceExpertise in Azure SQL and DatabricksExperience with Azure Data Factory and GraphQL to perform ETL and SSIS jobsProven ability to develop high-performing queries, optimize database schemas, and conduct data-driven unit tests to validate SQL Design and Implementation: Utilize expertise in Azure SQL, Databricks, Azure Data Factory, and GraphQL to design, develop, and maintain backend data solutions, ensuring scalability, reliability, and performanceDevOps Mindset: Emphasize high-quality, clean code practices with a DevOps approach, including logging, alerting, monitoring, and fostering an innovative cultureAgile Collaboration: Engage in agile processes for product backlog grooming, sprint planning, and active contribution to coding best practices, reviews, and test validationsPerformance Tuning: Develop high-performing queries, efficient DB schemas, and perform data-driven unit tests to validate SQL, ensuring optimized backend systemsCloud Deployment: Demonstrate proven experience with deploying production services in Azure, including functions like Azure Functions, Service Bus, and GraphQL, while managing source control with Git",
+        "source": "Email",
+        "date_posted": "2024-10-29 16:31:50-05:00",
+        "unique_id": "192da6947bea6621",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

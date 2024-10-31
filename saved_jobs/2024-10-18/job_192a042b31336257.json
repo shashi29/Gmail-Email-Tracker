@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Source Infotech Inc",
+        "job_title": "AWS Python with Spark",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor's Degree in Computer Science/Programming or similar is preferred",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Pipelines",
+                "Relational Datastores",
+                "NoSQL Datastores",
+                "Cloud Object Stores"
+            ],
+            "secondary": [
+                "Infrastructure as Code",
+                "Terraform",
+                "Cloud Certification",
+                "ACID Compliant Formats",
+                "Data Observability Solutions",
+                "Data Governance Frameworks"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS",
+                "Data Engineering",
+                "Data Pipelines",
+                "Relational Datastores",
+                "NoSQL Datastores",
+                "Cloud Object Stores",
+                "Infrastructure as Code",
+                "Terraform",
+                "Cloud Certification",
+                "ACID Compliant Formats",
+                "Data Observability Solutions",
+                "Data Governance Frameworks"
+            ],
+            "with_experience": [
+                "Python (5+ years)",
+                "Spark"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abhisek Kumar",
+        "email": "abhisek.k@sourceinfotech.com",
+        "jd": "From: abhisek, source infotech inc abhisek.k@sourceinfotech.com Reply to: abhisek.k@sourceinfotech.com AWS Python with Spark -- C2C--Columbus, OH. Need local or nearby location No H1B CPT OPT GCJob responsibilities\u200bDuties and responsibilities \u25cf Collaborate with the team to build out features for the data platform and consolidate dataassets\u25cf Build, maintain and optimize data pipelines built using Spark\u25cf Advise, consult, and coach other data professionals on standards and practices\u25cf Work with the team to define company data assets\u25cf Migrate CMS\u2019 data platform into Chase\u2019s environment\u25cf Partner with business analysts and solutions architects to develop technicalarchitectures for strategic enterprise projects and initiatives\u25cf Build libraries to standardize how we process data\u25cf Loves to teach and learn, and knows that continuous learning is the cornerstone of everysuccessful engineer\u25cf Has a solid understanding of AWS tools such as EMR or Glue, their pros and cons andis able to intelligently convey such knowledge\u25cf Implement automation on applicable processesMandatory Skills:\u25cf 5+ years of experience in a data engineering position\u25cf Proficiency is Python (or similar) and SQL\u25cf Strong experience building data pipelines with Spark\u25cf Strong verbal & written communication\u25cf Strong analytical and problem solving skills\u25cf Experience with relational datastores, NoSQL datastores and cloud object stores\u25cf Experience building data processing infrastructure in AWS\u25cf Bonus: Experience with infrastructure as code solutions, preferably Terraform\u25cf Bonus: Cloud certification\u25cf Bonus: Production experience with ACID compliant formats such as Hudi, Iceberg orDelta Lake\u25cf Bonus: Familiar with data observability solutions, data governance frameworksRequirementsBachelor\u2019s Degree in Computer Science/Programming or similar is preferredRight to workMust have legal right to work in the USA Thanks & RegardsAbhisek kumarSource Infotech IncP.O Box 577, EDISON, NJ 08818-0577Email: abhisek.k@sourceinfotech.comPhone: 609-934-3412 | | Hangout: abhishekchoudhary0948",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:56:15-05:00",
+        "unique_id": "192a042b31336257",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

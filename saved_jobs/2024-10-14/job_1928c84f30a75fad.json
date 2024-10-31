@@ -1,0 +1,77 @@
+[
+    {
+        "company": "o2f",
+        "job_title": "Aws Data Engineer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Data Engineering",
+                "Data Pipeline Management",
+                "API Development",
+                "Machine Learning"
+            ],
+            "primary": [
+                "Data Warehousing",
+                "Data Integration",
+                "Performance Optimization",
+                "Security Best Practices",
+                "Technical Documentation"
+            ],
+            "secondary": [
+                "Collaboration",
+                "Testing",
+                "Debugging",
+                "Version Control",
+                "Continuous Integration/Continuous Deployment (CI/CD)"
+            ],
+            "all": [
+                "AWS",
+                "Data Engineering",
+                "Data Pipeline Management",
+                "API Development",
+                "Machine Learning",
+                "Data Warehousing",
+                "Data Integration",
+                "Performance Optimization",
+                "Security Best Practices",
+                "Technical Documentation",
+                "Collaboration",
+                "Testing",
+                "Debugging",
+                "Version Control",
+                "Continuous Integration/Continuous Deployment (CI/CD)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sai",
+        "email": "sai@o2finc.com",
+        "jd": "From: sai, o2f sai@o2finc.com Reply to: sai@o2finc.com Job DescriptionWe are seeking a skilled AWS Data Engineer with experience building and maintaining data pipelines for data warehousing and machine learning applications in AWS. In this role, you will analyse the data preparation and integration requirements and create the pipelines to clean/transform and ingest the data in preparation for visualization/querying and use in machine learning algorithms (eg. recommendation solutions). You will collaborate closely with various application stakeholders as well as your frontend developers and data scientists to help integrate these APIs into various applications, while ensuring the security and scalability of our backend services.ResponsibilitiesAPI Development and Maintenance: Design, develop, and maintain robust backend APIs to expose AI/ML capabilities, ensuring high performance and reliability.Data Pipeline Management: Develop and optimize data pipelines and processes to ensure efficient and seamless data flow, supporting the integration of AI/ML models.Cross-functional Collaboration: Collaborate closely with frontend developers and data scientists to integrate backend APIs into applications, ensuring cohesive and efficient functionality.Security and Scalability: Implement best practices to ensure the security, scalability, and resilience of backend services, protecting data integrity and supporting growth.Performance Optimization: Monitor and optimize the performance of backend services, identifying and addressing bottlenecks and ensuring smooth operation under varying loads.Code Quality and Standards: Maintain high standards of code quality and documentation, adhering to industry best practices and contributing to continuous improvement initiatives.Testing and Debugging: Develop and execute comprehensive test plans to identify and resolve defects, ensuring the robustness and reliability of backend services.Version Control and Deployment: Utilize version control systems and continuous integration/continuous deployment (CI/CD) pipelines to manage codebase changes and streamline deployment processes.Technical Documentation: Create and maintain detailed technical documentation for backend APIs, ensuring clarity and accessibility for all stakeholders.Continuous Learning: Stay updated with the latest trends, tools, and technologies in backend development and AI/ML, applying new knowledge to enhance system capabilities and performance.",
+        "source": "Email",
+        "date_posted": "2024-10-14 12:04:39-05:00",
+        "unique_id": "1928c84f30a75fad",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

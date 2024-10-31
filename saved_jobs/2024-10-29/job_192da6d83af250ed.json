@@ -1,0 +1,93 @@
+[
+    {
+        "company": "TEKSALT",
+        "job_title": "Java Tech Lead",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "08 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Junit",
+                "Multithreading",
+                "Spring",
+                "Spring Boot",
+                "Spring MVC",
+                "Spring Security",
+                "Microservices",
+                "REST APIs",
+                "Oracle",
+                "PostgreSQL",
+                "MongoDB",
+                "Cloud Technology",
+                "GitHub",
+                "Jenkins"
+            ],
+            "primary": [
+                "Backend development",
+                "Clean code",
+                "Scalable design",
+                "Analytical abilities"
+            ],
+            "secondary": [
+                "JavaScript",
+                "Angular",
+                "React"
+            ],
+            "all": [
+                "Java",
+                "Junit",
+                "Multithreading",
+                "Spring",
+                "Spring Boot",
+                "Spring MVC",
+                "Spring Security",
+                "Microservices",
+                "REST APIs",
+                "Oracle",
+                "PostgreSQL",
+                "MongoDB",
+                "Cloud Technology",
+                "GitHub",
+                "Jenkins",
+                "Backend development",
+                "Clean code",
+                "Scalable design",
+                "Analytical abilities",
+                "JavaScript",
+                "Angular",
+                "React"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shekar Patel",
+        "email": "shekar.patel@teksalt.com",
+        "jd": "From: Shekar Patel, TEKSALT shekar.patel@teksalt.com Reply to: shekar.patel@teksalt.com Role: Java Tech Lead - OnsiteLocation: Charlotte, NC (Onsite)Duration: 08 month Job description:8+ years of Backend development efforts using Java, Junit, Multithreading and Spring frameworks (Spring, Spring Boot, Spring MVC, Spring Security, etc.).8+ years of experience in Writing clean, efficient, and well-documented code adhering to coding standards and best practices.5+ years of experience in Design, develop, and maintain scalable microservices, REST APIs and backend Java components.5+ years of experience working with databases such as Oracle, PostgreSQL, and MongoDB.3+ years of experience with Cloud Technology (PCF, GCP or Azure)3+ years of experience with GitHub, Pull Requests, Jenkins (CI/CD) tools.5+ years of experience with Designing Java components with strong analytical abilities to troubleshoot, identify, and resolve complex technical issues.Candidate must be able to collaborate with project managers and product owners to align technical solutions with business needs.Candidate must be able to drive the end-to-end development lifecycle from requirements gathering to design, implementation, testing, and deployment. Good To Have-Familiarity with front-end technologies (e.g., JavaScript, Angular, React) for full-stack development.",
+        "source": "Email",
+        "date_posted": "2024-10-29 12:10:47-05:00",
+        "unique_id": "192da6d83af250ed",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

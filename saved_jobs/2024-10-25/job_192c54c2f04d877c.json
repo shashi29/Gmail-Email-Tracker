@@ -1,0 +1,85 @@
+[
+    {
+        "company": "3K TECHNOLOGIES",
+        "job_title": "Azure Cloud Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-7+ years",
+            "degree_required": "Bachelor's or Master's in Computer Science, Engineering, or related fields",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Computing",
+                "Angular",
+                "C#",
+                "HTML",
+                "SQL",
+                "PowerApps",
+                "API"
+            ],
+            "primary": [
+                "Cloud Computing",
+                "Data Modeling",
+                "Database Management",
+                "ETL",
+                "Python",
+                "Scala",
+                ".NET"
+            ],
+            "secondary": [
+                "Data Warehousing",
+                "Data Lakes",
+                "Problem-Solving",
+                "Collaboration"
+            ],
+            "all": [
+                "Azure Computing",
+                "Angular",
+                "C#",
+                "HTML",
+                "SQL",
+                "PowerApps",
+                "API",
+                "Cloud Computing",
+                "Data Modeling",
+                "Database Management",
+                "ETL",
+                "Python",
+                "Scala",
+                ".NET",
+                "Data Warehousing",
+                "Data Lakes",
+                "Problem-Solving",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Hari krishna",
+        "email": "harikrishna.t@3ktechnologies.com",
+        "jd": "From: Hari krishna, 3K TECHNOLOGIES harikrishna.t@3ktechnologies.com Reply to: harikrishna.t@3ktechnologies.com Job Title : Azure Cloud DeveloperLocation : PHOENIX, AZ (Onsite)Main skills : Angular, C#, HTML, SQL, PowerAppsJD:Mandatory Skills:1.Cloud Computing and Azure API Services Proficiency: A deep understanding of cloud computing concepts is crucial. You should be proficient in Azure services, including: Azure Computing, Angular, C#, HTML, SQL, PowerApps, API ; Azure Tech (AKS, Function Apps, KQL, ADF).2. Data Modeling and Database Management: a. Designing effective data models is essential. You'll work with both SQL and NoSQL databases. b. Ensure data is structured and stored optimally for efficient querying and analysis.3. ETL (Extract, Transform, Load) Processes: a. Proficiency in ETL techniques is vital for data integration and processing. b. Extract, transform, and load data efficiently to support analytics and reporting.4.Programming Languages: a. Familiarity with programming languages such as C# , Python, Scala, and .NET is valuable. b. Python, in particular, is widely used for data manipulation and analytics.5.Data Warehousing and Data Lakes: Understand data warehousing concepts and data lakes. These are fundamental for managing large-scale data.6.Problem-Solving and Collaboration: Soft skills matter too! Effective problem-solving and teamwork enhance your ability to drive data-driven decisions.Desired Experience :-1. Overall 5- 7+ years of Data warehousing experience, including:- Minimum of 5 years of experience in Azure Computing, Angular, C#, HTML, SQL, PowerApps, API.2.Education: Relevant degree (Bachelor's or Master's) in Computer Science, Engineering, or related fields. 3.Certifications: Consider certifications related to Azure (e.g., Azure Data Engineer, Azure Solutions Architect). 4.Experience: Proficiency in designing, implementing, and managing data solutions on the Azure cloud platform.a. To develop and deliver ,detailed solutions through consulting project activitiesb. To perform qualitative and/or quantitative analyses to assist in the identification of client issues and the development of client-specific solutionsc. To coordinate with Internal and external stakeholders to ensure effective deliver of client specific solutiond. To design, structure and deliver reports and presentations that are appropriate to the characteristics or needs of the audiencee. To cultivate successful customer relationships.",
+        "source": "Email",
+        "date_posted": "2024-10-25 14:34:09-05:00",
+        "unique_id": "192c54c2f04d877c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

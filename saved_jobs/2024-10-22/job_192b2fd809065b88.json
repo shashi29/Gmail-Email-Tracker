@@ -1,0 +1,66 @@
+[
+    {
+        "company": "IBM",
+        "job_title": "Java and Laravel Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Microservices",
+                "REST API",
+                "Spring Framework",
+                "Struts",
+                "Node Js",
+                "AWS cloud development",
+                "AWS Lambda development",
+                "PHP",
+                "Laravel framework"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "Microservices",
+                "REST API",
+                "Spring Framework",
+                "Struts",
+                "Node Js",
+                "AWS cloud development",
+                "AWS Lambda development",
+                "PHP",
+                "Laravel framework"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "From: SAPNA, ITECS sapna@itecsus.com Reply to: sapna@itecsus.com Java and Laravel Developer-Work location: Atlanta, GA (onsite) Client-IBMAny Visa will work Required skills: Core Java, Microservices, REST API, Spring Framework, Struts, Node Js, AWS cloud development, AWS Lambda development needed, PHP ,Laravel framework . Industry: Travel & Transportation",
+        "source": "Email",
+        "date_posted": "2024-10-22 01:14:53-05:00",
+        "unique_id": "192b2fd809065b88",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

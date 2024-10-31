@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Incom Technologies",
+        "job_title": "Senior Application Programmer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "C#/.NET",
+                "SQL",
+                "Oracle",
+                "PostgreSQL",
+                "MySQL",
+                "JavaScript",
+                "TypeScript",
+                "RESTful APIs",
+                "AWS",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "CI/CD"
+            ],
+            "primary": [
+                "Application Development",
+                "Database Management",
+                "Cloud Environments",
+                "Containerization",
+                "Orchestration"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Analytical Skills",
+                "Debugging"
+            ],
+            "all": [
+                "Java",
+                "C#/.NET",
+                "SQL",
+                "Oracle",
+                "PostgreSQL",
+                "MySQL",
+                "JavaScript",
+                "TypeScript",
+                "RESTful APIs",
+                "AWS",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "CI/CD",
+                "Application Development",
+                "Database Management",
+                "Cloud Environments",
+                "Containerization",
+                "Orchestration",
+                "Problem-solving",
+                "Analytical Skills",
+                "Debugging"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Laya",
+        "email": "laya@incom-tech.net",
+        "jd": "From: Laya, Incom Technologies laya@incom-tech.net Reply to: laya@incom-tech.net Duties/Responsibilities\u2022 Respond to computer system emergencies and resolve problems independently or in consultation with other IT staff or end-user personnel.\u2022 Research and resolve program, machine, data, or system software problems of a highly technical nature.\u2022 Provide expert advice and guidance on specialized application tools, hardware, software, or databases.\u2022 Provide specialized training to IT applications staff on databases, tools, techniques, and procedures relevant to applications maintenance and development.\u2022 Research new developments in hardware and software, staying abreast of the latest technologies.\u2022 Design, code, compile, test, debug, modify, and document new or existing highly complex applications programs.\u2022 Implement complex in-house and vendor-supplied applications software.\u2022 Evaluate, analyze, and prepare information and recommendations on technical solutions related to operating and managing an information system.Innosoft is an Equal Opportunity/Affirmative Action employer\u2022 Independently define data elements and design structures for databases.\u2022 Prepare and monitor work plans and schedules to ensure timeliness, data integrity, and project availability.Required Experience\u2022 Proficiency in Java or C#/.NET for enterprise application development.\u2022 Expertise in SQL and working with relational databases such as Oracle (PL/SQL), PostgreSQL, or MySQL.\u2022 Experience with JavaScript or TypeScript for frontend or backend API development.\u2022 Familiarity with Oracle document repository systems and other ECM systems.\u2022 Strong knowledge of RESTful APIs for application integration.\u2022 Experience in deploying and managing applications in cloud environments such as AWS or Azure.\u2022 Proficiency in containerization and orchestration tools like Docker and Kubernetes.\u2022 Experience with version control using Git and CI/CD pipelines (e.g., Jenkins, GitLab CI).\u2022 Strong analytical skills and problem-solving abilities, especially in debugging complex systems.\u2022 Experience with developing, maintaining, and scaling highly complex applications in a production environment.",
+        "source": "Email",
+        "date_posted": "2024-10-17 11:23:46-05:00",
+        "unique_id": "1929b6b545da3a88",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

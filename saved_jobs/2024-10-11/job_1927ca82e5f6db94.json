@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Smart IT Frame LLC",
+        "job_title": "Java Full Stack Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Kafka",
+                "Git"
+            ],
+            "primary": [
+                "Agile",
+                "Continuous Integration",
+                "TeamCity",
+                "Jenkins",
+                "Distributed Systems"
+            ],
+            "secondary": [
+                "Equity Derivatives",
+                "GCP",
+                "AWS",
+                "Azure",
+                "Python"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Kafka",
+                "Git",
+                "Agile",
+                "Continuous Integration",
+                "TeamCity",
+                "Jenkins",
+                "Distributed Systems",
+                "Equity Derivatives",
+                "GCP",
+                "AWS",
+                "Azure",
+                "Python"
+            ],
+            "with_experience": [
+                "Java (9+ years)",
+                "Spring",
+                "Spring Boot",
+                "Kafka"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rama Kant Tiwari",
+        "email": "ramakant@smartitframe.com",
+        "jd": "MUST HAVE SKILLS: \u2022 9+ Years of experience in IT, FinTech, or similar field. Modern Java expertise (version 8 and up, we use 17 for new projects), like Spring, Spring boot Must be able to lead a team of developers and manage a book of work in conjunction with IT management and business customers. Extensive experience of server-side development on top of the Java Virtual Machine. Experience with real-time data processing frameworks including Kafka and other similar frameworks. Experience working in agile (SCRUM-related) cycles and coordination with multiple teams of developers and users Knowledge of Continuous Integration products such as TeamCity and Jenkins Solid knowledge of Git version control, and workflows around Knowledge of distributed systems Great to haves \u2022 Experience working with Equity Derivatives products and systems \u2022 Knowledge of public cloud infrastructure such as GCP (preferred), AWS, Azure \u2022 Experience working in financial institutions and regulated IT environments \u2022 Python development/scripting",
+        "source": "Email",
+        "date_posted": "2024-10-11 12:01:44-05:00",
+        "unique_id": "1927ca82e5f6db94",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

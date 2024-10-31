@@ -1,0 +1,62 @@
+[
+    {
+        "company": "ITECS",
+        "job_title": "Bigdata Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$54.86/hour"
+        },
+        "skills": {
+            "core": [
+                "Hadoop",
+                "Spark",
+                "SQL"
+            ],
+            "primary": [
+                "PySpark",
+                "Hive",
+                "BigQuery",
+                "GCP"
+            ],
+            "secondary": [],
+            "all": [
+                "Hadoop",
+                "Spark",
+                "SQL",
+                "PySpark",
+                "Hive",
+                "BigQuery",
+                "GCP"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "From: SAPNA, ITECS sapna@itecsus.com Reply to: sapna@itecsus.com Bigdata DeveloperOnsite at Phoenix, AZ very critical (after 1st round they might shortlist)Bill rate $54.86/Hr.Any Visa will work Required skills: 6+ years in Big data, hands on. Hadoop/HDFC, Spark, SQL, PySpark, Hive, BigQuery, GCP",
+        "source": "Email",
+        "date_posted": "2024-10-21 02:18:02-05:00",
+        "unique_id": "192ae10fd40db3ee",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Senior Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Computer Science, Computer Engineering, or related fields, or equivalent experience.",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Hibernate",
+                "SQL",
+                "Linux/Unix"
+            ],
+            "primary": [
+                "J2EE",
+                "Spring Boot",
+                "REST",
+                "SOAP",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Cloud Foundry",
+                "Tomcat",
+                "Jenkins",
+                "Git",
+                "DevOps Toolchain",
+                "Test Driven Development",
+                "Multi-threading",
+                "Debugging",
+                "Performance profiling",
+                "Full Stack Development"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Hibernate",
+                "SQL",
+                "Linux/Unix",
+                "J2EE",
+                "Spring Boot",
+                "REST",
+                "SOAP",
+                "Agile methodologies",
+                "Cloud Foundry",
+                "Tomcat",
+                "Jenkins",
+                "Git",
+                "DevOps Toolchain",
+                "Test Driven Development",
+                "Multi-threading",
+                "Debugging",
+                "Performance profiling",
+                "Full Stack Development"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rohit Singh",
+        "email": "rohit.singh@vyzeinc.com",
+        "jd": "From: Rohit Singh, Vyzeinc rohit.singh@vyzeinc.com Reply to: rohit.singh@vyzeinc.com job title - Senior Java Developerlocation - Phoenix, AZ (local)visa - GC , GC EAD, CitizenMoi - skype + F2FProficiency in the following technologies is beneficial:J2EE technologies: Java, JSP, JMS, JAXB, JDBC, EJB.Database and persistence frameworks: Hibernate, Oracle, Object/Relational Mapping, Query performance tuning.Cloud-based development: Cloud Foundry.Web Servers: Tomcat, tcServer, Websphere.Web Services: REST/SOAP (JSON/WSDL/XML).Frameworks: Spring Framework, Spring Boot.Front-end: Angular JS, Ext JS, CSS, jQuery, AJAX.Build/deployment tools: Maven, Gradel, Git, Junit, Mockito.Other DevOps Toolchain: Selenium, Nexus Repository, Hygieia, SonarQube, Fortify on Demand, Slack, GitHub, Jenkins, ElasticSearch, Logstash, Kibana, New Relic.Other: Linux/Unix shell scripting, JavaScript, IBM MQ/Rabbit MQ, Tivoli Scheduler, SQL Developer, IDE.Proficiency in object-oriented design techniques and principles.Proficiency in Microsoft Office Tools (Project, Excel, Word, PowerPoint, etc.).Experience in Agile methodologies, such as SCRUM.Experience in DevOps Toolchain methodologies, including Continuous Integration and Continuous Deployment.Minimum Qualifications:Proven experience in at least one object-oriented language.Proven experience in at least one web framework, preferably Spring, Spring Boot, or ASP.NET Core.Proven experience in SQL and ability to design relational database schemas.Ability to function in a Linux/Unix environment using shell commands.Ability to scrutinize applications and services to ensure they adhere to security standards.Preferred Qualifications:Working experience building business-critical, internet-scale distributed systems or high-volume client/server systems.Ability to work as part of a team, keeping the team's goal in mind.Experience using source control management systems.Exposure to continuous integration/deployment environments.Experience delivering software using an Agile methodology like Extreme Programming, Kanban, or Scrum.Bachelor's degree in Computer Science, Computer Engineering, or related fields, or equivalent experience.Internally motivated, able to work proficiently both independently and in a team environment.Adept and comfortable communicating with internal team members and external business stakeholders.Demonstrated ability to find creative ways of improving and simplifying solutions, systems, and processes without getting bogged down in blockers or bottlenecks.Experience with the following:Test Driven Development (TDD)Testing PyramidMulti-threading and concurrencyDebugging, performance profiling, and optimizationObject-oriented and service-oriented application development patterns.Additional Consideration for Senior Role:Experience leading and managing small to medium-sized development teams (5-25 developers).Previous experience founding or working as a founding engineer at a technology startup from concept to MVP and subsequent releases.Previous experience in a design, product owner/manager, or business role (marketing, sales, finance, etc.).Production DevOps experience and the ability to build CI/CD (Jenkins) pipelines.Experience writing production shell scripts in a Linux/Unix environment.Proficiency in Full Stack Development.",
+        "source": "Email",
+        "date_posted": "2024-10-28 13:45:56-05:00",
+        "unique_id": "192d492ffc4d5a05",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "company": "RuriSoft LLC",
+        "job_title": "Databricks Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "AWS",
+                "SQL",
+                "Python",
+                "ETL"
+            ],
+            "primary": [
+                "Spark programming",
+                "Data pipeline development",
+                "Teradata",
+                "Oracle",
+                "SQLServer",
+                "Informatica",
+                "Cloud Data Integration"
+            ],
+            "secondary": [
+                "PySpark",
+                "Scala",
+                "Data warehousing concepts",
+                "Data modeling",
+                "Data security",
+                "Privacy compliance"
+            ],
+            "all": [
+                "Databricks",
+                "AWS",
+                "SQL",
+                "Python",
+                "ETL",
+                "Spark programming",
+                "Data pipeline development",
+                "Teradata",
+                "Oracle",
+                "SQLServer",
+                "Informatica",
+                "Cloud Data Integration",
+                "PySpark",
+                "Scala",
+                "Data warehousing concepts",
+                "Data modeling",
+                "Data security",
+                "Privacy compliance"
+            ],
+            "with_experience": [
+                "Databricks (10+ years)",
+                "AWS (10+ years)",
+                "SQL (10+ years)",
+                "Python (10+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Chaitanya",
+        "email": "chaitanya@rurisoft.com",
+        "jd": "From: Chaitanya, RuriSoft LLC chaitanya@rurisoft.com Reply to: chaitanya@rurisoft.com Databricks Developer Location : Dallas TX ( Onsite ) Note: Need 10+ years H1B and strong experience in Databricks and locals to Dallas, TX Only Experience:\u2022\u2060 \u20609+ years of experience in data engineering, with a strong focus on data migration and ETL processes in DataBricks\u2022\u2060 \u2060Proven experience with Databricks on AWS, including cluster management, Spark programming, and data pipeline development.\u2022\u2060 \u2060Extensive hands-on experience with Teradata, Oracle, SQLServer including database management, query optimization, and data extraction.\u2022\u2060 \u2060Proficiency in using InformaticaETL tools, including Informatica (ICS / PC/IDQ),Cloud DataIntegration, and advanced data transformation techniques. Technical Skills:\u2022 Strong proficiency in SQL, Python, ,PySpark or Scala, particularly in the context of data engineering.\u2022 In-depth knowledge of AWS services (e.g., S3, EC2, RDS, IAM) and their integration with Databricks.\u2022 Familiarity with data warehousing concepts, data modeling, and large-scale data processing.\u2022 Understanding of data security, privacy, and compliance requirements in cloud environments.",
+        "source": "Email",
+        "date_posted": "2024-10-21 08:09:06-05:00",
+        "unique_id": "192af5269244ef0f",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

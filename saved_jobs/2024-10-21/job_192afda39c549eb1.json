@@ -1,0 +1,66 @@
+[
+    {
+        "company": "San Francisco Public Utilities Commission",
+        "job_title": "Senior Mobile and Web Developer",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "2 Years",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "iOS Development",
+                "ASP .NET Framework",
+                "Oracle",
+                "SQL Server",
+                "ESRI GIS",
+                "Laboratory Information Management Systems"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "iOS Development",
+                "ASP .NET Framework",
+                "Oracle",
+                "SQL Server",
+                "ESRI GIS",
+                "Laboratory Information Management Systems"
+            ],
+            "with_experience": [
+                "iOS Development (3+ years)",
+                "ASP .NET Framework (3+ years)",
+                "Oracle to SQL Server integration (3+ years)",
+                "ESRI GIS integration (2+ years)",
+                "Laboratory Information Management Systems (3+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rishabh",
+        "email": "rishabc@gensigma.com",
+        "jd": "From: Rishabh, Gensigma rishabc@gensigma.com Reply to: rishabc@gensigma.com Connect me on Linkedin-- https://www.linkedin.com/in/rishabhchaturvedi9/\u200b\u200b\u200b\u200b\u200b Job Title: Senior Mobile and Web DeveloperLocation: San Francisco, CAClient Name: San Francisco Public Utilities CommissionContract Duration: 2 YearsMinimum Requirements:MQ1 - Minimum of 3 years of recent verifiable experience developing mobile platforms for iOS devices for public utility agencies.MQ2 - Minimum of 3 years of written verifiable web development experience utilizing the Microsoft ASP .NET Framework.MQ3 - Minimum of 3 years of written verifiable experience working with Oracle to SQL Server integration.MQ4 - Minimum of 2 years of written verifiable experience integrating with ESRI GIS web-related products.MQ5 - Minimum of 3 years of written verifiable experience working with Laboratory Information Management Systems, chain of custody, and systems integration.Roles and Responsibilities: (Drafted this from the solicitation)Task 1: Process Improvements for Field Test Data CollectionAnalyze current field and laboratory data collection processes. Collaborate with Field Services, Lab, and Engineering groups to identify gaps and implement approved software enhancements across all applications.Task 2: Mobile Solution for Scanning of Labels on Mobile PlatformDevelop and integrate a label-scanning feature into the mobile application. Review and validate the functionality with field staff before final implementation.Task 3: Field Instrument Calibration From The Mobile DeviceImplement functionality to capture field instrument calibration data in the mobile app. Ensure the solution is validated by field staff and incorporated into the new mobile application.Task 4: Employee Assignments - Swap Assigned Employee for Sampling RunEnable functionality for field staff to swap assignments on the same day without restrictions. Validate this capability with field and lab staff before implementation in the mobile application.Task 5: Employee Time SolutionUpdate the field system to allow employees to request days off during scheduled sampling runs. Work with management to revise existing restrictions and ensure proper integration with lab systems.Task 6: Post-Production Deployment SupportProvide technical support for up to four months after deployment. Address issues as they arise and assist in optimizing the performance of new solutions.Task 7: Documentation, UAT, and Functional Requirements DocumentPrepare comprehensive documentation for functional requirements and User Acceptance Testing (UAT). Conduct UAT with stakeholders and revise documentation based on their feedback.Task 8: Code RefactoringIdentify and refactor areas of the existing codebase to improve maintainability. Collaborate with the SFPUC team to enhance the code structure without impacting application functionality.",
+        "source": "Email",
+        "date_posted": "2024-10-21 09:23:41-05:00",
+        "unique_id": "192afda39c549eb1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

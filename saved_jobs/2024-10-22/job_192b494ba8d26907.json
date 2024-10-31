@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Atlantis",
+        "job_title": "Sr Java Full Stack Developer",
+        "location": "Fort Worth, TX, USA",
+        "full_location": {
+            "city": "Fort Worth",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12-15 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months (with possible extension)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Angular",
+                "Spring Boot",
+                "Spring Cloud",
+                "REST APIs",
+                "microservices"
+            ],
+            "primary": [
+                "CI/CD",
+                "GitHub actions",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Excellent communication skills",
+                "Problem solving"
+            ],
+            "all": [
+                "Java",
+                "Angular",
+                "Spring Boot",
+                "Spring Cloud",
+                "REST APIs",
+                "microservices",
+                "CI/CD",
+                "GitHub actions",
+                "Kubernetes",
+                "Excellent communication skills",
+                "Problem solving"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ram",
+        "email": "ram.a@atlantisitgroup.com",
+        "jd": "From: Ram, Atlantis ram.a@atlantisitgroup.com Reply to: ram.a@atlantisitgroup.com Title: Sr Java Full Stack Developer Location: Fort Worth, TX (Hybrid) / Local only Duration: 6+ Months (with possible extension) Interview Mode \u2013 Face to Face Job Description: Sr Full Stack Java Developer with 12-15 yrs exp with strong Java backend development exp (70%) and Angular development (30%) Exp. in Spring Boot, Spring Cloud, REST APIs, microservices Strong exp in Angular Exp. with CI/CD preferably GitHub actions (if not Jenkins) Exp. with any cloud and Kubernetes Excellent communication skills and the ability to work closely with multiple teams Committed, passionate and a problem solver",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:33:57-05:00",
+        "unique_id": "192b494ba8d26907",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

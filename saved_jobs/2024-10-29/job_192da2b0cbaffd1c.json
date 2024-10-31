@@ -1,0 +1,57 @@
+[
+    {
+        "company": "KK Associates LLC",
+        "job_title": "Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica Intelligent Cloud Services (IICS)",
+                "Google BigQuery",
+                "Service Reliability Engineering (SRE)"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Informatica Intelligent Cloud Services (IICS)",
+                "Google BigQuery",
+                "Service Reliability Engineering (SRE)",
+                "Digital : Google Data Engineering",
+                "Digital : Site Reliability Engineering (SRE)"
+            ],
+            "with_experience": [
+                "Informatica Intelligent Cloud Services (IICS)",
+                "Google BigQuery",
+                "Service Reliability Engineering (SRE)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mahesh Kumar",
+        "email": "shetty.m@kksoftwareassociates.com",
+        "jd": "From: Mahesh Kumar, KK Associates LLC shetty.m@kksoftwareassociates.com Reply to: shetty.m@kksoftwareassociates.com Hi, We have below job opportunity with one of our clients. If you have any matching profiles please get in touch with me.Role name:DeveloperRole Description:he ETL Engineer performs design, development and implementation of integration processes for both the Enterprise Data lake, Data Warehouse and Applications Analyzes requirements and existing resources to create efficient database and integration designs that meet company IT standards. Works with project and business analyst leads to develop and clarify in-depth technical requirements. Participates in all phases of the integration development lifecycle, including unit testing, quality assurance(QA) and ongoing support. Helps with Production support as neededCompetencies:Digital : Google Data Engineering, Digital : Site Reliability Engineering (SRE)Experience (Years):10 & AboveEssential Skills:Four or more years\u2019 experience with Informatica Intelligent Cloud Services (IICS) Two or more years of Google BigQuery (For the 1st fulfillment this is a must) Experience in Service Reliability Engineering (SRE) with support hands on knowledge (Some level of Application support experience) Should have at least total 10+Years of experienceDesirable Skills:The Data Engineer will analyze, design, develop, performance tuning, test their code as well as others code and support initiatives to build an enterprise integration framework while providing inputs for improving standards for data mapping, integration, and data traceability across the NAPA business functions.Country:United StatesBranch | City | Location:Atlanta,GAATLANTAAtlanta, GAKeywords:Informatica Intelligent Cloud Services (IICS)Email is the best way to reach me if I missed your callRegards,Mahesh KumarKK Associates LLC.8751 Collin McKinney Pkwy, # 1302, McKinney, TX 75070555 Metro Place North, Suite # 100, Dublin, OH 43017Direct: 925-298-0978Email: shetty.m@kksoftwareassociates.comWeb: www.kksoftwareassociates.com",
+        "source": "Email",
+        "date_posted": "2024-10-29 15:17:17-05:00",
+        "unique_id": "192da2b0cbaffd1c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

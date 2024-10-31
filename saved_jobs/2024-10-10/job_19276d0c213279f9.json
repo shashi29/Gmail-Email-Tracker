@@ -1,0 +1,106 @@
+[
+    {
+        "company": "CVS Health",
+        "job_title": "Lead Data Engineer",
+        "location": "Scottsdale, AZ, USA",
+        "full_location": {
+            "city": "Scottsdale",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1.5-2 years",
+            "rate": "$60-65/hr C2C"
+        },
+        "skills": {
+            "core": [
+                "data engineering",
+                "Apache Airflow",
+                "DataProc",
+                "Spark",
+                "CI/CD"
+            ],
+            "primary": [
+                "architecture solutions",
+                "large-scale batch processing",
+                "collaboration with architects",
+                "databases",
+                "SQL",
+                "OOP language",
+                "GCP",
+                "GKE",
+                "Cloud IAM"
+            ],
+            "secondary": [
+                "Map Reduce",
+                "Spark Streaming",
+                "PySpark",
+                "Hive",
+                "HDFS",
+                "Kafka",
+                "Redis",
+                "Sqoop",
+                "Oozie",
+                "IBM Data Sage",
+                "Spring Batch"
+            ],
+            "all": [
+                "data engineering",
+                "Apache Airflow",
+                "DataProc",
+                "Spark",
+                "CI/CD",
+                "architecture solutions",
+                "large-scale batch processing",
+                "collaboration with architects",
+                "databases",
+                "SQL",
+                "OOP language",
+                "GCP",
+                "GKE",
+                "Cloud IAM",
+                "Map Reduce",
+                "Spark Streaming",
+                "PySpark",
+                "Hive",
+                "HDFS",
+                "Kafka",
+                "Redis",
+                "Sqoop",
+                "Oozie",
+                "IBM Data Sage",
+                "Spring Batch"
+            ],
+            "with_experience": [
+                "data engineering (5-7 years)",
+                "Apache Airflow (3+ years)",
+                "DataProc (3+ years)",
+                "Spark (3+ years)",
+                "CI/CD (5+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Mohd Niyaz",
+        "email": "mniyaz@sibitalent.com",
+        "jd": "Lead Data Engineer\nScottsdale, AZ\nRate: $60-65/hr C2C\nThe CVS Health Rebates team is looking for a Lead Data Engineer to assist us in solutioning architecture as we transform the Rebate Processing System from its legacy platform. This person will assist our software engineers in rearchitecting, transforming, and designing data pipelines. Duration: 1.5-2 years\nWork location: Hybrid-Scottsdale, AZ (on site 3 or more days per week)\nLevel/rate: Senior\nRequired skills: \u2022 5-7 years of data engineering experience \u2022 Capable of leading other data engineers \u2022 3+ years of experience with Apache Airflow and/or Composer \u2022 3+ years of experience with DataProc and/or Spark \u2022 5+ years of experience with CI/CD \u2022 Experience producing architecture solutions using Composer and Spark \u2022 Experience in large-scale batch processing with cloud services \u2022 Ability to collaborate with architects to solve problems and provide data engineering solutions \u2022 Familiarity with databases and SQL \u2022 Familiarty with at least one OOP language, Java preferred \u2022 Familliarty with GCP, GKE, and Cloud IAM\nDesired skills: Map Reduce, Spark Streaming, PySpark, Hive, HDFS, Kafka, Redis, Sqoop, Oozie, IBM Data Sage, Spring Batch",
+        "source": "Email",
+        "date_posted": "2024-10-10 08:33:01-05:00",
+        "unique_id": "19276d0c213279f9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

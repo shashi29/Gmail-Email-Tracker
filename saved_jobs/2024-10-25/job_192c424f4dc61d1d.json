@@ -1,0 +1,99 @@
+[
+    {
+        "company": "XFORIA",
+        "job_title": "Sr. Java Developer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "XML",
+                "Web Services",
+                "AWS Services",
+                "Microservices",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "REST"
+            ],
+            "primary": [
+                "Angular 4/5/6/8",
+                "Agile Scrum",
+                "Distributed application environments",
+                "AWS CodeBuild",
+                "AWS CodeCommit",
+                "AWS CodePipeline",
+                "AWS Lambda",
+                "API Gateway",
+                "AWS CLI/Yaml/CloudFormation",
+                "Serverless Deployment"
+            ],
+            "secondary": [
+                "Application integrations",
+                "SOAP",
+                "ESB",
+                "JMS",
+                "File/Data transfers"
+            ],
+            "all": [
+                "Java",
+                "J2EE",
+                "XML",
+                "Web Services",
+                "AWS Services",
+                "Microservices",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "REST",
+                "Angular 4/5/6/8",
+                "Agile Scrum",
+                "Distributed application environments",
+                "AWS CodeBuild",
+                "AWS CodeCommit",
+                "AWS CodePipeline",
+                "AWS Lambda",
+                "API Gateway",
+                "AWS CLI/Yaml/CloudFormation",
+                "Serverless Deployment",
+                "Application integrations",
+                "SOAP",
+                "ESB",
+                "JMS",
+                "File/Data transfers"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dinesh Kumar",
+        "email": "dinesh.j@xforia.com",
+        "jd": "Job DetailsJava Fullstack Developer.Onsite - New York City, NYLong Term ContractJob Description:10+ years of Programming experience with Java, J2EE, XML, and Web Services.Must have AWS Services such as EC2, S3, containerization, Lambda, SQS, SNS, step functions.Experience with Angular 4/5/6/8 development (Not Mandatory)Strong knowledge of Micro services, Spring, Spring Boot, Hibernate, Web services based on RESTExperience in Agile Scrum software development MethodologyExperience developing in distributed application environmentsStrong AWS Experience including AWS CodeBuild, AWS CodeCommit, AWS CodePipeline , AWS Lambda, API Gateway, AWS CLI/Yaml/CloudFormation, Serverless DeploymentExperience with Application integrations (SOAP/REST Web Services, ESB, JMS, File/Data transfers, etc)",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:11:40-05:00",
+        "unique_id": "192c424f4dc61d1d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

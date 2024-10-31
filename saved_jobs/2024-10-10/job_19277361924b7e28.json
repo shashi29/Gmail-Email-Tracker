@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Technocraft Solutions",
+        "job_title": "Principal/Lead Azure Cloud Modernization Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "5+ years solutioning and deploying applications in AWS",
+                "Lead Experience",
+                "Azure Functions",
+                "Azure Kubernetes Service (AKS)",
+                "Azure SQL Database",
+                "Networking",
+                "Cloud security and recovery",
+                "Azure Messaging and Event Streaming Services",
+                "Terraform",
+                "CI/CD automation using GitHub/GitLab"
+            ],
+            "primary": [
+                "Golang",
+                "Python",
+                ".NET / C#",
+                "Java"
+            ],
+            "secondary": [
+                "Azure Certification(s)",
+                "Experience with alternative cloud providers (AWS, GCP)"
+            ],
+            "all": [
+                "Azure",
+                "5+ years solutioning and deploying applications in AWS",
+                "Lead Experience",
+                "Azure Functions",
+                "Azure Kubernetes Service (AKS)",
+                "Azure SQL Database",
+                "Networking",
+                "Cloud security and recovery",
+                "Azure Messaging and Event Streaming Services",
+                "Terraform",
+                "CI/CD automation using GitHub/GitLab",
+                "Golang",
+                "Python",
+                ".NET / C#",
+                "Java",
+                "Azure Certification(s)",
+                "Experience with alternative cloud providers (AWS, GCP)"
+            ],
+            "with_experience": [
+                "Azure (5+ years)",
+                "AWS (5+ years)",
+                "Lead Experience (3+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Priyanka Tyagi",
+        "email": "priyanka.tyagi@technocraftsol.com",
+        "jd": "Hello, This is Priyanka Tyagi from Technocraft Solution. I have an urgent requirement with my client for \u201cPrincipal/Lead Azure Cloud Modernization Architect.\u201d Please let me know if you are comfortable with this role and location or if you have any reference for this position please let me know, I\u2019ll really appreciate it. Please check the below detailed job description. Role: Principal/Lead Azure Cloud Modernization ArchitectLocation: Remote Project Description:Cloud Migration and Modernization Program focuses on establishing a shared services capability that provides the necessary architectural governance for workloads being migrated to the cloud. This initiative aims to ensure that the migration processes adhere to best practices and efficient cloud architectures across various platforms. The primary objective of this initiative is to enhance architectural governance during the migration of workloads to cloud environments. The initiative seeks to maintain a high standard of cloud architecture, ensuring effectiveness and compliance as organizations transition their operations to the cloud. Program is seeking an experienced, lead level, cloud developer and solution architect with the ability to evaluate, estimate, design, implement and document cloud centric application architectures and deployment methodologies, and generally contribute to cloud enablement and cost optimization efforts while promoting cloud architecture and DevOps best-practices. Responsibilities:The candidate must be able to materially contribute to the design and implementation of varied application solutions, infrastructure-as-code (IaC), operational capabilities and DevSecOps requirements.The candidate must understand development and deployment workflows and be capable of providing actionable guidance and executing on application re-factoring efforts.This candidate will be expected to lead delivery efforts, mentor team members, and work in collaboration with other teams to meet technical requirements and committed timelines. SkillsMust Have:Azure5+ years solutioning and deploying applications in AWSLead Experience3+ years in a role demonstrating ability to own and drive deliverables with minimal technical guidanceAzure Functions / Logic Apps: Proficiency in developing serverless architectures using Azure Functions and Logic Apps.Azure Kubernetes Service (AKS) / Azure Container Instances: Expertise in containerized deployments, including Docker and orchestration with AKS or using Azure Container Instances.Azure SQL Database / Cosmos DB: Proficient in relational and NoSQL database design and management, including Azure SQL Database and Azure Cosmos DB.Networking: Strong understanding of general networking concepts and Azure virtual networking, including VNet, VPN, and ExpressRoute configurations.Cloud security and recoveryWeb services and application programming interfaces (APIs)Azure Messaging and Event Streaming Services: Familiarity with Azure messaging/streaming services such as Azure Service Bus, Event Grid, and Azure Event Hubs.Terraform and CloudFormationCI/CD automation using GitHub/GitLabImplementation of auto-scaling, cost-management techniques, and operational monitoring.Experience architecting for both Linux and Windows environments Must have significant experience with at least one (preferably two+) of the following:GolangPython.NET / C#Java Nice to Have:Azure Certification(s) (verifiable)Experience with alternative cloud providers (AWS, GCP)",
+        "source": "Email",
+        "date_posted": "2024-10-10 10:27:37-05:00",
+        "unique_id": "19277361924b7e28",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

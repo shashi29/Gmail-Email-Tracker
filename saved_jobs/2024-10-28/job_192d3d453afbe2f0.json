@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Techrakers",
+        "job_title": "Big Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4 years",
+            "degree_required": "Bachelor's degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spark",
+                "SQL",
+                "Python",
+                "Scala"
+            ],
+            "primary": [
+                "Cloud experience (AWS preferred)",
+                "Test driven development",
+                "Critical thinking skills"
+            ],
+            "secondary": [
+                "Problem solving skills",
+                "Ability to learn additional coding languages"
+            ],
+            "all": [
+                "Spark",
+                "SQL",
+                "Python",
+                "Scala",
+                "Cloud experience (AWS preferred)",
+                "Test driven development",
+                "Critical thinking skills",
+                "Problem solving skills",
+                "Ability to learn additional coding languages"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vijay",
+        "email": "vijaym@techrakers.com",
+        "jd": "From: Vijay, Techrakers vijaym@techrakers.com Reply to: vijaym@techrakers.com Big data EngineerRemote \u2013 Need Locals to DC, MD, VALong Term Big Data Engineers and Software Engineers with a minimum of 4 years of experience that develop, test and support business users- Test driven environment (responsible for testing their own code, there is not a separate testing function)- Ability to build and understand requirements, prototype & build quality software products- Designing data pipelines & flow of data- Review and analyze complex process, system and/or data requirements and specifications across a major program or project or several small projects or programs- Candidates must have a Bachelors degreeCandidates who are motivated to learn with a growth mindset & strong problem solving skills- When it comes to problem solving skills, the most important part is the ability to navigate a problem well with critical thinking skills- Must be able to understand business challenges they have solved for on previous projectsTech Stack- Spark - must have experience with Spark as 90% of their work will be in the Spark ecosystem building apps in Spark using one of the coding languages below- SQL, Python, or Scala required (at least strong coding skills with one of these, ranked in order of preference)- Ability to pick up additional coding languages & learn on the job is key- Cloud experience (AWS preferred as FINRA is a very advanced AWS shop)Job Description\u2022 Bigdata engineers and Software engineers that develop, test and support business users.\u2022 Build quality software products. Motivated with a positive mindset and attitude.\u2022 Review and analyze complex process, system and/or data requirements and specifications across a major program or project or several small projects or programs.\u2022 Build, test, deploy, and document complex software components for one or more areas (subsystems) for a larger system or multiple areas (subsystems) for smaller systems as well as help others with theirs.\u2022 Serve as the technical subject matter expert for one or more areas (subsystems) for a larger system or multiple areas (subsystems) for smaller systems.\u2022 Serve as the primary designer for complex designs for one or more areas (subsystems) for a larger system or multiple areas (subsystems) for smaller systems.\u2022 Interface with other team members and other teams in peer review of requirements, specifications and software.\u2022 Document and communicate development status in a timely manner including metric reporting.\u2022 Champion the collaborative resolution of defects.\u2022 Direct internal process improvement initiatives.\u2022 Participate in external process improvement committees as a Development representative. Work EnvironmentRemote but local to DC, MD, VA Business Drivers/Customer ImpactSupporting RegTech portfolio working hands on with trading data to uncover fraudulent activity External Communities Job DescriptionBig Data Engineers and Software Engineers with a minimum of 4 years of experience that develop, test and support business users. Must have experience with Spark. Coding language preferences: SQL, Python, Scala (in order of preference)",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:17:39-05:00",
+        "unique_id": "192d3d453afbe2f0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

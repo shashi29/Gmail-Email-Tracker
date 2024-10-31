@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Deltaclass Technology Solutions",
+        "job_title": "Lead AKS",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "AKS",
+                "Azure Security"
+            ],
+            "primary": [
+                "AKS Networking",
+                "AKS Security",
+                "ACT (for AKS images)",
+                "Istio",
+                "AKS Monitoring",
+                "logging",
+                "observability"
+            ],
+            "secondary": [
+                "Prior AKS Admin or development using AKS experience"
+            ],
+            "all": [
+                "Terraform",
+                "AKS",
+                "Azure Security",
+                "AKS Networking",
+                "AKS Security",
+                "ACT (for AKS images)",
+                "Istio",
+                "AKS Monitoring",
+                "logging",
+                "observability",
+                "Prior AKS Admin or development using AKS experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kevin",
+        "email": "kevin@deltaclasstech.com",
+        "jd": "From: Kevin, Deltaclass Technology Solutions kevin@deltaclasstech.com Reply to: kevin@deltaclasstech.com Position: Lead AKSLocation: Dallas TX Day 1 OnsiteDuration: Long TermExp 8+ Years and only USCJob DescriptionLead Engineer with hands-on Terraform, AKS, VMs, Azure Security Experience specifically with focus on AKS.AKS NetworkingAKS SecurityACT (for AKS images)IstioAKS Monitoring, logging, and observabilityPrior AKS Admin or development using AKS experience",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:43:51-05:00",
+        "unique_id": "192b49ddd946d28e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Data ETL Technical Lead",
+        "location": "Stamford, CT, USA",
+        "full_location": {
+            "city": "Stamford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 5 years of experience in data engineering or ETL development.",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "PL-SQL",
+                "Python",
+                "Java",
+                "ETL tools"
+            ],
+            "primary": [
+                "Snowflake",
+                "SQL Server",
+                "Oracle",
+                "Agile methodologies",
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "secondary": [
+                "Informatica",
+                "Talend",
+                "SSIS",
+                "Hadoop",
+                "Spark",
+                "data governance",
+                "data quality frameworks"
+            ],
+            "all": [
+                "SQL",
+                "PL-SQL",
+                "Python",
+                "Java",
+                "ETL tools",
+                "Snowflake",
+                "SQL Server",
+                "Oracle",
+                "Agile methodologies",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Informatica",
+                "Talend",
+                "SSIS",
+                "Hadoop",
+                "Spark",
+                "data governance",
+                "data quality frameworks"
+            ],
+            "with_experience": [
+                "SQL (5+ years)",
+                "ETL tools (5+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ayush Yadav",
+        "email": "ayush.yadav@scalable-systems.com",
+        "jd": "From: ayush, Scalable Systems ayush.yadav@scalable-systems.com Reply to: ayush.yadav@scalable-systems.com Job Description: Data ETL Technical LeadLocation: Stamford, CTKey Responsibilities:Database Management:Deep understanding of relational and non-relational database management system concepts.Proficiency in database technologies like Snowflake, SQL Server, and Oracle.Expertise in writing efficient SQL queries, functions, and stored procedures for data transformation and manipulation.Business Intelligence:Strong foundation in business intelligence concepts, including data lake, data mart, and data warehousing.Ability to translate complex business requirements into clear data and technical specifications.Data Analysis:Proven skills in data analysis and data modeling.Experience in conducting data profiling, data quality assessments, and gap analysis.ETL Development:Design and architect ETL solutions using industry-standard tools and technologies.Develop and maintain ETL code, workflows, and mappings.Conduct unit testing, integration testing, and support UAT and production environments.Project Management:Provide regular status updates to stakeholders.Collaborate with cross-functional teams and offshore counterparts.Ensure alignment with project goals and timelines.Technical Skills:Proficiency in scripting languages like SQL/PL-SQL, Python, and Java.Experience with Agile methodologies and tools like JIRA.Knowledge of cloud platforms (AWS, Azure, GCP).Required Qualifications:Bachelor's degree in Computer Science, Engineering, or a related field.Minimum 5 years of experience in data engineering or ETL development.Strong understanding of data warehousing and data modeling concepts.Experience with ETL tools (e.g., Informatica, Talend, SSIS).Excellent problem-solving and analytical skills.Ability to work independently and as part of a team.Strong communication and interpersonal skills.Preferred Qualifications:Certification in data engineering or cloud technologies.Experience with big data technologies (Hadoop, Spark).Familiarity with data governance and data quality frameworks.",
+        "source": "Email",
+        "date_posted": "2024-10-17 11:53:18-05:00",
+        "unique_id": "1929b86611304d80",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

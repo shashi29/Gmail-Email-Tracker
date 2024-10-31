@@ -1,0 +1,94 @@
+[
+    {
+        "company": "RLI",
+        "job_title": "Azure Data Lead",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Information Systems, Software Engineering, Computer Science, Data Engineering, or related field (Master's preferred)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Lake",
+                "PySpark",
+                "Python",
+                "MySQL"
+            ],
+            "primary": [
+                "Azure Stack",
+                "Data Lake",
+                "Blob Storage",
+                "Azure Data Factory",
+                "Databricks",
+                "ETL",
+                "ELT"
+            ],
+            "secondary": [
+                "DataRobot",
+                "Domino Data Labs",
+                "Salesforce MC",
+                "Veeva CRM",
+                "Snowflake Warehouse",
+                "regression analyses",
+                "hypothesis testing",
+                "ML modeling",
+                "healthcare marketing analytics",
+                "healthcare data claims",
+                "medical coding sets (ICD, HCPCs, NPIs)"
+            ],
+            "all": [
+                "Azure Data Lake",
+                "ADB",
+                "PySpark",
+                "Python",
+                "MySQL",
+                "Azure Stack",
+                "Data Lake",
+                "Blob Storage",
+                "Azure Data Factory",
+                "Databricks",
+                "ETL",
+                "ELT",
+                "DataRobot",
+                "Domino Data Labs",
+                "Salesforce MC",
+                "Veeva CRM",
+                "Snowflake Warehouse",
+                "regression analyses",
+                "hypothesis testing",
+                "ML modeling",
+                "healthcare marketing analytics",
+                "healthcare data claims",
+                "medical coding sets (ICD, HCPCs, NPIs)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Karun",
+        "email": "kupadhyay@resource-logistics.com",
+        "jd": "Azure Data Lake (ADL), ADB, Py spark, Python, MySQLJob Responsibilities:Develop and maintain scalable data pipelines using Azure and PySpark. Extract, load, and transform data from various sources into cloud data warehouses. Format and distribute custom data extracts through APIs, SFTPs, and other mediums. Design and optimize data storage solutions based on business needs. Assist in database structure design, schema design, and database testing. Define company data assets, data models, and data quality protocols. Troubleshoot database issues and improve data retrieval times using SQL. Collaborate with technical and non-technical stakeholders across various business units. Facilitate and troubleshoot database connectivity between internal and external resources. Implement and enforce enterprise reference architecture, data governance, and security guidelines.Qualification Requirements:Bachelor's degree in Information Systems, Software Engineering, Computer Science, Data Engineering, or related field (Master s preferred).Experience with Azure Stack (Data Lake, Blob Storage, Azure Data Factory, Databricks) and on-premises Microsoft SQL Server. Proficiency in ETLELT processes, ingesting data into cloud-native data warehouses. Experience with Python, PySpark. Strong verbal and written communication skills.Preferred experience with DataRobot, Domino Data Labs, Salesforce MC, Veeva CRM. Familiarity with Snowflake Warehouse and statistical concepts (e.g., regression analyses, hypothesis testing, ML modeling).Experience with healthcare marketing analytics, healthcare data claims, and medical coding sets (ICD, HCPCs, NPIs).(1.) To be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity. (2.) To conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization , implementation of best practices and coding standards to ensure successful delivery of complex projects. (3.) To ensure process compliance in the assigned module, and participate in technical discussions or review as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations). (4.) To collaborate with stakeholders to define project scope, objectives, deliverables and accordingly prepare and submit status reports for minimizing exposure and closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-23 11:12:18-05:00",
+        "unique_id": "192ba5f79761f831",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

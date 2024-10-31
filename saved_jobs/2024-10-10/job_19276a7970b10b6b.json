@@ -1,0 +1,98 @@
+[
+    {
+        "company": "Yochana IT",
+        "job_title": "Data Architect with AWS & Finance domain",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Data Architecture",
+                "Data Engineering",
+                "Data Governance",
+                "Finance Domain Data Expertise"
+            ],
+            "primary": [
+                "Data Lake",
+                "Data Warehouse",
+                "Data Transformation",
+                "Data Security",
+                "Data Quality",
+                "Performance Optimization",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Data Pipelines",
+                "Batch Processing",
+                "Streaming",
+                "API",
+                "Message Queues",
+                "Real-time Data",
+                "Structured Data",
+                "Semi-structured Data",
+                "Unstructured Data",
+                "Presentations"
+            ],
+            "all": [
+                "AWS",
+                "Data Architecture",
+                "Data Engineering",
+                "Data Governance",
+                "Finance Domain Data Expertise",
+                "Data Lake",
+                "Data Warehouse",
+                "Data Transformation",
+                "Data Security",
+                "Data Quality",
+                "Performance Optimization",
+                "Snowflake",
+                "Data Pipelines",
+                "Batch Processing",
+                "Streaming",
+                "API",
+                "Message Queues",
+                "Real-time Data",
+                "Structured Data",
+                "Semi-structured Data",
+                "Unstructured Data",
+                "Presentations"
+            ],
+            "with_experience": [
+                "AWS",
+                "Data Architecture",
+                "Data Engineering"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pavan Kumar",
+        "email": "pavank@yochana.com",
+        "jd": "From: Pavan Kumar, Yochana IT pavank@yochana.com Reply to: pavank@yochana.com Job Title : Data Architect with AWS & Finance domainLocation : Chicago, IL (or) Charlotte NC - Onsite role \u2013 Locals preferredDuration : Long Term Contract Mandatory Skill Set: Finance Domain Data expertise.Ability to Model data in Data Lake and Data warehouse for Analytical use cases.Ability to understand and negotiate solution with Business teams/Business Analysts.Ability to architect and Design Data Storage, Data Transformation, Data Security, Data Quality and Performance optimization techniques in AWS and Snowflake.Ability to architect and solution data pipelines for batch, streaming, API, Message Queues and real time sources.Ability to work with structured, semi structured and unstructured data.Ability to create clear and impactful Presentations based on audience. Job Description:* Responsible for ensuring that the data management and governance frameworks are in place and adhered to* Responsible for Architecting Data engineering pipelines including data acquisition, Ingestion, management, processing, publishing by leveraging various AWS services* Responsible for developing and optimizing database models to store and retrieve company information* Responsible for determining strategic data requirements, creating high-level designs according to these requirements* Responsible for guiding and resolving issues with AWS service configuration, performance, security compliance, data quality issues and data retrieval.* Prepare Architecture and high-level design documents for the data engineering pipelines* Designing DevOps & DataOps pipelines and resolve issues during implementation and execution.* Responsible for researching data acquisition opportunities Thanks & regards,Pavan Kumar,Email: pavank@yochana.com",
+        "source": "Email",
+        "date_posted": "2024-10-10 07:41:31-05:00",
+        "unique_id": "19276a7970b10b6b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

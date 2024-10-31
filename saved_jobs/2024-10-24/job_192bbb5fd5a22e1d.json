@@ -1,0 +1,80 @@
+[
+    {
+        "company": "GAC Solution",
+        "job_title": "AWS Platform Engineer",
+        "location": "Hartford, CT, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "4+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Computer Engineering, or a technical field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "Terraform",
+                "CI/CD",
+                "Automated Testing"
+            ],
+            "primary": [
+                "Cloud Formation",
+                "Jenkins",
+                "Code Pipeline",
+                "uDeploy",
+                "GitHub Actions",
+                "Agile methodologies",
+                "Unit Testing",
+                "Integration Testing"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Communication",
+                "Collaboration"
+            ],
+            "all": [
+                "AWS",
+                "Python",
+                "Terraform",
+                "CI/CD",
+                "Automated Testing",
+                "Cloud Formation",
+                "Jenkins",
+                "Code Pipeline",
+                "uDeploy",
+                "GitHub Actions",
+                "Agile methodologies",
+                "Unit Testing",
+                "Integration Testing",
+                "Problem-solving",
+                "Communication",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sneha Sangnale",
+        "email": "sneha@gacsol.com",
+        "jd": "Hi This is Sneha from GAC Solution. I have an excellent job opportunity with one of our premier clients. Since it is an urgent requirement your prompt response is appreciated. The following is a brief job description for your reference. Job Title: AWS Platform Engineer Working Location: Hartford, CT (Remote) Project Duration: Contract \u2022 Design, build, and maintain secure, reliable, and scalable AWS infrastructure using best practices. \u2022 Ensure code is delivered without vulnerabilities by enforcing engineering practices, code scanning, etc. \u2022 Build and maintain IAC (terraform/Cloud Formation), CICD (Jenkins) scripts, Code Pipeline, uDeploy, & GitHub Actions. \u2022 Partner with our shared service teams like Architecture, Cloud, Security, etc to design and implement platform solutions. \u2022 Develop automation scripts and tools for provisioning and managing cloud resources. \u2022 Design and build the Data ingestion pipeline for Finetuning LLM Models. \u2022 Create templates (Architecture As Code) implementing Ref architecture application\u2019s topology. \u2022 Build a feedback system using HITL for Supervised finetuning. Qualifications: \u2022 Bachelor's degree in Computer Science, Computer Engineering, or a technical field. \u2022 4+ years of extensive experience with AWS cloud, Python and Terraform. \u2022 At least 8 years of experience designing and building data-intensive solutions using distributed computing. \u2022 8+ years building and shipping software and/or platform infrastructure solutions for enterprises. \u2022 Extensive programming experience with Python. \u2022 Experience with CI/CD pipelines, Automated Testing, Automated Deployments, Agile methodologies, Unit Testing and Integration Testing tools. \u2022 Excellent problem-solving and communication skills and the ability to work in a collaborative team environment.",
+        "source": "Email",
+        "date_posted": "2024-10-23 17:53:26-05:00",
+        "unique_id": "192bbb5fd5a22e1d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

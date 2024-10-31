@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Convextech",
+        "job_title": ".Net Developer",
+        "location": "Redmond, WA, USA",
+        "full_location": {
+            "city": "Redmond",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "Azure",
+                "REST APIs"
+            ],
+            "primary": [
+                "ASP.NET",
+                "DevOps Pipelines",
+                "Azure App services",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "Application Configuration in JSON files",
+                "Environment Variables",
+                "Azure portal Management",
+                "PowerShell",
+                "CLI Basics",
+                "Handling CRI",
+                "Handling LSI"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "Azure",
+                "REST APIs",
+                "ASP.NET",
+                "DevOps Pipelines",
+                "Azure App services",
+                "Azure DevOps",
+                "Application Configuration in JSON files",
+                "Environment Variables",
+                "Azure portal Management",
+                "PowerShell",
+                "CLI Basics",
+                "Handling CRI",
+                "Handling LSI"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "shaik",
+        "email": "shaik@convextech.com",
+        "jd": "From: shaik, Convextech shaik@convextech.com Reply to: shaik@convextech.com .Net DeveloperRedmond, Washington onsite Exceptional technical skills in .NET with programming language such as C# along with Azure technologies and REST APIs.????Experience of Deploying ASP.NET Web App & API to Azure VM along with Application Configuration in JSON files or Environment Variables.????Experience of defining DevOps Pipelines to build code managed in git, run through the existing scans and deployment to Azure VM.????Expertise with Azure services and Azure DevOps????Hands-on experience of Azure App services, Storage, Key-Vault, App configurations ????Experience in Azure portal Management: Portal, PowerShell, and CLI Basics????Handling CRI (Customer Related Incidents) and LSI (Livesite Incidents) Mandatory Skills.NET",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:17:59-05:00",
+        "unique_id": "19276f6ea637205d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

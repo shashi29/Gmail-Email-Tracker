@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Fluxteksolutions",
+        "job_title": "Oracle DBA",
+        "location": "Ashburn, VA, USA",
+        "full_location": {
+            "city": "Ashburn",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "+12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle DBA",
+                "RAC",
+                "Data Guard",
+                "Goldengate",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "DB Backup/Recovery",
+                "DB Performance monitoring",
+                "Oracle Patches installation"
+            ],
+            "secondary": [
+                "CompTIA+",
+                "SQL performance fine tuning",
+                "Monitoring",
+                "Alerts setup"
+            ],
+            "all": [
+                "Oracle DBA",
+                "RAC",
+                "Data Guard",
+                "Goldengate",
+                "Performance Tuning",
+                "DB Backup/Recovery",
+                "DB Performance monitoring",
+                "Oracle Patches installation",
+                "CompTIA+",
+                "SQL performance fine tuning",
+                "Monitoring",
+                "Alerts setup"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Srivalli",
+        "email": "srivalli@fluxteksol.com",
+        "jd": "From: Srivalli, Fluxteksolutions srivalli@fluxteksol.com Reply to: srivalli@fluxteksol.com Job Title: Oracle DBA Job Location: Ashburn, VA or Cary, NC Job Duration: +12 Months (Remote) VISA Status: USC,GC,H1B Experience: 8-10 years Job Description: Need of DBA with Top Secret security clearance active and CompTIA+ certifications, Data Guard, Goldengate, Replication, Performance Tuning are must. Skillset: Well experienced hands-on Oracle DBA with must of RAC experience with production environment tasks \u2013 creating RAC clusters from scratch \u2013 across multi data centers with multi node on each\u2026. Golden Gate experience for active-active replication across data centers Data guard experience for active-passive DR needs DB Backup/Recovery/production env alerts/monitoring Oracle Grid\u2026 DB Performance monitoring \u2013 tuning \u2013 logs retention \u2013 alerts setup and monitoring Oracle Patches installation as needed with packages development/deployment. Application SQL performance fine tuning/monitoring \u2013 guiding app teams for eff SQL code.",
+        "source": "Email",
+        "date_posted": "2024-10-16 17:17:57-05:00",
+        "unique_id": "19298068e34e40b4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Kroger",
+        "job_title": "Java Back End Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kafka",
+                "Azure",
+                "MongoDB",
+                "Microservices"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Kafka",
+                "Azure",
+                "MongoDB",
+                "Microservices"
+            ],
+            "with_experience": [
+                "Java (10+ years)",
+                "Kafka",
+                "Azure",
+                "MongoDB",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mahesh",
+        "email": "mahesh@jupitertechnologies.net",
+        "jd": "From: mahesh, jupitertechnologies mahesh@jupitertechnologies.net Reply to: mahesh@jupitertechnologies.net IMMEDIATE REQUIREMENTRole: Java Back EndSkills : Java, Kafka, Azure,mongo DB,Microservices,Location : NC/GA (Relocation is Fine)Need 10+years experienceClient : KrogerNote : Please share purely backend Profiles Only.Please share resumes to mahesh@jupitertechnologies.netPlease share profiles ASAP the position is going to close by EOD",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:41:51-05:00",
+        "unique_id": "192d3eb76264c4b4",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

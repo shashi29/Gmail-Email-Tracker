@@ -1,0 +1,91 @@
+[
+    {
+        "company": "NorthITe",
+        "job_title": "Business Analyst",
+        "location": "Orlando, FL, USA",
+        "full_location": {
+            "city": "Orlando",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, Business Administration, or related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Hibernate",
+                "SQL",
+                "Agile",
+                "Scrum"
+            ],
+            "primary": [
+                "Business Analysis",
+                "Systems Analysis",
+                "Software Development Life Cycle (SDLC)",
+                "Version Control Systems (Git)",
+                "Problem-Solving",
+                "Communication",
+                "Interpersonal Skills"
+            ],
+            "secondary": [
+                "API Integration",
+                "RESTful Services",
+                "CI/CD Pipelines",
+                "Business Intelligence Tools",
+                "Data Analysis",
+                "Cloud Platforms (AWS, Azure)"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Hibernate",
+                "SQL",
+                "Agile",
+                "Scrum",
+                "Business Analysis",
+                "Systems Analysis",
+                "Software Development Life Cycle (SDLC)",
+                "Version Control Systems (Git)",
+                "Problem-Solving",
+                "Communication",
+                "Interpersonal Skills",
+                "API Integration",
+                "RESTful Services",
+                "CI/CD Pipelines",
+                "Business Intelligence Tools",
+                "Data Analysis",
+                "Cloud Platforms (AWS, Azure)"
+            ],
+            "with_experience": [
+                "Java (10+ years)",
+                "Business Analysis (10+ years)",
+                "Systems Analysis (10+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Hemanth",
+        "email": "hemanth@northite.com",
+        "jd": "From: Hemanth, NorthITe hemanth@northite.com Reply to: hemanth@northite.com Job Title: Business Analyst Location: Orlando, FL Duration: Full Time Required Qualifications: Bachelor\u2019s degree in Computer Science, Information Technology, Business Administration, or related field. 10+ years of experience in business analysis, systems analysis, or a related role. Proven experience with Java development, including frameworks such as Spring and Hibernate. Strong understanding of software development life cycle (SDLC) methodologies (Agile/Scrum preferred). Ability to translate business requirements into technical solutions. Strong problem-solving skills with an analytical mindset. Excellent communication and interpersonal skills. Proficiency with version control systems like Git and experience with SQL or relational databases. Preferred Qualifications: Experience with API integration and RESTful services. Familiarity with modern development practices like CI/CD pipelines. Experience with business intelligence tools and data analysis. Knowledge of cloud platforms (AWS, Azure, etc.).",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:07:03-05:00",
+        "unique_id": "192c00e49212852e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "company": "VY Systems",
+        "job_title": "Azure Data Engineer",
+        "location": "Bethesda, MD, USA",
+        "full_location": {
+            "city": "Bethesda",
+            "state": "MD",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Monitoring",
+                "ADLS G2",
+                "Blob",
+                "CosmosDB",
+                "Data Explorer",
+                "Data Factory",
+                "Data Modelling Fundamentals",
+                "Data Warehousing",
+                "Databricks",
+                "ETL Fundamentals",
+                "Event Hub",
+                "Logic App",
+                "Modern Data Platform Fundamentals",
+                "PLSQL",
+                "Purview",
+                "Python",
+                "SQL",
+                "SQL (Basic + Advanced)",
+                "SQL Server",
+                "Stream Analytics",
+                "Synapse"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Azure Monitoring",
+                "ADLS G2",
+                "Blob",
+                "CosmosDB",
+                "Data Explorer",
+                "Data Factory",
+                "Data Modelling Fundamentals",
+                "Data Warehousing",
+                "Databricks",
+                "ETL Fundamentals",
+                "Event Hub",
+                "Logic App",
+                "Modern Data Platform Fundamentals",
+                "PLSQL",
+                "Purview",
+                "Python",
+                "SQL",
+                "SQL (Basic + Advanced)",
+                "SQL Server",
+                "Stream Analytics",
+                "Synapse"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sakthi",
+        "email": "sakthi@vysystems.com",
+        "jd": "Data SpecialistPrimary SkillsAZure Monitoring, ADLS G2, Blob, CosmosDB, Data Explorer, Data Factory, Data Modelling Fundamentals, Data Warehousing, Databricks, ETL Fundamentals, Event Hub, Logic App, Modern Data Platform Fundamentals, PLSQL, Purview, Python, SQL, SQL (Basic + Advanced), SQL Server, Stream Analytics, SynapseSpecializationAzure Data Architecture: Data SpecialistJob requirementsJob Description:We are looking for an experienced Data Engineer with a focus on Master Data Management (MDM) to become a trusted advisor to the IT leadership teams. This role involves defining and executing MDM strategies in alignment with business objectives and regulatory compliance requirements. Key Responsibilities:MDM Strategy Development: Work closely with senior leadership (CDO/CIO/VP of IT) to define and develop MDM strategies, ensuring alignment with business goals and compliance standards.Consulting and Expertise: Guide clients on MDM concepts, industry best practices, methodologies, and emerging trends.Project Leadership: Lead MDM and data governance initiatives, managing consulting engagements related to data management and analytics projects.Solution Blueprinting: Perform assessments, gather requirements, and consolidate use cases to build a comprehensive MDM solution blueprint.Stakeholder Engagement: Engage with key stakeholders, including business leaders, IT teams, and data owners, to ensure effective communication, consensus building, and change management throughout MDM projects.",
+        "source": "Email",
+        "date_posted": "2024-10-16 17:23:16-05:00",
+        "unique_id": "192978e225307512",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

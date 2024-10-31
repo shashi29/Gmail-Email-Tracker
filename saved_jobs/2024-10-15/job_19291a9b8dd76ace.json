@@ -1,0 +1,61 @@
+[
+    {
+        "company": "RCI",
+        "job_title": "ServiceNow Business Analyst",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "$50/hour"
+        },
+        "skills": {
+            "core": [
+                "gathering and documenting requirements",
+                "ServiceNow GRC",
+                "supporting IT projects",
+                "technical aptitude"
+            ],
+            "primary": [
+                "understanding of Supply Chain",
+                "Agile experience"
+            ],
+            "secondary": [],
+            "all": [
+                "gathering and documenting requirements",
+                "ServiceNow GRC",
+                "supporting IT projects",
+                "technical aptitude",
+                "understanding of Supply Chain",
+                "Agile experience"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Prakash Singh",
+        "email": "prakash@rconsultinginc.com",
+        "jd": "From: Prakash Singh, RCI prakash@rconsultinginc.com Reply to: prakash@rconsultinginc.com Position: ServiceNow Business AnalystRate: 50/hr. On C2CVisa: USC/GCLocation: 100% RemoteDuration: 12+ monthsJob DescriptionA large pharmaceutical client is seeking a Business Analyst to join their growing team. This team is changing risk management systems from MetricStream to ServiceNow. They needs assistance gathering and documenting requirements for the transition due to particularities with ServiceNow. They are considering bringing in ServiceNow GRC to help with requirement documentation. This resource will assist in translating business requirements into technical requirements. There are internal developers on the ServiceNow team, but lack the bandwidth of requirements gathering. Required Skills and Experience- Strong experience gathering and document requirements as a Business Analyst- Strong understanding of ServiceNow GRC model- Experience working to support IT projects with technical aptitude- Understanding of Supply Chain- Agile experience",
+        "source": "Email",
+        "date_posted": "2024-10-15 13:55:37-05:00",
+        "unique_id": "19291a9b8dd76ace",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

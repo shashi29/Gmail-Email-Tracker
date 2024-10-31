@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Avance",
+        "job_title": "Tech Lead- Data Engineer",
+        "location": "SAT, TX, USA",
+        "full_location": {
+            "city": "SAT",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "DBT",
+                "SQL",
+                "Python",
+                "Datastage",
+                "Informatica",
+                "Unix"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Snowflake",
+                "DBT",
+                "SQL",
+                "Python",
+                "Datastage",
+                "Informatica",
+                "Unix"
+            ],
+            "with_experience": [
+                "SQL",
+                "Snowflake",
+                "ETL tools"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Bhavya Rapelli",
+        "email": "bhavya.r@avanceservices.com",
+        "jd": "From: Bhavya Rapelli, Avance bhavya.r@avanceservices.com Reply to: bhavya.r@avanceservices.com Tech Lead- Data EngineerLocation: SAT, TX LocalsExperience: 12+Mandatory skills: Snowflake, DBT , SQL, Python, Datastage or Informatica, Unix Detailed Job Description:Knowledge of SQL language and cloud-based technologiesData warehousing concepts, data modeling, metadata managementData lakes, multi-dimensional models, data dictionariesMigration to AWS or Azure Snowflake platformPerformance tuning and setting up resource monitors.Snowflake modeling \u2013 roles, databases, schemasSQL performance measuring, query tuning, and database tuningETL tools with cloud-driven skillsRoles and Responsibilities:Create, test, and implement enterprise-level apps with Snowflake.Design and implement features for identity and access management.Create authorization frameworks for better access control.Implement novel query optimization, major security competencies with encryption.Solve performance issues and scalability issues in the system.Transaction management with distributed data processing algorithms.Possess ownership right from start to finish.Build, monitor, and optimize ETL and ELT processes with data models.Migrate solutions from on-premises setup to cloud-based platforms.",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:16:47-05:00",
+        "unique_id": "192b110df20bf17f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

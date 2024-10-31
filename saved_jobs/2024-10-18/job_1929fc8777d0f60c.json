@@ -1,0 +1,81 @@
+[
+    {
+        "company": "VDart Inc",
+        "job_title": "SQL DBA with MarkLogic",
+        "location": "Branchville, NJ, USA",
+        "full_location": {
+            "city": "Branchville",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "Sri",
+            "email": "srijayanth.l@vdartinc.com"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "MarkLogic",
+                "Netezza"
+            ],
+            "primary": [
+                "Database Design",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Data Integrity",
+                "Security",
+                "Backup and Recovery",
+                "Automation",
+                "Collaboration",
+                "XQuery",
+                "Data Management"
+            ],
+            "secondary": [
+                "ETL Operations",
+                "System Maintenance",
+                "User Roles Management"
+            ],
+            "all": [
+                "SQL",
+                "MarkLogic",
+                "Netezza",
+                "Database Design",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Data Integrity",
+                "Security",
+                "Backup and Recovery",
+                "Automation",
+                "Collaboration",
+                "XQuery",
+                "Data Management",
+                "ETL Operations",
+                "System Maintenance",
+                "User Roles Management"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "jd": "From: Sri, VDart Inc srijayanth.l@vdartinc.com Reply to: srijayanth.l@vdartinc.com Title: SQL DBA with MarkLogic and Netezza Location: Branchville, NJ (Hybrid) An L3 role typically involves advanced-level responsibilities, including resolving complex issues, overseeing system stability, and providing expert guidance. Here's a breakdown based on specifications for SQL (70%), MarkLogic (20%), and Netezza (10%): 1. SQL Database Design and Optimization: Designing efficient database schemas, indexing strategies, and query optimization to improve performance. Performance Tuning: Monitoring and optimizing the performance of SQL queries, stored procedures, and overall database health. Troubleshooting: Handling escalated issues from L2 support, including complex SQL errors, deadlocks, and data inconsistencies. Data Integrity and Security: Implementing security measures, such as access controls and encryption, ensuring data integrity and compliance with standards. Backup and Recovery: Managing and maintaining database backups, ensuring disaster recovery processes are in place. Automation: Creating and maintaining scripts for database tasks, including backups, monitoring, and alerts. Collaboration: Working with development teams to optimize database interactions and provide guidance on best practices. 2. MarkLogic Database Administration: Managing the MarkLogic NoSQL database, including installation, configuration, and upgrading. Query Optimization: Optimizing XQuery and search performance in MarkLogic, ensuring efficient data retrieval. Data Management: Managing document-based data structures, indexing, and retrieval, ensuring the system handles large-scale data efficiently. Troubleshooting and Maintenance: Handling escalated MarkLogic-specific issues, including performance bottlenecks and system failures. Security: Managing security features like user roles, permissions, and encryption in MarkLogic. 3. Netezza System Administration: Administering the Netezza appliance, including system health checks, upgrades, and maintenance. Performance Tuning: Optimizing Netezza-specific SQL queries, particularly those involving large datasets. Troubleshooting: Handling escalated issues specific to the Netezza environment, such as performance lags or database errors. Data Load Management: Overseeing data load processes to ensure efficient ETL operations. Across these platforms, L3 support will involve advanced troubleshooting, handling escalations, and ensuring overall system performance, reliability, and security. Additionally, the L3 professional would likely be responsible for mentoring junior team members and staying up-to-date with evolving technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-18 07:44:00-05:00",
+        "unique_id": "1929fc8777d0f60c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

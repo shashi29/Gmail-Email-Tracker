@@ -1,0 +1,52 @@
+[
+    {
+        "company": "Tanisha Systems",
+        "job_title": "Google Cloud Monitoring Consultant",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Monitoring Metrics",
+                "PromQL",
+                "Grafana"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Google Monitoring Metrics",
+                "PromQL",
+                "Grafana"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nitin Singh",
+        "email": "nitin.singh@tanishasystems.com",
+        "jd": "From: Nitin, Tanisha Systems nitin.singh@tanishasystems.com Reply to: nitin.singh@tanishasystems.com 1.Experience with Google Monitoring Metrics collection.2.Experience with PromQL ( Prometheus Query Language)3.Experience with Grafana",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:13:42-05:00",
+        "unique_id": "192afc8027a91b60",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

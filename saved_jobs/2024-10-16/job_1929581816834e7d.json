@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Wise Equation",
+        "job_title": "Data & Analytics Development Lead",
+        "location": "Cambridge, MA, USA",
+        "full_location": {
+            "city": "Cambridge",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "PowerBI",
+                "ETL methodologies",
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "Data Lakehouse concepts",
+                "Data engineering",
+                "Data and analytics design",
+                "Jira experience",
+                "Good at communication"
+            ],
+            "secondary": [
+                "Experience in G&A data domains, such as finance, HR, compliance"
+            ],
+            "all": [
+                "Databricks",
+                "PowerBI",
+                "ETL methodologies",
+                "SQL",
+                "Python",
+                "Data Lakehouse concepts",
+                "Data engineering",
+                "Data and analytics design",
+                "Jira experience",
+                "Good at communication",
+                "Experience in G&A data domains, such as finance, HR, compliance"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhinav",
+        "email": "abhinav.c@wiseq.net",
+        "jd": "From: abhinav, wise equation abhinav.c@wiseq.net Reply to: abhinav.c@wiseq.net Job Title: Data & Analytics Development LeadLocation: Cambridge, MADuration: Long Termneed GC OR USCNote: It\u2019s a Hybrid RoleExperience Level: 10+ YearsProject Description:Lead development team for ongoing data and analytics enhancements and development projects. Will be primary developer, including both developing directly but also coordinating with offshore developers, including both core dev/support team, but also additional developers for projects.Responsible for detailed design based on project direction from Alnylam leads and breaking down efforts to assign to individual developers including confirming their results. Will also assist support escalations as needed.Expertise AreasDatabricks (Required)PowerBI (Required)ETL methodologies (e.g. Boomi)Data Lakehouse conceptsData engineering, include SQL and/or PythonData and analytics designDev lead for junior developers / supportJira experienceGood at communicationExperience in G&A data domains, such as finance, HR, compliance, etc. (nice to have)",
+        "source": "Email",
+        "date_posted": "2024-10-16 07:50:12-05:00",
+        "unique_id": "1929581816834e7d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

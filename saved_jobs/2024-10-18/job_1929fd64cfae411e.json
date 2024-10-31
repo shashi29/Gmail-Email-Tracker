@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Deltaclass Technology Solutions",
+        "job_title": "API developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring frameworks",
+                "REST",
+                "SOAP",
+                "Microservices architecture"
+            ],
+            "primary": [
+                "Node.js",
+                "Express.js",
+                "API design",
+                "Swagger",
+                "OpenAPI",
+                "API management tools",
+                "Authentication mechanisms",
+                "Authorization mechanisms",
+                "Cloud platforms"
+            ],
+            "secondary": [
+                "Python",
+                "ReadyAPI",
+                "SOAPUI",
+                "Postman",
+                "JMeter",
+                "OAuth",
+                "JWT"
+            ],
+            "all": [
+                "Java",
+                "Spring frameworks",
+                "REST",
+                "SOAP",
+                "Microservices architecture",
+                "Node.js",
+                "Express.js",
+                "API design",
+                "Swagger",
+                "OpenAPI",
+                "API management tools",
+                "Authentication mechanisms",
+                "Authorization mechanisms",
+                "Cloud platforms",
+                "Python",
+                "ReadyAPI",
+                "SOAPUI",
+                "Postman",
+                "JMeter",
+                "OAuth",
+                "JWT"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rick",
+        "email": "rick@deltaclasstech.com",
+        "jd": "From: rick, Deltaclass Technology Solutions rick@deltaclasstech.com Reply to: rick@deltaclasstech.com Position: API developer Location- Dallas, TX(Remote )Experienced in designing, developing, integrating, and deploying web services (with REST/SOAP/JSON/XML) using micro services architectureExpert level of Java development experience, including newer versions Expert knowledge of Spring frameworks, including Spring BootExperience with node.js and express.jsExperience designing and documenting APIs with tools such as Swagger, OpenAPIExperience with Java and web services testing tools (ReadyAPI, SOAPUI, Postman, JMeter, etc.)Proficiency in programming languages such as Java, Python, Node.js, or similar.Experience with API management tools (e.g., Apigee, Postman, Swagger).Strong understanding of authentication and authorization mechanisms (e.g., OAuth, JWT). Familiarity with cloud platforms (e.g., AWS, Azure, Google Cloud) and microservices architecture.",
+        "source": "Email",
+        "date_posted": "2024-10-18 07:59:07-05:00",
+        "unique_id": "1929fd64cfae411e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "company": "Crea Services",
+        "job_title": "Java Full Stack Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "React",
+                "MongoDB",
+                "Spring",
+                "Spring Boot",
+                "Hibernate"
+            ],
+            "primary": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "RESTful APIs",
+                "JMS",
+                "Kafka",
+                "Git",
+                "Agile",
+                "Scrum",
+                "multithreading",
+                "concurrency management"
+            ],
+            "secondary": [
+                "Azure",
+                "PCF",
+                "Docker",
+                "OracleDB",
+                "low-latency applications",
+                "high-throughput applications"
+            ],
+            "all": [
+                "Java",
+                "React",
+                "MongoDB",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "RESTful APIs",
+                "JMS",
+                "Kafka",
+                "Git",
+                "Agile",
+                "Scrum",
+                "multithreading",
+                "concurrency management",
+                "Azure",
+                "PCF",
+                "Docker",
+                "OracleDB",
+                "low-latency applications",
+                "high-throughput applications"
+            ],
+            "with_experience": [
+                "Java (Proven experience)",
+                "React (Proven experience)",
+                "MongoDB (Proven experience)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Aashish",
+        "email": "asaini@creaservices.net",
+        "jd": "Hi FolksHope this email finds you in good cheer !!!This is AASHISH from Crea Services which is fastest growing staffing firm with valuable and trusted customers. We have one opportunity with one of our Direct Client, So please share your updated resume along with your availability to discuss on the same role. Here is Job Description for your reference-The Role:Client is seeking a Java Full Stack Developer with React/ MongoDB to join our team in Charlotte, NC (Need Onsite day 1, Hybrid 3 days from office, No Remote).Need Locals only as F2F Client interview is required.Responsibilities:Collaborate with cross-functional teams to define, design, and implement new features.Develop and maintain robust server-side applications using Java and RESTful APIs.Create interactive user interfaces with React, utilizing Redux for state management.Design and implement database schemas and optimize queries in MongoDB.Enhance application performance for speed and scalability.Conduct code reviews, providing constructive feedback to peers.Troubleshoot and resolve application issues to ensure high performance and reliability.Migrate monolithic applications to a microservices architecture.Stay updated on emerging technologies and industry trends, particularly in concurrency and distributed systems. Required Skills: Proven experience as a Fullstack Developer, specializing in Java, React, and MongoDB.Strong proficiency in Java frameworks, including Spring, Spring Boot, and Hibernate.Practical experience in developing user interfaces using HTML5, CSS3, and JavaScript.Solid background in working with RESTful APIs, JMS, and Kafka streaming.Familiarity with version control systems (Git) and Agile/Scrum methodologies.Extensive hands-on experience in multithreading and concurrency management.Ability to effectively leverage message-driven and event-driven microservices.Exceptional problem-solving skills and meticulous attention to detail.Strong communication and collaboration skills, excelling in team environments. Desired Skills: Experience with cloud platforms (Azure, PCF).Familiarity with containerization technologies (Docker).Knowledge of OracleDB.Experience in designing and developing low-latency, high-throughput applications.",
+        "source": "Email",
+        "date_posted": "2024-10-14 10:06:28-05:00",
+        "unique_id": "1928bb19c1889217",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

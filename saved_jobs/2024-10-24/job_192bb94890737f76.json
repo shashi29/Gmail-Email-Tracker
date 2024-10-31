@@ -1,0 +1,83 @@
+[
+    {
+        "company": "SecureKloud Technologies Inc.",
+        "job_title": "Azure Cloud Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s or master\u2019s Degree in technical discipline or relevant experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Cloud",
+                "Azure Services",
+                "Policy Driven Governance",
+                "Infrastructure as Code",
+                "Network and Security concepts"
+            ],
+            "primary": [
+                "DevOps",
+                "Serverless",
+                "ARM Templates",
+                "Bicep",
+                "Programming in Java",
+                "Python",
+                ".NET",
+                "JavaScript",
+                "Typescript"
+            ],
+            "secondary": [
+                "Certification at any level of any one cloud provider",
+                "Agile experience",
+                "Open-source contributions"
+            ],
+            "all": [
+                "Azure Cloud",
+                "Azure Services",
+                "Policy Driven Governance",
+                "Infrastructure as Code",
+                "Network and Security concepts",
+                "DevOps",
+                "Serverless",
+                "ARM Templates",
+                "Bicep",
+                "Programming in Java",
+                "Python",
+                ".NET",
+                "JavaScript",
+                "Typescript",
+                "Certification at any level of any one cloud provider",
+                "Agile experience",
+                "Open-source contributions"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Senthil",
+        "email": "senthilbabu.s@securekloud.com",
+        "jd": "From: Senthil, SecureKloud senthilbabu.s@securekloud.com Reply to: senthilbabu.s@securekloud.com Job Title: Azure Cloud Engineer Location: Remote Long term contract Dont share DevOps profile we need Azure engineers Job Description: Roles and Responsibilities: - The candidate will play an integral role in developing a cloud Adoption strategy for how to migrate workloads to cloud- Works with the client IT Teams (Network / Security / Operations / Infrastructure) to understand their current state and design the target desired state- Translate application requirements to cloud technology infrastructure components for migration purposes- Gather accurate information to explain concepts, and answer critical questions- Advising on implementing cloud best practices related to governance, operations and security. Qualifications: - 10+ yrs experience in IT Bachelor\u2019s or master\u2019s Degree in technical discipline or relevant experience- Minimum 5 years in Azure Cloud hands on experience with strong technical knowledge of Azure Services, Policies, Monitoring tools etc.,- Must be familiar with Policy Driven Governance, Azure landing zones, ARM Templates or Bicep etc.,- Strong technical knowledge of serverless, DevOps, pipeline as code and Infrastructure as code.- Strong understanding of Network and Security concepts.- Must be able to implement solutions using at least one of the popular programming languages (Java, Python, Typescript, JavaScript, .NET)- Must be proactive, demonstrative initiative and be a logical thinker- Ability to think critically, and work logically under pressure Nice to Have: - Certification at any level of any one cloud provider- Agile experience- Open-source contributions- Programming skills in either Java, Python, .NET, Node JS (JavaScript, Typescript)",
+        "source": "Email",
+        "date_posted": "2024-10-23 15:59:03-05:00",
+        "unique_id": "192bb94890737f76",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

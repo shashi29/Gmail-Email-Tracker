@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Avance Consulting",
+        "job_title": "Full Stack Developer with AWS",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Micro services",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "Angular 4/5/6/8",
+                "AWS"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Micro services",
+                "Spring",
+                "Spring Boot",
+                "Hibernate",
+                "Angular 4/5/6/8",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Naresh",
+        "email": "maragoni.naresh@avanceservices.com",
+        "jd": "From: Naresh, Avance Consulting maragoni.naresh@avanceservices.com Reply to: maragoni.naresh@avanceservices.com Full Stack Developer with AWS Location :Plano,Texas,United States(Hybrid 3 Days) (ONLY Locals to Texas)Skills :Java Full stack, Micro services, Spring, Spring Boot, Hibernate, Angular 4/5/6/8, AWSJob Description1. At least 7 years of Programming experience with Java, J2EE, XML, and Web Services2. Experience with Angular 4/5/6/8 development, Java script, CSS, HTML3. Strong knowledge of Micro services, Spring, Spring Boot, Hibernate, Web services based on REST4. Experience in Agile Scrum software development Methodology5. Experience developing in distributed application environments6. Strong AWS Experience including AWS CodeBuild, AWS CodeCommit, AWS CodePipeline , AWS Lambda, API Gateway, AWS CLI/Yaml/CloudFormation, Serverless Deployment7. Experience with Application integrations (SOAP/REST Web Services, ESB, JMS, File/Data transfers, etc)",
+        "source": "Email",
+        "date_posted": "2024-10-29 16:37:29-05:00",
+        "unique_id": "192daf1e2db4a446",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

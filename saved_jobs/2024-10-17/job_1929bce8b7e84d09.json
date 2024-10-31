@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Metasys",
+        "job_title": "GCP Lead Engineer",
+        "location": "Madison, WI, USA",
+        "full_location": {
+            "city": "Madison",
+            "state": "WI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor\u2019s degree or foreign equivalent",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Month Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Python",
+                "SQL",
+                "Terraform",
+                "CI/CD"
+            ],
+            "primary": [
+                "Big Query",
+                "Cloud Run",
+                "Cloud Storage",
+                "Pub/Sub",
+                "Cloud Composer",
+                "Containers",
+                "Workflows",
+                "IAM",
+                "Production support",
+                "Debugging",
+                "Performance tuning"
+            ],
+            "secondary": [
+                "Communication skills",
+                "Data integration",
+                "Data quality",
+                "Data architecture",
+                "Relational Modeling",
+                "Dimensional Modeling",
+                "Modeling of Unstructured Data",
+                "Agile software development"
+            ],
+            "all": [
+                "GCP",
+                "Python",
+                "SQL",
+                "Terraform",
+                "CI/CD",
+                "Big Query",
+                "Cloud Run",
+                "Cloud Storage",
+                "Pub/Sub",
+                "Cloud Composer",
+                "Containers",
+                "Workflows",
+                "IAM",
+                "Production support",
+                "Debugging",
+                "Performance tuning",
+                "Communication skills",
+                "Data integration",
+                "Data quality",
+                "Data architecture",
+                "Relational Modeling",
+                "Dimensional Modeling",
+                "Modeling of Unstructured Data",
+                "Agile software development"
+            ],
+            "with_experience": [
+                "GCP (5+ years)",
+                "Python",
+                "SQL",
+                "Terraform",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Varun",
+        "email": "vasharma@metasysinc.com",
+        "jd": "From: Varun, Metasys vasharma@metasysinc.com Reply to: vasharma@metasysinc.com GCP Lead Engineer Madison, WI (Onsite) 6+Month Contract Required Qualifications: \u2022 Candidate must be located within commuting distance of Madison, Wisconsin or be willing to relocate to the area. \u2022 Hands on GCP experience with very good communication skill. \u2022 Bachelor\u2019s degree or foreign equivalent required from an accredited institution. \u2022 At least 12+ years of experience with Information Technology \u2022 5+ years of experience in Google Cloud Platform (GCP) services, such as Big Query, Cloud Run, Cloud Storage, Pub/Sub, Cloud Composer, Containers, Workflows, IAM, Etc. Understanding of cloud-native solutions and architecture is critical \u2022 Strong knowledge and hands-on experience in Python, SQL, Terraform, CI/CD, Git flows, Antiunity, AutoSys, Airflow Dag creation, execution, and monitoring \u2022 Strong knowledge on Production support, Debugging and performance tuning \u2022 Effective communication skills for collaborating with global teams, including clear documentation practices and the ability to convey technical details to non-technical stakeholders. Preferred Qualifications: \u2022 Experience in Insurance domain preferable \u2022 Good understanding of data integration, data quality and data architecture \u2022 Experience in Relational Modeling, Dimensional Modeling and Modeling of Unstructured Data \u2022 Good understanding of Agile software development frameworks \u2022 Ability to work in teams in a diverse, multi-stakeholder environment comprising of Business and Technology teams.",
+        "source": "Email",
+        "date_posted": "2024-10-17 13:12:07-05:00",
+        "unique_id": "1929bce8b7e84d09",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

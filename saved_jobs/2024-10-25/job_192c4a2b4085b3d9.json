@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Agama Consulting Group",
+        "job_title": "Lead Java Engineer with Big Data",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Big Data",
+                "Spark",
+                "Hadoop",
+                "Linux"
+            ],
+            "primary": [
+                "Performance tuning",
+                "Spring Framework",
+                "NoSQL",
+                "CI/CD",
+                "Containerization"
+            ],
+            "secondary": [
+                "Bash",
+                "MPP Databases",
+                "Columnar file formats",
+                "Microservice Architecture",
+                "Helm",
+                "Jenkins",
+                "Bitbucket",
+                "Gradle",
+                "Maven",
+                "Open telemetry",
+                "ELK",
+                "Grafana",
+                "Prometheus"
+            ],
+            "all": [
+                "Java",
+                "Big Data",
+                "Spark",
+                "Hadoop",
+                "Linux",
+                "Performance tuning",
+                "Spring Framework",
+                "NoSQL",
+                "CI/CD",
+                "Containerization",
+                "Bash",
+                "MPP Databases",
+                "Columnar file formats",
+                "Microservice Architecture",
+                "Helm",
+                "Jenkins",
+                "Bitbucket",
+                "Gradle",
+                "Maven",
+                "Open telemetry",
+                "ELK",
+                "Grafana",
+                "Prometheus"
+            ],
+            "with_experience": [
+                "Java (7+ years)",
+                "Big Data (5 years)",
+                "Lead developer (5 years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Deepsikha",
+        "email": "deepsikha@agamaamerica.com",
+        "jd": "Hi,Hope you are doing well.Please let me know your interest in the below role-Role: Lead Java Engineer w/ Big DataLocation: Jersey City, NJ (3 days Onsite, local to NJ or NY)Duration: 12 months contractVisa: No H1B,No CPT & No TNInterview: In-PersonLinkedIn Profile Intake call notes:Lead engineer in Jersey City officeVery strong in Java and performance tuning (7+ years of java development)Very good big data experience - especially spark and impalaLinux system experienceFinancial industry experience is a plusJob Description:Role Summary:A senior java engineer with very strong java understanding along with subject matter expertise in big data.The role demands for Java, any flavor of Spark, Hadoop, Linux, Bash, NoSQL, MPP Databases and Columnar file formats, CI/CD, DevOps understanding, and Containerization hands on.Responsibilities:Implement application features/function using Java , Spring, Big Data technologies.Tune and optimize JAVA processes using various techniques such as JVM tuning like heap dumps , thread dumps and JDK dynamic monitoring.Tune various Big Data processes for egress/ingress optimization, monitoring, scaling.Participate in daily scrums and application roadmap meetings. Present ideas to improve application framework and own the execution.Ensure the application development standards are maintained and enhanced related to readability, testability and continuous integration.Required Skills & Experience:Minimum of 10 years of hands-on development experience.At least 5 years of working as a lead developer on Java backends.At least 5 years of working as a Big Data Developer.Must have worked as an architect on multi-tier applications, has design experience, and hands on coding skills.Must have strong understanding of the big data framework and understands Spark, Hive, HDFS, Impala, Presto and can query and tune those systems.Must have understanding of latest java versions along with Spring Framework, Executor patterns, and Lambda. Deep understanding of data structures also required along with basic principles of Java.Must have understanding of Linux , Bash and basic scripting along basics like Unix group , host group etc.Must have basic understanding of RDBMS vs NO SQL vs Columnar Databases. Understanding of the file formats like Parquet, AVRO, ORC, and Iceberg also required.Must have basic understanding of basics of Microservice Architecture, Containerization, and Orchestration.Must have basic understanding of Helm, Jenkins, Bitbucket, Gradle, and Maven.Must have basic understanding of the telemetry specifically open telemetry, ELK, Grafana, and Prometheus.",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:28:58-05:00",
+        "unique_id": "192c4a2b4085b3d9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

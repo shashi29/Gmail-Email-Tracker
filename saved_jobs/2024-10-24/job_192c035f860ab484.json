@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Parmesoft",
+        "job_title": "Data Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "SQL",
+                "Unix",
+                "Linux"
+            ],
+            "primary": [
+                "ETL",
+                "Data Migration",
+                "Data Warehouse",
+                "Data Lake",
+                "Data Science"
+            ],
+            "secondary": [
+                "DevOps",
+                "Data Ops",
+                "AWS Glue",
+                "Informatica",
+                "Alteryx",
+                "SageMaker",
+                "Machine Learning"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "SQL",
+                "Unix",
+                "Linux",
+                "ETL",
+                "Data Migration",
+                "Data Warehouse",
+                "Data Lake",
+                "Data Science",
+                "DevOps",
+                "Data Ops",
+                "AWS Glue",
+                "Informatica",
+                "Alteryx",
+                "SageMaker",
+                "Machine Learning"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shanu Francis",
+        "email": "shanu.f@parmesoft.com",
+        "jd": "Hi,This is Shanu Francis from Parmesoft. We have an immediate opening for Data Engineer- Dallas, Texas with my client. So, Please have a look on the Job Description below and reply me back if you are interested.Position: Data Engineer- Dallas, TexasLocation: REMOTE Contract Job Description:\u2022 Extensive experience as Data Engineer with Python Language and Cloud Technologies (AWS preferably).\u2022 Experience in Automating ETL process/Pipelines and AWS Data & Infrastructure with Python.\u2022 Extensive experience with AWS components like S3, Athena, EMR, Glue, Redshift, Kinesis and SageMaker.\u2022 Extensive Experience with SQL/Unix/Linux scripting.\u2022 Developing/testing Experience on Cloud/On Prem ETL Technologies (Ab Initio, AWS Glue, Informatica, Alteryx).\u2022 Experience in Data migration from Onprem to Cloud is Plus.\u2022 Experienced in large-scale application development testing \u2013 Cloud/ On Prem Data warehouse, Data Lake, Data Science.\u2022 Extensive experience in DevOps/Data Ops space.\u2022 Having experience in Data Science platforms like SageMaker/Machine Learning Studio/ H2O",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:46:23-05:00",
+        "unique_id": "192c035f860ab484",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

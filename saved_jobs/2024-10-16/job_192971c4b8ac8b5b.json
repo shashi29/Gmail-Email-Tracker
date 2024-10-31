@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Charles Schwab",
+        "job_title": "Software Developer.Net Developer",
+        "location": "Southlake, TX, USA",
+        "full_location": {
+            "city": "Southlake",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Any visa is fine",
+            "notice_period": "Not specified",
+            "duration": "12-month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular",
+                ".NET",
+                "TypeScript",
+                "PCF",
+                "MS SQL"
+            ],
+            "primary": [
+                "Agile",
+                "Bamboo",
+                "GitHub"
+            ],
+            "secondary": [],
+            "all": [
+                "Angular",
+                ".NET",
+                "TypeScript",
+                "PCF",
+                "MS SQL",
+                "Agile",
+                "Bamboo",
+                "GitHub"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "kishore",
+        "email": "kishore@calabitek.com",
+        "jd": "From: kishore, Calabitek kishore@calabitek.com Reply to: kishore@calabitek.com Hiring:-Project: Software Developer.Net DeveloperLocation: Southlake, TX or Denver, CO ( Hyrbid)Client: Charles SchwabDuration: 12-month Contract ( Any visa is fine; candidates must be good in Angular, DotNet, TypeScript, PCF, and MS SQL.)Candidate required to be onsite Hybrid either onsite Southlake, TX Preferred or Secondary Denver, CO. No relocation candidates requested. At this time, there is no potential conversion to FTE. \u2022 Working experience in the Schwab Environment performing development, testing, and release of code using approved Schwab tools.\u2022 Working knowledge of the Agile process\u2022 Working experience with Bamboo and GitHub\u2022 Working experience with SNE and PCF\u2022 Working experience with Angular, DotNet, TypeScript, PCF, and MS SQL SNE (Schwab Network Environment) and PCF (Pivotal Cloud Foundry):SNE refers to the specific network and infrastructure environment used at Schwab. PCF is a cloud-based platform used for developing, deploying, and running applications. Experience with PCF indicates familiarity with cloud-native applications and deploying apps on the cloud.Angular, DotNet, TypeScript, PCF, and MS SQL:Angular is a popular frontend framework for building dynamic web applications.DotNet (.NET) is a Microsoft framework for building backend applications.TypeScript is a typed superset of JavaScript, often used with Angular.PCF experience indicates you're familiar with cloud-based application development.MS SQL refers to experience with Microsoft SQL Server, which is used for database management and querying.This suggests a role that requires full-stack development skills, cloud infrastructure knowledge, experience with continuous integration, and Agile project management. All these are essential for working in Schwab\u2019s specific development and deployment environment. Share your resume to kishore@calabitek.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 14:33:21-05:00",
+        "unique_id": "192971c4b8ac8b5b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

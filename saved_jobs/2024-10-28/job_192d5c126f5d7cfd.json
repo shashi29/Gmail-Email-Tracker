@@ -1,0 +1,67 @@
+[
+    {
+        "company": "tek inspirations llc",
+        "job_title": "Sr Software Developer (Corillian-Vulnerability Remediation)",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "5 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".net",
+                "C#",
+                "JavaScript (jQuery)",
+                "cybersecurity vulnerability remediation"
+            ],
+            "primary": [
+                "SAST tools like Checkmarx",
+                "experience with Corillian online banking platform",
+                "working with cross-functional teams"
+            ],
+            "secondary": [
+                "knowledge of cybersecurity regulations",
+                "experience with Fiserv"
+            ],
+            "all": [
+                ".net",
+                "C#",
+                "JavaScript (jQuery)",
+                "cybersecurity vulnerability remediation",
+                "SAST tools like Checkmarx",
+                "experience with Corillian online banking platform",
+                "working with cross-functional teams",
+                "knowledge of cybersecurity regulations",
+                "experience with Fiserv"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sahanbaz Khan",
+        "email": "sahanbaz.khan@tekinspirations.com",
+        "jd": "Job Description - Job Title: Sr Software Developer (Corillian-Vulnerability Remediation)Location: Seattle WashingtonDuration: 5 Months Job Type : RemoteNeed LinkedIn profile with submittal!Job Description:Seeking Sr. Software Developer to assist in Remediation of Cybersecurity Vulnerabilities within the Corillian online banking platform.Developers will work closely with cybersecurity team to ensure vulnerabilities are addressed and secure coding practices are followed.Responsibilities:Remediate Cybersecurity Vulnerabilities Identified in Corillian platform.Work with cybersecurity team to prioritize and resolve a portion of 91 open vulnerabilities.Ensure compatibility between platform updates (e.g., Jquery) and Corillian dlls by coordinating with Fiserv development team.Apply secure coding practices to remediation efforts, ensuring compliance with security standards.Deliver vulnerability fixes on time, maintaining project schedules and security requirements.Participate in security discussions to contribute recommendations for system architecture and code improvements.Required Skills:6+ Years Of Software Development Experience, Focused On The Corillian Online Banking Platform.Hands-on experience with cybersecurity vulnerability remediation in financial or banking systems.Proficiency in .net, c#, and javascript (jquery) for secure development.Sast tools like checkmarx for detecting and resolving vulnerabilities.Experience working with cross-functional teams, including cybersecurity and Fiserv Developers.Preferred Experience:Work with Fiserv on similar banking platform environments.Knowledge of cybersecurity regulations and best practices in financial institutions.",
+        "source": "Email",
+        "date_posted": "2024-10-28 19:15:58-05:00",
+        "unique_id": "192d5c126f5d7cfd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

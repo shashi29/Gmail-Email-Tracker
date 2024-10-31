@@ -1,0 +1,60 @@
+[
+    {
+        "company": "GVR Info Tek",
+        "job_title": "Java Backend Developer",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Microservices"
+            ],
+            "primary": [
+                "Design patterns"
+            ],
+            "secondary": [
+                "Golang",
+                "Testing frameworks"
+            ],
+            "all": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Design patterns",
+                "Golang",
+                "Testing frameworks"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivam Chauhan",
+        "email": "shivam.chauhan@gvrinfotek.com",
+        "jd": "From: Shivam Chauhan, GVR Info Tek shivam.chauhan@gvrinfotek.com Reply to: shivam.chauhan@gvrinfotek.com Role Title: Java Backend DeveloperHiring Mode: Contract (TP)Location: St. Louis, MO [Onsite] {An in-person interview will be required at the Client office in St. Louis, MO. So, Kindly share profiles of local candidates only.}Visa : H4-EAD, GC-EAD & USC OnlyNote : Need best candidate with DL, LINKEDIN, visa copy. kindly submit passport number of H4 EAD,GC EAD candidates. We can't submit any candidate without passport number.Note : Kindly Attach the filled skill matrix in resume.Note: Pls look for Golang backend engineers with experience in developing or working on testing frameworks. Note: We are encountering a high number of fake profiles. Kindly ensure all profiles are thoroughly screened and verified before sharing them with us.LinkedIn Id is mandatorySkills MatrixSkill Last Used Experience in Years/month Rating (10 points)1 = newbie 10 = expert Hands on Exp.Yes/NoSpringboot Microservices Design patterns Regards, Shivam ChauhanIT RecruiterGVR Infotek LLC: 13573 Tabasco Cat Trail, Frisco, TX 75035Email: shivam.chauhan@gvrinfotek.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:26:07-05:00",
+        "unique_id": "192c432a16b9d900",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

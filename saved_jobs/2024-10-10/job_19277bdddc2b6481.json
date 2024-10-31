@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vyzeinc",
+        "job_title": "Senior Java Developer",
+        "location": "Indianapolis, IN, USA",
+        "full_location": {
+            "city": "Indianapolis",
+            "state": "IN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "4-year applicable degree preferred",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "7-month contract with the possibility of extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java and Java EE (Collections, Lambdas, Streams, Concurrency)",
+                "Spring MVC Framework, Spring Core, Spring Security, Spring Data Persistence",
+                "XML Documents, XML Schemas, JSON documents",
+                "Design Patterns, Data Structures, Algorithms, JDBC",
+                "JavaScript frameworks (Vue.js/React/Angular), jQuery",
+                "REST/SOAP API Clients and Web Services",
+                "Weblogic or similar app/web server administration",
+                "Docker/Kubernetes for containerization",
+                "Experience with AWS/Azure cloud services",
+                "Oracle PL/SQL and stored procedures development",
+                "Agile Scrum Development framework",
+                "Maven build tools"
+            ],
+            "primary": [],
+            "secondary": [
+                "Selenium automation",
+                "Linux server configuration, Linux scripting",
+                "Web Application server-side configuration and deployment"
+            ],
+            "all": [
+                "Core Java and Java EE (Collections, Lambdas, Streams, Concurrency)",
+                "Spring MVC Framework, Spring Core, Spring Security, Spring Data Persistence",
+                "XML Documents, XML Schemas, JSON documents",
+                "Design Patterns, Data Structures, Algorithms, JDBC",
+                "JavaScript frameworks (Vue.js/React/Angular), jQuery",
+                "CSS Frameworks like Bootstrap, Angular, etc.",
+                "REST/SOAP API Clients and Web Services",
+                "Weblogic or similar app/web server administration",
+                "Docker/Kubernetes for containerization",
+                "Experience with AWS/Azure cloud services",
+                "Oracle PL/SQL and stored procedures development",
+                "Agile Scrum Development framework",
+                "Maven build tools",
+                "Selenium automation",
+                "Linux server configuration, Linux scripting",
+                "Web Application server-side configuration and deployment"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Roshan",
+        "email": "roshan@vyzeinc.com",
+        "jd": "From: Roshan, Vyzeinc roshan@vyzeinc.com Reply to: roshan@vyzeinc.com Position Title: Senior Java Developer - Hybrid (F2F interview)Location: Indianapolis, IN (Local preferred) (F2F inrterview)Work Authorization: U.S. Citizens (USC), Green Card holders (GC) onlyAnticipated Start Date: 1-2 weeksDuration: 7-month contract with the possibility of extensionMode of Interview: Initial 30\u201345-minute phone screen followed by a required in-person technical interview.Work Schedule: Hybrid (3 days onsite, 2 days remote per week). This schedule is non-negotiable.Duties and Responsibilities:Onsite Requirement: Selected candidates must work onsite 3 days per week and remotely for 2 days. Candidates must understand this requirement and agree to it.Local Candidates Preferred: While local candidates are preferred, candidates from nearby states who are willing to relocate may be considered if no viable local candidates are available.Skills & Experience:SkillRequired/DesiredYears of ExperienceStrong record of architecture, design, and delivery across large-scale software systemsRequired5+Core Java and Java EE (Collections, Lambdas, Streams, Concurrency)Required10+Spring MVC Framework, Spring Core, Spring Security, Spring Data PersistenceRequired5+Migration of applications to AWS, improving scalability and performanceRequired2+Experience with IDEs like Eclipse, IDEA, or NetBeansRequired10+XML Documents, XML Schemas, JSON documentsRequired5+Design Patterns, Data Structures, Algorithms, JDBCRequired10+JavaScript frameworks (Vue.js/React/Angular), jQueryRequired5+CSS Frameworks like Bootstrap, Angular, etc.Required4+REST/SOAP API Clients and Web ServicesRequired5+Weblogic or similar app/web server administrationRequired2+Docker/Kubernetes for containerizationRequired2+Experience with AWS/Azure cloud servicesRequired2+Oracle PL/SQL and stored procedures developmentRequired2+Agile Scrum Development frameworkRequired5+Maven build toolsRequired2+Selenium automationHighly Desired2+Linux server configuration, Linux scriptingHighly Desired2+Web Application server-side configuration and deploymentHighly Desired2+Position Description:The Senior Java Developer will:Architect, design, and develop scalable architecture systems for Java-based applications.Build and maintain highly complex, high-volume, and scalable software on a Java/J2EE application stack.Ensure quality and consistency in the software architecture across systems and provide day-to-day technical guidance to the development teams.Collaborate with teams to define system, technical, and application architectures, ensuring cost-effectiveness and competitiveness.Research new technologies and development tools to stay current with emerging technology and industry standards.Education & Experience Requirements:Degree: 4-year applicable degree preferred.Experience: 10+ years of experience in designing, developing, implementing, and maintaining Java-based software and applications.",
+        "source": "Email",
+        "date_posted": "2024-10-10 13:07:16-05:00",
+        "unique_id": "19277bdddc2b6481",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

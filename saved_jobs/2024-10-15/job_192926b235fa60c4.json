@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Avance",
+        "job_title": "MSSQL Database Architect",
+        "location": "Cary, NC, USA",
+        "full_location": {
+            "city": "Cary",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "Database Architecture",
+                "Data Modeling",
+                "Indexing Strategies"
+            ],
+            "primary": [
+                "Data Integrity",
+                "Performance Optimization",
+                "Collaboration",
+                "Security",
+                "Automation"
+            ],
+            "secondary": [
+                "Best Practices",
+                "Compliance",
+                "Task Scheduler"
+            ],
+            "all": [
+                "SQL Server",
+                "Database Architecture",
+                "Data Modeling",
+                "Indexing Strategies",
+                "Data Integrity",
+                "Performance Optimization",
+                "Collaboration",
+                "Security",
+                "Automation",
+                "Best Practices",
+                "Compliance",
+                "Task Scheduler"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Akanksha",
+        "email": "akanksha.e@avanceservices.com",
+        "jd": "From: Akanksha, Avance akanksha.e@avanceservices.com Reply to: akanksha.e@avanceservices.com Role: - MSSQL Database ArchitectLocation: Cary, NC or Atlanta GAContract JD:MSSQL Database Architect- Advise on design of SQL server databases within OneStream that meet business requirements, ensure data integrity, and optimize performance- Develop database architecture including data modeling and indexing strategies, database and datatable copies, data reloads- Collaborate with Red Hat development team to identify strategic recommendations for improvements- Ensure databases run efficiently and meet scalability requirements- Security: SSO, login, global level app security, data encryption / decryption- Provide overall guidance on best practices and compliance with industry standards- Design and develop automation possibilities, i.e. leveraging task scheduler in OneStream",
+        "source": "Email",
+        "date_posted": "2024-10-15 14:49:44-05:00",
+        "unique_id": "192926b235fa60c4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

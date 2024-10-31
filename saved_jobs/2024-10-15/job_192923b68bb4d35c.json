@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Innovyt",
+        "job_title": "Data Engineer III",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-6 years",
+            "degree_required": "Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Python",
+                "No-SQL databases",
+                "SQL"
+            ],
+            "primary": [
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "Big Query",
+                "Cassandra",
+                "Airflow"
+            ],
+            "secondary": [
+                "message queuing",
+                "stream processing",
+                "object-oriented scripting languages",
+                "Scala"
+            ],
+            "all": [
+                "GCP",
+                "Python",
+                "No-SQL databases",
+                "SQL",
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "Big Query",
+                "Cassandra",
+                "Airflow",
+                "message queuing",
+                "stream processing",
+                "object-oriented scripting languages",
+                "Scala"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Himanshu Yadav",
+        "email": "himanshu.yadav@innovyt.com",
+        "jd": "From: Himanshu Yadav, Innovyt himanshu.yadav@innovyt.com Reply to: himanshu.yadav@innovyt.com Position :: Data Engineer III Location :: Sunnyvale, CADuration :: 12 months Skill Set: GCP, python, No-SQL databases. About Team: Everyone has data, but the sheer volume of data at Walmart can be limitless. In the Data Engineering team, we help Walmart manage this data by building pipelines and data lakes to prepare big data for analysis and unlocking actionable insights in real-time. We also use cross-departmental data and machine learning to build a holistic view of true profitability, saving millions of dollars across item categories and geographies while assisting our leadership in making better decisions faster.What you'll do:Build and maintain optimal data platform and pipeline architecture.Assemble large, complex data sets that meet functional / non-functional business requirements.Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and GCP \u2018big data\u2019 technologies.Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.Create data tools for analytics team members that assist them in building and optimizing our product into an innovative industry leader.Work with data and analytics experts to strive for greater functionality in our data systems.What you'll bring:Advanced working knowledge with SQL, No-SQL databases.Experience building and optimizing \u2018big data\u2019 data pipelines, architectures and data sets.Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.Strong analytic skills related to working with unstructured datasets.Build processes supporting data transformation, data structures, metadata, dependency and workload management.A successful history of manipulating, processing and extracting value from large, disconnected datasets.Working knowledge of message queuing, stream processing, and highly scalable \u2018big data\u2019 data stores.Strong project management and organizational skills.Experience supporting and working with cross-functional teams in a dynamic environment.We are looking for a candidate with 3 to 6 Years of experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field. They should also have experience using the following software/tools:Experience with big data tools: Hadoop, Spark, Kafka, etc.Experience with relational SQL and NoSQL databases, including Big Query, Cassandra.Experience with data pipeline and workflow management tools: Airflow, etc.Experience with GCP cloud services: GCS, Dataproc, Dataplex, etc.Experience with stream-processing systems: Spark-Streaming, Storm etc.Experience with object-oriented/object function scripting languages: Python, Scala.",
+        "source": "Email",
+        "date_posted": "2024-10-15 15:32:20-05:00",
+        "unique_id": "192923b68bb4d35c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

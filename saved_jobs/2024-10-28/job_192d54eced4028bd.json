@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Themesoft INC",
+        "job_title": "Dotnet Fullstack",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "Canada"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET technologies (ASP, VB.Net, C#)",
+                "ReactJS",
+                "Node.js",
+                "MS SQL",
+                "AWS"
+            ],
+            "primary": [
+                "CSS",
+                "Kubernetes services (EKS)",
+                "Datadog",
+                "Splunk"
+            ],
+            "secondary": [
+                "Artillery",
+                "Playwright",
+                "xUnit",
+                "Jest",
+                "Cucumber",
+                "Lighthouse"
+            ],
+            "all": [
+                ".NET technologies (ASP, VB.Net, C#)",
+                "ReactJS",
+                "Node.js",
+                "MS SQL",
+                "AWS",
+                "CSS",
+                "Kubernetes services (EKS)",
+                "Datadog",
+                "Splunk",
+                "Artillery",
+                "Playwright",
+                "xUnit",
+                "Jest",
+                "Cucumber",
+                "Lighthouse"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Thiru",
+        "email": "thiru.m@themesoft.com",
+        "jd": "From: thiru, themesoft thiru.m@themesoft.com Reply to: thiru.m@themesoft.com Hi Professionals; This is Thiru from Themesoft INC.Kindly let me know if you are interested in this opportunity ocation: RemoteContractors: YESYear of exp \u2013 Overall 10+Role- Dotnet Fullstack JD-The ideal candidate to have a strong technology background, self-starter, and a go getter, who has legacy and modern development experience as well as testing experience.Key Responsibilities:Design, develop, and maintain scalable, high-availability applications using .NET technologies (ASP, VB.Net, C#) and ReactJS.Implement responsive UI components and CSS for front-end applications.Work with AWS services and manage deployments using EKS.Develop backend services and APIs using Node.js and ensure database integration with MS SQL.Monitor application performance using Datadog and manage logs and data aggregation using Splunk.Collaborate with cross-functional teams to define, design, and ship new features.Ensure code integrity and organization, including testing and deployment.Qualifications:Bachelor\u2019s degree in Computer Science, Engineering, or a related field.Proven experience as a Full Stack Developer or similar role.Experience with .NET technologies (ASP, VB.Net, C#), ReactJS, CSS, Node.js, and MS SQL.Proficient with AWS ecosystem and Kubernetes services (EKS).Experience with monitoring tools such as Datadog and log management tools like Splunk.Strong understanding of the entire web development process (design, development, and deployment).Familiarity with Testing frameworks - Artillery, Playwright, xUnit, Jest, Cucumber, LighthouseExcellent problem-solving skills and attention to detail.",
+        "source": "Email",
+        "date_posted": "2024-10-28 17:11:04-05:00",
+        "unique_id": "192d54eced4028bd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

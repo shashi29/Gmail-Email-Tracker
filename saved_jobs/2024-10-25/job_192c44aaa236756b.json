@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Smart IT Frame LLC",
+        "job_title": "Azure .NET Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#/.NET Development",
+                "Azure"
+            ],
+            "primary": [
+                "Azure IoT Hub",
+                "Azure Service Bus",
+                "Event Hub",
+                "Cosmos DB",
+                "PostgreSQL",
+                "Azure Serverless Function",
+                "Azure Kubernetes Service (AKS)"
+            ],
+            "secondary": [],
+            "all": [
+                "C#/.NET Development",
+                "Azure",
+                "Azure IoT Hub",
+                "Azure Service Bus",
+                "Event Hub",
+                "Cosmos DB",
+                "PostgreSQL",
+                "Azure Serverless Function",
+                "Azure Kubernetes Service (AKS)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kathiresan",
+        "email": "kathiresan@smartitframe.com",
+        "jd": "From: Kathiresan, Smart IT kathiresan@smartitframe.com Reply to: kathiresan@smartitframe.com Hi ,Greetings!My name is Kathiresan, and I'm with Smart IT Frame LLC. We're currently seeking to hire a (Role)Please find the job description below. If you're interested, I would appreciate it if you could share your updated resume with me. Additionally, let me know a convenient time for us to discuss the details further.Looking forward to your response Role: Azure .NET DeveloperLocation: Atlanta, GA (Hybrid, 3 days/Week)Type: Contract Job Description:C#/.NET Development Experience(7+ Years)Development in Azure environmentAzure Skills Azure IoT HubAzure Service Bus and/or Event HubCosmos DB and/or PostgreSQAzure Serverless FunctionAzure Kubernetes Service (AKS) Thanks and RegardsKathiresan GTalent Acquisition GroupEmail: kathiresan@smartitframe.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:51:38-05:00",
+        "unique_id": "192c44aaa236756b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

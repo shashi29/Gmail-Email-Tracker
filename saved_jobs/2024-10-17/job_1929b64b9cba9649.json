@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Tekgence Inc",
+        "job_title": "Data Engineer (Python, Pyspark)",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "Pyspark"
+            ],
+            "primary": [
+                "SQL",
+                "Spark",
+                "Data Engineering"
+            ],
+            "secondary": [
+                "Infrastructure as Code",
+                "Terraform",
+                "Cloud Certification",
+                "Data Observability",
+                "Data Governance"
+            ],
+            "all": [
+                "AWS",
+                "Python",
+                "Pyspark",
+                "SQL",
+                "Spark",
+                "Data Engineering",
+                "Infrastructure as Code",
+                "Terraform",
+                "Cloud Certification",
+                "Data Observability",
+                "Data Governance"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pranith",
+        "email": "pranith.t@tekgence.com",
+        "jd": "From: Pranith, Tekgence Inc pranith.t@tekgence.com Reply to: pranith.t@tekgence.com Role: Data Engineer (Python, Pyspark)Location: Plano, TX (Onsite) Locals Exp: 8+yearsContract Must have skills: AWS, Python, Pyspark Duties and responsibilities\u25cf Collaborate with the team to build out features for the data platform and consolidate data assets\u25cf Build, maintain and optimize data pipelines built using Spark\u25cf Advise, consult, and coach other data professionals on standards and practices\u25cf Work with the team to define company data assets\u25cf Migrate CMS\u2019 data platform \u25cf Partner with business analysts and solutions architects to develop technical architectures for strategic enterprise projects and initiatives\u25cf Build libraries to standardize how we process data\u25cf Loves to teach and learn, and knows that continuous learning is the cornerstone of every successful engineer\u25cf Has a solid understanding of AWS tools such as EMR or Glue, their pros and cons and is able to intelligently convey such knowledge\u25cf Implement automation on applicable processes The ideal candidate\u25cf 5+ years of experience in a data engineering position\u25cf Proficiency is Python (or similar) and SQL\u25cf Strong experience building data pipelines with Spark\u25cf Strong verbal & written communication\u25cf Strong analytical and problem solving skills\u25cf Experience with relational datastores, NoSQL datastores and cloud object stores\u25cf Experience building data processing infrastructure in AWS Bonus:Experience with infrastructure as code solutions, preferably TerraformCloud certificationProduction experience with ACID compliant formats such as Hudi, Iceberg or Delta Lake Familiar with data observability solutions, data governance frameworks",
+        "source": "Email",
+        "date_posted": "2024-10-17 11:16:32-05:00",
+        "unique_id": "1929b64b9cba9649",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Arthur Grand Technologies",
+        "job_title": "AWS Data Engineer",
+        "location": "Wilmington, DE, USA",
+        "full_location": {
+            "city": "Wilmington",
+            "state": "DE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "BS/BA degree or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spark",
+                "AWS Glue",
+                "Terraform",
+                "Lambda",
+                "S3",
+                "EMR"
+            ],
+            "primary": [
+                "Lake formation",
+                "Glue ETL",
+                "Catalog",
+                "Athena",
+                "Kinesis",
+                "MSK",
+                "Airflow",
+                "Step Functions",
+                "Event Bridge"
+            ],
+            "secondary": [
+                "Linux Scripting",
+                "Jenkins",
+                "Git",
+                "CI/CD",
+                "JIRA",
+                "TD"
+            ],
+            "all": [
+                "Java",
+                "Spark",
+                "AWS Glue",
+                "Terraform",
+                "Lambda",
+                "S3",
+                "EMR",
+                "Lake formation",
+                "Glue ETL",
+                "Catalog",
+                "Athena",
+                "Kinesis",
+                "MSK",
+                "Airflow",
+                "Step Functions",
+                "Event Bridge",
+                "Linux Scripting",
+                "Jenkins",
+                "Git",
+                "CI/CD",
+                "JIRA",
+                "TD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Teamafrin",
+        "email": "teamafrin@arthurgrand.com",
+        "jd": "From: Team Afrin, Arthur Grand Technologies teamafrin@arthurgrand.com Reply to: teamafrin@arthurgrand.com Position: AWS Data EngineerLocation: Wilmington, DE (Onsite is Must)Duration: Contract Mandatory Skills: Java, Spark, AWS Glue, Terraform, Lambda, S3, EMR Must Have:BS/BA degree or equivalent experienceGeneral: Strong organizational, problem-solving, and critical thinking skills; Strong documentation skillsCoding: Proficiency in JavaCluster Computing frameworks: Proficiency in Spark and Spark SQLAWS Data Services: Proficiency in Lake formation, Glue ETL (or) EMR, S3, Catalog, Athena, Kinesis (or) MSK, Airflow (or) Lambda + Step Functions + Event BridgeData De/Serialization: Expertise in at least 2 of the formats: Parquet, Iceberg, AVRO, JSON-LDAWS Data Security: Good Understanding of security concepts such as: Lake formation, IAM, Service roles, Encryption, KMS, Secrets Manager Good to Have:Linux Scripting, JenkinsDevOps: Git, CI/CD, JIRA, TDAt Arthur Grand Technologies, we value our employees & contractors and strive to provide them with challenging, interesting work, market-relevant benefits, and opportunities for professional growth. If you have the necessary qualifications, and are excited to join a dynamic team, please send your resume to Teamafrin@arthurgrand.com for immediate consideration.Thank you for considering Arthur Grand Technologies. We look forward to hearing from you soon.Best regards,Teamafrin Teamafrin @arthurgrand.comArthur Grand Technologies Incwww.arthurgrand.comArthur Grand Technologies is an Equal Opportunity Employer (including disability/vets)",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:50:33-05:00",
+        "unique_id": "192b01d2290d951e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

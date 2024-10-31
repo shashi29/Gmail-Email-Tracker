@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Samson Software Solution",
+        "job_title": "Lead Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP cloud platform",
+                "Python",
+                "Pyspark",
+                "SQL"
+            ],
+            "primary": [
+                "Kafka",
+                "shell scripting",
+                "Stored procedures",
+                "Data warehouse",
+                "distributed data platforms",
+                "data lake",
+                "Database definition",
+                "schema design",
+                "Looker Views",
+                "Models",
+                "CI/CD pipeline"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP cloud platform",
+                "GCS",
+                "Big Query",
+                "Streaming (pub/sub)",
+                "data proc",
+                "data flow",
+                "Python",
+                "Pyspark",
+                "Kafka",
+                "SQL",
+                "shell scripting",
+                "Stored procedures",
+                "Data warehouse",
+                "distributed data platforms",
+                "data lake",
+                "Database definition",
+                "schema design",
+                "Looker Views",
+                "Models",
+                "CI/CD pipeline"
+            ],
+            "with_experience": [
+                "Python",
+                "Pyspark",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vikas Rai",
+        "email": "vikas.rai@samsonsoft.com",
+        "jd": "From: Vikas Rai, Samson Software Solution vikas.rai@samsonsoft.com Reply to: vikas.rai@samsonsoft.com Lead Data Engineer with using GCP cloud Platform.New Jersey- Remote JD:GCP cloud platform \u2013 GCS, Big Query, Streaming (pub/sub), data proc and data flowo Python, PYSpark, Kafka, SQL, shell scripting & Stored procso Data warehouse, distributed data platforms and data lakeo Database definition, schema design, Looker Views, Modelso CI/CD pipeline\u2022 Proven track record in scripting code in Python, PySpark and SQL",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:26:08-05:00",
+        "unique_id": "192c01f01ef1859d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

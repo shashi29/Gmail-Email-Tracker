@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Reliance",
+        "job_title": "Lead Python Data engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12mth+ contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Python",
+                "Spark"
+            ],
+            "primary": [
+                "Apache Airflow",
+                "AWS",
+                "Excellent communication"
+            ],
+            "secondary": [
+                "Tech start-up experience"
+            ],
+            "all": [
+                "Data Engineering",
+                "Python",
+                "Spark",
+                "Apache Airflow",
+                "AWS",
+                "Excellent communication",
+                "Tech start-up experience"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Khushank Chauhan",
+        "email": "khushank@sourceinfotech.com",
+        "jd": "From: KhushankChauhan, Source Infotech khushank@sourceinfotech.com Reply to: khushank@sourceinfotech.com\n\nLead Python Data engineer\n\nClient: Reliance\n\nLocation : Remote\n\nDuration 12mth+ contract\n\nVisa: USC only !\n\nMust have:\n\u2022 10+yrs of Data Engineering\n\u2022 5+yrs recent/current Python Development exp\n\u2022 Strong Spark exp\n\u2022 Apache Airflow\n\u2022 AWS\n\u2022 Excellent communication\n\u2022 Candidates who have tech start-up experience is a plus",
+        "source": "Email",
+        "date_posted": "2024-10-30 10:06:36-05:00",
+        "unique_id": "192de16d7a8d6a81",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

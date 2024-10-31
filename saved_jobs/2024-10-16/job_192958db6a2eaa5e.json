@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Icertis Consultant",
+        "location": "Bellevue, WA, USA",
+        "full_location": {
+            "city": "Bellevue",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Icertis",
+                ".Net",
+                "C#",
+                "API",
+                "Azure Service Bus Integration"
+            ],
+            "primary": [
+                "Middleware",
+                "Data mapping",
+                "System Integrated Testing",
+                "Integration"
+            ],
+            "secondary": [
+                "Technical Certification",
+                "Code Language",
+                "Data flow",
+                "Co-ordination with Product team",
+                "Estimation"
+            ],
+            "all": [
+                "Icertis",
+                ".Net",
+                "C#",
+                "API",
+                "Azure Service Bus Integration",
+                "Middleware",
+                "Data mapping",
+                "System Integrated Testing",
+                "Integration",
+                "Technical Certification",
+                "Code Language",
+                "Data flow",
+                "Co-ordination with Product team",
+                "Estimation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pradeep Sharma",
+        "email": "pradeep.sharma@scalable-systems.com",
+        "jd": "From: Pradeep, Scalable Systems pradeep.sharma@scalable-systems.com Reply to: pradeep.sharma@scalable-systems.com Hi,Greetings of the day! I have an urgent requirement below, please go through JD and let me know if you are comfortable or have any profile. Kindly revert me back with your updated resume as well. Job Title: Icertis Consultant Location: Bellevue, WA (Work from Office)Duration: Long Term Contract Responsibilities:Candidate must know both functional and technical combination of skillset. New template change, Candidate would do annotation or custom template configuration. More of a configuration on functional side. Technical side is where integration happens. E.g. we already have an Icertis adaptor. This is what logs are showing and based on that infer what is required to be fixed. Icertis technical resource will also should work on Icertis APIs. Which Apis available? How to make integration work with downstream systems. What is the frequency to schedule: 1. Icertis Technical Certification2. Code Language : .Net/ C# - If any other code language is know he/she shod be able to learn .Net/C# fast3. Work on Azure Service Bus Integration4. Technical know how of API5. Understanding of Icertis Basic data flow and Rules6. Co-ordinate with the Icertis Product team to convey the technical issue pertaining to API7. Interprete the missing data leg that lead to integration failure for an agreement / Masterdata8. Create and design new Middleware (API) as per customer's requirement9. Trigger scheduler from Service Bus Integration10. Good understanding of of Data mapping in the Middleware between two systems11. Anayze to give proper estimates for developing any requirement12. Should be able to perform SIT (System Integrated Testing) Thanks & Regards, Pradeep SharmaEmail: pradeep.sharma@scalable-systems.com \"Scalable Systems is an Equal Opportunity Employer. We are committed to creating an inclusive environment for all employees and do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other legally protected status.",
+        "source": "Email",
+        "date_posted": "2024-10-16 07:41:45-05:00",
+        "unique_id": "192958db6a2eaa5e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

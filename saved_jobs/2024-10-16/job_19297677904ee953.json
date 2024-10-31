@@ -1,0 +1,59 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Data Engineer",
+        "location": "Mclean, VA, USA",
+        "full_location": {
+            "city": "Mclean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1 year contract (extendable)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Spark",
+                "AWS"
+            ],
+            "primary": [
+                "Agile"
+            ],
+            "secondary": [
+                "Big data"
+            ],
+            "all": [
+                "Python",
+                "Spark",
+                "AWS",
+                "Agile",
+                "Big data"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Tejashwini",
+        "email": "teja@atlantisitgroup.com",
+        "jd": "From: TEJASHWINI, ATLANTIS IT GROUP teja@atlantisitgroup.com Reply to: teja@atlantisitgroup.com Data engineerHybrid1 year contract (extendable)Worksite Location: 1680 Capital One Dr, Mclean, Virginia, 22102 or Richmond, VA or Plano, TXTop Skills - Must HavesPythonsparkAWSTop Skills' Details**TEAM: Card Tech Data Integration Platform**Hybrid (T, W, Th): Mclean, VA | Richmond, VA | Plano, TX1.\u2060 \u2060Capital One or TEK/TGS Former2.\u2060 \u20606+ years of Data Engineer with Python and Spark experience in the US3.\u2060 \u20605+ years of AWS experience (EMR, Lambda, S3)4.\u2060 \u2060Agile experienceSecondary Skills - Nice to HavesBig data Job Description:\u2022\u2060 \u2060Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full-stack development tools and technologies\u2022\u2060 \u2060Work with a team of developers with deep experience in machine learning, distributed microservices, and full stack systems\u2022\u2060 \u2060Utilize programming languages like Java, Python and Open Source RDBMS and AWS (EMR, Lambda, S3, etc.)Additional Skills & Qualifications:As part of the OneStream Data migration and new data standards, the Card Tech team needs to also build a new data integration platform.This platform will leverage standard data practices, standard data frameworks, and standard data ingestion and migration tactics so all enterprise data standards are used at scale. Thanks & Regards, Tejashwini.Technical RecruiterEmail ID: teja@atlantisitgroup.comwww.atlantisitgroup.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 16:41:02-05:00",
+        "unique_id": "19297677904ee953",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

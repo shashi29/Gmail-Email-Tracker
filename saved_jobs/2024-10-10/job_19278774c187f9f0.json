@@ -1,0 +1,59 @@
+[
+    {
+        "company": "Vyze1 inc",
+        "job_title": "Technical Lead",
+        "location": "Burbank, CA, USA",
+        "full_location": {
+            "city": "Burbank",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "3+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java Programming",
+                "PrimeFaces",
+                "Web Services",
+                "Angular",
+                "Kubernetes",
+                "Docker"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java Programming",
+                "PrimeFaces",
+                "Web Services",
+                "Angular",
+                "Kubernetes",
+                "Docker"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sam",
+        "email": "slenka@vyzeinc.com",
+        "jd": "Technical Lead (Java) 3+ months Burbank, CA GC/USC/GC EAD/H4 Client- Hitachi JD Must Have Requirements: At least 3-5 years of Technical Lead experience Must have at least 7+ years of experience in the following: Java Programming PrimeFaces (Open-source UD for Java Server Faces applications) Web Services Angular Kubernetes Docker Containers Details about a PX Developer: PX developer (Product Experience developer) focuses on creating and enhancing applications that provide a seamless and engaging user experience. Here's what it entails: Consumer-Facing Applications: The PX developer is responsible for developing applications that are directly used by consumers, ensuring they are user-friendly and meet customer needs. Integration with Web Services: They work on integrating various web services into the application, which could include APIs for third-party services, enhancing functionality and data exchange. Team Collaboration and Management: The PX developer may also be involved in leading or mentoring a team, facilitating communication between onshore and offshore members. Technical Architecture and Oversight: They play a crucial role in providing technical guidance and support for the architecture of the PX application, ensuring it meets both current and future business requirements. Best Practices and Solutions: The PX developer is expected to offer industry best practices, alternative solutions, and thought leadership to enhance the application\u2019s performance and user experience. Overall, the PX developer in this context combines technical skills with leadership and strategic insight to deliver high-quality, user-centered applications. Job Description: Responsibilities Develop PX Application which integrates with a lot of Web Services and is Consumer facing Application. Manage a team with 5 members from onshore and offshore. Provide Oversight to the current PX Team, support the business with Technical Architecture for new requirements to the PX Application and oversee and provide guidance to the current PX Team. Deliverables: Process Flows Mentor and Knowledge transfer to client project team members Participate as primary, co and/or contributing author on all project deliverables associated with their assigned areas of responsibility Participate in data conversion and data maintenance Provide best practice and industry specific solutions Advise on and provide alternative (out of the box) solutions Provide thought leadership as well as hands on technical configuration/development as needed. Participate as a team member of the functional team Perform other duties as assigned",
+        "source": "Email",
+        "date_posted": "2024-10-10 16:29:49-05:00",
+        "unique_id": "19278774c187f9f0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

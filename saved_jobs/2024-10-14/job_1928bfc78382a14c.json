@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Allied Business Consulting",
+        "job_title": "Sr. GCP Data Engineer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s or master\u2019s degree in computer science, Data Engineering, Information Systems, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform (GCP)",
+                "BigQuery",
+                "Python",
+                "PySpark",
+                "SQL"
+            ],
+            "primary": [
+                "LookML",
+                "GCP Data Studio",
+                "GCP Data Flow"
+            ],
+            "secondary": [
+                "data engineering",
+                "data modeling",
+                "data analysis",
+                "data governance",
+                "data security",
+                "data visualization",
+                "ETL processes",
+                "data lifecycle management"
+            ],
+            "all": [
+                "Google Cloud Platform (GCP)",
+                "BigQuery",
+                "Python",
+                "PySpark",
+                "SQL",
+                "LookML",
+                "GCP Data Studio",
+                "GCP Data Flow",
+                "data engineering",
+                "data modeling",
+                "data analysis",
+                "data governance",
+                "data security",
+                "data visualization",
+                "ETL processes",
+                "data lifecycle management"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Alka",
+        "email": "alka@abcinc-us.com",
+        "jd": "From: alka, Allied Business Consulting alka@abcinc-us.com Reply to: alka@abcinc-us.com Title- Sr. GCP Data EngineerLocation- Alpharetta, GA (Hybrid)Duration- Long-term contractOpen for C2C, candidate must be local at the time of submission.Working Model: Hybrid- In Office Tuesday and Thursday every weekJOB DESCRIPTION:We are seeking a highly skilled Data Engineer / Cloud Data Solutions engineer with experience in Google Cloud Platform (GCP) to design, build, and optimize scalable data solutions. The ideal candidate will have a strong background in data engineering, data modeling, and data analysis, and will be proficient in cloud-based architectures. You will be responsible for architecting, developing, and maintaining data pipelines, optimizing data lifecycle processes, and creating insightful reports and dashboards that drive decision-making. In this role, you will work closely with cross-functional teams to design robust data models and analytics solutions, utilizing your skills in BigQuery, Python, PySpark, LookML, SQL, GCP Data Studio, and GCP Data Flow. Your ability to tell compelling data stories and translate complex data into actionable insights will be crucial to your success.Key Responsibilities:-Design, develop, and manage scalable data architectures and pipelines on Google Cloud Platform (GCP).-Build and optimize complex data models and ETL processes using BigQuery, LookML, Python, PySpark, and SQL.-Utilize GCP Data Flow and other GCP services to automate data processing and orchestration.-Leverage GCP Looker Studio to create insightful dashboards and reports that provide business value.-Collaborate with data scientists, analysts, and other stakeholders to gather requirements and translate them into technical solutions.-Conduct data analysis to identify trends, patterns, and insights to support data-driven decision-making.-Apply advanced data modelling techniques to ensure data quality, integrity, and consistency.-Manage and optimize the entire data lifecycle, from ingestion to archiving and deletion.-Develop and implement best practices for data governance, security, and compliance on GCP.-Communicate complex data findings to non-technical stakeholders through storytelling and data visualization.Qualifications:-Bachelor\u2019s or master\u2019s degree in computer science, Data Engineering, Information Systems, or a related field.-8+ years of hands-on experience in data engineering, data modelling, and analytics on Google Cloud Platform (GCP).-Proficient in BigQuery, LookML, Python, PySpark, and SQL for data processing and analysis.",
+        "source": "Email",
+        "date_posted": "2024-10-14 11:28:14-05:00",
+        "unique_id": "1928bfc78382a14c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

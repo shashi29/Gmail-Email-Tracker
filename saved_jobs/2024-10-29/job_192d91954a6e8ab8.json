@@ -1,0 +1,94 @@
+[
+    {
+        "company": "NorthITe",
+        "job_title": "Java Developer",
+        "location": "Orlando, FL, USA",
+        "full_location": {
+            "city": "Orlando",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 8+",
+                "Spring Boot",
+                "Hibernate",
+                "GCP services",
+                "RESTful services"
+            ],
+            "primary": [
+                "Cloud platforms (AWS, Google Cloud, Azure)",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Agile/Scrum methodologies",
+                "Crunchtime",
+                "Blue Yonder",
+                "CI/CD pipelines",
+                "Git",
+                "MySQL",
+                "PostgreSQL",
+                "NoSQL databases"
+            ],
+            "secondary": [
+                "JSON",
+                "XML",
+                "Technical documentation",
+                "Performance optimization",
+                "Team collaboration",
+                "JIRA"
+            ],
+            "all": [
+                "Java 8+",
+                "Spring Boot",
+                "Hibernate",
+                "GCP services",
+                "RESTful services",
+                "Cloud platforms (AWS, Google Cloud, Azure)",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Agile/Scrum methodologies",
+                "Crunchtime",
+                "Blue Yonder",
+                "CI/CD pipelines",
+                "Git",
+                "MySQL",
+                "PostgreSQL",
+                "NoSQL databases",
+                "JSON",
+                "XML",
+                "Technical documentation",
+                "Performance optimization",
+                "Team collaboration",
+                "JIRA"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Hemanth",
+        "email": "hemanth@northite.com",
+        "jd": "From: Hemanth, NorthITe hemanth@northite.com Reply to: hemanth@northite.com Job Title: Java DeveloperLocation: Orlando, FLPosition Type: FulltimePreferred Qualifications:Familiarity with cloud platforms (e.g., AWS, Google Cloud, or Azure).Knowledge of front-end technologies such as JavaScript, HTML, CSS, and popular frameworks (e.g., Angular, React).Experience with Agile/Scrum methodologies.Design, develop, test, and maintain Java applications with a focus on scalability, security, and performance.Leverage GCP services (e.g., Compute Engine, Cloud Storage, BigQuery) to deploy and scale applications, ensuring cloud-native best practices.Develop and maintain integrations with Crunchtime and Blue Yonder for streamlined operations and seamless data flow.Collaborate with technical leads to design system architecture that aligns with best practices and business goals.Identify performance bottlenecks, troubleshoot issues, and enhance application efficiency.Create and maintain technical documentation related to system architecture, API integrations, and cloud deployments.Qualifications:Bachelor\u2019s or Master\u2019s degree in Computer Science, Information Technology, or a related field.10+ years of Java development experience, with hands-on experience in GCP and working knowledge of Crunchtime and Blue Yonder.Strong expertise in Java 8+ and associated frameworks such as Spring Boot and Hibernate.Proficiency in GCP services (e.g., Compute Engine, Cloud Functions, BigQuery, Cloud Pub/Sub, Cloud Storage).Familiarity with Crunchtime and Blue Yonder platforms, with experience in developing integrations and customizing solutions.Experience with RESTful services, JSON, and XML data formats.Familiarity with CI/CD pipelines and version control tools (e.g., Git).Experience with relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases.Strong analytical skills for diagnosing and resolving complex issues.Effective communication skills and the ability to collaborate in a team-oriented environment.Preferred Qualifications:Experience with other cloud platforms (e.g., AWS or Azure) is a plus.Familiarity with Agile development practices and tools like JIRA.Knowledge of modern front-end technologies (e.g., JavaScript)",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:51:11-05:00",
+        "unique_id": "192d91954a6e8ab8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "Data Architect",
+        "location": "Tampa, FL, USA",
+        "full_location": {
+            "city": "Tampa",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Databricks",
+                "Data Modeling",
+                "ETL Processes",
+                "Data Warehousing"
+            ],
+            "primary": [
+                "Python",
+                "Scala",
+                "SQL",
+                "Spark SQL",
+                "MLlib",
+                "Delta Lake"
+            ],
+            "secondary": [
+                "AWS Certified Solutions Architect",
+                "Communication",
+                "Problem-Solving",
+                "Leadership"
+            ],
+            "all": [
+                "AWS",
+                "Databricks",
+                "Data Modeling",
+                "ETL Processes",
+                "Data Warehousing",
+                "Python",
+                "Scala",
+                "SQL",
+                "Spark SQL",
+                "MLlib",
+                "Delta Lake",
+                "AWS Certified Solutions Architect",
+                "Communication",
+                "Problem-Solving",
+                "Leadership"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Dharmasastha",
+        "email": "dharmasastha@vysystems.com",
+        "jd": "From: Dharmasastha, Vysystems dharmasastha@vysystems.com Reply to: dharmasastha@vysystems.com \u2022 Experience: 7+ years of experience in data engineering, cloud architecture, or related fields with a focus on AWS and Databricks. Proven track record of successful project delivery and technical leadership.\u2022 Technical Skills:\u2022 In-depth knowledge of AWS services, including but not limited to S3, EC2, RDS, Redshift, Glue, and Lambda.\u2022 Extensive experience with Databricks, including Spark SQL, MLlib, and Delta Lake.\u2022 Strong understanding of data modeling, ETL processes, and data warehousing concepts.\u2022 Proficiency in programming languages such as Python, Scala, or SQL.\u2022 Certifications: AWS Certified Solutions Architect (Associate or Professional) and Databricks certifications are highly desirable.\u2022 Communication: Excellent verbal and written communication skills with the ability to convey complex technical concepts to non-technical stakeholders.\u2022 Problem-Solving: Strong analytical and problem-solving skills with a creative and innovative approach to tackling challenges.\u2022 Leadership: Proven experience leading teams and projects, with a strong ability to mentor and guide junior team members.Education:\u2022 Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field.",
+        "source": "Email",
+        "date_posted": "2024-10-30 10:47:27-05:00",
+        "unique_id": "192de69e1cdf8c94",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

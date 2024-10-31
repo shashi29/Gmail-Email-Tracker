@@ -1,0 +1,53 @@
+[
+    {
+        "company": "ITech US Inc",
+        "job_title": "Java Full Stack Developer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "MongoDB"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Microservices",
+                "MongoDB"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manasa Salla",
+        "email": "manasa.s@itechus.net",
+        "jd": "Role Description:\nJava with Microservice Mongo DB experience.\n\nPosition:\nJava Full Stack Developer\n\nLocation:\nMcLean, VA AZ, IL, NC, CA, TX (Need local DL of Consultant location so I can share the requirement)\n\nDuration:\n12+ months contract\n\nOnsite from Day 1\n\nExperience:\n9+ years of exp Mandatory\n\nVisa:\nH1B | Need passport number along with submission.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:24:50-05:00",
+        "unique_id": "192ddb9aa7d6772d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

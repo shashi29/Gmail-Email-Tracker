@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Exaways Corporation",
+        "job_title": ".Net Full stack Engineer",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "Angular",
+                "SQL"
+            ],
+            "primary": [
+                "Microservices"
+            ],
+            "secondary": [
+                "Test cases",
+                "Solid principles",
+                "Agile flow",
+                "Angular components",
+                "PRISM",
+                "PowerShell"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "Angular",
+                "SQL",
+                "Microservices",
+                "Strong knowledge of programming concepts in C#",
+                "Full stack consultant",
+                "Good Understanding of Test cases",
+                "Solid principles",
+                "Agile flow",
+                "Angular components",
+                "Experience with SQL",
+                "Good to have: PRISM",
+                "PowerShell"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Gokul Raj",
+        "email": "gokul.raj@exaways.com",
+        "jd": "From: Gokulraj R, Exaways corporation gokul.raj@exaways.com Reply to: gokul.raj@exaways.com Hi, I hope you are doing well,This is Gokul Raj from Exaways Corporation. We have an urgent requirement for the position below, If you are interested, kindly send me your updated resume, contact details and a convenient time to talk to youJob Title: .Net Full stack EngineerLocation: Pittsburgh, PAClient: Winwire / Omnicell Duration: Full-time or C2C Hire We are specifically looking for developers with the following skillset. Please share profiles matching this requirement..Net, C#, Angular, SQL, Microservices Required Skills: Strong knowledge of programming concepts in C# / .NETFull stack consultant Good Understanding of Test cases, Solid principles & Agile flow, Angular components Experience with SQL Good to have: PRISMPowerShell",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:42:18-05:00",
+        "unique_id": "192d9113538aeaa5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

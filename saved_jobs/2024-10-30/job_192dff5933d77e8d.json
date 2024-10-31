@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Python Developer with Java",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "12+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "Sriparna Mohanty",
+            "email": "sriparna@vyzeinc.com"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Java",
+                "Spring",
+                "Microservices",
+                "Cloud (AWS/GCP, Azure)"
+            ],
+            "primary": [
+                "Automation",
+                "Shell Script",
+                "Bash",
+                "Core Java"
+            ],
+            "secondary": [
+                "Django",
+                "Flask",
+                "REST APIs",
+                "CI/CD",
+                "MySQL",
+                "PostgreSQL"
+            ],
+            "all": [
+                "Python",
+                "Java",
+                "Spring",
+                "Microservices",
+                "Cloud (AWS/GCP, Azure)",
+                "Automation",
+                "Shell Script",
+                "Bash",
+                "Core Java",
+                "Django",
+                "Flask",
+                "REST APIs",
+                "CI/CD",
+                "MySQL",
+                "PostgreSQL"
+            ]
+        },
+        "job_type": [],
+        "jd": "Job Description -\nJob Title: Python Developer with Java\nLocation \u2013 Pittsburgh, PA, NJC, NJ, NYC, NC & Lake Mary, FL (Locals Only)\n\nResponsibilities:\nDesign, develop, and maintain software solutions using Python and Java.\nCollaborate with cross-functional teams to analyze requirements and create scalable solutions.\nDevelop back-end services, APIs, and integrate databases.\nOptimize applications for performance, security, and maintainability.\nTroubleshoot and resolve software defects and issues.\n\nRequired Skills:\nStrong proficiency in Java and Python.\nExperience with frameworks like Spring (Java) and Django/Flask (Python).\nKnowledge of REST APIs, CI/CD, and databases like MySQL or PostgreSQL.\nFamiliarity with cloud platforms (AWS, Azure).",
+        "source": "Email",
+        "date_posted": "2024-10-30 18:49:31-05:00",
+        "unique_id": "192dff5933d77e8d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

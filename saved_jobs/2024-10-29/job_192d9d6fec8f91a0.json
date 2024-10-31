@@ -1,0 +1,104 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "Java Developer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "Angular",
+                "React"
+            ],
+            "primary": [
+                "Spring Security",
+                "Oracle Database",
+                "MongoDB",
+                "RESTful APIs",
+                "CI/CD"
+            ],
+            "secondary": [
+                "EC2",
+                "S3",
+                "EMR",
+                "Lambda",
+                "CloudWatch",
+                "API Gateway",
+                "CloudFormation",
+                "CodePipeline",
+                "CodeBuild",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray",
+                "Automated Testing Frameworks",
+                "Backup and Disaster Recovery Solutions"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "Angular",
+                "React",
+                "Spring Security",
+                "Oracle Database",
+                "MongoDB",
+                "RESTful APIs",
+                "CI/CD",
+                "EC2",
+                "S3",
+                "EMR",
+                "Lambda",
+                "CloudWatch",
+                "API Gateway",
+                "CloudFormation",
+                "CodePipeline",
+                "CodeBuild",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray",
+                "Automated Testing Frameworks",
+                "Backup and Disaster Recovery Solutions"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Divya Sai",
+        "email": "divya.c@itechus.net",
+        "jd": "HelloThis is Divya Sai from iTech US, we have an urgent Job opening from one our client, please go through below JD if you are interested, please share me your updated resume.Role : Java DeveloperLocation: McLean, VA (Locals) \u2013 F2FType : ContractDescription:Need 10+ years of experience in Java Must have exp in Angular, React, Spring Security, Microservices, AWS, Oracle DatabaseDeveloperShould be very good in AWS services - EC2, S3, EMR, Lambda, Cloud watch and more.Java with Microservice ()Mongo DB experience.Design, develop, and deploy web applications using AWS services such as EC2, S3, Lambda, and DynamoDB? Develop and maintain serverless architectures using AWS services such as API Gateway, CloudFormation, and CloudWatch? Create and maintain automated deployment pipelines using AWS CodePipeline and CodeBuildDesign and develop RESTful APIs using AWS API Gateway and Lambda? Develop and maintain automated testing frameworks using AWS services such as CodeBuild and CodeDeployDesign and develop cloud-native applications using AWS services such as ECS, EKS, and FargateDevelop and maintain cloud infrastructure using AWS services such as CloudFormation and CloudWatchMonitor and troubleshoot application performance using AWS services such as CloudWatch and X-RayDevelop and maintain security best practices for AWS services such as IAM, KMS, and CloudTrailDevelop and maintain CI/CD pipelines using AWS services such as CodePipeline and CodeBuild? Design and develop serverless applications using AWS services such as Lambda and Step Functions? Develop and maintain automated backup and disaster recovery solutions using AWS services such as EBS and S3Advanced Java Concepts, Core JavaJAVA FSDivya Sai ChanduiTech US Inc,Email:divya.c@itechus.netPh:18028510921 Ext:308",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:18:21-05:00",
+        "unique_id": "192d9d6fec8f91a0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

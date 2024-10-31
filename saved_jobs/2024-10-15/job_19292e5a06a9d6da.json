@@ -1,0 +1,72 @@
+[
+    {
+        "company": "GAC Solution",
+        "job_title": "Java Full Stack Developer",
+        "location": "Woodland hills, CA, USA",
+        "full_location": {
+            "city": "Woodland hills",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular",
+                "Java",
+                "Spring framework"
+            ],
+            "primary": [
+                "TypeScript",
+                "JavaScript",
+                "HTML5",
+                "CSS3"
+            ],
+            "secondary": [
+                "SQL",
+                "MySQL",
+                "PostgreSQL",
+                "Agile",
+                "Git"
+            ],
+            "all": [
+                "Angular",
+                "Java",
+                "Spring framework",
+                "TypeScript",
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "SQL",
+                "MySQL",
+                "PostgreSQL",
+                "Agile",
+                "Git"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sneha Sangnale",
+        "email": "sneha@gacsol.com",
+        "jd": "Hi This is Sneha from GAC Solution. I have an excellent job opportunity with one of our premier clients. Since it is an urgent requirement your prompt response is appreciated. The following is a brief job description for your reference. Job Title: Java Full Stack Developer Working Location: Woodland hills, CA (Hybrid) Project Duration: Contract Primary Skill: Angular, Type script/Java script, Java. Secondary Skill: HTML, CSS, spring boot Job Description: We are seeking a highly skilled Angular and Java Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for developing and maintaining both frontend and backend components of our web applications. You will collaborate with cross-functional teams to deliver high-quality, scalable, and maintainable software solutions. Responsibilities: 1. Develop frontend components using Angular framework, ensuring responsiveness and optimal performance across various devices and browsers. 2. Design and implement RESTful APIs and backend services using Java and Spring framework. 3. Collaborate with UI/UX designers to translate design mockups into interactive web applications with rich user interfaces. 4. Write clean, modular, and well-documented code following best practices and coding standards. 5. Implement security and data protection measures to ensure the integrity and confidentiality of user data. 6. Integrate third-party APIs and services as required. 7. Conduct code reviews and provide constructive feedback to team members. 8. Troubleshoot and debug issues reported by users and stakeholders, ensuring timely resolution. 9. Continuously research and evaluate new technologies to improve the efficiency and effectiveness of our development processes. 10. Work closely with QA engineers to ensure the quality and reliability of the software deliverables.",
+        "source": "Email",
+        "date_posted": "2024-10-15 17:43:50-05:00",
+        "unique_id": "19292e5a06a9d6da",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

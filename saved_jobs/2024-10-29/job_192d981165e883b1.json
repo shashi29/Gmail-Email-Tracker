@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Calabitek",
+        "job_title": "AI Solution Architect (GCP)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum of 12 years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Gemini AI",
+                "Python",
+                "APIs",
+                "machine learning frameworks"
+            ],
+            "primary": [
+                "BigQuery",
+                "Dataflow",
+                "Cloud Storage",
+                "Dataproc",
+                "Pub/Sub",
+                "GCP deployment tools",
+                "CI/CD practices",
+                "data visualization tools"
+            ],
+            "secondary": [
+                "data profiling",
+                "data cataloging",
+                "data mapping",
+                "relational databases",
+                "non-relational databases",
+                "data privacy regulations",
+                "GCP certifications"
+            ],
+            "all": [
+                "GCP",
+                "Gemini AI",
+                "Python",
+                "APIs",
+                "machine learning frameworks",
+                "BigQuery",
+                "Dataflow",
+                "Cloud Storage",
+                "Dataproc",
+                "Pub/Sub",
+                "GCP deployment tools",
+                "CI/CD practices",
+                "data visualization tools",
+                "data profiling",
+                "data cataloging",
+                "data mapping",
+                "relational databases",
+                "non-relational databases",
+                "data privacy regulations",
+                "GCP certifications"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kishore",
+        "email": "kishore@calabitek.com",
+        "jd": "From: kishore, Calabitek kishore@calabitek.com Reply to: kishore@calabitek.com Hiring:-Role: AI Solution Architect (GCP)Remote client: Photon We are seeking a Solution Architect to lead our data initiatives, focusing on the implementation of solutions utilizing Google Cloud Platform (GCP) and Gemini AI. The ideal candidate will have extensive knowledge of GCP services and capabilities, along with experience in architecting and deploying data solutions. Proficiency in Python, APIs, and machine learning frameworks is essential.Responsibilities Design and architect data solutions leveraging GCP services, including Gemini AI, to address complex business challenges and deliver innovative applications.Evaluate and recommend appropriate GCP services and Gemini AI technologies based on project objectives, scalability, performance, and cost considerations.Design and implement end-to-end data solutions, including data acquisition, data preprocessing, and pipeline deployment.Architect and optimize scalable and reliable cloud-based infrastructure on GCP, ensuring high availability, fault tolerance, and security.Develop architectural design documents, solution blueprints, and technical specifications to guide the development and implementation process.Collaborate with stakeholders, including product managers, data scientists, and others, to understand business requirements and translate them into technical solutions.RequirementsBachelor's or Master's degree in Computer Science, Engineering, or a related field.Minimum of 12 years of experience with large-scale data and analytics solutions.Knowledge of GCP Data & Analytics services: BigQuery, Dataflow, Cloud Storage, Dataproc, Pub/Sub, and others.Familiarity with Gemini AI and its applications in data solutions and machine learning.Experience with GCP deployment tools and CI/CD practices.Experience in preparing data for data science and machine learning purposes.Ability to conduct data profiling, cataloging, and mapping for technical design and construction of data flows.Experience with various database technologies, including relational and non-relational databases.Experience with data visualization tools and APIs to expose data to end-users.Preferred Qualifications: Bachelor's or Master's degree in Computer Science, Data Science, Statistics, Mathematics, or a related discipline, with coursework in data and AI/ML.Experience with machine learning frameworks and tools on GCP, such as TensorFlow or AI Platform.Knowledge of data privacy and security regulations and best practices related to GCP solutions.Ability to work collaboratively in a team environment and communicate complex technical concepts to non-technical stakeholders.GCP certifications, such as Professional Data Engineer, are preferred. Share your resume with kishore@calabitek.com",
+        "source": "Email",
+        "date_posted": "2024-10-29 12:44:31-05:00",
+        "unique_id": "192d981165e883b1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

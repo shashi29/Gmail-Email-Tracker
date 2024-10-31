@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Softcom Systems Inc",
+        "job_title": "SQL DBA",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hour"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS",
+                "SQL Server migration"
+            ],
+            "primary": [
+                "Expert in DAG setup"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "AWS",
+                "SQL Server migration",
+                "Expert in DAG setup"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Raj",
+        "email": "raj@softcomsystems.com",
+        "jd": "From: Raj, Softcom Systems Inc raj@softcomsystems.com Reply to: raj@softcomsystems.com Job Description:SQL server DBA who has experience of handling sql server on AWSDatabase administrator certifications from Microsoft or a reputed organizationHands on System engineer who can manage extra large databases with high availability, Realtime replication from OLTP and OLAP using distributed databaseAbility to troubleshoot sql server issues not limited but covering system locks, fragmentation, index reorganization and rebuild, system logs issues, replication delays, ghost recordsExperience in handling swl server migration from on Prem to AWS and from old SQL server version to new SQL server version. Expert in DAG setup and troubleshooting of DAG related issues. Primary Skills: SQL, AWS, SQL Server migration,Expert in DAG setup",
+        "source": "Email",
+        "date_posted": "2024-10-11 11:56:32-05:00",
+        "unique_id": "1927cd3575a87ed7",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

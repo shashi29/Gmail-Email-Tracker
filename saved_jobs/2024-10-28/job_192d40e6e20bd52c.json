@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Tekgence",
+        "job_title": "Data Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "14+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Apache Spark",
+                "Amazon S3",
+                "AWS EMR",
+                "AWS EC2"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Apache Spark",
+                "Amazon S3",
+                "AWS EMR",
+                "AWS EC2"
+            ],
+            "with_experience": [
+                "Apache Spark",
+                "Amazon S3",
+                "AWS EMR",
+                "AWS EC2"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Prashanth B",
+        "email": "prashanth.b@tekgence.com",
+        "jd": "From: Prashanth B, Tekgence prashanth.b@tekgence.com Reply to: prashanth.b@tekgence.com Title: Data EngineerLocation: Phoenix, AZDuration: Long term For this role we need 14+Years of experienced resumes only Required:Apache Spark, Amazon S3, AWS EMR, AWS EC2 (All Skills Mandatory) --Regards,Prashanth B | Tekgence Inc.Talent Acquisition Specialist Email: prashanth.b@tekgence.com | Website: www.tekgence.com6655 Deseo Dr \u2022 Suite 104 \u2022 Irving, TX \u2022 75039",
+        "source": "Email",
+        "date_posted": "2024-10-28 11:21:08-05:00",
+        "unique_id": "192d40e6e20bd52c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

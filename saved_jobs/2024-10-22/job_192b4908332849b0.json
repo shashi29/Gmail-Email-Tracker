@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Vertex Elite LLC",
+        "job_title": "DB2 Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "VEDB2AT0001",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "IBM i (AS/400) Environment",
+                "IBM DB2 for i",
+                "SQL Query Writing",
+                "Performance Tuning",
+                "Data Modeling"
+            ],
+            "primary": [
+                "Database Administration",
+                "Writing Queries",
+                "Stored Procedures",
+                "Triggers",
+                "User-defined Functions"
+            ],
+            "secondary": [],
+            "all": [
+                "IBM i (AS/400) Environment",
+                "IBM DB2 for i",
+                "SQL Query Writing",
+                "Performance Tuning",
+                "Data Modeling",
+                "Database Administration",
+                "Writing Queries",
+                "Stored Procedures",
+                "Triggers",
+                "User-defined Functions"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "John Bender",
+        "email": "john@vertexelites.us",
+        "jd": "Dear DB2 Architect, Vertex Elite is looking for DB2 Architect. Please share your profile, if you are looking for a job. Job Location: Remote Work Authorization: USC/GC/GC-EAD/H4-EAD/L2EAD/H1B Required Skills Proficiency with IBM i (AS/400) Environment, IBM DB2 for i: Experience with DB2, writing queries, stored procedures, and database administration. SQL Query Writing: Strong knowledge of SQL for querying, managing, and optimizing databases. Performance Tuning: Experience in optimizing SQL queries for better performance, especially for complex data sets. SQL Procedures and Functions: Writing and maintaining stored procedures, triggers, and user-defined functions. Data Modeling, Data Structures and DB Design.",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:29:50-05:00",
+        "unique_id": "192b4908332849b0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

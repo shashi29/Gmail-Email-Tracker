@@ -1,0 +1,68 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": "JAVA DEVELOPER",
+        "location": "San Francisco, CA, USA",
+        "full_location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SpringBoot",
+                "Kafka",
+                "Oracle DB",
+                "MongoDB"
+            ],
+            "primary": [
+                "BDD",
+                "Splunk",
+                "AppD"
+            ],
+            "secondary": [
+                "good design practices"
+            ],
+            "all": [
+                "Java",
+                "SpringBoot",
+                "Kafka",
+                "Oracle DB",
+                "MongoDB",
+                "BDD",
+                "Splunk",
+                "AppD",
+                "good design practices"
+            ],
+            "with_experience": [
+                "Java (JDK 11+)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nishant Vij",
+        "email": "nishant.vij@testingxperts.com",
+        "jd": "From: Nishant Vij, TestingXperts nishant.vij@testingxperts.com Reply to: nishant.vij@testingxperts.com NEED JAVA DEVELOPER LOCAL TO CA(Bay Area) NEEDED ONLY SKILLS :: Java - JDK 11+, SpringBoot MS, Kafka, Oracle DB, MongoDB, BDD, Splunk, AppD with good design practices.",
+        "source": "Email",
+        "date_posted": "2024-10-11 14:38:29-05:00",
+        "unique_id": "1927d37b31f0eb41",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

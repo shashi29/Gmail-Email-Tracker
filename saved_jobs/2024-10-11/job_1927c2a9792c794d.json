@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Smart IT Frame LLC",
+        "job_title": "Sr. Data engineers/architect",
+        "location": "Frisco, TX, USA",
+        "full_location": {
+            "city": "Frisco",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Services",
+                "Azure DataBricks",
+                "Python",
+                "Azure Data Factory",
+                "GitLab"
+            ],
+            "primary": [
+                "Data Modeling",
+                "Data Analysis",
+                "Test Automation",
+                "SQL",
+                "Snowflake"
+            ],
+            "secondary": [
+                "CI/CD Pipeline",
+                "DevOps practices",
+                "Agile fundamentals",
+                "Jira"
+            ],
+            "all": [
+                "Azure Services",
+                "Azure DataBricks",
+                "Python",
+                "Azure Data Factory",
+                "GitLab",
+                "Data Modeling",
+                "Data Analysis",
+                "Test Automation",
+                "SQL",
+                "Snowflake",
+                "CI/CD Pipeline",
+                "DevOps practices",
+                "Agile fundamentals",
+                "Jira"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kathiresan",
+        "email": "kathiresan@smartitframe.com",
+        "jd": "From: Kathiresan, Smart IT kathiresan@smartitframe.com Reply to: kathiresan@smartitframe.com Hi ,Greetings!My name is Kathiresan, and I'm with Smart IT Frame LLC. We're currently seeking to hire a Sr. Data engineers/architect.Please find the job description below. If you're interested, I would appreciate it if you could share your updated resume with me. Additionally, let me know a convenient time for us to discuss the details further.Looking forward to your response Role: Sr. Data engineers/architectLocation: Frisco, TXType: Contract Mandatory Skills:Azure ServicesAzure DataBricksPythonAzure Data FactoryGitLabData ModelingData AnalysisTest AutomationSQLSnowflake Job Description:Design, build and deploy efficient & reliable data pipelines to move and transform dataOptimize existing pipelines and maintenance of all source-related data pipelinesSupport on-call shift as needed to support the teamBuild and Deploy extensive data quality checks to ensure high quality of dataBuild high-performance scalable data warehouses and data productsPartner with leadership, engineers, product managers and data scientists to understand data needs.Improve existing data movement frameworks and add more featuresExtreme focus on automationExpert level SQL skillsData ModelingCI/CD Pipeline and DevOps practicesAgile fundamentalsPrior use of Jira and GitLab Thanks and RegardsKathiresan GTalent Acquisition GroupEmail: kathiresan@smartitframe.com",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:44:32-05:00",
+        "unique_id": "1927c2a9792c794d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

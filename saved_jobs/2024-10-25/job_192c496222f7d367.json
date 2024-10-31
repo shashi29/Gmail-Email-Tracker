@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Java developer With GCP",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "microservices",
+                "Google Cloud Platform",
+                "Kubernetes"
+            ],
+            "primary": [
+                "CI/CD",
+                "Jenkins",
+                "Cloud Build",
+                "Big Query"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "microservices",
+                "Google Cloud Platform",
+                "Kubernetes",
+                "CI/CD",
+                "Jenkins",
+                "Cloud Build",
+                "Big Query"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vishnu",
+        "email": "vishnu.m@siriinfo.com",
+        "jd": "Hello Guys,Hope you are doing Good, Below are the Positions which i have on priority Basis.If you have any suitable resumes, Kindly share resumes to Vishnu.m@siriinfo.comJava developer With GCPPhoenix, AZHire Type: Contract1. Extensive experience in Java backend development, including Sprint Boot and microservices2. Design, develop and maintain scalable Java applications on Google Cloud Platform.3. Implement and optimize microservices architecture using Spring Boot and deploy GCP Kubernetes Engine4. Develop and maintain CI/CD pipelines using Jenkins and Cloud Build.5. Utilize GCP?s Big Query for Large-scale data processing and analysis",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:15:17-05:00",
+        "unique_id": "192c496222f7d367",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Maintec Technologies",
+        "job_title": "Senior Technical Lead",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C# .NET",
+                "ASP.NET",
+                "MVC framework",
+                "VSTO Word Add-In development",
+                "SharePoint Online solutions",
+                "AWS (DynamoDB, S3, Lambda)"
+            ],
+            "primary": [
+                "REST APIs",
+                "HTML",
+                "CSS",
+                "JavaScript frameworks",
+                "Agile methodologies",
+                "DevOps"
+            ],
+            "secondary": [
+                "microservices architecture",
+                "CI/CD pipelines",
+                "Azure",
+                "Google Cloud",
+                "document management systems",
+                "collaboration platforms",
+                "AWS certifications",
+                "Microsoft technologies certifications"
+            ],
+            "all": [
+                "C# .NET",
+                "ASP.NET",
+                "MVC framework",
+                "VSTO Word Add-In development",
+                "SharePoint Online solutions",
+                "AWS (DynamoDB, S3, Lambda)",
+                "REST APIs",
+                "HTML",
+                "CSS",
+                "JavaScript frameworks",
+                "Agile methodologies",
+                "DevOps",
+                "microservices architecture",
+                "CI/CD pipelines",
+                "Azure",
+                "Google Cloud",
+                "document management systems",
+                "collaboration platforms",
+                "AWS certifications",
+                "Microsoft technologies certifications"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Devan Mark",
+        "email": "devan@maintec.com",
+        "jd": "From: Devan, Maintec Technologies devan@maintec.com Reply to: devan@maintec.com Role: Senior Technical LeadLocation: NYC NYKey Responsibilities:Architecture & Design:Architect and design scalable, high-performance software solutions using C# .NET, ASP.NET, and related technologies. Lead efforts to design REST APIs and implement a microservices-based architecture where applicable.Development Leadership:Lead and mentor the development team in best practices for coding, design patterns, and cloud architecture. Drive the development of new features and enhancements for web applications using MVC and modern front-end frameworks.VSTO Word Add-In Development:Design and develop custom Word Add-Ins using VSTO for various business workflows, ensuring seamless integration with other systems like SharePoint Online.SharePoint Online Solutions:Lead the design and development of SharePoint Online solutions, leveraging its capabilities for document management, collaboration, and integration with other business systems.AWS Cloud Solutions:Architect and implement cloud-based solutions utilizing AWS services, including DynamoDB, S3, and Lambda, ensuring cost-effective and scalable solutions that align with industry best practices.Integration & API Management:Design and implement robust RESTful APIs to integrate third-party services and internal applications, ensuring security, scalability, and ease of use. Oversee API documentation and versioning processes.Problem Solving & Troubleshooting:Quickly identify and resolve technical challenges and bottlenecks across the development and operational pipeline. Provide guidance and direction in solving complex technical issues.Collaboration & Communication:Act as a liaison between technical teams, business stakeholders, and management. Effectively communicate architectural designs, project status, and timelines. Ensure all technical decisions align with business goals.Code Review & Quality Assurance:Review code, architecture designs, and technical implementations to ensure quality, performance, and adherence to standards. Ensure all development practices comply with security guidelines and regulatory requirements.Project Management:Collaborate with project managers to ensure timely delivery of projects, providing technical insights for resource planning, risk management, and task prioritization. Required Skills & Experience:\u2022 10+ years of professional experience in software development, with at least 5 years in a technical leadership or architect role.\u2022 Proficiency in C# .NET, ASP.NET, and MVC framework.\u2022 Experience developing and integrating REST APIs for large-scale applications.\u2022 Strong experience with VSTO Word Add-In development.\u2022 Hands-on experience with SharePoint Online solutions.\u2022 AWS expertise: DynamoDB, S3, Lambda, and other cloud-native services.\u2022 Knowledge of front-end technologies such as HTML, CSS, and JavaScript frameworks is a plus.\u2022 Excellent problem-solving skills and a demonstrated ability to independently solve technical challenges.\u2022 Strong understanding of scalable architecture and design patterns.\u2022 Experience with Agile methodologies and working in a DevOps environment is preferred.\u2022 Ability to articulate complex technical concepts clearly and effectively to both technical and non-technical stakeholders.\u2022 Strong communication skills: Verbal, written, and interpersonal.Desired Skills:\u2022 Experience with microservices architecture.\u2022 Knowledge of CI/CD pipelines and automated deployment processes.\u2022 Familiarity with other cloud providers like Azure or Google Cloud.\u2022 Experience with document management systems and collaboration platforms.\u2022 Certifications in AWS or Microsoft technologies are a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:38:29-05:00",
+        "unique_id": "192b498ee1f0f895",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

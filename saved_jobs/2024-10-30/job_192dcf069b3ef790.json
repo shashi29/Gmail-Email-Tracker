@@ -1,0 +1,73 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Dot Net Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": ""
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "REST API",
+                "SQL",
+                "Asp.NET core"
+            ],
+            "primary": [
+                "RESTful APIs",
+                ".NET Core",
+                "Design patterns",
+                "Scalable applications",
+                "High-volume transactional systems"
+            ],
+            "secondary": [
+                "Troubleshooting",
+                "Communication skills",
+                "Legacy systems integration",
+                "Custom .NET Solutions"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "REST API",
+                "SQL",
+                "Asp.NET core",
+                "RESTful APIs",
+                ".NET Core",
+                "Design patterns",
+                "Scalable applications",
+                "High-volume transactional systems",
+                "Troubleshooting",
+                "Communication skills",
+                "Legacy systems integration",
+                "Custom .NET Solutions"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "Role: Dot Net Developer\n\nStrong knowledge of the .NET platform and coding practices for mid-tier/integration tier applications that perform business logic and integrations.\nProven experience as Senior .NET Developer including hands-on Development with large-scale enterprise-wide projects.\nExperience in conversion projects from legacy to modern applications (mostly looking for integration legacy platforms to Custom .NET Solutions experience).\nExperience in building scalable, server-side applications using RESTful APIs, .NET Core stack.\nHands-on experience with the latest .NET core frameworks & Design patterns.\nProducing code using .NET languages (C#, REST API, SQL, Asp.NET core).\nAnalyzing existing systems and migrating to the latest .NET platforms using scalable and loosely coupled services and design patterns.\nExperience in designing, developing, and maintaining high-volume transactional systems.\nExcellent troubleshooting and communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-30 04:44:59-05:00",
+        "unique_id": "192dcf069b3ef790",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

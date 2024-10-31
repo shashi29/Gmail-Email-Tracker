@@ -1,0 +1,100 @@
+[
+    {
+        "company": "Siriinfo",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Spring Cloud",
+                "SQL",
+                "Microservices"
+            ],
+            "primary": [
+                "Java 8",
+                "Streams API",
+                "Functional programming",
+                "Redis",
+                "AWS",
+                "EC2",
+                "ECS",
+                "Load Balancer",
+                "Security Group",
+                "Lambda",
+                "S3"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "DevOps",
+                "Unit testing",
+                "Integration testing",
+                "Analytical skills",
+                "Problem-solving skills"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Spring Cloud",
+                "SQL",
+                "Microservices",
+                "Java 8",
+                "Streams API",
+                "Functional programming",
+                "Redis",
+                "AWS",
+                "EC2",
+                "ECS",
+                "Load Balancer",
+                "Security Group",
+                "Lambda",
+                "S3",
+                "Docker",
+                "Kubernetes",
+                "DevOps",
+                "Unit testing",
+                "Integration testing",
+                "Analytical skills",
+                "Problem-solving skills"
+            ],
+            "with_experience": [
+                "Java (10+ years)",
+                "Spring Boot",
+                "Spring Cloud"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Piyush Kumar",
+        "email": "piyush.kumar@siriinfo.com",
+        "jd": "From: Piyush Kumar, Siriinfo piyush.kumar@siriinfo.com Reply to: piyush.kumar@siriinfo.com Role: Java DeveloperLocation: RemoteMust have OCJP (Oracle Certified Java Programmer)-certifiedJob Description10+ years of experience in designing, developing, and successfully10+ deploying critical and complex projectsStrong Java skills with experience in development of concurrent and distributed systems Hands on experience using Java 8 features (Streams API, Functional programming) Advanced experience with Spring-based technologies (Spring Boot, Spring Cloud etc.) and caching frameworks like redis Experience in designing and implementing micro services based solutions Should have experience writing unit/integration tests Experience writing SQL queries and good understanding of data model Exposure of AWS cloud (EC2, ECS, Load Balancer, Security Group, Lambda, S3, etc.) - Good to have Experience in DevOps development and deployment using docker and Kubernetes - Good to have Strong analytical and problem-solving skills",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:19:44-05:00",
+        "unique_id": "192a132c1839ae38",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

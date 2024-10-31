@@ -1,0 +1,41 @@
+[
+    {
+        "company": "StateStreet",
+        "job_title": "Sr. Database Administrator",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [],
+            "primary": [],
+            "secondary": [],
+            "all": []
+        },
+        "job_type": [],
+        "contact_person": "",
+        "email": "",
+        "jd": "",
+        "source": "Email",
+        "date_posted": "2024-10-30 19:27:32-05:00",
+        "unique_id": "192dff8778eaf495",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Lead Java Developer",
+        "location": "Berkeley Heights, NJ, USA",
+        "full_location": {
+            "city": "Berkeley Heights",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring framework",
+                "Spring Boot",
+                "GIT",
+                "JIRA"
+            ],
+            "primary": [
+                "Maven",
+                "Confluence",
+                "Agile methodology",
+                "Spring Cloud",
+                "Spring Data",
+                "Spring Transactional",
+                "Spring Batch",
+                "JUnit",
+                "Mockito",
+                "Oracle",
+                "SQL Server",
+                "MySQL"
+            ],
+            "secondary": [
+                "Payment Industry Experience",
+                "PCF",
+                "API Management",
+                "Integration Testing APIs",
+                "Postman",
+                "JMeter",
+                "Sonar",
+                "Fortify",
+                "Web Inspect"
+            ],
+            "all": [
+                "Java",
+                "Spring framework",
+                "Spring Boot",
+                "GIT",
+                "JIRA",
+                "Maven",
+                "Confluence",
+                "Agile methodology",
+                "Spring Cloud",
+                "Spring Data",
+                "Spring Transactional",
+                "Spring Batch",
+                "JUnit",
+                "Mockito",
+                "Oracle",
+                "SQL Server",
+                "MySQL",
+                "Payment Industry Experience",
+                "PCF",
+                "API Management",
+                "Integration Testing APIs",
+                "Postman",
+                "JMeter",
+                "Sonar",
+                "Fortify",
+                "Web Inspect"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek Kumar",
+        "email": "kabhishek@vyzeinc.com",
+        "jd": "Hi,Hope you are doing well today! My self Abhishek Kumar working as Technical recruiter at Vyze Inc. I have an exciting opportunity with one of our client. If interested send me your updated resume with contact details, expected pay rate along with below information.Job Description -Role: Lead Java DeveloperLocation: Berkeley Heights, NJ/Alpharetta, GA Local to any location Day 1 Hybrid Onsite LinkedIn id is must (Should not been created recently, at least 6 Years old in case of senior candidates)Job Summary: Need Senior real time experienced candidate with Payment domain experience.What you will do:Analyze complex processes and technological heterogenic applicationsDesign SW solutions in the real-time, payment areaDesign, develop microservices for highly efficient protocol translation and enrichment with reactive design patterns.Deliver end to end solutions for Payment APIs.Develop high throughput and high-volume transaction APIs that can be consumed by omni channel platforms.Enhance API solutions to offer simple, easy to consume APIs for payment customers.Participate in development of roadmap and strategies for documenting and presenting API specifications in an easy and consumable format.Develop roadmap and strategies to provide Client Libraries and SDKs for API products.What you will need to have:Minimum 10 years\u2019 experience in Java, GIT, JIRA, Maven, Confluence, Spring framework (Core, MVC, AOP, Java NIO)Minimum 5 years of experience in Spring BootAgile methodology experienceHands-on experience with Spring Cloud, Spring Data, Spring Transactional and Spring Batch desired.Experience on creating unit test using JUnit, MockitoExperience with Databases and code integrations such as Oracle, SQL Server, MySQLExpertise in implementing complex full stack solutions including digital and mobile systems, API, and Micro-Services in large Enterprise organizations.What would be great to have:Payment Industry ExperienceGood to have experience in PCF or related cloud platform, API Management)Experience in implementing high volume transactions processing applications.Good to have Experience on using Quality and Security scan tools such as Sonar, Fortify and Web InspectExperience in Integration Testing APIs with Postman, JMeter etc.",
+        "source": "Email",
+        "date_posted": "2024-10-15 12:21:36-05:00",
+        "unique_id": "1929153a9cf3dabc",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

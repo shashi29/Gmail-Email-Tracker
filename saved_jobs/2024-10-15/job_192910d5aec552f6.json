@@ -1,0 +1,65 @@
+[
+    {
+        "company": "o2f",
+        "job_title": "Java Backend Engineer (Automation and Coding)",
+        "location": "WA, USA",
+        "full_location": {
+            "city": "",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "JAVA"
+            ],
+            "primary": [
+                "Automation",
+                "Coding",
+                "Monitoring solutions",
+                "Troubleshooting",
+                "Debugging"
+            ],
+            "secondary": [
+                "Web-based applications",
+                "Web services-based applications",
+                "Documentation"
+            ],
+            "all": [
+                "JAVA",
+                "Automation",
+                "Coding",
+                "Monitoring solutions",
+                "Troubleshooting",
+                "Debugging",
+                "Web-based applications",
+                "Web services-based applications",
+                "Documentation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sai",
+        "email": "sai@o2finc.com",
+        "jd": "From: sai, o2f sai@o2finc.com Reply to: sai@o2finc.com Need strong Automation and Coding Key job responsibilities:We are looking for passionate, experienced software developers that can deliver high quality software solutions to support variety of customer use cases which are scalable to handle Amazon volume.Developers in the team need a strong understanding of Computer fundamentals and practical experience in building full stack, large scale distributed systems.Experience with web-based applications and/or web services-based applications, especially at massive scale, is also helpful.Primary responsibilities include developing monitoring solutions, troubleshooting/debugging and implementing the fix for internally developed code (JAVA), improving our systems that gather metrics on our features, updating, tracking and resolving technical challenges.Responsibilities also include updating/enhancing our current software, automation of support processes and documentation of our systems",
+        "source": "Email",
+        "date_posted": "2024-10-15 11:04:49-05:00",
+        "unique_id": "192910d5aec552f6",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

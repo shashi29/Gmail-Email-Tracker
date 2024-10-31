@@ -1,0 +1,76 @@
+[
+    {
+        "company": "IT America Inc",
+        "job_title": "Java Developer",
+        "location": "Mclean, VA, USA",
+        "full_location": {
+            "city": "Mclean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$60 C2C"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "AWS",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [
+                "Design Patterns",
+                "RESTful APIs",
+                "DevOps",
+                "JSON",
+                "Web Services",
+                "XML",
+                "XSLT",
+                "PL/SQL",
+                "API Security",
+                "OAuth"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "J2EE",
+                "AWS",
+                "Spring Boot",
+                "Microservices",
+                "Design Patterns",
+                "RESTful APIs",
+                "DevOps",
+                "JSON",
+                "Web Services",
+                "XML",
+                "XSLT",
+                "PL/SQL",
+                "API Security",
+                "OAuth"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sai Prasad",
+        "email": "sai.p@itamerica.com",
+        "jd": "From: Sai Prasad, IT America Inc sai.p@itamerica.com Reply to: sai.p@itamerica.com Hi Job Title: Java Developer Location: Hybrid 3 days onsite weekly \u2013 Mclean or Richmond VAJD:Top 3 Must Haves:1. Java/J2EE2. AWS3. Spring Boot and MicroservicesRoles & Responsibilities:1. Designing Enterprise Solution using Java, J2EE, Spring Boot and related Java Technology stack2. Work on Design Patterns3. Work on developing highly scalable enterprise-level web applications and RESTful APIs using Microservices.4. Work on Java Spring Boot implementations5. Work on Devops6. Worked hands-on in AWS \u2013 ECS, EC2, Lambda, S37. Demonstrate strong design and programming skills using JSON, Web Services, XML, XSLT, PL/SQL8. Work on implementation of Industry Standard protocols related API Security including OAuth.9. Effective Client communication",
+        "source": "Email",
+        "date_posted": "2024-10-10 12:23:29-05:00",
+        "unique_id": "1927809a344f86ff",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

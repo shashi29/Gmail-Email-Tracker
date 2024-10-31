@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Python Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python"
+            ],
+            "primary": [
+                "Django",
+                "Flask",
+                "Pyramid",
+                "DB2",
+                "Sybase",
+                "Sybase IQ",
+                "MongoDB",
+                "CI/CD",
+                "Git",
+                "Unix",
+                "Linux"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Django",
+                "Flask",
+                "Pyramid",
+                "DB2",
+                "Sybase",
+                "Sybase IQ",
+                "MongoDB",
+                "CI/CD",
+                "Git",
+                "Unix",
+                "Linux"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rahul Mishra",
+        "email": "rmishra@vyzeinc.com",
+        "jd": "From: Rahul Mishra, Vyzeinc rmishra@vyzeinc.com Reply to: rmishra@vyzeinc.com Job Title: Python DeveloperLocation: RemoteDuration- 6 Months Strong programming skills in Python programming languageExperiencewith writing and testing Python code, debugging for various projects.Familiarity with popular Python frameworks such as Django, Flask or Pyramid.Familiarity with distributed storage systems like DB2, Sybase / Sybase IQ, MongoDBFamiliarity with continuous integration and continuous deployment (CI/CD) pipelines especially using GitWorking knowledge of Unix/Linux experience Best RegardsRahul Mishra US Technical Recruiter |Vyze Inc.E-Mail: rmishra@vyzeinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-18 21:41:46-05:00",
+        "unique_id": "192a2c76ec3efd59",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

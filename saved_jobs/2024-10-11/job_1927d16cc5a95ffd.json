@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Maintec",
+        "job_title": "Backend Java Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "01 year",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java (11+)",
+                "Spring Framework",
+                "Cassandra",
+                "Apache Kafka"
+            ],
+            "primary": [
+                "Spock Unit testing",
+                "Azure Cloud",
+                "Kubernetes",
+                "Docker",
+                "Git"
+            ],
+            "secondary": [],
+            "all": [
+                "Java (11+)",
+                "Spring Framework",
+                "Cassandra",
+                "Apache Kafka",
+                "Spock Unit testing",
+                "Azure Cloud",
+                "Kubernetes",
+                "Docker",
+                "Git"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Princy Jain",
+        "email": "princy@maintec.com",
+        "jd": "From: Princy Jain, Maintec princy@maintec.com Reply to: princy@maintec.com Looking for Backend developer with strong Cassandra table design and query patterns experience. Job Title: Backend Java DeveloperLocation: Plano TX (Hybrid role \u2013 3 days Onsite) Duration: 01 year Telecom client 1. Requires 8+ years of experience in developing Java applications. Requires 5+ years of experience in developing backend web applications. 2. Expert in Java (11+) programming language, Spring Framework & Libraries, and Spock Unit testing 3. Very good understanding of Cassandra database for large volumes of data. Good understanding of Cassandra table design and query patterns 4. Very good understanding of Apache Kafka for asynchronous message processing 5. Proven development experience supporting large volume, low latency transactions 6. Good knowledge of Azure Cloud environments, Kubernetes, Docker, Git",
+        "source": "Email",
+        "date_posted": "2024-10-11 14:02:33-05:00",
+        "unique_id": "1927d16cc5a95ffd",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

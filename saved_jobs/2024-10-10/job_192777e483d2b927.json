@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Java Developer with POS EXP",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "6-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months contract with possible extension/hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java JEE",
+                "design patterns",
+                "Java microservices",
+                "POS development",
+                "Payment integration",
+                "Java UI technologies",
+                "SQL",
+                "PLSQL",
+                "Spring boot"
+            ],
+            "primary": [
+                "Angular",
+                "React",
+                "html/css",
+                "multi-threading concepts",
+                "Spring security",
+                "Agile environment",
+                "Restful APIs",
+                "unit tests",
+                "integrated tests",
+                "web-applications"
+            ],
+            "secondary": [
+                "Jumpmind experience",
+                "Version control",
+                "Bitbucket",
+                "GitLab",
+                "Build tools",
+                "Maven",
+                "Gradle",
+                "monitoring tools",
+                "Datadog"
+            ],
+            "all": [
+                "Java JEE",
+                "design patterns",
+                "Java microservices",
+                "POS development",
+                "Payment integration",
+                "Java UI technologies",
+                "SQL",
+                "PLSQL",
+                "Spring boot",
+                "Angular",
+                "React",
+                "html/css",
+                "multi-threading concepts",
+                "Spring security",
+                "Agile environment",
+                "Restful APIs",
+                "unit tests",
+                "integrated tests",
+                "web-applications",
+                "Jumpmind experience",
+                "Version control",
+                "Bitbucket",
+                "GitLab",
+                "Build tools",
+                "Maven",
+                "Gradle",
+                "monitoring tools",
+                "Datadog"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vivek",
+        "email": "vkumar@vyzeinc.com",
+        "jd": "Job Description -Java Developer with POS f2f interview required Columbus, OH Consultant must be onsite.6 months contract with possible extension/hireNeed java developers with POS experience Must haves6 - 8 Years of strong hands-on experience in Java JEE, design patterns, Java microservices POS development background Payment integration 3+ years of experience in Java UI technologies like Angular, React, html/css Strong SQL / PLSQL skills Spring bootJumpmind experience is a plusVersion control: Bitbucket/ GitLabBuild tools: Maven/ Gradle Required skills8+ years of experience in java design patterns, multi-threading concepts, spring boot, spring security Experience working in an Agile environment. Analyze project requirements and prepare high level technical documentation. Experience developing spring boot applications and coordinating with all collaborating teams for functional and technical requirements. Design and develop a Restful APIs in the project as per the requirement along with handling the security using Spring Security. Develop unit tests and integrated tests for the applications Experience with design and development of web-applications for business reporting and monitor systems using monitoring tools like Datadog.",
+        "source": "Email",
+        "date_posted": "2024-10-10 11:56:25-05:00",
+        "unique_id": "192777e483d2b927",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

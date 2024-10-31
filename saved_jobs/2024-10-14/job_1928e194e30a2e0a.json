@@ -1,0 +1,77 @@
+[
+    {
+        "company": "DevITpartners",
+        "job_title": "GCP Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Data Engineering",
+                "BigQuery",
+                "Dataflow",
+                "Dataproc",
+                "Python",
+                "Java",
+                "Scala"
+            ],
+            "primary": [
+                "Apache Beam",
+                "Spark",
+                "Data Governance",
+                "Data Security",
+                "Data Compliance"
+            ],
+            "secondary": [
+                "Data Modeling",
+                "Database Design"
+            ],
+            "all": [
+                "GCP",
+                "Data Engineering",
+                "BigQuery",
+                "Dataflow",
+                "Dataproc",
+                "Python",
+                "Java",
+                "Scala",
+                "Apache Beam",
+                "Spark",
+                "Data Governance",
+                "Data Security",
+                "Data Compliance",
+                "Data Modeling",
+                "Database Design"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ashok Reddy",
+        "email": "ashok.reddy@devitpartners.com",
+        "jd": "From: Ashok, DevITpartners ashok.reddy@devitpartners.com Reply to: ashok.reddy@devitpartners.com Job Title: GCP Data EngineerLocation: RemoteJob Summary:We are seeking an experienced GCP Data Engineer to join our data engineering team. The successful candidate will design, build, and maintain scalable data pipelines and architectures on Google Cloud Platform (GCP). The ideal candidate will have expertise in data engineering, cloud computing, and data analytics.Key Responsibilities: 1. Design, build, and maintain data pipelines and architectures on GCP.2. Develop data processing and analytics solutions using GCP services (BigQuery, Dataflow, Dataproc, etc.).3. Collaborate with data scientists and analysts to understand data requirements.4. Implement data governance, security, and compliance policies.5. Optimize data pipeline performance, scalability, and reliability.6. Work with stakeholders to identify and prioritize data engineering projects.7. Develop and maintain data warehouse and data lake architectures.8. Ensure data quality, integrity, and consistency.9. Stay up-to-date with GCP innovations and apply new technologies. Requirements: Technical Skills: 1. 3+ years of experience in data engineering.2. Proficiency in GCP services (BigQuery, Dataflow, Dataproc, Cloud Storage, etc.).3. Experience with data processing frameworks (Apache Beam, Spark, etc.).4. Strong programming skills (Python, Java, Scala, etc.).5. Familiarity with data modeling and database design.6. Experience with data governance, security, and compliance.",
+        "source": "Email",
+        "date_posted": "2024-10-14 17:51:37-05:00",
+        "unique_id": "1928e194e30a2e0a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "company": "InsourceTechsolutions",
+        "job_title": "Lead / Sr. Big Data Engineer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Hadoop",
+                "Spark",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "Big data",
+                "GCP",
+                "Batch Streaming",
+                "Real-time streaming data pipelines",
+                "Tech Lead"
+            ],
+            "secondary": [
+                "Hadoop fundamental concepts",
+                "CI/CD"
+            ],
+            "all": [
+                "Hadoop",
+                "Spark",
+                "Python",
+                "SQL",
+                "Big data",
+                "GCP",
+                "Batch Streaming",
+                "Real-time streaming data pipelines",
+                "Tech Lead",
+                "Hadoop fundamental concepts",
+                "CI/CD"
+            ],
+            "with_experience": [
+                "Hadoop (9+ years)",
+                "Spark",
+                "Python",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "venkat",
+        "email": "venkatk@insourcetechsolutions.com",
+        "jd": "From: venkat, InsourceTechsolutions venkatk@insourcetechsolutions.com Reply to: venkatk@insourcetechsolutions.com Job Title:Job Title: Lead / Sr. Big Data EngineerLocation: Irving, TX (Hybrid \u2013 2-3 days/week)Duration: 12+ Months This role can play the hand-on dev role along with tech lead skills Required Skills:Big data expert with 9+ years experience in Hadoop Big data ecosystemSpark - Batch Streaming (Python, Scala)Experience in cloud environment specially GCPExperience in developing both batch and real-time streaming data pipelinesHave experience as a Tech Lead for data engineering projectsPython ScriptingExpertise in SQL Good to have:Hadoop fundamental conceptsCI/CDLocation: Irving, TX (Hybrid \u2013 2-3 days/week)Duration: 12+ MonthsThis role can play the hand-on dev role along with tech lead skillsRequired Skills:Big data expert with 9+ years experience in Hadoop Big data ecosystemSpark - Batch Streaming (Python, Scala)Experience in cloud environment specially GCPExperience in developing both batch and real-time streaming data pipelinesHave experience as a Tech Lead for data engineering projectsPython ScriptingExpertise in SQLGood to have:Hadoop fundamental conceptsCI/CD",
+        "source": "Email",
+        "date_posted": "2024-10-28 08:11:26-05:00",
+        "unique_id": "192d379484247140",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

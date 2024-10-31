@@ -1,0 +1,64 @@
+[
+    {
+        "company": "SMART IT FRAME",
+        "job_title": "Sr. Tech Lead",
+        "location": "Wilmington, DE, USA",
+        "full_location": {
+            "city": "Wilmington",
+            "state": "DE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Java 11",
+                "Spring Boot",
+                "Oracle SQL",
+                "AWS"
+            ],
+            "primary": [
+                "Angular 9",
+                "Microservices",
+                "REST API"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "Java 11",
+                "Spring Boot",
+                "Oracle SQL",
+                "AWS",
+                "Angular 9",
+                "Microservices",
+                "REST API"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sona Chhabra",
+        "email": "sona@smartitframe.com",
+        "jd": "From: Sona Chhabra, SMART IT FRAME sona@smartitframe.com Reply to: sona@smartitframe.com Job Title- Sr. Tech LeadLocation \u2013 Wilmington, DE- HybridDuration- 12+ Months Job Description: Responsibilities- Proficiency in one or more general purpose programming languages; Core JavaJava development experience with knowledge of Java 11 and aboveAngular 9 and aboveSpring FrameworkRESTful micro servicesOracle PL/SQL, Mongo DB knowledge is mandatorily requiredExtensive Hands-on Experience in AWS Development is mandatoryAdvanced knowledge of application, data and infrastructure architecture disciplinesUnderstanding of architecture and design across all systemsWorking proficiency in developmental toolsetsAbility to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals Job Duties:Develop Microservices with Spring Boot for the applicationDevelop API using Microservices Architecture using Java in AWS Cloud environmentWork with Business and Product Teams to gather requirements and translate to Design and CodeWork in Agile environment with regular SprintsProvide POC/Demo to Business Teams at the end of each Sprint Mandatory Skills:Core Java, Java 11, Spring Boot, Oracle SQL Hands-on Development experienceHands-on extensive AWS experience is mandatoryAngular 9Microservices/ Rest API",
+        "source": "Email",
+        "date_posted": "2024-10-18 10:45:00-05:00",
+        "unique_id": "192a0854741f12c4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "company": "3K Technologies, LLC",
+        "job_title": "SQL Database Administrator (DBA)",
+        "location": "Montgomery, AL, USA",
+        "full_location": {
+            "city": "Montgomery",
+            "state": "AL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "3-5+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft SQL Server",
+                "T-SQL scripting",
+                "SQL query optimization",
+                "Backup and recovery strategies",
+                "Database security"
+            ],
+            "primary": [
+                "SQL Server clustering",
+                "Replication",
+                "Mirroring",
+                "Log shipping",
+                "Azure SQL"
+            ],
+            "secondary": [
+                "PowerShell scripting",
+                "Data warehousing",
+                "ETL processes",
+                "Problem-solving",
+                "Excellent written and verbal communication skills",
+                "Ability to work independently and as part of a team",
+                "Microsoft Certified: Azure Database Administrator Associate",
+                "Microsoft Certified: SQL Server DBA"
+            ],
+            "all": [
+                "Microsoft SQL Server",
+                "T-SQL scripting",
+                "SQL query optimization",
+                "Backup and recovery strategies",
+                "Database security",
+                "SQL Server clustering",
+                "Replication",
+                "Mirroring",
+                "Log shipping",
+                "Azure SQL",
+                "PowerShell scripting",
+                "Data warehousing",
+                "ETL processes",
+                "Problem-solving",
+                "Excellent written and verbal communication skills",
+                "Ability to work independently and as part of a team",
+                "Microsoft Certified: Azure Database Administrator Associate",
+                "Microsoft Certified: SQL Server DBA"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vijay Kumar M",
+        "email": "vijaykumar.m@3ktechnologies.com",
+        "jd": "From: Vijay, 3ktechnologies vijaykumar.m@3ktechnologies.com Reply to: vijaykumar.m@3ktechnologies.com Job Title: SQL Database Administrator (DBA)Location: Montgomery, Alabama (Onsite)Job Type: Full-TimeJob Summary:The SQL DBA is responsible for the implementation, configuration, maintenance, and performance of critical SQL Server systems, ensuring the availability and consistent performance of corporate applications. This is a \u201chands-on\u201d position requiring solid technical skills, as well as excellent interpersonal and communication skills.Key Responsibilities:Database Management:Install, configure, and maintain all Microsoft SQL Server instances.Monitor database performance, implement changes, and apply new patches and versions when required.Ensure high levels of performance, availability, sustainability, and security of database systems.Performance Tuning & Optimization:Optimize SQL Server databases and queries for maximum performance.Analyze and troubleshoot performance bottlenecks, including CPU, memory, I/O, and SQL execution.Implement and support database backup and recovery strategies.Security & Compliance:Implement and enforce database security protocols.Manage database user accounts and permissions.Perform regular security audits and ensure compliance with data protection and privacy standards.Backup & Recovery:Establish and document backup and disaster recovery plans for SQL Server environments.Conduct regular testing of recovery procedures.Work closely with systems administrators to ensure the availability of backup environments.Monitoring & Maintenance:Use monitoring tools to track database health and performance (e.g., SQL Profiler, Performance Monitor, etc.).Develop automated processes for database management tasks, including backups, indexing, and performance monitoring.Troubleshooting & Support:Provide support for database-related incidents and requests.Actively participate in problem-solving and debugging of database issues.Collaborate with developers and other IT teams to optimize database performance and design.Database Development:Assist developers with SQL code optimization and best practices.Review SQL queries, stored procedures, and indexes to enhance application performance.Ensure data consistency and integrity.Documentation & Reporting:Maintain documentation related to database configurations, procedures, and processes.Provide regular reports on database health and performance.Keep an up-to-date inventory of database assets and software licenses.Required Qualifications:Bachelor\u2019s degree in Computer Science, Information Technology, or related field.3-5+ years of experience as a SQL DBA.Strong knowledge of Microsoft SQL Server (2012, 2016, 2019+).Experience with SQL Server clustering, replication, mirroring, and log shipping.Solid experience in T-SQL scripting and SQL query optimization.Proficiency with backup and recovery strategies, database security, and HA/DR solutions.Experience with Azure SQL or other cloud-based database systems is a plus.Familiarity with PowerShell scripting and automation is desirable.Desired Skills:Strong problem-solving abilities.Excellent written and verbal communication skills.Ability to work independently and as part of a team.Experience with data warehousing and ETL processes.Certifications like Microsoft Certified: Azure Database Administrator Associate or Microsoft Certified: SQL Server DBA are a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:49:57-05:00",
+        "unique_id": "192c44921164557c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

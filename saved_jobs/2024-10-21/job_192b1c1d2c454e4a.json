@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Gacsol",
+        "job_title": "Python Developer",
+        "location": "Chicago Heights, IL, USA",
+        "full_location": {
+            "city": "Chicago Heights",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Generative AI",
+                "Django"
+            ],
+            "primary": [
+                "DevOps",
+                "Machine Learning",
+                "GCP"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Analytical skills",
+                "Teamwork",
+                "Independent work"
+            ],
+            "all": [
+                "Python",
+                "Generative AI",
+                "Django",
+                "DevOps",
+                "Machine Learning",
+                "GCP",
+                "Problem-solving",
+                "Analytical skills",
+                "Teamwork",
+                "Independent work"
+            ],
+            "with_experience": [
+                "Python (12+ years)",
+                "Generative AI",
+                "Django"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Barla Santosh",
+        "email": "sbarla@gacsol.com",
+        "jd": "From: Barla Santosh, Gacsol sbarla@gacsol.com Reply to: sbarla@gacsol.com Title: Python DeveloperLocation: CHICAGO HEIGHTS IL (Hybrid) Python Developer with Gen AI Frameworks knowledgeDesign, develop, and maintain Python applications Collaborate with ACG business and IT Architect for contributing to move POC to production-ready systems. Experience:Python Developer with 12+ years of experience in PythonProficiency in Python programming and data structures.Working experience on using generative AI frameworks and Django frameworks DevOps Knowledge and setting up the process and pipelineUnderstanding of machine learning algorithms and techniques.Familiarity with GCP platform and their AI services.Good problem-solving and analytical skills.Ability to work independently and as part of a team. Thanks,Barla SantoshTechnical RecruiterE: Sbarla@gacsol.com www.gacsol.com\u2018Experts in Digitalization and Engineering - Enterprise 4.0\u2019",
+        "source": "Email",
+        "date_posted": "2024-10-21 19:30:04-05:00",
+        "unique_id": "192b1c1d2c454e4a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

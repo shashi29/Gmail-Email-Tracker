@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "Database Administrator",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "ETL"
+            ],
+            "primary": [
+                "data analysis",
+                "database management",
+                "performance tuning",
+                "data dictionary analysis",
+                "data model analysis"
+            ],
+            "secondary": [
+                "strong communication skills",
+                "team environment",
+                "monitoring database performance",
+                "scheduling data warehousing jobs",
+                "coordinating software releases"
+            ],
+            "all": [
+                "Snowflake",
+                "ETL",
+                "data analysis",
+                "database management",
+                "performance tuning",
+                "data dictionary analysis",
+                "data model analysis",
+                "strong communication skills",
+                "team environment",
+                "monitoring database performance",
+                "scheduling data warehousing jobs",
+                "coordinating software releases"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Roshan Singh Yadav",
+        "email": "roshan.yadav@tekinspirations.com",
+        "jd": "From: Roshan singh yadav, Tek Inspirations roshan.yadav@tekinspirations.com Reply to: roshan.yadav@tekinspirations.com Hi,Hope you are doing well.Have a look at role. Let me know your view. Job Description -Database Administrator REMOTE \u2013 must be local \u2013 can be representedUSC/GC/GCEADState of DEMust have state client experienceNeed LINKEDIN Remote DBA contract role for Delaware Dept of Technology and Information (DTI). Initial contract is for 1 year and JD is below. Will require candidates to travel to Dover, DE 1-2 times a year at their own cost. Database Administrator Remote may require an occasional onsite meeting in Delaware (as needed for team interactions on larger issues), and the occasional conference that we may host with our stakeholders (once or twice a year) (we do not support travel costs) Required skills:Must have Snowflake experience (5 Years)ETL experience The Database Administrator (DBA) is responsible for data analysis and database management. Database Administrators typically are involved in maintenance, enhancement, designing of data dictionaries, physical and logical database models, and performance tuning. Database Administrators have a range of skills and knowledge of the utilities and production tools used for data storage management to support the Application Team. Skilled data dictionary analysis and design and data model analysis design. Maintain central data repository. Experience and knowledge in supporting application system development life cycle. Responsible for data dictionary backup and recovery. Responsible for definition of standards of data dictionaries. May program dictionary analysis and maintenance software Perform performance tuning. Monitor database performance and space requirements. Schedule and monitor end of day data warehousing jobs. Assist in coordinating software releases. Communicate accurate and useful status updates. Manage and report time spent on all work activities. Follow quality standards. Ability to work in a team environment. Complete assigned tasks. Strong communication skills; both written and spoken.",
+        "source": "Email",
+        "date_posted": "2024-10-22 09:08:01-05:00",
+        "unique_id": "192b4b2d2517127a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Tanisha Systems",
+        "job_title": "Java backend Developer with MongoDB",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "Spring Framework",
+                "MongoDB"
+            ],
+            "primary": [
+                "AWS",
+                "REST APIs",
+                "Continuous Integration",
+                "Jenkins",
+                "Agile"
+            ],
+            "secondary": [
+                "Oracle",
+                "MS SQL Server",
+                "Cassandra",
+                "Hadoop",
+                "Mark Logic"
+            ],
+            "all": [
+                "Java",
+                "J2EE",
+                "Spring Framework",
+                "MongoDB",
+                "AWS",
+                "REST APIs",
+                "Continuous Integration",
+                "Jenkins",
+                "Agile",
+                "Oracle",
+                "MS SQL Server",
+                "Cassandra",
+                "Hadoop",
+                "Mark Logic"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Binod Kumar",
+        "email": "binod.kumar@tanishasystems.com",
+        "jd": "Hi We are looking candidate for the below position. if you are interested, please share your resume at binod.kumar@tanishasystems.com Role: Java backend Developer with MongoDBLocation: Plano, TX / Jersey City, NJ ( Days Onsite) Job Description:10+ years of overall experience in software engineering7+ years of experience in Java, J2EE programming, Spring Framework and design techniques and web applications/REST APIsVery strong Mongo DB Exp, there would be coding interview. Hands on with version control practices, Continuous Integration tools e.g. JenkinsKnowledge of cloud technologies \u2013 AWS, GoogleUnderstanding of relational databases e.g. Oracle, MS Sql ServerExposure to Agile based software development Following MongoDB specific capabilities:Designing and customizing MongoDB applicationsImplementing database updates and migrationDebugging and troubleshooting when issues ariseAnalyzing databases and advising on optimizing performanceUnderstanding of back-up and disaster recovery plansGood to have knowledge of big data platforms e.g., Cassandra, Hadoop, Mark logic etc.",
+        "source": "Email",
+        "date_posted": "2024-10-10 18:03:45-05:00",
+        "unique_id": "19278cd4df98c2e7",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Largeton Inc",
+        "job_title": "Python developer",
+        "location": "Forth worth, TX, USA",
+        "full_location": {
+            "city": "Forth worth",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "XSOAR"
+            ],
+            "primary": [
+                "PowerShell",
+                "Automation",
+                "Integration",
+                "Scripting"
+            ],
+            "secondary": [
+                "Docker",
+                "Documentation",
+                "Troubleshooting"
+            ],
+            "all": [
+                "Python",
+                "XSOAR",
+                "PowerShell",
+                "Automation",
+                "Integration",
+                "Scripting",
+                "Docker",
+                "Documentation",
+                "Troubleshooting"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Komal Gupta",
+        "email": "komal@largeton.us",
+        "jd": "From: Komal Gupta, Largeton Inc komal@largeton.us Reply to: komal@largeton.us Need Someone Local, On-Site Interview with Coding ChallengeTitle : Python developer (IN person interview) Visa:No h1B/CPT/OPTLocation: Forth worth ,TX ,hybrid localduration:12+monthsClient: American airlineLinkedin must resume 3 to 4 pages only short summaryonsite interview Senior XSOAR and Python Developer for our Cybersecurity team will be responsible for designing, developing, and implementing automated solutions and custom playbooks in XSOAR. The developer will primarily be working with internal customers and peers to design and develop solutions that will be used to streamline processes and increase efficiency for our customers.Need Someone Local, On-Site Interview with Coding ChallengeResponsibilities:XSOAR:* Develop automation playbooks using either out-of-the-box (or custom) integrations and functions.* Develop forms, fields, mapping, classifiers, custom integrations and automation using scripting language like Python. Having PowerShell experience will be a plus.* Integrate current technologies with XSOAR Platform* Participates in architecture design and analysis work related to security automation.* Troubleshoot issues related to automation processes or tools.* Collaborate with other teams such as network engineering, downstream applications, etc., to ensure that automation solutions are properly integrated.* Catalogue and review any identified security automation use cases with stakeholders.* Lead automation use case/playbook design sessions.* Develop documentation related to automation processes and procedures.* Troubleshooting issues related to automation process, integration, docker container and performance.Regards,Komal Gupta | Sr. Technical RecruiterLargeton INC.Herndon, VA 20171Komal@largeton.us",
+        "source": "Email",
+        "date_posted": "2024-10-18 08:20:07-05:00",
+        "unique_id": "1929fe987e57836e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "company": "TEK Global Services",
+        "job_title": "Python/AWS Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS"
+            ],
+            "primary": [
+                "S3",
+                "Lambda",
+                "DynamoDB",
+                "EKS clusters",
+                "Jenkins"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "AWS",
+                "S3",
+                "Lambda",
+                "DynamoDB",
+                "EKS clusters",
+                "Jenkins"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Subhash Tamta",
+        "email": "subhash@convextech.com",
+        "jd": "From: Subhash Tamta, Convextech.inc subhash@convextech.com Reply to: subhash@convextech.com \ud83d\ude80 Job Title: Python/AWS Engineer\ud83d\udccd Location: Hybrid in Plano, TX or Richmond, VA, or McLean, VA\u23f3 Duration: 6 months\ud83d\udccb Visa: No H1B/CPTJob Description\ud83d\udd25 Must be a former Capital One employee and eligible for rehire!We are seeking an experienced Python/AWS Engineer for a 6-month hybrid role with TEK Global Services. The ideal candidate will have previously worked at Capital One and have strong expertise in AWS and Python.Key Responsibilities:\ud83d\udcbb Software Development (front-end & back-end)\u2601\ufe0f AWS (Amazon Web Services) is essential\ud83d\udc0d Strong Python skills\ud83d\udce6 Experience with S3, Lambda, DynamoDB, EKS clusters\ud83d\udd04 Familiar with Jenkins for One Pipeline\ud83d\udee0\ufe0f Managing the platform, handling bug fixes\ud83d\ude80 Deployments through One PipelineThanks and Regards SUBHASH TAMTA US IT Recruiter |Convex Tech Inc.Email : subhash@convextech.comlinkedin.com/in/shubhash-tamta-02a86a286",
+        "source": "Email",
+        "date_posted": "2024-10-17 19:13:42-05:00",
+        "unique_id": "1929d4402b651c90",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": "Data Architect",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Synapse Analytics",
+                "Azure SQL Database",
+                "T-SQL",
+                "Data Architecture Design",
+                "Data Governance"
+            ],
+            "primary": [
+                "Dedicated SQL Pools",
+                "ETL Processes",
+                "Data Integration",
+                "Cloud Computing",
+                "Python",
+                "Salesforce"
+            ],
+            "secondary": [
+                "Scala",
+                "Message MQ",
+                "MuleSoft",
+                "Analytical Skills",
+                "Problem-Solving Skills"
+            ],
+            "all": [
+                "Azure Synapse Analytics",
+                "Azure SQL Database",
+                "T-SQL",
+                "Data Architecture Design",
+                "Data Governance",
+                "Dedicated SQL Pools",
+                "ETL Processes",
+                "Data Integration",
+                "Cloud Computing",
+                "Python",
+                "Salesforce",
+                "Scala",
+                "Message MQ",
+                "MuleSoft",
+                "Analytical Skills",
+                "Problem-Solving Skills"
+            ],
+            "with_experience": [
+                "Azure Synapse Analytics (4+ years)",
+                "Dedicated SQL Pools (4+ years)",
+                "T-SQL (5+ years)",
+                "Data Architecture Design (4+ years)",
+                "Data Governance (3+ years)",
+                "Data Integration (3+ years)",
+                "Cloud Computing (2+ years)",
+                "Python (1+ years)",
+                "Salesforce (1+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mounika",
+        "email": "mounikaj@brillius.com",
+        "jd": "From: mounika, brillius mounikaj@brillius.com Reply to: mounikaj@brillius.com Job Title: Data Architect Location: On-Site from Day 1 (Tallahassee, FL) The activities these candidates will be tasked with include, but are not limited to the following:\u2022 Work with stakeholders and development team to determine project scope and vision,gather and prioritize collected requirements.\u2022 Designing and Implementing Data Architectures: Develop comprehensive data architecturesthat support the organization\u2019s business goals, using Azure Synapse Analytics, Azure SQL,and other Azure data services.\u2022 Managing Dedicated SQL Pools: Efficiently manage and optimize Dedicated SQL Pools inSynapse to handle large-scale data warehousing and analytics workloads.\u2022 Database Design and Management: Design, implement, and manage databases using AzureSQL and Azure Managed Instance, ensuring high performance, availability, and security.\u2022 Data Integration and ETL Processes: Develop and manage ETL (Extract, Transform, Load)processes using Synapse Pipelines, ensuring efficient data flow from various sources to thedata warehouse.\u2022 Data Governance and Cataloging: Implement data governance practices and manage thedata catalog to ensure data quality, consistency, and accessibility.\u2022 Building and Maintaining Data Models: Create and maintain data models that accuratelyrepresent the data landscape, ensuring they are scalable and optimized for performance.\u2022 Ensuring Data Security and Compliance: Implement and oversee data security measures,ensuring compliance with legal and regulatory standards.\u2022 Maintain procedures manuals and system documentation.\u2022 Research software solutions to support recommendations, analyzing current and futuretechnology trends.These positions are to provide technical guidance and expertise in supporting the department indeveloping, architecting, and maintaining data, data mappings, and monitoring high-volumecomplex data transfer processes. Minimum Required KSAs:\u2022 4+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database,and Azure Managed Instance.\u2022 5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writingskills, tables, primary keys, foreign keys, constraints, indexes, transactions, processlogging, and error handling.\u2022 4+ years of experience in data architecture design principles, methodologies, and bestpractices.\u2022 3+ years of experience in data governance principles and compliance requirementsrelated to data security and privacy.\u2022 3+ years of experience in integrating data from various sources and managing largedata pipelines.\u2022 2+ years of experience in cloud computing concepts, particularly in Microsoft Azure,including storage solutions and compute capabilities.\u2022 1+ years of Experience with programming languages such as Python or Scala.\u2022 1+ years of experience in Salesforce, Message MQ, and MuleSoft\u2022 Strong analytical and problem-solving skills to address complex data challenges.\u2022 Ability to design and implement robust, scalable, and efficient data architectures.\u2022 Ability to provide excellent customer support; meticulous quality of work and workproduct.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:25:24-05:00",
+        "unique_id": "192b03d23a654694",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

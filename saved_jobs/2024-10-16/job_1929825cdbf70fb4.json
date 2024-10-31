@@ -1,0 +1,65 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Data Automation",
+                "ETL",
+                "Data Governance"
+            ],
+            "primary": [
+                "Data Pipeline Development",
+                "Data Analysis Tools",
+                "Technical Documentation"
+            ],
+            "secondary": [
+                "Stakeholder Collaboration",
+                "Data Quality",
+                "Research Solutions"
+            ],
+            "all": [
+                "Data Engineering",
+                "Data Automation",
+                "ETL",
+                "Data Governance",
+                "Data Pipeline Development",
+                "Data Analysis Tools",
+                "Technical Documentation",
+                "Stakeholder Collaboration",
+                "Data Quality",
+                "Research Solutions"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: Data EngineerBuild infrastructure and data automation pipelines for the extraction, preparation, and loading of data from various sources. Automate and integrate new components into the data pipeline.Work with stakeholders and data science to develop data products including entity resolution and best selection to efficiently execute product vision and strategy in alignment with organizational goals and priorities.Create unit and stress test components to monitor technical performance and ensure identified issues are resolved.Develop data analysis tools to provide data insights and capture key metrics.Research solutions and maintain technical documentation.Follow best practices for data governance, quality, cleansing, and other ETL-related activities.",
+        "source": "Email",
+        "date_posted": "2024-10-16 20:08:55-05:00",
+        "unique_id": "1929825cdbf70fb4",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

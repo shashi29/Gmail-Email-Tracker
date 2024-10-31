@@ -1,0 +1,89 @@
+[
+    {
+        "company": "The Hartford",
+        "job_title": "Staff Data Engineer",
+        "location": "Hartford, CT, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Data Science, Information Technology or similar majors",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months Renewable",
+            "rate": "$60/hr on W2"
+        },
+        "skills": {
+            "core": [
+                "Snowflake cloud data platform",
+                "Oracle Database",
+                "PL/SQL",
+                "DataOps tools",
+                "AWS services"
+            ],
+            "primary": [
+                "Python",
+                "Spark",
+                "ETL tools",
+                "Talend",
+                "Informatica"
+            ],
+            "secondary": [
+                "Hadoop",
+                "Shell scripting",
+                "GitHub",
+                "Jenkins",
+                "Udeploy",
+                "Agile tools"
+            ],
+            "all": [
+                "Snowflake cloud data platform",
+                "Oracle Database",
+                "PL/SQL",
+                "DataOps tools",
+                "AWS services",
+                "Python",
+                "Spark",
+                "ETL tools",
+                "Talend",
+                "Informatica",
+                "Hadoop",
+                "Shell scripting",
+                "GitHub",
+                "Jenkins",
+                "Udeploy",
+                "Agile tools"
+            ],
+            "with_experience": [
+                "Snowflake cloud data platform",
+                "AWS services",
+                "Python",
+                "Spark",
+                "ETL tools",
+                "Talend",
+                "Informatica"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "jai",
+        "email": "jai@spearstaffing.com",
+        "jd": "From: jai, spear staffing jai@spearstaffing.com Reply to: jai@spearstaffing.com Role: Staff Data Engineer**MUST BE HYBRID ONSITE IN HARTFORD, CT or CHARLOTTE, NC** This is a 6 month Renewable Contract**MUST BE W2; No Corp-to-Corp**Rate: $60/hr on W2Client: The Hartford **Top 3 Must Haves:1. Experience with Snowflake cloud data platform including hands-on experience with snowflake utilities like SnowSQL, Snow pipe2. Strong knowledge of Legacy tech stack \u2013 Oracle Database, PL/SQL, Autosys, Hadoop, stored procedures, Shell scripting etc3. Experienced in DataOps tools like GitHub, Jenkins, Udeploy etcThe Hartford is looking for a Staff Data Engineer to join our Commercial Lines (CL) Data modernization and simplification program. You will have an opportunity to engage in enabling well architected cloud-based data solutions for data and analytics in support of BI, Actuarial, Data Science, Finance, Operations, ERM etc. within The Hartford. To succeed in this role, you should be a strong critical thinker, technical acumen and be able to derive the root causes of business problems.You will work closely with technology colleagues, product owners and product managers within the Agile Release Train to evolve and mature the Commercial Lines Data assets for data and analytics consumers.Responsibilities:Accountable as the subject matter expert and/or technical lead for a large-scale data product.Drive End-to-End solution delivery involving multiple platforms and technologies with medium to large complexity or oversee certain parts of very large complex implementations, leveraging ELT solutions to acquire, integrate, and operationalize data.Partner with architects and stakeholders to influence and implement the vision of the pipeline and data product architecture while safeguarding the integrity and scalability of the environment.Articulate risks and tradeoffs of technology solutions to senior leaders with translations as needed for business leaders.Build or enhance data pipelines using cloud-based architecture.Ability of build simplified data models for complex business problems.Accountable for Data Engineering Practices across all the teams involved.Implement and utilize leading big data methodologies (AWS, Hadoop/EMR, Spark, Snowflake, Talend & Informatica) with cloud/on premise hybrid hosting solutions, on a multi-team/product level.Ability to execute independently.Team player with transformation mindset.Ability to operate successfully in a lean and fast-paced organization, leveraging Scaled Agile principles and ways of working.Collaboration across teams, decision making, conflict resolution and relationship building.Collaborate with the team to mature Code quality management, FinOps principles, automated testing, and environment management practices to deliver incremental customer value.Qualifications:5+ years of Data engineering experience.2+ years of developing and operating production workloads in cloud infrastructure.Bachelors degree in Computer Science, Data Science, Information Technology or similar majors.Experience with Snowflake cloud data platform including hands-on experience with snowflake utilities like SnowSQL, Snow pipe.Expert level skills on AWS services, Snowflake, Python, Spark \u2013 Certifications are huge plus.Expert level skills on ETL tools like Talend and InformaticaExpert level skills in Data Warehousing \u2013 Modeling, mapping, building batch and real time data pipelines and frameworkExperienced in DataOps tools like GitHub, Jenkins, Udeploy etc.Strong Knowledge of P&C Commercial Lines business.Strong knowledge of Legacy tech stack \u2013 Oracle Database, PL/SQL, Autosys, Hadoop, stored procedures, Shell scripting etc.Experience in using Agile tools like Rally.Strong written and verbal communication to interact effectively with both technical and nontechnical users at all levels of the organization.",
+        "source": "Email",
+        "date_posted": "2024-10-11 10:22:16-05:00",
+        "unique_id": "1927c6a392f9a1fb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

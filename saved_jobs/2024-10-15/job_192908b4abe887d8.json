@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Florida Department of Children & Families",
+        "job_title": "Data Architect Advanced",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML T-SQL",
+                "advanced stored procedure writing",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Microsoft Azure"
+            ],
+            "primary": [
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft"
+            ],
+            "secondary": [
+                "analytical skills",
+                "problem-solving skills",
+                "customer support",
+                "quality of work"
+            ],
+            "all": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML T-SQL",
+                "advanced stored procedure writing",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Microsoft Azure",
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "analytical skills",
+                "problem-solving skills",
+                "customer support",
+                "quality of work"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rahul Singh",
+        "email": "rahul.singh@tekinspirations.com",
+        "jd": "From: Rahul Singh, Tek Inspirations LLC rahul.singh@tekinspirations.com Reply to: rahul.singh@tekinspirations.com Position: Data Architect Advanced Duration 6 months Location: Tallahassee,FL (onsite) local candidates only! Visa: USC, GC Client Florida Department of Children & Families in Tallahassee,FL Minimum Required KSAs: 4+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance. 5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling. 4+ years of experience in data architecture design principles, methodologies, and best practices. 3+ years of experience in data governance principles and compliance requirements related to data security and privacy. 3+ years of experience in integrating data from various sources and managing large data pipelines. 2+ years of experience in cloud computing concepts, particularly in Microsoft Azure, including storage solutions and compute capabilities. 1+ years of Experience with programming languages such as Python or Scala. 1+ years of experience in Salesforce, Message MQ, and MuleSoft Strong analytical and problem-solving skills to address complex data challenges. Ability to design and implement robust, scalable, and efficient data architectures. Ability to provide excellent customer support; meticulous quality of work and work product.",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:41:09-05:00",
+        "unique_id": "192908b4abe887d8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

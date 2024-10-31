@@ -1,0 +1,130 @@
+[
+    {
+        "company": "Resource Logistics, Inc.",
+        "job_title": "Solution Architect",
+        "location": "Fountain Valley, CA, USA",
+        "full_location": {
+            "city": "Fountain Valley",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NETCore",
+                "C#",
+                "Azure Cloud"
+            ],
+            "primary": [
+                "REST APIs",
+                "Entity Core Framework",
+                "xUNIT",
+                "MS TEST",
+                "Oracle",
+                "Azure DevOps",
+                "CICD deployment",
+                "Azure Hybrid Cloud",
+                "Azure VMs",
+                "App Services",
+                "Function Apps",
+                "Logic Apps",
+                "Storage Accounts",
+                "Azure Kubernetes",
+                "Azure container registry",
+                "Azure API management",
+                "Azure messaging services",
+                "Event Hub",
+                "Event Grid",
+                "Service Bus",
+                "Azure Cognitive Search Service",
+                "Azure Data Factory"
+            ],
+            "secondary": [
+                "Frontend design principles",
+                "React",
+                "on-premises to cloud migration",
+                "data migration",
+                "integrating on-premises applications with Azure Cloud resources",
+                "cloud migration strategies",
+                "Rehost",
+                "Refactor",
+                "Rearchitect",
+                "Rebuild",
+                "Replace",
+                "design and code reviews",
+                "analyzing and resolving development issues",
+                "Analytical Skills",
+                "attention to details"
+            ],
+            "all": [
+                ".NETCore",
+                "C#",
+                "Azure Cloud",
+                "REST APIs",
+                "Entity Core Framework",
+                "xUNIT",
+                "MS TEST",
+                "Oracle",
+                "Azure DevOps",
+                "CICD deployment",
+                "Azure Hybrid Cloud",
+                "Azure VMs",
+                "App Services",
+                "Function Apps",
+                "Logic Apps",
+                "Storage Accounts",
+                "Azure Kubernetes",
+                "Azure container registry",
+                "Azure API management",
+                "Azure messaging services",
+                "Event Hub",
+                "Event Grid",
+                "Service Bus",
+                "Azure Cognitive Search Service",
+                "Azure Data Factory",
+                "Frontend design principles",
+                "React",
+                "on-premises to cloud migration",
+                "data migration",
+                "integrating on-premises applications with Azure Cloud resources",
+                "cloud migration strategies",
+                "Rehost",
+                "Refactor",
+                "Rearchitect",
+                "Rebuild",
+                "Replace",
+                "design and code reviews",
+                "analyzing and resolving development issues",
+                "Analytical Skills",
+                "attention to details"
+            ]
+        },
+        "job_type": [
+            "remote",
+            "onsite"
+        ],
+        "contact_person": "Vipul Dubey",
+        "email": "vipul.dubey@resource-logistics.com",
+        "jd": "From: Vipul dubey, Resource logistics vipul.dubey@resource-logistics.com Reply to: vipul.dubey@resource-logistics.com Job Title: Solution ArchitectLocation: Fountain Valley, CA (Remote ok but first preference is local candidate)Duration: 6+ MonthMust have skills: .NETCore, C#, Azure CloudJob Description:Should have 10+ years of hands-on experience in designing, building, and implementing the software solutions. Must have strong experience in translating Business requirements to Technical Solutions. Experience in working with business, infrastructure and cross platform teams. Must have strong hands-on development design experience in implementing REST APIs using .NET core 3.1 and 6.07.08.0, C#, Entity Core Framework. Should have experience in Automate Unit Tests using xUNIT, MS TEST, etc. Experience in working with Oracle, writing stored procedures, and performance management. Should have knowledge on securing APIs and Azure resources using Azure Identity management. Should be well versed with Azure DevOps and CICD deployment. Must have working experience in Azure Hybrid Cloud, Azure VMs, App Services, Function Apps, Logic Apps, Storage Accounts. Experience in containerization using Azure Kubernetes and Azure container registry is a plus. Should have hands-on in configuring APIs and implementing inbound and outbound policies in Azure API management. Should be well versed with Azure messaging services like Event Hub, Event Grid, Service Bus and Azure Cognitive Search Service. Basic understanding of Frontend design principles, including React. Should have working experience in Azure Data Factory. Good to have on-premises to cloud migration experience including data migration. Good to have experience in integrating on-premises applications with Azure Cloud resources. Good to have knowledge on cloud migration strategies Rehost, Refactor, Rearchitect, Rebuild, and Replace. Experience in performing design and code reviews, and overseeing application systems, data workflow, logical processes, and system interfaces. Solid understanding on system architecture in terms of the components at various levels (Infrastructure, Technology, and Solution). Sound experience in analyzing and resolving development issues. Should have very good Analytical Skills, and attention to details.",
+        "source": "Email",
+        "date_posted": "2024-10-17 11:59:23-05:00",
+        "unique_id": "1929b8bf43687228",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

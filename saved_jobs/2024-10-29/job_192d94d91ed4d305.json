@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Securekloud",
+        "job_title": "Genesys IVR Business Analyst",
+        "location": "Newark, NJ, USA",
+        "full_location": {
+            "city": "Newark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Genesys IVR",
+                "Data Analysis",
+                "Contact Center Processes",
+                "KPI and Metrics Tracking"
+            ],
+            "primary": [
+                "BI/Analytics Tools",
+                "PowerBI",
+                "Tableau",
+                "Dashboard Creation",
+                "Report Generation"
+            ],
+            "secondary": [
+                "Workforce Management",
+                "Telephony Systems"
+            ],
+            "all": [
+                "Genesys IVR",
+                "Data Analysis",
+                "Contact Center Processes",
+                "KPI and Metrics Tracking",
+                "BI/Analytics Tools",
+                "PowerBI",
+                "Tableau",
+                "Dashboard Creation",
+                "Report Generation",
+                "Workforce Management",
+                "Telephony Systems"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Muthukumaran",
+        "email": "muthukumaran.krishnamoorthy@securekloud.com",
+        "jd": "Data Analyst/BI developer needed to work with Genesys IVR developers to understand how they are tracking the customer journey in the IVR flow to ensure the necessary data points are tracked in the appropriate parts of the flow to ensure that we can later extract the data to understand if the IVR is providing an efficient experience to the caller. If not, candidate needs to be able to identify improvement opportunities, bottle necks, etc to guide the Genesys IVR dev teams on what enhancements are needed. Candidate should experienced in all common contact center processes, KPIs and metrics and be familiar with telephony systems. Should also have working knowledge of BI/Analytics tools (PowerBI/Tableau) for creation of dashboards, reports, etc in order to be able to clearly socialize analysis. Workforce management experience a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-29 11:14:28-05:00",
+        "unique_id": "192d94d91ed4d305",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

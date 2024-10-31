@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Absolute IT",
+        "job_title": "Java Developer",
+        "location": "Richfield, MN, USA",
+        "full_location": {
+            "city": "Richfield",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 8",
+                "Java 11",
+                "Java 17",
+                "Spring Boot",
+                "Spring JPA",
+                "Micro-services",
+                "Apache Kafka",
+                "Docker",
+                "IntelliJ",
+                "Maven",
+                "Gradle",
+                "JUnit",
+                "Spock",
+                "Log4J",
+                "SL4J",
+                "SonarQube",
+                "Checkmarx",
+                "Postman",
+                "EHCache",
+                "Redis",
+                "Memcached",
+                "UNIX",
+                "Oracle",
+                "Cassandra",
+                "GitHub"
+            ],
+            "primary": [
+                "Continuous integration using GitHub actions",
+                "GCP Functions"
+            ],
+            "secondary": [
+                "Adapt to any new technology"
+            ],
+            "all": [
+                "Java 8",
+                "Java 11",
+                "Java 17",
+                "Spring Boot",
+                "Spring JPA",
+                "Micro-services",
+                "Apache Kafka",
+                "Docker",
+                "IntelliJ",
+                "Maven",
+                "Gradle",
+                "JUnit",
+                "Spock",
+                "Log4J",
+                "SL4J",
+                "SonarQube",
+                "Checkmarx",
+                "Postman",
+                "EHCache",
+                "Redis",
+                "Memcached",
+                "UNIX",
+                "Oracle",
+                "Cassandra",
+                "GitHub",
+                "Continuous integration using GitHub actions",
+                "GCP Functions",
+                "Adapt to any new technology"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Devyani Kumari",
+        "email": "devyani@absoluting.com",
+        "jd": "Java DeveloperCandidate must have an active and an updated LinkedIn ID with a picture and current location updated (REQUIRED!!)Location: Richfield, MN - LOCAL TO MN ONLY Onsite Interview Need Live location Hybrid* This is a hybrid role. 2-3 days in Richfield office* 5-7 years of experience in developing Micro-services and J2EE applications using Java 8, Java 11, Java 17, Groovy, Spring Boot and Spring JPA.* Configure and develop a Java Rest service that producer/consumes messages from Apache Kafka.* Using Docker Container to dockerize Java applications and spin up services locally.* Expertise in using the development IDE's like Intellij.* Experience in using build tools like Maven and Gradle.* Knowledge in writing Test Cases with JUnit and Spock, logging using Log4J and SL4J.* Experience in testing code quality using SonarQube/Checkmarx.* Testing web services using Postman.* Implementing Caching mechanisms like EHCache, Redis or Memcached.* Comfortable with UNIX commands as we use PUTTY for installations and configurations in dev environments* Skilled in Oracle and Cassandra.* Experience in using version control tool like GitHub.* Experience in setting up pipelines using Github actions.Project Description:We are part of the Fulfillment, Availability, and Button State team. Fulfillment Services is responsible for providing the following information across the Best Buy site.\u2022 Shipping - shipping date(s) and shipping price(s) for an SKU or order.\u2022 Delivery and installation- delivery /installation dates and delivery/installation price(s) for appliance(s) about an SKU or order.\u2022 In-store services - dates/timeslots for in-store services about different locations. For example, remote starter installation (BOSS).\u2022 Pickup - pickup dates for all Best Buy locations and alternate pick locations within a 250-mile radius about an SKU/order\u2022 Button State/Button view - provides all the button states across the Best Buy site Position Summary/Job Description:\u2022 5-7 years of experience in developing Micro-services and J2EE applications using Java 8, Java 11, Java 17, Groovy, Spring Boot and Spring JPA.\u2022 Configure and develop a Java Rest service that producer/consumes messages from Apache Kafka.\u2022 Using Docker Container to dockerize Java applications and spin up services locally.\u2022 Expertise in using the development IDE's like Intellij/Eclipse.\u2022 Experience in using build tools like Maven and Gradle.\u2022 Knowledge in writing Test Cases with JUnit and Spock, logging using Log4J and SL4J.\u2022 Experience in testing code quality using SonarQube/Checkmarx.\u2022 Testing web services using Postman.\u2022 Implementing Caching mechanisms like EHCache, Redis or Memcached.\u2022 Comfortable with UNIX commands as we use PUTTY for installations and configurations in dev environments\u2022 Skilled in Oracle and Cassandra.\u2022 Experience in using version control tool like GitHub.\u2022 Experience in setting up pipelines using Github actions.Skills Overview:What are the top five skills and number of years of experience required to perform this job?We are seeking a Level 4 developer with a minimum of 5-7 years of experience. The ideal candidate will have a solid background in Spring, Java, REST services, Kafka, writing test cases, and implementing caching. Experience with Cassandra is essential, as well as the ability to understand memory leaks and debug production incidents. Prioritizing performance is crucial in development.What are some preferred/nice-to-have skills the manager is looking for?Below are some nice to have skills- Adapt to any new technology- Continuous integration using GitHub actions- Have experience in GCP Functions",
+        "source": "Email",
+        "date_posted": "2024-10-29 07:38:59-05:00",
+        "unique_id": "192d878acff2e48c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

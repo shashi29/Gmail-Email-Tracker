@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Hitachi Consulting",
+        "job_title": "AWS Cloud Network Engineer + Palo Alto SME",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "R1012093",
+            "experience_required": "3+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "10 weeks (not sure if will extend)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Palo Alto Firewall",
+                "DevOps engineering",
+                "Terraform",
+                "CI/CD"
+            ],
+            "primary": [
+                "AWS Infrastructure services (EC2, ELB, RDS, Route53, S3, VPC, VPN, TGW, CloudWatch, CloudTrail, EventBridge)",
+                "Ansible",
+                "Shell",
+                "Python",
+                "Ruby",
+                "PowerShell",
+                "Linux administration",
+                "Windows administration"
+            ],
+            "secondary": [
+                "FedRamp compliance",
+                "Palo Alto Networks certifications (PCNSA, PCNSE)",
+                "Agile methodologies",
+                "Communication skills"
+            ],
+            "all": [
+                "AWS",
+                "Palo Alto Firewall",
+                "DevOps engineering",
+                "Terraform",
+                "CI/CD",
+                "AWS Infrastructure services (EC2, ELB, RDS, Route53, S3, VPC, VPN, TGW, CloudWatch, CloudTrail, EventBridge)",
+                "Ansible",
+                "Shell",
+                "Python",
+                "Ruby",
+                "PowerShell",
+                "Linux administration",
+                "Windows administration",
+                "FedRamp compliance",
+                "Palo Alto Networks certifications (PCNSA, PCNSE)",
+                "Agile methodologies",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ishavdeep Singh",
+        "email": "ishavdeep@cloudthinktech.com",
+        "jd": "From: Ishavdeep Singh, Cloud Think Technologies ishavdeep@cloudthinktech.com Reply to: ishavdeep@cloudthinktech.com RTR JOB ID: AWS Cloud Network Engineer + Palo Alto SME 'R1012093'-Title: - AWS Cloud Network Engineer + Palo Alto SME# Open (if applicable): 1Max Submittals (if applicable): 0Basic Company Info: Hitachi Consulting brings world class expertise across all major platforms and technologies to enable CIO's and IT Executives to leverage their investments in new and innovative technology solutions. We help reduce cost and deliver profit-driving IT capabilities faster than ever before.Team Size: N/AWhy Open: Need to add to team Start date/ Duration: 10 weeks (not sure if will extend)Location: Remote Background Check (if applicable): NoneHours / Shift: Monday \u2013Friday 9:00 to 5:00 EST (6am is PST) Description Of Services:AWS Cloud Engineer with PaloAlto Firewall skillset What You will need (Qualifications) At least 3+ years of experience in AWS with hands-on contribution in DevOps engineering. Strong track record of implementing AWS services in a variety of distributed computing environments (Design and implementation experience and Cloud Networking). Strong experience on AWS Infrastructure services (EC2, ELB, RDS, Route53, S3, vpc, vpn, tgw, cloudwatch, cloudtrail, eventbridge, etc. Large scale implementation and migration experience of Data Center to Cloud Infrastructure automation through DevOps scripting (Ansible, Shell, Python, Ruby, PowerShell) Hands on experience in terraform IaC deployments. Strong Experience in building CI/CD (Gitlab, Jenkins) and deployment automation. Good practical Linux / Windows-based systems administration skills in a Cloud or Virtualized environment Experience working on FedRamp compliant projects is a plus. Must be a GC or US Citizen. Palo Alto & Panaroma Skillset requirements:Design and architect Palo Alto firewall solutions for AWS cloud-based infrastructures based on business requirements and security best practices. Ability to independently deploy Palo Alto firewalls & Panorama in cloud environments using IaC automation, ensuring proper network segmentation and security zones. Strong hands-on experience using Panorama to configure security policies, NAT rules, VPN tunnels, and other firewall settings to protect cloud assets.Implement high availability and failover configurations for firewall devices. Develop and enforce security policies, including threat prevention, URL filtering, application control, and user identification.Ability to Integrate Panorama with other security tools and systems, such as SIEM platforms, to enhance threat detection and response capabilities.Palo Alto Networks certifications (e.g., PCNSA, PCNSE) are highly desirable. What You Bring To The Team Can work autonomously, deliver with minimal supervision from a set of requirements Demonstrated ability to think strategically about business, product, and technical challenges Has excellent communication skills to work as a member of a team Ability to function in an agile-based environment and provide good daily feedback on team stand-up callParticipate in code release and production deployment, have an aggressive approach to fixing bugs and defects Good communication skills verbal / written Deliverables:-Process Flows -Mentor and Knowledge transfer to client project team members -Participate as primary, co and/or contributing author on any and all project deliverables associated with their assigned areas of responsibility -Participate in data conversion and data maintenance -Provide best practice and industry specific solutions -Advise on and provide alternative (out of the box) solutions -Provide thought leadership as well as hands on technical configuration/development as needed. -Participate as a team member of the functional team -Perform other duties as assigned.",
+        "source": "Email",
+        "date_posted": "2024-10-15 09:20:08-05:00",
+        "unique_id": "19290ad874c6263b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

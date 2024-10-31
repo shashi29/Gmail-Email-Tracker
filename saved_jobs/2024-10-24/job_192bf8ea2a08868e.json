@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Spar",
+        "job_title": "Sr Azure Data Analyst/Azure Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Azure",
+                "Snowflake",
+                "Power BI"
+            ],
+            "primary": [
+                "Data Profiling",
+                "Data Lineage",
+                "Structured Data",
+                "Unstructured Data"
+            ],
+            "secondary": [
+                "Big Data",
+                "Reporting Tools",
+                "Source-Target Mapping Sheets (STTM)"
+            ],
+            "all": [
+                "SQL",
+                "Azure",
+                "Snowflake",
+                "Power BI",
+                "Data Profiling",
+                "Data Lineage",
+                "Structured Data",
+                "Unstructured Data",
+                "Big Data",
+                "Reporting Tools",
+                "Source-Target Mapping Sheets (STTM)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "mohit",
+        "email": "mohit.n@sparinfosys.com",
+        "jd": "From: mohit, Spar mohit.n@sparinfosys.com Reply to: mohit.n@sparinfosys.com Title: Sr Azure Data Analyst/Azure Data EngineerLocation: RemoteLong TermSr. Data Analyst (5+ Yrs Exp) Sr. Data Analysts having strong experience in data identification and querying with standard relational and non-relational systems, along with strong knowledge of Structured and Unstructured Data.Strong Data Profiling and SQL skills to analyze the source-target data identification and generate Source \u2013 Target Mapping Sheets (STTM).Working experience in big data environments on both on-prem and cloud, such as Azure and Snowflake and reporting tools like Power BI Azure,Snowflake,SQL Server (Stored Procs, SQL\u2019s, etc.), SQL Queries Power BI, BRD, Data Lineage",
+        "source": "Email",
+        "date_posted": "2024-10-24 11:47:05-05:00",
+        "unique_id": "192bf8ea2a08868e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

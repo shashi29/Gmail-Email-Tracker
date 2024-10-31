@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Prudential",
+        "job_title": "Database Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle",
+                "DB2",
+                "SQL",
+                "ETL"
+            ],
+            "primary": [
+                "SQL Tuning",
+                "Agile methodology",
+                "Data management"
+            ],
+            "secondary": [
+                "Data quality",
+                "Data security",
+                "Data monitoring",
+                "Informatica",
+                "Analytical skills",
+                "Organizational skills",
+                "Communication skills"
+            ],
+            "all": [
+                "Oracle",
+                "DB2",
+                "SQL",
+                "ETL",
+                "SQL Tuning",
+                "Agile methodology",
+                "Data management",
+                "Data quality",
+                "Data security",
+                "Data monitoring",
+                "Informatica",
+                "Analytical skills",
+                "Organizational skills",
+                "Communication skills"
+            ],
+            "with_experience": [
+                "Oracle (5-7 years)",
+                "DB2 (5-7 years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rahul Mishra",
+        "email": "rmishra@vyzeinc.com",
+        "jd": "From: Rahul Mishra, Vyzeinc rmishra@vyzeinc.com Reply to: rmishra@vyzeinc.com Role 2: Database DeveloperClient : PrudentialJob Description:Responsibilities:Database design: Design and implement efficient database structures and schemas to support application functionalityCode writing: Write and optimize complex SQL queries for data retrieval, manipulation, and reportingDatabase queries: Write SQL queries to extract and manipulate dataTesting and troubleshooting: Test databases and identify and fix issues related to performance, security, or data integritySoftware specifications: Research, design, document, and modify software specificationsBusiness requirements: Analyze the company's data needs and assist in data migration and transformation projects to support business needsCollaboration: Work across IT teams and with business users to understand the business needs and translate it to implementation.Security processes: Develop security processesBest practices: Develop and maintain documentation for database schemas, procedures, and best practicesStandards: Verify that all database programs adhere to the organization\u2019s and performance standards.Database performance: Assess the effectiveness and performance of database systems and applicationsRequirements and Skills:5-7 years of experience working in Oracle and DB2 Databases.Proven work experience as a Database developer.In-depth understanding of data management (e.g., discovery, analysis, transformation, data quality, security, and monitoring).SQL Tuning techniques to prevent performance degradation and an understanding of how to use the Explain Plan/Query Analyzer/Optimization Tool are required.Knowledge of software development and Agile delivery methodology.Proficiency in working with specific databases like DB2, Oracle & SQL servers.Working knowledge of ETL processes and tools (i.e., Informatica for data extraction, transformation, and loading from various sources into existing databases)Excellent analytical and organizational skills.It is understanding the needs of front-end users and having a problem-solving mindset.Excellent verbal and written communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-29 07:52:16-05:00",
+        "unique_id": "192d88aef9908664",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

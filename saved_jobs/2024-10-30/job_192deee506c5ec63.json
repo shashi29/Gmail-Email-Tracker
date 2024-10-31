@@ -1,0 +1,101 @@
+[
+    {
+        "company": "Source Mantra",
+        "job_title": "Senior Java Developer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 5 years",
+            "degree_required": "Bachelor\u2019s Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "Spring",
+                "Hibernate",
+                "RESTful web services"
+            ],
+            "primary": [
+                "JavaScript",
+                "JSP",
+                "CSS",
+                "HTML",
+                "Angular",
+                "SQL",
+                "AJAX",
+                "jQuery"
+            ],
+            "secondary": [
+                "Multi-threading",
+                "Executor framework",
+                "JBoss",
+                "Apache",
+                "Tomcat",
+                "XML",
+                "XSLT",
+                "JSON",
+                "Web application security",
+                "Cross-browser compatibility",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Attention to detail"
+            ],
+            "all": [
+                "Java",
+                "J2EE",
+                "Spring",
+                "Hibernate",
+                "RESTful web services",
+                "JavaScript",
+                "JSP",
+                "CSS",
+                "HTML",
+                "Angular",
+                "SQL",
+                "AJAX",
+                "jQuery",
+                "Multi-threading",
+                "Executor framework",
+                "JBoss",
+                "Apache",
+                "Tomcat",
+                "XML",
+                "XSLT",
+                "JSON",
+                "Web application security",
+                "Cross-browser compatibility",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Attention to detail"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Malya P",
+        "email": "malya@sourcemantra.com",
+        "jd": "Role: Senior Java Developer\nLocation \u2013 Boston, MA- Only Local Candidates. (Onsite 4 days/week)\nIn-person, interview will be required\nContract role\n\nThe senior Java Developer role is 50% middle-tier Server and 50% presentation tier. Developers are expected to implement requirements from the front end through to the database / OOM layer.\n\nResponsibilities:\n\u2022 Work with Business Analysts to understand requirements and translate them to design\n\u2022 Source code development\n\u2022 Unit test case development\n\u2022 Functional/system integration testing support and Deployment\n\u2022 Integrate component design\n\u2022 Support production as needed and meet development schedules\n\nQualifications:\n\u2022 Bachelor\u2019s Degree\n\u2022 Minimum 5 years of experience developing web-based applications\n\u2022 Minimum 5 years of development experience in Java/J2EE technologies\n\u2022 Experience with multi-threading libraries particularly, the Executor framework\n\u2022 Experience with Spring, Spring MVC, Hibernate, MyBatis\n\u2022 Experience using and implementing RESTful web services\n\u2022 Experience with JBoss, Apache, Tomcat\n\u2022 Experience with Java, JavaScript, JSP, CSS, HTML, Angular\n\u2022 Knowledge of with AJAX techniques and modern JavaScript libraries like jQuery\n\u2022 Knowledge of XML, XSLT, and JSON\n\u2022 Strong understanding of SQL database design and stored procedures\n\u2022 Familiarity with developing cross-browser and cross-platform compatible solutions\n\u2022 Must have good understanding of non-functional requirements (performance, scalability, maintainability, security)\n\u2022 Familiarity with Web application security considerations\n\u2022 Self-motivated and directed, with the ability to effectively prioritize and execute tasks in a high-pressure environment\n\u2022 Analytical and problem-solving abilities, with keen attention to detail\n\u2022 Prior experience developing property & casualty applications a plus",
+        "source": "Email",
+        "date_posted": "2024-10-30 13:18:49-05:00",
+        "unique_id": "192deee506c5ec63",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

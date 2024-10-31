@@ -1,0 +1,81 @@
+[
+    {
+        "company": "1 Point System",
+        "job_title": "Sr java developer",
+        "location": "Boca Raton, FL, USA",
+        "full_location": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Angular"
+            ],
+            "primary": [
+                "GitHub CI/CD",
+                "Rancher",
+                "Kubernetes",
+                "MS-SQL",
+                "Oracle SQL",
+                "DB2",
+                "Azure",
+                "Kafka",
+                "PrimeNG"
+            ],
+            "secondary": [
+                "event management",
+                "supply chain systems",
+                "Agile methodologies"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Angular",
+                "GitHub CI/CD",
+                "Rancher",
+                "Kubernetes",
+                "MS-SQL",
+                "Oracle SQL",
+                "DB2",
+                "Azure",
+                "Kafka",
+                "PrimeNG",
+                "event management",
+                "supply chain systems",
+                "Agile methodologies"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Manpreet Singh",
+        "email": "manpreet.s@1pointsys.com",
+        "jd": "Hi, This side Manpreet Singh from 1point system, Hope you are doing Well, I have a job position for you. Job Description:-Job Role:- Sr java developerLocation :- boca raton, fl ,Blue ash, oh, Charlotte, nc, Portland, or, San jose, ca, Deerfield, il (Hybrid)Contract Description:\u2022 Expertise in Java and related web technologies\u2022 Extensive experience building/deploying services and/or applications using: Java, Spring/Spring Boot, and Angular\u2022 Experience with GitHub CI/CD, and using Rancher to manage Kubernetes cluster(s)\u2022 Experience/familiarity with RDBMS, specifically MS-SQL (Transact-SQL), Oracle SQL (PL/SQL), and DB2 (SQL)\u2022 Experience working with mainframe systems and databases\u2022 Experience with Azure ecosystem\u2022 Experience with Kafka\u2022 Experience with PrimeNG (angular UI library)\u2022 Familiarity with event management or supply chain systems\u2022 Knowledge of Agile software development methodologies",
+        "source": "Email",
+        "date_posted": "2024-10-14 10:27:23-05:00",
+        "unique_id": "1928c07d2604e22d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "company": "American Express",
+        "job_title": "GCP Architect",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "11+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GKE",
+                "GCP",
+                "ETL",
+                "Cloud Networking",
+                "Machine Learning"
+            ],
+            "primary": [
+                "Kubernetes",
+                "OpenShift",
+                "Postgres/SQL",
+                "Git",
+                "Agile Champion",
+                "JIRA",
+                "Rally",
+                "API",
+                "Big Data",
+                "Python"
+            ],
+            "secondary": [
+                "Firewall",
+                "Functional Testing",
+                "Kafka",
+                "Shell",
+                "Terraform",
+                "GitHub",
+                "JavaScript",
+                "Regular Expressions (RegEx)",
+                "Linux/UNIX",
+                "Windows",
+                "Networking",
+                "Storage"
+            ],
+            "all": [
+                "GKE",
+                "GCP",
+                "ETL",
+                "Cloud Networking",
+                "Machine Learning",
+                "Kubernetes",
+                "OpenShift",
+                "Postgres/SQL",
+                "Git",
+                "Agile Champion",
+                "JIRA",
+                "Rally",
+                "API",
+                "Big Data",
+                "Python",
+                "Firewall",
+                "Functional Testing",
+                "Kafka",
+                "Shell",
+                "Terraform",
+                "GitHub",
+                "JavaScript",
+                "Regular Expressions (RegEx)",
+                "Linux/UNIX",
+                "Windows",
+                "Networking",
+                "Storage"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rahul Singh",
+        "email": "rahul.singh@tekinspirations.com",
+        "jd": "From: Rahul Singh, Tek Inspirations LLC rahul.singh@tekinspirations.com Reply to: rahul.singh@tekinspirations.com GCP ArchitectHybrid role at Phoenix/AZ :: 200% Interview (Relocation and Represent Workable)Years of Experience: 11+ years (Must)End Client is American Express & CBTS is the vendorVisa:CITIZEN,GC EAD,GREEN CARD,H4 EAD,OPT EADSkills: GKE, GCP, ETL, Cloud Networking, Machine Learning, Kubernetes, OpenShift, Postgres/SQL, Git, Agile Champion, JIRA, Rally, API, Big Data, Python, Firewall, Functional Testing, Kafka. Strong knowledge of searching logs for troubleshooting and anomaly detectionImplement comprehensive monitoring and logging solutions with GCP Logging and MonitoringMust have strong scripting skills - proficiency in Shell or PythonExperience in configuration management and Infrastructure-as-code using TerraformExperience with Git and GitHub, JavaScript, Regular Expressions (RegEx)Experience with large-scale distributed systems and architecture knowledge (Linux/UNIX and Windows operating systems, networking, storage) in a cloud computing or traditional IT infrastructure environment.Should have understanding of cloud concepts (Storage /compute/network)Proficient in developing and maintaining technical documentation, runbooksAutomating GCP operations using scripting languages like Python or Bash and GCP SDKs or APIs.Setting up and administering databases in GCP, such as Bigtable, Cloud SQL, Cloud Spanner,Developing and maintaining CI/CD pipelines for automated code deployment using Google Cloud Build, Source Repositories, and Container Registry.Working with containers and orchestrating them using Google Kubernetes Engine (GKE), including cluster management and deployment strategies.Optimizing GCP costs and resource usage, providing cost estimates and reports, and implementing cost-saving strategies.Collaborating with development teams to architect and support application deployment strategies that leverage GCP services like App Engine, Cloud Functions, and Cloud Run",
+        "source": "Email",
+        "date_posted": "2024-10-17 13:57:40-05:00",
+        "unique_id": "1929c79cbc37bec8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

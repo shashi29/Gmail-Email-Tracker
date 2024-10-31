@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Coretek",
+        "job_title": "GCP Infra Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP infra background",
+                "design",
+                "architecture",
+                "infrastructure as code development",
+                "cloud provisioning"
+            ],
+            "primary": [
+                "Agile processes",
+                "leading projects",
+                "Foundations projects"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP infra background",
+                "design",
+                "architecture",
+                "infrastructure as code development",
+                "cloud provisioning",
+                "Agile processes",
+                "leading projects",
+                "Foundations projects"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "samuel",
+        "email": "samuel@coretek.io",
+        "jd": "From: samuel, Coretek samuel@coretek.io Reply to: samuel@coretek.io GCP Infra ArchitectUS remote ResponsibilitiesSkill Set Requirements: Must have: GCP infra background. Must have: Contribute to design, architecture, infrastructure as code development.Must have: Experience with repeatable cloud provisioning for multi-tenant environments. Experience with Agile processes. Experience leading projects, preferably Foundations projects.",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:58:54-05:00",
+        "unique_id": "192c48723620136d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

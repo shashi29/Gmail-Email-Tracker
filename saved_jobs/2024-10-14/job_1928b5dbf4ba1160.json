@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Largeton Inc",
+        "job_title": "Application Architect",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "4+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "ASAP through 6/30/25 (expected to extend)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML",
+                "T-SQL"
+            ],
+            "primary": [
+                "Data architecture design principles",
+                "Data governance principles",
+                "Cloud computing concepts",
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft"
+            ],
+            "secondary": [
+                "Microsoft Dynamics 365 Certification",
+                "MS Dynamics Power Platform Certifications",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Customer support"
+            ],
+            "all": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML",
+                "T-SQL",
+                "Data architecture design principles",
+                "Data governance principles",
+                "Cloud computing concepts",
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "Microsoft Dynamics 365 Certification",
+                "MS Dynamics Power Platform Certifications",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Customer support"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Komal Gupta",
+        "email": "komal@largeton.us",
+        "jd": "From: Komal Gupta, Largeton Inc komal@largeton.us Reply to: komal@largeton.us 4+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance. 5+ years of experience in DDL, DML Title :Application Architect Location: Onsite position Tallahassee, FL / local required with dl Client: Florida Department of Children and Families Duration-ASAP through 6/30/25 (expected to extend) Interview: MS TeamsVisa: Green Card & US Citizen*Prior Department of Children and Families client experience will receive preference* Candidate must be presented with 3 manager/client references from the past 3 years Reference contact\u2019s name Organization name Job title held by the candidate while employed or contracted Direct telephone number Email addressResponsibilities: Work with stakeholders and development team to determine project scope and vision, gather and prioritize collected requirements.Designing and Implementing Data Architectures: Develop comprehensive data architectures that support the organization\u2019s business goals, using Azure Synapse Analytics, Azure SQL, and other Azure data services. Managing Dedicated SQL Pools: Efficiently manage and optimize Dedicated SQL Pools in Synapse to handle large-scale data warehousing and analytics workloads. Database Design and Management: Design, implement, and manage databases using Azure SQL and Azure Managed Instance, ensuring high performance, availability, and security. Data Integration and ETL Processes: Develop and manage ETL (Extract, Transform, Load) processes using Synapse Pipelines, ensuring efficient data flow from various sources to the data warehouse. Data Governance and Cataloging: Implement data governance practices and manage the data catalog to ensure data quality, consistency, and accessibility. Building and Maintaining Data Models: Create and maintain data models that accurately represent the data landscape, ensuring they are scalable and optimized for performance. Ensuring Data Security and Compliance: Implement and oversee data security measures, ensuring compliance with legal and regulatory standards. Maintain procedures manuals and system documentation. Research software solutions to support recommendations, analyzing current and future technology trends. Experience:4+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance. 5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling. 4+ years of experience in data architecture design principles, methodologies, and best practices. 3+ years of experience in data governance principles and compliance requirements related to data security and privacy. 3+ years of experience in integrating data from various sources and managing large data pipelines. 2+ years of experience in cloud computing concepts, particularly in Microsoft Azure, including storage solutions and compute capabilities. 1+ years of Experience with programming languages such as Python or Scala. 1+ years of experience in Salesforce, Message MQ, and MuleSoft Strong analytical and problem-solving skills to address complex data challenges. Ability to design and implement robust, scalable, and efficient data architectures. Ability to provide excellent customer support; meticulous quality of work and work product. Education: Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience. (Required) Certifications: Microsoft Dynamics 365 Certification (Desired) and MS Dynamics Power Platform Certifications (Desired) Regards,Komal Gupta | Sr. Technical RecruiterLargeton INC.Herndon, VA 20171Komal@largeton.us",
+        "source": "Email",
+        "date_posted": "2024-10-14 08:34:51-05:00",
+        "unique_id": "1928b5dbf4ba1160",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

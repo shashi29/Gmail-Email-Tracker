@@ -1,0 +1,75 @@
+[
+    {
+        "company": "KK Software Associates",
+        "job_title": "Lead Databricks Data Engineer",
+        "location": "Philadelphia, PA, USA",
+        "full_location": {
+            "city": "Philadelphia",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, a technical field, or a related business discipline. Equivalent experience, certifications, or training will be considered. Master degree preferred",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Cloud technologies",
+                "Data engineering",
+                "Data pipelines",
+                "Agile Methodology"
+            ],
+            "primary": [
+                "Data capture",
+                "Data ingestion",
+                "Data processing",
+                "Technical leadership",
+                "Mentorship"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Analytical skills",
+                "Communication skills"
+            ],
+            "all": [
+                "Databricks",
+                "Cloud technologies",
+                "Data engineering",
+                "Data pipelines",
+                "Agile Methodology",
+                "Data capture",
+                "Data ingestion",
+                "Data processing",
+                "Technical leadership",
+                "Mentorship",
+                "Problem-solving",
+                "Analytical skills",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sushant kumar",
+        "email": "sushant.s@kksoftwareassociates.com",
+        "jd": "From: Sushant kumar, KKSA sushant.s@kksoftwareassociates.com Reply to: sushant.s@kksoftwareassociates.com Lead Databricks Data EngineerPhiladelphia, PARate : $55/hr on C2C we can pay to Candidate Description: We are seeking a skilled and experienced Lead Data Engineer to join our team and take a pivotal role in building, optimizing, and maintaining our data platform. As a technical leader, you will leverage your expertise in cloud technologies and data engineering to ensure high performance and scalability of our data solutions. This position requires a passion for data, a commitment to innovation, and a focus on delivering efficient and effective solutions. Key Responsibilities: Lead a team of data engineers in the development and maintenance of scalable data pipelines for the platform. Optimize data capture, ingestion, and processing workflows to enable advanced analytics, data science, and operational intelligence. Collaborate with Data Platform Architects and ML Engineers to integrate feature stores, manage model deployment, and implement data preparation workflows. Ensure data engineering processes are designed for high performance, scalability, and resource efficiency. Provide technical leadership and mentorship to team members, fostering an environment of continuous improvement and innovation. Design and maintain data pipelines for streaming data, batch processing, and real-time analytics. Implement secure and scalable data capture and ingestion workflows. Support data preparation, exploration, and visualization to facilitate data-driven decision-making. Work closely with other engineering teams to ensure data pipelines are secure, efficient, and aligned with business requirements. Qualifications: Bachelor\u2019s degree in Computer Science, a technical field, or a related business discipline. Equivalent experience, certifications, or training will be considered. Master degree preferred 5+ years of experience in designing and delivering secure cloud solutions. 3+ years of experience with Databricks 2+ years of experience with Agile Methodology Strong problem-solving, analytical, and communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:22:48-05:00",
+        "unique_id": "192b0056e66de44a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Walmart",
+        "job_title": "Data Engineer",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Hadoop",
+                "Spark",
+                "Cloud",
+                "Scala",
+                "Streaming",
+                "Kafka",
+                "SQL",
+                "Data warehousing"
+            ],
+            "primary": [
+                "BI",
+                "Looker Views",
+                "Models",
+                "Explores",
+                "Looks/Charts",
+                "Data Science",
+                "Algorithms",
+                "CI/CD",
+                "Data Modeling",
+                "Airflow"
+            ],
+            "secondary": [
+                "Cloud (GCP/Azure)",
+                "Backend",
+                "Spring",
+                "Python"
+            ],
+            "all": [
+                "Hadoop",
+                "Spark",
+                "Cloud",
+                "Scala",
+                "Streaming",
+                "Kafka",
+                "SQL",
+                "Data warehousing",
+                "BI",
+                "Looker Views",
+                "Models",
+                "Explores",
+                "Looks/Charts",
+                "Data Science",
+                "Algorithms",
+                "CI/CD",
+                "Data Modeling",
+                "Airflow",
+                "Cloud (GCP/Azure)",
+                "Backend",
+                "Spring",
+                "Python"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rick",
+        "email": "rick@deltaclasstech.com",
+        "jd": "From: rick, Deltaclass Technology Solutions rick@deltaclasstech.com Reply to: rick@deltaclasstech.com Data Engineer Sunnyvale, CAOnsite interview USC/GC only on C2C.Job Description:Experience with Hadoop, Spark, Cloud, Scala, Streaming, KafkaSQL / Data warehousingBI and Looker Views, Models, Explores, Looks/ChartsDS and AlgorithmCI/CDData ModelingAirflow\u00b7Knowledge ofCloud (GCP/Azure)Backend, SpringPython",
+        "source": "Email",
+        "date_posted": "2024-10-23 17:30:16-05:00",
+        "unique_id": "192bbe57c1b3c56a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

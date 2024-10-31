@@ -1,0 +1,62 @@
+[
+    {
+        "company": "dimiour.io",
+        "job_title": "Full-Stack Developer",
+        "location": "Redmond, WA, USA",
+        "full_location": {
+            "city": "Redmond",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Azure Functions",
+                "Web API",
+                "SQL",
+                "ASP.NET",
+                "JavaScript",
+                "React"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "C#",
+                "Azure Functions",
+                "Web API",
+                "SQL",
+                "ASP.NET",
+                "JavaScript",
+                "React"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Balaji Kumar",
+        "email": "balaji.kumar@dimiour.io",
+        "jd": "From: Balaji K, dimiour.io balaji.kumar@dimiour.io Reply to: balaji.kumar@dimiour.io Full-Stack DeveloperLocation : Redmond WA (Locals only)ContractKey Skills:C# Azure FunctionsWeb APISQLASP. Net\\Java Script\\React etcHands on Coding RegardsBalaji KumarTeam Lead",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:12:34-05:00",
+        "unique_id": "192c50180183a1cf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

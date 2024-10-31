@@ -1,0 +1,72 @@
+[
+    {
+        "company": "SIRI INFO",
+        "job_title": "VB.NET Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "VB.Net",
+                "C#",
+                "SQL Queries",
+                "RDBMS",
+                "GIT",
+                "GITHUB"
+            ],
+            "primary": [
+                "REST API",
+                "Azure knowledge",
+                ".Net Core",
+                "windows services knowledge"
+            ],
+            "secondary": [
+                "Dev Support Experience",
+                "Rally"
+            ],
+            "all": [
+                "VB.Net",
+                "C#",
+                "SQL Queries",
+                "RDBMS",
+                "GIT",
+                "GITHUB",
+                "REST API",
+                "Azure knowledge",
+                "Rally",
+                ".Net Core",
+                "windows services knowledge"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Danish Iqbal",
+        "email": "danish.iqbal@siriinfo.com",
+        "jd": "Hello Dear,Hope You\u2019re Doing Well!!My name is Danish Iqbal and I am a Staffing Specialist at SIRI INFO. I am reaching out to you on an exciting job opportunity with one of our clients.Job Title: VB.NET Developer Job Location: RemoteJob Duration: Contract Visa:- H1B Job Description:- Must have: VB.Net, C#, SQL Queries, Dev Support Experince, RDBMS, GIT and GITHUBNice to have: REST API, Azure knowledge, Rally, .Net Core, windows services knowledge",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:13:41-05:00",
+        "unique_id": "1929b990d91d5ea3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

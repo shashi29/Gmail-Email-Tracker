@@ -1,0 +1,80 @@
+[
+    {
+        "company": "1Point System LLC",
+        "job_title": "Senior Java Developer",
+        "location": "Boca Raton, FL, USA",
+        "full_location": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Immediate",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Angular"
+            ],
+            "primary": [
+                "GitHub CI/CD",
+                "Rancher",
+                "Kubernetes",
+                "MS-SQL",
+                "Oracle SQL",
+                "DB2",
+                "Azure",
+                "Kafka",
+                "PrimeNG",
+                "Agile"
+            ],
+            "secondary": [
+                "event management",
+                "supply chain systems"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Spring Boot",
+                "Angular",
+                "GitHub CI/CD",
+                "Rancher",
+                "Kubernetes",
+                "MS-SQL",
+                "Oracle SQL",
+                "DB2",
+                "Azure",
+                "Kafka",
+                "PrimeNG",
+                "Agile",
+                "event management",
+                "supply chain systems"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shruti Singh",
+        "email": "shruti.s@1pointsys.com",
+        "jd": "From: shruti, 1 Point System shruti.s@1pointsys.com Reply to: shruti.s@1pointsys.com Hi, This side Shruti Singh from 1point system, Hope you are doing Well, I have a job position for you. Job Description:-Job Role:- Senior Java DeveloperLocation :- Boca Raton, FL, Blue ash, OH, Charlotte, NC, Portland, OR, San Jose, CA, Deerfield, IL (Remote) (eventually turn hybrid)Contract REQUIRED SKILLS \u2022 Expertise in Java and related web technologies\u2022 Extensive experience building/deploying services and/or applications using: Java, Spring/Spring Boot, and Angular\u2022 Experience with GitHub CI/CD, and using Rancher to manage Kubernetes cluster(s)\u2022 Experience/familiarity with RDBMS, specifically MS-SQL (Transact-SQL), Oracle SQL (PL/SQL), and DB2 (SQL)\u2022 Experience working with mainframe systems and databases\u2022 Experience with Azure ecosystem\u2022 Experience with Kafka\u2022 Experience with PrimeNG (angular UI library)\u2022 Familiarity with event management or supply chain systems\u2022 Knowledge of Agile software development methodologies Thanks & Regards Shruti Singh| 1Point System LLC IT RecruiterEmail: shruti.s@1pointsys.com",
+        "source": "Email",
+        "date_posted": "2024-10-14 11:10:34-05:00",
+        "unique_id": "1928bec4ae5e2996",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Intellicept Corporation",
+        "job_title": "AWS Platform Developer",
+        "location": "Hartford, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Computer Engineering, or a technical field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "Terraform"
+            ],
+            "primary": [
+                "CI/CD",
+                "Automated Testing",
+                "Automated Deployments",
+                "Agile methodologies",
+                "Unit Testing",
+                "Integration Testing"
+            ],
+            "secondary": [
+                "Infrastructure as Code",
+                "Jenkins",
+                "CodePipeline",
+                "uDeploy",
+                "GitHub Actions",
+                "Data ingestion pipeline",
+                "Feedback system",
+                "Distributed computing"
+            ],
+            "all": [
+                "AWS",
+                "Python",
+                "Terraform",
+                "CI/CD",
+                "Automated Testing",
+                "Automated Deployments",
+                "Agile methodologies",
+                "Unit Testing",
+                "Integration Testing",
+                "Infrastructure as Code",
+                "Jenkins",
+                "CodePipeline",
+                "uDeploy",
+                "GitHub Actions",
+                "Data ingestion pipeline",
+                "Feedback system",
+                "Distributed computing"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Pinki Kumari",
+        "email": "pinki@intellicept.com",
+        "jd": "From: Pinki Kumari, Intellicept Corporation pinki@intellicept.com Reply to: pinki@intellicept.com AWS Platform DeveloperLocation: / HARTFORD / RemoteC2CExperience Required 10+ YearsUSC/GC/GCEAD/H4EAD/TN/ We are seeking a talented AWS Platform Developer to join our dynamic team. As an AWS Platform Developer, you will play a key role in designing, developing, and maintaining scalable infrastructure solutions on AWS cloud. You should have strong proficiency in Python programming, extensive experience with AWS services, and proficiency with infrastructure-as-code tools such as Terraform. Responsibilities:Design, build, and maintain secure, reliable, and scalable AWS infrastructure using best practices.Ensure code is delivered without vulnerabilities by enforcing engineering practices, code scanning, etc.Build and maintain IAC (terraform/Cloud Formation), CICD (Jenkins) scripts, CodePipeline, uDeploy, & GitHub Actions.Partner with our shared service teams like Architecture, Cloud, Security, etc to design and implement platform solutions.Develop automation scripts and tools for provisioning and managing cloud resources.Design and build the Data ingestion pipeline for Finetuning LLM Models.Create templates (Architecture As Code) implementing Ref architecture application?s topology.Build a feedback system using HITL for Supervised finetuning. Qualifications:Bachelor's degree in Computer Science, Computer Engineering, or a technical field.4+ years of extensive experience with AWS cloud, Python and Terraform.At least 8 years of experience designing and building data-intensive solutions using distributed computing.8+ years building and shipping software and/or platform infrastructure solutions for enterprises.Extensive programming experience with Python.Experience with CI/CD pipelines, Automated Testing, Automated Deployments, Agile methodologies, Unit Testing and Integration Testing tools.Excellent problem-solving and communication skills and the ability to work in a collaborative team environment. Thanks & RegardsPinki KumariTalent AdvisorEmail: pinki@intellicept.comCell:- (848) 999-4581Intellicept Corporation",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:51:13-05:00",
+        "unique_id": "1929bf786cdecd1a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

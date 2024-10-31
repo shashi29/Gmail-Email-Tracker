@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Avance",
+        "job_title": "Azure Logic apps",
+        "location": "USA",
+        "full_location": {
+            "city": "Texas",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Logic apps",
+                "CI/CD pipelines",
+                "Service Bus",
+                "Event Hub",
+                "Azure Functions",
+                "API Gateway",
+                "Azure Data Factory"
+            ],
+            "primary": [
+                "ARM templates",
+                "Azure DevOps",
+                "PowerShell scripts",
+                "YML Pipelines",
+                "Monitoring and logging solutions"
+            ],
+            "secondary": [
+                "Agile Applications Development",
+                "Technical guidance",
+                "Code reviews",
+                "Quality assurance processes",
+                "Performance optimization",
+                "Best practices",
+                "Stakeholder collaboration"
+            ],
+            "all": [
+                "Azure Logic apps",
+                "CI/CD pipelines",
+                "Service Bus",
+                "Event Hub",
+                "Azure Functions",
+                "API Gateway",
+                "Azure Data Factory",
+                "ARM templates",
+                "Azure DevOps",
+                "PowerShell scripts",
+                "YML Pipelines",
+                "Monitoring and logging solutions",
+                "Agile Applications Development",
+                "Technical guidance",
+                "Code reviews",
+                "Quality assurance processes",
+                "Performance optimization",
+                "Best practices",
+                "Stakeholder collaboration"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Bhavya Rapelli",
+        "email": "bhavya.r@avanceservices.com",
+        "jd": "From: Bhavya Rapelli, Avance bhavya.r@avanceservices.com Reply to: bhavya.r@avanceservices.com Azure Logic apps Texas -remote Job Description: Excellent Knowledge of Azure Logic apps ad Integration Services. Strong Experience in azure services like Logic App (standard and Consumption) , Service Bus, Event Hub, Azure Functions, API Gateway, Data Storage Accounts, ARM template, CICD pipelines. Strong Experience with Azure DevOps Board for validating the backlog items. Experience in background in creating pipelines, data flows and complex data Should have knowledge on PowerShell scripts and ARM Template deployments Should have knowledge on YML Pipelines. Should have resolved Merge Conflicts, configured triggers, and queued new builds within the release pipeline. Monitor and analyze the performance of implemented solutions and recommend improvements when necessary. Build and meet project timelines and manage delivery commitments with proper communication to management. Candidates should be flexible willing to work across this delivery landscape which includes and not limited to Agile Applications Development, Support and Deployment. Excellent communication and teamwork skills.Responsibilities: Design, implement, and maintain CI/CD pipelines for Azure Logic Apps using Azure DevOps. Utilize ARM templates or other IaC tools to define and manage Logic App infrastructure. Manage and version Logic App code in source control systems such as Azure Repos or GitHub. Establish and enhance CI processes to ensure automated builds and validations. Implement CD pipelines for seamless and reliable deployment of Logic Apps across environments. Manage environment-specific configurations and parameters for Logic Apps. Integrate monitoring and logging solutions to ensure the health and performance of Logic Apps and track deployments. Implement security measures and adhere to compliance standards throughout the DevOps lifecycle. Collaborate with development, testing, and operations teams to streamline processes and enhance overall efficiency. Identifying and mitigating performance bottlenecks within Logic Apps to ensure efficient and scalable solutions. Creating and maintaining devops documentation, standards, and guidelines. Ensuring that the logic apps comply with relevant industry standards and regulations.Technical Skills Required:Logic App (standard and Consumption), CI/CD pipelines, Service Bus, Event Hub, Azure Functions, API Gateway, Azure Data Factory (1.) To be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity. (2.) To conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization , implementation of best practices and coding standards to ensure succeful delivery of complex projects. (3.) To ensure process compliance in the assigned module, and participate in technical discussionsorreview as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations). (4.) To collaborate with stakeholders to define project scope, objectives, deliverables and accordingly prepare and submit status reports for minimizing exposure and closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-10 10:25:17-05:00",
+        "unique_id": "19277324dcbc3cc9",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Mapout Digitals",
+        "job_title": "Backend Python Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Node.js",
+                "AWS"
+            ],
+            "primary": [
+                "RESTful APIs",
+                "Cloud platforms",
+                "Database management systems",
+                "Version control systems"
+            ],
+            "secondary": [
+                "Containerization",
+                "Orchestration",
+                "Microservices architecture",
+                "CI/CD tools",
+                "Agile methodologies"
+            ],
+            "all": [
+                "Python",
+                "Node.js",
+                "AWS",
+                "RESTful APIs",
+                "Cloud platforms",
+                "Database management systems",
+                "Version control systems",
+                "Containerization",
+                "Orchestration",
+                "Microservices architecture",
+                "CI/CD tools",
+                "Agile methodologies"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Serisha",
+        "email": "serisha.k@mapoutinc.com",
+        "jd": "From: Serisha, Mapout Digitals serisha.k@mapoutinc.com Reply to: serisha.k@mapoutinc.com Hi,Hope you are doing great.Please let me know if you have any suitable profiles. Role - Backend Python DeveloperLocation - Remote Must Have skills - Python , Nodejs , AWS Job Description: As a Backend Developer, you will be responsible for designing, developing, and maintaining backend services and APIs. You will work closely with front-end developers, product managers, and other stakeholders to deliver high-quality software solutions. Your expertise in Python, Node.js, and AWS will play a key role in ensuring our systems are robust and performant.Key Responsibilities:\u2022 Design, develop, and maintain backend services and APIs using Python and Node.js.\u2022 Collaborate with front-end developers to integrate user-facing elements with server-side logic.\u2022 Implement and maintain cloud-based infrastructure using AWS services (e.g., EC2, S3, Lambda, RDS).\u2022 Optimize applications for maximum speed and scalability.\u2022 Write clean, maintainable, and efficient code while following best practices in software development.\u2022 Conduct code reviews and provide constructive feedback to team members.\u2022 Troubleshoot and debug applications, and proactively identify and resolve issues.\u2022 Stay up-to-date with emerging technologies and trends in backend development.Requirements:\u2022 Proven experience as a Backend Developer with a strong understanding of Python and Node.js.\u2022 Familiarity with RESTful APIs and web services.\u2022 Experience with cloud platforms, specifically AWS.\u2022 Experience in Large Scale System Design, API GW, Throttling/Failures/Retry Strategies, Serverless, Lambda, Semantic Cache Management.\u2022 Knowledge of database management systems (SQL and NoSQL).\u2022 Strong problem-solving skills and ability to work collaboratively in a team environment.\u2022 Familiarity with version control systems, preferably Git.\u2022 Excellent communication skills and a passion for technology.Preferred Qualifications:\u2022 Experience with containerization (e.g., Docker) and orchestration (e.g., Kubernetes).\u2022 Knowledge of microservices architecture.\u2022 Familiarity with CI/CD tools and practices.\u2022 Experience in Agile methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-17 10:09:38-05:00",
+        "unique_id": "1929b5e166a609e9",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

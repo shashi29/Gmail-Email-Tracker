@@ -1,0 +1,71 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "AWS Database Specialist",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in computer science, Information Technology, or a related field (or equivalent experience)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS database services",
+                "SQL",
+                "NoSQL databases"
+            ],
+            "primary": [
+                "database performance tuning",
+                "database optimization techniques",
+                "database security best practices",
+                "compliance standards"
+            ],
+            "secondary": [
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "team collaboration"
+            ],
+            "all": [
+                "AWS database services",
+                "SQL",
+                "NoSQL databases",
+                "database performance tuning",
+                "database optimization techniques",
+                "database security best practices",
+                "compliance standards",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "team collaboration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sourabh Singh",
+        "email": "sourabh.singh@tekinspirations.com",
+        "jd": "From: Sourabh Singh, TEK Inspirations LLC sourabh.singh@tekinspirations.com Reply to: sourabh.singh@tekinspirations.com Hi Hope you are Doing Well!!! Position: AWS Database SpecialistLocation: Phoenix, AZ \u2013 HybridDuration: 12 monthsMOI : SkypeJob Description:Bachelor's degree in computer science, Information Technology, or a related field (or equivalent experience). Proven experience with AWS database services and management. AWS Certified Database Specialty or related certification. Strong knowledge of SQL and NoSQL databases. Experience with database performance tuning and optimization techniques. Familiarity with database security best practices and compliance standards. Excellent analytical and problem-solving skills. Strong communication skills, with the ability to work collaboratively in a team environment",
+        "source": "Email",
+        "date_posted": "2024-10-10 17:05:50-05:00",
+        "unique_id": "19278f571a231ae5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

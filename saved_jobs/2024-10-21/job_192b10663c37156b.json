@@ -1,0 +1,70 @@
+[
+    {
+        "company": "TIA INFOTEK",
+        "job_title": "Data Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SNOW SQL",
+                "Python",
+                "Apache Kafka",
+                "Snowflake",
+                "ETL tools"
+            ],
+            "primary": [
+                "data modeling"
+            ],
+            "secondary": [
+                "JavaScript",
+                "APIs",
+                "DataStage"
+            ],
+            "all": [
+                "SNOW SQL",
+                "Python",
+                "Apache Kafka",
+                "Snowflake",
+                "ETL tools",
+                "data modeling",
+                "JavaScript",
+                "APIs",
+                "DataStage"
+            ],
+            "with_experience": [
+                "SNOW SQL",
+                "Python",
+                "Apache Kafka",
+                "Snowflake",
+                "ETL tools"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Anushka Mishra",
+        "email": "anushka.m@tiainfotek.com",
+        "jd": "From: Anushka Mishra, TIA INFOTEK anushka.m@tiainfotek.com Reply to: anushka.m@tiainfotek.com The client seeks a Data Engineer with 12+ years of experience to lead a data load and integration project. The ideal candidate should have strong expertise in SNOW SQL, Python, Apache Kafka for data ingestion, Snowflake for data storage, and ETL tools. They should be proficient in data modeling, The role involves designing and developing data solutions and experience with JavaScript, APIs, and DataStage is a plus. Need to be local in Chicago, there would be a panel interview with Sushil Kumar as well and they have 2 roles to be filled. Strong expertise in SNOWSQL, Python, Apache Kafka, Snowflake,, and ETL tools. JavaScript, APIs, and DataStage is a plus",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:05:20-05:00",
+        "unique_id": "192b10663c37156b",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

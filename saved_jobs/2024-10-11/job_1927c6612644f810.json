@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Shrive Technologies",
+        "job_title": "Java Full stack Developer",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "Spring",
+                "JavaScript",
+                "AWS"
+            ],
+            "primary": [
+                "ECS",
+                "S3",
+                "DDB",
+                "API Gateway",
+                "Data structure",
+                "Algorithms"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "J2EE",
+                "Spring",
+                "JavaScript",
+                "AWS",
+                "ECS",
+                "S3",
+                "DDB",
+                "API Gateway",
+                "Data structure",
+                "Algorithms"
+            ],
+            "with_experience": [
+                "Java (12+ years)",
+                "AWS (12+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "THIVYA JOTHI",
+        "email": "jothi@shrivetechnologies.com",
+        "jd": "ROLE- Fullstack-AWS EngineerLocation-Seattle,WAEXP-12+ YEARS JoOB DESCRIPTION Full stack Engineers Strong coding skillsAWS cloud \u2013 ECS far gate, S3, DDB, API GatewayGood Data & Database skills. Java, J2EE, Spring, Java scriptProblem solving \u2013 Data structure, Algorithms",
+        "source": "Email",
+        "date_posted": "2024-10-11 10:49:31-05:00",
+        "unique_id": "1927c6612644f810",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

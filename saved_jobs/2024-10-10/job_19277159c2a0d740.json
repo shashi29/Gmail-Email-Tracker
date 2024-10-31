@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": "Senior Software Engineer",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Test Driven Development (TDD)",
+                "Behavior Driven Development (BDD)",
+                "Agile",
+                "Continuous Integration (CI)",
+                "Continuous Delivery (CD)"
+            ],
+            "primary": [
+                "Gitflow",
+                "Debugging",
+                "Design Patterns",
+                "API Standards",
+                "Automation",
+                "Virtualization",
+                "Containerization"
+            ],
+            "secondary": [
+                "Python",
+                "Ruby",
+                "Bash",
+                "Perl",
+                "Groovy",
+                "OWASP",
+                "CWE",
+                "SEI CERT",
+                "Infrastructure as Code",
+                "Security Fundamentals"
+            ],
+            "all": [
+                "Java",
+                "Test Driven Development (TDD)",
+                "Behavior Driven Development (BDD)",
+                "Agile",
+                "Continuous Integration (CI)",
+                "Continuous Delivery (CD)",
+                "Gitflow",
+                "Debugging",
+                "Design Patterns",
+                "API Standards",
+                "Automation",
+                "Virtualization",
+                "Containerization",
+                "Python",
+                "Ruby",
+                "Bash",
+                "Perl",
+                "Groovy",
+                "OWASP",
+                "CWE",
+                "SEI CERT",
+                "Infrastructure as Code",
+                "Security Fundamentals"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dimiour Midunsathyaa",
+        "email": "midunsathyaa.subramanian@dimiour.io",
+        "jd": "From: Midunsathyaa, Dimiour midunsathyaa.subramanian@dimiour.io Reply to: midunsathyaa.subramanian@dimiour.io Role Title: Senior Software EngineerLocation: St. Louis, MO [Onsite] Duration: ContractJob description:Must haves-Need minimum 10+ years of experienceHas ability to write secure code in Java languageUnderstands and implements standard branching (e.g., Gitflow) and peer review practices. Move the team towards trunk based developmentHas skills in test driven and behavior driven development (TDD and BDD) to build just enough code and collaborate on the desired functionality. Ability to keep the full testing pyramid healthy - Has skills to author test code with lots of smaller tests followed by few contract tests at service level and fewer journey tests at the integration levelAble to perform debugging and troubleshooting to analyze core, heap, thread dumps and remove coding errorsUnderstands the use of basic design patterns (e.g., factory, adaptor, singleton, composite, observer, strategy, inversion of control)Understands and implements Application Programming Interface (API) standards and cataloging to drive API/service adoption and commercialization and effort estimationExperienced in agile and modern SDLC practices (Scrum/Kanban/Continuous Delivery/DevOps/Quality engineering) and the delivery situations they are used forExperience in Continuous Integration (CI) and Delivery (CD) concepts, and capabilities to support automation, pipelines, virtualization, and containerizationNice to have-Familiar with secure coding standards (e.g., OWASP, CWE, SEI CERT) and vulnerability managementInfrastructure as code and cloud first software development knowledge experience preferred.Has ability to write code (in languages such as Java, Python, Ruby, Bash, Perl, Groovy) to build automation tasks that are repeatable and efficientApply tools (e.g., Sonar, Zally, Checkmarx ) and techniques to scan and measure code quality and anti-patterns as part of development activityUnderstands use cases for advanced design patterns (e.g., service-to-worker, MVC, API gateway, intercepting filter, dependency injection, lazy loading, all from the gang of four) to implement efficient codeSecurity Fundamentals \u2013 SSH, File Transfer Protocol \u2013 SFTP, exposure to reactive system and Microservices.",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:05:04-05:00",
+        "unique_id": "19277159c2a0d740",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

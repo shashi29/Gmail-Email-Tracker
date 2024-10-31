@@ -1,0 +1,100 @@
+[
+    {
+        "company": "Equifax",
+        "job_title": "Sr Java Fullstack Developer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "11 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 to 12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java (5+ years)",
+                "Spring Framework",
+                "Spring Boot",
+                "Angular (5+ years)",
+                "Cloud-Native Application Development"
+            ],
+            "primary": [
+                "JavaScript",
+                "TypeScript",
+                "HTML",
+                "SCSS",
+                "RESTful web services",
+                "Agile development mindset"
+            ],
+            "secondary": [
+                "Bash shell scripting",
+                "Groovy",
+                "Python",
+                "Terraform",
+                "Docker",
+                "Kubernetes",
+                "ETL/ELT experience",
+                "Hadoop",
+                "HDFS",
+                "Spark",
+                "PySpark",
+                "Flink",
+                "GraphQL",
+                "Reactive application development",
+                "Multi-tenant applications"
+            ],
+            "all": [
+                "Java (5+ years)",
+                "Spring Framework",
+                "Spring Boot",
+                "Angular (5+ years)",
+                "Cloud-Native Application Development",
+                "JavaScript",
+                "TypeScript",
+                "HTML",
+                "SCSS",
+                "RESTful web services",
+                "Agile development mindset",
+                "Bash shell scripting",
+                "Groovy",
+                "Python",
+                "Terraform",
+                "Docker",
+                "Kubernetes",
+                "ETL/ELT experience",
+                "Hadoop",
+                "HDFS",
+                "Spark",
+                "PySpark",
+                "Flink",
+                "GraphQL",
+                "Reactive application development",
+                "Multi-tenant applications"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kevin Smith",
+        "email": "kevin@navtechusa.com",
+        "jd": "Job Title : Java Fullstack Developer\nLocation : Alpharetta, GA, 5 Day Onsite/Week\nDuration : 6 to 12+ Months\nNeed local to GA F2F Interview Required\nClient is looking experience required, minimum 11 Years\nPassport number is mandatory at the time of submsision for H1/EAD applcants\n\nJob Description:\nSeeking an experienced, resourceful, full stack engineer who can adapt and hit the ground running with minimal supervision. This individual will be passionate about end-user experience and best-in-class engineering excellence and will be part of a tight-knit, distributed engineering team developing and delivering a comprehensive data operations management solution for Equifax's Data Fabric Platform.\n\nData Fabric is a GCP cloud-native modern data management platform which allows Equifax to acquire and curate data, provide entity resolution, and ingest into a single environment. It is deployed globally in multiple regions, highly secured and complies with regional and internal regulatory controls with strict governance and oversight. Business units, Data Scientists and many other stakeholders use APIs to consume data managed by the Data Fabric and operate data exchanges to monetize data through B2B and B2C channels.\n\nData operations management solution consists of:\n\u00b7 A web portal UI/UX that provides a single point of access to all data management and data reliability engineering\n\u00b7 A suite of backend API services that services the UI and integrates with low-level Data Fabric and other third-party system APIs\n\u00b7 Modern data lakehouse (data lake, data warehouse, batch and streaming ELT pipelines)\n\nThe data operations roadmap envisions a set of rich management capabilities, including:\n\u00b7 Serves a large community of geographically dispersed data operations stakeholders\n\u00b7 Data quality and observability management to detect, alert, and prevent data anomalies\n\u00b7 Troubleshooting, triaging and resolving data and data pipeline issues\n\u00b7 OLAP, batch and streaming big data processing, and BI reporting\n\u00b7 MLOps\n\u00b7 Real-time dashboards, alerting and notifications, case management, user/group management, AuthZ, and many other foundational capabilities\n\nTech Stack\n\u00b7 Frontend: Angular 17+, JavaScript, TypeScript, HTML, SCSS, Webpack Module Federation, Tailwinds CSS, Angular Material, Angular Elements\n\u00b7 Backend: Java (JDK 17+), Spring Framework 6.X.X, Spring Boot 3.X.X, NestJS 10.X.X, REST and GraphQL microservices, NodeJS\n\u00b7 Tools & Frameworks: Nx build management, Monorepo architecture, Jenkins CI/CD, Fortify, Sonar, GitHub\n\u00b7 Cloud & Data: GCP (GKE, Composer + Airflow, Dataflow + Apache Beam, BigQuery, BigTable, Firestore, GCS, PubSub, Vertex AI), Terraform, Helm Charts, GitOps\n\u00b7 Other Technologies: Websockets, SSE, event-driven architecture\n\nEnvironment\n\u00b7 Culture: Fast-paced, creative, results-oriented\n\u00b7 Team Structure: Agile, working in 2-week sprints using Aha and Jira for project management\n\u00b7 Expectations: Self-starters who can work independently with limited guidance, delivering solutions that end-users value and love\n\nResponsibilities\n\u00b7 End-to-End Development: Design, develop, test, deploy, and operate software applications, covering both frontend and backend\n\u00b7 Cross-Functional Work: Collaborate with global teams to integrate with existing internal systems and GCP cloud\n\u00b7 Issue Resolution: Triage and resolve product or system issues, ensuring quality and performance\n\u00b7 Documentation: Write technical documentation, support guides, and run books\n\u00b7 Agile Practices: Participate in sprint planning, retrospectives, and other agile activities\n\u00b7 Compliance: Ensure software meets secure development guidelines and engineering standards\n\nMust-Have Skills\n\u00b7 Cloud-Native Application Development: Experience with GCS or AWS\n\u00b7 Java Expertise: 5+ years with Java (JDK 17+), Spring Framework, Spring Boot\n\u00b7 Frontend Development: 5+ years with Angular, JavaScript, TypeScript, modern responsive web applications\n\u00b7 Architecture Knowledge: Understanding of modular systems, performance, scalability, security\n\u00b7 Agile Experience: Agile development mindset and experience\n\u00b7 Service-Oriented Architecture: Knowledge of RESTful web services, JSON, AVRO\n\u00b7 Application Troubleshooting: Debugging, performance tuning, production support\n\u00b7 Test-Driven Development: Unit, integration, and load testing experience\n\u00b7 Documentation Skills: Strong written and verbal communication\n\nNice-to-Have Skills\n\u00b7 Linux/Unix: Bash shell scripting\n\u00b7 Scripting Languages: Groovy, Python\n\u00b7 Infrastructure as Code: Experience with Terraform\n\u00b7 Containerization & Orchestration: Docker, Kubernetes\n\u00b7 Cloud Certification: Relevant certifications in cloud technologies\n\nWhat could set you apart?\n\u00b7 Big Data Processing: ETL/ELT experience; Hadoop, HDFS, Spark, PySpark, Flink or similar experience\n\u00b7 GraphQL: Experience with GraphQL\n\u00b7 Reactive Development: Experience with reactive application development\n\u00b7 Distributed Application Development: Experience with multi-tenant applications",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:48:37-05:00",
+        "unique_id": "192dde78d98d8477",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

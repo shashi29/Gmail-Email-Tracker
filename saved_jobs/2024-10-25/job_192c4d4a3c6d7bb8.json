@@ -1,0 +1,74 @@
+[
+    {
+        "company": "American Express",
+        "job_title": "Cloud Database Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "DB certifications in cloud Platforms \u2013 AWS and/or GCP",
+                "Proven experience as a database engineer with hands on experience on relational databases",
+                "Experience in designing and implementing database GDHA, HA, DR, and fault tolerant DB architectures",
+                "DB provisioning automation, monitoring, and maintenance using scripting languages",
+                "Experience in database security including encryption, access controls, Active Directory"
+            ],
+            "primary": [
+                "Hands on experience on relational databases (Cloud SQL, AlloyDB, Spanner, Aurora, Postgres, Oracle)",
+                "Hands on experience on NoSQL databases (Cassandra, MongoDB, DynamoDB, Firestore, Bigtable)",
+                "Familiarity with DevOps practices and tools for continuous integration and deployment (CI/CD)"
+            ],
+            "secondary": [
+                "DB provisioning automation",
+                "Monitoring and maintenance using infrastructure-as-code tools (Terraform/AWS Cloud Formation)",
+                "Health monitoring and alerting techniques",
+                "Troubleshooting"
+            ],
+            "all": [
+                "DB certifications in cloud Platforms \u2013 AWS and/or GCP",
+                "Proven experience as a database engineer with hands on experience on relational databases",
+                "Experience in designing and implementing database GDHA, HA, DR, and fault tolerant DB architectures",
+                "DB provisioning automation, monitoring, and maintenance using scripting languages",
+                "Experience in database security including encryption, access controls, Active Directory",
+                "Hands on experience on relational databases (Cloud SQL, AlloyDB, Spanner, Aurora, Postgres, Oracle)",
+                "Hands on experience on NoSQL databases (Cassandra, MongoDB, DynamoDB, Firestore, Bigtable)",
+                "Familiarity with DevOps practices and tools for continuous integration and deployment (CI/CD)",
+                "DB provisioning automation",
+                "Monitoring and maintenance using infrastructure-as-code tools (Terraform/AWS Cloud Formation)",
+                "Health monitoring and alerting techniques",
+                "Troubleshooting"
+            ]
+        },
+        "job_type": [
+            "remote",
+            "onsite"
+        ],
+        "contact_person": "Deepsikha",
+        "email": "deepsikha@agamaamerica.com",
+        "jd": "From: Deepsikha, Agama Consulting Group deepsikha@agamaamerica.com Reply to: deepsikha@agamaamerica.com Hi,Hope you are doing well.Please let me know your interest in the below role-Cloud Database EngineerLocation: Phoenix, AZ \u2013 6 Months Remote then OnsiteDuration: 6 months NO H1B, No CPT & No TN Help chart the course for database technology at American Express! We need top technical talent to supplement our Database Engineering team. This team selects the operational database technologies American Express will use, and figures out how best to set them up. We define, design, implement, test, and communicate the architectures, configurations, best practices, and standards for optimal use of database technologies across the company, both on-prem and public cloud. We evaluate new database versions, product enhancements, features, components and extensions for performance, throughput, scalability, availability, monitoring, and security; and we partner with our hosting, database administration, and operational support teams to operationalize and harden database technology for our top-tier financial applications. This specific posting is for a software/infrastructure engineer with experience in integrating, deploying and running relational and/or NoSQL databases in AWS and/or GCP. The candidate will put these skills to use by evaluating and preparing new and upgraded cloud database offerings offerings for use across Amex, and by documenting, presenting and explaining the appropriate techniques, patterns and best practices for their use to our application development, database administration, and operational support teams. The candidate will bring solid knowledge of DBMS concepts such as ACID, CAP and consistency. The ideal candidate will have experience with enterprise-scale cloud database deployments, including intra- and inter-data-center high availability configurations, fault tolerance and failover, replication, cluster management, automated provisioning, upgrade techniques, backup & restoration techniques, security mechanisms, health monitoring and alerting techniques, and troubleshooting. Top skills & qualifications: DB certifications in cloud Platforms \u2013 AWS and/or GCPProven experience as a database engineer with hands on experience on relational databases (Cloud SQL, AlloyDB, Spanner, Aurora, Postgres, Oracle) and/or NoSQL databases (Cassandra, MongoDB, DynamoDB, Firestore, Bigtable)Experience in designing and implementing database GDHA, HA, DR, and fault tolerant DB architectures DB provisioning automation, monitoring, and maintenance using scripting languages (Ansible, Python) and infrastructure-as-code tools (Terraform/AWS Cloud Formation) Experience in database security including encryption, access controls, Active Directory, RBAC, and compliance standardsFamiliarity with DevOps practices and tools for continuous integration and deployment (CI/CD) Day-to-day activities: Jira is used for project management DB Engineering team meets on a daily basis to review progress on assigned tasks (see job description for roles and responsibilities) Working independently and with team members with new DB technology and integrated services in AWS and GCP Defining, testing, and documenting standards and best practices, developing runbooks, providing training to developers and DB support teams for new cloud DB technologies, features, and integrated services Best RegardsDeepshikhaDeepsikha@agamaamerica.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 12:23:34-05:00",
+        "unique_id": "192c4d4a3c6d7bb8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "company": "Georgia Department of Human Services (DHS)",
+        "job_title": "Senior Software Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "SQL",
+                "JUnit"
+            ],
+            "primary": [
+                "Microservices",
+                "Agile methodologies",
+                "GitHub",
+                "CI/CD",
+                "AWS"
+            ],
+            "secondary": [
+                "Java 17",
+                "PostgreSQL",
+                "Oracle",
+                "Mockito",
+                "TestNG",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "Spring MVC",
+                "Spring Data",
+                "Spring Security",
+                "Spring Batch",
+                "JSP",
+                "Key Cloak",
+                "OAuth2.0",
+                "JWT",
+                "SAML/SSO"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "SQL",
+                "JUnit",
+                "Microservices",
+                "Agile methodologies",
+                "GitHub",
+                "CI/CD",
+                "AWS",
+                "Java 17",
+                "PostgreSQL",
+                "Oracle",
+                "Mockito",
+                "TestNG",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "Spring MVC",
+                "Spring Data",
+                "Spring Security",
+                "Spring Batch",
+                "JSP",
+                "Key Cloak",
+                "OAuth2.0",
+                "JWT",
+                "SAML/SSO"
+            ],
+            "with_experience": [
+                "Java (7+ years)",
+                "Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Batch)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sharad Kumar",
+        "email": "sharad@predicaz.com",
+        "jd": "From: Sharad Kumar, Predicaz sharad@predicaz.com Reply to: sharad@predicaz.com Requisition DetailsTitle/Role: GA DHS - Senior Software DeveloperRequisition Class: PROGAN : Programmer Analyst 1 Region Name: State of Georgia Region Description: State of Georgia Start Date: 11/21/2024 Worksite Address: 47 Trinity Ave SW, Atlanta, GA 30334 Agency Interview Type: Web Cam Interview Only Work Arrangement: Hybrid Short Description:The Georgia Department of Human Services (DHS), Office of Information Technology, is seeking a qualified candidate for a contractor staffing position for a Senior Software Developer on Georgia\u2019s Child Welfare technical team in Atlanta, Georgia. Complete Description: Job Responsibilities\u00b7Develop and maintain Java-based applications using core Java and advanced Java (Java 17).\u00b7Design and implement microservices using Spring Boot and other relevant frameworks.\u00b7Build and consume RESTful APIs and web services.\u00b7Integrate with databases, ensuring performance optimization (e.g., SQL databases like PostgreSQL, Oracle).\u00b7Write unit and integration tests using JUnit, TestNG, Mockito, or other testing frameworks.\u00b7Develop SQL queries and analyze data to support application development and production issues.\u00b7Implement object-oriented design principles and patterns for scalable and maintainable codebases.\u00b7Ensure adherence to clean code principles and write reusable, modular code.\u00b7Troubleshoot and debug Java applications, ensuring optimal performance and security.\u00b7Participate in code reviews and provide constructive feedback to peers.\u00b7Follow Agile methodologies (Scrum) and participate in sprints, daily stand-ups.\u00b7Use version control systems like GitHub for source code management.\u00b7Implement and manage CI/CD pipelines using GitHub Actions.\u00b7Collaborate with DevOps teams for cloud deployment and infrastructure management (AWS).\u00b7Design, configure, and implement Spring Batch jobs for processing large datasets and scheduling tasks.\u00b7Implement dynamic web pages and views using JSP (Java Server Pages).\u00b7Design and implement authentication and authorization mechanisms using Key Cloak for identity and access management, ensuring secure communication through OAuth2.0 and JWT tokens.\u00b7Leverage SAML/SSO integration for single sign-on and authentication.Experience and Technical Skills Required\u00b7Seven (7) years of experience in Java and modern technologies.\u00b7Previous experience using-Java (Java 17+) features such as records, sealed classes, switch expressions, pattern matching, and enhanced performance improvements-Node 16+-ServiceNow, Splunk, Dynatrace-Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Batch)",
+        "source": "Email",
+        "date_posted": "2024-10-24 10:51:55-05:00",
+        "unique_id": "192c1c0a94b0c8e4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

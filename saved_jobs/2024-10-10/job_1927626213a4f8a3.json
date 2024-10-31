@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Data Engineer",
+        "location": "Wolfe City, TX, USA",
+        "full_location": {
+            "city": "Wolfe City",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "PL/SQL",
+                "Hadoop",
+                "Pyspark"
+            ],
+            "primary": [
+                "Data Analysis",
+                "Documentation",
+                "Troubleshooting"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "Python",
+                "PL/SQL",
+                "Hadoop",
+                "Pyspark",
+                "Data Analysis",
+                "Documentation",
+                "Troubleshooting"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pradeep Sharma",
+        "email": "pradeep.sharma@scalable-systems.com",
+        "jd": "From: Pradeep, Scalable Systems pradeep.sharma@scalable-systems.com Reply to: pradeep.sharma@scalable-systems.com Hi,Greetings of the day! I have an urgent requirement below, please go through JD and let me know if you are comfortable or have any profile. Kindly revert me back with your updated resume as well. Job Title: Data Engineer Location: Wolfe City, TX (Work from Office)Duration: Long Term Contract Responsibilities:DocumentationReverse engineer the code/process and document it in a specific format (Data Dictionary/Source to Target Mapping document).Individual will perform a broad range of data processing and analysis to support the project activities.Individual should be able to:o Decipher the python codes and SQL to understand how the data is tied together.o Carry out the data analysis; communicate the results verbally and in a deck to a technical and non-technical audience.o Work with large set of data? Have experience using SQL and Python for data reporting purposes.The consultant also needs to have experience SQL querying and python/Pyspark skills.Strong PL/SQL, Hadoop, Python/Pyspark experience.Experience with troubleshooting code.Will be responsible for the analysis, design, debugging and documentation of applications to satisfy the requirements of one or more user areas. Thanks & Regards, Pradeep SharmaEmail: pradeep.sharma@scalable-systems.com \"Scalable Systems is an Equal Opportunity Employer. We are committed to creating an inclusive environment for all employees and do not discriminate based on race, color, religion, sex, national origin, age, disability, or any other legally protected status.",
+        "source": "Email",
+        "date_posted": "2024-10-10 05:41:54-05:00",
+        "unique_id": "1927626213a4f8a3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

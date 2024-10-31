@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Yochana IT",
+        "job_title": "GCP Data Architect",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Data Architecture",
+                "GCP",
+                "BigQuery",
+                "SQL"
+            ],
+            "primary": [
+                "Data Integration",
+                "Data Modeling",
+                "IRIS",
+                "Python",
+                "Java",
+                "Scala"
+            ],
+            "secondary": [
+                "Quality Assurance",
+                "Process Improvement",
+                "Technical Design",
+                "Stakeholder Management",
+                "Risk Management"
+            ],
+            "all": [
+                "Data Engineering",
+                "Data Architecture",
+                "GCP",
+                "BigQuery",
+                "SQL",
+                "Data Integration",
+                "Data Modeling",
+                "IRIS",
+                "Python",
+                "Java",
+                "Scala",
+                "Quality Assurance",
+                "Process Improvement",
+                "Technical Design",
+                "Stakeholder Management",
+                "Risk Management"
+            ],
+            "with_experience": [
+                "GCP (2+ years)",
+                "Data Engineering (8+ years)",
+                "Data Architecture (8+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pavan Kumar",
+        "email": "pavank@yochana.com",
+        "jd": "From: Pavan Kumar, Yochana IT pavank@yochana.com Reply to: pavank@yochana.com\n\nSkills Required:\n\n8+ years of experience in data engineering or data architecture, with at least 2 years in a GCP environment.\n\nData Integration:\nDevelop and implement ETLELT processes to ingest data from various sources into BigQuery, ensuring data quality and integrity.\n\nGCP Expertise:\nStrong knowledge of Google Cloud services, especially BigQuery, Dataflow, Cloud Storage, and PubSub.\n\nSQL Proficiency:\nProficient in SQL and experience with optimizing complex queries in BigQuery.\n\nData Modeling:\nExperience in data modeling techniques and best practices for data warehousing.\n\nIRIS:\n2+ years of hands on experience in solutioning IRIS Integrations.\n\nProgramming Skills:\nProficiency in programming languages such as Python, Java, or Scala for data manipulation and automation.\n\nSoft Skills:\n(1.) To oversee quality assurance processes, ensuring adherence to coding standards, implementation of best practices and perform Value creation and KM activities.\n(2.) To ensure process improvement and compliance| and participate in technical design discussion and to review technical documents.\n(3.) Responsible for shaping the overall project strategy working closely with stakeholders to define project scope, objectives, deliverables and keeping track of schedule to ensure on time delivery as per the defined quality standards.\n(4.) To work closely with the development team, On-site Engineers to understand technical requirements and work with them to address and resolve technical issues.\n(5.) Identify & flag potential risks and issues that may impact project timelines or quality, develop mitigation strategies / contingency plans to address risks and provide regular project updates to key stakeholders.",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:34:11-05:00",
+        "unique_id": "192ddf92ba20d7b1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

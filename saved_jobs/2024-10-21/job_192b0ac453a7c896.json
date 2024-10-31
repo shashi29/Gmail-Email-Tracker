@@ -1,0 +1,88 @@
+[
+    {
+        "company": "TDS/CDK Global",
+        "job_title": "Azure Cloud Migration Consultant",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "DOE"
+        },
+        "skills": {
+            "core": [
+                "Azure App Services",
+                "Azure Functions",
+                "Azure SQL Database",
+                ".NET Core",
+                "Kubernetes (AKS)"
+            ],
+            "primary": [
+                "Docker",
+                "Terraform",
+                "Azure DevOps",
+                "SQL Server",
+                "Azure Cosmos DB"
+            ],
+            "secondary": [
+                "ASP.NET Core",
+                "Entity Framework",
+                "RESTful API development",
+                "CI/CD",
+                "Azure AD",
+                "RBAC",
+                "VNet",
+                "ExpressRoute",
+                "Azure Security Center",
+                "cost management tools"
+            ],
+            "all": [
+                "Azure App Services",
+                "Azure Functions",
+                "Azure SQL Database",
+                ".NET Core",
+                "Kubernetes (AKS)",
+                "Docker",
+                "Terraform",
+                "Azure DevOps",
+                "SQL Server",
+                "Azure Cosmos DB",
+                "ASP.NET Core",
+                "Entity Framework",
+                "RESTful API development",
+                "CI/CD",
+                "Azure AD",
+                "RBAC",
+                "VNet",
+                "ExpressRoute",
+                "Azure Security Center",
+                "cost management tools"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sai Teja",
+        "email": "saiteja.a@aspiredsolutions.com",
+        "jd": "Role: Azure Cloud Migration Consultant\nLocation: Remote\nRate: DOE\nClient: TDS/CDK Global\n\nLead the cloud migration of .NET-based SaaS applications to Azure, with a focus on Azure App Services, Azure Functions, and Azure SQL Database.\nDevelop cloud migration roadmaps for customer-facing portals and backend services, ensuring scalability, availability, and resilience.\nDesign hybrid or multi-cloud architectures when needed, ensuring smooth data and service integration.\n\nApplication Modernization & .NET Expertise\nModernize legacy .NET applications by transitioning to .NET Core or .NET 6/7, optimizing for cloud-native architectures.\nGuide the adoption of microservices and containerization using Docker and Kubernetes (AKS) for scalable, modular services.\nImplement serverless architectures (Azure Functions) for event-driven processes, decoupling services for improved agility and performance.\n\nData Migration & Modernization\nLead SQL Server data migration from on-premises to Azure SQL Database or Managed Instances, ensuring data consistency, minimal downtime, and optimal performance.\nModernize existing SQL Server stored procedures, refactoring them for cloud optimization, scalability, and compatibility with Azure SQL environments.\nOptimize database performance through indexing, partitioning, and query tuning using tools like Azure SQL Performance Insights.\nImplement cloud-native data solutions like Azure Cosmos DB for unstructured data and high-velocity analytics, leveraging modern data platforms.\n\nPerformance Tuning & Scalability\nEnsure high performance and low latency for customer-facing portals using Azure Front Door, CDNs, and caching solutions like Redis.\nImplement proactive monitoring and scaling mechanisms with Azure Monitor, Application Insights, and auto-scaling features to handle traffic spikes.\nEstablish end-to-end monitoring and observability, ensuring real-time performance optimization and troubleshooting capabilities.\n\nCost Optimization\nDrive cost-efficiency by utilizing PaaS solutions such as Azure App Services, Azure Functions, and SQL Managed Instances, reducing overhead.\nRegularly audit and right-size cloud resources using Azure Cost Management, optimizing the use of compute, storage, and networking.\nImplement Reserved Instances, Spot VMs, and scaling policies to balance cost and performance for predictable workloads.\n\nAutomation, DevOps & Infrastructure as Code\nLead the creation of CI/CD pipelines for .NET applications using Azure DevOps, automating deployments, testing, and monitoring across environments.\nAutomate cloud infrastructure provisioning using Terraform, ARM templates, or Bicep, ensuring consistency in environment setup.\nIntroduce DevSecOps practices, embedding security in CI/CD pipelines and leveraging tools like Azure Security Center for continuous monitoring.\n\nCloud Security & Governance\nEnsure security compliance through Azure AD, Role-Based Access Control (RBAC), and Azure Key Vault for managing application secrets and credentials.\nImplement industry-standard security protocols for the SaaS platform, adhering to compliance frameworks such as SOC 2, GDPR, and NIST.\nDesign secure networking solutions using Azure Virtual Networks (VNets), VPN Gateways, and ExpressRoute for secure, high-performance connectivity.\n\nCross-Team Collaboration & Stakeholder Management\nCollaborate with backend engineers, DevOps teams, and product managers to align cloud strategies with business objectives.\nProvide leadership in cloud adoption, offering mentorship on cloud-native practices and automation to internal teams.",
+        "source": "Email",
+        "date_posted": "2024-10-21 14:25:39-05:00",
+        "unique_id": "192b0ac453a7c896",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

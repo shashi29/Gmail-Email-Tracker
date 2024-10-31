@@ -1,0 +1,88 @@
+[
+    {
+        "company": "iTech US, Inc.",
+        "job_title": "Java Developer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "MongoDB"
+            ],
+            "primary": [
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFormation",
+                "API Gateway",
+                "CloudWatch",
+                "DynamoDB",
+                "ECS",
+                "EKS",
+                "Fargate"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Automated Testing",
+                "Security Best Practices",
+                "Disaster Recovery",
+                "X-Ray"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "MongoDB",
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFormation",
+                "API Gateway",
+                "CloudWatch",
+                "DynamoDB",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "CI/CD",
+                "Automated Testing",
+                "Security Best Practices",
+                "Disaster Recovery",
+                "X-Ray",
+                "Advanced Java Concepts",
+                "Core Java"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sowmyasri Sistla",
+        "email": "sowmya.s@itechus.net",
+        "jd": "From: Sowmyasri, ITECH sowmya.s@itechus.net Reply to: sowmya.s@itechus.net Hi,Greetings from iTech US, Please go through the below requirement and let me know your interest. Role: Java DeveloperLocation : McLean, VA (onsite)ContractPreferred Locals for F2F Interview Must : 12+ years Role Description:Should be very good in AWS services - EC2, S3, EMR, Lambda, Cloud watch and more.Java with Microservice ,Mongo DB experience.Design, develop, and deploy web applications using AWS services such as EC2, S3, Lambda, and DynamoDBDevelop and maintain serverless architectures using AWS services such as API Gateway, CloudFormation, and CloudWatchCreate and maintain automated deployment pipelines using AWS Code Pipeline and CodeBuildDesign and develop RESTful APIs using AWS API Gateway and Lambda? Develop and maintain automated testing frameworks using AWS services such as CodeBuild and Code DeployDesign and develop cloud-native applications using AWS services such as ECS, EKS, and FargateDevelop and maintain cloud infrastructure using AWS services such as CloudFormation and CloudWatchMonitor and troubleshoot application performance using AWS services such as CloudWatch and X-RayDevelop and maintain security best practices for AWS services such as IAM, KMS, and CloudTrailDevelop and maintain CI/CD pipelines using AWS services such as Code Pipeline and CodeBuildDesign and develop serverless applications using AWS services such as Lambda and Step FunctionsDevelop and maintain automated backup and disaster recovery solutions using AWS services such as EBS and S3Advanced Java Concepts, Core Java Please share your updated resume along with current location details: Thanks,Sowmyasri SistlaEmail : sowmya.s@itechus.netiTech US, Inc. https://www.linkedin.com/in/sri-s-8795a9168/",
+        "source": "Email",
+        "date_posted": "2024-10-14 10:25:37-05:00",
+        "unique_id": "1928bc3884108b7e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

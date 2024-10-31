@@ -1,0 +1,100 @@
+[
+    {
+        "company": "Navtech Inc",
+        "job_title": "Sr Java Fullstack Developer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "11 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 to 12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java (JDK 17+)",
+                "Spring Framework",
+                "Spring Boot",
+                "Angular",
+                "JavaScript",
+                "TypeScript"
+            ],
+            "primary": [
+                "Cloud-Native Application Development",
+                "Service-Oriented Architecture",
+                "Application Troubleshooting",
+                "Test-Driven Development",
+                "Documentation Skills"
+            ],
+            "secondary": [
+                "Linux/Unix",
+                "Groovy",
+                "Python",
+                "Terraform",
+                "Docker",
+                "Kubernetes",
+                "ETL/ELT",
+                "Hadoop",
+                "HDFS",
+                "Spark",
+                "PySpark",
+                "Flink",
+                "GraphQL",
+                "Reactive Development",
+                "Distributed Application Development"
+            ],
+            "all": [
+                "Java (JDK 17+)",
+                "Spring Framework",
+                "Spring Boot",
+                "Angular",
+                "JavaScript",
+                "TypeScript",
+                "Cloud-Native Application Development",
+                "Service-Oriented Architecture",
+                "Application Troubleshooting",
+                "Test-Driven Development",
+                "Documentation Skills",
+                "Linux/Unix",
+                "Groovy",
+                "Python",
+                "Terraform",
+                "Docker",
+                "Kubernetes",
+                "ETL/ELT",
+                "Hadoop",
+                "HDFS",
+                "Spark",
+                "PySpark",
+                "Flink",
+                "GraphQL",
+                "Reactive Development",
+                "Distributed Application Development"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kevin Smith",
+        "email": "kevin@navtechusa.com",
+        "jd": "From: Kevin Smith, Navtech Inc kevin@navtechusa.com Reply to: kevin@navtechusa.com Hi Folks,My name is Kevin Smith and I am a Staffing Specialist at Navtech USA. I have an open opportunity that you may be a good fit for. If this sounds like something you would be interested in, please get in touch with me as soon as possible at kevin@navtechusa.com with your most recent resume, your ideal time and number for communication, and the expected pay rate.Job Title : Java Fullstack DeveloperLocation : Alpharetta, GA, 5 Day Onsite/WeekDuration : 6 to 12+ MonthsNeed local to GA F2F Interview RequiredClient is looking experience required, minimum 11 YearsPassport number is mandatory at the time of submsision for H1/EAD applcantsJob Description:Seeking an experienced, resourceful, full stack engineer who can adapt and hit the ground running with minimal supervision. This individual will be passionate about end-user experience and best-in-class engineering excellence and will be part of a tight-knit, distributed engineering team developing and delivering a comprehensive data operations management solution for Equifax's Data Fabric Platform.Data Fabric is a GCP cloud-native modern data management platform which allows Equifax to acquire and curate data, provide entity resolution, and ingest into a single environment. It is deployed globally in multiple regions, highly secured and complies with regional and internal regulatory controls with strict governance and oversight. Business units, Data Scientists and many other stakeholders use APIs to consume data managed by the Data Fabric and operate data exchanges to monetize data through B2B and B2C channels.Data operations management solution consists of:\u00b7 A web portal UI/UX that provides a single point of access to all data management and data reliability engineering\u00b7 A suite of backend API services that services the UI and integrates with low-level Data Fabric and other third-party system APIs \u00b7 Modern data lakehouse (data lake, data warehouse, batch and streaming ELT pipelines) The data operations roadmap envisions a set of rich management capabilities, including:\u00b7 Serves a large community of geographically dispersed data operations stakeholders\u00b7 Data quality and observability management to detect, alert, and prevent data anomalies\u00b7 Troubleshooting, triaging and resolving data and data pipeline issues\u00b7 OLAP, batch and streaming big data processing, and BI reporting\u00b7 MLOps\u00b7 Real-time dashboards, alerting and notifications, case management, user/group management, AuthZ, and many other foundational capabilitiesTech Stack\u00b7 Frontend: Angular 17+, JavaScript, TypeScript, HTML, SCSS, Webpack Module Federation, Tailwinds CSS, Angular Material, Angular Elements\u00b7 Backend: Java (JDK 17+), Spring Framework 6.X.X, Spring Boot 3.X.X, NestJS 10.X.X, REST and GraphQL microservices, NodeJS\u00b7 Tools & Frameworks: Nx build management, Monorepo architecture, Jenkins CI/CD, Fortify, Sonar, GitHub\u00b7 Cloud & Data: GCP (GKE, Composer + Airflow, Dataflow + Apache Beam, BigQuery, BigTable, Firestore, GCS, PubSub, Vertex AI), Terraform, Helm Charts, GitOps\u00b7 Other Technologies: Websockets, SSE, event-driven architectureEnvironment\u00b7 Culture: Fast-paced, creative, results-oriented\u00b7 Team Structure: Agile, working in 2-week sprints using Aha and Jira for project management\u00b7 Expectations: Self-starters who can work independently with limited guidance, delivering solutions that end-users value and loveResponsibilities\u00b7 End-to-End Development: Design, develop, test, deploy, and operate software applications, covering both frontend and backend\u00b7 Cross-Functional Work: Collaborate with global teams to integrate with existing internal systems and GCP cloud\u00b7 Issue Resolution: Triage and resolve product or system issues, ensuring quality and performance\u00b7 Documentation: Write technical documentation, support guides, and run books\u00b7 Agile Practices: Participate in sprint planning, retrospectives, and other agile activities\u00b7 Compliance: Ensure software meets secure development guidelines and engineering standardsMust-Have Skills\u00b7 Cloud-Native Application Development: Experience with GCS or AWS\u00b7 Java Expertise: 5+ years with Java (JDK 17+), Spring Framework, Spring Boot\u00b7 Frontend Development: 5+ years with Angular, JavaScript, TypeScript, modern responsive web applications\u00b7 Architecture Knowledge: Understanding of modular systems, performance, scalability, security\u00b7 Agile Experience: Agile development mindset and experience\u00b7 Service-Oriented Architecture: Knowledge of RESTful web services, JSON, AVRO\u00b7 Application Troubleshooting: Debugging, performance tuning, production support\u00b7 Test-Driven Development: Unit, integration, and load testing experience\u00b7 Documentation Skills: Strong written and verbal communicationNice-to-Have Skills\u00b7 Linux/Unix: Bash shell scripting\u00b7 Scripting Languages: Groovy, Python\u00b7 Infrastructure as Code: Experience with Terraform\u00b7 Containerization & Orchestration: Docker, Kubernetes\u00b7 Cloud Certification: Relevant certifications in cloud technologiesWhat could set you apart?\u00b7 Big Data Processing: ETL/ELT experience; Hadoop, HDFS, Spark, PySpark, Flink or similar experience\u00b7 GraphQL: Experience with GraphQL\u00b7 Reactive Development: Experience with reactive application development\u00b7 Distributed Application Development: Experience with multi-tenant applications Thanks for your valuable time!!! Best Regards, Kevin Smith | kevin@navtechusa.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:34:54-05:00",
+        "unique_id": "192c4a815b7b6832",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

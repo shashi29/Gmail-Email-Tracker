@@ -1,0 +1,53 @@
+[
+    {
+        "company": "Teamware Solutions",
+        "job_title": "AWS Engineer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Service",
+                "AWS Devops",
+                "Terraform"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "AWS Service",
+                "AWS Devops",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bharath",
+        "email": "bharath.n@twsol.com",
+        "jd": "From: Nithiya Bharath, Teamware solutions bharath.n@twsol.com Reply to: bharath.n@twsol.com Hi This is Bharath from Teamware solutions.Hope you are doing well.This email is regarding a job opportunity, Hope I reached the perfect candidate.______________________________________________________________________________________Below is the Job Description for your referenceAWS EngineerNew York, NYOnsite ContractRequired:1. 3 day must required inperson for New York Office.2. Experience in AWS Service 3. AWS Devops and Terraform Experience for Deployments with AWS ecosystem.Key: AWS Service, AWS Devops and TerraformPlease you're interested please reply with the most updated resume to my email address below.email: bharath.n@twsol.comRegards,BharathExecutive - Talent acquisition Teamware Solutions Inc |8951 Cypress Waters Blvd, Suite #1092, Dallas Texas 75019email: bharath.n@twsol.com",
+        "source": "Email",
+        "date_posted": "2024-10-17 09:34:43-05:00",
+        "unique_id": "1929b1c78771b3b2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

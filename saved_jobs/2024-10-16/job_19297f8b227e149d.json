@@ -1,0 +1,58 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "Data Engineer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Coding",
+                "SCALA",
+                "SPARK",
+                "Databricks"
+            ],
+            "primary": [
+                "Agile"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL Coding",
+                "SCALA",
+                "SPARK",
+                "Databricks",
+                "Agile"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "John Papatla",
+        "email": "john.p@siriinfo.com",
+        "jd": "From: John Papatla, siri info solutions.inc john.p@siriinfo.com Reply to: john.p@siriinfo.com Hello,Hope you are doing well!! Greeting from Siri Info Solutions.I am John with Siri Info Solutions. We Siri Info Solutions is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have an immediate opening for the below position with one of our premium clients. Title: Data EngineerLocation: Houston, TX (Hybrid) Duration: Long Term Contract Must Haves: SQL Coding (Lead, Group Functions)SCALA SPARKDatabricksAgile",
+        "source": "Email",
+        "date_posted": "2024-10-16 17:39:31-05:00",
+        "unique_id": "19297f8b227e149d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

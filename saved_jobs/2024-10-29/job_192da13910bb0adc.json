@@ -1,0 +1,87 @@
+[
+    {
+        "company": "ITech US INC",
+        "job_title": "Python Developer",
+        "location": "Toronto, Canada",
+        "full_location": {
+            "city": "Toronto",
+            "state": "",
+            "country": "Canada"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Microservice Architecture Pattern",
+                "NoSQL Databases",
+                "Scripting Languages",
+                "Quality Engineering"
+            ],
+            "primary": [
+                "Fast API",
+                "Django",
+                "Flask",
+                "API development",
+                "UI development",
+                "GIT",
+                "SVN",
+                "Bitbucket"
+            ],
+            "secondary": [
+                "Amazon ECS",
+                "MongoDB",
+                "Oracle",
+                "ETL",
+                "Kafka",
+                "Kubernetes",
+                "Front-End Development",
+                "Financial Services"
+            ],
+            "all": [
+                "Python",
+                "Microservice Architecture Pattern",
+                "NoSQL Databases",
+                "Scripting Languages",
+                "Quality Engineering",
+                "Fast API",
+                "Django",
+                "Flask",
+                "API development",
+                "UI development",
+                "GIT",
+                "SVN",
+                "Bitbucket",
+                "Amazon ECS",
+                "MongoDB",
+                "Oracle",
+                "ETL",
+                "Kafka",
+                "Kubernetes",
+                "Front-End Development",
+                "Financial Services"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Manasa Salla",
+        "email": "manasa.s@itechus.net",
+        "jd": "From: Manasa Salla, ITech US INC manasa.s@itechus.net Reply to: manasa.s@itechus.net Python DeveloperToronto /Mississauga Canada Job requirement:We are seeking a talented and experienced Python Developer to join our dynamic team. In this role, you will take ownership of key projects across all phases of the Software Development Life Cycle (SDLC), including analysis, design, development, testing, and deployment. The ideal candidate will have a robust background in Python development and experience with various web frameworks and technologies. Key Responsibilities:- Design and develop high-quality, scalable, and efficient Python applications and services.- Implement RESTful and microservices architecture.- Design and develop Python-based streaming and batch jobs.- Maintain and optimize relational and non-relational databases.- Collaborate closely with end-users to gather requirements and tailor design solutions.- Ensure code quality, performance, and adherence to best practices.- Participate in the full deployment process using continuous integration and continuous deployment (CI/CD). Required Qualifications:- Proven experience as a Python Developer with expertise in web frameworks like Fast API, Django, or Flask.- Competency in API development and exposure to UI development.- Strong understanding of both relational and non-relational databases.- Familiarity with microservices architecture.- Excellent skills in version control tools like GIT, SVN, and Bitbucket.- Ability to write shell and batch programs.- Strong problem-solving and communication skills.- Experience in the financial services industry is a plus. Nice to have:- Proficient in using Amazon ECS (Elastic Container Services) and experience with MongoDB or Oracle.- Experience in Python-based streaming (ETL/Kafka).- Experience with Kubernetes (k8's).- Experience or exposure to UI development.",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:17:38-05:00",
+        "unique_id": "192da13910bb0adc",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Netonics inc",
+        "job_title": "Python Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s Degree in Computer Science, Computer/ Software Engineering or similar.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "SQL",
+                "Mongo DB"
+            ],
+            "primary": [
+                "Java",
+                "Agile Methodologies",
+                "Devops",
+                "Kafka",
+                "Elasticsearch",
+                "KDB/Q"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Django",
+                "SQL",
+                "Mongo DB",
+                "Java",
+                "Agile Methodologies",
+                "Devops",
+                "Kafka",
+                "Elasticsearch",
+                "KDB/Q"
+            ],
+            "with_experience": [
+                "Django",
+                "SQL",
+                "Mongo DB"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Atiya",
+        "email": "atiya.s@netonicsinc.com",
+        "jd": "From: Atiya, Netonics inc atiya.s@netonicsinc.com Reply to: atiya.s@netonicsinc.com Job Title: Python Developer NO OPT CPT AND H-1B LOCAL TO NYCLocation: 750 Seventh Ave, NYCNOTE FINAL ROUND WILL BE FACE TO FACE Must have Financial/ Trading background Architect level exp req Skills \u00b7 Bachelor\u2019s Degree in Computer Science, Computer/ Software Engineering or similar.\u00b7 Highly experienced in django\u00b7 Experience in Java preferred.\u00b7 Highly experienced in database technologies: SQL, Mongo DB.\u00b7 Knowledge of Agile Methodologies and Devops practicesKnowledge of Kafka, Elasticsearch, KDB/Q preferred. Job Responsibilities:\u00b7 Designing highly scalable core and web applications using best practices.\u00b7 Developing high performance middle tier systems\u00b7 Developing REST services\u00b7 Interact with Business to understand complex business requirements.\u00b7 Translate complex business requirements into robust technical implementation\u00b7 Developing application codes and unit tests\u00b7 Ensuring high performance of applications and providing support.",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:17:33-05:00",
+        "unique_id": "192b480773bdd6ab",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

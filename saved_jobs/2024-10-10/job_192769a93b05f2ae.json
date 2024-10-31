@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Northite",
+        "job_title": "Big Data Developer with AWS",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Data Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "ETL",
+                "Hadoop",
+                "Spark",
+                "Hive"
+            ],
+            "primary": [
+                "AWS Glue",
+                "AWS Kinesis",
+                "AWS S3",
+                "SQL",
+                "NoSQL"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "Machine Learning",
+                "Data Visualization",
+                "Tableau",
+                "Power BI"
+            ],
+            "all": [
+                "AWS",
+                "ETL",
+                "Hadoop",
+                "Spark",
+                "Hive",
+                "AWS Glue",
+                "AWS Kinesis",
+                "AWS S3",
+                "SQL",
+                "NoSQL",
+                "Docker",
+                "Kubernetes",
+                "Machine Learning",
+                "Data Visualization",
+                "Tableau",
+                "Power BI"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Ajay",
+        "email": "ajay.p@northite.com",
+        "jd": "Overview: We are seeking a highly skilled Big Data Developer with a strong foundation in AWS to join our team. The ideal candidate will have experience designing, developing, and implementing scalable big data solutions using AWS technologies. You will be responsible for extracting, transforming, and loading (ETL) large datasets, building data pipelines, and creating data-driven insights. Responsibilities: Design, develop, and maintain scalable big data architectures and solutions on the AWS platform. Develop ETL pipelines using AWS services such as AWS Glue, AWS Kinesis, and AWS S3. Build data lakes and data warehouses using AWS technologies. Implement data quality and governance best practices. Collaborate with data scientists and analysts to deliver valuable insights. Troubleshoot and optimize big data systems for performance and efficiency. Stay up-to-date with the latest trends and technologies in the big data and cloud computing space. Qualifications: Bachelor's degree in Computer Science, Data Engineering, or a related field. 3+ years of experience as a Big Data Developer or a similar role. Strong proficiency in AWS services such as EC2, S3, EMR, Redshift, Glue, Kinesis, and Lambda. Experience with big data frameworks like Hadoop, Spark, and Hive. Knowledge of SQL and NoSQL databases. Excellent problem-solving and analytical skills. Ability to work independently and as part of a team. Strong communication and interpersonal skills. Preferred Qualifications: Certification in AWS Certified Big Data - Specialty. Experience with containerization technologies (Docker, Kubernetes). Knowledge of machine learning and data science concepts. Experience with data visualization tools (Tableau, Power BI).",
+        "source": "Email",
+        "date_posted": "2024-10-10 07:45:45-05:00",
+        "unique_id": "192769a93b05f2ae",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

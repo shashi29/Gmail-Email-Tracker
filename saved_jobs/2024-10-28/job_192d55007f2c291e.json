@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Executive Office of Health & Human Services",
+        "job_title": "Data Warehouse Developer",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "BS in Computer Science or related degree, or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Oracle",
+                "Snowflake",
+                "Informatica IICS",
+                "AWS"
+            ],
+            "primary": [
+                "Data Warehouse applications",
+                "Airflow",
+                "Cloud architectures",
+                "Python",
+                "Shell scripting"
+            ],
+            "secondary": [
+                "PL/SQL",
+                "Perl",
+                "System administration",
+                "Database administration",
+                "Storage architectures",
+                "Backup & recovery",
+                "Networking",
+                "GitHub"
+            ],
+            "all": [
+                "SQL",
+                "Oracle",
+                "Snowflake",
+                "Informatica IICS",
+                "AWS",
+                "Data Warehouse applications",
+                "Airflow",
+                "Cloud architectures",
+                "Python",
+                "Shell scripting",
+                "PL/SQL",
+                "Perl",
+                "System administration",
+                "Database administration",
+                "Storage architectures",
+                "Backup & recovery",
+                "Networking",
+                "GitHub"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Prasun Srivastav",
+        "email": "prasun.srivastava@gvrinfotek.com",
+        "jd": "From: Prasun Srivastav, Tek Inspirations prasun.srivastava@gvrinfotek.com Reply to: prasun.srivastava@gvrinfotek.com Hi , Hope you are doing great. Please have a look at the Job Description and let me know your view. Job Description: Position: Data Warehouse DeveloperExecutive Office of Health & Human Services (State of MA)Location: Quincy, MA/HybridLocal Only from MA, NH or RI and must have recent client exp from these locations.Duration: 12+ Months Video Interview LinkedIn with profile photo Client Job Description \u2022 Understand and translate business requirements into Data Warehouse solutions.\u2022 Create data models and designs to meet specific business needs that require sourcing data from multiple source systems.\u2022 Has the ability to mentor other technical staff in cloud technologies at all levels of understanding and can adjust the message accordingly.\u2022 Assists in identifying, planning, and migration of on-premises data solutions suitable for migration to the cloud. \u2022 Code Oracle, Snowflake or IICS ETL scripts that will transform data from an operational database and populate to various targets.\u2022 Document design using industry standards.\u2022 Capable of monitoring and optimizing data processing and storage performance with cloud environments. This includes identifying bottlenecks, tuning and optimizing queries, and recommending architectural changes to improve efficiency.\u2022 Provide query writing support and tuning expertise to analysts and end users.\u2022 Develop shell/Python scripts for production job automation.\u2022 Work in a 24x7 environment which requires on-call rotation. QUALFICATIONS: Preferred Knowledge, Skills & Abilities: \u2022 5+ years of experience in database development including analysing, designing, documenting, coding, testing, and implementing primarily SQL code.\u2022 Thorough knowledge of Data Warehouse applications on AWS.\u2022 Experience working with Airflow.\u2022 Exceptional Oracle/Snowflake SQL skills\u2022 Hands on experience with Cloud architectures.\u2022 Strong problem solving and analytical skills.\u2022 Proficiency in Informatica IICS\u2022 Understand the concepts of version control and use of GitHub.\u2022 Experience working with a large, multi-terabyte data warehouse.\u2022 BS in Computer Science or related degree, or equivalent experience\u2022 Medicaid or other healthcare or claims processing experience\u2022 Experienced in Oracle SQL skills and PL/SQL skills.\u2022 Experience with Perl, system administration, database administration, storage architectures, backup & recovery, and networking EDUCATION AND CERTIFICATIONS: \u2022 BS in Computer Science, Information Technology or an equivalent combination of education and work experience required.\u2022 Amazon Web Services (AWS) Cloud Certification and AWS Certified Solutions Preferred\u2022 Snowflake Certification Preferred\u2022 Informatica IICS Certification Preferred",
+        "source": "Email",
+        "date_posted": "2024-10-28 16:34:15-05:00",
+        "unique_id": "192d55007f2c291e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

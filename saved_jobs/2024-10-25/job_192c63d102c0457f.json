@@ -1,0 +1,89 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Snowpark",
+                "SnowSQL",
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "Database concepts",
+                "Data warehouse concepts",
+                "Performance tuning",
+                "Stored procedures",
+                "ETL",
+                "ELT",
+                "DBT",
+                "Airflow",
+                "Astronomer",
+                "Qlik"
+            ],
+            "secondary": [
+                "Agile development methodology",
+                "Data Quality",
+                "Integration testing",
+                "Cloud platforms",
+                "AWS",
+                "Azure",
+                "FIS"
+            ],
+            "all": [
+                "Snowflake",
+                "Snowpark",
+                "SnowSQL",
+                "SQL",
+                "Python",
+                "Database concepts",
+                "Data warehouse concepts",
+                "Performance tuning",
+                "Stored procedures",
+                "ETL",
+                "ELT",
+                "DBT",
+                "Airflow",
+                "Astronomer",
+                "Qlik",
+                "Agile development methodology",
+                "Data Quality",
+                "Integration testing",
+                "Cloud platforms",
+                "AWS",
+                "Azure",
+                "FIS"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "From: rajkumar, NITYA Software Solutions Inc. rajkumar.v@nityainc.com Reply to: rajkumar.v@nityainc.com Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: Data EngineerExperienced in snowflake Snowpark, SnowSQL, Database and Datawarehouse conceptsExtensive experience with complex SQL queries, performance tuning, and stored procs /functionsPerform ELT/ETL development involving complex data transformation, pivot tables, and complex calculatorsExposure to DBT, Airflow, Astronomer and QlikExperienced in Python programming languageExposure to Agile development methodology and a great team player in scrum teamsExperience delivering, and supporting a Snowflake based data warehouse application in production is a plusAssist the Investment Data Platform team in building various Data Marts sourced from Data Lakes. Familiarity with multiple cloud platforms is a plus, as source data could originate from AWS, Azure, or FIS cloud environmentsThoroughly test all programming work, and any changes introduced to the Production environment, ensuring Data Quality. Coordinate with Product Managers/QA and perform integration testing as neededThank you,RajkumarEMAIL ID:rajkumar.v@nityainc.comNITYA Software Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-25 18:57:16-05:00",
+        "unique_id": "192c63d102c0457f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

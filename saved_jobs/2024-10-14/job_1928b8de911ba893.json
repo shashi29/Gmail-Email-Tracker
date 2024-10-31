@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Teamware solutions",
+        "job_title": "Developer",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "6-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "Angular",
+                "AWS"
+            ],
+            "primary": [
+                "APIs",
+                "Junit",
+                "Design Knowledge",
+                "Banking experience",
+                "Good Communication skills"
+            ],
+            "secondary": [
+                "Web technologies",
+                "Cucumber",
+                "DevOps",
+                "version controlling tools",
+                "Maven",
+                "Jenkins",
+                "Git",
+                "svn",
+                "Attunity",
+                "Bit bucket",
+                "Bamboo",
+                "CI/CD pipelines",
+                "SQL",
+                "Integrating Rest APIs"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "Angular",
+                "AWS",
+                "APIs",
+                "Junit",
+                "Design Knowledge",
+                "Banking experience",
+                "Good Communication skills",
+                "Web technologies",
+                "Cucumber",
+                "DevOps",
+                "version controlling tools",
+                "Maven",
+                "Jenkins",
+                "Git",
+                "svn",
+                "Attunity",
+                "Bit bucket",
+                "Bamboo",
+                "CI/CD pipelines",
+                "SQL",
+                "Integrating Rest APIs"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Gowri Shankar",
+        "email": "shankar.r@twsol.com",
+        "jd": "From: Gowri Shankar, Teamware solutions shankar.r@twsol.com Reply to: shankar.r@twsol.com Posted On:Oct-14-2024Role name:DeveloperRole Description:? Building and managing public and private cloud infrastructure with AWS, EC2 and S3 resources? Deploying and Automating AWS environment application using Cloud formation Template (CFT) scripts and created stack sets for deploying into different regions? Developing APIs for consuming AWS cloud resource using the SDKs? Developing scripts for using AWS Lambda to migrate and capture the change data for Legacy systems to DynamoDB? Writing complex parallel streams and filters to refine the data for effectively handling the client search? Design, develop and provide guidance on implementing microservices and unit testing using REST/Jersey frameworks? Support production environment? Reviewing the code, design and providing expertise in the development and integration of systemsCompetencies:Digital : Amazon Web Service(AWS) Cloud Computing, Digital : Spring Boot, Angular 13+, Core JavaExperience (Years):6-8Essential Skills:Java, Microservices, Spring boot, Angular, other UI technologies, AWS, Junit, Design Knowledge, Banking experience, Good Communication skills.Desirable Skills:? Min 8+ yrs hands on experience in Java / J2EE/ Web technologies? Must have hands on experience in Spring boot, Microservices? Must have experience on Rest APIs development? Must have experience in AWS S3, EC2, DynamoDB, SNS, SQS, CloudWatch, Lambda? Must have hands on experience in Junit, Cucumber ? Experience using DevOps, version controlling tools and repositories (Maven, Jenkins, Git, svn, Attunity, Bit bucket, Bamboo etc.)? Must have hands on experience in CI/CD pipelines, SQL? Experience in integrating Rest APIsCountry:United StatesBranch | City | Location:TCS - Iselin, NJ(South)MalvernMalvern, PAKeywords:Java, Spring Boot, Angular, AWS, Microservices, APIs",
+        "source": "Email",
+        "date_posted": "2024-10-14 09:27:15-05:00",
+        "unique_id": "1928b8de911ba893",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Analytics Solutions",
+        "job_title": "Python Developer",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "NoSQL",
+                "Terraform",
+                "Apache Kafka"
+            ],
+            "primary": [
+                "AWS",
+                "Google Cloud",
+                "Microsoft Azure",
+                "Linux",
+                "Unix"
+            ],
+            "secondary": [
+                "Agile",
+                "Lean",
+                "Critical Thinking",
+                "Problem Solving",
+                "Clear Communication"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "NoSQL",
+                "Terraform",
+                "Apache Kafka",
+                "AWS",
+                "Google Cloud",
+                "Microsoft Azure",
+                "Linux",
+                "Unix",
+                "Agile",
+                "Lean",
+                "Critical Thinking",
+                "Problem Solving",
+                "Clear Communication"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Suresh M",
+        "email": "sureshm@analyticssol.com",
+        "jd": "From: Suresh, Analytics Solutions sureshm@analyticssol.com Reply to: sureshm@analyticssol.com Detailed Job Description: Title: Python DeveloperLocation: Jersey City, NJ 07310Duration: 6 MonthsPython Developer,Must Need PP number for I94 copy ,Jersey City, NJ 07310-Hybrid RoleAbout The Role:\u2022 Application architecture and design patterns\u2022 Understanding or have experience with agile and lean philosophies\u2022 Strong critical thinking and problem-solving skills with clear communication\u2022 Experience with Private Cloud and Public Cloud Platforms like AWS, Google Cloud and Microsoft Azure.\u2022 Experience with Linux/Unix environments\u2022 Experience with SQL and NoSQL Databases\u2022 Terraform\u2022 Apache Kafka __ __Thanks & RegardsSURESH M|| Sr Technical Recruiter600 Eagleview Blvd, Suite 375, Exton, PA 19341 (Fax)484-341-8538 || Email: sureshm@analyticssol.com www.analyticssol.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:13:25-05:00",
+        "unique_id": "192c104cbc752335",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

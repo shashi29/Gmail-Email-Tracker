@@ -1,0 +1,58 @@
+[
+    {
+        "company": "TEK Inspirations",
+        "job_title": "Cloud Database Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Information Technology, or a related field (or equivalent experience)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle",
+                "Amazon Aurora PostgreSQL",
+                "Terraform",
+                "Python"
+            ],
+            "primary": [],
+            "secondary": [
+                "cloud environments",
+                "infrastructure automation",
+                "scripting"
+            ],
+            "all": [
+                "Oracle",
+                "Amazon Aurora PostgreSQL",
+                "Terraform",
+                "Python",
+                "cloud environments",
+                "infrastructure automation",
+                "scripting"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Vaibhav Raghuvanshi",
+        "email": "vaibhav.raghuvanshi@tekinspirations.com",
+        "jd": "From: Vaibhav Raghuvanshi, TEK Inspirations vaibhav.raghuvanshi@tekinspirations.com Reply to: vaibhav.raghuvanshi@tekinspirations.com Hi,Hope you are doing great!!!Please share suitable profile and mention JOB. Job Description -Role: Cloud Database Engineer We are seeking an experienced Cloud Database Engineer skilled in Oracle, Aurora PostgreSQL, Terraform, and Python to join our team. This role is responsible for designing, implementing, and managing cloud-native database solutions, ensuring high availability, security, and optimal performance. The ideal candidate has a solid background in database management in cloud environments, as well as infrastructure automation and scripting to streamline deployments and maintenance. Responsibilities:1. Database Design & Managemento Design and manage highly available, scalable databases using Oracle and Amazon Aurora PostgreSQL.o Develop and maintain database schemas, indexes, and views to support application requirements.o Monitor database performance, optimize query efficiency, and ensure system security and data integrity.2. Cloud Infrastructure & Automationo Use Terraform to define, deploy, and manage infrastructure as code, ensuring consistent database provisioning and configuration across environments.o Collaborate with DevOps to integrate database provisioning with CI/CD pipelines.o Scripting & OptimizationWrite scripts in Python to automate routine tasks, such as backups, scaling, data migration, and recovery procedures.Implement monitoring and alerting for database environments using scripting or third-party tools.Qualifications:Education: Bachelor\u2019s degree in computer science, Information Technology, or a related field (or equivalent experience).Experience:7+ years in database engineering or a similar role.Proficiency in Oracle and Amazon Aurora PostgreSQL.Hands-on experience with Terraform for infrastructure automation.Strong Python scripting abilities for automation and integration tasks.Technical Skills:Familiarity with cloud environments, preferably AWS. Regards,Vaibhav",
+        "source": "Email",
+        "date_posted": "2024-10-28 23:09:45-05:00",
+        "unique_id": "192d6972e3a53878",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

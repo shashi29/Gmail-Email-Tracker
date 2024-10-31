@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "SQL Server DBA",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "4 years",
+            "degree_required": "4 year college degree or equivalent technical study",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server DBA",
+                "Microsoft SQL Server",
+                "Database Management",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "Ansible",
+                "Jenkins",
+                "Nexis",
+                "Mavin",
+                "Bitbucket",
+                "Kony Mobile",
+                "Nginx"
+            ],
+            "secondary": [
+                "Technical Documentation",
+                "Project Management",
+                "Client Communication",
+                "Troubleshooting",
+                "Team Coordination"
+            ],
+            "all": [
+                "SQL Server DBA",
+                "Microsoft SQL Server",
+                "Database Management",
+                "Performance Tuning",
+                "Ansible",
+                "Jenkins",
+                "Nexis",
+                "Mavin",
+                "Bitbucket",
+                "Kony Mobile",
+                "Nginx",
+                "Technical Documentation",
+                "Project Management",
+                "Client Communication",
+                "Troubleshooting",
+                "Team Coordination"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "From: Vinita Singh, Tek Inspirations vinita.singh@tekinspirations.com Reply to: vinita.singh@tekinspirations.com Job Description -Urgent Role !SQL Server DBARemote-Remote but candidate must local or in OhioLocation: Columbus, Ohio-Only Ohio candidatesUpdated LinkedIn Visa: USC, GC, GC EAD, H4 EAD, OPT EADState client of OH The SQL Server DBA will be responsible for managing Microsoft SQL Server Database environments including on the SQL Server databases virtual machine (VM) servers. They will ensure best practices in database planning, design, configuration, performance and capacity planning and growth ensuring our SQL databases offer the highest reliability and performance possible. They will work with the DBA ITM1 to ensure that team goals and metrics are met. Will also work with project management to support and ensure timely and effective client communications about deployments and upgrades. =Should be able to provide DBA support for distributed servers in a multi-datacenter environment. Virtualized Infrastructure running various Unix, Linux, and AIX operating systems.Support DevOps tools (Ansible, Jenkins, Nexis, Mavin, Bitbucket, Kony Mobile, Nginx etc.)Monitor daily activities and performance of complex SQL environment, analyzes technical problems, recommend adjustments, creates, and implements approved solutions using established tools and techniques.Provide technical assistance to the application development area and co-workers about SQL design and programming.Configures SQL services (e.g. security, JDBC, clusters). Plans, installs, and coordinates SQL Server releases, migrations, upgrades, and maintenance. Build new environments as needed to support applications.Coordinating with the teams of network, IIS administrators and storage groups for SQL server-based configurations.Develop technical documents, project plans and tasks, interact with customers for proposed solutions.Provide non-production and production support for deploying code and assist in trouble shooting and resolving application issues.Any other tasks assigned by the management team based on project/application needs.Provide technical Tier III support, develops project plans with project manager, or recommends approach through defining tasks.Leading meetings relating to design, implementation, operation, and ongoing maintenance of databases systems. SkillRequired / DesiredAmountNumber of years4 year college degree or equivalent technical studyRequired4 Experience as SQL Server DBARequired9 Seeking an experienced SQL Server DBA with managing the MS SQL Server environments including the DB VM serversRequired SQL Server DBA certification is preferredHighly desired Thanks and Regards, Vinita SinghTechnical RecruiterTEK Inspirations LLC | 13573 Tabasco Cat Trail, Frisco, TX 75035E: vinita.singh@tekinspirations.com Contact No-+ 469-205-(6817)",
+        "source": "Email",
+        "date_posted": "2024-10-15 12:09:22-05:00",
+        "unique_id": "192917907a1c3e84",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

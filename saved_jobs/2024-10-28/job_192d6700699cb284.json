@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Teamware solutions",
+        "job_title": "Azure Engineer",
+        "location": "Rockville, MD, USA",
+        "full_location": {
+            "city": "Rockville",
+            "state": "MD",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Proven experience as an Azure Engineer or similar role with a strong focus on cloud migrations.",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "VMware",
+                "PowerShell",
+                "Python",
+                "Bash"
+            ],
+            "primary": [
+                "VMware ESXi",
+                "vCenter",
+                "vSphere",
+                "Azure Virtual Machines",
+                "Azure Site Recovery",
+                "Azure Migrate"
+            ],
+            "secondary": [
+                "Operating system administration",
+                "Virtualization technologies",
+                "Network structures",
+                "Problem-solving",
+                "Communication",
+                "Teamwork"
+            ],
+            "all": [
+                "Azure",
+                "VMware",
+                "PowerShell",
+                "Python",
+                "Bash",
+                "VMware ESXi",
+                "vCenter",
+                "vSphere",
+                "Azure Virtual Machines",
+                "Azure Site Recovery",
+                "Azure Migrate",
+                "Operating system administration",
+                "Virtualization technologies",
+                "Network structures",
+                "Problem-solving",
+                "Communication",
+                "Teamwork"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nithiya Bharath",
+        "email": "bharath.n@twsol.com",
+        "jd": "From: Nithiya Bharath, Teamware solutions bharath.n@twsol.com Reply to: bharath.n@twsol.com Hi Hope you are doing well.This email is regarding a job opportunity, Hope I reached the perfect people.______________________________________________________________________________________Below is the Job Description for your referenceAzure EngineerRockville,MD / Urbana, MDOnsite ContractRole Description:As an Azure Engineer in our Program Catalyst initiative, you will play a pivotal role in migrating our on-premises VMware virtual environments to Azure. This position requires deep expertise in both VMware and Azure platforms, focusing on efficiently moving and rebuilding operating systems in the cloud to optimize performance and scalability. Key Responsibilities:- Design and implement migration strategies to transfer on-premises VMware virtual machines to Microsoft Azure.Rebuild and configure operating systems and applications to ensure optimal performance in the Azure environment.Develop automation tools and scripts to streamline the migration and setup processes.Work closely with IT infrastructure teams to ensure seamless integration of migrated systems with existing Azure services.Monitor the migrated systems, troubleshoot any issues, and ensure the stability and efficiency of operations.Prepare detailed documentation on migration processes and system configurations.Provide technical guidance and training to team members and stakeholders on Azure solutions.Stay updated with the latest developments in Azure and VMware technologies and implement best practices in system architecture and security. Requirements:- Bachelor\u2019s degree in Computer Science, Information Technology, or related field.Proven experience as an Azure Engineer or similar role with a strong focus on cloud migrations.Extensive knowledge of VMware ESXi, vCenter, and vSphere environments.Strong understanding of Microsoft Azure services, especially Azure Virtual Machines, Azure Site Recovery, and Azure Migrate.Proficiency in scripting languages such as PowerShell, Python, or Bash.Familiarity with operating system administration, virtualization technologies, and network structures.Excellent problem-solving skills and the ability to work under pressure.Strong communication and teamwork skills.If your're interested please reply with your most updated resume to my email address below.email: bharath.n@twsol.com",
+        "source": "Email",
+        "date_posted": "2024-10-28 22:27:00-05:00",
+        "unique_id": "192d6700699cb284",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

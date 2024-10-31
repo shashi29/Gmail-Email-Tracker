@@ -1,0 +1,109 @@
+[
+    {
+        "company": "Tek pyramids.inc",
+        "job_title": "AWS Cloud DBA",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level, 5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 month Right to Hire Opportunity",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Console",
+                "AWS CLI",
+                "S3",
+                "DMS",
+                "RDS",
+                "Postgres",
+                "MySQL",
+                "Aurora Postgres",
+                "NoSQL",
+                "Cloud Watch",
+                "RedShift",
+                "Snowflake",
+                "Redis",
+                "IAM",
+                "EKS",
+                "ECR",
+                "DynamoDB",
+                "Document DB",
+                "Python",
+                "Terraform",
+                "Cloud Formation"
+            ],
+            "primary": [
+                "Investment Banking experience",
+                "Market Data environment experience",
+                "DevOps experience"
+            ],
+            "secondary": [
+                "Migration experience to Snowflake",
+                "Migration experience to RedShift",
+                "Streaming/messaging architectures",
+                "Service resiliency",
+                "HADR designs/solutions",
+                "Automate data migration"
+            ],
+            "all": [
+                "AWS Console",
+                "AWS CLI",
+                "S3",
+                "DMS",
+                "RDS",
+                "Postgres",
+                "MySQL",
+                "Aurora Postgres",
+                "NoSQL",
+                "Cloud Watch",
+                "RedShift",
+                "Snowflake",
+                "Redis",
+                "IAM",
+                "EKS",
+                "ECR",
+                "DynamoDB",
+                "Document DB",
+                "Python",
+                "Terraform",
+                "Cloud Formation",
+                "Investment Banking experience",
+                "Market Data environment experience",
+                "DevOps experience",
+                "Migration experience to Snowflake",
+                "Migration experience to RedShift",
+                "Streaming/messaging architectures",
+                "Service resiliency",
+                "HADR designs/solutions",
+                "Automate data migration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Jitendra Singh",
+        "email": "jitendra.s@tekpyramids.com",
+        "jd": "From: Jitendra Singh, Tek pyramids.inc jitendra.s@tekpyramids.com Reply to: jitendra.s@tekpyramids.com GC/USC onlyRole: AWS Cloud DBALocation: Jersey City, NJ- HybridDuration: 6 month Right to Hire OpportunityInterview: Video Need Sr. candidate Local to NJ /NY LinkedIn id with picture and location is mandatory!!! *** MUST Have Investment Banking and Market Data environment experience*** Team is currently looking for a AWS Cloud DBA with experience doing DevOps. Key Requirements:- Proficiency in AWS Console, CLI, S3, DMS- Experience with RDS: Postgres, MySQL, Aurora Postgres, NoSQL- Knowledge of Cloud Watch, RedShift, Snowflake, Redis- Familiarity with IAM, EKS/ECR, DynamoDB, Document DB- Strong automation skills in Python, Terraform, Cloud FormationDesired Skills:- Migration experience to Snowflake, RedShift- Hands-on with streaming/messaging architectures- Expertise in service resiliency, HADR designs/solutions- Ability to automate data migration to various platforms Best Regards ,Jitendra SinghTechnical Recruiter Email : jitendra.s@tekpyramids.com",
+        "source": "Email",
+        "date_posted": "2024-10-14 08:52:43-05:00",
+        "unique_id": "1928b8e47b61d68c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

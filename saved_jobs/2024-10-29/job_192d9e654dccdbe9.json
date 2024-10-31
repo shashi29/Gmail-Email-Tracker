@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Sibitalent",
+        "job_title": "Sr Software Engineer",
+        "location": "Metropark, NJ, USA",
+        "full_location": {
+            "city": "Metropark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "Docker",
+                "Gitlab",
+                "Kubernetes"
+            ],
+            "primary": [
+                "DevOps",
+                "Containerization",
+                "CI/CD",
+                "Helm Charts"
+            ],
+            "secondary": [
+                "Programming",
+                "End to end design",
+                "Development",
+                "Testing",
+                "Deployment",
+                "Build automation",
+                "Investigating issues",
+                "Excellent written and oral communications skills",
+                "Project tracking software",
+                "Jira"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "Docker",
+                "Gitlab",
+                "Kubernetes",
+                "DevOps",
+                "Containerization",
+                "CI/CD",
+                "Helm Charts",
+                "Programming",
+                "End to end design",
+                "Development",
+                "Testing",
+                "Deployment",
+                "Build automation",
+                "Investigating issues",
+                "Excellent written and oral communications skills",
+                "Project tracking software",
+                "Jira"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vishnu Yadav",
+        "email": "vishnu@sibitalent.com",
+        "jd": "Local Metropark, NJ or NYC (Hybrid) with DL Position:- Sr Software Engineer Location:- Metropark, NJ or NYC (Hybrid) Local Employment:- C2C Job Description:- Programming (50%) \u2013 C#, .NETDevOps, Docker, Gitlab, Kubernetes, Containerization (50%) Experience with programming. Should be able to work on an existing codeC#, .Net, Docker, Gitlab, Kubernetes, Helm Charts, ContainerizationEnd to end design ,development, testing and deployment of an app.Build automation, CI/CD and DevOps.A good balance of someone who can independently spear head implementations and a team memberMust be good with investigating an issue and responding to the customerExcellent written and oral communications skillsDemonstrate ability to communicate to nontechnical audience on technical issues.In-depth knowledge of programming for diverse operating systems and platforms using development toolsProficiency with project tracking software, such as JiraExperience working as part of a development team Thanks,Vishnu yadavEmail : vishnu@sibitalent.comWeb: www.sibitalent.com",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:35:06-05:00",
+        "unique_id": "192d9e654dccdbe9",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": ".net developer"
+    }
+]

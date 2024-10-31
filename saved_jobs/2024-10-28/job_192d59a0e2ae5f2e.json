@@ -1,0 +1,74 @@
+[
+    {
+        "company": "KK Software Associates LLC",
+        "job_title": "Sr. Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 17",
+                "REST API",
+                "Spring Boot",
+                "Kafka",
+                "MongoDB"
+            ],
+            "primary": [
+                "CICD",
+                "GitHub",
+                "Jenkins",
+                "Urban Code Deploy",
+                "Harness",
+                "Microservices"
+            ],
+            "secondary": [
+                "Analytical skills",
+                "Debugging"
+            ],
+            "all": [
+                "Java 17",
+                "REST API",
+                "Spring Boot",
+                "Kafka",
+                "MongoDB",
+                "CICD",
+                "GitHub",
+                "Jenkins",
+                "Urban Code Deploy",
+                "Harness",
+                "Microservices",
+                "Analytical skills",
+                "Debugging"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Deeksha Rawat",
+        "email": "deeksha.r@kksoftwareassociates.com",
+        "jd": "From: Deeksha Rawat, KK Software Associates LLC deeksha.r@kksoftwareassociates.com Reply to: deeksha.r@kksoftwareassociates.com Role: Sr. Java Developer Location: ONSITE from Phoenix, AZ or Charlotte, NC from Day 1 Only H4 EAd and L2 EAD Job Description/Responsibilities \u2022 Candidate should be ready to work from the client's office for at least 3 days a week. \u2022 Proficiency in Java 17 with experience in Writing REST API, and backend logic (batch jobs / Kafka processors) using Spring boot \u2022 Exposure to Non-Relational DB like MongoDB. \u2022 Hands-on experience with Kafka is a must \u2022 Proficient in using and adopting CICD Devops tools like GitHub, Jenkins, Urban Code Deploy/Harness, etc. \u2022 Candidate should be able to work as an individual contributor \u2022 Candidate should have exposure to microservice applications \u2022 Associate should have good analytical skills, and should be able to debug the application and understand the concepts. What are the top 3 Must-Haves for this role? \u2022 Hands-on knowledge in designing and delivering Java/ J2EE \u2022 Hands-on experience with Kafka and Mongo DB \u2022 Hands-on experience with Azure and spring boot Regards Deeksha Rawat | Technical Recruiter Aarna Technologies LLC. 8105 Rasor Blvd, suite # 282, Plano, TX 75024 Direct: +1 (469) 343-4759 | Fax: (614) 413-34",
+        "source": "Email",
+        "date_posted": "2024-10-28 18:24:33-05:00",
+        "unique_id": "192d59a0e2ae5f2e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

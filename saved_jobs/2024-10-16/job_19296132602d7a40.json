@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Itech US Inc",
+        "job_title": ".Net Icertis Consultant",
+        "location": "Bellevue, WA, USA",
+        "full_location": {
+            "city": "Bellevue",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": ""
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "API integration",
+                "Azure",
+                "Icertis"
+            ],
+            "primary": [
+                "troubleshooting",
+                "configuration",
+                "integration"
+            ],
+            "secondary": [
+                "functional knowledge",
+                "data flows",
+                "template configuration"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "API integration",
+                "Azure",
+                "Icertis",
+                "troubleshooting",
+                "configuration",
+                "integration",
+                "functional knowledge",
+                "data flows",
+                "template configuration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Divya Sai Chand",
+        "email": "divya.c@itechus.net",
+        "jd": "HelloThis is Divya Sai from iTech US, we have an urgent Job opening from one our client, please go through below JD if you are interested, please share me your updated resume.Role : .Net Icertis ConsultantLocation: Bellevue, WA (Onsite)Type : ContractDescription:Need someone who is technically strong in .NET/C#, with API integration expertise and experience in Azure-based service integration. They should also have functional knowledge of the Icertis platform, including basic data flows and template configuration. The ideal candidate is certified in Icertis and can troubleshoot, configure, and integrate the system both functionally and technically.Icertis technical resource will also work on Icertis APIs. Which Apis availableCo-ordinate with the Icertis Product team to convey the technical issue pertaining to API",
+        "source": "Email",
+        "date_posted": "2024-10-16 10:26:31-05:00",
+        "unique_id": "19296132602d7a40",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

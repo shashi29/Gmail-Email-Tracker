@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Agile Enterprise Solutions Inc",
+        "job_title": "Senior Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12-13 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$65/hr"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Databricks",
+                "AWS"
+            ],
+            "primary": [
+                "pyspark",
+                "Terraform",
+                "GitLab CICD",
+                "Spark SQL",
+                "Snowflake",
+                "FHIR"
+            ],
+            "secondary": [
+                "data warehousing",
+                "query tuning",
+                "performance optimization"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Databricks",
+                "AWS",
+                "pyspark",
+                "Terraform",
+                "GitLab CICD",
+                "Spark SQL",
+                "Snowflake",
+                "FHIR",
+                "data warehousing",
+                "query tuning",
+                "performance optimization"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vinod Katkam",
+        "email": "vinod_katkam@aesincus.com",
+        "jd": "From: Vinod Katkam, Agile Enterprise Solutions Inc vinod_katkam@aesincus.com Reply to: vinod_katkam@aesincus.com Senior Data Engineer Contract Remote $65/hrTech Mahindra\u2022 Experience working for a cloud-based data services provider to large healthcare clients.Note: All the yellow colors are must.Job Description : We are currently seeking for a Senior Data Engineer with Minimum of 12-13 years of experienceProficient with Python and SQL\u2022 Build and manage efficient ETL pipelines using Databricks workflows or other orchestration framework\u2022 Familiarity with both structured and semi[1]structured data and ingesting and processing this data using pyspark\u2022 Fundamental AWS services (S3, SQS) or similar services for other clouds\u2022 Terraform and GitLab CICD \u2022 Query tuning and performance optimization in SQL and/or SparkSQL\u2022 Familiarity with data warehousing (snowflake or similar)\u2022 Spark SQL \u2022 AWS, Databricks, Snowflake\u2022 FHIR experienceAdditional information: \u2022 Work with clients & implementation team and understand the data distribution requirements \u2022 Perform data analysis and data mapping required to produce client output. \u2022 Build the data distribution extracts and scripts \u2022 Optimize the performance of the data extract script",
+        "source": "Email",
+        "date_posted": "2024-10-17 14:52:31-05:00",
+        "unique_id": "1929c2a75e85a47c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Smarttechlink",
+        "job_title": "Data Analyst",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Google BigQuery",
+                "SQL"
+            ],
+            "primary": [],
+            "secondary": [
+                "data analysis",
+                "statistical analysis",
+                "data visualization",
+                "retail background"
+            ],
+            "all": [
+                "Snowflake",
+                "Google BigQuery",
+                "SQL",
+                "data analysis",
+                "statistical analysis",
+                "data visualization",
+                "retail background"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Iswarya",
+        "email": "iswarya.k@smarttechlink.com",
+        "jd": "From: Iswarya, Smarttechlink iswarya.k@smarttechlink.com Reply to: iswarya.k@smarttechlink.com Hi,We do have a priority requirement with one of our clients. Kindly review and let me know if you have any questions.Data AnalystDallas TX (min 3 days onsite)Mandatory skills: Snowflake, Google BigQuery, strong Sql Queries\"Snowflake and/or Google BQ expert working knowledge to perform data analysis.Retail background preferred;Analyzes data to draw conclusions and derive insights on how to improve a business group and/or application.Should be able to perform statistical analysis and leverage data visualization tools to make value out of data Thanks & Regards Iswarya | Technical RecruiterIswarya.k@smarttechlink.com | www.smarttechlink.com |",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:02:59-05:00",
+        "unique_id": "192c48add0489878",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

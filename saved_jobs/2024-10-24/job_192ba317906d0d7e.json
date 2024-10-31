@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Techgene solutions",
+        "job_title": "Sr. Java Backend Developer",
+        "location": "Pasadena, CA, USA",
+        "full_location": {
+            "city": "Pasadena",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 8+",
+                "Spring Boot",
+                "Spring MVC",
+                "Spring Security",
+                "Spring Data"
+            ],
+            "primary": [
+                "RESTful APIs",
+                "SQL",
+                "NoSQL",
+                "Microservices",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "Agile",
+                "JUnit",
+                "Mockito",
+                "Cloud services"
+            ],
+            "secondary": [],
+            "all": [
+                "Java 8+",
+                "Spring Boot",
+                "Spring MVC",
+                "Spring Security",
+                "Spring Data",
+                "RESTful APIs",
+                "SQL",
+                "NoSQL",
+                "Microservices",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "Agile",
+                "JUnit",
+                "Mockito",
+                "Cloud services"
+            ],
+            "with_experience": [
+                "Java 8+",
+                "Spring Boot",
+                "RESTful APIs",
+                "SQL",
+                "NoSQL",
+                "Microservices",
+                "Docker",
+                "Kubernetes",
+                "JUnit",
+                "Mockito"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "pooja",
+        "email": "pooja.b@techgene.com",
+        "jd": "From: pooja, Techgene solutions pooja.b@techgene.com Reply to: pooja.b@techgene.com Job Title: Sr. Java Backend DeveloperLocation: Pasadena, CA (Local candidates are highly preferred) 5 Days onsite Locals will be given huge priority. Job Type: Long term ContractExp Level: Min 10+ Years Job Description:We are seeking an experienced Java Backend Developer to join our engineering team. The ideal candidate will have a passion for building high-performance, scalable backend systems. As a key member of our team, you will collaborate closely with front-end developers, architects, and stakeholders to deliver secure, efficient, and innovative solutions. We highly prefer local candidates for this role to facilitate close collaboration with our team.Key Responsibilities:Design and develop backend systems: Write clean, efficient, and maintainable Java code to build the server-side logic of our applications.Collaborate with front-end teams: Work closely with front-end developers to integrate user-facing elements with server-side logic.API development and microservices: Design and implement RESTful APIs and microservices that power our applications.Database management: Optimize database designs for performance, scalability, and data integrity using SQL or NoSQL databases.Security and data protection: Implement robust security protocols, including authentication, authorization, and data protection.Optimize performance: Ensure applications are optimized for speed and scalability.Testing and deployment: Conduct testing and debugging to ensure a smooth deployment process, while also maintaining comprehensive documentation.Work closely with the team: Participate in daily stand-ups, code reviews, and team discussions to ensure high-quality output.Skills and Qualifications:Java expertise: Strong experience with Java 8+ and frameworks such as Spring Boot, Spring MVC, Spring Security, and Spring Data.RESTful services: Proven experience designing and consuming RESTful APIs.Database knowledge: Proficiency in both SQL (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB).Microservices architecture: Familiarity with microservices and containerization technologies such as Docker and Kubernetes.Version control and collaboration: Proficient with Git and familiar with Agile development tools like JIRA.Testing frameworks: Experience with automated testing using JUnit, Mockito, or similar tools.Cloud platforms: Familiarity with cloud services (e.g., AWS, Azure, Google Cloud) and deploying services in a cloud environment.",
+        "source": "Email",
+        "date_posted": "2024-10-23 10:44:52-05:00",
+        "unique_id": "192ba317906d0d7e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

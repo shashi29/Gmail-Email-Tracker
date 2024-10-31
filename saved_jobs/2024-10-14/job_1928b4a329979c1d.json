@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "Senior C# Developer",
+        "location": "Prince George, VA, USA",
+        "full_location": {
+            "city": "Prince George",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum of 2 years",
+            "degree_required": "Associate degree in Information Technology or a related field required; Bachelor\u2019s degree preferred",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "ASP.Net Core",
+                "Visual Basic",
+                "SQL Server",
+                "T-SQL"
+            ],
+            "primary": [
+                "query optimization",
+                "stored procedures",
+                "Microsoft Operating Systems",
+                "Microsoft Azure DEVOPS"
+            ],
+            "secondary": [
+                "Cisco Switches",
+                "LAN",
+                "Fiber Optics",
+                "EPICS",
+                "Sage 100",
+                "Global Search",
+                "MP2",
+                "Azure Cloud development",
+                "Android development using Java/Kotlin"
+            ],
+            "all": [
+                "C#",
+                "ASP.Net Core",
+                "Visual Basic",
+                "SQL Server",
+                "T-SQL",
+                "query optimization",
+                "stored procedures",
+                "Microsoft Operating Systems",
+                "Microsoft Azure DEVOPS",
+                "Cisco Switches",
+                "LAN",
+                "Fiber Optics",
+                "EPICS",
+                "Sage 100",
+                "Global Search",
+                "MP2",
+                "Azure Cloud development",
+                "Android development using Java/Kotlin"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ankit Kumar",
+        "email": "ankit.k@tekinspirations.com",
+        "jd": "From: Ankit Kumar, Tek Inspirations ankit.k@tekinspirations.com Reply to: ankit.k@tekinspirations.com Senior C# Developer The perfect candidate is someone who has very strong SQL skills (SQL Server, DBA, T-SQL stored procedures, query optimization) as well as some experience with .NET development. Most likely be on-site interviews for both rounds. Candidates will need to be local. The candidate will need to be within a 20\u201330-minute drive of the Richmond, VA or Prince George, VA areas. There will be on-site requirements for this role in Prince George, VA. US Citizens or Green Card holders only. No relocation - candidate must already be in the area. Key Responsibilities:Develop and enhance applications using C#, ASP.Net Core, and Visual Basic.Migrate legacy VB applications to C# and maintain SQL Server databases.Create and optimize T-SQL stored procedures, SQL Agent jobs, and perform light database administration tasks.Collaborate with cross-functional teams to support integration with multiple ERP applications.Develop testing plans and conduct thorough testing of code prior to production rollout.Assist with desktop support and IT infrastructure to maintain 24/7 operations.Required Skills:Proficiency in C#, ASP.Net Core, and Visual Basic (including code translation from VB to C#).Strong experience with Microsoft SQL Server, including T-SQL, stored procedures, and query optimization.Familiarity with Microsoft Operating Systems (Windows 7, 10, Server 2008 and above).Experience with Microsoft Azure DEVOPS.Desired Skills:Basic understanding of Cisco Switches, LAN, and Fiber Optics.Knowledge of EPICS, Sage 100, Global Search, and MP2 is a significant plus.Experience in Azure Cloud development and Android development using Java/Kotlin.Education Requirements:Associate degree in Information Technology or a related field required; Bachelor\u2019s degree preferred.Minimum of 2 years of relevant application development experience in a production environment with required skills.Team Environment:Join a dynamic IT team of 6 within a larger organization of 450+ employees.Casual dress code (jeans).",
+        "source": "Email",
+        "date_posted": "2024-10-14 08:13:30-05:00",
+        "unique_id": "1928b4a329979c1d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

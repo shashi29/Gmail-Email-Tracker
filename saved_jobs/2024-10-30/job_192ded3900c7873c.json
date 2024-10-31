@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Mobcoder IT Solutions LLC",
+        "job_title": "Java and Web Crawling",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Oracle",
+                "REST API",
+                "JPA",
+                "Hibernate"
+            ],
+            "primary": [
+                "SQL",
+                "AWS",
+                "Test Driven Development",
+                "Continuous Integration",
+                "data modeling",
+                "Cassandra"
+            ],
+            "secondary": [
+                "problem solving",
+                "debugging",
+                "low latency service APIs",
+                "data aggregation pipelines"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Oracle",
+                "REST API",
+                "JPA",
+                "Hibernate",
+                "SQL",
+                "AWS",
+                "Test Driven Development",
+                "Continuous Integration",
+                "data modeling",
+                "Cassandra",
+                "problem solving",
+                "debugging",
+                "low latency service APIs",
+                "data aggregation pipelines"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Preet Kumar",
+        "email": "preet.k@mobcoderstaffing.com",
+        "jd": "Hello,\n\nMy name is Preet Kumar and I am a Staffing Specialist at Mobcoder. I am reaching out to you on an exciting job opportunity with one of our clients.\n\nJob Title - Java and Web Crawling\nLocation - Sunnyvale, CA\nDuration - Contract\n\nJob Description:\nJava and Web Crawling\nStandard SQL knowledge\nExperienced in delivering advanced solutions for a multi-tier, distributed web application\nExperienced in crafting and implementing REST API\nProven strong problem solving and debugging skills\nExperienced in developing applications that utilize relational databases (e.g. Oracle) and other less structured data stores (NoSQL)\nAbility to articulate the benefits of Test Driven Development, Continuous Integration.\nKnowledge of data modeling using Oracle and Cassandra databases.\nEqually valuable is experience in building low latency service APIs, and data aggregation pipelines.\nAWS experience\nMust have Java Spring Oracle REST API JPA, Hibernate",
+        "source": "Email",
+        "date_posted": "2024-10-30 13:32:45-05:00",
+        "unique_id": "192ded3900c7873c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

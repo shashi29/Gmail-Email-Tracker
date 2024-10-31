@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "Pega Decision Management",
+        "location": "Las Vegas, NV, USA",
+        "full_location": {
+            "city": "Las Vegas",
+            "state": "NV",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Pega Decisioning",
+                "Pega Marketing",
+                "Customer Marketing",
+                "Segmentation",
+                "Campaign Management"
+            ],
+            "primary": [
+                "Certified System Architect (CSA)",
+                "Certified Senior System Architect (CSSA)",
+                "Certified Pega Decisioning Consultant (CPDC)",
+                "Data Modelling",
+                "Database Performance"
+            ],
+            "secondary": [
+                "NBAD Implementation",
+                "Distributed Systems",
+                "Non-relational Data Stores",
+                "Multi-terabyte Data Warehouses",
+                "AI Concepts"
+            ],
+            "all": [
+                "Pega Decisioning",
+                "Pega Marketing",
+                "Customer Marketing",
+                "Segmentation",
+                "Campaign Management",
+                "Certified System Architect (CSA)",
+                "Certified Senior System Architect (CSSA)",
+                "Certified Pega Decisioning Consultant (CPDC)",
+                "Data Modelling",
+                "Database Performance",
+                "NBAD Implementation",
+                "Distributed Systems",
+                "Non-relational Data Stores",
+                "Multi-terabyte Data Warehouses",
+                "AI Concepts"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sandeep Gautam",
+        "email": "sandeep.gautam@siriinfo.com",
+        "jd": "Hello, Hope you are doing great. This is Sandeep Gautam, a recruiter working with Siri Info Solutions. Trying to reach you regarding the below job position please have a look at the job description. Please go through it and if you are comfortable with this role, reply to this email with your updated resume. Position: Pega Decision Management Location: Las Vegas, NV (Onsite) Duration: Contract Job Description: 5+ years in Pega Decisioning and marketing Desired Certifications: CSA (Certified System Architect), CSSA (Certified Senior System Architect), CPDC (Certified Pega Decisioning Consultant) Experience defining decision architecture, solutions & designs for Pega Decisioning and Pega Marketing. End-to-end experience defining solutions, designs, and implementations in Customer Marketing, Segmentation, Adaptive Modelling, and Campaign Management - Inbound and Outbound. Extensive knowledge on NBAD implementation. Experience in distributed systems, large-scale non-relational data stores, data modelling, database performance, and multi-terabyte data warehouses. Knowledge of various Pega Marketing & Decisioning, PRPC concepts and rule types like strategies, offer flows, activities, when rules, functions, data transforms, decision logic, dataflows, datasets, adaptive models, reporting, agents, and ruleset management. Experience in implementing Pega Decisioning rules, Strategies, engagement policies, constraints, and channel configuration. Experience in developing, monitoring, and troubleshooting batch campaigns. Knowledge of data flows, segmentation, AI concepts and experience in implementing changes to these modules. Ability to troubleshoot and resolve complex production issues. Ability to develop integration with other system, troubleshoot and resolve integration issues. Coordination with operations and testing team and provide defect fixes and bugfixes. Build and unit test of the application components and/or managing development activities, performing peer reviews, and escalating technical issues.",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:59:54-05:00",
+        "unique_id": "192d468dab1300aa",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "PEGA Developer"
+    }
+]

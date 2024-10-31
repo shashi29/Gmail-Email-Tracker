@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Nitya Software Solution",
+        "job_title": "Sr Software Engineer",
+        "location": "Metropark, NJ, USA",
+        "full_location": {
+            "city": "Metropark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "Docker",
+                "Gitlab",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Containerization",
+                "Helm Charts",
+                "CI/CD",
+                "DevOps"
+            ],
+            "secondary": [
+                "Programming",
+                "Build automation",
+                "Project tracking software",
+                "Jira",
+                "Excellent written and oral communications skills"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "Docker",
+                "Gitlab",
+                "Kubernetes",
+                "Containerization",
+                "Helm Charts",
+                "CI/CD",
+                "DevOps",
+                "Programming",
+                "Build automation",
+                "Project tracking software",
+                "Jira",
+                "Excellent written and oral communications skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Nitya",
+        "email": "ryan@nityainc.com",
+        "jd": "From: Nitya, Nitya software solution ryan@nityainc.com Reply to: ryan@nityainc.com Sr Software Engineer Location: Metropark, NJ or NYC (Hybrid)C2C roleOnly locals to NJ or NYC Essentially the candidate must be good in Development and DevOps. Key skills :Programming (50%) \u2013 C#, .NETDevOps, Docker, Gitlab, Kubernetes, Containerization (50%) JD :Experience with programming. Should be able to work on an existing codeC#, .Net, Docker, Gitlab, Kubernetes, Helm Charts, ContainerizationEnd to end design ,development, testing and deployment of an app.Build automation, CI/CD and DevOps.A good balance of someone who can independently spear head implementations and a team memberMust be good with investigating an issue and responding to the customerExcellent written and oral communications skillsDemonstrate ability to communicate to nontechnical audience on technical issues.In-depth knowledge of programming for diverse operating systems and platforms using development toolsProficiency with project tracking software, such as JiraExperience working as part of a development team",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:21:05-05:00",
+        "unique_id": "192da0e488599fbd",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": ".net developer"
+    }
+]

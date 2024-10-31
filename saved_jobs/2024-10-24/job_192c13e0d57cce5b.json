@@ -1,0 +1,121 @@
+[
+    {
+        "company": "KPG99 Inc",
+        "job_title": "Senior Data Engineer",
+        "location": "Richardson, TX, USA",
+        "full_location": {
+            "city": "Richardson",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6 years",
+            "degree_required": "Bachelor's degree (BA/BS) in a related field such as information systems, mathematics, or computer science.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Extraction",
+                "Transformation",
+                "Loading",
+                "Data Analysis",
+                "SQL Tuning",
+                "Relational Databases",
+                "Dimensional Databases",
+                "SQL Server",
+                "Postgres",
+                "Oracle",
+                "Snowflake",
+                "Data ingestion tools",
+                "Snaplogic",
+                "ADF",
+                "Matallion",
+                "AWS",
+                "Azure",
+                "Apache Airflow",
+                "DBT",
+                "CICD pipelines",
+                "Jenkins",
+                "Azure DevOps",
+                "Python",
+                "Git Hub"
+            ],
+            "primary": [
+                "Data Profiling",
+                "Data Quality",
+                "Data Governance",
+                "Data Orchestration",
+                "Cloud Native Solutions",
+                "APIs",
+                "Data Transformation Models"
+            ],
+            "secondary": [
+                "Agile methodologies",
+                "DevOps",
+                "Statistical Analysis",
+                "Performance Optimization",
+                "Documentation"
+            ],
+            "all": [
+                "Data Extraction",
+                "Transformation",
+                "Loading",
+                "Data Analysis",
+                "SQL Tuning",
+                "Relational Databases",
+                "Dimensional Databases",
+                "SQL Server",
+                "Postgres",
+                "Oracle",
+                "Snowflake",
+                "Data ingestion tools",
+                "Snaplogic",
+                "ADF",
+                "Matallion",
+                "AWS",
+                "Azure",
+                "Apache Airflow",
+                "DBT",
+                "CICD pipelines",
+                "Jenkins",
+                "Azure DevOps",
+                "Python",
+                "Git Hub",
+                "Data Profiling",
+                "Data Quality",
+                "Data Governance",
+                "Data Orchestration",
+                "Cloud Native Solutions",
+                "APIs",
+                "Data Transformation Models",
+                "Agile methodologies",
+                "DevOps",
+                "Statistical Analysis",
+                "Performance Optimization",
+                "Documentation"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rakesh Shahi",
+        "email": "rshahi@kpgtech.com",
+        "jd": "From: Rakesh, KPG99 Inc rshahi@kpgtech.com Reply to: rshahi@kpgtech.com Hi,Hope you are doing great!Please find the JD below and let me know if you would like to proceed. Role : Senior Data Engineer Location : In office 3 days a week Richardson TXDuration : 6+ MonthsInterview Mode : In Person InterviewNeed LinkedIn IdJob Description\u2022 Bachelor's degree (BA/BS) in a related field such as information systems, mathematics, or computer science.\u2022 Typically has 6 years of relevant work experience. Consideration given to equivalent combination of education and experience.\u2022 Excellent written and verbal communication skills. Strong organizational and analytical skills.\u2022 Expertise in Data Extraction, Transformation, Loading, Data Analysis, Data Profiling, and SQL Tuning.\u2022 Expertise in Relational & Dimensional Databases in engines like SQL Server, Postgres, Oracle\u2026\u2022 Strong experience in designing and developing enterprise scale data warehouse systems using Snowflake.\u2022 Strong expertise in designing and developing reusable and scalable Data products with data quality scores and integrity checks.\u2022 Strong expertise in developing end to end complex data workflows using Data ingestion tools such as Snaplogic, ADF, Matallion etc.\u2022 Experience with cloud platforms AWS / Azure cloud technologies, Agile methodologies and DevOps is a big plus.\u2022 Experience in architecting cloud native solutions across multiple B2B and B2B2C data domains.\u2022 Experience in architecture of modern APIs for the secure sharing of data across internal application components as well as external technology partners.\u2022 Experience in Data orchestration tools like Apache Airflow, Chronos with Mesos cluster etc.\u2022 Expertise in designing and developing data transformation models in DBT.\u2022 Comparing and analyzing provided statistical information to identify patterns, relationships, and problems; and using this information to design conceptual and logical data models and flowcharts to present to management.\u2022 Experience with developing CICD pipelines in Jenkins or Azure DevOps.\u2022 Knowledge of Python for data manipulation and automation.\u2022 Knowledge of data governance frameworks and best practices.\u2022 Knowledge in integrating with source code versioning tools like Git Hub.Responsibilities:\u2022 Plan & analyze, develops, maintains, and enhances client systems as well as supports systems of moderate to high complexity.\u2022 Participates in the design, specification, implementation, and maintenance of systems.\u2022 Designs, codes, tests, and documents software programs of moderate complexity as per the requirement specifications.\u2022 Design, develop, and maintain scalable data pipelines using Snowflake, dbt, Snaplogic and ETL tools.\u2022 Participates in design reviews and technical briefings for specific applications.\u2022 Integrate data from various sources, ensuring consistency, accuracy, and reliability.\u2022 Develop and manage ETL/ELT processes to support data warehousing and analytics.\u2022 Assists in preparation of requirement specifications, Analyzing the data, design and develop data driven applications including documenting and revising user procedures and/or manuals.\u2022 Involved with resolution of Medium to severe complexity software development issues that may arise in a production environment.\u2022 Utilize Python for data manipulation, automation, and integration tasks.\u2022 Assemble large, complex data sets that meet functional / non-functional business requirements. Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability\u2022 Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL Server, PostgreSQL, SSIS, T-SQL, PL/SQL\u2022 Work with stakeholders including the Product, Data, Design, Frontend and Backend teams to assist with data-related technical issues and support their data infrastructure needs\u2022 Write complex SQL, T-SQL, PL/SQL queries, stored procedures, functions, cursors in SQL Server and PostgreSQL. Peer review other team members code\u2022 Analyze the long running queries/functions/procures, design and develop performance optimization strategy.\u2022 Create and manage SSIS packages and/or Informatica to perform day to day ETL activities. Use variety of strategies for complex data transformations using an ETL tool\u2022 Perform DBA activities like maintaining the systems health and performance tuning, manage database access, deployments to higher environments, on-call support, shell scripting and python scripting is a plus\u2022 Participate in employing the Continuous Deliver and Continuous Deployment (CI/CD) tools for optimal productivity.\u2022 Collaborate with scrum team members during daily standup and actively engage in sprint refinement, planning, review and retrospective.\u2022 Analyzes, reviews, and alters program to increase operating efficiency or adapt to new requirements.\u2022 Writes documentation to describe program development, logic, coding, and corrections.",
+        "source": "Email",
+        "date_posted": "2024-10-24 17:23:19-05:00",
+        "unique_id": "192c13e0d57cce5b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

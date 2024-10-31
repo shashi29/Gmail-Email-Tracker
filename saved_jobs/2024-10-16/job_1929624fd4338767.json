@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Propelsys",
+        "job_title": "Lead Data Engineer Power Bi",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Databricks",
+                "Tableau",
+                "AWS"
+            ],
+            "primary": [
+                "pyspark",
+                "SQL Warehouse",
+                "CI/CD",
+                "CloudFormation",
+                "Terraform"
+            ],
+            "secondary": [
+                "data governance",
+                "AppSecOps",
+                "FinOps"
+            ],
+            "all": [
+                "Snowflake",
+                "Databricks",
+                "Tableau",
+                "AWS",
+                "pyspark",
+                "SQL Warehouse",
+                "CI/CD",
+                "CloudFormation",
+                "Terraform",
+                "data governance",
+                "AppSecOps",
+                "FinOps"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ashwini Sithar",
+        "email": "ashwini@propelsys.com",
+        "jd": "From: Ashwini Sithar, Propelsys ashwini@propelsys.com Reply to: ashwini@propelsys.com Hi Hope you are well We have urgent requirements with our Implementation partner for the below requirement. Role : Data Engineer with BI Lead Location - Chicago, IL Skills Need- Snowflake , Databricks, Tableau, AWS \u2022 10+ years of experience leading team of data engineers & architects in large scale & complex big data solutions\u2022 Expertise in developing architecture blueprints for various design patterns - batch, real time and micro batches.\u2022 Extensive experience in designing and implementing scalable data solutions using AWS services like MWAA and Lambda, RDS, ECS, EKS (7+ years).\u2022 Proficient in Databricks using pyspark, unity catalog, SQL Warehouse (6+ years) for optimizing data pipelines, ensuring high performance, and managing large-scale data processing.\u2022 Proficient in Snowflake (5+ years) for optimizing queries, schemas, and security layers.\u2022 Deep expertise in FinOps best practices in AWS, Databricks, and Snowflake to build cost effective data products and solution\u2022 Adept at developing and enforcing data governance policies and best practices to ensure data quality and compliance.\u2022 Skilled in deployment patterns and proficient with CI/CD tools, specifically CDK, CloudFormation, and Terraform.\u2022 Knowledge of using AppSecOps tools and best practices",
+        "source": "Email",
+        "date_posted": "2024-10-16 09:31:46-05:00",
+        "unique_id": "1929624fd4338767",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

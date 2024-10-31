@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Upward Talent Inc.",
+        "job_title": "Azure Authentication Specialist",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure authentication",
+                "Azure AD integrations",
+                "identity solutions",
+                "access management",
+                "single sign-on (SSO)"
+            ],
+            "primary": [
+                "data connections",
+                "collaboration with cross-functional teams",
+                "technical solutions",
+                "Microsoft cloud ecosystem"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure authentication",
+                "Azure AD integrations",
+                "identity solutions",
+                "access management",
+                "single sign-on (SSO)",
+                "data connections",
+                "collaboration with cross-functional teams",
+                "technical solutions",
+                "Microsoft cloud ecosystem"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Diksha Tiwari",
+        "email": "dtiwari@upwardtalent.com",
+        "jd": "From: Diksha Tiwari, Upward talent dtiwari@upwardtalent.com Reply to: dtiwari@upwardtalent.com Hi Hope you are doing good. I am hiring a Consultant for one of my client's requirements. Job Description for the same is written below. Job Title: Azure Authentication SpecialistLocation: : NYC, NY(Hybrid)Duration: 12+Months Visa- All Job Description: Set up Azure authentication for various data connections (Outlook, SharePoint, PowerBI). Design and implement Azure AD integrations and identity solutions for authentication, access management, and single sign-on (SSO). Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions within the Microsoft cloud ecosystem. Thanks & regards,Diksha Tiwari | Sr. Technical Recruiter | Upward Talent Inc.Direct: +1 301-(985)- 2891 Email: dtiwari@upwardtalent.com",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:49:01-05:00",
+        "unique_id": "192912f6261efd9d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": ".Net Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "Azure",
+                "ASP.NET",
+                ".NET Core",
+                ".NET 6"
+            ],
+            "primary": [
+                "Azure App Service",
+                "Azure Functions",
+                "Azure SQL Database",
+                "Azure Storage",
+                "Azure Logic Apps",
+                "DevOps",
+                "CI/CD",
+                "Azure DevOps",
+                "GitHub Actions",
+                "Azure Active Directory",
+                "RBAC",
+                "Azure Monitor",
+                "Application Insights",
+                "Azure Log Analytics",
+                "Azure Cosmos DB",
+                "Azure Blob Storage",
+                "Azure Data Factory"
+            ],
+            "secondary": [
+                "Architecture and Design",
+                "Scalability",
+                "Performance",
+                "Data Management",
+                "Integration",
+                "Testing",
+                "Quality Assurance",
+                "Documentation",
+                "Collaboration",
+                "Troubleshooting",
+                "Support"
+            ],
+            "all": [
+                ".NET",
+                "Azure",
+                "ASP.NET",
+                ".NET Core",
+                ".NET 6",
+                "Azure App Service",
+                "Azure Functions",
+                "Azure SQL Database",
+                "Azure Storage",
+                "Azure Logic Apps",
+                "DevOps",
+                "CI/CD",
+                "Azure DevOps",
+                "GitHub Actions",
+                "Azure Active Directory",
+                "RBAC",
+                "Azure Monitor",
+                "Application Insights",
+                "Azure Log Analytics",
+                "Azure Cosmos DB",
+                "Azure Blob Storage",
+                "Azure Data Factory",
+                "Architecture and Design",
+                "Scalability",
+                "Performance",
+                "Data Management",
+                "Integration",
+                "Testing",
+                "Quality Assurance",
+                "Documentation",
+                "Collaboration",
+                "Troubleshooting",
+                "Support"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sandeep Gautam",
+        "email": "sandeep.gautam@siriinfo.com",
+        "jd": "Hello,Hope you are doing great.This is Sandeep Gautam, a recruiter working with Siri Info Solutions. Trying to reach you regarding the below job position please have a look at the job descriptionPlease go through it and if you are comfortable with this role, reply to this email with your updated resume. Position: .Net Developer Location: New York, NY(Onsite)Duration: ContractInterview: F2F Job Description:A Senior .NET Developer with expertise in Azure application development typically has a wide range of responsibilities related to designing, building, and maintaining Azure-based solutions. Here are some key responsibilities of a Senior .NET Developer in this contextArchitecture and Design: Senior .NET Developers are often responsible for designing the architecture of Azure-based applications. This includes choosing the appropriate Azure services, defining data storage strategies, and designing for scalability, availability, and security.Development: They are responsible for writing high-quality, maintainable code using .NET technologies (such as ASP.NET, .NET Core, or .NET 6) for building Azure-based web applications, APIs, and services.Azure Services: They should have a deep understanding of Azure services, including Azure App Service, Azure Functions, Azure SQL Database, Azure Storage, Azure Logic Apps, and more. They choose and configure these services based on project requirements.DevOps and CI/CD: Implementing DevOps practices and setting up continuous integration and continuous deployment (CI/CD) pipelines on Azure is often part of their responsibilities. They use tools like Azure DevOps or GitHub Actions for this purpose.Security: Ensuring the security of Azure applications is crucial. They need to implement Azure Active Directory for authentication, manage secrets and keys securely, and follow best practices for Azure security, including role-based access control (RBAC) and security policies.Monitoring and Logging: Setting up monitoring and logging solutions using Azure Monitor, Application Insights, and Azure Log Analytics to track application performance, troubleshoot issues, and ensure reliability.Scalability and Performance: Designing for scalability and optimizing application performance by leveraging Azures scalability features, such as auto-scaling and Azure CDN.Data Management: Working with Azure data services, including Azure SQL Database, Azure Cosmos DB, Azure Blob Storage, and Azure Data Factory, to manage and process data efficiently.Integration: Integrating Azure applications with other systems and services, both within and outside the Azure ecosystem, using APIs, messaging services, and event-driven architectures.Testing and Quality Assurance: Ensuring the quality of code through unit testing, integration testing, and end-to-end testing. Implementing testing strategies and frameworks.Documentation: Creating and maintaining technical documentation, including architecture diagrams, code documentation, and deployment guides.Collaboration: Collaborating with cross-functional teams, including product managers, designers, and other developers, to deliver solutions that meet business requirements.Troubleshooting and Support: Investigating and resolving technical issues, providing support, and participating in incident management when problems arise.",
+        "source": "Email",
+        "date_posted": "2024-10-29 12:32:58-05:00",
+        "unique_id": "192d976872cbcb94",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

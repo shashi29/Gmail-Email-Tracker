@@ -1,0 +1,55 @@
+[
+    {
+        "company": "TTDATA LLC",
+        "job_title": "Technical Business Analyst",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Gen AI",
+                "Chatbot Implementation",
+                "Azure Cloud",
+                "Azure Open AI"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Gen AI",
+                "Chatbot Implementation",
+                "Azure Cloud",
+                "Azure Open AI"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Manikandan R",
+        "email": "mani@ttdatas.com",
+        "jd": "Need Technical BA with Gen AI & Chatbot Implementation Projects. Need Exposure to Azure Cloud and Azure Open AI Projects Thanks",
+        "source": "Email",
+        "date_posted": "2024-10-16 08:20:08-05:00",
+        "unique_id": "192959ce95a40eaa",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

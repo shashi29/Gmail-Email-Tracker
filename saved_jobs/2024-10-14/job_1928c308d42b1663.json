@@ -1,0 +1,65 @@
+[
+    {
+        "company": "HCL",
+        "job_title": "AWS Developer",
+        "location": "Berkley Heights, NJ, USA",
+        "full_location": {
+            "city": "Berkley Heights",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "DevOps",
+                "Terraform"
+            ],
+            "primary": [
+                "Continuous Delivery",
+                "GitLab",
+                "Continuous Integration",
+                "ECR",
+                "EKS",
+                "Nexus Repository"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "DevOps",
+                "Terraform",
+                "Continuous Delivery",
+                "GitLab",
+                "Continuous Integration",
+                "ECR",
+                "EKS",
+                "Nexus Repository"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Charan",
+        "email": "charan.mentada@testingxperts.com",
+        "jd": "Hello,My name is Charan and I represent TestingXperts Inc. TestingXperts is a Specialist QA & Software Testing Company, and an Independent Software Testing division of Damco Group, which is a leading IT Solutions and Services company working with Fortune Enterprises globally. Inheriting the virtues of job quality and optimal user satisfaction from Damco Group, TestingXperts aims at promoting the ethics of connected innovation, thereby seeding the integral values in our employees and achieving unmatched contentment in our clients. To know more about TestingXperts Inc., please visit our website www.testingxperts.com. Please find the below detailed JD Role : AWS DeveloperLocation : Berkley Heights, NJ. Day 1 onsite - Mandatory F2F interviewClient : HCLDevOps JD:At least 5 years\u2019 experience working with cloud services like AWS.Solid experience in designing and implementing complex DevOps solutionsExperience within cloud hosted environments such as Amazon AWS.A good AWS DevOps development background Harness Continuous DeliveryGitLab Continuous IntegrationECR/ECSEKSTerraformNexus RepositoryAWS",
+        "source": "Email",
+        "date_posted": "2024-10-14 12:25:07-05:00",
+        "unique_id": "1928c308d42b1663",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

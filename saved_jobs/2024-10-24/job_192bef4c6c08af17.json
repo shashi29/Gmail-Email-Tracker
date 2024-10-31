@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Data Engineer",
+        "location": "Washington, DC, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "Spark",
+                "Apache Airflow",
+                "DynamoDB"
+            ],
+            "primary": [
+                "Snowflake",
+                "Postgres",
+                "DevOps skills",
+                "Containers"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "Python",
+                "Spark",
+                "Apache Airflow",
+                "DynamoDB",
+                "Snowflake",
+                "Postgres",
+                "DevOps skills",
+                "Containers"
+            ],
+            "with_experience": [
+                "Python",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ritwik Muddukrishna",
+        "email": "muddukrishna@ritwikinfotech.com",
+        "jd": "From: muddukrishna, Ritwik infotech inc muddukrishna@ritwikinfotech.com Reply to: muddukrishna@ritwikinfotech.com Title : Data Engineer with Capital One Location : Local to DC Metro area (DMV). Visa: EAD, GC, USCLooking for local DMV candidates only. Capital One is nice to have. Tech Stack:AWS (Fargate, Glue, EC2)DynamoDBPython \u2013 Core Python and Data EngineeringSparkApache AirflowDB: Snowflake and PostgresSome DevOps skills with containersPushing releases by their own.",
+        "source": "Email",
+        "date_posted": "2024-10-24 08:57:43-05:00",
+        "unique_id": "192bef4c6c08af17",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

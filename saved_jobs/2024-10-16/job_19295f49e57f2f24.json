@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Spear Staffing",
+        "job_title": "Sr. DBA",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Initial contract for 1,672 hours through 8/31/25",
+            "rate": "$65/hour"
+        },
+        "skills": {
+            "core": [
+                "Oracle Database 12c or higher",
+                "Oracle RAC",
+                "Golden Gate",
+                "Advanced SQL",
+                "Shell scripting",
+                "Supporting multi-terabyte database",
+                "Advanced performance tuning"
+            ],
+            "primary": [
+                "Microsoft O365 applications (Word, Excel, PowerPoint, Visio)",
+                "MS Team and Channel communication",
+                "Experience working with a public sector organization",
+                "SharePoint",
+                "Jira",
+                "Scrum framework"
+            ],
+            "secondary": [],
+            "all": [
+                "Oracle Database 12c or higher",
+                "Oracle RAC",
+                "Golden Gate",
+                "Advanced SQL",
+                "Shell scripting",
+                "Supporting multi-terabyte database",
+                "Advanced performance tuning",
+                "Microsoft O365 applications (Word, Excel, PowerPoint, Visio)",
+                "MS Team and Channel communication",
+                "Experience working with a public sector organization",
+                "SharePoint",
+                "Jira",
+                "Scrum framework"
+            ],
+            "with_experience": [
+                "Oracle Database 12c or higher",
+                "Oracle RAC",
+                "Golden Gate",
+                "Advanced SQL",
+                "Shell scripting",
+                "Supporting multi-terabyte database",
+                "Advanced performance tuning"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jai",
+        "email": "jai@spearstaffing.com",
+        "jd": "From: jai, spear staffing jai@spearstaffing.com Reply to: jai@spearstaffing.com JOB TITLE: Sr. DBALOCATION: Austin, TX (remote, candidate must currently reside in Texas)START DATE: Approx 11/25/24DURATION: Initial contract for 1,672 hours through 8/31/25 (end of fiscal year) with anticipated extension.DUE DATE: COB 10/18/24EXPECTED PAY: Up to $65/hr.Public Sector IF A CANDIDATE DOES NOT HAVE PUBLIC SECTOR, DON'T SEND Client Department Experience (Health/Human Services or specific department) Reside in Texas 100% Remote JOB DESCRIPTION/MINIMUM REQUIREMENTS:The critical duties will be advanced performance tuning on complex processes on multi-terabyte databases with heavy transaction volumes. Initial duties include installing Oracle Database 19c, Oracle RAC, and Golden Gate to establish a new database tier and capacity planning for the ERP upgrade project. Core duties include the standard administration and support responsibilities of backup, recovery, monitoring, troubleshooting, tuning, and assisting the upgrade project team as needs arise.This position requires work outside of standard business hours depending on the project activities and system maintenance schedule to minimize the impact on the project team's productivity. Must demonstrate and excel in communicating and working with a diverse team with collaboration tools competently in a remote work environment. Also, the candidate must be able to estimate work, set deadlines, and prioritize work to align with the project schedule.Minimum Requirements:Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.YearsRequired/PreferredExperience8RequiredOracle Database 12c or higher8RequiredOracle RAC8RequiredGolden Gate8RequiredAdvanced SQL8RequiredShell scripting8RequiredSupporting multi-terabyte database8RequiredAdvanced performance tuning8Required(at least 4) Experience with Microsoft O365 applications (Word, Excel, PowerPoint, Visio)8Required(at least 2) Experience with MS Team and Channel communication with a large team4PreferredExperience working with a public sector organization (Federal, State, or Local Government)2PreferredExperience with SharePoint1PreferredExperience with Jira1PreferredExperience working with the Scrum framework",
+        "source": "Email",
+        "date_posted": "2024-10-16 09:51:54-05:00",
+        "unique_id": "19295f49e57f2f24",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

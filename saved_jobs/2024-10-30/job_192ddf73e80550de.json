@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Blue Ocean Ventures",
+        "job_title": "Business Analyst",
+        "location": "Philadelphia, PA, USA",
+        "full_location": {
+            "city": "Philadelphia",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Requirements Gathering",
+                "System Analysis",
+                "Process Modeling",
+                "Data Analysis",
+                "Solution Design",
+                "Testing and Validation",
+                "Training and Support",
+                "Compliance"
+            ],
+            "primary": [
+                "Critical Thinking",
+                "Technical Proficiency",
+                "Communication",
+                "Project Management",
+                "Attention to Detail",
+                "Collaboration"
+            ],
+            "secondary": [],
+            "all": [
+                "Requirements Gathering",
+                "System Analysis",
+                "Process Modeling",
+                "Data Analysis",
+                "Solution Design",
+                "Testing and Validation",
+                "Training and Support",
+                "Compliance",
+                "Critical Thinking",
+                "Technical Proficiency",
+                "Communication",
+                "Project Management",
+                "Attention to Detail",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Raghu Prasad",
+        "email": "raghu.prasad@blue-oceanventures.com",
+        "jd": "Hi, What is in it for you?\n\nAs a Business Analyst, you will be a part of an Agile team to build healthcare applications and implement new features while adhering to the best coding development standards.\n\nResponsibilities:\n\nRequirements Gathering: Collaborate with stakeholders to understand and document business requirements related to healthcare claims processing.\n\nSystem Analysis: Analyze existing systems and processes to identify areas for improvement and ensure they meet business needs.\n\nProcess Modeling: Develop and document process models to illustrate current and future states of the claims processing workflow.\n\nData Analysis: Perform data analysis to support decision-making and identify trends or issues in claims data.\n\nSolution Design: Work with IT teams to design and implement system solutions that improve efficiency and accuracy in claims processing.\n\nTesting and Validation: Develop test plans and conduct system testing to ensure solutions meet business requirements and are free of defects.\n\nTraining and Support: Provide training and support to end-users on new systems and processes.\n\nCompliance: Ensure that all systems and processes comply with healthcare regulations and standards.",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:32:05-05:00",
+        "unique_id": "192ddf73e80550de",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

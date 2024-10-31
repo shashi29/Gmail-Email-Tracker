@@ -1,0 +1,71 @@
+[
+    {
+        "company": "tek Inspiration LLC",
+        "job_title": "Senior Business Analyst",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Technical Degree or related work experience",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "analytics",
+                "systems development",
+                "process documentation",
+                "Business Objects"
+            ],
+            "primary": [
+                "inflight entertainment streaming platform",
+                "broadband connectivity",
+                "database management",
+                "analytical abilities",
+                "excellent communication"
+            ],
+            "secondary": [
+                "ITIL Foundations"
+            ],
+            "all": [
+                "SQL",
+                "analytics",
+                "systems development",
+                "process documentation",
+                "Business Objects",
+                "inflight entertainment streaming platform",
+                "broadband connectivity",
+                "database management",
+                "analytical abilities",
+                "excellent communication",
+                "ITIL Foundations"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "sourabh",
+        "email": "sourabh.singh@tekinspirations.com",
+        "jd": "Position: Senior Business Analyst\nLocation: Chicago, Illinois (Hybrid)\nDuration: 6+ Months\n\nJob Description:\nMust have experience with inflight entertainment streaming platform and broadband connectivity.\nTechnical Degree or related work experience\nProven experience in an analytics and systems development capacity\nHigh proficiency with SQL language and database management\nProven analytical abilities\nPractical experience generating process documentation and reports\nExcellent communicator with the ability to translate data into actionable insights\nExperience working with Business Objects.\nKnowledge of ITIL Foundations.",
+        "source": "Email",
+        "date_posted": "2024-10-30 13:50:43-05:00",
+        "unique_id": "192df0aa85e5e139",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

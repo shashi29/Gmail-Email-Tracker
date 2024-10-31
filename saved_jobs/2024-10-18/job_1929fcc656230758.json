@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Oracle Database Developer / Administrator",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle Spatial",
+                "Oracle PL/SQL",
+                "SQL Developer",
+                "Azure DevOps",
+                "GIT"
+            ],
+            "primary": [
+                "PL/SQL",
+                "Esri ArcSDE"
+            ],
+            "secondary": [
+                "Eclipse",
+                "Agile methodology"
+            ],
+            "all": [
+                "Oracle Spatial",
+                "Oracle PL/SQL",
+                "SQL Developer",
+                "Azure DevOps",
+                "GIT",
+                "PL/SQL",
+                "Esri ArcSDE",
+                "Eclipse",
+                "Agile methodology"
+            ],
+            "with_experience": [
+                "Oracle Spatial (dynamic segmentation, LRS, SDO)",
+                "Oracle PL/SQL"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ravina",
+        "email": "ravina@vyzeinc.com",
+        "jd": "From: Ravina, Vyze Inc ravina@vyzeinc.com Reply to: ravina@vyzeinc.com Job Description -Title: Oracle Database Developer / AdministratorLocation: Austin, TX (Hybrid) (Candidates must be local)The Database Developer / Administrator at this level willWork as part of a Scrum TeamComplete user stories, bugs, and technical debtReview, update, and develop PL/SQL, including LRS and other Oracle Spatial operationsIntegrate PL/SQL code into the Azure DevOps code repositoryEvaluate user requests for new data elements new features and provide any necessary technical assistancePerform data modeling, prototyping, and maintain data dictionary, ensuring uniformity of definitions and standardsMonitor database performance and recommend efficiency improvementsHelp resolve database-related security risks and vulnerabilitiesAssist with required reporting as established by the clientMinimum Yrs of Experience, Skills, and Qualifications: 8+ yearsOracle Spatial (dynamic segmentation, LRS, SDO)Oracle PL/SQLVersion control systems (Azure DevOps, GIT)SQL Developer (or other like IDEs)Esri ArcSDE (integration with Oracle Spatial)Preferred Skills and Qualifications: Familiarity withAzure DevOps (project management, user stories/bugs/test cases, etc.)EclipseAgile methodology",
+        "source": "Email",
+        "date_posted": "2024-10-18 07:48:17-05:00",
+        "unique_id": "1929fcc656230758",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

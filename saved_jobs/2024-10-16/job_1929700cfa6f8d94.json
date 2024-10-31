@@ -1,0 +1,84 @@
+[
+    {
+        "company": "NYPD",
+        "job_title": ".Net Full Stack Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net Core",
+                "C#",
+                "JSON",
+                "Elastic Search",
+                "JMeter"
+            ],
+            "primary": [
+                "ASP.NET Core",
+                "Kubernetes",
+                "SpecFlow",
+                "Azure DevOps",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Docker",
+                "Cloud experience",
+                "Kafka",
+                "Elastic APM",
+                "Kibana"
+            ],
+            "all": [
+                ".Net Core",
+                "C#",
+                "JSON",
+                "Elastic Search",
+                "JMeter",
+                "ASP.NET Core",
+                "Kubernetes",
+                "SpecFlow",
+                "Azure DevOps",
+                "CI/CD",
+                "Docker",
+                "Cloud experience",
+                "Kafka",
+                "Elastic APM",
+                "Kibana"
+            ],
+            "with_experience": [
+                ".Net Core (5+ years)",
+                "C# (5+ years)",
+                "JMeter (4+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Chandan singh",
+        "email": "csingh@vyzeinc.com",
+        "jd": "From: Chandan singh, Vyzeinc csingh@vyzeinc.com Reply to: csingh@vyzeinc.com Hi,Hope you are doing well.Please find below position if you haveany matching candidate as per requirement.Please send me updated resume with candidate information. For vendor emailingJob Description -Tittle: .Net Full Stack DeveloperClient: NYPDVisa: USC onlyLocation: NEW YORK - 750 Seventh Ave- NYSchedule: 3 days onsiteLocation: Hybrid - with onsite travel to NYC office.Eligibility: Must be US Citizen ONLY - (Due to previous issues, eligibility will be verified)Travel Requirements: Yes, travel to NYC required.INTERVIEW Interview Process: WebEx interviews followed by a mandatory face-to-face interviewLinkedin Must Job Description:We are seeking a highly skilled Full Stack Developer to join our team, focusing on developing and testing a loosely coupled, event-driven architecture platform with a strong emphasis on data and resiliency. The role will primarily involve developing services and automation testing, with occasional work on various UI technologies.Key Responsibilities:Develop and test C# services and applications (preferably with .Net Core and Kubernetes).Build web API services using JSON and ASP.NET Core.Develop backend message processing services utilizing C# and message queuing systems such as Service Bus, MQ Series, and Kafka.Implement services querying Elastic Search.Define and build API tests for web services (4+ years), using tools like JMeter and Visual Studio Test.Develop user experiences using modern web frameworks (e.g., React), Windows platforms (WPF/UWP), and/or iOS applications with Xamarin.Build and execute performance tests for web/mobile applications (4+ years), utilizing JMeter.Develop automated regression test suites using tools such as Selenium, SpecFlow for BDD, JMeter, and Visual Studio unit tests.Collaborate within a small agile team developing applications, services, and automated tests that will be utilized across multiple devices.Required Skills & Experience:.Net Core C# development experience.Expertise in building JSON-based APIs using C#.Experience querying Elastic Search.Proficiency with JMeter.Experience with SpecFlow as a tool for Behavior Driven Development (BDD).DevOps experience, preferably with Azure DevOps.Experience working in teams using CI/CD pipelines with automated testing.5+ years of relevant experience.Nice to Have:Virtualization and containerization experience with Docker and Kubernetes.Experience creating CI/CD pipelines in Azure DevOps.Cloud experience, particularly with Azure.Developing Kafka message consumers and producers.Experience with Elastic APM and Kibana.",
+        "source": "Email",
+        "date_posted": "2024-10-16 14:48:53-05:00",
+        "unique_id": "1929700cfa6f8d94",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

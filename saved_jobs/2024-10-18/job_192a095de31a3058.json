@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Sydata Inc",
+        "job_title": "Azure Data Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "PA",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, Data Science, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PySpark",
+                "Azure Data Factory",
+                "Power BI",
+                "SQL"
+            ],
+            "primary": [
+                "Data Architecture",
+                "Data Pipeline Development",
+                "Data Modeling",
+                "Integration and Automation",
+                "Data Governance and Security",
+                "Performance Optimization",
+                "Reporting Visualization"
+            ],
+            "secondary": [
+                "Data Fabric",
+                "Big Data Processing",
+                "Data Integration",
+                "Data Engineering",
+                "Data Visualization",
+                "Collaboration",
+                "Problem-solving",
+                "Analytical skills"
+            ],
+            "all": [
+                "PySpark",
+                "Azure Data Factory",
+                "Power BI",
+                "SQL",
+                "Data Architecture",
+                "Data Pipeline Development",
+                "Data Modeling",
+                "Integration and Automation",
+                "Data Governance and Security",
+                "Performance Optimization",
+                "Reporting Visualization",
+                "Data Fabric",
+                "Big Data Processing",
+                "Data Integration",
+                "Data Engineering",
+                "Data Visualization",
+                "Collaboration",
+                "Problem-solving",
+                "Analytical skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Shobhana Kulhade",
+        "email": "shobhana@sydatainc.com",
+        "jd": "Immediate need Azure Data Architect in PA,USA - Remote Azure Data ArchitectPA,USA - Remote Skill (Primary) Data Fabric-Big Data Processing-Apache Spark Experience 15-19 Years JD:Minimum15+ years of experience in data architecture and engineering, with a focus on PySpark, ADF, and Power BI. Proven experience in designing and implementing data pipelines, ETL processes, and data integration solutions. Strong experience in data modeling and data warehouse design. Technical Skills: Proficiency in PySpark for big data processing and transformation. Extensive experience with Azure Data Factory for data orchestration and ETL workflows. Strong expertise in Power BI for data visualization, dashboard creation, and reporting. Knowledge of Azure services and other relevant cloud-based data technologies. Strong SQL skills and experience with relational databases. Excellent problem-solving and analytical skills. Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams. Ability to manage multiple priorities in a fast-paced environment. Job Description : PySpark, ADF and PowerBIJob Summary:Experience as Data Architect with expertise in PySpark, Azure Data Factory (ADF), and Power BI to design and implement scalable data solutions that meet business requirements. The ideal candidate will have a strong background in data engineering, data integration, and data visualization, with a focus on creating efficient, reliable, and secure data pipelines and reporting solutions.Key Responsibilities:Data Architecture Design: Design and develop scalable, high-performance data architecture solutions using PySpark, ADF, and Power BI to support business intelligence, analytics, and reporting needs.Data Pipeline Development: Build and manage robust data pipelines using PySpark and Azure Data Factory, ensuring efficient data extraction, transformation, and loading (ETL) processes across various data sources.Data Modeling: Develop and maintain data models that optimize query performance and support the needs of analytics and reporting teams.Integration and Automation: Design and implement integration strategies to automate data flows between systems and ensure data consistency and accuracy.Collaboration: Work closely with data engineers, data analysts, business intelligence teams, and other stakeholders to understand data requirements and deliver effective solutions.Data Governance and Security: Ensure data solutions adhere to best practices in data governance, security, and compliance, including data privacy regulations and policies.Performance Optimization: Continuously monitor and optimize data processes and architectures for performance, scalability, and cost-efficiency.Reporting Visualization: Utilize Power BI to design and develop interactive dashboards and reports that provide actionable insights for business stakeholders.Documentation: Create comprehensive documentation for data architecture, data flows, ETL processes, and reporting solutions.Troubleshooting Support: Provide technical support and troubleshooting for data-related issues, ensuring timely resolution and minimal impact on business operations.Qualifications: Education: Bachelor s degree in Computer Science, Information Technology, Data Science, or a related field.Experience:Minimum of 15+ years of experience in data architecture and engineering, with a focus on PySpark, ADF, and Power BI.Proven experience in designing and implementing data pipelines, ETL processes, and data integration solutions.Strong experience in data modeling and data warehouse design. Technical Skills:Proficiency in PySpark for big data processing and transformation.Extensive experience with Azure Data Factory (ADF) for data orchestration and ETL workflows.Strong expertise in Power BI for data visualization, dashboard creation, and reporting.Knowledge of Azure services (e.g., Azure Data Lake, Azure Synapse) and other relevant cloud-based data technologies.Strong SQL skills and experience with relational databases.Soft Skills:Excellent problem-solving and analytical skills.Strong communication and collaboration skills, with the ability to work effectively with cross-functional teams.Ability to manage multiple priorities in a fast-paced environment. Preferred Qualifications: Certifications: Microsoft certifications related to Azure, Power BI, or data engineering are a plus.Experience: Experience in a similar role within a large enterprise environment is preferred. (1.) To be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity. (2.) To conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization , implementation of best practices and coding stand",
+        "source": "Email",
+        "date_posted": "2024-10-18 11:28:00-05:00",
+        "unique_id": "192a095de31a3058",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

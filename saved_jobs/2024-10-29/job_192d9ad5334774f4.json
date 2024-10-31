@@ -1,0 +1,74 @@
+[
+    {
+        "company": "KK Associates LLC",
+        "job_title": "Java Developer",
+        "location": "Boynton Beach, FL, USA",
+        "full_location": {
+            "city": "Boynton Beach",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Only H1b, USC, TN visas",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55",
+            "job_code": "",
+            "max_rate": "$55"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Angular 9+",
+                "RESTful API",
+                "SQL",
+                "NoSQL"
+            ],
+            "primary": [
+                "Hibernate",
+                "Git",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Teamwork"
+            ],
+            "all": [
+                "Java",
+                "Angular 9+",
+                "RESTful API",
+                "SQL",
+                "NoSQL",
+                "Hibernate",
+                "Git",
+                "CI/CD",
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Teamwork"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Siddaram M",
+        "email": "siddaram@kksoftwareassociates.com",
+        "jd": "Hi ..This is Siddaram from KK Associates, I have Exclusive Opening for Below Position if you are intrested OR If you have Suitable Resumes, Kindly contact me on siddaram@kksoftwareassociates.com Position: Java Developer (Angular 9+ exp is MUST) --------Boynton Beach, FL-------Only H1b, USC, TN visas-------Max Rate:$55location: Boynton Beach, FLHire Type: Contract Responsibilities:Should have 10+ years of overall experienceProven experience as a Java Developer with a solid understanding of web application development.Strong proficiency in Angular 9+ and related frameworks.Experience with RESTful API development and integration.Familiarity with databases (SQL/NoSQL) and ORM frameworks (e.g., Hibernate).Knowledge of version control systems (e.g., Git) and CI/CD practices.Excellent problem-solving and analytical skills.Strong communication and teamwork abilities.",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:32:50-05:00",
+        "unique_id": "192d9ad5334774f4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

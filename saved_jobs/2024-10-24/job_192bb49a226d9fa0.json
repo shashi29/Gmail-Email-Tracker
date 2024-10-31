@@ -1,0 +1,75 @@
+[
+    {
+        "company": "General Motors",
+        "job_title": "Senior Full-Stack Software Developer",
+        "location": "Detroit, MI, USA",
+        "full_location": {
+            "city": "Detroit",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Angular",
+                "SQL",
+                "Spring Boot"
+            ],
+            "primary": [
+                "multi-threaded development",
+                "cloud platforms",
+                "Kubernetes",
+                "Docker",
+                "HPC platforms",
+                "agile environment",
+                "UI Design"
+            ],
+            "secondary": [
+                "software development best practices",
+                "dealing with ambiguity"
+            ],
+            "all": [
+                "Java",
+                "Angular",
+                "SQL",
+                "Spring Boot",
+                "multi-threaded development",
+                "cloud platforms",
+                "Kubernetes",
+                "Docker",
+                "HPC platforms",
+                "software development best practices",
+                "agile environment",
+                "UI Design",
+                "dealing with ambiguity"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "vinay",
+        "email": "vsingh@vyzeinc.com",
+        "jd": "From: vinay, vyze vsingh@vyzeinc.com Reply to: vsingh@vyzeinc.com Job Title: Senior Full-Stack Software Developer Duration :6+ Month Location: Detroit, MI, Local candidates Note :Client looking who have General Motors experience skill : Minimum 7 years of professional software development experience \u2022 Excellent technical (hands-on) knowledge of Java, Angular, SQL\u2022 Proficient in multi-threaded development \u2022 Experience with Spring Boot\u2022 Experience with cloud platforms, Kubernetes, Docker and HPC platforms\u2022 Good understanding of software development best practices \u2022 Experience working in an agile environment \u2022 Extensive UI Design experience \u2022 Comfortable dealing with ambiguity",
+        "source": "Email",
+        "date_posted": "2024-10-23 15:55:05-05:00",
+        "unique_id": "192bb49a226d9fa0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Innovyt",
+        "job_title": "Staff Data Engineer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor/Master\u2019s degree in computer science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Services",
+                "Python",
+                "Big Data Technologies",
+                "SQL",
+                "NoSQL databases"
+            ],
+            "primary": [
+                "Data Architecture",
+                "ETL Processes",
+                "Data Integration",
+                "Performance Optimization",
+                "Collaboration",
+                "Monitoring",
+                "Documentation"
+            ],
+            "secondary": [
+                "Data Modeling",
+                "DevOps",
+                "Security",
+                "Problem-Solving",
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "all": [
+                "AWS Services",
+                "Python",
+                "Big Data Technologies",
+                "SQL",
+                "NoSQL databases",
+                "Data Architecture",
+                "ETL Processes",
+                "Data Integration",
+                "Performance Optimization",
+                "Collaboration",
+                "Monitoring",
+                "Documentation",
+                "Data Modeling",
+                "DevOps",
+                "Security",
+                "Problem-Solving",
+                "Communication",
+                "Teamwork",
+                "Adaptability"
+            ],
+            "with_experience": [
+                "AWS Services",
+                "Python",
+                "Big Data Technologies"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Monika",
+        "email": "monika.singh@innovyt.com",
+        "jd": "Hi,I hope you are doing well.We have an opportunity for Staff Data Engineer with one of our clients for AUSTIN, TX (Hybrid)Please see the job details below and let me know if you would be interested in this role.If interested, please send me a copy of your resume, contact details, availability, and a good time to connect with you. Job Title: - Staff Data EngineerLocation: - AUSTIN, TX (Hybrid)Terms: - ContractNOTE: Looking for 12+ years of experienced candidate who is local to Texas. Job Details:Responsibilities:Data Architecture: Design, develop, and maintain scalable data architectures and pipelines on AWS to support data analytics and business intelligence.ETL Processes: Build and manage ETL processes to extract, transform, and load data from various sources into data warehouses and data lakes.Data Integration: Integrate data from multiple sources, ensuring data quality, consistency, and security.Performance Optimization: Optimize data processing workflows for performance, scalability, and cost-efficiency.Collaboration: Work closely with data scientists, analysts, and other stakeholders to understand data requirements and deliver solutions that meet business needs.Monitoring: Implement monitoring and alerting systems to ensure data pipeline reliability and performance.Documentation: Maintain comprehensive documentation of data architectures, pipelines, and processes.Qualifications:Education: Bachelor/Master\u2019s degree in computer science, Engineering, or a related field.Experience:10+ years of experience in data engineering, with a focus on AWS-based solutions.Proven experience in designing and implementing data pipelines and architectures.Technical Skills:AWS Services: Proficiency in AWS services such as S3, Redshift, Glue, Lambda, EMR, and RDS.Programming Languages: Strong programming skills in Python.Big Data Technologies: Experience with big data technologies like Hadoop, Spark, and Kafka.Database Management: Proficiency in SQL and NoSQL databases.Data Modeling: Strong understanding of data modeling, data warehousing, and data lake concepts.DevOps: Familiarity with DevOps practices and tools (e.g., Docker, Kubernetes, Jenkins).Security: Knowledge of data security best practices and compliance requirements.Certifications:AWS Certified Data Engineer - AssociateAWS Certified Data Analytics \u2013 Specialty Soft Skills:Problem-Solving: Strong analytical and problem-solving skills.Communication: Excellent communication and interpersonal skills to interact with various stakeholders.Teamwork: Ability to work effectively in a collaborative team environment.Adaptability: Flexibility to adapt to changing business requirements and technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-16 11:53:40-05:00",
+        "unique_id": "1929688766da4219",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

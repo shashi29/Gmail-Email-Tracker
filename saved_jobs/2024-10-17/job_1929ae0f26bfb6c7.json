@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Nitya INC",
+        "job_title": "Java Full stack Engineer",
+        "location": "Arlington, VA, USA",
+        "full_location": {
+            "city": "Arlington",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Moderate Java/Spring Boot experience",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Kafka",
+                "CI/CD",
+                "Security (OWASP etc)",
+                "Angular",
+                "React"
+            ],
+            "primary": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "RESTful APIs",
+                "JSON",
+                "Git",
+                "agile development methodologies",
+                "UI testing frameworks"
+            ],
+            "secondary": [
+                "Vue"
+            ],
+            "all": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Kafka",
+                "CI/CD",
+                "Security (OWASP etc)",
+                "Angular",
+                "React",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "RESTful APIs",
+                "JSON",
+                "Git",
+                "agile development methodologies",
+                "UI testing frameworks",
+                "Vue"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Nitya",
+        "email": "sravani@nityainc.com",
+        "jd": "From: sravani, Nitya INC sravani@nityainc.com Reply to: sravani@nityainc.com Position TitleJava Full stack Engineer (2 positions)LocationArlington, VA - hybrid model at Mastercard Arlington LocationDurationContractInterview Process1 Round internal interview and 2 client interviewJob Description Must Have: Java (OOPS/12 Factor/SOLID), Springboot, Microservices, Kafka, CI/CD, Security (OWASP etc), Angular/React, Cloud Responsibilities: Build responsive, user-friendly UIs. Integrate UIs with Java/Spring Boot backend. Debug and resolve UI and backend integration issues. Work with cross-functional teams to deliver end-to-end solutions. Requirements: Strong front-end skills (HTML, CSS, JavaScript, Typescript, React/Angular/Vue). Familiarity with RESTful APIs, JSON, and integrating front-end with back-end services. Moderate Java/Spring Boot experience. Experience with version control (Git) and agile development methodologies. Familiarity with UI testing frameworks and tools.",
+        "source": "Email",
+        "date_posted": "2024-10-17 08:49:52-05:00",
+        "unique_id": "1929ae0f26bfb6c7",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

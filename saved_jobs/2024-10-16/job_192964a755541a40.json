@@ -1,0 +1,67 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "Java Full Stack Developer",
+        "location": "San Jose, CA, USA",
+        "full_location": {
+            "city": "San Jose",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "React.js",
+                "CSS",
+                "HTML/HTML5",
+                "JavaScript",
+                "JSON"
+            ],
+            "primary": [
+                "microservices",
+                "API design",
+                "cloud principles",
+                "DevOps"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "React.js",
+                "CSS",
+                "HTML/HTML5",
+                "JavaScript",
+                "JSON",
+                "microservices",
+                "API design",
+                "cloud principles",
+                "DevOps"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Divya Sai Chand",
+        "email": "divya.c@itechus.net",
+        "jd": "HelloThis is Divya Sai from iTech US, we have an urgent Job opening from one our client, please go through below JD if you are interested, please share me your updated resume.Role : Java Full Stack DeveloperLocation: San Jose, CA (locals) Type : ContractDescription:Develop user interfaces using languages such as CSS, HTML/HTML5, JavaScript, and JSON.Work with React.jsLead software development for large-scale, business-critical applications, applying cloud and DevOps principles.Design and implement software using Java frameworks, with a focus on microservices and API design.Digital : HTML5-CSS3, Digital : ReactJS8-10CSS, HTML/HTML5, JavaScript, and JSON",
+        "source": "Email",
+        "date_posted": "2024-10-16 11:28:33-05:00",
+        "unique_id": "192964a755541a40",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

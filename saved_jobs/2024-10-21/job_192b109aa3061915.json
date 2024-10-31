@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Absolute IT",
+        "job_title": "Azure Databricks Consultant / Data Engineer",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Databricks",
+                "Pyspark",
+                "Azure Data Factory",
+                "Azure SQL DB",
+                "Data warehouse"
+            ],
+            "primary": [
+                "ADLS",
+                "Azure Data Analytics",
+                "Azure Data Lake",
+                "Azure Data Catalogue",
+                "LogicApps",
+                "Function Apps",
+                "SQL",
+                "T-SQL",
+                "PL/SQL",
+                "Agile",
+                "Jira"
+            ],
+            "secondary": [
+                "Data Ingestion projects",
+                "Performance tuning",
+                "Optimizing code",
+                "Event based technologies",
+                "Streaming technologies"
+            ],
+            "all": [
+                "Azure Databricks",
+                "Pyspark",
+                "Azure Data Factory",
+                "Azure SQL DB",
+                "Data warehouse",
+                "ADLS",
+                "Azure Data Analytics",
+                "Azure Data Lake",
+                "Azure Data Catalogue",
+                "LogicApps",
+                "Function Apps",
+                "SQL",
+                "T-SQL",
+                "PL/SQL",
+                "Agile",
+                "Jira",
+                "Data Ingestion projects",
+                "Performance tuning",
+                "Optimizing code",
+                "Event based technologies",
+                "Streaming technologies"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Devyani Kumari",
+        "email": "devyani@absoluting.com",
+        "jd": "From: Devyani Kumari, Absolute IT devyani@absoluting.com Reply to: devyani@absoluting.com Title: Azure Databricks Consultant / Data EngineerLocation: Jersey City, NJ, United StatesCandidate must have an active and an updated LinkedIn ID with a picture and current location updated (REQUIRED!!)MUST BE ONSITE 2X WEEKmust have Data bricks and PysparkMust be able to interview onsite. First interview video and 2nd interview onsiteVISA H1B OR H4EAD ONLYMUST HAVE LINKEDIN PROFILE AT LEAST 5 YEARS OLD (REQUIRED!!)MUST LIVE LOCALLY TO NEW JERSEY!!Onsite Flexibility: 60% Remote/2 days week onsite in Jersey City NJREQUIREMENTS:Experience on ADLS, Azure Databricks, Azure SQL DB and Data warehouseStrong working experience in Implementation of Azure cloud components using Azure Data Factory, Azure Data Analytics, Azure Data Lake, Azure Data Catalogue, LogicApps and Function AppsHave knowledge in Azure Storage services (ADLS, Storage Accounts)Expertise in designing and deploying data applications on cloud solutions on AzureHands on experience in performance tuning and optimizing code running in Databricks environmentGood understanding of SQL, T-SQL and/or PL/SQLShould have experience working in Agile projects with knowledge in JiraGood to have handled Data Ingestion projects in Azure environmentRESPONSIBILITIESBuild large-scale batch and real-time data pipelines with data processing frameworks in Azure cloud platform.Designing and implementing highly performant data ingestion pipelines from multiple sources using Azure Databricks.Direct experience of building data pipelines using Azure Data Factory and Databricks.Developing scalable and re-usable frameworks for ingesting of datasetsLead design of ETL, data integration and data migration.Partner with architects, engineers, information analysts, business, and technology stakeholders for developing and deploying enterprise grade platforms that enable data-driven solutions.Integrating the end to end data pipeline - to take data from source systems to target data repositories ensuring the quality and consistency of data is maintained at all timesWorking with event based / streaming technologies to ingest and process dataWorking with other members of the project team to support delivery of additional project components (API interfaces, Search)Evaluating the performance and applicability of multiple tools against customer requirements",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:08:55-05:00",
+        "unique_id": "192b109aa3061915",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

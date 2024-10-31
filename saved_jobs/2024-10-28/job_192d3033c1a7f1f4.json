@@ -1,0 +1,54 @@
+[
+    {
+        "company": "TCS",
+        "job_title": "Java Backend Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$50/hr"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SQL"
+            ],
+            "primary": [
+                "Kubernetes",
+                "Kafka"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "SQL",
+                "Kubernetes",
+                "Kafka"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Chandra N",
+        "email": "chandra.n@siriinfo.com",
+        "jd": "From: Chandra N, Siri Info chandra.n@siriinfo.com Reply to: chandra.n@siriinfo.com Java Backend DeveloperTCSOpen to relocate Only H1/USCrate : $50/hr SkillsJavaBackend expSQLKubernetesKafka",
+        "source": "Email",
+        "date_posted": "2024-10-28 06:29:16-05:00",
+        "unique_id": "192d3033c1a7f1f4",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

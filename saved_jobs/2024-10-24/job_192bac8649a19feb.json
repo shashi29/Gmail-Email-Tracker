@@ -1,0 +1,109 @@
+[
+    {
+        "company": "Vyze",
+        "job_title": "Java Developer",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring MVC",
+                "Hibernate",
+                "SQL",
+                "PL/SQL"
+            ],
+            "primary": [
+                "JQuery",
+                "HTML5",
+                "JavaScript",
+                "HTML",
+                "XML",
+                "Angular",
+                "RESTful Web Services",
+                "Apache Struts",
+                "GIT",
+                "Apache Tomcat",
+                "JBOSS",
+                "Web Sphere",
+                "Openshift Container",
+                "CI/CD",
+                "Azure Devops",
+                "Business Objects",
+                "Oracle Discoverer",
+                "EHR",
+                "HL7",
+                "EDI X12"
+            ],
+            "secondary": [
+                "Design Patterns",
+                "Agile",
+                "Test Driven Development",
+                "Databricks",
+                "Elastic search"
+            ],
+            "all": [
+                "Java",
+                "Spring MVC",
+                "Hibernate",
+                "SQL",
+                "PL/SQL",
+                "JQuery",
+                "HTML5",
+                "JavaScript",
+                "HTML",
+                "XML",
+                "Angular",
+                "RESTful Web Services",
+                "Apache Struts",
+                "GIT",
+                "Apache Tomcat",
+                "JBOSS",
+                "Web Sphere",
+                "Openshift Container",
+                "CI/CD",
+                "Azure Devops",
+                "Business Objects",
+                "Oracle Discoverer",
+                "EHR",
+                "HL7",
+                "EDI X12",
+                "Design Patterns",
+                "Agile",
+                "Test Driven Development",
+                "Databricks",
+                "Elastic search"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "priya",
+        "email": "ppundhir@vyzeinc.com",
+        "jd": "Job Description -Java Developer Location; Hybrid(Mi ,Lansing) Need local candidateVisa: NO H1B/CPT/OPTDuration: 6 months What you'll be doing\u2026Writing well-designed, testable code using Spring MVC, Hibernate framework for entity object mapping, JQuery/HTML5, JavaScript, HTML, XML, Angular.Developing business application components using Object Oriented Java/JEE technologies, design principles.Designing and developing RESTful Web Services using Spring Web MVC framework.Developing and maintaining applications using Apache Struts framework.Implementing design patterns like Intercepting Filter, Front Controller, Session Fa\u00e7ade, DAO, Singleton, and Service Locator.Executing full software development life cycle (SDLC) including experience in gathering requirements and writing functional/technical specifications for complex projects.Designing both logical and physical database models.Developing database objects including stored procedures, functions.Troubleshooting issues using SQL, PL/SQL scripts.Experience tuning SQL queries and scripts.Integrating software components into a fully functional software system.Using source control tools such as GIT.Developing with application servers Apache Tomcat, JBOSS, Web Sphere, Openshift Container.Developing, prototypes, mockup for users review and approval.Working on large agile projects.Experience with Java 8, SOAP Web-Services and Java Messaging Service (JMS) API.Experience with Spring Boot Projects, Spring Data, Spring Batch, Spring Security frameworks.Database Design in Oracle and SQL server.Creating CI/CD pipelines using Azure Devops.Designing, developing and maintaining BI reporting solutions using Business Objects and Oracle Discoverer.Developing PL/SQL Procedures, Functions, Packages and Job Scheduling.Experience in Electronic Health Records(EHR) HL7 solutions.Experience in 5010 EDI X12 healthcare claims processing solutions.Experience in SIGMA payment processing type solutions.The right person has\u202612+ years developing complex computer systems using Java.12+ years developing complex computer systems using java IDEs such as Eclipse, STS.12+ years programming in SQL and/or PL/SQL.8+ years programming using Java JEE Struts Framework.8+ years programming using Java JEE Spring/SpringBoot Framework 3.0.8+ years of development using Hibernate/JPA framework.5+ years experience with AWS, Databricks, and Elastic search.5+ years in projects development using Angular/React JS, JavaScript framework.5+ years programming in the JBOSS Enterprise SOA environment including JBOSS Workflow.5+ years using CMM/CMMI Level 3 methods and practices.5+ years implemented agile development processes including test driven development.3+ years Experience or Knowledge on creating CI/CD pipelines using Azure Devops- Nice to have",
+        "source": "Email",
+        "date_posted": "2024-10-23 13:33:54-05:00",
+        "unique_id": "192bac8649a19feb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

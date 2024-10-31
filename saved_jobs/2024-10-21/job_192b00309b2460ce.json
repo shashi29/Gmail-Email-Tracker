@@ -1,0 +1,62 @@
+[
+    {
+        "company": "KK Software Associates",
+        "job_title": "Technical Architect/Lead Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 & Above",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks workflows",
+                "APIs",
+                "Data Engineering"
+            ],
+            "primary": [
+                "Microsoft Azure",
+                "Databricks"
+            ],
+            "secondary": [
+                "Azure Cloud"
+            ],
+            "all": [
+                "Databricks workflows",
+                "APIs",
+                "Data Engineering",
+                "Microsoft Azure",
+                "Databricks",
+                "Azure Cloud"
+            ],
+            "with_experience": [
+                "Databricks workflows",
+                "APIs",
+                "Data Engineering"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rohit Kumar Singh",
+        "email": "rohit.k@kksoftwareassociates.com",
+        "jd": "Hello,Hope you are doing good.This is Rohit from KK Software Associates LLC. We are the Preferred vendor for the clients.I found your resume suitable for one of the job opportunities we currently have. Please find the detailed job description and please do let me know if you are interested in this opening:Role name: Technical Architect/Lead Data EngineerExperience (Years): 10 & AboveCompetencies: Microsoft Azure, DatabricksEssential Skills: Databricks workflows, APIs, and Data Engineering.Desirable Skills: Azure Cloud Role Description: Data processing scheduling and management, in particular ETL.Generating dashboards and visualizations.Managing security, governance, high availability, and disaster recovery.Data discovery, annotation, and exploration.",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:17:51-05:00",
+        "unique_id": "192b00309b2460ce",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

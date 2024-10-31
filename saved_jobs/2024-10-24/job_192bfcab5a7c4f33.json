@@ -1,0 +1,88 @@
+[
+    {
+        "company": "HCL Global",
+        "job_title": "Azure Databricks/DevOps Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$60/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "SQL",
+                "PySpark",
+                "Python",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Azure Storage",
+                "CI/CD",
+                "DevOps",
+                "GIT"
+            ],
+            "primary": [
+                "Data Modeling",
+                "Healthcare Domain & Data knowledge",
+                "Testing automation using Pytest"
+            ],
+            "secondary": [],
+            "all": [
+                "Databricks",
+                "SQL",
+                "PySpark",
+                "Python",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Azure Storage",
+                "CI/CD",
+                "DevOps",
+                "GIT",
+                "Data Modeling",
+                "Healthcare Domain & Data knowledge",
+                "Testing automation using Pytest"
+            ],
+            "with_experience": [
+                "Databricks (12+ years)",
+                "SQL (10+ years)",
+                "PySpark (7+ years)",
+                "Python (7+ years)",
+                "Azure Data Factory (3+ years)",
+                "Azure Databricks (3+ years)",
+                "Azure Storage (3+ years)",
+                "Healthcare Domain & Data knowledge (9+ years)",
+                "CI/CD (5+ years)",
+                "DevOps (5+ years)",
+                "GIT (5+ years)",
+                "Testing automation using Pytest (5+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vinod Kumar",
+        "email": "vinod@hclglobal.com",
+        "jd": "Hello,Greetings of the day,One of my direct Clients was looking for a Azure Databricks/DevOps Engineer \u2013 Remote. If you are interested, please share your updated resume or you can also reach me on 806-601-0018Job role : Azure Databricks/DevOps EngineerJob Location : RemoteRate: $60/hr on C2COnly looking for Healthcare Domain with more than 12+ years experience in Databricks (below candidates are not considered)Only Genuine Visa accepted ( NO OPT, CPT, F1)Job Description:Skill - Desired Experience in Years Handled data engineering projects for batch and streaming ingestion. Structured and unstructured data management -10+ Expert SQL Developer with Data Modeling experience -9+ PySpark, Python -7+ Azure Data Factory, Azure Databricks, Azure Storage -3+ Healthcare Domain & Data knowledge -9+ CI/CD, DevOps, GIT, Productionizing data pipelines -5+ Testing automation using Pytest or other frameworks -",
+        "source": "Email",
+        "date_posted": "2024-10-24 12:54:34-05:00",
+        "unique_id": "192bfcab5a7c4f33",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "company": "KPG99",
+        "job_title": "Senior Data Engineer",
+        "location": "Woonsocket, RI, USA",
+        "full_location": {
+            "city": "Woonsocket",
+            "state": "RI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor\u2019s Degree in Computer Science, Engineering, Statistics, Physics, Math, or related field or equivalent experience",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months (Extensions as well as potential to go full time)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "big data pipelines",
+                "data analysis",
+                "data exploration"
+            ],
+            "primary": [
+                "Snowflake",
+                "Databricks",
+                "cloud-based platforms",
+                "RDBMS",
+                "NoSQL Databases",
+                "query tuning",
+                "version control",
+                "Airflow",
+                "Azure Data Factory",
+                "real-time technology",
+                "data modeling",
+                "system architecture design",
+                "cross-functional collaboration"
+            ],
+            "secondary": [
+                "REST API",
+                "Microservice development",
+                "Kubernetes",
+                "AKS",
+                "bash shell scripts",
+                "UNIX utilities",
+                "healthcare experience",
+                "DevOps best practice",
+                "CICD",
+                "Jenkins"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "big data pipelines",
+                "data analysis",
+                "data exploration",
+                "Snowflake",
+                "Databricks",
+                "cloud-based platforms",
+                "RDBMS",
+                "NoSQL Databases",
+                "query tuning",
+                "version control",
+                "Airflow",
+                "Azure Data Factory",
+                "real-time technology",
+                "data modeling",
+                "system architecture design",
+                "cross-functional collaboration",
+                "REST API",
+                "Microservice development",
+                "Kubernetes",
+                "AKS",
+                "bash shell scripts",
+                "UNIX utilities",
+                "healthcare experience",
+                "DevOps best practice",
+                "CICD",
+                "Jenkins"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sonali Gupta",
+        "email": "sgupta@kpgtech.com",
+        "jd": "From: Sonali Gupta, KPG99 sgupta@kpgtech.com Reply to: sgupta@kpgtech.com Hi,Please Read the below Requirement and share your resume and also please let me know your visa status and current Location if interested.Senior Data EngineerLocation- Woonsocket, RI \u2013 Hybrid 3 days On-site a weekDuration 6+ months (Extensions as well as potential to go full time)Visa- USC or GC Only Start ASAP**LOCAL ONLY Candidates must be local in 100 miles and be able to convert without sponsorship. Required Qualifications:\u2022 Strong in SQL and Python, with 3+ years hands-on coding experience with both\u2022 Experience building automated big data pipelines\u2022 Experience performing data analysis and data exploration\u2022 Experience working in an agile delivery environment\u2022 Strong critical thinking, communication, and problem solving skills and a quick learner\u2022 Experience with Snowflake, Databricks or any big data frameworks on Spark\u2022 Experience with cloud-based platforms (i.e. Azure, GPC, AWS)\u2022 Experience with RDBMS and NoSQL Databases and hands-on query tuning/optimization\u2022 Experience working in multi-developer environment, using version control (i.e. Git)\u2022 Experience with orchestrating pipelines using tools (i.e. Airflow, Azure Data Factory)\u2022 Experience with real-time and streaming technology (i.e. Azure Event Hubs, Azure Functions Kafka, Spark Streaming)\u2022 Experience with data modeling and system architecture design\u2022 Experience partnering cross-functionally with other technical teams (i.e. data ingestion, data science, operational systems) to align priorities and achieve deliverable outcomes\u2022 Experience with setting coding standards, performing code reviews, and mentoring junior developersPreferred Qualifications:\u2022 Experience with REST API/Microservice development using Python\u2022 Experience with deployment/scaling of apps on containerized environment (i.e. Kubernetes, AKS)\u2022 Experience with bash shell scripts, UNIX utilities & UNIX Commands\u2022 Ability to understand complex systems and solve challenging analytical problems\u2022 Previous healthcare experience and domain knowledge\u2022 Exposure/understanding DevOps best practice and CICD (i.e. Jenkins)Education\u2022 Bachelor\u2019s Degree in Computer Science, Engineering, Statistics, Physics, Math, or related field or equivalent experience\u2022 Preferred: Master\u2019s Degree with coursework focused on advanced algorithms, mathematics in computing, data structures, etc Candidates should have:Cloud Experience \u2013 GCP is a plusPython \u2013 3+ years experienceJava - 3+ years experienceSpark",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:49:14-05:00",
+        "unique_id": "192b12e95e90b54d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Sibitalent",
+        "job_title": "Senior Java Developer (RxJava & Kafka)",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "RxJava",
+                "Apache Kafka",
+                "SQL",
+                "NoSQL"
+            ],
+            "primary": [
+                "Object-oriented programming",
+                "Multithreading",
+                "Concurrency",
+                "Distributed systems",
+                "Event streaming",
+                "Microservices architecture",
+                "RESTful API development",
+                "CI/CD tools"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Attention to detail",
+                "Fast-paced environment"
+            ],
+            "all": [
+                "Java",
+                "RxJava",
+                "Apache Kafka",
+                "SQL",
+                "NoSQL",
+                "Object-oriented programming",
+                "Multithreading",
+                "Concurrency",
+                "Distributed systems",
+                "Event streaming",
+                "Microservices architecture",
+                "RESTful API development",
+                "CI/CD tools",
+                "Problem-solving",
+                "Attention to detail",
+                "Fast-paced environment"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Gurdeep Singh",
+        "email": "gsingh@sibitalent.com",
+        "jd": "Hello ,My name is Gurdeep Singh and I am a Staffing Specialist at Sibitalent. I am reaching out to you on an exciting job opportunity with one of our client Job Title: Senior Java Developer (RxJava & Kafka)Location: Sunnyvale, CADuration: 6+ months Experience: [8+ years / as required]Visa: No H1-OPT-CPTNode: Local to CA Required Skills & Qualifications8+ years of experience in Java development with a deep understanding of object-oriented programming and design principles.Strong hands-on experience with RxJava or similar reactive programming libraries.Proven experience with Apache Kafka for building real-time event-driven architectures.Familiarity with multithreading, concurrency, and parallel processing.Experience in distributed systems and event streaming.Knowledge of microservices architecture and RESTful API development.Proficiency with SQL and NoSQL databases.Familiarity with CI/CD tools like Jenkins, GitLab CI, or CircleCI.Strong problem-solving skills, attention to detail, and ability to work in a fast-paced environment.",
+        "source": "Email",
+        "date_posted": "2024-10-28 12:16:08-05:00",
+        "unique_id": "192d4b15a8d23ea8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

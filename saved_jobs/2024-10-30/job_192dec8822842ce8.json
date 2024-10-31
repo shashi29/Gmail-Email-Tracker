@@ -1,0 +1,75 @@
+[
+    {
+        "company": "FISEC GLOBAL",
+        "job_title": "Google Cloud Engineer (DEVOPS)",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud",
+                "Google Cloud",
+                "Infrastructure as Code (IaC)",
+                "Terraform",
+                "CloudFormation"
+            ],
+            "primary": [
+                "Python",
+                "Bash",
+                "PowerShell",
+                "Networking",
+                "Security",
+                "Database Management"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Team collaboration"
+            ],
+            "all": [
+                "AWS Cloud",
+                "Google Cloud",
+                "Infrastructure as Code (IaC)",
+                "Terraform",
+                "CloudFormation",
+                "Python",
+                "Bash",
+                "PowerShell",
+                "Networking",
+                "Security",
+                "Database Management",
+                "Problem-solving",
+                "Team collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "RAHUL BALUSA",
+        "email": "rahul@fisecglobal.net",
+        "jd": "Role: Google Cloud Engineer (DEVOPS)\nLocation: New Jersey (onsite)\nDuration: Long term\n\nNOTE: Share Resumes with GCP and AWS Cloud Experience MUST Be local to New York/New Jersey\n\nJob description:\nWe are seeking a highly skilled and experienced Senior Cloud Engineer to join our dynamic team. The ideal candidate will have a strong background in both AWS Cloud and Google Cloud platforms, with a proven track record of 8-10 years in IT engineering. The Senior Cloud Engineer will be responsible for designing, implementing, and maintaining cloud infrastructure to support our business needs.\n\nResponsibilities:\n- Design, deploy, and manage scalable, secure, and reliable cloud infrastructure on AWS and Google Cloud platforms.\n- Collaborate with cross-functional teams to define cloud architecture and best practices.\n- Automate cloud operations and workflows using Infrastructure as Code (IaC) tools such as Terraform or CloudFormation.\n- Monitor and optimize cloud performance, ensuring high availability and disaster recovery.\n- Implement security best practices and compliance controls across cloud environments.\n- Troubleshoot and resolve complex cloud infrastructure issues in a timely manner.\n\nQualifications:\n- Bachelor's degree in Computer Science, Information Technology, or a related field.\n- 8-10 years of IT engineering experience with a focus on cloud technologies.\n- Extensive experience with AWS Cloud and Google Cloud platforms.\n- Proficiency in scripting languages such as Python, Bash, or PowerShell.\n- Strong understanding of networking, security, and database management in cloud environments.\n- Excellent problem-solving skills and the ability to work independently and as part of a team.",
+        "source": "Email",
+        "date_posted": "2024-10-30 13:20:40-05:00",
+        "unique_id": "192dec8822842ce8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

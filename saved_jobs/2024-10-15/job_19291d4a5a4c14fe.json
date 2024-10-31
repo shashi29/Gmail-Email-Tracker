@@ -1,0 +1,101 @@
+[
+    {
+        "company": "Sammons",
+        "job_title": "Data Engineer",
+        "location": "Des Moines, IA, USA",
+        "full_location": {
+            "city": "Des Moines",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1 year+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Cloud-based data integration",
+                "Data modeling",
+                "ETL/ELT processes",
+                "Data warehousing"
+            ],
+            "primary": [
+                "Kafka",
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "Data governance",
+                "Metadata management",
+                "Data quality controls",
+                "Data lineage",
+                "Data security",
+                "AWS",
+                "Azure",
+                "Google Cloud Platform",
+                "Agile",
+                "Scrum"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Collaboration"
+            ],
+            "all": [
+                "Data Engineering",
+                "Cloud-based data integration",
+                "Data modeling",
+                "ETL/ELT processes",
+                "Data warehousing",
+                "Kafka",
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "Data governance",
+                "Metadata management",
+                "Data quality controls",
+                "Data lineage",
+                "Data security",
+                "AWS",
+                "Azure",
+                "Google Cloud Platform",
+                "Agile",
+                "Scrum",
+                "Problem-solving",
+                "Collaboration"
+            ],
+            "with_experience": [
+                "Data Engineering",
+                "Kafka",
+                "Python",
+                "Java",
+                "Scala",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anshu Chaudhary",
+        "email": "anshu@steneral.com",
+        "jd": "From: Anshu Chaudhary, Steneral Consulting Inc. anshu@steneral.com Reply to: anshu@steneral.com Role: Data EngineerLocation: Des Moines, IA MUST be onsite, LocalsDuration: 1 year+Client: Sammons We are seeking a highly skilled and motivated Data Engineer with expertise in cloud-based data integration to join our dynamic team. The ideal candidate will play a pivotal role in designing, developing, and maintaining robust data pipelines and systems to support our insurance and annuity products.Design, implement, and manage scalable data pipelines for ingesting, transforming, and storing diverse data sets from various sources into our cloud-based data infrastructure.Develops, tests, and deploys code using internal software development toolsets, including the code for deploying infrastructure and solutions for secure data storage, ETL pipelines, data catalogs and data queriesCollaborate with cross-functional teams to understand data requirements and develop solutions that meet business objectives.Optimize data workflows and processes for efficiency, reliability, cost and performance.Ensure data quality, integrity, and security throughout the data lifecycle.Desired SkillsProven experience publishing and managing Kafka topics.Proven experience as a Data Engineer, preferably in the insurance or financial services industry.Strong expertise in data modeling, ETL/ELT processes, and data warehousing concepts.Hands-on experience with programming languages (Python, Java, or Scala) and SQL.Strong understanding of data governance, metadata management, data quality controls, data lineage and data security.Proficiency in cloud data platforms such as AWS, Azure, or Google Cloud Platform.Experience working in an Agile environment with strong Scrum framework knowledge.Excellent problem-solving skills and ability to work in a fast-paced, collaborative environment.",
+        "source": "Email",
+        "date_posted": "2024-10-15 14:42:30-05:00",
+        "unique_id": "19291d4a5a4c14fe",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

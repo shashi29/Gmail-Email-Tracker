@@ -1,0 +1,97 @@
+[
+    {
+        "company": "ITech US Inc",
+        "job_title": "Java Full Stack Developer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "MongoDB"
+            ],
+            "primary": [
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFormation",
+                "API Gateway",
+                "DynamoDB",
+                "CloudWatch",
+                "CodePipeline",
+                "CodeBuild",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray"
+            ],
+            "secondary": [
+                "Automated testing frameworks",
+                "CI/CD pipelines",
+                "Serverless architectures",
+                "Automated backup and disaster recovery solutions"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "MongoDB",
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFormation",
+                "API Gateway",
+                "DynamoDB",
+                "CloudWatch",
+                "CodePipeline",
+                "CodeBuild",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray",
+                "Automated testing frameworks",
+                "CI/CD pipelines",
+                "Serverless architectures",
+                "Automated backup and disaster recovery solutions"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manasa Salla",
+        "email": "manasa.s@itechus.net",
+        "jd": "From: Manasa Salla, ITech US INC manasa.s@itechus.net Reply to: manasa.s@itechus.net Hi\u2026\u2026\u2026\u2026\u2026Greetings, This is Manasa from ITech US Inc. Below are the details of the position with one of our clients. We would like to know if you are interested or can recommend someone interested in this job. Position: Java Full Stack DeveloperLocation: McLean, VA AZ, IL (Need local ID proof)Duration: 12+ months contractOnsite from Day 1 Visa: H1B | Need passport number along with submissionRole Description: Should be very good in AWS services - EC2, S3, EMR, Lambda, Cloud watch and more.Java with Microservice Mongo DB experience.Design, develop, and deploy web applications using AWS services such as EC2, S3, Lambda, and DynamoDBDevelop and maintain serverless architectures using AWS services such as API Gateway, CloudFormation, and CloudWatchCreate and maintain automated deployment pipelines using AWS CodePipeline and CodeBuildDesign and develop RESTful APIs using AWS API Gateway and LambdaDevelop and maintain automated testing frameworks using AWS services such as CodeBuild and CodeDeployDesign and develop cloud-native applications using AWS services such as ECS, EKS, and FargateDevelop and maintain cloud infrastructure using AWS services such as CloudFormation and CloudWatchMonitor and troubleshoot application performance using AWS services such as CloudWatch and X-RayDevelop and maintain security best practices for AWS services such as IAM, KMS, and CloudTrailDevelop and maintain CI/CD pipelines using AWS services such as CodePipeline and CodeBuildDesign and develop serverless applications using AWS services such as Lambda and Step FunctionsDevelop and maintain automated backup and disaster recovery solutions using AWS services such as EBS and S3Thanks & RegardsManasa SallaSr Technical RecruiteriTech US, Incmanasa.s@itechus.netLinkedIn: https://www.linkedin.com/in/manasa-salla-0836711a8",
+        "source": "Email",
+        "date_posted": "2024-10-28 17:03:10-05:00",
+        "unique_id": "192d56c7fb8358df",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

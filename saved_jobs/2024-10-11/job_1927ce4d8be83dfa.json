@@ -1,0 +1,51 @@
+[
+    {
+        "company": "Spear Staffing",
+        "job_title": "Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "$100/hr"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Angular"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Angular"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Bhaskar Negi",
+        "email": "bhaskar@spearstaffing.com",
+        "jd": "From: bhaskar, SPEAR STAFFING bhaskar@spearstaffing.com Reply to: bhaskar@spearstaffing.com ROLE : Java developerLocation: RemoteDuration:12+monthsInterview: video Rate: $100/hr This is an backfill role Need someone who have worked with java and angular Thanks, and regardsBhaskar NegiSenior Technical RecruiterPhone- +1 240-261-2375Email: - Bhaskar@spearstaffing.comWebsite: - www.spearstaffing.com",
+        "source": "Email",
+        "date_posted": "2024-10-11 13:07:59-05:00",
+        "unique_id": "1927ce4d8be83dfa",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

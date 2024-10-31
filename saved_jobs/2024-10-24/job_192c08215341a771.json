@@ -1,0 +1,69 @@
+[
+    {
+        "company": "APPLE",
+        "job_title": "Java Automation Tester",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$62/hour"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Rest API",
+                "playwright",
+                "site speed"
+            ],
+            "primary": [
+                "Automation",
+                "Testing",
+                "QA"
+            ],
+            "secondary": [
+                "Good Communicator",
+                "Organized",
+                "Tools-first mindset"
+            ],
+            "all": [
+                "Java",
+                "Rest API",
+                "playwright",
+                "site speed",
+                "Automation",
+                "Testing",
+                "QA",
+                "Good Communicator",
+                "Organized",
+                "Tools-first mindset"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jay, Brillius",
+        "email": "jay.s@brillius.com",
+        "jd": "From: Jay, Brillius jay.s@brillius.com Reply to: jay.s@brillius.com Automation EngineerExperience (Years): 6-8Essential Skills: \u2022 Automation and Testing\u2022 5+ Years Experience in QA and Automation with proficiency in Java, Rest API, playwright, site speed.\u2022 Prior Apple exp\u2022 Good Communicator\u2022 Organized Tools-first mindsetAustin, TXKeywords: Java, Rest API, playwright, site speed",
+        "source": "Email",
+        "date_posted": "2024-10-24 16:11:02-05:00",
+        "unique_id": "192c08215341a771",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

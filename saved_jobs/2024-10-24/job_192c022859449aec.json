@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Teamware Solutions",
+        "job_title": "Java developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "8-10 Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "REST APIs",
+                "Microservices",
+                "Jenkins",
+                "OpenShift"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "REST APIs",
+                "Microservices",
+                "Jenkins",
+                "OpenShift"
+            ],
+            "with_experience": [
+                "Java (8-10 years)",
+                "Spring Boot",
+                "REST APIs",
+                "Microservices",
+                "Jenkins",
+                "OpenShift"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "RAGAVI.P",
+        "email": "ragavi.p@twsol.com",
+        "jd": "From: RAGAVI.P, Teamware Solutions ragavi.p@twsol.com Reply to: ragavi.p@twsol.com Job role: Java developer Location: Phoenix, AZ Visa status: Only H1b (Day 1 on site) Experience: 8- 10 Years Passport No: is mandatory Role Description: Develop and maintain REST APIs and Microservices using Spring Boot. 2. Manage CI/CD pipelines with Jenkins 3. Deploy and monitor services on OpenShift 4. write and execute unit test case 5. Troubleshoot and resolve issues in production environment 6. work autonomously and ensure timely project delivery. Essential Skills: Develop and maintain REST APIs and Microservices using Spring Boot. 2. Manage CI/CD pipelines with Jenkins 3. Deploy and monitor services on OpenShift 4. write and execute unit test case 5. Troubleshoot and resolve issues in production environment 6. work autonomously and ensure timely project delivery.",
+        "source": "Email",
+        "date_posted": "2024-10-24 13:31:58-05:00",
+        "unique_id": "192c022859449aec",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

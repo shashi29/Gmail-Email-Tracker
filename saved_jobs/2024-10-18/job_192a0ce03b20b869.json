@@ -1,0 +1,78 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "AWS Platform Architect",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12-15+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Platform Architecture",
+                "Kubernetes",
+                "Terraform",
+                "CI/CD",
+                "Git"
+            ],
+            "primary": [
+                "AWS services (EKS, S3, RDS, IAM, VPC)",
+                "Infrastructure as Code (IaC)",
+                "Cloud security best practices",
+                "Troubleshooting and problem-solving",
+                "Collaboration with cross-functional teams"
+            ],
+            "secondary": [
+                "Argo CD",
+                "Multi-region architectures",
+                "Networking concepts",
+                "Security audits",
+                "Cost optimization"
+            ],
+            "all": [
+                "AWS Platform Architecture",
+                "Kubernetes",
+                "Terraform",
+                "CI/CD",
+                "Git",
+                "AWS services (EKS, S3, RDS, IAM, VPC)",
+                "Infrastructure as Code (IaC)",
+                "Cloud security best practices",
+                "Troubleshooting and problem-solving",
+                "Collaboration with cross-functional teams",
+                "Argo CD",
+                "Multi-region architectures",
+                "Networking concepts",
+                "Security audits",
+                "Cost optimization"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Charu Sharma",
+        "email": "charu.sharma@tekinspirations.com",
+        "jd": "From: charu sharma, tek inspirations charu.sharma@tekinspirations.com Reply to: charu.sharma@tekinspirations.com AWS Platform Architect We need: A very senior (12-15+ years) AWS Platform/Infrastructure Architect with extensive experience to Design, implement, and manage highly scalable and reliable cloud infrastructure solutions based on AWS services as well as Deploy and manage Kubernetes clusters using best practices and industry standards. They must Develop and maintain CI/CD pipelines utilizing Git, GitHub, and Git Actions for efficient and automated deployments. The candidates experience should be around AWS Infrastructure. Utilize Terraform to automate infrastructure provisioning and configuration management. Candidates must be LOCAL to the NEW YORK or NEW JERSEY area and COMMUTE into the office A FEW TIMES A QUARTER. NO RELOCATION CONSIDERED. CANDIDATES NEED TO BE WITHIN A TWO HOUR COMMUTE TO MIDTOWN FOR OCCASIONAL ONSITE EVENTS. Please make sure that each submittal includes:Driver\u2019s license or State IDLink to the candidates LinkedIn account.Answers of below matrix Ques.: 1. How many years working with: AWS Platform Architecture2. Name of Certifications (Please list)3. How many years working with: AWS services, including EKS, S3, RDS, IAM, VPC4. How many years working with: Deploy and manage Kubernetes clusters5. How many years working with: Terraform6. How many years working with: AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA) Job Description:Design, implement, and manage highly scalable and reliable cloud infrastructure solutions based on AWS services.Deploy and manage Kubernetes clusters using best practices and industry standards.Develop and maintain CI/CD pipelines utilizing Git, GitHub, and Git Actions for efficient and automated deployments.Collaborate with cross-functional teams to architect, build, and deploy applications and services on the cloud platform.Utilize Terraform to automate infrastructure provisioning and configuration management.Ensure the availability, performance, and security of the cloud infrastructure and applications.Conduct regular security audits, vulnerability assessments, and implement appropriate security controls.Collaborate with DevOps and development teams to optimize application performance and troubleshoot issues.Monitor and analyze cloud infrastructure usage and cost optimization, suggesting improvements and efficiencies.Stay updated with the latest cloud technologies and trends, evaluating their potential benefits and implementing them as appropriate.Requirements:Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent experience).Strong experience working with AWS services, including EKS, S3, RDS, IAM, VPC.Solid understanding of containerization technologies, particularly Kubernetes, and experience deploying and managing Kubernetes clusters in a production environment.Proficiency in version control systems such as Git and experience with GitHub and Git Actions for CI/CD pipelines.Hands-on experience with Argo CD or similar continuous deployment tools.Strong knowledge of infrastructure as code (IaC) principles and experience with Terraform for infrastructure provisioning and management.Experience with global deployments and multi-region architectures.Deep understanding of cloud security best practices and hands-on experience implementing security controls and monitoring systems.Familiarity with networking concepts.Excellent troubleshooting and problem-solving skills, with the ability to analyze and resolve complex infrastructure and application issues.Strong communication skills and ability to collaborate effectively with cross-functional teams.Relevant certifications such as AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA), or similar are a plus.Join us in this exciting opportunity to shape and optimize our cloud infrastructure, ensuring the security and scalability of our applications and services.",
+        "source": "Email",
+        "date_posted": "2024-10-18 11:07:44-05:00",
+        "unique_id": "192a0ce03b20b869",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

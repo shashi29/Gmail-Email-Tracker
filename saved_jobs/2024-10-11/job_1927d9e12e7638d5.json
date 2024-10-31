@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Abidi Solutions",
+        "job_title": "Sr. AWS Migration Infrastructure Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Initial 6 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Azure",
+                "Terraform",
+                "PowerShell",
+                "SQL"
+            ],
+            "primary": [
+                "AWS Step Functions",
+                "AWS Batch",
+                "CI/CD",
+                "GitHub",
+                "GitHub Actions"
+            ],
+            "secondary": [
+                "AWS Certified Solutions Architect",
+                "AWS Certified DevOps Engineer"
+            ],
+            "all": [
+                "AWS",
+                "Azure",
+                "Terraform",
+                "PowerShell",
+                "SQL",
+                "AWS Step Functions",
+                "AWS Batch",
+                "CI/CD",
+                "GitHub",
+                "GitHub Actions",
+                "AWS Certified Solutions Architect",
+                "AWS Certified DevOps Engineer"
+            ],
+            "with_experience": [
+                "AWS (Proven experience in cloud migration projects)",
+                "Terraform (Proficiency in Terraform IaC)",
+                "GitHub (Experience in GitHub platform for source code management)",
+                "PowerShell (Experience in PowerShell, SQL, etc based scheduled / cron jobs)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Shaik Mohammed",
+        "email": "smohammed@abidisolutions.com",
+        "jd": "From: shaik mohammed, www.abidisolutions.com smohammed@abidisolutions.com Reply to: smohammed@abidisolutions.com Job Title: Sr. AWS Migration Infrastructure Architect Location: RemoteVisa: all visa is workable except H1b, OPT, and CPTDuration: Initial 6 months contract(No H1b, OPT, and CPT) The client in Canada is offering a remote opportunity.Responsibilities:Migrate and test migrating significant Control-M jobs (PowerShell, OS procedures, and SQL scripts for Oracle and other databases) from Azure and AWS EC2 to AWS Step Functions, AWS Batch and LambdaProvision AWS infrastructure using Terraform IaC and CI/CD pipelines.Develop observability capability for execution monitoring.Collaborate with cross-functional teams to ensure seamless migration and zero-downtime deployment.Troubleshoot and resolve migration-related issues.Document migration processes and best practices.Requirements:Proven experience in cloud migration projects, specifically Step Functions, Batch, & Systems Manager for AWS.Strong knowledge in Azure and AWS.Proficiency in Terraform IaC, GitHub platform for source code management and git branching patternExperience in GitHub Actions for CICD.Experience in PowerShell, SQL, etc based scheduled / cron jobs.Preferred Qualifications:AWS certifications (e.g., AWS Certified Solutions Architect, AWS Certified DevOps Engineer)",
+        "source": "Email",
+        "date_posted": "2024-10-11 15:25:46-05:00",
+        "unique_id": "1927d9e12e7638d5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

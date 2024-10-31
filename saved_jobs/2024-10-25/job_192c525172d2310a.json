@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Propelsys",
+        "job_title": "Certified Azure Net Developer",
+        "location": "Blue Ash, OH, USA",
+        "full_location": {
+            "city": "Blue Ash",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Mandatory",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Development",
+                "Azure functions",
+                "service bus",
+                "APIM",
+                "Azure CI/CD",
+                "Key vaults",
+                "storages",
+                ".net core",
+                "Web api",
+                "C#",
+                "Entity framework",
+                "SQL Server",
+                "ASP.mvc",
+                "reactjs",
+                "Terraform"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Azure Development",
+                "Azure functions",
+                "service bus",
+                "APIM",
+                "Azure CI/CD",
+                "Key vaults",
+                "storages",
+                ".net core",
+                "Web api",
+                "C#",
+                "Entity framework",
+                "SQL Server",
+                "ASP.mvc",
+                "reactjs",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kranthi",
+        "email": "kranthi@propelsys.com",
+        "jd": "Certified Azure Net Developer Recent Healthcare Domain Blue Ash, OH- Hybrid Linkedin ID Experience 8+ NO FAKE VisaMandatory : Azure AZ-204 certification Healthcare Skill set needed: 5 to 7 years of experience in i. Azure Development: Azure functions, service bus, APIM, Azure CI/CD, Key vaults, storages Anyone having AZ-204 certification ii. .net core iii. Web api iv. C# v. Entity framework vi. SQL Server vii. ASP.mvc or reactjs viii. Terraform",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:08:06-05:00",
+        "unique_id": "192c525172d2310a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

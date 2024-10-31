@@ -1,0 +1,110 @@
+[
+    {
+        "company": "Orbitpeople LLC",
+        "job_title": "Azure Data Engineer",
+        "location": "Fremont, NH, USA",
+        "full_location": {
+            "city": "Fremont",
+            "state": "NH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "SQL",
+                "data engineering",
+                "data warehousing",
+                "data lakes"
+            ],
+            "primary": [
+                "ETL",
+                "ELT",
+                "ADF",
+                "Informatica",
+                "Talend",
+                "Azure Synapse",
+                "Azure SQL",
+                "Amazon Redshift",
+                "Snowflake",
+                "Google Big Query",
+                "Databricks",
+                "Spark",
+                "PySpark",
+                "Spark SQL"
+            ],
+            "secondary": [
+                "Event Hub",
+                "IOT Hub",
+                "Azure Stream Analytics",
+                "Azure Analysis Service",
+                "Cosmo DB",
+                "SAP ECC",
+                "S/4",
+                "Hana",
+                "Power BI",
+                "Azure DevOps",
+                "CI/CD",
+                "cloud migration methodologies"
+            ],
+            "all": [
+                "Azure",
+                "SQL",
+                "data engineering",
+                "data warehousing",
+                "data lakes",
+                "ETL",
+                "ELT",
+                "ADF",
+                "Informatica",
+                "Talend",
+                "Azure Synapse",
+                "Azure SQL",
+                "Amazon Redshift",
+                "Snowflake",
+                "Google Big Query",
+                "Databricks",
+                "Spark",
+                "PySpark",
+                "Spark SQL",
+                "Event Hub",
+                "IOT Hub",
+                "Azure Stream Analytics",
+                "Azure Analysis Service",
+                "Cosmo DB",
+                "SAP ECC",
+                "S/4",
+                "Hana",
+                "Power BI",
+                "Azure DevOps",
+                "CI/CD",
+                "cloud migration methodologies"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Richa Mathur",
+        "email": "richa.mathur@orbitpeople.com",
+        "jd": "From: Richa Mathur, Orbitpeople LLC richa.mathur@orbitpeople.com Reply to: richa.mathur@orbitpeople.com The following are the job details:\nJob title: Azure Data Engineer\nLocation: Fremont, NH\nJob type: Onsite\nMust have Skills :\n\u00b7 Min 5 years of experience in modern data engineering/data warehousing/data lakes technologies on cloud platforms like Azure, AWS, GCP, Data Bricks etc.\n\u00b7 Azure experience is preferred over other cloud platforms.\n\u00b7 10 + years of proven experience with SQL, schema design and dimensional data modelling Solid knowledge of data warehouse best practices, development standards and methodologies\n\u00b7 Experience with ETL/ELT tools like ADF, Informatica , Talend etc., and data warehousing technologies like Azure Synapse, Azure SQL, Amazon redshift , Snowflake , Google Big Query etc..\n\u00b7 Strong experience with big data tools(Databricks , Spark etc..) and programming skills in PySpark and Spark SQL.\n\u00b7 Excellent communication and teamwork abilities.\nNice to Have Skills:\n\u00b7 Event Hub, IOT Hub, Azure Stream Analytics, Azure Analysis Service, Cosmo DB knowledge.\n\u00b7 SAP ECC /S/4 and Hana knowledge.\n\u00b7 Intermediate knowledge on Power BI Azure DevOps and CI/CD deployments, Cloud migration methodologies and processes\nAre you interested for this job?",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:18:50-05:00",
+        "unique_id": "192ddeb1a68a630d",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

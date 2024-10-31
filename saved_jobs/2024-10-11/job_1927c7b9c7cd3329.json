@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Absolute IT",
+        "job_title": "Senior Data Engineer",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "data modeling",
+                "data governance",
+                "data flow diagrams"
+            ],
+            "primary": [
+                "data retrieval",
+                "data storage",
+                "data analysis"
+            ],
+            "secondary": [
+                "Databricks",
+                "data engineering"
+            ],
+            "all": [
+                "data modeling",
+                "data governance",
+                "data flow diagrams",
+                "data retrieval",
+                "data storage",
+                "data analysis",
+                "Databricks",
+                "data engineering"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Preety Srivastava",
+        "email": "preety@absoluting.com",
+        "jd": "Hello I hope you are doing well.I am hiring a consultant for one of my client's requirements. I've written the Job Description for the same below. If you find yourself comfortable with the requirement please reply back with your updated resume. Name: Data Engineer Location: : Jersey City, New Jersey 3 days onsite as per client's availability in office. Experience Required: 12+ years Project Duration: 12 Months Job Description/Roles & Responsibilities: Ensure data is structured for accurate and efficient retrieval, storage, and analysis. Ability to create and optimize data models for integration, reporting, and analytics. Expertise in developing and maintaining taxonomies, metadata schemas, and data flow diagrams. Provide a clear framework for managing and accessing data consistently and easily. Knowledge of data governance, including quality management, stewardship, and compliance. Enable effective design, implementation, and management of data structures using appropriate tools. Good to have Databricks database knowledge. Good to have Data Engineering skill set.",
+        "source": "Email",
+        "date_posted": "2024-10-11 11:13:02-05:00",
+        "unique_id": "1927c7b9c7cd3329",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

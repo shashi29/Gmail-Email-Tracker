@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Amber IT Staffing",
+        "job_title": "AWS Lambda Developer/Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2-5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Month Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Lambda",
+                "Python",
+                "Node.js",
+                "Java",
+                "Go",
+                "C#"
+            ],
+            "primary": [
+                "API Gateway",
+                "DynamoDB",
+                "S3",
+                "RDS",
+                "CloudWatch",
+                "IAM",
+                "VPC",
+                "SQS",
+                "SNS",
+                "Kinesis",
+                "EventBridge"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Git",
+                "GitHub",
+                "Bitbucket",
+                "Agile Development"
+            ],
+            "all": [
+                "AWS Lambda",
+                "Python",
+                "Node.js",
+                "Java",
+                "Go",
+                "C#",
+                "API Gateway",
+                "DynamoDB",
+                "S3",
+                "RDS",
+                "CloudWatch",
+                "IAM",
+                "VPC",
+                "SQS",
+                "SNS",
+                "Kinesis",
+                "EventBridge",
+                "CI/CD",
+                "Git",
+                "GitHub",
+                "Bitbucket",
+                "Agile Development"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rashika Kashyap",
+        "email": "rashika.k@amberitstaffing.com",
+        "jd": "Hello Partner's, i have very urgent position on AWS Lambda Developer/Engineer Job Title: AWS Lambda Developer/Engineer Location: Remote Duration: 12 Month Contract Start Date: ASAP Job Description: Key Responsibilities:Design and Develop Serverless Applications: Build and maintain serverless applications using AWS Lambda, ensuring they meet business requirements and performance standards.Integration with AWS Services: Implement Lambda functions to interact with other AWS services such as API Gateway, DynamoDB, S3, RDS, SNS, and SQS.API Development: Create RESTful APIs using AWS Lambda and API Gateway, ensuring secure and scalable data access.Event-Driven Architectures: Develop event-driven architectures that leverage AWS Lambda functions to respond to changes in databases, message queues, or storage events.Optimize Performance: Write efficient and optimized code to ensure minimal latency and cost-efficiency within the AWS environment, leveraging the pay-as-you-go model.Monitor and Debug: Implement logging, monitoring, and error-handling practices using tools like CloudWatch, X-Ray, or third-party services to ensure high availability and fault tolerance.Security: Apply security best practices for AWS Lambda, including managing secrets, encrypting sensitive data, and implementing IAM roles and policies to control access.Automation and CI/CD: Build and maintain CI/CD pipelines for serverless applications using AWS tools like CodePipeline, CodeBuild, and CodeDeploy or third-party solutions like Jenkins or GitLab CI.Documentation and Collaboration: Create and maintain technical documentation for serverless applications and collaborate with cross-functional teams (DevOps, Frontend, Backend) to ensure cohesive solutions.Required Skills and Qualifications:Experience with AWS Lambda: 2-5+ years of hands-on experience developing serverless applications using AWS Lambda.Proficiency in Programming Languages: Strong proficiency in one or more languages supported by AWS Lambda, such as Python, Node.js, Java, Go, or C#.AWS Services Expertise: Familiarity with key AWS services such as API Gateway, S3, DynamoDB, RDS, CloudWatch, IAM, and VPC.Event-Driven Development: Experience building event-driven architectures and using Lambda with AWS services like SQS, SNS, Kinesis, or EventBridge.API Development: Experience developing and securing REST APIs with API Gateway and Lambda.CI/CD Pipeline Experience: Experience with continuous integration and deployment (CI/CD) tools for automating the build, testing, and deployment of Lambda functions.Security Best Practices: Strong knowledge of AWS security best practices, including identity and access management (IAM), encryption, and secure API development.Monitoring and Debugging: Experience with AWS monitoring, logging, and debugging tools like CloudWatch, X-Ray, and third-party APM tools.Version Control and Collaboration Tools: Proficiency with Git, GitHub, or Bitbucket, and experience working in agile development teams.",
+        "source": "Email",
+        "date_posted": "2024-10-17 10:09:52-05:00",
+        "unique_id": "1929b28bfb141642",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

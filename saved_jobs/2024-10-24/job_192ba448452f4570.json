@@ -1,0 +1,85 @@
+[
+    {
+        "company": "EOG Resources",
+        "job_title": "Oracle Developer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Multi-year engagement",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "Oracle Database Development",
+                "SQL",
+                "ETL",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "Python",
+                "Data Analysis",
+                "Database Partitions",
+                "Packages",
+                "Procedures",
+                "Functions",
+                "Oracle User Defined Types"
+            ],
+            "secondary": [
+                "JSON",
+                "pandas",
+                "Oracle Exadata",
+                "MemSQL",
+                "SingleStore",
+                "NoSQL databases"
+            ],
+            "all": [
+                "PL/SQL",
+                "Oracle Database Development",
+                "SQL",
+                "ETL",
+                "Performance Tuning",
+                "Python",
+                "Data Analysis",
+                "Database Partitions",
+                "Packages",
+                "Procedures",
+                "Functions",
+                "Oracle User Defined Types",
+                "JSON",
+                "pandas",
+                "Oracle Exadata",
+                "MemSQL",
+                "SingleStore",
+                "NoSQL databases"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vinod Kumar",
+        "email": "vinod.kumar@excelhirestaffing.com",
+        "jd": "From: Vinod Kumar, Excel Hire Staffing, LLC vinod.kumar@excelhirestaffing.com Reply to: vinod.kumar@excelhirestaffing.com Oracle DeveloperLocation: Houston, TX (77002)Duration: Multi-year engagementVisa: as long as that person resides in the US when presenting \u2013 h4, EAD, GC, Citizen.(Strongly Prefer USC/GC)just remember, the candidates have to have at least 5yrs exp but no more than 10 to be considered. DOWNTOWN HOUSTONThis is a long-term consulting position with EOG Resources in Downtown Houston (77002 zip code) looking for a strong Oracle Database Developer. This is an onsite position.Minimum of 5 yrs but no more than 10 years of PL/SQL development (hiring manager wants a true mid-level candidate \u2013 she will not interview anyone with more than 10 yrs of overall professional experience)Proficient in database development utilizing partitions, packages, procedures, function and Oracle user defined types.Strong experience in developing end to end jobs as part of ETL.Strong SQL and PL/SQL tuning skills.Data analysis skills to debug, trace and fix performance problems.Python experience is preferredFamiliarity with JSON, pandas, etc. Preferred:Familiarity with Oracle ExadataFamiliarity with MemSQL/SingleStore or other NoSQL databases",
+        "source": "Email",
+        "date_posted": "2024-10-23 11:07:46-05:00",
+        "unique_id": "192ba448452f4570",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

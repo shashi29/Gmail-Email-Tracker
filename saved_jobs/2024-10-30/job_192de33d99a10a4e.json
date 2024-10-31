@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Samson Software Solutions",
+        "job_title": ".Net Fullstack Developer",
+        "location": "Redmond, WA, USA",
+        "full_location": {
+            "city": "Redmond",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "Web APIs",
+                "ASP.NET",
+                "Azure",
+                "SQL"
+            ],
+            "primary": [
+                "Core .NET",
+                "API Integration",
+                "Azure Functions",
+                "Azure Logic Apps",
+                "Azure Service Bus",
+                "Azure Event Grid",
+                "ReactJS",
+                "JavaScript"
+            ],
+            "secondary": [
+                "Azure Data skills",
+                "ADF Pipelines",
+                "Azure Synapse",
+                "Azure Data Lake",
+                "Dynamics 365 CE skills",
+                "Power Platform",
+                "TypeScript"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "Web APIs",
+                "ASP.NET",
+                "Azure",
+                "SQL",
+                "Core .NET",
+                "API Integration",
+                "Azure Functions",
+                "Azure Logic Apps",
+                "Azure Service Bus",
+                "Azure Event Grid",
+                "ReactJS",
+                "JavaScript",
+                "Azure Data skills",
+                "ADF Pipelines",
+                "Azure Synapse",
+                "Azure Data Lake",
+                "Dynamics 365 CE skills",
+                "Power Platform",
+                "TypeScript"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ashish Awasthi",
+        "email": "ashish.awasthi@samsonsoft.com",
+        "jd": "From: Ashish Awasthi, Samson Software Solutions ashish.awasthi@samsonsoft.com Reply to: ashish.awasthi@samsonsoft.com Position- .Net Fullstack DeveloperLocation- Redmond, WA- 3 days Onsite (Local or nearby)Mandatory Skill:C#, .NET, Web APIs, ASP.NET, Azure, and SQL.Description:\"Must Have Skills: Strong hands-on experience in Core .NET + API Integration skills + Azure (Senior resource who can also unblock team members in case of technical issuesblockers) C#, .NET core Web App developer capable of deploying hosting on App Services. Azure Functions Azure Logic Apps Azure Service Bus, Azure Event Grid Deployment using Azure Pipelines ReactJS JavaScript Good To Have: Azure Data skills like, ADF Pipelines, Azure Synapse, Azure Data Lake, Dynamics 365 CE skills and Power Platform TypeScript\" (1.) To be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity. (2.) To conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization , implementation of best practices and coding standards to ensure succeful delivery of complex projects. (3.) To ensure process compliance in the assigned module| and participate in technical discussions/review as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations). (4.) To collaborate with stakeholders to define project scope, objectives, deliverables and accordingly prepare and submit status reports for minimizing exposure & closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:46:00-05:00",
+        "unique_id": "192de33d99a10a4e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

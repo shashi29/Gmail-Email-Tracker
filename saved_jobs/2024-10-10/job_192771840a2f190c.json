@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Intellicept Inc",
+        "job_title": "Java J2EE Solutions Architect",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$60-$70/hour"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "Spring Boot",
+                "Spring Batch",
+                "Spring MVC",
+                "Hibernate",
+                "Webservices (Rest SOAP)",
+                "JMS",
+                "MySQL"
+            ],
+            "primary": [
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Continuous Integration",
+                "Agile (Scrum)"
+            ],
+            "secondary": [
+                "Messaging Queues",
+                "Active MQ",
+                "Amazon SQS",
+                "Redis",
+                "Microservices",
+                "Technical Troubleshooting",
+                "Database Design",
+                "System Testing",
+                "Implementation",
+                "Estimation",
+                "Proof Of Concept"
+            ],
+            "all": [
+                "Java",
+                "J2EE",
+                "Spring Boot",
+                "Spring Batch",
+                "Spring MVC",
+                "Hibernate",
+                "Webservices (Rest SOAP)",
+                "JMS",
+                "MySQL",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Continuous Integration",
+                "Agile (Scrum)",
+                "Messaging Queues",
+                "Active MQ",
+                "Amazon SQS",
+                "Redis",
+                "Microservices",
+                "Technical Troubleshooting",
+                "Database Design",
+                "System Testing",
+                "Implementation",
+                "Estimation",
+                "Proof Of Concept"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vinay Chaudhary",
+        "email": "vchaudhary@intellicept.com",
+        "jd": "From: Vinay Chaudhary, Intellicept Inc vchaudhary@intellicept.com Reply to: vchaudhary@intellicept.com Job Title: Java J2EE Solutions ArchitectLOCATION: ONSITE ON DAY 1. -Minneapolis, MinnesotaRequirement Rate: 60-70 Additional Notes:Job Description: 12+ years of experience in Architecting, Designing, Developing the enterprise applications. Experience in J2EE system architecture analysis and design patterns. Rich Experience in application, integration and data architecture as per business requirements. Extensive experience in Java, Spring Boot, Spring Batch, Spring MVC, Hibernate, Webservices (Rest SOAP), JMS and My SQL database. AWS knowledge on services like EC2, SQS, S3 bucket, integration services, gateways, bridge, lambda, API solutions Experience with messaging queues like JMS, Active MQ, Amazon SQS, and Redis. Experience with containerization like Dockerand preferably and Container Management software like Kubernetes Experience with different Continuous Integrations and automated testing strategies. Ability to work with MySQL Server databases with writing and debugging complex SQL queries. Ability to decompose legacy applications into microservices with modularizarion. Ability to lead teams with required communication with business and technical team members at various levels. Extensive experience in technical troubleshooting, database design, microservice architecture, system testing, implementation for applications. Experience in Agile (Scrum) based development and strong analytical, communication and interpersonal skills. Experience in designing the platforms targeted for multi countries roll outs. Experience in Estimation and Proof Of Concept for New Technical area from client side.",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:45:22-05:00",
+        "unique_id": "192771840a2f190c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

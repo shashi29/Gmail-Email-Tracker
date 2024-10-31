@@ -1,0 +1,93 @@
+[
+    {
+        "company": "DMS VISIONS INC",
+        "job_title": "Application Development Analyst",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "07+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                ".NET core",
+                "T-SQL",
+                "SQL",
+                "C#"
+            ],
+            "primary": [
+                "Blazor",
+                "ASP.NET",
+                "MVC",
+                "Web API",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "Data mapping",
+                "Application architecture",
+                "Data integration",
+                "Data cleaning",
+                "Data visualization",
+                "Testing",
+                "Performance optimization",
+                "Security best practices",
+                "CI/CD"
+            ],
+            "all": [
+                ".NET",
+                ".NET core",
+                "T-SQL",
+                "SQL",
+                "C#",
+                "Blazor",
+                "ASP.NET",
+                "MVC",
+                "Web API",
+                "Azure DevOps",
+                "Data mapping",
+                "Application architecture",
+                "Data integration",
+                "Data cleaning",
+                "Data visualization",
+                "Testing",
+                "Performance optimization",
+                "Security best practices",
+                "CI/CD"
+            ],
+            "with_experience": [
+                ".NET (5+ years)",
+                ".NET core (5+ years)",
+                "T-SQL (5+ years)",
+                "C# (5+ years)",
+                "Blazor (1+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vikas Chaudhary",
+        "email": "vikas@dmsvisions.com",
+        "jd": "Hi,Hope you are doing well,Please find the job description given below and let me know your interest.Position: Application Development AnalystLocation: Remote - Tallahassee , FL - OnsiteDuration : 07+ MonthsEducationBachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience. Desired CertificationsMicrosoft or Other Related Certification Required Experience 5+ years of experience in .NET/.NET core application development (recent experience preferred),5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.3+ years of experience with application design, including Data mapping.3+ years of experience in application architecture and data integration.3+ years of analyzing and interpreting large datasets, including cleaning, transforming, and visualizing data.3+ years of experience in testing high-volume of complex data integration processes.1+ years of experience using BlazorFamiliarity with system catalog views, and Azure Cloud Responsibilities Collaborate with business analysts, project managers, and stakeholders to understand the functional and non-functional requirements of the application.Translate business requirements into architectural designs that align with business goals.Design the overall system architecture and define how different components of the interact.Design, develop, and implement software applications using the .NET framework and C#.Utilize ASP.NET (or ASP.NET Core) for web application development, including MVC, Web API, andBlazor for client-side and server-side programming.Develop and optimize SQL queries, stored procedures, and functions.Develop user interfaces and ensure the front end is responsive, accessible, and user- friendly.Review code, architecture, and design to ensure they meet the standards.Analyze and optimize the performance of the application.Design strategies for scaling the application efficiently as user demand grows.Ensure the application adheres to security best practices and compliance requirements.Implement DevOps practices such as continuous integration and continuous delivery (CI/CD) via Azure DevOps and GitHub repositories.",
+        "source": "Email",
+        "date_posted": "2024-10-15 16:00:33-05:00",
+        "unique_id": "192921c19875f9e2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

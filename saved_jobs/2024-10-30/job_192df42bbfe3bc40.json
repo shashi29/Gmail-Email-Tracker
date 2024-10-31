@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "Sr. Data Engineer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "BS or MS degree in Computer Science or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory",
+                "Data bricks",
+                "data modeling",
+                "DB architecture",
+                "SQL server"
+            ],
+            "primary": [
+                "Python",
+                "DevOps tools",
+                "Git",
+                "Jenkins",
+                "CI/CD",
+                "Jira"
+            ],
+            "secondary": [
+                "automotive industry experience",
+                "insurance industry experience",
+                "NetSuite",
+                "ERP systems",
+                "Microsoft DP-203 certification",
+                "Cloud certification"
+            ],
+            "all": [
+                "Azure Data Factory",
+                "Data bricks",
+                "data modeling",
+                "DB architecture",
+                "SQL server",
+                "Python",
+                "DevOps tools",
+                "Git",
+                "Jenkins",
+                "CI/CD",
+                "Jira",
+                "automotive industry experience",
+                "insurance industry experience",
+                "NetSuite",
+                "ERP systems",
+                "Microsoft DP-203 certification",
+                "Cloud certification"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivam Pachauri",
+        "email": "shivam.pachauri@tekinspirations.com",
+        "jd": "Job Description - Sr. Data Engineer\nFace to Face Interview Onsite - Irving, TX\nOnsite 5 days per week\nInterview \u2013 Video + onsite\nNeed local\nNeed LINKEDIN\n\nRecruiting Process: 1. Assessment, 2. Initial Teams interview with data team (Christopher Sadhoo & Dan Huls) online, 3. Final in-person or Teams interview with CFO (Stormy Patton) in person.\n\nMust Have: Azure Data Factory, Data bricks, data modeling/DB architecture, & SQL server\nGood to have automotive/insurance industry experience, NetSuite or other ERP systems (APIs), & relevant certification(s)\n\nAs a member of the Data and Analytics team, the Sr. Data Engineer role will contribute to the success in both the daily operations and long-term strategy of the organization\u2019s data assets. The optimal candidate brings a business-centric mindset to data architecture efforts and has a track record of being a growth enabler.\n\nJob Responsibilities:\n- Design, build & maintain scalable data pipelines in Azure to ensure their compliance with up-time, security, and privacy.\n- Actively contribute to both data & application governance initiatives by designing and implementing policies, procedures, and best practices.\n- Implement API-based integrations to support continuing increases in data volume and complexity.\n- Collaborate with report developers/analysts and business teams to improve data models that feed BI tools and increase data accessibility.\n- Build and maintain the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using Python and SQL.\n- Assist in the design of processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.\n- Troubleshoot data pipeline related issues and oversee their resolution.\n- Identify ways to improve data reliability, efficiency, and quality.\n- Collaborate with all business units and development teams to develop strategy for long term data platform architecture.\n- Familiarity with one or more DevOps tools (Git, Jenkins, CI/CD, Jira).\n- Identify and integrate external data sources from various source formats.\n- Assist and oversee other projects as assigned.\n\nQualifications/Skills:\n- Mastery in converting raw data into valuable datasets.\n- Familiarity with one or more DevOps tools (Git, Jenkins, CI/CD, Jira).\n- Excellent prioritization skills.\n- Excellent problem solving and troubleshooting skills.\n- Process oriented with great documentation skills.\n- Excellent oral and written communication skills with a keen sense of customer service.\n\nEducation/Experience:\n- BS or MS degree in Computer Science or related field.\n- 5+ years of database architecture and dimensional data modeling.\n\nPreferred Experience:\n- 5+ years of data migration activities.\n- 5+ years of Python and SQL experience.\n- 3+ years working in an Agile development environment pairing DevOps with CI/CD pipelines.\n- 3+ years with data processing systems in Azure (Data Factory, Data Lake storage, DataBricks, Event Hubs).\n\nNice to have:\n- Experience in assisting Master Data Management efforts, including metadata management.\n- Experience in automotive repair and/or insurance industries.\n- Microsoft DP-203 certification or Cloud certification on any platform.\n- Experience supporting integrations in/out of ERP systems (ie. NetSuite, SAP).",
+        "source": "Email",
+        "date_posted": "2024-10-30 14:53:50-05:00",
+        "unique_id": "192df42bbfe3bc40",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Agama Consulting Group",
+        "job_title": "Data Engineer",
+        "location": "Blue Ash, OH, USA",
+        "full_location": {
+            "city": "Blue Ash",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 months contract to hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python Programming",
+                "Object Oriented Programming",
+                "Advanced SQL"
+            ],
+            "primary": [
+                "Azure Functions",
+                "Cosmos DB",
+                "Synapse",
+                "DataBricks",
+                "CI/CD"
+            ],
+            "secondary": [],
+            "all": [
+                "Python Programming",
+                "Object Oriented Programming",
+                "Advanced SQL",
+                "Azure Functions",
+                "Cosmos DB",
+                "Synapse",
+                "DataBricks",
+                "CI/CD"
+            ],
+            "with_experience": [
+                "Python Programming",
+                "Object Oriented Programming"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Deepsikha",
+        "email": "deepsikha@agamaamerica.com",
+        "jd": "From: Deepsikha, Agama Consulting Group deepsikha@agamaamerica.com Reply to: deepsikha@agamaamerica.com HI,Hope you are doing well.Please let me know your interest in the below role-Role: Data EngineerLocation: Blue Ash, OH (3 days Onsite, locals only, no relocation)Duration: 6 months contract to hireVisa: USC and GCInterview: In-PersonLinkedIn ProfileResume must be in 5-6 pages MAX What we are looking for:Looking for self-starter, good coach to othersNot a traditional data shop, not a drag and drop type of shop.. built how google/Microsoft/meta is built...Strong Python software engineers solving data related problems... PYTHON IS HEAVILY NEEDED, NOT PYSPARK! Essentially a data centric full stack engineer.This role is going to be doing data engineering, data analysis, and programming.Kind of a jack of all trades.Strong knowledge in object oriented programming - Must Python Programming - Must Advanced Sql Azure \u2013 Azure function, Cosmos DB / Synapse preferable.Consider any cloud experience DataBricks \u2013 desirable CI / CD Must haves:Strong knowledge in object oriented programming - MustPython Programming - MustAdvanced SqlAzure \u2013 Azure function, Cosmos db / Synapse preferable . Consider any cloud experienceDataBricks \u2013 desirableCI / CD Thank you,DeepsikhaDeepsikha@agamaamerica.comAgama Consulting Group",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:55:22-05:00",
+        "unique_id": "192c58dca95ccc89",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

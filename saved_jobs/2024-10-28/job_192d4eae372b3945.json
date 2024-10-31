@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Infotech Spectrum, Inc",
+        "job_title": "Java Backend Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "ServiceNow",
+                "IT Service Management (ITSM)",
+                "RESTful API development",
+                "Microservices architecture"
+            ],
+            "primary": [
+                "SQL",
+                "NoSQL",
+                "ORM tools",
+                "Cloud technologies (AWS, Azure, GCP)",
+                "Agile/Scrum methodologies"
+            ],
+            "secondary": [
+                "ITIL processes",
+                "Incident Management",
+                "Problem Management",
+                "Change Management",
+                "Telecommunications standards and protocols"
+            ],
+            "all": [
+                "Java",
+                "ServiceNow",
+                "IT Service Management (ITSM)",
+                "RESTful API development",
+                "Microservices architecture",
+                "SQL",
+                "NoSQL",
+                "ORM tools",
+                "Cloud technologies (AWS, Azure, GCP)",
+                "Agile/Scrum methodologies",
+                "ITIL processes",
+                "Incident Management",
+                "Problem Management",
+                "Change Management",
+                "Telecommunications standards and protocols"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Arjun Kumar",
+        "email": "arjun@infotechspectrum.com",
+        "jd": "From: Arjun Kumar, Infotech Spectrum, Inc arjun@infotechspectrum.com Reply to: arjun@infotechspectrum.com Position: Java Backend Developer Location: Atlanta, GA (on-site - Hybrid) Job Type: 12 Months Contract Industry: Telecommunications We are seeking a Java Backend Developer with expertise in ServiceNow and IT Service Management (ITSM) to enhance and maintain our telecom service delivery platform. The ideal candidate will have a solid background in Java development and a strong understanding of ITSM processes and tools, particularly within the context of ServiceNow. Qualifications: Bachelor\u2019s degree in Computer Science, Information Technology, or a related field. 8+ years of experience in Java backend development. Strong knowledge of ServiceNow, including configuration, scripting, and application development. Familiarity with ITIL processes and frameworks, particularly in Incident, Problem, and Change Management. Experience with RESTful API development and microservices architecture. Proficiency in databases (SQL/NoSQL) and ORM tools. Excellent analytical and problem-solving skills. Strong communication and collaboration abilities. Experience with cloud technologies (AWS, Azure, GCP) related to ITSM solutions. Knowledge of Agile/Scrum methodologies and practices. Familiarity with telecommunications standards and protocols.",
+        "source": "Email",
+        "date_posted": "2024-10-28 15:03:32-05:00",
+        "unique_id": "192d4eae372b3945",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Intellectt Inc",
+        "job_title": "Java Developer",
+        "location": "Los Angeles, CA, USA",
+        "full_location": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Rockwell FTPC",
+                "Oracle databases",
+                "SQL"
+            ],
+            "primary": [
+                "API development",
+                "AWS",
+                "Application security",
+                "Complex algorithms"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Rockwell FTPC",
+                "Oracle databases",
+                "SQL",
+                "API development",
+                "AWS",
+                "Application security",
+                "Complex algorithms"
+            ],
+            "with_experience": [
+                "Java (4-10 years)",
+                "API development",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nirmala",
+        "email": "devi@intellectt.com",
+        "jd": "From: Nirmala, Intellectt Inc devi@intellectt.com Reply to: devi@intellectt.com Java DeveloperLos Angeles, CA -Onsite (Locals Only) Job DescriptionThe MES technical team has a need for two Java Developers to join their MES development team, for a long-term contract. This team supports med device manufacturing across the globe and US. They have a number of projects and support functions in scope for this resource upon joining the team. We are looking for someone who is hands on when it comes to the development of MES applications. We are not looking for configuration resources. We would like the person to have specific Rockwell FTPC knowledge with knowledge of Java development with JBoss as the middleware. They primarily will need to know Oracle databases and be able to run SQL queries. They will be working on FTPC implementations. Required Skills:4-10 years of experience, primarily in Java environmentStrong API development skillsExperience developing in AWS environmentSolid understanding of application securitySolid understanding of complex algorithms",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:00:49-05:00",
+        "unique_id": "1927c0291daab008",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

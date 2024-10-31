@@ -1,0 +1,69 @@
+[
+    {
+        "company": "CAGUS",
+        "job_title": "AWS Data Engineer",
+        "location": "Wilmington, DE, USA",
+        "full_location": {
+            "city": "Wilmington",
+            "state": "DE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Strong experience with PySpark, Java, and SQL.",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PySpark",
+                "Java",
+                "SQL"
+            ],
+            "primary": [
+                "AWS",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Kafka",
+                "Kinesis",
+                "AWS Step Functions",
+                "Lambda",
+                "ETL",
+                "ELT"
+            ],
+            "all": [
+                "PySpark",
+                "Snowflake",
+                "Java",
+                "AWS",
+                "SQL",
+                "Kafka",
+                "Kinesis",
+                "AWS Step Functions",
+                "Lambda",
+                "ETL",
+                "ELT"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Fizal",
+        "email": "fizal.a@cagus.com",
+        "jd": "From: Fizal, CAGUS fizal.a@cagus.com Reply to: fizal.a@cagus.com Position : AWS Data EngineerLocation : Wilmington, DE. Skill: Pyspark, Snowflake, Java, AWS Key Responsibilities:Develop and maintain PySpark-based data pipelines for processing large datasets.Implement event-driven architectures (Kafka, Kinesis) for real-time data processing.Design and optimize data pipelines in Snowflake.Automate workflows using AWS Step Functions, Lambda, and other cloud services.Integrate data from various sources and optimize ETL/ELT processes.Collaborate with cross-functional teams to deliver actionable data insights.Skills & Qualifications:Strong experience with PySpark, Java, and SQL.Proficiency in AWS services (S3, Lambda, Kinesis, Glue, Step Functions).Expertise in Snowflake for data warehousing.Experience in event-driven architecture and real-time data processing.Strong problem-solving and communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-23 15:21:01-05:00",
+        "unique_id": "192bb2afa0d7f928",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

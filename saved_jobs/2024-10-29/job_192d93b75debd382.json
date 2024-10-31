@@ -1,0 +1,83 @@
+[
+    {
+        "company": "GAC Solutions Inc",
+        "job_title": "PySpark Developer",
+        "location": "Whippany, NJ, USA",
+        "full_location": {
+            "city": "Whippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$60.00/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "PySpark",
+                "Python",
+                "Big Data",
+                "ETL",
+                "SQL"
+            ],
+            "primary": [
+                "Hadoop",
+                "Hive",
+                "HBase",
+                "Kafka",
+                "Spark"
+            ],
+            "secondary": [
+                "Data validation",
+                "Monitoring",
+                "Error handling",
+                "Data extraction",
+                "Data aggregation",
+                "Reporting",
+                "NoSQL"
+            ],
+            "all": [
+                "PySpark",
+                "Python",
+                "Big Data",
+                "ETL",
+                "SQL",
+                "Hadoop",
+                "Hive",
+                "HBase",
+                "Kafka",
+                "Spark",
+                "Data validation",
+                "Monitoring",
+                "Error handling",
+                "Data extraction",
+                "Data aggregation",
+                "Reporting",
+                "NoSQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arun G",
+        "email": "arun@gacsol.com",
+        "jd": "Hi Professionals, This is Arun from GAC solutions Inc. I have an excellent job opportunity with one of our premier clients. Since it is an urgent requirement your prompt response is appreciated Pyspark Developer with Python experienceWhippany, NJ \u2013 OnsiteContract H1B & Local Consultants OnlyIn-person interview is a MUSTRate: $ 60.00/hr on C2C Job Description: Job Summary:10+ years of experienceWe are looking for a highly skilled PySpark Developer with hands-on experience in Big Data technologies to join our dynamic data engineering team. The ideal candidate will have a strong background in building scalable, distributed data processing systems, using PySpark, and working on large datasets. You will collaborate with data scientists, engineers, and other stakeholders to design and implement efficient data pipelines.Key Responsibilities:Develop, optimize, and maintain ETL pipelines using PySpark to process large-scale datasets across distributed environments.Design and implement complex data transformation logic using PySpark and other Big Data tools.Work with various Big Data technologies such as Hadoop, Hive, HBase, Kafka, and Spark to build robust, scalable data systems.Collaborate with data engineers and data scientists to integrate data from multiple sources and create unified datasets.Write efficient, reusable, and scalable Python code to handle both batch and real-time data processing tasks.Ensure data quality, consistency, and reliability by implementing data validation, monitoring, and error handling.Fine-tune and optimize PySpark jobs to improve performance in distributed environments.Manage and maintain data flows in HDFS, ensuring scalability and fault tolerance.Perform data extraction, aggregation, and reporting using SQL and NoSQL databases.Participate in system design discussions and provide recommendations for architecture and performance improvements.",
+        "source": "Email",
+        "date_posted": "2024-10-29 11:28:27-05:00",
+        "unique_id": "192d93b75debd382",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

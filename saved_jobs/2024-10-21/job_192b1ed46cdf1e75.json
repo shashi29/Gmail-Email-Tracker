@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Vy Systems",
+        "job_title": "Lead Azure Terraform Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "Infrastructure as Code (IaC)",
+                "CI/CD"
+            ],
+            "primary": [
+                "Azure",
+                "Automation",
+                "Monitoring",
+                "Security",
+                "Performance Optimization"
+            ],
+            "secondary": [
+                "Documentation"
+            ],
+            "all": [
+                "Terraform",
+                "Infrastructure as Code (IaC)",
+                "CI/CD",
+                "Azure",
+                "Automation",
+                "Monitoring",
+                "Security",
+                "Performance Optimization",
+                "Documentation"
+            ],
+            "with_experience": [
+                "Terraform",
+                "Azure"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Bharath",
+        "email": "bharath.r@vysystems.com",
+        "jd": "From: Bharath, Vy systems bharath.r@vysystems.com Reply to: bharath.r@vysystems.com Hi,Looking for Azure Lead Terraform EngineerJob title:Lead Azure Terraform EngineerLocation:Dallas TXJob DescriptionAs a Lead Terraform Engineer specializing in Terraform, you will play a pivotal role in our IT infrastructure and operations team. You will be responsible for designing, implementing, and maintaining infrastructure as code using Terraform, while collaborating closely with development and operations teams to streamline processes and enhance system reliability.Roles and ResponsibilitiesInfrastructure as Code (IaC): Develop, maintain, and optimize infrastructure code usingTerraform to provision and manage cloud resources- AKSAutomation: Design and implement automation scripts and processes for provisioning,configuration, and deployment of infrastructure and applications.Collaboration: Work closely with software development and operations teams tounderstand their requirements and ensure seamless integration of infrastructurechanges.Continuous Integration/Continuous Deployment (CI/CD): Implement and maintainCI/CD pipelines to automate software deployments and releases.Monitoring and Logging: Set up and manage monitoring, logging, and alerting systemsto proactively identify and address issues.Security: Ensure the security of infrastructure by implementing best practices andstaying updated on security vulnerabilities and threats.Performance Optimization: Identify and resolve performance bottlenecks and ensurehigh availability of systems.Documentation: Maintain detailed documentation of infrastructure configurations andprocesses.Regards,BHARATH- Vy\u200bSystemsEmail ID:bharath.r@vysystems.com",
+        "source": "Email",
+        "date_posted": "2024-10-21 18:55:03-05:00",
+        "unique_id": "192b1ed46cdf1e75",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

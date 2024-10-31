@@ -1,0 +1,131 @@
+[
+    {
+        "company": "Virtuoustek",
+        "job_title": "Technical Lead Architect",
+        "location": "Reading, PA, USA",
+        "full_location": {
+            "city": "Reading",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s or master\u2019s degree in computer science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud",
+                "OpenShift",
+                "Tanzu Kubernetes",
+                "Confluent Kafka",
+                "Angular 17",
+                "Node.js",
+                "HTML5",
+                "CSS (Bootstrap)",
+                "JavaScript",
+                "JQuery",
+                "Typescript",
+                "RESTful API development",
+                "Jasmine",
+                "Karma",
+                "GIT",
+                "Java 8 JDK",
+                "Spring Framework",
+                "DB2",
+                "Maven",
+                "Docker Desktop",
+                "IntelliJ",
+                "Bamboo",
+                "Jenkins"
+            ],
+            "primary": [
+                "Continuous Integration/Delivery (CI/CD)"
+            ],
+            "secondary": [
+                "React.js",
+                "SASS",
+                "LESS",
+                "Figma",
+                "Adobe XD",
+                "Redux",
+                "Postman",
+                "Spring Security",
+                "JPA",
+                "iBatis",
+                "SQL",
+                "Azure",
+                "ELK/Wavefront",
+                "WebSphere Application Server",
+                "Dbeaver",
+                "Salesforce",
+                "Junit"
+            ],
+            "all": [
+                "AWS Cloud",
+                "OpenShift",
+                "Tanzu Kubernetes",
+                "Confluent Kafka",
+                "Angular 17",
+                "Node.js",
+                "HTML5",
+                "CSS (Bootstrap)",
+                "JavaScript",
+                "JQuery",
+                "Typescript",
+                "RESTful API development",
+                "Jasmine",
+                "Karma",
+                "GIT",
+                "Java 8 JDK",
+                "Spring Framework",
+                "DB2",
+                "Maven",
+                "Docker Desktop",
+                "IntelliJ",
+                "Bamboo",
+                "Jenkins",
+                "Continuous Integration/Delivery (CI/CD)",
+                "React.js",
+                "SASS",
+                "LESS",
+                "Figma",
+                "Adobe XD",
+                "Redux",
+                "Postman",
+                "Spring Security",
+                "JPA",
+                "iBatis",
+                "SQL",
+                "Azure",
+                "ELK/Wavefront",
+                "WebSphere Application Server",
+                "Dbeaver",
+                "Salesforce",
+                "Junit"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "jivi",
+        "email": "jivi@virtuoustek.com",
+        "jd": "From: jivi, Virtuoustek jivi@virtuoustek.com Reply to: jivi@virtuoustek.com Position: Technical Lead ArchitectLocation: Reading, PADuration: Contract Job Description Lead the architecture design and development of enterprise-level applications and solutions.Provide technical leadership and mentorship to development teams, ensuring high-quality and scalable solutions.Collaborate with cross-functional teams to define and implement technical solutions that meet business requirements.Ensure adherence to best practices in software development, including coding standards, testing, and continuous integration.Architect and design highly available and scalable cloud-native applications, leveraging AWS Cloud, OpenShift, and Tanzu Kubernetes.Oversee the integration of Confluent Kafka for real-time data streaming.Lead front-end development using Angular 17, Node.js, HTML5, CSS (Bootstrap), JavaScript, JQuery, and Typescript.Develop and maintain RESTful APIs and ensure code quality with Jasmine and Karma testing frameworks.Utilize GIT for version control and manage code deployment pipelines using Bamboo/Jenkins.Architect and develop robust backend systems using Java 8 JDK, Spring Framework, DB2, Maven, Docker Desktop, and IntelliJ.Drive cloud and containerization strategies, utilizing Docker and Kubernetes. Required Skills and Qualifications: Cloud & Containerization Expertise: Proficiency in AWS Cloud, OpenShift, and Tanzu Kubernetes.Messaging & Streaming: Extensive experience with Confluent Kafka.Front-End Development: Expertise in Angular 17, Node.js, HTML5, CSS (Bootstrap), JavaScript, JQuery, Typescript, and RESTful API development.Testing & Version Control: Proficient with Jasmine, Karma, and GIT.Backend Development: Strong hands-on experience with Java 8 JDK, Spring Framework, DB2, Maven, Docker Desktop, and IntelliJ.Experience with Continuous Integration/Delivery (CI/CD): Familiarity with Bamboo and Jenkins. Nice to Have Skills: Front-End Tools: Knowledge of React.js, SASS or LESS, Figma/Adobe XD, Redux, and Postman.Backend Enhancements: Familiarity with Spring Security, JPA, iBatis, and SQL.DevOps Tools: Exposure to Azure, ELK/Wavefront, WebSphere Application Server, Dbeaver, and Salesforce.Testing & Automation: Experience with Junit and additional familiarity with Bamboo/Jenkins. Educational Requirements: Bachelor\u2019s or master\u2019s degree in computer science, Information Technology, or a related field.",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:34:33-05:00",
+        "unique_id": "192c5837c3880bb2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

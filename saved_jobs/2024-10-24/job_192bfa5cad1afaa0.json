@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Indus AiLabs",
+        "job_title": "Azure Tech Lead",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 months contract to hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory",
+                "SQL",
+                "Microsoft Azure computing services",
+                "APIs",
+                "Database optimization"
+            ],
+            "primary": [
+                "ETL processes",
+                "Data quality and accuracy",
+                "Event-driven architecture",
+                "Microservices architecture",
+                "Requirement gathering"
+            ],
+            "secondary": [
+                "SWAGGER",
+                "POSTMAN",
+                "FileZilla",
+                "Wealth Management concepts"
+            ],
+            "all": [
+                "Azure Data Factory",
+                "SQL",
+                "Microsoft Azure computing services",
+                "APIs",
+                "Database optimization",
+                "ETL processes",
+                "Data quality and accuracy",
+                "Event-driven architecture",
+                "Microservices architecture",
+                "Requirement gathering",
+                "SWAGGER",
+                "POSTMAN",
+                "FileZilla",
+                "Wealth Management concepts"
+            ],
+            "with_experience": [
+                "Azure Data Factory",
+                "SQL",
+                "Microsoft Azure computing services"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vinni",
+        "email": "vinni@indusailabs.com",
+        "jd": "Hello,Hope you are doing goodTitle: Azure Tech LeadLocation: Plano TX Onsite 5 daysDuration : 6 months contract to hire+10 yearsNO OPT and CPTDescription:* ETL processes to support data extraction, transformation and loading using Azure Data Factory.* Ensuring data quality and accuracy, optimizing data processing performance, developing, and* maintaining data models and schemas.* Microsoft Azure computing services such as Azure Function Apps, App Services, Logic Apps, Event Hubs & Event Grid, API Management, Azure Storage.* SQL queries with various relational databases such as Oracle and MS SQL/PL-SQL.* Database optimization (query speed and scalability - tables, views, indexes, etc.) and query tuning.* Good knowledge of APIs - development and testing with SWAGGER, POSTMAN etc. REST APIs* Plan, design, and implement complex technical and functional services and system-level design.* Collaborate with a variety of stakeholders, such as business analysts, developers, project managers, and end users, to understand customer needs, requirements, and goals.* Experience with event-driven and microservices architectures.* Good knowledge of various tools like FileZilla used for file transfer protocols (SFTP).* Strong experience in requirement gathering from the onsite business team, documenting, and passing to offshore development team.* Good to have some familiarity in Wealth Management concepts and data types (positions, tax lots, transactions \u2013 trades, cash flows)",
+        "source": "Email",
+        "date_posted": "2024-10-24 12:14:15-05:00",
+        "unique_id": "192bfa5cad1afaa0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Avance",
+        "job_title": "Sybase DBA",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Senior-level",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "Production Support"
+            ],
+            "primary": [
+                "UNIX",
+                "Linux Shell Scripting",
+                "High Availability",
+                "Disaster Recovery",
+                "SQL performance tuning"
+            ],
+            "secondary": [
+                "Oracle",
+                "MS SQL server",
+                "Database design",
+                "Monitoring",
+                "Alerting"
+            ],
+            "all": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "Production Support",
+                "UNIX",
+                "Linux Shell Scripting",
+                "High Availability",
+                "Disaster Recovery",
+                "SQL performance tuning",
+                "Oracle",
+                "MS SQL server",
+                "Database design",
+                "Monitoring",
+                "Alerting"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Varun",
+        "email": "varun.satyavarapu@avanceservices.com",
+        "jd": "From: Varun, Avance varun.satyavarapu@avanceservices.com Reply to: varun.satyavarapu@avanceservices.com A quick brief of the Job:Sybase DBAContract/OnsitePlano, Texas (5 Days onsite & 24x7 Rotational)Shift :- Rotational (Shift 1 (8 AM \u2013 5 PM), Shift 2 (4 PM \u2013 1 AM), Shift 3 (12 AM \u2013 9 AM))Skills Needed - Production Support Exp., Sybase ASE , Sybase IQSummary:\u2022 The Level L1/2 Sybase Administrator is a senior-level position responsible for the design, implementation, and management of databases. This role involves overseeing the database infrastructure, ensuring high availability, performance, and security. The Level 3 DBA provides technical expertise, leads database projects, and collaborates with other IT teams to deliver robust and scalable database services.\u2022 DBA working experience with Sybase open source and good understanding of other RDBMS such as Sybase, Oracle and MS SQL server.\u2022 Experience in Production Support with monitoring\u2022 Experienced in setting up Sybase clusters and supporting HA/DR solutions\u2022 Strong skills in UNIX / Linux Shell Scripting\u2022 Install, monitor and maintain software, implement monitoring and alerting.\u2022 Experience in building high-scalable clusters, failover and hot standby solutions based on Maximum available architecture\u2022 Experience in architecting, configuring, setting up Enterprise Fail over manager or similar technology for High availability solution.\u2022 Experience in leading efforts related to system and SQL performance tuning and assisting business process integration with various data sources.\u2022 Ability to work well with development and infrastructure teams in doing database design, changes and enhancement to new and existing applications\u2022 Proven ability to provide High Availability and Disaster Recovery solutions",
+        "source": "Email",
+        "date_posted": "2024-10-23 17:35:27-05:00",
+        "unique_id": "192bba589e503fb0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

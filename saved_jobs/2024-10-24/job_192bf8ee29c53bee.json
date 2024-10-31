@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Jeffries",
+        "job_title": "Senior AWS Architects",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Professional Certification",
+                "Cloud Implementation",
+                "Infrastructure as Code",
+                "CI/CD Pipelines",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Terraform",
+                "Cloud Formation",
+                "Serverless",
+                "Python"
+            ],
+            "secondary": [
+                "Compute Services",
+                "Storage Services",
+                "Networking Services",
+                "Security Services",
+                "DevOps Process Improvement",
+                "Threat Management"
+            ],
+            "all": [
+                "AWS Professional Certification",
+                "Cloud Implementation",
+                "Infrastructure as Code",
+                "CI/CD Pipelines",
+                "Kubernetes",
+                "Terraform",
+                "Cloud Formation",
+                "Serverless",
+                "Python",
+                "Compute Services",
+                "Storage Services",
+                "Networking Services",
+                "Security Services",
+                "DevOps Process Improvement",
+                "Threat Management"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Mohit Joshi",
+        "email": "mohit@kappium.com",
+        "jd": "Local to New York And New Jersey Role: Senior AWS Architects - Local to New York And New JerseyLocation: Jersey City, NJ-Local to NY,NJVisa: GC,USCClient: Jeffries JD: 15+ years of relevant experience required. Must hold an AWS Professional Certification and possess advanced cloud implementation skills in compute, storage, networking, and security services.Key Responsibilities:- Design, build, and maintain CI/CD pipelines- Use infrastructure as code tools for automation- Provide guidance on infrastructure design decisions- Collaborate with technical teams on cloud services- Drive DevOps team process improvement- Identify threat management opportunitiesCandidate should have a strong background in Enterprise IT environments, expertise in IaC tools like Terraform and Cloud Formation, and are skilled in Kubernetes, Serverless, and Python.",
+        "source": "Email",
+        "date_posted": "2024-10-24 11:46:25-05:00",
+        "unique_id": "192bf8ee29c53bee",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

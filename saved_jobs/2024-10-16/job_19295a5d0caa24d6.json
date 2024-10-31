@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Sibitalent",
+        "job_title": "Full Stack Developer (Angular/Java)",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Angular",
+                "REST APIs"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Microservices",
+                "Problem Solving",
+                "Communication",
+                "Collaboration"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "Angular",
+                "REST APIs",
+                "Spring Boot",
+                "Microservices",
+                "Problem Solving",
+                "Communication",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vaibhav Bansal",
+        "email": "b.vaibhav@sibitalent.com",
+        "jd": "From: Vaibhav bansal, Sibitalent b.vaibhav@sibitalent.com Reply to: b.vaibhav@sibitalent.com Job Title : Full Stack Developer (Angular/Java) Duration : 6+ Visa : No H1B/OPT/CPT Location : Hybrid 2 days onsite in Lansing, MI Project Overview: Large application re-write and new development. Will be a true full stack position so need someone with heavy Angular and Java development skills.Key Responsibilities:Develop and maintain web applications using Angular 14 and Core Java.Implement RESTful APIs and ensure seamless integration with backend services.Collaborate with cross-functional teams to define, design, and ship new features.Ensure the performance, quality, and responsiveness of applications.Identify and correct bottlenecks and fix bugs.Help maintain code quality, organization, and automation. Required Skills and Qualifications:Expertise with Core Java and backend development (Spring Boot, REST APIs, Microservices)Expertise with Angular (version 14)Excellent problem solving skillsStrong communication and collaboration ability",
+        "source": "Email",
+        "date_posted": "2024-10-16 08:27:36-05:00",
+        "unique_id": "19295a5d0caa24d6",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

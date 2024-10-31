@@ -1,0 +1,67 @@
+[
+    {
+        "company": "CloudThink Tech Inc",
+        "job_title": "Snowflake Developer With Health Care Domain",
+        "location": "Woonsocket, RI, USA",
+        "full_location": {
+            "city": "Woonsocket",
+            "state": "RI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2-4 years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "SQL",
+                "ETL Tools"
+            ],
+            "primary": [
+                "Rally",
+                "Project Management Tools"
+            ],
+            "secondary": [
+                "Communication",
+                "Articulate data information",
+                "Adaptable",
+                "Can work independently and on a team"
+            ],
+            "all": [
+                "Snowflake",
+                "SQL",
+                "ETL Tools",
+                "Rally",
+                "Project Management Tools",
+                "Communication",
+                "Articulate data information",
+                "Adaptable",
+                "Can work independently and on a team"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Lokesh Yadav",
+        "email": "lokesh@cloudthinktech.com",
+        "jd": "From: Lokesh, Cloud think Technologies lokesh@cloudthinktech.com Reply to: lokesh@cloudthinktech.com Role: Snowflake Developer With Health Care DomainLocation : Woonsocket, RI (Hybrid)Position type : Contract Project Duration : Long Term Visa : USC, GC, H4-EAD & TN only Detailed JD :As a Snowflake Developer you will be focused on day to day initiatives that will further assist with a future GCP Data Migration. Day to day will be supporting the current system (Snowflake) and assist with new product development throughout the healthcare aspect. You will play a vital role in the structure of the current team while some of the current team members will shift over to the focusing on the GCP Migration. Key Responsibilities:\u2022 Develop and optimize ETL processes for data extraction, transformation, and loading into Snowflake.\u2022 Write and refine SQL queries to ensure efficient data processing and performance within Snowflake.\u2022 Assist in data mapping, profiling, and cleansing to maintain data quality.\u2022 Provide support and training to team members on Snowflake and data management practices.\u2022 Preform efficient data management by scaling data storage and making computing tasks separate.\u2022 Stay updated on Snowflake features to leverage the best tools for data management.\u2022 Collaborate with data engineering and analytics teams to design and implement the migration of data to Snowflake on GCP.\u2022 Document migration workflows, including data flow diagrams, transformation logic, and best practices. Qualifications:\u2022 Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.\u2022 2-4 years of experience in Snowflake development and data management.\u2022 Proficiency in SQL and Snowflake-specific features (e.g., Snowpipe, Streams, Tasks).\u2022 Familiarity with Google Cloud Platform services (e.g., BigQuery, Cloud Storage) is a plus.\u2022 Experience with ETL tools (e.g., Informatica, Talend) and cloud migration methodologies.\u2022 Strong analytical skills and attention to detail.\u2022 Excellent communication and collaboration abilities. Technical Skills:\u2022 Snowflake \u2013 Must Have \u2022 Rally\u2022 SQL\u2022 ETL Tools \u2022 Project Management Tools Soft Skills:\u2022 Communication\u2022 Articulate data information \u2022 Adaptable \u2022 Can work independently and on a team Looking forward to work with you! Thanks & Regards Lokesh YadavSr. Technical Recruter CloudThink Tech Inc",
+        "source": "Email",
+        "date_posted": "2024-10-10 14:15:44-05:00",
+        "unique_id": "19277fc8cf4c0ee5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

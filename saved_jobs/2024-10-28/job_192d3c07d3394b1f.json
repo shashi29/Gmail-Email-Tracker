@@ -1,0 +1,70 @@
+[
+    {
+        "company": "1 Point System",
+        "job_title": "Java technical Lead",
+        "location": "North Carolina, USA",
+        "full_location": {
+            "city": "North Carolina",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "9+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Azure",
+                "Microsoft Fabric",
+                "Angular"
+            ],
+            "primary": [
+                "Big data experience",
+                "Spark",
+                "Hadoop",
+                "Healthcare compliance",
+                "HIPAA",
+                "GDPR"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Azure",
+                "Microsoft Fabric",
+                "Angular",
+                "Big data experience",
+                "Spark",
+                "Hadoop",
+                "Healthcare compliance",
+                "HIPAA",
+                "GDPR"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shalu Tiwari",
+        "email": "shalu.tiwari@1pointsys.com",
+        "jd": "From: Shalu Tiwari, 1 point system shalu.tiwari@1pointsys.com Reply to: shalu.tiwari@1pointsys.com USC and GC OnlyPosition- Java technical LeadLocals to NC only - Every Wednesday onsiteSkills - Java, Spring Boot, Azure and Microsoft Fabric, AngularDuration - 9+ months, CTH mandatoryWe are seeking a Lead Engineer to support the development of next-generation clinical data applications. This role involves hands-on work in creating scalable, secure solutions that process and analyze large data sets. You\u2019ll contribute actively to sprints and work closely with the team, jumping in to resolve complex challenges and support POCs as needed.Key ResponsibilitiesBuild backend services with Java and Spring Boot and design frontend applications in AngularCollaborate with product and clinical teams to address technical needs and refine user-facing featuresContribute to architectural decisions and lead POCs to explore new solutionsPreferred QualificationsBig data experience (e.g., Spark, Hadoop)Knowledge of healthcare compliance (e.g., HIPAA, GDPR)Manager - Software Development (Healthcare Data Engineering)Experience:10+ years in software development, with at least 3 years in a management roleCore SkillsProficiency in Java and Spring Boot (willingness to code as needed)Experience with Azure and Microsoft Fabric for cloud solutionsStrong understanding of Angular for front-end management",
+        "source": "Email",
+        "date_posted": "2024-10-28 09:56:00-05:00",
+        "unique_id": "192d3c07d3394b1f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

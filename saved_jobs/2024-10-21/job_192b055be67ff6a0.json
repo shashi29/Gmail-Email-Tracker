@@ -1,0 +1,115 @@
+[
+    {
+        "company": "Tekinsiprations LLC",
+        "job_title": "C#/ .NET Developer",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Bachelor's or equivalent degree in related fields",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET Framework 3.5 and above",
+                ".NET Core",
+                "ASP.NET Core",
+                "RESTful Architecture",
+                "LINQ",
+                "Entity Framework",
+                "SQL Server",
+                "Microservice architecture"
+            ],
+            "primary": [
+                "JavaScript",
+                "Angular",
+                "Typescript",
+                "MS SQL",
+                "MongoDB",
+                "Oracle",
+                "DB2",
+                "Message Brokers (RabbitMQ, Kafka)",
+                "Service Bus Frameworks (nServicebus, Mass Transit)",
+                "Elastic Search",
+                "SOLR",
+                "Messaging queues (MSMQ, RabbitMQ, Kafka)",
+                "Design and architectural patterns"
+            ],
+            "secondary": [
+                "Java",
+                "Python",
+                "Azure",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Containerization (Dockers)",
+                "DevOps \u2013 Build and Pipelines",
+                "YAML",
+                "Performance management and monitoring tools (App Dynamics, App Insights, Grafana)",
+                "Experience in healthcare domain"
+            ],
+            "all": [
+                "C#",
+                ".NET Framework 3.5 and above",
+                ".NET Core",
+                "ASP.NET Core",
+                "RESTful Architecture",
+                "LINQ",
+                "Entity Framework",
+                "SQL Server",
+                "Microservice architecture",
+                "JavaScript",
+                "Angular",
+                "Typescript",
+                "MS SQL",
+                "MongoDB",
+                "Oracle",
+                "DB2",
+                "Message Brokers (RabbitMQ, Kafka)",
+                "Service Bus Frameworks (nServicebus, Mass Transit)",
+                "Elastic Search",
+                "SOLR",
+                "Messaging queues (MSMQ, RabbitMQ, Kafka)",
+                "Design and architectural patterns",
+                "Java",
+                "Python",
+                "Azure",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "Containerization (Dockers)",
+                "DevOps \u2013 Build and Pipelines",
+                "YAML",
+                "Performance management and monitoring tools (App Dynamics, App Insights, Grafana)",
+                "Experience in healthcare domain"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivansh Tiwari",
+        "email": "shivansh.tiwari@tekinspirations.com",
+        "jd": "From: Shivansh Tiwari, Tekinsiprations LLC shivansh.tiwari@tekinspirations.com Reply to: shivansh.tiwari@tekinspirations.com Job Description -Job Title: C#/ .NET DeveloperLocation: Pittsburgh, PA (need local candidate only) Requirements:Advanced Proficiency in .NET Framework 3.5 and above, .NET Core, ASP.NET Core, RESTful Architecture.Proficient in C#, LINQ, Entity Framework, SQL Server (Stored procedures, views etc.,) with a good knowledge of their ecosystems.Proficiency in client server models and object-oriented programming.Proficiency and solid foundation in Microservice architecture.Proficient in writing clean, readable, and easily maintainable code.Proficient in designing and building scalable relational databases using SQL server or any other relational models.Must possess solid troubleshooting and performance tuning skill.Working knowledge with Service Bus Frameworks such as nServicebus, Mass Transit, etc.Working knowledge with Elastic Search, SOLR \u2013 full text indexing and searching libraries.Working knowledge with messaging queues such as MSMQ, RabbitMQ, Kafka etc.Working knowledge with various design and architectural patterns.Familiarity with Angular or any similar platform and frameworks.Possess Strong verbal and communication skills Qualifications:C#NET Framework 3.5 and above, .NET Core, WebAPILINQ, Entity FrameworkMessage Brokers (RabbitMQ, Kafka)JavaScript, Angular, TypescriptMS SQL, MongoDB, Oracle, DB2 (any relational and/or non-relational DB) Qualifications (Nice to have)Java, PythonAzure, AWS, Docker, and KubernetesContainerization (Dockers) with Orchestration (Kubernetes or OpenShift)DevOps \u2013 Build and Pipelines, YAMLFamiliarity with performance management and monitoring tools such as App Dynamics, App Insights, Grafana etc.Experience in healthcare domainJob Description:We are actively seeking an Intermediate, Senior .NET developer(s), responsible for building high quality, lean, scalable and performance driven n-tier web applications using Microsoft.NET with C#, SQL Server, micro services architecture. The primary responsibility of the individual is to design, build, test and deploy REST APIs using .NET core with micro service architecture, fix bugs and maintain legacy applications. The individual is also expected to work in a cross functional team environment and expand horizons to assist in UI, QA etc. Proficient in analyzing and converting requirements into a scalable and performant software. Self-driven, self-organized and motivated individual with strong analytical and problem-solving skills who will work in a collaborative team environment and strive to build and deploy scalable and efficient web applications. Responsibilities:Build and maintain clean, efficient, reusable, testable and reliable code.Ensure the best possible performance, quality, and responsiveness of applications.Identify bottlenecks and bugs, and devise solutions to mitigate and address these issues.Help maintain code quality and organization.Innovate and contribute to improve the collective skillset and knowledge of the team.Functional knowledge in CI/CD, deployments and releasing software all the way to production.Devise and document technical specifications and procedures.Proactively seek opportunities to improve and innovate SDLC (Software Development Life Cycle).Qualifications:Bachelors or equivalent degree in related fields (or) Minimum of 3 years for Intermediate or 5 years for senior level as .Net developer.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:52:23-05:00",
+        "unique_id": "192b055be67ff6a0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

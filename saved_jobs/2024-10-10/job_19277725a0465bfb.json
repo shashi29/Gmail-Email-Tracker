@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Atlantis",
+        "job_title": "Java Full Stack Developer",
+        "location": "Fort Worth, TX, USA",
+        "full_location": {
+            "city": "Fort Worth",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline, or equivalent experience/training",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months (with possible extension)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AngularJS",
+                "Azure Cloud",
+                "Core Java",
+                "Spring MVC",
+                "Hibernate",
+                "jUnit"
+            ],
+            "primary": [
+                "Multi-threading",
+                "Cloud-based deployments",
+                "ADO DevOps",
+                "CI/CD deployment pipeline",
+                "GitHub",
+                "Jenkins",
+                "SonarQube",
+                "Urban Code Deploy-UCD",
+                "Coverity",
+                "JFrog X-Ray",
+                "Artifactory"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "AngularJS",
+                "Azure Cloud",
+                "Core Java",
+                "Spring MVC",
+                "Hibernate",
+                "jUnit",
+                "Multi-threading",
+                "Cloud-based deployments",
+                "ADO DevOps",
+                "CI/CD deployment pipeline",
+                "GitHub",
+                "Jenkins",
+                "SonarQube",
+                "Urban Code Deploy-UCD",
+                "Coverity",
+                "JFrog X-Ray",
+                "Artifactory"
+            ],
+            "with_experience": [
+                "Java (8+ years)",
+                "AngularJS (5+ years)",
+                "Azure Cloud (4+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ram",
+        "email": "ram.a@atlantisitgroup.com",
+        "jd": "From: Ram, Atlantis ram.a@atlantisitgroup.com Reply to: ram.a@atlantisitgroup.com Title: Java Full Stack DeveloperLocation: Fort Worth, TX (Hybrid)Duration: 6+ Months (with possible extension)Interview Mode \u2013 Face to Face Job Description:8+ years of Software Development Life Cycle (SDLC) experience and/or agile software development methodologies8+ years of Java development experience5+ years of experience with AngularJS/Angular4+ Years\u2019 Experience in Azure Cloud \u2013 App Services, Container Instance, Logic Apps, TerraformShould have good experience in Java Multi-threadingExpertise in Core Java, Spring MVC, Hibernate and jUnit.Exposure to cloud-based deployments, ADO DevOps, CI/CD deployment pipeline and GitHub (ADOGit), Jenkins, SonarQube, Urban Code Deploy-UCD, Coverity, JFrog X-Ray & ArtifactoryBachelor\u2019s degree in Computer Science, Computer Engineering, Technology, Information Systems (CIS/MIS), Engineering or related technical discipline, or equivalent experience/training",
+        "source": "Email",
+        "date_posted": "2024-10-10 11:39:44-05:00",
+        "unique_id": "19277725a0465bfb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

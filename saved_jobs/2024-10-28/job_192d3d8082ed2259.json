@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Virtusa",
+        "job_title": "Senior Healthcare Data Engineer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract To Hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "PySpark",
+                "SQL",
+                "ETL",
+                "AWS"
+            ],
+            "primary": [
+                "Informatica",
+                "BASH/Shell scripting",
+                "Data lakehouse architecture",
+                "Kafka",
+                "Mulesoft API",
+                "Agile methodologies",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication",
+                "Teamwork"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "PySpark",
+                "SQL",
+                "ETL",
+                "AWS",
+                "Informatica",
+                "BASH/Shell scripting",
+                "Data lakehouse architecture",
+                "Kafka",
+                "Mulesoft API",
+                "Agile methodologies",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication",
+                "Teamwork"
+            ],
+            "with_experience": [
+                "Python (4+ years)",
+                "SQL (4+ years)",
+                "ETL (4+ years)",
+                "AWS (4+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Santhoshi",
+        "email": "santhoshi@hanstaffing.com",
+        "jd": "From: Santhoshi, HAN IT Staffing santhoshi@hanstaffing.com Reply to: santhoshi@hanstaffing.com Role : Senior Healthcare Data Engineer - Remote (Contract To Hire)Location : NYC, NY (Remote)Client : VirtusaPosition Summary:The Data Engineer is responsible for building and maintaining data pipelines, ensuring the smooth operation of data systems, and optimizing workflows to meet business requirements. This role will support data integration and processing for various applications. Minimum Qualifications:9+ Years overall IT experience with minimum 4 years of work experience in below tech skillsTech Skills:Proficient in Python scripting and PySpark for data processing tasks.Strong SQL capabilities, with hands-on experience managing big data using ETL tools like Informatica.Experience with the AWS cloud platform and its data services, including S3, Redshift, Lambda, EMR, Airflow, Postgres, SNS, and EventBridge.Skilled in BASH/Shell scripting.Understanding of data lakehouse architecture, particularly with Iceberg format, is a plus.Preferred: Experience with Kafka and Mulesoft API.Understanding of healthcare data systems is a plus.Experience in Agile methodologies.Strong analytical and problem-solving skills.Effective communication and teamwork abilities. Responsibilities:Develop and maintain data pipelines and ETL processes to manage large-scale datasets.Collaborate to design & test data architectures to align with business needs.Implement and optimize data models for efficient querying and reporting.Assist in the development and maintenance of data quality checks and monitoring processes.Support the creation of data solutions that enable analytical capabilities.Contribute to aligning data architecture with overall organizational solutions.",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:21:43-05:00",
+        "unique_id": "192d3d8082ed2259",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

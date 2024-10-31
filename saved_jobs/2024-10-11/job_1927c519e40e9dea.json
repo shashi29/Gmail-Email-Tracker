@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Synkriom",
+        "job_title": ".NET Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular 13",
+                ".NET Core",
+                "SQL Server",
+                "Oracle"
+            ],
+            "primary": [
+                "API Development",
+                "Web Application Development",
+                "Code Quality Assurance",
+                "Agile Development"
+            ],
+            "secondary": [
+                "Troubleshooting",
+                "Performance Optimization",
+                "Code Reviews",
+                "Cross-functional Collaboration"
+            ],
+            "all": [
+                "Angular 13",
+                ".NET Core",
+                "SQL Server",
+                "Oracle",
+                "API Development",
+                "Web Application Development",
+                "Code Quality Assurance",
+                "Agile Development",
+                "Troubleshooting",
+                "Performance Optimization",
+                "Code Reviews",
+                "Cross-functional Collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivangi Tripathi",
+        "email": "shivangi.tripathi@synkriom.com",
+        "jd": "From: Shivangi Tripathi, Synkriom shivangi.tripathi@synkriom.com Reply to: shivangi.tripathi@synkriom.com Hi, Kindly go through the JD Angular 13, Core .NET TechnologiesSQL Server/OracleDeveloper who can work on Development projects with .Net and Angular skillset Develop and maintain web applications using .NET Core, Angular 13, and SQL Server/Oracle databases.Design and implement robust and scalable APIs using .NET Core technologies.Collaborate with cross-functional teams to analyze requirements and translate them into technical specifications.Build reusable components and front-end libraries for future use using Angular 13.Optimize applications for maximum speed and scalability.Ensure code quality by implementing best practices in coding, testing, and deploying applications.Troubleshoot and resolve issues, provide ongoing maintenance, and improve application performance.Conduct code reviews and ensure adherence to development standards.Participate in agile development processes, including sprint planning, reviews, and retrospectives. IMP - TCS Dayone Onsite Local - New York, NY",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:40:27-05:00",
+        "unique_id": "1927c519e40e9dea",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

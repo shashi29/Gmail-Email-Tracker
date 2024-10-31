@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Mastercard",
+        "job_title": "Java 17 backend with Kotlin & Springboot",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kotlin",
+                "Spring Boot",
+                "SQL",
+                "API"
+            ],
+            "primary": [
+                "Microservices",
+                "Oracle",
+                "PostgreSQL",
+                "Agile",
+                "DevOps"
+            ],
+            "secondary": [
+                "Automation",
+                "API design",
+                "Security models"
+            ],
+            "all": [
+                "Java",
+                "Kotlin",
+                "Spring Boot",
+                "SQL",
+                "API",
+                "Microservices",
+                "Oracle",
+                "PostgreSQL",
+                "Agile",
+                "DevOps",
+                "Automation",
+                "API design",
+                "Security models"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sophia",
+        "email": "sophia@rwaltz.com",
+        "jd": "From: sophia, rwaltz sophia@rwaltz.com Reply to: sophia@rwaltz.com Job Title: Java 17 backend with Kotlin & Springboot Onsite,NYC,NYPlease share candidates local to NY or NJ only with at least 12 years of experience along with some banking experience. Role\u2022 Lead planning, design and implementation of technical solutions for global customers (internal and external)\u2022 Continually ideate, scope, develop, deliver, test and iterate features for the constantly evolving and growing Mastercard Developers.\u2022 Contribute to clients Open Source projects that offer API Client signing and encryption libraries.\u2022 Ensure appropriate levels of automation are adopted (build, deploy, configure, validate, monitor).\u2022 Liaise with other global technology, data, operations teams to execute.\u2022 Act as subject matter expert for clients Developers API Platform and services to support customer integrations on occasionAll About You\u2022 Strong Java, Kotlin and object-oriented design and development skills.\u2022 Strong fundamentals of Spring Boot, microservices and SQL based database (Oracle and PostgreSQL).\u2022 Proven track record in API based products\u2022 You care about the technical architecture and design - ensuring that the solution is flexibly designed and performs efficiently.\u2022 Experienced working in an Agile environment with a global team that makes frequent production releases.\u2022 Background in Dev/Ops a distinct advantage.\u2022 Background in automation a distinct advantage.\u2022 Experience in designing and delivering APIs and security models an advantage\u2022 You strive to create highly intuitive and responsive products.",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:48:10-05:00",
+        "unique_id": "192d416da53c6c4d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

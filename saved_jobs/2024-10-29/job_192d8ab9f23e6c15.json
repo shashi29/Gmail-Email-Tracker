@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Heliogic LLC",
+        "job_title": "Senior Full Stack .NET Developer & Lead",
+        "location": "Cranberry Township, PA, USA",
+        "full_location": {
+            "city": "Cranberry Township",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in IT / CS / IS or relevant experience, prefers any relevant Certifications",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET Framework",
+                "SQL Server",
+                "Windows Presentation Foundation (WPF)",
+                "Windows Operating Systems (OS)"
+            ],
+            "primary": [
+                "Windows Forms (WinForms)",
+                "Git",
+                "PowerShell"
+            ],
+            "secondary": [
+                "InstallShield",
+                "Microsoft Deployment Toolkit (MDT)",
+                "DHCP",
+                "DNS",
+                "network connectivity troubleshooting",
+                "communication skills",
+                "team collaboration"
+            ],
+            "all": [
+                "C#",
+                ".NET Framework",
+                "SQL Server",
+                "Windows Presentation Foundation (WPF)",
+                "Windows Operating Systems (OS)",
+                "Windows Forms (WinForms)",
+                "Git",
+                "PowerShell",
+                "InstallShield",
+                "Microsoft Deployment Toolkit (MDT)",
+                "DHCP",
+                "DNS",
+                "network connectivity troubleshooting",
+                "communication skills",
+                "team collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ben",
+        "email": "ben@heliogic.com",
+        "jd": "From: Ben, Heliogic LLC ben@heliogic.com Reply to: ben@heliogic.com Role: Senior Full Stack .NET Developer & Lead (Only Local) Location:Cranberry Township, PA (5day onsite in a week)Experience/Skills and KnowledgeProficient in C# and .NET Framework for Windows Application DevelopmentProficient in database design and development using technologies such as SQL ServerExpertise in Windows Presentation Foundation (WPF) for developing rich client applicationsIn-depth understanding of Windows Operating Systems (OS), including installation, configuration and OS ImagingFamiliarity with Windows Forms (WinForms) for legacy applications and version control systems, such as GitAbility to script and automate tasks using PowerShell; Preferred Knowledge/Skills \u2013 InstallShield, Microsoft Deployment Toolkit (MDT)Knowledge of basic networking concepts, DHCP, DNS, and troubleshooting network connectivity issuesExcellent communication skills and the ability to work collaboratively in a team environmentBachelor\u2019s degree in IT / CS / IS or relevant experience, prefers any relevant CertificationsWork conditions \u2013 Corporate office/lab environment",
+        "source": "Email",
+        "date_posted": "2024-10-29 08:51:20-05:00",
+        "unique_id": "192d8ab9f23e6c15",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

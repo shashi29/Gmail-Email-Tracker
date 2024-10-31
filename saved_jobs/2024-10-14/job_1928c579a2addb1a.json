@@ -1,0 +1,53 @@
+[
+    {
+        "company": "TCS",
+        "job_title": "Data Engineer - Data warehouse Engineer",
+        "location": "Iselin, NJ, USA",
+        "full_location": {
+            "city": "Iselin",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Talend Open Studio",
+                "Microsoft SQL Server 2019",
+                "Ab Initio",
+                "Data Architecture and Modeling"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Talend Open Studio",
+                "Microsoft SQL Server 2019",
+                "Ab Initio",
+                "Data Architecture and Modeling"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "AJAY, KK",
+        "email": "ajay.e@kksoftwareassociates.com",
+        "jd": "From: AJAY, KK Software Associates ajay.e@kksoftwareassociates.com Reply to: ajay.e@kksoftwareassociates.com Role name:Technical ArchitectRole Description:Data Warehouse Design & Management:Design and optimize data models and schemas for the data warehouse.Implement data warehousing best practices to ensure data quality, performance, and scalability.Monitor and tune data warehouse performance, ensuring efficient data storage and retrieval.Data Integration, ETL, and Reverse ETL Processes:Develop, implement, and maintain ETL (Extract, Transform, Load) processes to move data from source systems to the data warehouse, as well as from the data warehouse to various target systems.Ensure data integrity, accuracy, and consistency during data transfers.Troubleshoot and resolve data integration issues promptly.Data Governance & Security:Establish and enforce data governance policies and procedures.Ensure data security and compliance with relevant regulations and standards.Conduct regular audits to ensure data quality and integrity.Collaboration & Requirements Gathering:Work closely with business stakeholders, BI analysts, and other IT teams to understand data requirements and translate them into technical specifications.Collaborate with data integration specialists to ensure seamless data flow.Documentation & Training:Create and maintain comprehensive documentation for data architectures, ETL processes, and data models.Provide training and support to other team members and end-users on data-related best practices and tools.Collaboration & Requirements Gathering:Work closely with business stakeholders, BI analysts, and other IT teams to understand data requirements and translate them into technical specifications.Collaborate with data integration specialists to ensure seamless data flow and integration.Competencies:Digital : Talend Open Studio, Microsoft SQL Server 2019, Ab Initio, Data Architecture and Modeling Branch | City | Location:TCS - Iselin, NJ(South)New JerseyPiscataway, NJ Skils Mandatory: Talend Open Studio, Microsoft SQL Server 2019, Ab Initio, Data Architecture and Modeling",
+        "source": "Email",
+        "date_posted": "2024-10-14 13:07:47-05:00",
+        "unique_id": "1928c579a2addb1a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

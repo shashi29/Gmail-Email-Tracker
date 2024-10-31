@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Eminence Technology Solutions LLC",
+        "job_title": "Data Engineer",
+        "location": "Mclean, VA, USA",
+        "full_location": {
+            "city": "Mclean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "24 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica Power Center",
+                "data modeling",
+                "ETL development",
+                "data warehousing",
+                "Linux/Unix Shell Scripting",
+                "ETL Informatica Mappings",
+                "Oracle database",
+                "advanced SQL"
+            ],
+            "primary": [
+                "Agile delivery methodology",
+                "Python",
+                "Spark SQL",
+                "Cloud technologies Azure",
+                "Cloud technologies GCP",
+                "Kafka",
+                "REST APIs"
+            ],
+            "secondary": [],
+            "all": [
+                "Informatica Power Center",
+                "data modeling",
+                "ETL development",
+                "data warehousing",
+                "Linux/Unix Shell Scripting",
+                "ETL Informatica Mappings",
+                "Oracle database",
+                "advanced SQL",
+                "Agile delivery methodology",
+                "Python",
+                "Spark SQL",
+                "Cloud technologies Azure",
+                "Cloud technologies GCP",
+                "Kafka",
+                "REST APIs"
+            ],
+            "with_experience": [
+                "Informatica Power Center (10+ years)",
+                "data modeling (10+ years)",
+                "ETL development (10+ years)",
+                "data warehousing (10+ years)",
+                "Linux/Unix Shell Scripting (10+ years)",
+                "ETL Informatica Mappings (10+ years)",
+                "Oracle database (10+ years)",
+                "advanced SQL (10+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Peter",
+        "email": "peter@eminencets.com",
+        "jd": "From: peter, Eminence Technology Solutions LLC peter@eminencets.com Reply to: peter@eminencets.com Position: Data Engineer Location: Mclean, VA Type: Contract Contract: 24 months Need 10 plus And Local in Person Interview First round Glider test Data Engineer 10+ years of experience in building end-to-end business solutions using Informatica Power Center Demonstrated strength in data modeling, ETL development, and data warehousing. Demonstrated experience with Linux/ Unix Shell Scripting Strong hands-on development experience in ETL Informatica Mappings/ mapplets, Session, Workflows and events creation. Expertise in Informatica all mapping transformations like Lookup, Normalizer, Update Strategy, Expression, Filter TX, etc. Strong experience on star schema data modeling and data warehouse concepts. Expertise in Oracle database and advanced SQL Expertise in Agile delivery methodology including Sprint and Kanban Expertise in Python and Spark SQL Knowledge of Cloud technologies Azure and/or GCP Knowledge of Kafka Knowledge of REST APIs Thanks, and regards, Peter Recruitment manager Eminence Technology Solutions LLC Email: Peter@eminencets.com Website: www.eminencets.com",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:45:59-05:00",
+        "unique_id": "192ba9c85f18574b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

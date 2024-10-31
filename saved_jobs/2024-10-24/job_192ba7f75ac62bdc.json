@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Visionet",
+        "job_title": "Azure Enterprise Architect",
+        "location": "Huston, TX, USA",
+        "full_location": {
+            "city": "Huston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's degree in computer science, information systems, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Infrastructure as Code (IAC)",
+                "Terraform",
+                "Kubernetes",
+                "Cloud Security"
+            ],
+            "primary": [
+                "Disaster recovery planning",
+                "Landing Zone",
+                "Infrastructure management",
+                "Provisions and maintenance"
+            ],
+            "secondary": [
+                "Strong interpersonal skills",
+                "Strong communication skills",
+                "Relevant certifications"
+            ],
+            "all": [
+                "Azure",
+                "Infrastructure as Code (IAC)",
+                "Terraform",
+                "Kubernetes",
+                "Cloud Security",
+                "Disaster recovery planning",
+                "Landing Zone",
+                "Infrastructure management",
+                "Provisions and maintenance",
+                "Strong interpersonal skills",
+                "Strong communication skills",
+                "Relevant certifications",
+                "Bachelor's degree in computer science, information systems, or a related field"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rishabh Singh",
+        "email": "rishabhs1@vbeyond.com",
+        "jd": "Hello, I hope you are doing well!!I found your impressive profile here. Just Curious to know if you are currently open to discuss a new Contract Job opportunity.We are currently hiring for an opportunity for Azure Enterprise ArchitectIf you are interested to discuss further, please share your updated resume and the best time to have a quick call. I would love to answer all your questions and hear more about what you're looking for.Role- Azure Enterprise ArchitectLocation- Huston, TX(Hybrid)Role Type- ContractJob description:We are seeking a talented Azure Enterprise Architect who will act as the linchpin of organization's cloud and networking initiatives. This role involves designing and implementing state-of-the-art solutions that align with company objectives and customer needs. This position is crucial for driving innovation and operational excellence. The ideal candidate would bring cloud infrastructure and networking expertise to the team, define specifications, manage roadmaps, ensure resilient, secure, and reliable infrastructure to support global connectivity, micro segmentation with zero trust network architecture, and multiple application deployment needs with a DevOps model including container orchestration. A hands-on approach guiding development, experiences, and testing the product should be taken. You will ensure strategic direction and effective detailed plans are in place from architecture to operations to go-to-market. You can concisely communicate complex concepts, operate in a regulatory environment, and are passionate about delivering high quality product experiences in an integration first design. The scope of this role includes integrations with major cloud providers, SaaS, and hardware devices. The role would be to work with all architecture team members and software development teams deploying applications into the cloud.",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:14:14-05:00",
+        "unique_id": "192ba7f75ac62bdc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

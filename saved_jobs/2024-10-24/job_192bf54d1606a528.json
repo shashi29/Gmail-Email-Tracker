@@ -1,0 +1,68 @@
+[
+    {
+        "company": "VYZE INC",
+        "job_title": "Python Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "Flask",
+                "Microservices",
+                "SQL"
+            ],
+            "primary": [
+                "Object-Relational Mapping (ORM)",
+                "JavaScript",
+                "HTML5"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Django",
+                "Flask",
+                "Microservices",
+                "SQL",
+                "Object-Relational Mapping (ORM)",
+                "JavaScript",
+                "HTML5"
+            ],
+            "with_experience": [
+                "Python (9+ years)",
+                "Django",
+                "Flask",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anita Rani Sahoo",
+        "email": "asahoo@vyzeinc.com",
+        "jd": "Hi, Hope you are doing well please find the requirement below and kindly let me know if you have good consultant for thisRole: Python DeveloperLocation: Charlotte, NC or Irving, TX (Local to any location )Duration : 12 Months LinkedIn id is must (Should not been created recently, at least 6 Years old in case of senior candidates)Need Genuine Candidate With Passport Number Job Summary: We are seeking a skilled and experienced Python Developer to join our dynamic software engineering team. The ideal candidate will be responsible for writing and testing scalable code, developing back-end components, and integrating user-facing elements in collaboration with front-end developers.Responsibilities:Write reusable, testable, and efficient code.Design and implement low-latency, high-availability, and performant applications.Integrate data storage solutions, which may include databases, key-value stores, blob stores, etc.Integrate user-facing elements developed by front-end developers with server-side logic.Implement security and data protection solutions.Accommodate various data sources and databases into one system.Improve functionality of existing systems.Assess and prioritize feature requests.Coordinate with internal teams to understand user requirements and provide technical solutions.Requirements:9+ Years of Proven experience as a Python Developer or similar role.Expertise in at least one popular Python framework (like Django, Flask, Pyramid, etc.).Experience in Microservices and MQKnowledge of object-relational mapping (ORM).Familiarity with front-end technologies (like JavaScript and HTML5).Understanding of databases and SQL.",
+        "source": "Email",
+        "date_posted": "2024-10-24 10:41:12-05:00",
+        "unique_id": "192bf54d1606a528",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "company": "DMS Visions Inc",
+        "job_title": "AWS Infrastructure Engineer",
+        "location": "Las Vegas, NV, USA",
+        "full_location": {
+            "city": "Las Vegas",
+            "state": "NV",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS services",
+                "Terraform",
+                "Ansible",
+                "EKS",
+                "Kubernetes"
+            ],
+            "primary": [
+                "EC2",
+                "Lambda",
+                "S3",
+                "RDS",
+                "EBS",
+                "ECS",
+                "MSK",
+                "Apache Kafka",
+                "Python",
+                "PowerShell",
+                "Bash",
+                "PostgreSQL",
+                "Oracle",
+                "MS-SQL",
+                "Prometheus",
+                "Grafana",
+                "ELK stack",
+                "SolarWinds"
+            ],
+            "secondary": [
+                "CloudFormation",
+                "Infrastructure as Code",
+                "Monitoring tools",
+                "Security best practices",
+                "Identity and access management",
+                "Encryption",
+                "Vulnerability management"
+            ],
+            "all": [
+                "AWS services",
+                "Terraform",
+                "Ansible",
+                "EKS",
+                "Kubernetes",
+                "EC2",
+                "Lambda",
+                "S3",
+                "RDS",
+                "EBS",
+                "ECS",
+                "MSK",
+                "Apache Kafka",
+                "Python",
+                "PowerShell",
+                "Bash",
+                "PostgreSQL",
+                "Oracle",
+                "MS-SQL",
+                "Prometheus",
+                "Grafana",
+                "ELK stack",
+                "SolarWinds",
+                "CloudFormation",
+                "Infrastructure as Code",
+                "Monitoring tools",
+                "Security best practices",
+                "Identity and access management",
+                "Encryption",
+                "Vulnerability management"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Yashwant Singh",
+        "email": "yashwant@dmsvisions.com",
+        "jd": "Hi,Hope you are doing wellPlease find the job description given below and let me know your interest. Position: AWS Infrastructure Engineer (Onsite) Location: Las Vegas, NV || Relocation will work Duration: 6+ MonthsClient domain \u2013 Financial (Doing a project for a big bank. Financial services experience is a slam dunk!!) Job Description: Skill Matrix, I like to have the years of experience and a brief overview of the candidate\u2019s experience.\u00b7In-depth understanding of AWS services, including EC2, Lambda, S3, RDS, EBS, ECS (Elastic Container Service), AWS EKS (Elastic Kubernetes Service), MSK and Apache Kafka.\u00b7Expert level proficiency with Terraform and Ansible to define & deploy Infrastructure as Code as well as to tear-down existing environments that are no longer needed.\u00b7Expert level proficiency with EKS to deploy, manage, and scale containerized applications using Kubernetes on the cloud infrastructure.\u00b7Strong background in on-prem and cloud-based networking protocols to ensure efficient flow of information securely between systems and environments.\u00b7Skill in scripting languages Python, PowerShell, Bash to automate tasks to interact with AWS services programmatically.\u00b7Understanding of security best practices for cloud environments including identity and access management, encryption, vulnerability management, etc. to ensure that environments are hardened using best practices.\u00b7Knowledge of PostgreSQL, Oracle and MS-SQL including deployment, configuration, and optimization.\u00b7Skill in using monitoring tools such as Prometheus, Grafana, ELK stack, SolarWinds or similar cloud-native solutions.\u00b77+ years of experience with history of engagements lasting 3-5 years minimum.\u00b7AWS Certified Solutions Architect highly preferred. Job Description -Top Skills: Terraform, EKS, Elasticsearch, Lamba.Someone that has experience migrating from AWS CloudFormation to Terraform is a huge plus. We're seeking an experienced AWS Infrastructure Engineer with expertise in cloud infrastructure management, Terraform, EKS, and Kubernetes troubleshooting. In this role, you'll design, deploy, and maintain AWS environments.Responsibilities:Lead AWS CloudFormation to Terraform migration.Efficiently use Terraform for Infrastructure as Code (IaC).Manage environment lifecycle with Terraform.Securely handle sensitive data in Terraform code.Deploy resources across AWS regions.Understand AWS compute resources like EC2 and Lambda.Manage Kubernetes clusters, especially with EKS.Implement advanced monitoring using tools like Prometheus, Grafana, and AWS CloudWatch Logs Insights.Proven experience deploying and monitoring applications which leverage Elastic Search.Qualifications:Experience migrating from AWS CloudFormation to Terraform.Proficiency in Terraform and Infrastructure as Code (IaC) principles.Expertise in multi-region AWS deployments.Deep knowledge of Kubernetes, especially EKS, and troubleshooting.Proficiency in AWS compute resources (e.g., EC2, Lambda).Hands-on experience with advanced monitoring and metrics tools.",
+        "source": "Email",
+        "date_posted": "2024-10-16 16:45:04-05:00",
+        "unique_id": "192976b2b4e97359",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

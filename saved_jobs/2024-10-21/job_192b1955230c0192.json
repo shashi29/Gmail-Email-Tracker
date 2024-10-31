@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Largeton",
+        "job_title": "Data Engineer \u2013 GCP",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "9-12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Spark",
+                "SQL",
+                "Professional Data Engineer \u2013 Google Cloud Certification"
+            ],
+            "primary": [
+                "AI Tools",
+                "Code Integration Tools",
+                "BigQuery",
+                "Airflow",
+                "Vertex",
+                "Vertex Workbench"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Spark",
+                "SQL",
+                "Professional Data Engineer \u2013 Google Cloud Certification",
+                "AI Tools",
+                "Code Integration Tools",
+                "BigQuery",
+                "Airflow",
+                "Vertex",
+                "Vertex Workbench"
+            ],
+            "with_experience": [
+                "Python (5+ years)",
+                "Spark (5+ years)",
+                "SQL (5+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kajal Bhaskar",
+        "email": "kajal@largeton.us",
+        "jd": "Professional Data Engineer \u2013 Google Cloud Certification 5 Experience in AI Tools or code written to develop AI applications. 6 Experience handling large Data Sets. RESUMES IF AND ONLY IF THEY HAVE ALL THE \u201cMUST HAVE\u201d otherwise no need. Please try to find NY, NJ, Philadelphia or within 60 miles. Need local people with certification. It a consultant has both Data Engineer and ML certification than he /she will get interviewed immediately. Here are some of the take aways. If they are both currently certified on GCP and ML, they will move through the process quicker. This is a heavy machine learning project. They need to be able to clearly explain how they build data pipelines in BigQuery. They need to have solid experience with Code Integration Tools. Strong airflow experience. Must have trained the data models using ML. Specifically using Vertex and vertex workbench. Explain how they use Vertex to train feedback loops and work with the data scientists. This project is all about automation through ML. This does not mean that they will not be considered if they do not have the ML certification, but they will need to get it. Title: Data Engineer \u2013 GCP Location: NYC (Hybrid \u2013 3 times a week)- locals please Visa: USC or GC Duration: 9-12 months. MUST HAVE 1 Python 2 Spark 3 SQL 4 Professional Data Engineer \u2013 Google Cloud Certification 5 Experience in AI Tools or code written to develop AI applications. 6 Experience handling large Data Sets.",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:01:50-05:00",
+        "unique_id": "192b1955230c0192",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

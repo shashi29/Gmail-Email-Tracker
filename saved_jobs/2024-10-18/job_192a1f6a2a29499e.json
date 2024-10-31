@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Tech Rakers",
+        "job_title": "Sr Software Developer Java",
+        "location": "Costa Mesa, CA, USA",
+        "full_location": {
+            "city": "Costa Mesa",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 5 years of experience with Java, Python, SQL.",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "AWS",
+                "Spring Boot"
+            ],
+            "primary": [
+                "JavaScript",
+                "Angular",
+                "Microservices Architecture",
+                "REST APIs",
+                "DevOps",
+                "Terraform"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "CI-CD",
+                "Git",
+                "Maven",
+                "Jenkins",
+                "Artifactory",
+                "Okta",
+                "SAML",
+                "OpenID",
+                "oAuth",
+                "SSO",
+                "RDBMS",
+                "SQL",
+                "Security standards"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "AWS",
+                "Spring Boot",
+                "JavaScript",
+                "Angular",
+                "Microservices Architecture",
+                "REST APIs",
+                "DevOps",
+                "Terraform",
+                "Docker",
+                "Kubernetes",
+                "CI-CD",
+                "Git",
+                "Maven",
+                "Jenkins",
+                "Artifactory",
+                "Okta",
+                "SAML",
+                "OpenID",
+                "oAuth",
+                "SSO",
+                "RDBMS",
+                "SQL",
+                "Security standards"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Srikanth",
+        "email": "srikanth@techrakers.com",
+        "jd": "From: Srikanth, Tech Rakers srikanth@techrakers.com Reply to: srikanth@techrakers.com Position: Sr Software Developer Java (F2F interview Needed) No H1 and CPTLocation: Costa Mesa, CA and Austin TX (F2F interview Needed)Duration: 12 Months We are looking for Experience :Java script, python, Aws, springboot This role requires working with multiple Business Units and development teams in various roles to gather requirements, architecture, design, implement. The candidate should have in-depth knowledge - experience in technologies such as AWS cloud platform and services, Security standards like oAuth 2.0, Open ID, SAML 2.0, SSO etc. Work as Subject Matter Expert in the Identity CoE, which that supports multiple Business Units within Enterprise.Gather requirements, architect, design and implement secure and scalable cloud applications using Java, Python using AWS cloud platforms and services.Working with a team of architects, developers and testers in an agile-SCRUM environment.Ability to communicate and present ideas and designs and incorporate feedback.Implement micro services and integrate REST APIs with the UI using Angular technologiesProvide troubleshooting support for production issues.Document architecture designs artifacts etc.Coach junior developers and train operational teams when needed.Good understanding various of Integration Patterns to provide integration between legacy backend systems and modern applications developed using Microservices Architecture.Individual Contributor and comfortable with completing the assigned tasks with minimal supervision.Ability to learn new technologies and complete Proof-of-Concept (POC), MVP releases in a timely manner.Design & implement solution that comply with Non-functional requirements such as Logging, Monitoring, Alerting, Security, Auditability, etc.Process-oriented and being to identify-implement opportunities for Improvement in SDLC.Working knowledge of on-premise cloud-based infrastructures and deployments-configurations and definition-evangelism of best practices-standards.Experience in Agile and-or SAFe development methodologies in cross functional team.Proven experience in CI-CD pipeline using tools-frameworks such as Git, Bitbucket, Jenkins, Maven, AWS tools etc.Strong DevOps experience and automation skills using Terraform desiredAble to work in a fast paced and dynamic environment and achieve results amidst constraints.Deep understanding of best design and software engineering practices, design principles and patterns. QualificationsMinimum 5 years of experience with Java, Python, SQL.Strong experience with container technologies such as Docker, Kubernetes and Event driven architecture etcAt least 3 years of experience with AWS cloud platforms and services such as EKS, MSK, S3, RDS, Lambda, SQS, SNS, DynamoDB etc.Expertise with API Gateways such as APIGEE, AWS API Gateway etc.Experience with Git, Maven, Jenkins, Artifactory and other build deployment platforms.Angular experience is desirable.Experience using Okta as Identity Provider, SAML, OpenID/oAuth, SSO etcStrong experience in RDBMS, SQL etc.Hands on experience with DevOps automation and terraform desirable.Hands on with application security, risk management etc",
+        "source": "Email",
+        "date_posted": "2024-10-18 15:14:53-05:00",
+        "unique_id": "192a1f6a2a29499e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

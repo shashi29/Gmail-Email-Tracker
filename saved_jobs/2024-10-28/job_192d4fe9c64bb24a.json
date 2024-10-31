@@ -1,0 +1,97 @@
+[
+    {
+        "company": "Mobcoder",
+        "job_title": "Senior Full Stack Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Proven experience as a Full stack Developer",
+            "degree_required": "Bachelor\u2019s degree in computer science, Engineering, or related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "ReactJS",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [
+                "Kotlin",
+                "Hibernate",
+                "JPA",
+                "GitHub",
+                "CI/CD",
+                "Maven",
+                "Gradle",
+                "Distributed systems",
+                "Spring Cloud Config"
+            ],
+            "secondary": [
+                "Java 8/17",
+                "Spring Framework 3.x +",
+                "Angular",
+                "Grafana",
+                "Kibana",
+                "Docker",
+                "Kubernetes",
+                "Oracle",
+                "Postgresql",
+                "MySql"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "ReactJS",
+                "Spring Boot",
+                "Microservices",
+                "Kotlin",
+                "Hibernate",
+                "JPA",
+                "GitHub",
+                "CI/CD",
+                "Maven",
+                "Gradle",
+                "Distributed systems",
+                "Spring Cloud Config",
+                "Java 8/17",
+                "Spring Framework 3.x +",
+                "Angular",
+                "Grafana",
+                "Kibana",
+                "Docker",
+                "Kubernetes",
+                "Oracle",
+                "Postgresql",
+                "MySql"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rajeev",
+        "email": "rajeeve.g@mobcoderstaffing.com",
+        "jd": "From: Rajeev, Mobcoder rajeev.g@mobcoderstaffing.com Reply to: rajeev.g@mobcoderstaffing.com Job Title: Senior Full Stack DeveloperLocation: Chicago, ILHiring Process: In Person Client interviewDuration: Long Term Key Responsibilities: - \u2022 Design and develop microservices using Spring Cloud.\u2022 Implement SPA based UI applications using ReactJS/Angular\u2022 Kotlin development experience to work on compose multi-platform\u2022 Deploy and manage applications on Private or Public Cloud (MS Azure preferred)\u2022 Collaborate with cross-functional teams to define, design, and ship new features.\u2022 Identify and correct bottlenecks and fix bugs.\u2022 Help maintain code quality, organization, and automatization.\u2022 Understands Object Oriented Programming and design and building modular, unit testable code. Requirements: \u2022 Bachelor\u2019s degree in computer science, Engineering, or related field.\u2022 Proven experience as a Full stack Developer.\u2022 Strong proficiency in Java and Spring Framework (Spring Boot, Spring Cloud).\u2022 Strong work experience in development of UI applications using ReactJS.\u2022 Hands-on experience with Spring Boot Microservices development.\u2022 Extensive experience with Hibernate, JPA, logging, cache libraries.\u2022 Familiarity with GitHub, Git-Action with CI/CD pipelines and tools like Maven/Gradle.\u2022 Understanding of distributed systems and microservices architecture.\u2022 Experience with configuration management tools such as Spring Cloud Config.\u2022 Strong troubleshooting/debugging skills and ability to work independently with minimal instruction\u2022 Excellent written and verbal communication skills and high attention to detail.\u2022 Demonstrated track record of working well with others in cross-functional roles in fast-paced and changing environments, including asynchronously with distributed teams. Preferred Qualifications:\u2022 Strong proficiency in Java 8/17 and Spring Framework 3.x + (Spring Boot, Spring Cloud).\u2022 Experience with Kotlin development.\u2022 Experience with front end UI/UX framework - ReactJS or Angular.\u2022 Experience with Grafana, Kibana, feature flagging.\u2022 Familiar with agile practices and writing needed stories along with acceptance criteria and requirement.\u2022 Understanding the concepts of Docker Containers and container orchestration services such as Docker Swarm, ECS, and Kubernetes.\u2022 Experience working with both relational and documented oriented datastores such as Oracle, Postgresql, or MySql.",
+        "source": "Email",
+        "date_posted": "2024-10-28 15:43:29-05:00",
+        "unique_id": "192d4fe9c64bb24a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

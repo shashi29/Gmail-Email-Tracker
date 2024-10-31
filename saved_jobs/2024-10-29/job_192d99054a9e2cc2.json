@@ -1,0 +1,69 @@
+[
+    {
+        "company": "KK Software Associates",
+        "job_title": "Java Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "R&D",
+                "POC"
+            ],
+            "primary": [
+                "Java",
+                "APIs",
+                "Automation tools",
+                "Unit testing",
+                "Integration testing"
+            ],
+            "secondary": [
+                "Code reviews",
+                "Pair programming",
+                "Problem-solving",
+                "Technical solutions"
+            ],
+            "all": [
+                "R&D",
+                "POC",
+                "Java",
+                "APIs",
+                "Automation tools",
+                "Unit testing",
+                "Integration testing",
+                "Code reviews",
+                "Pair programming",
+                "Problem-solving",
+                "Technical solutions"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "bavana",
+        "email": "bavanag@kksoftwareassociates.com",
+        "jd": "Hi all,Hope you are doing well,must have R&D and POC -------- Need locals only Chicago, IL Role Description:Work closely with other developers to design and develop functional, performing and complete features, systems and APIs? Constantly looks for better ways of solving technical problems and designing the solution by not being afraid of challenging the status quo? Identify appropriate technical solutions that provide business value while mitigating technical debt? Participate in R&D and POC?s before active development for any key features where solutions need to be created.? Enable the development organization by creating working examples? Liaise with the Wealth Lead Architecture Groups? Solve problems collaboratively? Work with other developers on the team, specifically with code reviews and pair programming? Decipher existing software systems and platforms and hook in applications to applicable data sources? Write both unit and integration tests and develop automation tools for daily tasks",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:01:10-05:00",
+        "unique_id": "192d99054a9e2cc2",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

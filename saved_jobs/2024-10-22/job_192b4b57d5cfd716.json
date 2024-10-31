@@ -1,0 +1,79 @@
+[
+    {
+        "company": "KPG Technologies",
+        "job_title": "Lead Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7-10 years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s degree in Computer Science, Data Engineering, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Mesh",
+                "Modern Data Stack",
+                "Python",
+                "SQL",
+                "Snowflake"
+            ],
+            "primary": [
+                "Apache Kafka",
+                "Apache Spark",
+                "dbt",
+                "Airflow",
+                "Cloud Platforms"
+            ],
+            "secondary": [
+                "Data Sharing",
+                "Data Products",
+                "Healthcare IT",
+                "Data Migration",
+                "Data Architecture"
+            ],
+            "all": [
+                "Data Mesh",
+                "Modern Data Stack",
+                "Python",
+                "SQL",
+                "Snowflake",
+                "Apache Kafka",
+                "Apache Spark",
+                "dbt",
+                "Airflow",
+                "Cloud Platforms",
+                "Data Sharing",
+                "Data Products",
+                "Healthcare IT",
+                "Data Migration",
+                "Data Architecture"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "jyoti",
+        "email": "jyoti@kpgtech.com",
+        "jd": "From: jyoti, kpg99 jyoti@kpgtech.com Reply to: jyoti@kpgtech.com ContractRemoteStart: ASAP Lead Data EngineerSnowflake shopETL processesData migrationmodern data engineering practices, etc.opentable formats like data lake and icebergExposed to databricks pipelineData mesh exposureMust see the Data frameworks they have worked with in the resume Exposure to delta lake, data mesh approaches, iceberg tables and exposure to databricks pipelines. We just had an interview, here is the feedback (60 tech ability/40 soft skills) Feedback:Too tech side \u2013 too deep of a keyboard only engineer won\u2019t represent well to the stakeholders. He needs to have some level of the non-technical ability to speakNeed to close this one by this week \u2013 Data Engineer SnowflakeHad the right technical skills but this needs to be a lead so they need to communicate with the stakeholders and the teamKey stakeholder would be something from Productneeds us to close this role this week or it is going to go away Job Summary:The ideal candidate will have extensive experience in data engineering, data mesh, modern data stack, and data sharing, ensuring the seamless transition and integration of EMR systems.Key Responsibilities:\uf0b7 Data Architecture: Design and implement scalable data architectures to support EMR migration, leveraging data mesh principles.\uf0b7 Data Migration: Lead the migration of data from legacy EMR systems to new platforms, ensuring data integrity and security.\uf0b7 Modern Data Stack: Utilize modern data stack technologies to build robust data pipelines and workflows.\uf0b7 Data Sharing: Develop and maintain solutions for secure and efficient data sharing across systems and stakeholders.\uf0b7 Data Products: Create and manage data products that provide actionable insights and support decision-making processes.\uf0b7 Technical Leadership: Provide technical guidance and mentorship to the data engineering team, ensuring best practices in data management and integration.\uf0b7 Quality Assurance: Ensure all data migration processes meet quality standards and regulatory requirements.\uf0b7 Documentation: Create and maintain comprehensive documentation for all data migration processes and solutions.Qualifications:\uf0b7 Education: Bachelor\u2019s or Master\u2019s degree in Computer Science, Data Engineering, or a related field.\uf0b7 Experience: Minimum of 7-10 years of experience in data engineering, with a focus on data migration and healthcare IT.\uf0b7 Technical Skills:o Data Mesh: Experience with data mesh architecture and principles.o Modern Data Stack: Proficiency in technologies such as Apache Kafka, Apache Spark, dbt, Airflow, and Snowflake.o Programming Languages: Strong skills in Python, SQL, and other relevant programming languages.o Cloud Platforms: Experience with cloud services (e.g., AWS, Azure, GCP) for data storage and processing.o Data Sharing: Knowledge of data sharing frameworks and protocols.o Data Products: Experience in developing and managing data products.Preferred Qualifications:\uf0b7 Certifications:o AWS Certified Data Analytics - Specialtyo Google Professional Data Engineero Microsoft Certified: Azure Data Engineer Associateo Certified Data Management Professional (CDMP)\uf0b7 Knowledge: Familiarity with major EMR systems (e.g., Epic, Cerner) and experience in healthcare data security.",
+        "source": "Email",
+        "date_posted": "2024-10-22 09:10:10-05:00",
+        "unique_id": "192b4b57d5cfd716",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

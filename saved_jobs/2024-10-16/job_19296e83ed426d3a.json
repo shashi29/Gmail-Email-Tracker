@@ -1,0 +1,100 @@
+[
+    {
+        "company": "W3Global",
+        "job_title": "Fullstack Developer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor or Master's Degree in Computer Science",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net/C#",
+                "Python",
+                "microservices development",
+                "Azure cloud development",
+                "MS SQL Server"
+            ],
+            "primary": [
+                "AKS",
+                "K8S",
+                "OOP",
+                "design patterns",
+                "SOLID principles",
+                "Azure Service Bus",
+                "RabbitMQ",
+                "Azure DevOps",
+                "Git",
+                "TypeScript"
+            ],
+            "secondary": [
+                "Vanilla JavaScript",
+                "Bootstrap",
+                "Angular CLI",
+                "Reactive Extensions for Angular",
+                "Web API",
+                "RESTful server development",
+                "IaC",
+                "Terraform",
+                "Agile development methodologies",
+                "Oil & Gas domain knowledge",
+                "RXJS"
+            ],
+            "all": [
+                ".Net/C#",
+                "Python",
+                "microservices development",
+                "AKS",
+                "K8S",
+                "Azure cloud development",
+                "MS SQL Server",
+                "OOP",
+                "design patterns",
+                "SOLID principles",
+                "Azure Service Bus",
+                "RabbitMQ",
+                "Azure DevOps",
+                "Git",
+                "TypeScript",
+                "Vanilla JavaScript",
+                "Bootstrap",
+                "Angular CLI",
+                "Reactive Extensions for Angular",
+                "Web API",
+                "RESTful server development",
+                "IaC",
+                "Terraform",
+                "Agile development methodologies",
+                "Oil & Gas domain knowledge",
+                "RXJS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Raghuteja",
+        "email": "raghu.miriyala@w3global.com",
+        "jd": "From: Raghuteja, W3Global raghu.miriyala@w3global.com Reply to: raghu.miriyala@w3global.com Job - Fullstack Developer Duration - Fulltime Location - Houston, TX Need - GC USC Job Post Description Responsibilities \u2022 Design and implementation of new features and core components \u2022 Refactoring and continuous improvement of existing functionality \u2022 Requirements analysis and clarification \u2022 Communication with US team members on a daily basis \u2022 Participation in a SCRUM-based project development Mandatory Skills \u2022 5+ years of experience with .Net/C# or Python \u2022 3+ years of experience with microservices development \u2022 3+ years of experience with AKS, K8S, or similar systems \u2022 5+ years of experience with Azure cloud development \u2022 Advanced knowledge of OOP, design patterns, SOLID principles \u2022 Azure Service Bus, RabbitMQ, or other message brokers' experience \u2022 Performance profiling and optimization experience \u2022 Experience with Azure DevOps/TFS and Git source control \u2022 MS SQL Server strong experience \u2022 TypeScript development \u2022 Excellent analytical, problem-solving, and debugging skills \u2022 Bachelor or Master's Degree in Computer Science \u2022 Upper-Intermediate English Nice to Have Skills \u2022 Vanilla JavaScript knowledge \u2022 Bootstrap, Angular CLI, Reactive Extensions for Angular \u2022 Web API/RESTful server development using ASP.NET core \u2022 Azure Cloud Development \u2022 IaC and Terraform experience \u2022 Experience with Azure DevOps/TFS and Git \u2022 Understanding of Agile development methodologies \u2022 Oil & Gas domain knowledge \u2022 RXJS",
+        "source": "Email",
+        "date_posted": "2024-10-16 14:22:03-05:00",
+        "unique_id": "19296e83ed426d3a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

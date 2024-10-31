@@ -1,0 +1,91 @@
+[
+    {
+        "company": "VSB TECH",
+        "job_title": "UI Developer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5-10 years",
+            "degree_required": "Degree in Computer Science or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Object-Oriented Programming (OOP)",
+                "Spring Boot",
+                "REST APIs",
+                "MySQL",
+                "Postgres"
+            ],
+            "primary": [
+                "Agile Development",
+                "Gradle",
+                "Data Structures",
+                "Algorithms",
+                "Unit Testing",
+                "Component Testing",
+                "Integration Testing"
+            ],
+            "secondary": [
+                "Domain Driven Design (DDD)",
+                "Microservices Architecture",
+                "Continuous Integration/Continuous Deployment (CI/CD)",
+                "Spring Consumer Driven Contracts (CDC)",
+                "AWS",
+                "Node.js"
+            ],
+            "all": [
+                "Java",
+                "Object-Oriented Programming (OOP)",
+                "Spring Boot",
+                "REST APIs",
+                "MySQL",
+                "Postgres",
+                "Agile Development",
+                "Gradle",
+                "Data Structures",
+                "Algorithms",
+                "Unit Testing",
+                "Component Testing",
+                "Integration Testing",
+                "Domain Driven Design (DDD)",
+                "Microservices Architecture",
+                "Continuous Integration/Continuous Deployment (CI/CD)",
+                "Spring Consumer Driven Contracts (CDC)",
+                "AWS",
+                "Node.js"
+            ],
+            "with_experience": [
+                "Java (5-10 years)",
+                "Spring Boot",
+                "REST APIs"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sarah",
+        "email": "sarah@vsbtech.com",
+        "jd": "From: Sarah, VSB TECH sarah@vsbtech.com Reply to: sarah@vsbtech.com Job Title: UI DeveloperLocation:Alpharetta, GA. Hybrid schedule, onsite 3 days per week.Job Description:We are seeking a UI Developer responsible for designing, developing, and enhancing applications that align with business objectives and deadlines. Key Responsibilities:Design, code, and independently test applications within an agile development environment. Collaborate with other team members and external stakeholders as necessary. Work with internal/external customers to deliver effective solutions. Perform additional related duties as required. Required Skills:Degree in Computer Science or a related field. Proficient in Java programming (Java 8 or higher) with 5-10 years of professional experience. Strong knowledge of Object-Oriented Programming (OOP). Solid understanding of the Spring Ecosystem, including Spring Boot. Experience in designing and implementing REST APIs. Proficiency with build tools and dependency management (e.g., Gradle). Knowledge of Data Structures and Algorithms. Experience with relational databases such as MySQL or Postgres. Familiarity with queuing systems like Kafka or AWS SNS/SQS. Hands-on experience with unit testing, component testing, and integration testing. Ability to proactively identify and address challenges, adaptable and self-driven. Comfortable working in a dynamic, agile, and highly collaborative environment. Strong communication and collaboration skills. **Preferred Qualifications:** Understanding of Domain Driven Design (DDD) and microservices architecture. Familiarity with Hexagonal or Layered Software Architecture. Exposure to Continuous Integration/Continuous Deployment (CI/CD). Experience with Spring Consumer Driven Contracts (CDC). Familiarity with AWS or other cloud platforms. Experience with Node.js is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-11 10:33:28-05:00",
+        "unique_id": "1927c5763bebeba5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

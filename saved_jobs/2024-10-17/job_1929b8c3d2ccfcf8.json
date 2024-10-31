@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Mastercard",
+        "job_title": "C#.Net Engineer",
+        "location": "Arlington, VA, USA",
+        "full_location": {
+            "city": "Arlington",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries"
+            ],
+            "primary": [
+                "Database Development",
+                "Hadoop",
+                "Impala",
+                "Splunk"
+            ],
+            "secondary": [
+                "Debugging",
+                "Performance Optimization",
+                "Mentoring",
+                "Collaboration",
+                "Innovation"
+            ],
+            "all": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries",
+                "Database Development",
+                "Hadoop",
+                "Impala",
+                "Splunk",
+                "Debugging",
+                "Performance Optimization",
+                "Mentoring",
+                "Collaboration",
+                "Innovation"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rajiv Kumar",
+        "email": "rajiv.kumar@testingxperts.com",
+        "jd": "From: Rajiv, testingxperts rajiv.kumar@testingxperts.com Reply to: rajiv.kumar@testingxperts.com Position TitleC#.Net EngineerLocationArlington, VA - hybrid model at Arlington LocationDurationContractJob Description Must Have: C#.NET, Web API, MS-SQL, Complex SQL Queries, Database Develop and own full-stack applications using .NET and database technologies like SQL Hadoop, Impala, Splunk skills is a plus. Debug issues and provide resolution Tackle performance issues Proactively communicate work status Build high-value analytics off of large data sets while keeping performance top of mind Serve as a technical resource for team members and mentor junior engineers and team members Collaborate with partners teams across broader Mastercard (Software Delivery, Corporate Security, Privacy and Data Protection, Global Product Management) Continuously innovate and determine new technologies to improve our product suite",
+        "source": "Email",
+        "date_posted": "2024-10-17 11:59:42-05:00",
+        "unique_id": "1929b8c3d2ccfcf8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

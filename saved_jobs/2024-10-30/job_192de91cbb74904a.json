@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Adabas Linux Database Administrator",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum of (5) years of experience as an Adabas Database Administrator",
+            "degree_required": "Bachelor\u2019s degree in computer science, Information Systems, Business Administration, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Adabas",
+                "Linux",
+                "AWS",
+                "Natural",
+                "Database Administration"
+            ],
+            "primary": [
+                "RedHat",
+                "SuSe",
+                "CentOS",
+                "Adabas Manager",
+                "Adabas Backup and Recovery Tools",
+                "Adabas Performance Monitor",
+                "EntireX Communicator",
+                "Microsoft 365"
+            ],
+            "secondary": [
+                "Jira Software",
+                "Linux shell scripting",
+                "Data modeling",
+                "Business modeling",
+                "Process modeling"
+            ],
+            "all": [
+                "Adabas",
+                "Linux",
+                "AWS",
+                "Natural",
+                "Database Administration",
+                "RedHat",
+                "SuSe",
+                "CentOS",
+                "Adabas Manager",
+                "Adabas Backup and Recovery Tools",
+                "Adabas Performance Monitor",
+                "EntireX Communicator",
+                "Microsoft 365",
+                "Jira Software",
+                "Linux shell scripting",
+                "Data modeling",
+                "Business modeling",
+                "Process modeling"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ravina",
+        "email": "ravina@vyzeinc.com",
+        "jd": "Job Description -Title: Adabas Linux Database Administrator\nDuration: 6+ months\nLocation: This is a Hybrid role working in Quincy, MA. Candidates MUST be local from one of the following States: MA, RI, CT or NH. All submittals must include ID proof of residency of one of these States.\n\nPOSITION OVERVIEW: MA21 seeks a highly motivated Adabas Linux Database Administrator (DBA) who will support a \u201cLift and Shift\u201d of the on-premises legacy mainframe application to AWS Cloud. The DBA will play an integral role in supporting the cloud rehosting project, maintenance enhancements that may be implemented on the cloud platform, or defect fixes that need to be remediated on the cloud platform to meet the requirements of the business community. The first step in porting operations and systems to a new infrastructure will be to rehost the Natural/Adabas MA21 mainframe system in the AWS cloud.\n\nDETAILED LIST OF JOB DUTIES AND RESPONSIBILITIES:\nMonitor and maintain the stability of Adabas/Natural applications supporting services in the Cloud-based, distributed Linus server environment.\nExperience supporting Linux operating systems: RedHat (preferred), SuSe, and CentOS. Understanding of Linux operating systems architecture and use of commands and utilities.\nFundamental Cloud knowledge, AWS, Azure.\nResponsible for supporting a broad range of Software AG (SAG) and other third-party vendor products to provide a stable technical infrastructure.\nDesign and implement Adabas databases to ensure optimal performance and scalability.\nParticipate with database support and provide timely resolution of database-related issues.\nUnderstanding knowledge of EntireX Communicator (RPC & ACI Protocol).\nMonitor database performance using tools like Adabas Manager.\nDevelop and implement backup and recovery procedures using Adabas Backup and Recovery Tools.\nOptimize database performance through query optimization, indexing, and buffer pool management.\nMonitor database using Adabas Performance Monitor to identify and resolve performance bottlenecks.\nAdministering the Natural development environment.\nExperience with Adabas Utilities: Use of utilities like ADAREP, ADABAS, ADASAV, ADAORD, etc. for database maintenance and reporting.\nSecurity certificate configuration with Software AG products.\nUpgrades, Configuration, and Management Of Software AG Products on Linux, Including: Upgrades, Configuration, and Management Of Software AG Products on Linux, Including: Adabas EntireX Communicator, Adabas Encryption Natural Construct, ConnX Natural One, Entire Net-Work Natural Security, Entire Connection, Predict, Linux shell scripting, Performing database startup and shutdown. Performing and restoring database backups, Performing Adabas File Reorders, Using the Software AG Update Manager to apply updates/fixes, Using administration subsystems, including cron, to schedule system tasks.\n\nQUALIFICATIONS:\nDemonstrated proficiency in business modeling, process modeling, and data modeling.\nKnowledge of methods and techniques of computer systems analysis, design, technical terminology, codes, and standard abbreviations.\nUsing the available system management tools (both console and Web-based System Management).\nKnowledge of MA HIX or other State Health Exchange.\nAbility to work with multiple vendors.\nProficiency in Microsoft 365, Excel, Word, PowerPoint, Access, and Visio.\nExperience with Jira Software.",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:49:03-05:00",
+        "unique_id": "192de91cbb74904a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

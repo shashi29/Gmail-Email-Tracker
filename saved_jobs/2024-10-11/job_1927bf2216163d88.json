@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Veridian Tech",
+        "job_title": "C# .Net developer",
+        "location": "Arlington, VA, USA",
+        "full_location": {
+            "city": "Arlington",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries"
+            ],
+            "primary": [
+                "Database Development",
+                "Debugging",
+                "Performance Optimization",
+                "Communication",
+                "Mentoring"
+            ],
+            "secondary": [
+                "Hadoop",
+                "Impala",
+                "Splunk"
+            ],
+            "all": [
+                "C#.NET",
+                "Web API",
+                "MS-SQL",
+                "Complex SQL Queries",
+                "Database Development",
+                "Debugging",
+                "Performance Optimization",
+                "Communication",
+                "Mentoring",
+                "Hadoop",
+                "Impala",
+                "Splunk"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Saurabh Singh",
+        "email": "saurabh.s@veridiants.com",
+        "jd": "Hello,Hope you are doing well!I have an urgent requirement for the position of \u201cC# .Net developer\u201d in Arlington, VA \u00b7 Atlanta, GA with one of our Client. Kindly review the job description below and if interested, kindly share your most updated resume. Role : C# .Net developerLocation: Arlington, VA || HybridContract Must Have: C#.NET, Web API, MS-SQL, Complex SQL Queries, Database Develop and own full-stack applications using .NET and database technologies like SQL Hadoop, Impala, Splunk skills is a plus. Debug issues and provide resolution Tackle performance issues Proactively communicate work status Build high-value analytics off of large data sets while keeping performance top of mind Serve as a technical resource for team members and mentor junior engineers and team members Collaborate with partners teams across broader Mastercard (Software Delivery, Corporate Security, Privacy and Data Protection, Global Product Management) Continuously innovate and determine new technologies to improve our product suite",
+        "source": "Email",
+        "date_posted": "2024-10-11 08:42:52-05:00",
+        "unique_id": "1927bf2216163d88",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

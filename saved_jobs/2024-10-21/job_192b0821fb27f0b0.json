@@ -1,0 +1,63 @@
+[
+    {
+        "company": "KPG99",
+        "job_title": "DB2 Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "IBM i (AS/400) Environment",
+                "IBM DB2 for i",
+                "SQL Query Writing",
+                "Performance Tuning",
+                "SQL Procedures and Functions"
+            ],
+            "primary": [
+                "Data Modeling",
+                "Data Structures",
+                "DB Design"
+            ],
+            "secondary": [],
+            "all": [
+                "IBM i (AS/400) Environment",
+                "IBM DB2 for i",
+                "SQL Query Writing",
+                "Performance Tuning",
+                "SQL Procedures and Functions",
+                "Data Modeling",
+                "Data Structures",
+                "DB Design"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sonali Gupta",
+        "email": "sgupta@kpgtech.com",
+        "jd": "From: Sonali Gupta, KPG99 sgupta@kpgtech.com Reply to: sgupta@kpgtech.com Hi,Please Read the below Requirement and share your resume and also please let me know your visa status and current Location if interested.DB2 ArchitectLocation: RemoteDuration: 6+ Months No H1B/CPT Skills / Experience Required :\u200b\u00b7 Proficiency with IBM i (AS/400) Environment, IBM DB2 for i: Experience with DB2, writing queries, stored procedures, and database administration.\u00b7 SQL Query Writing: Strong knowledge of SQL for querying, managing, and optimizing databases.\u00b7 Performance Tuning: Experience in optimizing SQL queries for better performance, especially for complex data sets.\u00b7 SQL Procedures and Functions: Writing and maintaining stored procedures, triggers, and user-defined functions.\u00b7 Data Modeling, Data Structures and DB Design.",
+        "source": "Email",
+        "date_posted": "2024-10-21 13:40:12-05:00",
+        "unique_id": "192b0821fb27f0b0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

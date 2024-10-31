@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Deltaclass Technology Solutions",
+        "job_title": "Software Engineer (Java and Python)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python"
+            ],
+            "primary": [
+                "Site Reliability Engineering (SRE)",
+                "Good communication skills"
+            ],
+            "secondary": [
+                "Debugging",
+                "Code review",
+                "Documentation",
+                "Design reviews"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "Site Reliability Engineering (SRE)",
+                "Good communication skills",
+                "Debugging",
+                "Code review",
+                "Documentation",
+                "Design reviews"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Kevin",
+        "email": "kevin@deltaclasstech.com",
+        "jd": "From: Kevin, Deltaclass Technology Solutions kevin@deltaclasstech.com Reply to: kevin@deltaclasstech.com Position: Software Engineer (Java and Python)Location: REMOTEDuration: Long termExp 10+ Years and USC and H1BJob Description:Proficiency in Java and PythonTriage product or system issues and debug/track/resolve by analysing the sources of issues Good communication skillsSite Reliability Engineering (SRE) combines software and systems engineering to build and run large-scale, massively distributed, fault-tolerant systems. SRE ensures that client\u2019s applications have reliability, uptime appropriate to customer's needs and a fast rate of improvement. Additionally SRE\u2019s will keep an ever-watchful eye on our systems capacity and performance.Write product or system development code.Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-16 08:49:16-05:00",
+        "unique_id": "19295d6fe4445ff0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

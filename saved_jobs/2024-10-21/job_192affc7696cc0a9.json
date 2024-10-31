@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Front End Developer (JAVA)",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "React.js",
+                "HTML5",
+                "CSS Frameworks",
+                "ADA compliance",
+                "WCAG 2.1",
+                "Java",
+                "JPA",
+                "Spring",
+                "Spring Boot",
+                "Java 8+"
+            ],
+            "primary": [
+                "User Experience design principles",
+                "Agile development"
+            ],
+            "secondary": [
+                "JBOSS Enterprise environment"
+            ],
+            "all": [
+                "React.js",
+                "HTML5",
+                "CSS Frameworks",
+                "ADA compliance",
+                "WCAG 2.1",
+                "Java",
+                "JPA",
+                "Spring",
+                "Spring Boot",
+                "Java 8+",
+                "User Experience design principles",
+                "Agile development",
+                "JBOSS Enterprise environment"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vivek",
+        "email": "vkumar@vyzeinc.com",
+        "jd": "From: vivek, vyzeinc vkumar@vyzeinc.com Reply to: vkumar@vyzeinc.com Job Description -*Local candidates with government experience are strongly preferredFront End Developer (JAVA)Hybrid - Lansing, MichiganAny Visa F2f Interview JDMust be familiar with WCAG 2.1, ADA compliance and responsive design . All development will be tested by the developer for accessibility using Jaws reader along with multiple browser plugins.Strong background with React.js - Required, 5 yearsExperience with HTML5 and CSS Frameworks - Required, 5 YearsStrong knowledge and background with ADA, WCAG 2.1, Section 508 compliance policies, User Experience design principles and standards - Required, 5 yearsExperience with current JAVA, this includes using relevant IDE tools such as Eclipse/Jboss Developer Studio - Required, 3 YearsExperience programming in projects using JPA framework - Required, 2 YearsExperience programming in projects using current Spring framework - Required, 2 YearsExperience programming with Spring Boot and Spring Data - Required, 2 YearsExperience programming with Java 8+ - Required - 3 YearsExperience participating as a programmer within an Agile development environment - Required, 2 YearsExperience programming in the JBOSS Enterprise environment - Desired, 2 Years",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:12:03-05:00",
+        "unique_id": "192affc7696cc0a9",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

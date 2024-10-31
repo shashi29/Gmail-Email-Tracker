@@ -1,0 +1,49 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "Java Backend Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "Dilip Kumar",
+            "email": "dilip.k@centraprise.com"
+        },
+        "skills": {
+            "core": [
+                "Java"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "jd": "From: Dilip Kumar, Centraprise dilip.k@centraprise.com Reply to: dilip.k@centraprise.com Role: Java Backend Developer - New York, NY - Day 1 OnsiteEmployment Type: ContractNeed EX-AMEX MandatoryHiring Java Backend Developer \u2013 New York, NY \u2013 Day 1 Onsite",
+        "source": "Email",
+        "date_posted": "2024-10-18 15:54:30-05:00",
+        "unique_id": "192a1d641fa75a78",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

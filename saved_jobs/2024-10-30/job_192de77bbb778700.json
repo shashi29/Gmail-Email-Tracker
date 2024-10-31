@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Sonitalent Corp",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "Prospect",
+            "state": "KY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "ADF",
+                "Kafka",
+                "Snowflake",
+                "Azure Databricks",
+                "API development"
+            ],
+            "secondary": [
+                "data analysis",
+                "data quality",
+                "data integrity",
+                "technical documentation"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "ADF",
+                "Kafka",
+                "Snowflake",
+                "Azure Databricks",
+                "API development",
+                "data analysis",
+                "data quality",
+                "data integrity",
+                "technical documentation"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Shubhra Soni",
+        "email": "shubhra.soni@sonitalentcorp.com",
+        "jd": "Role Title: Data Engineer\nLocation: Remote\nDuration: 6 month contract\nVisa: USC, GC, H4-EAD only\nNote: Need 5 digit SSN with LinkedIn also need candidate visa copy image in hand.\n\nDescription: We are seeking an Onshore Data Engineer/Analyst to assist with the analysis of claims data. The ideal candidate will have strong skills in Python and SQL, and experience working with ADF and Kafka. Experience with claims and provider data is a plus.\n\nMust have: 5+ years of overall experience in any of the skillsets- Snowflake, Azure Databricks, API development, and Kafka OR: 3+ years of strong experience with Azure data bricks and some experience with the others.\n\nResponsibilities:\n\u2022 Develop and maintain data pipelines to process claims and provider data.\n\u2022 Perform data analysis to identify trends, anomalies, and insights.\n\u2022 Ensure data quality and integrity throughout the data lifecycle.\n\u2022 Collaborate with cross-functional teams to understand data requirements and deliver solutions.\n\u2022 Utilize tools such as ADF and Kafka for data integration and processing.\n\u2022 Provide technical support and troubleshooting for data-related issues.\n\u2022 Document processes and maintain clear and comprehensive technical documentation.",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:21:43-05:00",
+        "unique_id": "192de77bbb778700",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Sydata Inc",
+        "job_title": "AWS data Engineer / Architect",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Data Engineering",
+                "Data Architecture",
+                "Data Lake",
+                "Data Warehouse"
+            ],
+            "primary": [
+                "Data Transformation",
+                "Data Security",
+                "Data Quality",
+                "Performance Optimization",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Finance Domain",
+                "Data Acquisition",
+                "Data Governance",
+                "DevOps",
+                "DataOps",
+                "Data Pipelines",
+                "Batch Processing",
+                "Streaming",
+                "API",
+                "Message Queues",
+                "Real-time Data",
+                "Structured Data",
+                "Semi-structured Data",
+                "Unstructured Data",
+                "Presentation Skills"
+            ],
+            "all": [
+                "AWS",
+                "Data Engineering",
+                "Data Architecture",
+                "Data Lake",
+                "Data Warehouse",
+                "Data Transformation",
+                "Data Security",
+                "Data Quality",
+                "Performance Optimization",
+                "Snowflake",
+                "Finance Domain",
+                "Data Acquisition",
+                "Data Governance",
+                "DevOps",
+                "DataOps",
+                "Data Pipelines",
+                "Batch Processing",
+                "Streaming",
+                "API",
+                "Message Queues",
+                "Real-time Data",
+                "Structured Data",
+                "Semi-structured Data",
+                "Unstructured Data",
+                "Presentation Skills"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Shobhana Kulhade",
+        "email": "shobhana@sydatainc.com",
+        "jd": "Immediate need AWS data Engineer / Architect in Chicago, IL Onsite Role (Hybrid) AWS data Engineer / Architect Chicago, Illinois - Onsite RoleLong Term Skills Finance Domain Data expertise. Ability to Model data in Data Lake and Data warehouse for Analytical use cases. Ability to understand and negotiate solution with Business teams/Business Analysts. Ability to architect and Design Data Storage, Data Transformation, Data Security, Data Quality and Performance optimization techniques in AWS and Snowflake. Ability to architect and solution data pipelines for batch, streaming, API, Message Queues and real time sources. Ability to work with structured, semi structured and unstructured data. Ability to create clear and impactful Presentations based on audience. Job DescriptionResponsible for ensuring that the data management and governance frameworks are in place and adhered toResponsible for Architecting Data engineering pipelines including data acquisition, Ingestion, management, processing, publishing by leveraging various AWS servicesResponsible for developing and optimizing database models to store and retrieve company informationResponsible for determining strategic data requirements, creating high-level designs according to these requirementsResponsible for guiding and resolving issues with AWS service configuration, performance, security compliance, data quality issues and data retrieval.Prepare Architecture and high-level design documents for the data engineering pipelinesDesigning DevOps & DataOps pipelines and resolve issues during implementation and execution.Responsible for researching data acquisition opportunities",
+        "source": "Email",
+        "date_posted": "2024-10-15 12:30:54-05:00",
+        "unique_id": "192915c2aea33477",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

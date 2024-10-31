@@ -1,0 +1,92 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "Sr Java Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "4-5 years",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or a related field (Master\u2019s preferred)",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Microservices Architecture",
+                "Spring Boot",
+                "Java Message Service (JMS)",
+                "Apache Kafka"
+            ],
+            "primary": [
+                "Java Collections",
+                "Concurrency Utilities",
+                "Multithreading",
+                "Deadlock Prevention",
+                "Synchronization Mechanisms",
+                "Concurrent Data Structures",
+                "Executor Framework",
+                "Distributed Systems Design Patterns",
+                "Saga Patterns",
+                "Backpressure Handling Strategies"
+            ],
+            "secondary": [
+                "High Availability",
+                "Low Latency",
+                "Scalability",
+                "Fault-tolerant Messaging",
+                "Exception Handling",
+                "Cross-functional Collaboration",
+                "Code Reviews"
+            ],
+            "all": [
+                "Core Java",
+                "Microservices Architecture",
+                "Spring Boot",
+                "Java Message Service (JMS)",
+                "Apache Kafka",
+                "Java Collections",
+                "Concurrency Utilities",
+                "Multithreading",
+                "Deadlock Prevention",
+                "Synchronization Mechanisms",
+                "Concurrent Data Structures",
+                "Executor Framework",
+                "Distributed Systems Design Patterns",
+                "Saga Patterns",
+                "Backpressure Handling Strategies",
+                "High Availability",
+                "Low Latency",
+                "Scalability",
+                "Fault-tolerant Messaging",
+                "Exception Handling",
+                "Cross-functional Collaboration",
+                "Code Reviews"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anshika Shukla",
+        "email": "anshika.shukla@tekinspirations.com",
+        "jd": "Job Description -Need at least 4-5 years old LinkedIn Any Visa Except OPT / HIB / CPTOnly Genuine VisaNeed 2 References No representation Sr. Java Developer (Low Latency) Work Location: Charlotte, North Carolina, United States (Need local only) F2F Sr. Java Developer (Low Latency) - Charlotte, NC The client is seeking a Java Developer with Proficiency in Core Java, and microservices architecture to help us build responsive, scalable applications that operate within a complex distributed ecosystem. The ideal candidate will have a strong grasp of Java's concurrency utilities, experience with Java Message Service (JMS) and Apache Kafka, as well as proficiency in Spring Boot and microservices-based architecture. Key Skills and Qualifications:Deep understanding of Java Collections and concurrency concepts, including multithreading, deadlock prevention, and synchronization mechanisms.Expertise in concurrent data structures such as Concurrent HashMap and experience with the Executor framework to manage asynchronous tasks.Experience with message-oriented middleware such as JMS and message brokers like Apache Kafka, including knowledge of partitioning, streams, and transaction management.Familiarity with distributed systems design patterns such as saga patterns, and practical experience implementing such patterns.Proven ability to design and implement robust JMS scenarios and handle exceptions gracefully.Knowledge of backpressure handling strategies in systems design.Proficiency in Spring Boot, with a focus on building microservices and understanding their orchestration and deployment. Desired Experience:10 years of professional Java development experience.Demonstrable experience with building and maintaining high-volume, low-latency applications.Practical examples of systems you have worked on that employed the skills listed. Job Responsibilities:Develop and maintain Java applications with a focus on high availability, low latency, and scalability.Implement complex data processing pipelines using Kafka streams and manage distributed transactions.Design and develop microservices with Spring Boot, adhering to best practices in cloud-native development.Write robust code to handle multithreading, synchronization, and concurrency control with a focus on performance optimization.Create fault-tolerant messaging scenarios using JMS and Kafka, ensuring reliable communication between services.Develop strategies for exception handling and backpressure management.Collaborate with cross-functional teams to ensure seamless integration of services.Participate in code reviews to maintain code quality and share knowledge. Educational Qualifications:Bachelor's degree in Computer Science, Engineering, or a related field (Master\u2019s preferred).",
+        "source": "Email",
+        "date_posted": "2024-10-10 10:38:39-05:00",
+        "unique_id": "192773ec3578f62e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

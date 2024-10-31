@@ -1,0 +1,96 @@
+[
+    {
+        "company": "Sibitalent",
+        "job_title": ".Net Developer",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net",
+                "C#",
+                ".Net Core",
+                "Entity Framework",
+                "Angular",
+                "TypeScript"
+            ],
+            "primary": [
+                "LINQ",
+                "Oracle",
+                "SQL Server",
+                "TDD",
+                "Unit Testing",
+                "GitHub",
+                "Bitbucket",
+                "Microservices",
+                "Cloud technologies",
+                "CI/CD"
+            ],
+            "secondary": [
+                "HTML5",
+                "CSS",
+                "NGRX",
+                "Design patterns",
+                "Software architecture",
+                "Troubleshooting",
+                "Debugging",
+                "Technical documentation"
+            ],
+            "all": [
+                ".Net",
+                "C#",
+                ".Net Core",
+                "Entity Framework",
+                "Angular",
+                "TypeScript",
+                "LINQ",
+                "Oracle",
+                "SQL Server",
+                "TDD",
+                "Unit Testing",
+                "GitHub",
+                "Bitbucket",
+                "Microservices",
+                "Cloud technologies",
+                "CI/CD",
+                "HTML5",
+                "CSS",
+                "NGRX",
+                "Design patterns",
+                "Software architecture",
+                "Troubleshooting",
+                "Debugging",
+                "Technical documentation"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Saurabh Sharma",
+        "email": "ssaurabh@sibitalent.com",
+        "jd": "Hi this side saurabh From SibitalentI have a Job Opportunity For You Position:- .Net DeveloperLocation:- Denver (Remote) Required Skills:- 8+ years of experience in .Net technologies including .Net Core.Very proficient in C#, .Net Web API, Entity Framework etc. Strong working knowledge with different databases like Oracle, SQL Server. Able to do all database operations using LINQ as well Able to work with database IDEs.Fluent in Angular UI framework, typescript, NGRX, HTML5, CSS and able to do UI development and guide the team.Experience of TDD (Test Driven Development), unit testing and mocking frameworks.Experience with source controls like GitHub, bitbucket etc.Strong knowledge of design patterns and understanding of software architecture including micro services and Cloud technologies.Experience with CI/CD, Unit Testing, Linting, and Code Coverage.Establishes coding standards, policies and best practices.Work on POC ConceptsJob Description\u2022 Produce efficient and elegant code based on requirements\u2022 Performs Unit testing\u2022 Troubleshooting, debugging, maintaining and improving existing software\u2022 Collaborating closely with business stakeholders, Senior Developers and to understand end user requirements and specifications\u2022 Able to follow and understand technical requirements and challenges and come up with solutions, able to translate requirements into designs\u2022 Responsible for helping drive the high-level architectural discussions regarding the work that the team is doing, lead design meetings and technical breakdowns\u2022 Able to work with ease on complex requirements and implementation and work independently \u2022 Developing technical documentation for the tasks assigned.\u2022 Help organize the work by breaking down feature epics into stories and tasks",
+        "source": "Email",
+        "date_posted": "2024-10-11 12:03:51-05:00",
+        "unique_id": "1927caa1e687800b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

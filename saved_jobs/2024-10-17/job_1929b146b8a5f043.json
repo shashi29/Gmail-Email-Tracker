@@ -1,0 +1,126 @@
+[
+    {
+        "company": "Involgix",
+        "job_title": "Lead Data Engineer",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "2+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "NoSQL",
+                "Postgres",
+                "Cassandra",
+                "AWS",
+                "Python",
+                "Java",
+                "Scala",
+                "R",
+                "Apache Airflow",
+                "Hadoop",
+                "Spark",
+                "Kafka"
+            ],
+            "primary": [
+                "EC2",
+                "MSK",
+                "S3",
+                "RDS",
+                "SNS",
+                "SQS",
+                "Storm",
+                "Spark-Structured-Streaming",
+                "AWS Data Pipeline",
+                "Github",
+                "VSCode",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Avro",
+                "Parquet",
+                "Json",
+                "data pipeline",
+                "workflow management tools",
+                "big data tools",
+                "software engineering tools",
+                "data schema life-cycles",
+                "event streaming applications",
+                "high performance data structures",
+                "high availability data structures",
+                "structured data",
+                "unstructured data",
+                "cloud based ecosystems"
+            ],
+            "all": [
+                "SQL",
+                "NoSQL",
+                "Postgres",
+                "Cassandra",
+                "AWS",
+                "Python",
+                "Java",
+                "Scala",
+                "R",
+                "Apache Airflow",
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "EC2",
+                "MSK",
+                "S3",
+                "RDS",
+                "SNS",
+                "SQS",
+                "Storm",
+                "Spark-Structured-Streaming",
+                "AWS Data Pipeline",
+                "Github",
+                "VSCode",
+                "CI/CD",
+                "Avro",
+                "Parquet",
+                "Json",
+                "data pipeline",
+                "workflow management tools",
+                "big data tools",
+                "software engineering tools",
+                "data schema life-cycles",
+                "event streaming applications",
+                "high performance data structures",
+                "high availability data structures",
+                "structured data",
+                "unstructured data",
+                "cloud based ecosystems"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ron Miller",
+        "email": "ron@involgix.com",
+        "jd": "From: Ron Miller, Involgix ron@involgix.com Reply to: ron@involgix.com Position: Lead Data EngineerLocation: Denver, CO (Day One Onsite)Hiring Type: Contract Job Description:Experience of relational SQL and NoSQL databases, including Postgres and Cassandra.Strong understanding of in-memory processing and data formats (Avro, Parquet, Json etc.)Experience or knowledge of AWS cloud services: EC2, MSK, S3, RDS, SNS, SQSExperience or knowledge of stream-processing systems: i.e., Storm, Spark-Structured-Streaming, Kafka consumers.Experience or knowledge of object-oriented/object function scripting languages: i.e., Python, Java, Scala, R, SQL.Experience or knowledge of data pipeline and workflow management tools: i.e., AWS Data Pipeline, Apache Airflow, Argo.Experience or knowledge of big data tools: i.e., Hadoop, Spark, Kafka.Experience or knowledge of software engineering tools/practices: i.e., Github, VSCode, CI/CDHands-on experience in designing and maintaining data schema life-cycles.The Data Engineer role will be responsible for not only understanding data pipelines but event streaming applicationsYou are an experienced engineering with 2+ years of experienceExperience in big data structuresStrong organizational and analytical skills related to working with structured and unstructured data operationsExperience implementing and maintaining high performance / high availability data structuresOperating within cloud based eco systemsLeading projects and mentoring other team members Thanks and RegardsRon MillerSr. US IT Recruiter700 Market St, Suite 203, Cedar Park, TX 78613Email: ron@involgix.com",
+        "source": "Email",
+        "date_posted": "2024-10-17 09:06:24-05:00",
+        "unique_id": "1929b146b8a5f043",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

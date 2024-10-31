@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Resource Logistics",
+        "job_title": "Lead SQL DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "T-SQL",
+                "ETL",
+                "PowerShell"
+            ],
+            "primary": [
+                "database backup",
+                "disaster recovery",
+                "production server management"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "T-SQL",
+                "ETL",
+                "PowerShell",
+                "database backup",
+                "disaster recovery",
+                "production server management"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rehan",
+        "email": "rehan@resource-logistics.com",
+        "jd": "From: Rehan, Resource Logistics rehan@resource-logistics.com Reply to: rehan@resource-logistics.com Lead SQL DBARemoteContrcat Visa- Only US CItizenHands on experience in SQL DBAShould be able to work independentlyProficiency in SQL (Structured Query Language)Knowledge of database backup, disaster recovery, and production server managementUnderstanding of T-SQL, ETL, and PowerShell",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:43:33-05:00",
+        "unique_id": "192c58bbacf4b9c2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

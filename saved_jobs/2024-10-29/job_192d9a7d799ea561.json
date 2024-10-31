@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Headwaytek",
+        "job_title": "AWS Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Apache Airflow",
+                "AWS DynamoDB",
+                "AWS Redshift",
+                "AWS SQS"
+            ],
+            "primary": [
+                "Terraform",
+                "Data Warehousing Best Practices"
+            ],
+            "secondary": [
+                "Hivemind",
+                "Dbeaver",
+                "Periscope"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Apache Airflow",
+                "AWS DynamoDB",
+                "AWS Redshift",
+                "AWS SQS",
+                "Terraform",
+                "Data Warehousing Best Practices",
+                "Hivemind",
+                "Dbeaver",
+                "Periscope"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rahul Reddy",
+        "email": "rahul@headwaytek.com",
+        "jd": "From: Rahul Reddy, Headwaytek rahul@headwaytek.com Reply to: rahul@headwaytek.com Role: AWS Data EngineerYears of Experience: 10+ yearsLocation: Remote (should be comfortable working in Pacific time) A successful candidate will work alongside our existing full-time Data Engineer and will help build a new data pipeline that is a near replica of an existing data pipeline. We have two different backend applications, and currently have a data pipeline that connects one of the backends to a data visualization tool we used called Sisense. The goal will be to build a similar pipeline connecting the second backend to the same data visualization tool, Sisense. So obviously at the very base level we need python and SQL. We use terraform to manage the infrastructure. We use Airflow to orchestrate the pipelines and airflow functions to write different parts of the pipeline. Airflow function I believe is the most important part of the tech stack. We use AWS services like SQS, Lambda, DynamoDB, S3, Redshift. We also run our airflow as a container on AWS using ECS and ECR but aren\u2019t an important part of the tech stack. Familiarity with tools such as dbeaver and periscope would help a lot. Best practices of data warehousing would be a plus to have. In terms of specific technical skills, languages & tools, we are looking for someone comfortable with:\u2022 Hivemind\u2022 Apache Airflow\u2022 AWS DynamoDB\u2022 AWS Redshift\u2022 AWS SQS",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:26:50-05:00",
+        "unique_id": "192d9a7d799ea561",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Xforia",
+        "job_title": ".NET Backend Developer (Terraform)",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "11+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science or similar field of study",
+            "visa_sponsorship": "H1B only",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "Azure",
+                "Terraform",
+                "CI/CD"
+            ],
+            "primary": [
+                "Cloud methodologies",
+                "Azure DevOps",
+                "DevSecOps",
+                "SQL",
+                "Entity Framework",
+                "Microservices",
+                "Agile development practices",
+                "API development"
+            ],
+            "secondary": [
+                "Technical Design",
+                "Software Architecture",
+                "Oil and Gas industry experience",
+                "Proof of concepts",
+                "Waterfall practices"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "Azure",
+                "Terraform",
+                "CI/CD",
+                "Cloud methodologies",
+                "Azure DevOps",
+                "DevSecOps",
+                "SQL",
+                "Entity Framework",
+                "Microservices",
+                "Agile development practices",
+                "API development",
+                "Technical Design",
+                "Software Architecture",
+                "Oil and Gas industry experience",
+                "Proof of concepts",
+                "Waterfall practices"
+            ],
+            "with_experience": [
+                "C# (11+ years)",
+                ".NET (11+ years)",
+                "Azure (5+ years)",
+                "Terraform (5+ years)",
+                "CI/CD (11+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "kathiravan",
+        "email": "kathiravan.r@xforia.com",
+        "jd": "Job Details\n\n.NET Backend Developer\n\nLong Term Contract\n\nHouston, TX (Onsite)\n\nKey points:\n\nSummary: The Senior Software Engineer for Multi-Chem will be responsible for setting technical direction for cloud adoption and maintaining constantly changing architectures of existing on-prem apps. This individual must be able to define best practices for complex solutions and develop migration of existing on-premise applications to cloud architectures. This individual must also have strong consultative and communication skills. The individual will work with different stakeholders.\n\nQualifications:\n\n- 10+ years working with information technology\n- 5+ years working with cloud technology\n- Expert in cloud technologies, especially Azure\n- Good experience in Cloud methodologies, Terraform and ADO\n- Strong interpersonal and consultative skills\n- Bachelor\u2019s degree in computer science or similar field of study\n- Local to Houston area\n\nExperience:\n\n- Significant experience in design and development roles\n- Strong background in Azure DevOps and DevSecOps related responsibilities including: CI/CD pipeline architecture/creation, working with ADO/Terraform, best deployment practices, and microservices\n- Significant experience with transformations from traditional operational methodologies to DevSecOps\n- Experience with Agile development practices\n- Strength in App performance with SQL/Entity-framework\n- CI / CD pipelines for Web applications\n- Strong C#/.Net software development background in an enterprise environment\n- Previous experience creating proof of concepts from scratch based off requirements/application infrastructure to propose, create, and implement solutions\n- Experience in working/leading onsite/offsite team, and some task planning activities.\n- Experience/exposure to both Waterfall and Agile/Scrum practices and tools.\n- Strong API experience (defining API specifications, creating APIs, and integrating APIs into 3rd\n\nPlusses:\n\n- Background in Technical Design/Software Architect work\n- Previous Oil and Gas industry experience",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:50:43-05:00",
+        "unique_id": "192dde459a261ced",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

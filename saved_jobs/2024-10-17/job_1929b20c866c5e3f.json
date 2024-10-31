@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Federated Hermes",
+        "job_title": "Database Developer",
+        "location": "Warrendale, PA, USA",
+        "full_location": {
+            "city": "Warrendale",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12-month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SqlServer",
+                "SSIS",
+                "SSRS",
+                "Oracle Database"
+            ],
+            "primary": [
+                "Data Factory",
+                "Data Bricks",
+                "Boomi",
+                "Control-M BMC",
+                "MFT"
+            ],
+            "secondary": [],
+            "all": [
+                "SqlServer",
+                "SSIS",
+                "SSRS",
+                "Oracle Database",
+                "Data Factory",
+                "Data Bricks",
+                "Boomi",
+                "Control-M BMC",
+                "MFT"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Nidhi Yadav",
+        "email": "nidhi.yadav@tekinspirations.com",
+        "jd": "Hello,Hope you are doing well..I have positions for . Database Developer in Location::hybride with our client. Kindly review the job description below and see if it might be an option worth considering.Title: Database DeveloperLocation: Warrendale \u2013 Hybrid (3 days in the office/2 remote)Duration: 12-month ContractClient: Federated HermesVisa: No USC/GC, No OPT Note: The more \u201cpreferred skills\u201d they have the more consideration they\u2019ll get! Skills: SqlServerSSIS, SSRSOracle DatabaseData Factory preferred but not mandatory.Data Bricks preferred but not mandatory.Boomi would be preferred but not mandatory.Control-M BMC, MFT would be preferred but not mandatory.",
+        "source": "Email",
+        "date_posted": "2024-10-17 09:59:47-05:00",
+        "unique_id": "1929b20c866c5e3f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

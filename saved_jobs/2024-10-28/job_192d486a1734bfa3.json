@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Delta Airlines",
+        "job_title": "Teradata Consultant",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Teradata Utilities",
+                "ETL Development",
+                "Teradata SQL",
+                "AWS services",
+                "Database Management"
+            ],
+            "primary": [
+                "Data Modeling",
+                "DB Performance Tuning",
+                "Data Security & Governance",
+                "Cloud Integration and Management",
+                "Automation and DevOps",
+                "Data Warehousing and Analytics",
+                "Security and Compliance"
+            ],
+            "secondary": [
+                "Scripting (Shell, Python)",
+                "Query optimization techniques",
+                "Indexing",
+                "Partitioning",
+                "Workload management",
+                "AWS CloudFormation",
+                "Terraform",
+                "AWS Lambda",
+                "Step Functions",
+                "AWS Glue"
+            ],
+            "all": [
+                "Teradata Utilities",
+                "ETL Development",
+                "Teradata SQL",
+                "AWS services",
+                "Database Management",
+                "Data Modeling",
+                "DB Performance Tuning",
+                "Data Security & Governance",
+                "Cloud Integration and Management",
+                "Automation and DevOps",
+                "Data Warehousing and Analytics",
+                "Security and Compliance",
+                "Scripting (Shell, Python)",
+                "Query optimization techniques",
+                "Indexing",
+                "Partitioning",
+                "Workload management",
+                "AWS CloudFormation",
+                "Terraform",
+                "AWS Lambda",
+                "Step Functions",
+                "AWS Glue"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Navya Gupta",
+        "email": "navya@stellentit.com",
+        "jd": "From: navya gupta, Stellentit navya@stellentit.com Reply to: navya@stellentit.com Hello,I hope you are doing well!Kindly acknowledge me, are you Comfortable with this Position then please share me your updated resume. Job Title:- Teradata Consultant \u2013HybridLocation: Hybrid - onsite 2-3 days a week Atlanta, GANo H1BClient: Delta AirlinesC2CKey Responsibilities and Skillets:Database Management, ETL Development, have used tools like Teradata Utilities (e.g., BTEQ, Fast Load, MultiLoad, TPT, etc.), Data Modeling, DB Performance Tuning, Data Security & Governance, Cloud Integration and Management, Cloud Infrastructure, Automation and DevOps, Data Warehousing and Analytics, Security and ComplianceIn-depth knowledge of Teradata architecture and components (e.g., AMP, Nodes, Parsing Engines, etc.).Proficiency in Teradata SQL and Teradata utilities.Strong SQL skills for querying and managing relational databases.Scripting experience (e.g., Shell, Python) for automating tasks.Knowledge of query optimization techniques, indexing, partitioning, and workload management in Teradata .Proficiency with core AWS services: EC2, S3, RDS, Lambda, CloudWatch, CloudFormation, etc.Familiarity with AWS storage options, such as S3, EFS, and Glacier, in the context of large-scale data storage and retrieval.Knowledge of AWS services that enhance Teradata performance, such as using S3 for staging data or integrating with Redshift for analytics.Hands-on experience with AWS CloudFormation, Terraform, or similar tools for automating infrastructure deployment.Proficiency in automating ETL pipelines and data processing workflows using AWS Lambda, Step Functions, or AWS Glue. Job Duties: You will be working with business leaders, stakeholders, and engineering teams to develop the roadmap from Teradata on prem to AWS. You will help evaluate which tools will be used and implemented as they transition date to the cloud. Your team owns multiple pricing applications at Our client - these currently use Teradata and are business critical as airline pricing changes every four hours. They are currently on prem, but are looking for a Teradata Engineer who can help build their roadmap to transition to AWSDay to day will be pricing optimization and performance tuning with Teradata according to business rules and airline mandates. Experience communicating with business stakeholders, leaders to evaluate tools and develop a roadmap or strategy Navya GuptaSr. IT Technical RecruiterPhone:- 3212189059Email: navya@stellentit.comGtalk: navya@stellentit.comLinkedin id:- linkedin.com/in/navya-gupta-1a879024a",
+        "source": "Email",
+        "date_posted": "2024-10-28 13:32:25-05:00",
+        "unique_id": "192d486a1734bfa3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

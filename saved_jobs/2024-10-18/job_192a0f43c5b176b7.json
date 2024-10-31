@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Sonitalent",
+        "job_title": "Database Administrator",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor of Science degree in Computer Science or equivalent",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MySQL",
+                "Redshift",
+                "AWS Database Migration Service",
+                "Tuning",
+                "Performance",
+                "Trouble-shooting"
+            ],
+            "primary": [],
+            "secondary": [
+                "Excellent written and verbal communication skills",
+                "Collaborative, cross-functional environment"
+            ],
+            "all": [
+                "MySQL",
+                "Redshift",
+                "AWS Database Migration Service",
+                "Tuning",
+                "Performance",
+                "Trouble-shooting",
+                "Excellent written and verbal communication skills",
+                "Collaborative, cross-functional environment"
+            ],
+            "with_experience": [
+                "MySQL (8+ years)",
+                "Redshift",
+                "AWS Database Migration Service"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sushmita Soni",
+        "email": "sushmita.soni@sonitalentcorp.com",
+        "jd": "From: Sushmita Soni, Sonitalent sushmita.soni@sonitalentcorp.com Reply to: sushmita.soni@sonitalentcorp.com HiHope you are doing well , We are Hiring for : Database Administratorand let me know if you are looking for this role and send me your updatedJob Title \u2013 Database AdministratorJob Location -Fully Remote \u2013 CST, MST or PST (not California)Duration \u2013 Full TimeVisa -Any Visa except H1B,cptMode Of Interview - Phone/SkypeNote - Need LinkedInJob Description \u2013 Please note \u2013 ALL SKILLS LISTED WILL BE NECESSARY AND CHALLENGED DURING THE INTERVIEW PROCESS \u2013 VERY SOLID MYSQL, AURORA, AWS AND REDSHIFT FOR SURE Top 5 Technical Skills:MySQLRedshiftAWS Database Migration ServiceTuning, PerformanceTrouble-shooting - 24x7 Call SupportTop Soft Skills:Excellent written and verbal communication skillsCollaborative, cross-functional environmentJob Description:Position: Senior Database AdministratorDatabase Administrator to work on data migration project. The successful candidate will have a strong background in database administration, particularly with MySQL ad Redshift databases, and extensive experience with data migration, consolidation, and optimization processes. This role requires a meticulous attention to detail, strong problem-solving skills, and the ability to collaborate effectively with cross-functional teams.Candidate Requirements:Hands-on experience with AWS MySQL Aurora 5.7 or above, including 24x7 production support and on-call troubleshooting.Experience with database migrations, and agile development methodology.Self-motivated, able to work independently, and collaborate effectively with developers during software deployments and data migrations.Excellent written and verbal communication skills for a collaborative, cross-functional environment.Minimum Skills and Experience:Bachelor of Science degree in Computer Science or equivalent.8+ years as a MySQL, Redshift DBA, with expertise in design, implementation, backup, recovery, monitoring, and performance tuning.Strong understanding of database consolidation techniques and best practices.Experience with data migration tools and techniques, such as AWS Database Migration Service (DMS) or similar.Proficiency in SQL and database performance tuning.Develop a comprehensive strategy for merging the two databases into a single Aurora MySQL database while minimizing downtime and ensuring data integrity.Experience with 24x7 support, troubleshooting, and managing databases in cloud environments (AWS).Experience with cloud-based services (AWS Cloudwatch, DataDog, Percona Monitoring Management PMM).Expertise in high-availability database features, replication, disaster recovery, and live production schema changes.Proficiency with cloud-specific technologies (S3, Route 53, CloudFormation), version control tools (GitHub), and database life-cycle management.Knowledge of database security, backup retention policies, and scaling databases.Experience with managing the full life cycle of database schema design and implementation, which includes script management from development through production releases.Experience implementing database schema changes in a live production environment requiring minimal downtime and zero performance impact.",
+        "source": "Email",
+        "date_posted": "2024-10-18 13:11:26-05:00",
+        "unique_id": "192a0f43c5b176b7",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

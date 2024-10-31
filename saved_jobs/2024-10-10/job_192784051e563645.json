@@ -1,0 +1,69 @@
+[
+    {
+        "company": "KPG99 INC",
+        "job_title": "Snowflake Developer",
+        "location": "Woonsocket, RI, USA",
+        "full_location": {
+            "city": "Woonsocket",
+            "state": "RI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2-4 years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months (potential to extend or contract to hire- but no guarantees at this time)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "SQL",
+                "ETL Tools"
+            ],
+            "primary": [
+                "Google Cloud Platform",
+                "Data Management",
+                "Data Migration"
+            ],
+            "secondary": [
+                "Communication",
+                "Project Management Tools",
+                "Adaptable"
+            ],
+            "all": [
+                "Snowflake",
+                "SQL",
+                "ETL Tools",
+                "Google Cloud Platform",
+                "Data Management",
+                "Data Migration",
+                "Rally",
+                "Communication",
+                "Project Management Tools",
+                "Articulate data information",
+                "Adaptable"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kailash Negi",
+        "email": "kn@kpgtech.com",
+        "jd": "From: Kailash Negi, KPG99 kn@kpgtech.com Reply to: kn@kpgtech.com Role : Snowflake DeveloperLocation : Woonsocket, RI 02895Duration : 6+ Months (potential to extend or contract to hire- but no guarantees at this time)Interview : Video Candidate must be Local and be onsite 3 days a week in Rhode Island. Job Description:As a Snowflake Developer you will be focused on day to day initiatives that will further assist with a future GCP Data Migration. Day to day will be supporting the current system (Snowflake) and assist with new product development throughout the healthcare aspect of CLIENT. You will play a vital role in the structure of the current team while some of the current team members will shift over to the focusing on the GCP Migration. Key Responsibilities:Develop and optimize ETL processes for data extraction, transformation, and loading into Snowflake.Write and refine SQL queries to ensure efficient data processing and performance within Snowflake.Assist in data mapping, profiling, and cleansing to maintain data quality.Provide support and training to team members on Snowflake and data management practices.Preform efficient data management by scaling data storage and making computing tasks separate.Stay updated on Snowflake features to leverage the best tools for data management.Collaborate with data engineering and analytics teams to design and implement the migration of data to Snowflake on GCP.Document migration workflows, including data flow diagrams, transformation logic, and best practices. Qualifications:Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.2-4 years of experience in Snowflake development and data management.Proficiency in SQL and Snowflake-specific features (e.g., Snowpipe, Streams, Tasks).Familiarity with Google Cloud Platform services (e.g., BigQuery, Cloud Storage) is a plus.Experience with ETL tools (e.g., Informatica, Talend) and cloud migration methodologies.Strong analytical skills and attention to detail.Excellent communication and collaboration abilities. Technical Skills:Snowflake \u2013 Must Have RallySQLETL Tools Project Management Tools Soft Skills:CommunicationArticulate data information Adaptable Can work independently and on a team Thanks and Regards,Kailash Negi | KPG99 INC kn@kpgtech.com",
+        "source": "Email",
+        "date_posted": "2024-10-10 13:37:50-05:00",
+        "unique_id": "192784051e563645",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

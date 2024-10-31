@@ -1,0 +1,75 @@
+[
+    {
+        "company": "KPG99",
+        "job_title": "Full Stack Developer",
+        "location": "Tampa, FL, USA",
+        "full_location": {
+            "city": "Tampa",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "BS/BA degree or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Kafka",
+                "Oracle",
+                "MongoDB",
+                "Kubernetes"
+            ],
+            "primary": [
+                "AWS",
+                "React"
+            ],
+            "secondary": [
+                "Git",
+                "Jenkins",
+                "JUnit",
+                "Cucumber",
+                "Docker"
+            ],
+            "all": [
+                "Java",
+                "Springboot",
+                "Kafka",
+                "Oracle",
+                "MongoDB",
+                "Kubernetes",
+                "AWS",
+                "React",
+                "Git",
+                "Jenkins",
+                "JUnit",
+                "Cucumber",
+                "Docker"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rama Kumari",
+        "email": "rkumari@kpgtech.com",
+        "jd": "From: Rama Kumari, KPG99 rkumari@kpgtech.com Reply to: rkumari@kpgtech.com Full Stack Developer,Hybrid - Tampa, FL.US Citizen, Green Card, GC-EAD - CTH Role.Years of experience: 8+ yearsInterview: In-person InterviewRequired:Required 5+ yearsJavaSpringbootKafkaOracle/MongoDBKubernetesNice to haveAWSReactMust have 8-12 years of experience in Full Stack Java developmentAs an experienced member of our Software Engineering Group, we look firstand foremost for people who are passionate around solving business problemsthrough innovation and engineering practices. You'll be required to applyyour depth of knowledge and expertise to all aspects of the softwaredevelopment lifecycle, as well as partner continuously with your manystakeholders on a daily basis to stay focused on common goals. We embrace aculture of experimentation and constantly strive for improvement andlearning. You'll work in a collaborative, trusting, thought-provokingenvironment-one that encourages diversity of thought and creative solutionsthat are in the best interests of our customers globally.This role requires a wide variety of strengths and capabilities, including: * BS/BA degree or equivalent experience * Expertise in application, data, and infrastructure architecturedisciplines * Advanced knowledge of architecture and design across all systems * Proficiency in multiple modern programming languages * Knowledge of industry-wide technology trends and best practices * Keen understanding of financial control and budget management * Ability to work in large, collaborative teams to achieveorganizational goals * Passionate about building an innovative cultureResponsibilities: * Work with the product owner and the scrum team to understand productrequirements * Work with technical manager and the team to finalize the technicaldesign and implementation requirements * Participate the scrum ceremonies and represent the application devteam * Participate with the leads of other job families and ensure thedeliverables are met * Represent the scrum team in leadership meetings * Collaborate with the management on improving the skillset needs of theteamWhat you bring to the job: * Good understanding of the Agile methodologies and implementationguidelines * Good understanding of the application deployment tools like Git,Jenkins, Junit, Cucumber etc. * Expert level skills in Core Java, Springboot * Expert level in Kafka, Kubernetes * Experience working with Docker Images and Containers * Experience with Scripting",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:45:05-05:00",
+        "unique_id": "192a0390fc18d902",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

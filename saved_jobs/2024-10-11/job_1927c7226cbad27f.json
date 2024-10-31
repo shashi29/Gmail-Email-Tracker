@@ -1,0 +1,65 @@
+[
+    {
+        "company": "VBeyond Corporation",
+        "job_title": "Azure Architect",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GIT Hub Actions",
+                "Azure Infra",
+                "Azure Apps",
+                "Terraform"
+            ],
+            "primary": [],
+            "secondary": [
+                "Docker",
+                "Azure Kubernetes (AKS)"
+            ],
+            "all": [
+                "GIT Hub Actions",
+                "Azure Infra",
+                "Azure Apps",
+                "Terraform",
+                "Docker",
+                "Azure Kubernetes (AKS)"
+            ],
+            "with_experience": [
+                "GIT Hub Actions",
+                "Azure Infra",
+                "Azure Apps",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arpit Gupta",
+        "email": "arpitg@vbeyond.com",
+        "jd": "Dear VendorMy name is Arpit gupta and I represent VBeyond Corporation, a global recruitment firm with 18+ years of industry experience. We specialize in sourcing and placing highly skilled talent to meet the unique needs of our clients. Our client is seeking a Azure Architect in Chicago IL an (Onsite) position in Chicago IL Please share if you have any suitable candidate for this role \u2013Role \u2013 Azure ArchitectLocation \u2013 Chicago ILJob Description:Strong communication Hands on experience inGIT Hub Actions (Must)Azure Infra and Azure Apps (Must)Terraform (Must)Docker (Nice to have)Azure Kubernetes (AKS) (Nice to have)Regards,Arpit GuptaVBeyond CorporationExecutive Recruiter| US OperationsDesk # +1-(908) 589-7502 - E: ArpitG@vbeyond.com | www.vbeyond.com390 Amwell Road, Suite # 107, Hillsborough, NJ 08844",
+        "source": "Email",
+        "date_posted": "2024-10-11 10:16:03-05:00",
+        "unique_id": "1927c7226cbad27f",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

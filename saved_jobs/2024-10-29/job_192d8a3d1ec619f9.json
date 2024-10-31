@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Agile Enterprise Solutions",
+        "job_title": "Data bricks Engineer",
+        "location": "New-York City, NY, USA",
+        "full_location": {
+            "city": "New-York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "11+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or related field, or equivalent work experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 + Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Spark",
+                "SQL",
+                "Python",
+                "Pyspark"
+            ],
+            "primary": [
+                "Azure Databricks Medallion Architecture",
+                "Data integration and ETL tools",
+                "Azure Data Factory",
+                "Data warehouse concepts",
+                "Data lake architectures"
+            ],
+            "secondary": [
+                "Kafka",
+                "Hadoop",
+                "Hive",
+                "Data governance",
+                "Data quality"
+            ],
+            "all": [
+                "Databricks",
+                "Spark",
+                "SQL",
+                "Python",
+                "Pyspark",
+                "Azure Databricks Medallion Architecture",
+                "Data integration and ETL tools",
+                "Azure Data Factory",
+                "Data warehouse concepts",
+                "Data lake architectures",
+                "Kafka",
+                "Hadoop",
+                "Hive",
+                "Data governance",
+                "Data quality"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jayanth Yadav",
+        "email": "jayanth_yadav@aesincus.com",
+        "jd": "From: Jayanth Yadav, Agile Enterprise Solutions jayanth_yadav@aesincus.com Reply to: jayanth_yadav@aesincus.com Job Title : Data bricks EngineerLocation : New-York City, NY and/or Metro park, NJ (Day 1 Onsite)Duration : 12 + MonthsExp range : Above 11+ years candidate Job Description :Responsibilities\u00b7 Design, develop, and maintain data pipelines using Databricks and Spark, and other cloud technologies as needed\u00b7 Optimize data pipelines for performance, scalability, and reliability\u00b7 Ensure data quality and integrity throughout the data lifecycle\u00b7 Collaborate with data scientists, analysts, and other stakeholders to understand and meet their data needs\u00b7 Troubleshoot and resolve data-related issues, and provide root cause analysis and recommendations\u00b7 Document data pipeline specifications, requirements, and enhancements, and communicate them effectively to the team and management\u00b7 Create new data validation methods and data analysis tools, and share best practices and learnings with the data engineering community\u00b7 Implement ETL processes and data warehouse solutions, and ensure compliance with data governance and security policiesQualifications\u00b7 Bachelor's degree in Computer Science, Engineering, or related field, or equivalent work experience\u00b7 5+ years of experience in data engineering with Databricks and Spark\u00b7 Proficient in SQL and Python and Pyspark\u00b7 Experience with Azure Databricks Medallion Architecture with DLT, Iceberg\u00b7 Financial/Corporate Banking context would be a plus\u00b7 Experience with data integration and ETL tools, such as Azure Data Factory \u00b7 Experience with Azure cloud platform and services\u00b7 Experience with data warehouse and data lake concepts and architectures\u00b7 Good to have experience with big data technologies, such as Kafka, Hadoop, Hive, etc\u00b7 Strong analytical and problem-solving skills\u00b7 Excellent communication and teamwork skills Requirements:\u00b7 Strong knowledge on data bricks architecture and tools.\u00b7 Have experience of task and wf jobs creations in data bricks.\u00b7 Deep understanding of distributed computing and how to use spark for data processing.\u00b7 SQL and Pyspark - strong command over querying databases and proficiency in Pyspark.\u00b7 Cloud platform: Preferred Azure for data bricks deployment.",
+        "source": "Email",
+        "date_posted": "2024-10-29 08:42:34-05:00",
+        "unique_id": "192d8a3d1ec619f9",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

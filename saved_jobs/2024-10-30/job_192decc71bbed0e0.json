@@ -1,0 +1,105 @@
+[
+    {
+        "company": "Agile Enterprise Solutions Inc",
+        "job_title": "GCP Lead Cloud API Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform (GCP)",
+                "API Development",
+                "RESTful APIs",
+                "Infrastructure as Code (IaC)",
+                "Cloud Architecture"
+            ],
+            "primary": [
+                "Cloud Functions",
+                "Cloud Run",
+                "App Engine",
+                "BigQuery",
+                "Pub/Sub",
+                "Cloud Storage",
+                "Cloud SQL",
+                "OAuth2",
+                "JWT",
+                "OpenAPI/Swagger",
+                "CI/CD",
+                "Terraform",
+                "GitHub Actions"
+            ],
+            "secondary": [
+                "Python",
+                "Java",
+                "Node.js",
+                "Go",
+                "Dataflow",
+                "Kubernetes",
+                "GDPR",
+                "HIPAA",
+                "DevOps",
+                "SRE"
+            ],
+            "all": [
+                "Google Cloud Platform (GCP)",
+                "API Development",
+                "RESTful APIs",
+                "Infrastructure as Code (IaC)",
+                "Cloud Architecture",
+                "Cloud Functions",
+                "Cloud Run",
+                "App Engine",
+                "BigQuery",
+                "Pub/Sub",
+                "Cloud Storage",
+                "Cloud SQL",
+                "OAuth2",
+                "JWT",
+                "OpenAPI/Swagger",
+                "CI/CD",
+                "Terraform",
+                "GitHub Actions",
+                "Python",
+                "Java",
+                "Node.js",
+                "Go",
+                "Dataflow",
+                "Kubernetes",
+                "GDPR",
+                "HIPAA",
+                "DevOps",
+                "SRE"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ben Reynolds",
+        "email": "ben_reynolds@aesincus.com",
+        "jd": "Role: GCP Lead Cloud API Developer\nJob Location: Remote\nDuration: 12+ Months\nHiring- Contract\n\nJob Description:\nLooking for experienced GCP Lead Cloud API Developer to lead the design, development, and implementation of cloud-native APIs on Google Cloud Platform (GCP). Candidate should have a strong background in cloud architecture, API development, and GCP services, with hands-on experience in developing secure, scalable APIs. Candidate will work closely with cross-functional/client functional teams to ensure the integration and functionality of cloud services with a focus on performance, security, and scalability.\n\nKey Responsibilities:\nAPI Development:\n- Lead the design, development, and deployment of secure and scalable RESTful APIs on GCP.\n- Build APIs to support data ingestion from various platforms and formats (e.g., CSV, JSON streams, etc.).\n- Implement best practices for API security, authentication, authorization (OAuth2, JWT)\n- Develop API documentation using OpenAPI/Swagger standards or any as requested by Client.\n\nCloud Architecture:\n- Help design and implement GCP-based cloud architectures to support the development of APIs and services.\n- Select appropriate GCP services for API hosting, storage, data processing (e.g., Cloud Functions, Cloud Run, App Engine, BigQuery, Pub/Sub, Cloud Storage).\n- Optimize GCP resources for performance, cost-efficiency, and scalability.\n\nInfrastructure Setup:\n- Help identify required GCP environments, including IAM policies, VPCs, Firewalls, and GCP services.\n- Implement monitoring and logging using GCP Stackdriver (Cloud Monitoring and Logging) to ensure high availability and reliability.\n- Ensure infrastructure as code practices using Terraform, Cloud Deployment Manager, or similar tools.\n\nAPI Gateway and Traffic Management:\n- Implement/work with team to configure API Gateway for secure access to backend services.\n- Help identify and set up traffic management, caching, throttling, and quotas for APIs.\n- Design and implement strategies for API versioning and lifecycle management.\n\nData Ingestion and Processing:\n- Develop solutions for real-time and batch data ingestion using Pub/Sub, Dataflow, and other GCP data services.\n- Work with external systems to pull in data (via CSV uploads, JSON streams, etc.) and process it in the cloud.\n- Integrate GCP services like BigQuery, Cloud Storage, and Cloud SQL for data storage and analytics.\n\nCI/CD and Automation:\n- Set up continuous integration and deployment (CI/CD) pipelines using Cloud Build, GitHub Actions, or similar tools for automating API deployments and cloud resource provisioning.\n- Good to have - automated testing for APIs, including unit, integration, and performance testing.\n\nSecurity and Compliance:\n- Ensure the security of the cloud environment through robust IAM policies, VPC setup, encryption, and audit logging.\n- Implement security best practices, including encryption for data at rest and in transit.\n- Maintain compliance with industry standards and regulations (e.g., GDPR, HIPAA, SOC2).\n\nTeam Leadership:\n- Provide technical leadership and guidance to the development team.\n- Collaborate with stakeholders to understand business requirements and translate them into technical solutions.\n- Mentor and support junior developers, ensuring best practices in coding, cloud architecture, and API development.\n\nRequired Skills and Experience:\n- Cloud Expertise: 5+ years of experience with Google Cloud Platform (GCP), including hands-on experience with core services (Cloud Functions, Cloud Run, App Engine, BigQuery, Pub/Sub, Cloud Storage, Cloud SQL).\n- Strong understanding of cloud architecture, microservices, and API management in GCP.\n- API Development: Expertise in developing and managing RESTful APIs using GCP services.\n- Experience with API Gateway, OAuth2, JWT, OpenAPI/Swagger for API security and documentation.\n- Knowledge of API performance optimization and scalability.\n- Programming Languages: Proficiency in one or more programming languages such as Python, Java, Node.js, or Go.\n- Experience with serverless architectures (e.g., Cloud Functions) and containerized applications (e.g., Cloud Run, Kubernetes).\n- Data Management: Experience with real-time and batch data ingestion solutions, including Pub/Sub, Dataflow, and BigQuery.\n- Familiarity with structured and unstructured data storage solutions (e.g., Cloud Storage, BigQuery).\n- Infrastructure as Code (IaC): Experience with Infrastructure as Code tools like Terraform, Cloud Deployment Manager, or similar.\n- CI/CD Automation: Experience with setting up CI/CD pipelines using Cloud Build, Jenkins, or GitHub Actions for automating API deployment and testing.\n- Security and Compliance: Strong knowledge of cloud security best practices, IAM, and VPC networking.\n- Experience in ensuring compliance with industry standards and regulations (GDPR, HIPAA, etc.).\n\nPreferred Qualifications:\n- Google Cloud Professional certifications (e.g., Professional Cloud Architect, Professional Data Engineer).\n- Experience with hybrid or multi-cloud environments.\n- Familiarity with DevOps and SRE (Site Reliability Engineering) practices.\n- Experience with big data tools and analytics on GCP (Dataflow, Dataproc, BigQuery).",
+        "source": "Email",
+        "date_posted": "2024-10-30 13:24:58-05:00",
+        "unique_id": "192decc71bbed0e0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "Senior Data Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "T-SQL",
+                "ETL tools",
+                "data warehousing",
+                "data modeling"
+            ],
+            "primary": [
+                "stored procedures",
+                "performance tuning",
+                "data visualization tools",
+                "cloud data solutions",
+                "problem-solving"
+            ],
+            "secondary": [
+                "Power BI",
+                "Tableau",
+                "NoSQL databases",
+                "Python",
+                "Java",
+                "data quality",
+                "data governance frameworks",
+                "Agile",
+                "Scrum"
+            ],
+            "all": [
+                "SQL Server",
+                "T-SQL",
+                "ETL tools",
+                "data warehousing",
+                "data modeling",
+                "stored procedures",
+                "performance tuning",
+                "data visualization tools",
+                "cloud data solutions",
+                "problem-solving",
+                "Power BI",
+                "Tableau",
+                "NoSQL databases",
+                "Python",
+                "Java",
+                "data quality",
+                "data governance frameworks",
+                "Agile",
+                "Scrum"
+            ],
+            "with_experience": [
+                "SQL Server (10+ years)",
+                "T-SQL",
+                "ETL tools",
+                "data warehousing",
+                "data modeling"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ankit Kumar",
+        "email": "ankit.k@tekinspirations.com",
+        "jd": "From: Ankit Kumar, Tek Inspirations ankit.k@tekinspirations.com Reply to: ankit.k@tekinspirations.com Genuine Visa ONLYJob Description -Role: Senior Data EngineerLocation: Charlotte, NC Need Local Candidates only 3 days Onsite HybridLinkedIn id is must (Should not been created recently, at least 6 Years old in case of senior candidates)Job Summary: As a Senior Data Engineer, you will collaborate with stakeholders across the business to work on complex technical requirements. You will be responsible for managing multiple engagements, prioritize and resolve complex problems and escalate as necessary, in a fast-paced environment.Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.10+ years of experience in data engineering, with a strong focus on SQL Server.Proficiency in T-SQL, stored procedures, and performance tuning in SQL Server.Experience with ETL tools and frameworks (e.g., SSIS, Azure Data Factory).Familiarity with data warehousing concepts and architecture.Strong understanding of data modeling and database design principles.Experience with data visualization tools (e.g., Power BI, Tableau) is a plus.Knowledge of cloud data solutions (e.g., Azure, AWS) is preferred.Excellent problem-solving skills and attention to detailResponsibilities:Design, develop, and maintain scalable data pipelines and ETL processes using SQL Server and other relevant technologies.Optimize SQL queries and database performance for large datasets.Collaborate with cross-functional teams to gather requirements and translate them into effective data solutions.Implement data governance and security best practices to ensure data integrity and compliance.Monitor and troubleshoot data pipeline issues, ensuring data accuracy and reliability.Develop and maintain documentation for data architecture, processes, and data models.Mentor junior data engineers and contribute to their professional development.Stay current with emerging technologies and best practices in data engineering and management.It would be great if you also had:Experience with NoSQL databases (e.g., MongoDB, Cassandra) is a plus.Familiarity with programming languages such as Python or Java for data processing.Knowledge of data quality and data governance frameworks.Experience in Agile/Scrum methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:56:38-05:00",
+        "unique_id": "192d9ed084bc4b87",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vertex Elite LLC",
+        "job_title": "BA with Salesforce Fundraising",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "VEBAS001",
+            "experience_required": "6-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Salesforce",
+                "CRM systems",
+                "Excel",
+                "Power BI",
+                "SQL"
+            ],
+            "primary": [
+                "Dynamo",
+                "Visio",
+                "buy-side finance industry",
+                "data uploads",
+                "inline reporting"
+            ],
+            "secondary": [
+                "VLOOKUP",
+                "SUMIF",
+                "troubleshooting",
+                "Calculated Fields",
+                "Parameters"
+            ],
+            "all": [
+                "Salesforce",
+                "CRM systems",
+                "Excel",
+                "Power BI",
+                "SQL",
+                "Dynamo",
+                "Visio",
+                "buy-side finance industry",
+                "data uploads",
+                "inline reporting",
+                "VLOOKUP",
+                "SUMIF",
+                "troubleshooting",
+                "Calculated Fields",
+                "Parameters"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "John Bender",
+        "email": "john@vertexelites.us",
+        "jd": "Dear ApplicantGreetings!We have an immediate position: BA with Salesforce Fundraising with one of our clients.Role: BA with Salesforce FundraisingLocation \u2013 NY Metro, 3 days in officeIf anyone interested, please drop the updated resume ASAP.Job Description:Experience: 6-8 years of CRM experienceStrong experience with CRM systems (i.e., Salesforce, Dynamo), such as designing UIs, creating workflows, setting up fields, data uploads, building inline reportingExperience in the buy-side finance industry, including PE and open-ended fundsVisio \u2013 taking descriptions of processes and converting into a meaningful Visio diagram with swim lanesExcel \u2013 Pivot Tables, functions such as VLOOKUP, SUMIF, and combining various tabs of data into a meaningful summary for business usersPower BI \u2013 build reports from preset views or custom SQL queries, joining multiple data sources, adding Calculated Fields and Parameters to create a visual, interactive experience for business usersSQL \u2013 Writing and editing basic queries based on preset views, ability to look at a query to help troubleshootDeep understanding of how data is connected, comfortable joining different tabs in Excel at a minimum, ideally also able to join datasets within SQLThanks & RegardsJohn Benderwww.vertexelites.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:30:30-05:00",
+        "unique_id": "192bf15b024fac36",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

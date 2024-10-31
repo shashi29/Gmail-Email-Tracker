@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Infinity Group",
+        "job_title": "C# / .Net Developer with AWS Exp",
+        "location": "Horsham, PA, USA",
+        "full_location": {
+            "city": "Horsham",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months (C2H)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "ASP.NET 4.5+",
+                ".NET Core",
+                "API/REST",
+                "SQL Server",
+                "PostgreSQL",
+                "Entity Framework",
+                "Amazon Web Services"
+            ],
+            "primary": [
+                "GIT",
+                "React"
+            ],
+            "secondary": [],
+            "all": [
+                "C#",
+                "ASP.NET 4.5+",
+                ".NET Core",
+                "API/REST",
+                "SQL Server",
+                "PostgreSQL",
+                "Entity Framework",
+                "Amazon Web Services",
+                "GIT",
+                "React"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kyle M",
+        "email": "kylem@infigroup.com",
+        "jd": "JOB DESCRIPTION:\nThis is a 6+ month and right to hire contract position. This is a hybrid remote role that requires 2-3 days per week onsite. The role has 3 location options: Horsham, PA.; Lake Mary, Fl.; Woodbury, NY.\n\nSummary: Looking for a C#/.Net Developer with 8+ years of professional experience.\n\nResponsibilities: Developers will be part of a team working on enhancing credit card processing abilities as well as modernizing the application for the cloud/building cloud native applications.\n\nRequirements: C#, ASP. Net 4.5+, .NET Core - Expert API/REST \u2013 Expert Database SQL Server/PostgreSQL \u2013 strong Entity Framework \u2013 strong Amazon Web Services (Lambda, Kinesis, S3, EC2, SQS, etc.) GIT React \u2013 nice to have Only candidates available and ready to work directly as Genesis10 employees will be considered for this position.",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:55:02-05:00",
+        "unique_id": "192de7a1a3295d0b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

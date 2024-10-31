@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Capital ONE",
+        "job_title": "Python Engineer ll",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "RESTful APIs",
+                "microservices architecture"
+            ],
+            "primary": [
+                "Pytest",
+                "Unitest",
+                "FastAPI"
+            ],
+            "secondary": [
+                "Automation Testing",
+                "Monkey patch",
+                "pytest-mockito"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "RESTful APIs",
+                "microservices architecture",
+                "Pytest",
+                "Unitest",
+                "FastAPI",
+                "Automation Testing",
+                "Monkey patch",
+                "pytest-mockito"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sona Chhabra",
+        "email": "sona@smartitframe.com",
+        "jd": "Job Title- Python Engineer\nLocation - Richmond, VA (Hybrid - 3 days onsite weekly)\nDuration- 12+ Months\nEx Capital ONE Candidate highly preferred\n\nJob Description:\nTop 3 Must Haves:\nPython: Senior Python Developers who are comfortable in writing production software in Python. Superficial scripting knowledge is not sufficient.\nAWS: Proficiency in AWS is a must. AWS knowledge of Lambdas & Step functions is a huge plus.\nRESTful APIs and microservices architecture: Experience with RESTful APIs and microservices architecture, and an understanding of how to design and implement them effectively.\n\nRequired skills:\nPython, Pytest, Unitest are all mandatory\nStrong Proficiency in Python programming language, including experience with frameworks such as FastAPI\nAWS Lambdas & AWS Step functions is a huge plus.\n3+ years of experience in Python & AWS.\n6+ years of total experience.\n\nRole/Responsibilities:\nThe position is focused on python development of components for a software application platform.\nThe candidate will develop and support the middle layer of the application to build, test, and deploy RESTful micro services, create shared services components.\nEngineer capable of designing solutions, writing code, testing code, automating test and deployment.\nAutomation Testing: Pytest, Unitest, Monkey patch, pytest-mockito etc.",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:06:50-05:00",
+        "unique_id": "192de4dfabd62c67",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

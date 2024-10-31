@@ -1,0 +1,54 @@
+[
+    {
+        "company": "ITECS",
+        "job_title": "Java backend Engineers with Kafka",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "SpringBoot",
+                "Cassandra",
+                "Kafka"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "SpringBoot",
+                "Cassandra",
+                "Kafka"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "Java backend Engineers with Kafka *ONSITE PX*Phoenix, AZ (Onsite) Skills required\u2022 Deep Expertise on Java and SpringBoot asynchronous deep experience with collections\u2022 Strong experience on Cassandra\u2022 Strong experience on Kafka",
+        "source": "Email",
+        "date_posted": "2024-10-21 03:21:20-05:00",
+        "unique_id": "192ae4af39e9811c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

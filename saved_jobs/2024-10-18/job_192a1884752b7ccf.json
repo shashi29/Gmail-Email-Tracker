@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Absolute IT",
+        "job_title": "C# .Net Architect",
+        "location": "Los Angeles, CA, USA",
+        "full_location": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12 months (Long term Contract)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Software Architecture",
+                "RESTful APIs",
+                "Angular framework (Angular 2+)",
+                "Microservices Architecture"
+            ],
+            "primary": [
+                "TypeScript",
+                "HTML5",
+                "JavaScript/jQuery",
+                "CSS3",
+                "Module Federation",
+                "Progressive Web Applications",
+                "Angular 17+",
+                "Design Patterns",
+                "MVC",
+                "MVVM",
+                "Clean Architecture",
+                "Security Best Practices"
+            ],
+            "secondary": [
+                "React.js",
+                "Vue.js",
+                "Project Leadership",
+                "Team Leadership",
+                "Excellent Communication Skills"
+            ],
+            "all": [
+                "C#",
+                "Software Architecture",
+                "RESTful APIs",
+                "Angular framework (Angular 2+)",
+                "Microservices Architecture",
+                "TypeScript",
+                "HTML5",
+                "JavaScript/jQuery",
+                "CSS3",
+                "Module Federation",
+                "Progressive Web Applications",
+                "Angular 17+",
+                "Design Patterns",
+                "MVC",
+                "MVVM",
+                "Clean Architecture",
+                "Security Best Practices",
+                "React.js",
+                "Vue.js",
+                "Project Leadership",
+                "Team Leadership",
+                "Excellent Communication Skills"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Shubham Arora",
+        "email": "shubham.arora@absoluting.com",
+        "jd": "From: Shubham Arora, Absolute IT shubham.arora@absoluting.com Reply to: shubham.arora@absoluting.com Hi,Greetings from Absolute IT,Hope you are doing good, Please have a look at the job description & let me know your interest, also share your updated resume & employer details ASAP. Title: C# .Net ArchitectLocation: Los Angeles, CA (100% remote)Duration: 12 months (Long term Contract)Client: LACSC NOTE: USC/GC OnlyMust Have:Expert C# knowledge.Strong software architecture background.Strong experience in leading the design and development of component architectures, plugin frameworks, extensible platforms, and RESTful APIs.Strong proficiency in Angular framework (Angular 2+). TypeScript, HTML5, JavaScript/jQuery, CSS3.Experience with other front-end frameworks/libraries such as React.js or Vue.js.Experience with Module FederationExperience with Progressive Web ApplicationsExperience with Angular 17+Understanding of microservices architecture and experience in building scalable and modular applications using microservices patterns.Familiarity and experience in building loosely coupled systems.Solid understanding of common design patterns such as Singleton, Factory, Builder, Strategy, Observer, and Dependency Injection.Proven track record in integrating diverse systems.Ability to recognize and apply appropriate design patterns in different scenarios.Knowledge of architectural patterns like MVC (Model-View-Controller), MVVM (Model-View[1]View Model), and Clean Architecture.Experience in implementing these patterns in .NET Core applications.Understanding of security best practices for web applications, including data encryption, secure authentication methods, and protection against common security vulnerabilities (OWASP Top Ten).Project leadership and management skills.Team leadership skills.Excellent communication skills that are able to convey design, ideas and recommendations to both technical and non-technical stakeholders.",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:48:16-05:00",
+        "unique_id": "192a1884752b7ccf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

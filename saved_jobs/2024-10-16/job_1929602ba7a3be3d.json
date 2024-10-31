@@ -1,0 +1,86 @@
+[
+    {
+        "company": "SonitalentCorp",
+        "job_title": "AWS machine Learning Engineer",
+        "location": "White Marsh, MD, USA",
+        "full_location": {
+            "city": "White Marsh",
+            "state": "MD",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "CI/CD",
+                "SageMaker",
+                "ML frameworks"
+            ],
+            "primary": [
+                "PyTorch",
+                "TensorFlow",
+                "CloudFormation",
+                "Terraform",
+                "Docker",
+                "ECR",
+                "ECS"
+            ],
+            "secondary": [
+                "XGBoost",
+                "CloudWatch",
+                "MLOps",
+                "Cost Optimization",
+                "Monitoring",
+                "Collaboration"
+            ],
+            "all": [
+                "AWS",
+                "Python",
+                "CI/CD",
+                "SageMaker",
+                "ML frameworks",
+                "PyTorch",
+                "TensorFlow",
+                "CloudFormation",
+                "Terraform",
+                "Docker",
+                "ECR",
+                "ECS",
+                "XGBoost",
+                "CloudWatch",
+                "MLOps",
+                "Cost Optimization",
+                "Monitoring",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "remote",
+            "onsite"
+        ],
+        "contact_person": "Uttam Barman",
+        "email": "uttam.barman@sonitalentcorp.com",
+        "jd": "Role \u2013 AWS machine Learning EngineerLocation \u2013 White Marsh, MD (open to 100% remote, but prefer someone who can come on site a few times a month or weekly)Duration \u2013 6+ monthVisa \u2013 USC /GC (Please restrict search to those local to the DC, Maryland, Virginia, Delaware area please.) Top Skills:Really strong AWS experience,CI/CD Pipeline experience and Python experience. AWS Cert is ideal, but not required. Job Description:We are seeking an experienced and motivated AWS Machine Learning Engineer to join our team. This role focuses on leveraging AWS cloud infrastructure and machine learning tools to design, build, deploy, and maintain robust machine learning solutions. The ideal candidate will be deeply familiar with Python, various ML frameworks (including PyTorch, TensorFlow), and AWS tools such as SageMaker, Lambda. They will have strong CI/CD process knowledge and a passion for optimizing ML workflows to support business-driven use cases.Key Responsibilities:ML Solution Design & Deployment: Collaborate with data scientists to understand ML models (XGBoost, deep learning models, etc.) and create scalable, efficient infrastructure for distributed calculations and deployment on AWS.AWS Services Expertise: Work with services like EC2, S3, SageMaker, and CloudWatch to design, implement, and monitor machine learning pipelines. Setup and manage AWS accounts, S3 buckets, and other foundational AWS infrastructure.SageMaker & Model Deployment: Deploy and manage machine learning models in SageMaker Studio, utilizing containerized environments and implementing best practices for model registries and monitoring (real-time and batch inferences).Teach Data Engineers: Train and mentor data engineers to productionize existing machine learning models on AWS, ensuring successful deployment and maintenance in a production environment.CI/CD Pipelines for ML: Implement continuous integration/continuous delivery (CI/CD) pipelines for both code and ML models, handling model experimentation, testing, and monitoring.AWS Engineering: Build AWS architecture using CloudFormation, Terraform, and other infrastructure-as-code tools to support machine learning operations (MLOps).Cost Optimization: Ensure efficient use of resources, selecting appropriate EC2 instances for different ML workloads and optimizing model inference to reduce costs.Monitoring & Troubleshooting: Use AWS CloudWatch for error tracking and performance monitoring. Develop strategies to improve performance and reliability.Innovative Use Cases: Proactively explore new use cases and solutions on AWS to improve ML processes and support various business functions.Collaboration & Learning: Work with cross-functional teams, including data scientists, software engineers, and AWS specialists, to deliver high-quality solutions. Curiosity and willingness to teach new tools and services are essential. Key Skills & Qualifications:Python Expertise: Advanced knowledge of Python for machine learning applications, including ML frameworks such as PyTorch, TensorFlow, and XGBoost.AWS Proficiency: Strong experience with core AWS services, including EC2, S3, SageMaker, CloudWatch, and understanding of account setup, infrastructure basics (e.g., ALBs), and automation tools (CloudFormation, Terraform).CI/CD Process: Understanding of software CI/CD and ML CI/CD, including pipelines for code, model experimentation, testing, and deployment.MLOps Knowledge: Familiarity with MLOps practices, including model experimentation, testing, monitoring, and version control.Containerization: Experience working with containers on AWS (Docker, ECR, ECS) and deploying containerized ML solutions in SageMaker.AWS Certifications: Preferred.Cloud Infrastructure Expertise: Ability to choose appropriate infrastructure resources for different jobs, focusing on cost-effectiveness and performance.Monitoring and Inference Optimization: Experience with real-time and batch inference monitoring and optimization for cost-effective ML model deployment.Collaboration & Growth: Willingness to mentor junior engineers and train data engineers, or grow in the role (for entry-level candidates), and openness to learning new AWS tools and technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-16 10:08:30-05:00",
+        "unique_id": "1929602ba7a3be3d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

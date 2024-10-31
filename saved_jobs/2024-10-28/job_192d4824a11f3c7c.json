@@ -1,0 +1,76 @@
+[
+    {
+        "company": "CompuSoft Integrated Solutions, Inc.",
+        "job_title": "Python Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1+ Year with Potential Extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "API Development",
+                "CI/CD",
+                "Infrastructure as code"
+            ],
+            "primary": [
+                "Flask",
+                "FastAPI",
+                "Terraform",
+                "Microservice development patterns",
+                "Agile environment"
+            ],
+            "secondary": [
+                "AI/ML experience/certification",
+                "Apigee"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "API Development",
+                "CI/CD",
+                "Infrastructure as code",
+                "Flask",
+                "FastAPI",
+                "Terraform",
+                "Microservice development patterns",
+                "Agile environment",
+                "AI/ML experience/certification",
+                "Apigee"
+            ],
+            "with_experience": [
+                "Python (10+ years)",
+                "AWS (10+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "",
+        "email": "dev@compusoft-is.com",
+        "jd": "From: Dev, CompuSoft Integrated Solutions, Inc. dev@compusoft-is.com Reply to: dev@compusoft-is.com Title: Python Developer Work Location: Charlotte, NC (Hybrid-3 days a week) Duration: 1+ Year with Potential Extensions Software Developer (Python/AWS) Top Skills:** API Development \u2013 Python. Ability to write, test, and debug Python APIs using frameworks such as Flask, and FastAP; ** At least 10 years of AWS experience with a variety of services, in priority order but not limited to: Lambda, ECS, S3, Dynamo DB, API gateway, SQS, IAM, Security Groups.; ** Experience configuring and deploying CI/CD pipelines in Gitlab; ** Test-driven development** AI models. ** Must have excellent communication skills \u2013 both verbal and written, collaborative team player, raise issues early and often, Able to mentor and coach junior team members, able to review others\u2019 code and provide feedback. Job Description: Culture We are building Client Generative AI Platform, enabling teams and applications across the organization to leverage AI in a safe and performant way. We aim to operate like a startup in an enterprise environment, moving quickly and iteratively working with our partners to get to the best solution. The ideal candidate is a strong team player, versatile in their skillset, loves to learn, and welcomes new challenges. Note This role is focused on end-to-end Cloud Native Application Development with Python. This is not a Data Engineering Role. At Ally, while we have dedicated Devops and Cloud teams, their purpose is to provide shared services and best practices for teams to be self-sufficient. This means that in additional to being able to write robust application logic, developers are also responsible for deploying their own cloud infrastructure with Infrastructure as code, as well as maintaining their CI/CD pipelines and making updates as required. The ideal candidate can excel in these areas. Tech At least 10 years of experience in Python programming including application service development. Ability to design and build serverless and stateful systems on AWS, that are scalable and highly available. At least 5 years of AWS experience with a variety of services, in priority order but not limited to: Lambda, ECS, S3, Dynamo DB, API gateway, SQS, IAM, Security Groups. Experience with Infrastructure as code (Terraform preferred). Experience configuring and deploying CI/CD pipelines in Gitlab. Experience with microservice development patterns. Experience working in an agile environment. AI/ML experience/certification is a plus. Experience with Apigee is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-28 13:27:40-05:00",
+        "unique_id": "192d4824a11f3c7c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

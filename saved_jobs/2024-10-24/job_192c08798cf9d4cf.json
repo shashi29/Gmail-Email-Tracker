@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Siri InfoSolutions Inc",
+        "job_title": "AWS Developer or Architect (Handson Scala Exp)",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "3+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract to Hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Scala",
+                "AWS",
+                "EC2",
+                "S3",
+                "Lambda",
+                "RDS"
+            ],
+            "primary": [
+                "Microservices architecture",
+                "RESTful APIs",
+                "CI/CD pipelines",
+                "Infrastructure-as-code tools",
+                "Git"
+            ],
+            "secondary": [
+                "Kafka",
+                "Spark",
+                "Akka",
+                "Docker",
+                "Kubernetes",
+                "Data streaming",
+                "Real-time data processing"
+            ],
+            "all": [
+                "Scala",
+                "AWS",
+                "EC2",
+                "S3",
+                "Lambda",
+                "RDS",
+                "Microservices architecture",
+                "RESTful APIs",
+                "CI/CD pipelines",
+                "Infrastructure-as-code tools",
+                "Git",
+                "Kafka",
+                "Spark",
+                "Akka",
+                "Docker",
+                "Kubernetes",
+                "Data streaming",
+                "Real-time data processing"
+            ],
+            "with_experience": [
+                "Scala (3+ years)",
+                "AWS (3+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Navneet Jha",
+        "email": "navneet.jha@siriinfo.com",
+        "jd": "Hello, My Name is Navneet Jha. I am reaching out to you today because we have your resume in our database and wanted to check if you are currently available in the market actively looking for an opportunity. Please see the below mentioned requirement and I believe you would be a good match for the role. I would appreciate if you could respond with your updated resume along with the good time to speak so we can move forward with the process. Role: AWS Developer or Architect (Handson Scala Exp)Location: New York, NY- onsiteDuration: Contract to HireMode: VideoJob Details: Role Description:Job Title: Scala and AWS DeveloperExperience: 3+ yearsLocation: [Specify location or remote]Job Type: [Full-time/Contract]Job Summary:We are looking for a skilled Scala and AWS Developer with 3+ years of hands-on experience in designing, developing, and maintaining scalable cloud-based solutions. The ideal candidate should have a strong foundation in Scala programming and AWS services, ensuring high-quality software solutions that meet business objectives.Key Responsibilities:\u2022 Design, develop, and maintain robust Scala-based applications.\u2022 Collaborate with cross-functional teams to gather and analyze requirements.\u2022 Build and deploy scalable solutions on AWS infrastructure.\u2022 Ensure code quality through automated testing, peer reviews, and best practices.\u2022 Optimize applications for maximum performance and scalability.\u2022 Troubleshoot and resolve production issues in a timely manner.\u2022 Document and maintain software functionality for future reference.Required Skills and Qualifications:\u2022 3+ years of experience in Scala development.\u2022 Strong expertise in AWS services such as EC2, S3, Lambda, and RDS.\u2022 Experience with microservices architecture and RESTful APIs.\u2022 Familiarity with CI/CD pipelines and infrastructure-as-code tools (e.g., Terraform, CloudFormation).\u2022 Strong understanding of software development life cycle (SDLC) and agile methodologies.\u2022 Experience with version control systems such as Git.\u2022 Excellent problem-solving skills and attention to detail.\u2022 Strong communication skills and ability to work in a team environment.Preferred Qualifications:\u2022 Experience with Kafka, Spark, or Akka is a plus.\u2022 Knowledge of containerization tools such as Docker and Kubernetes.\u2022 Experience in data streaming and real-time data processing.",
+        "source": "Email",
+        "date_posted": "2024-10-24 16:19:44-05:00",
+        "unique_id": "192c08798cf9d4cf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

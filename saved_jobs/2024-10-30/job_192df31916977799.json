@@ -1,0 +1,62 @@
+[
+    {
+        "company": "Infosys",
+        "job_title": "SQL Developer with Admin",
+        "location": "Jacksonville, FL, USA",
+        "full_location": {
+            "city": "Jacksonville",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL database development",
+                "TSQL",
+                "Application DBA",
+                "Performance tuning",
+                "Troubleshooting"
+            ],
+            "primary": [
+                "Extraction Transformation and Loading (ETL)",
+                "SSIS"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL database development",
+                "TSQL",
+                "Application DBA",
+                "Performance tuning",
+                "Troubleshooting",
+                "Extraction Transformation and Loading (ETL)",
+                "SSIS"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Azhar Mohammad",
+        "email": "azhar@softcomsystems.com",
+        "jd": "Hello Professionals,\n\nThis Azhar Mohammad from Softcom Systems INC. I have a below Job Opportunity if you have any Consultants Please let me know\u2026!!\n\n**Job Title**: SQL Developer with Admin  \n**Location**: Jacksonville, FL 32224 (Remote)  \n**Duration**: 12 Months  \n\n**Must Have Skills**:  \n\u2022 Strong experience in SQL database development using TSQL  \n\u2022 Experience as an Application DBA  \n\u2022 Performance tuning, and troubleshooting  \n\n**Nice to have skills**:  \n\u2022 Extraction Transformation and Loading (ETL) processes using frameworks like SSIS  \n\n**Detailed Job Description**:  \n\u2022 Design and develop database structures, stored procedures, views, and functions to support application development projects.  \n\u2022 Perform database administration tasks including installation, configuration, upgrades, performance tuning, and troubleshooting.  \n\n**Top 3 responsibilities you would expect the Subcon to shoulder and execute**:  \n\u2022 Document the database environment and maintain up-to-date records of all the databases  \n\u2022 Provide support and guidance during the application release cycle, including deployment and post-deployment activities.  \n\u2022 Schema diagrams, system configurations, and backup schedules  \n\nThanks & Regards,  \nAzhar Mohammad  \nSoftcom Systems Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-30 14:10:23-05:00",
+        "unique_id": "192df31916977799",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Tech Rakers",
+        "job_title": "Senior Python Developer (USC only)",
+        "location": "Washington, DC, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python code development",
+                "Glue jobs design using Python Shell and PySpark",
+                "Understanding of Python applications design, code structure, packaging, and deployments",
+                "Ability to write unit tests and use various mocking techniques",
+                "Functional knowledge of Docker",
+                "ETL data processing",
+                "AWS Lambda functions",
+                "SNS/SQL implementation techniques",
+                "Infrastructure building using AWS CDK",
+                "Database development and data migration (Postgres and Redshift)",
+                "Building/accessing Data Lakes using Glue/Athena/Redshift"
+            ],
+            "primary": [
+                "Airflow experience",
+                "Event triggering (e.g., EventBridge) and Step Functions",
+                "Implementation of database/data lake granular access security and access integration with Okta/Cognito"
+            ],
+            "secondary": [],
+            "all": [
+                "Python code development",
+                "Glue jobs design using Python Shell and PySpark",
+                "Understanding of Python applications design, code structure, packaging, and deployments",
+                "Ability to write unit tests and use various mocking techniques",
+                "Functional knowledge of Docker",
+                "ETL data processing",
+                "AWS Lambda functions",
+                "SNS/SQL implementation techniques",
+                "Infrastructure building using AWS CDK",
+                "Database development and data migration (Postgres and Redshift)",
+                "Building/accessing Data Lakes using Glue/Athena/Redshift",
+                "Airflow experience",
+                "Event triggering (e.g., EventBridge) and Step Functions",
+                "Implementation of database/data lake granular access security and access integration with Okta/Cognito"
+            ],
+            "with_experience": [
+                "Python code development",
+                "Glue jobs design using Python Shell and PySpark",
+                "Understanding of Python applications design, code structure, packaging, and deployments",
+                "Ability to write unit tests and use various mocking techniques",
+                "Functional knowledge of Docker",
+                "ETL data processing",
+                "AWS Lambda functions",
+                "SNS/SQL implementation techniques",
+                "Infrastructure building using AWS CDK",
+                "Database development and data migration (Postgres and Redshift)",
+                "Building/accessing Data Lakes using Glue/Athena/Redshift"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Srikanth",
+        "email": "srikanth@techrakers.com",
+        "jd": "From: Srikanth, Tech Rakers srikanth@techrakers.com Reply to: srikanth@techrakers.com Senior Python Developer (USC only) Local to VA,DC,MDDuration: 6 MonthsLocation: Washington,DC They must be US Citizens; the client does not allow GC holders.3 times a week in the office-Hybrid Work Experience:- Python code development- Experience with designing Glue jobs using both Python Shell and PySpark- Full understanding of Python applications design, code structure, packaging, and deployments- Ability to write unit tests and use various mocking techniques- Functional knowledge of Docker- Experience with ETL data processing. Airflow experience is highly desired.- Experience with writing AWS Lambda functions- Experience with SNS/SQL implementation techniques, event triggering (e.g., EventBridge) and Step Functions- Experience with infrastructure building using AWS CDK- Understanding of logging in AWS- Experience with database development and data migration (Postgres and Redshift)- Experience in building/accessing Data Lakes using Glue/Athena/Redshift and building data access APIs- Implementation of database/data lake granular access security and access integration with Okta/Cognito Technical Skills:- Python code development- Experience with designing Glue jobs using both Python Shell and PySpark- Full understanding of Python applications design, code structure, packaging, and deployments- Ability to write unit tests and use various mocking techniques- Functional knowledge of Docker- Experience with ETL data processing. Airflow experience is highly desired.- Experience with writing AWS Lambda functions- Experience with SNS/SQL implementation techniques, event triggering (e.g., EventBridge) and Step Functions- Experience with infrastructure building using AWS CDK- Understanding of logging in AWS- Experience with database development and data migration (Postgres and Redshift)- Experience in building/accessing Data Lakes using Glue/Athena/Redshift and building data access APIs- Implementation of database/data lake granular access security, and access integration with Okta/Cognito",
+        "source": "Email",
+        "date_posted": "2024-10-23 10:45:44-05:00",
+        "unique_id": "192ba7ca834a50d4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

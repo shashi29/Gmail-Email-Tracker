@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Mphasis",
+        "job_title": "Android Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "MVVM",
+                "Kotlin",
+                "RxJava",
+                "JUnit",
+                "Mockito",
+                "Git"
+            ],
+            "primary": [
+                "Kotlin Coroutines",
+                "Jetpack Compose",
+                "REST",
+                "JSON",
+                "LiveData"
+            ],
+            "secondary": [
+                "Room",
+                "Navigation",
+                "MVP",
+                "Gang of Four patterns"
+            ],
+            "all": [
+                "Java",
+                "MVVM",
+                "Kotlin",
+                "RxJava",
+                "JUnit",
+                "Mockito",
+                "Git",
+                "Kotlin Coroutines",
+                "Jetpack Compose",
+                "REST",
+                "JSON",
+                "LiveData",
+                "Room",
+                "Navigation",
+                "MVP",
+                "Gang of Four patterns"
+            ],
+            "with_experience": [
+                "Java (8+ years)",
+                "Android ecosystem",
+                "Unit testing"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Santhoshi",
+        "email": "santhoshi@hanstaffing.com",
+        "jd": "From: Santhoshi, HAN IT Staffing santhoshi@hanstaffing.com Reply to: santhoshi@hanstaffing.com Role : Android Developer - OnsiteClient : MphasisLocation : New York Job Description:8+ Years Required Skills & Experience\u2022 Experience designing and implementing android applications\u2022 Java, MVVM, Kotlin Coroutines,Compose, Dagger, RxJava, Kotlin, JUnit, Mockito, Git\u2022 Experience with Jetpack Compose for building UIs.\u2022 Experience with Kotlin Coroutines for asynchronous programming.\u2022 Experience working with remote data via REST and JSON\u2022 Past experience in RxJava, LiveData, and Restful API integration is expected\u2022 Unit-test code for robustness, including edge cases, usability, and general reliability.\u2022 Strong understanding of java and android ecosystem\u2022 Excellent understanding of all mobile UI fundamentals, from layout to animations\u2022 Understanding of architectural patterns such as MVP and MVVM\u2022 Understanding of application design patterns \u2013 Gang of Four patterns\u2022 Experience with other Jetpack components like Room and Navigation is nice to have skill",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:37:53-05:00",
+        "unique_id": "1927706adaa8d5cf",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

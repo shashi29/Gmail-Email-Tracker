@@ -1,0 +1,107 @@
+[
+    {
+        "company": "KPG99",
+        "job_title": "GCP Data Engineer",
+        "location": "Madison, WI, USA",
+        "full_location": {
+            "city": "Madison",
+            "state": "WI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor\u2019s degree or foreign equivalent required from an accredited institution",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6-12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Python",
+                "SQL",
+                "Terraform",
+                "CI/CD"
+            ],
+            "primary": [
+                "BigQuery",
+                "CloudRun",
+                "Cloud Storage",
+                "Pub/Sub",
+                "Cloud Composer",
+                "Containers",
+                "Workflows",
+                "IAM",
+                "Attunity",
+                "AutoSys",
+                "Airflow Dag creation",
+                "Debugging",
+                "Performance tuning"
+            ],
+            "secondary": [
+                "Insurance domain",
+                "Data integration",
+                "Data quality",
+                "Data architecture",
+                "Relational Modeling",
+                "Dimensional Modeling",
+                "Modeling of Unstructured Data",
+                "Agile software development frameworks"
+            ],
+            "all": [
+                "GCP",
+                "Python",
+                "SQL",
+                "Terraform",
+                "CI/CD",
+                "BigQuery",
+                "CloudRun",
+                "Cloud Storage",
+                "Pub/Sub",
+                "Cloud Composer",
+                "Containers",
+                "Workflows",
+                "IAM",
+                "Attunity",
+                "AutoSys",
+                "Airflow Dag creation",
+                "Debugging",
+                "Performance tuning",
+                "Insurance domain",
+                "Data integration",
+                "Data quality",
+                "Data architecture",
+                "Relational Modeling",
+                "Dimensional Modeling",
+                "Modeling of Unstructured Data",
+                "Agile software development frameworks"
+            ],
+            "with_experience": [
+                "GCP (5+ years)",
+                "Python",
+                "SQL",
+                "Terraform",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pritam Singh",
+        "email": "pritam@kpgtech.com",
+        "jd": "POSITION: GCP Data Engineer\nLOCATION: Madison, Wisconsin Hyrbid\nDURATION: 6-12+ Months Contract\nVisa: USC Only\n\nJob Description:\nRequired Qualifications:\nCandidate must be located within commuting distance of Madison, Wisconsin or be willing to relocate to the area.\nHands on GCP experience with very good communication skill.\nBachelor\u2019s degree or foreign equivalent required from an accredited institution.\nAt least 12+ years of experience with Information Technology\n5+ years of experience in Google Cloud Platform (GCP) services, such as BigQuery, CloudRun, Cloud Storage, Pub/Sub, Cloud Composer, Containers, Workflows, IAM, Etc . Understanding of cloud-native solutions and architecture is critical\nStrong knowledge and hands-on experience in as Python, SQL, Terraform, CI/CD, Git flows, Attunity, AutoSys, Airflow Dag creation, execution, and monitoring\nStrong knowledge on Production support, Debugging and performance tuning\nEffective communication skills for collaborating with global teams, including clear documentation practices and the ability to convey technical details to non-technical stakeholders.\n\nPreferred Qualifications:\nExperience in Insurance domain preferable\nGood understanding of data integration, data quality and data architecture\nExperience in Relational Modeling, Dimensional Modeling and Modeling of Unstructured Data\nGood understanding of Agile software development frameworks\nAbility to work in teams in a diverse, multi-stakeholder environment comprising of Business and Technology teams.",
+        "source": "Email",
+        "date_posted": "2024-10-16 15:58:57-05:00",
+        "unique_id": "1929767c8f301dea",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

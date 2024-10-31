@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Federal Reserve bank",
+        "job_title": "Data Engineer",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Bachelor's degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Amazon Web Services (AWS)"
+            ],
+            "primary": [
+                "data analytics",
+                "data visualizations",
+                "data mining",
+                "technical support",
+                "security compliance"
+            ],
+            "secondary": [
+                "dashboard design",
+                "data analysis",
+                "statistical analysis",
+                "documentation"
+            ],
+            "all": [
+                "Amazon Web Services (AWS)",
+                "data analytics",
+                "data visualizations",
+                "data mining",
+                "technical support",
+                "security compliance",
+                "dashboard design",
+                "data analysis",
+                "statistical analysis",
+                "documentation"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Chirag Tyagi",
+        "email": "chirag.tyagi@zealhire.com",
+        "jd": "Hi,Hope you are doing. Data EngineerClient - Federal Reserve bankDuration \u2013 12 monthsHybrid - Minneapolis, Minnesota Position Summary. This role is a part of the Treasury Services\u2019 Data Engineering team for a large-scale program. You would be responsible for the analysis, design, development, and support of complex analytic tools such as dashboards and data visualizations that would support the program. Responsibilities and Accountabilities; Designs, prototypes, and develops complex data analytics and visualizationsReview data set, analyze the data, run statistical data mining to derive insightsPartner with PO/BA team to understand the business needs, help PO become data driven to understand what insights can be derived from the data.Provides technical support during all phases of the application lifecycleIncorporates security and other relevant bank and system controls into solutions and team practicesContributes and adheres to bank and system software development methodologies and standardsEnsure team complies with all security, compliance, and audit requirementsEnsures technical documentation is produced and kept updatedPerforms other duties as assigned or requested Bachelor's degree and a minimum of 7 years of related work experience.Amazon Web Services (AWS) experience/training/certification required",
+        "source": "Email",
+        "date_posted": "2024-10-24 10:03:32-05:00",
+        "unique_id": "192bf31f49513db9",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "company": "United Airlines",
+        "job_title": "Sr. Full Stack Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java Development",
+                "Front End Development",
+                "AWS Development",
+                "CI/CD deployment",
+                "Unit testing"
+            ],
+            "primary": [
+                "React",
+                "Vue",
+                "Spring Boot",
+                "Docker",
+                "GitHub Actions"
+            ],
+            "secondary": [
+                "ELK Stack",
+                "Google Analytics",
+                "AppDynamics",
+                "JUnit",
+                "Mockito",
+                "Agile Development",
+                "SonarQube",
+                "Veracode",
+                "Wiz"
+            ],
+            "all": [
+                "Java Development",
+                "Front End Development",
+                "AWS Development",
+                "CI/CD deployment",
+                "Unit testing",
+                "React",
+                "Vue",
+                "Spring Boot",
+                "Docker",
+                "GitHub Actions",
+                "ELK Stack",
+                "Google Analytics",
+                "AppDynamics",
+                "JUnit",
+                "Mockito",
+                "Agile Development",
+                "SonarQube",
+                "Veracode",
+                "Wiz"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shivam Chauhan",
+        "email": "shivam.chauhan@gvrinfotek.com",
+        "jd": "From: Shivam Chauhan, GVR Info Tek shivam.chauhan@gvrinfotek.com Reply to: shivam.chauhan@gvrinfotek.com Sr. Full Stack Developer United Airlines12+ Months (CTH)USC & GC onlyVideo + In-person InterviewLocation \u2013 Chicago, IL (Hybrid)Need Locals only\u2026\u2026.. Need :Visa/DL CopiesFull Education with YearLinkedIn profile with Photo is Mandatory (Strong LinkedIn is needed at least 2 years old) Description: Sr. full stack Java developer with extensive expertise in both back end and front end. This individual will be responsible for designing, developing, documenting, debugging, and testing secure software applications. The ideal candidate should have hands-on experience with the latest web UI platforms such as React, and Vue, be familiar with industry standards and best practices in UI development. Extensive experience working in a cloud environment is also necessary. Top 5 Skill sets1. Java Development2. Front End Development3. AWS Development4. CI/CD deployment5 Unit testing Job ResponsibilitiesDesign, develop, document, test, and debug new and existing software systems and applications.Collaborate with UX professionals to evaluate, modernize, consolidate, and improve existing UIs, ensuring they meet user needs and company expectations.Develop applications using AWS services such as S3, SNS/SQS Event Driven Messaging, DynamoDB, and IAM.Write and execute unit tests using JUnit 5 and Mockito 5 to ensure robustness, including edge cases, usability, and general reliability.Use Docker for software packaging, allowing for efficiency and ease of deployment in production environments.Utilize GitHub Actions for continuous integration and continuous deployment strategies.Protect our systems by implementing and practicing secure software development techniques, standards and best practicesTroubleshoot and debug issues that arise.Maintain technical documentation. Requirements and SkillsProven work experience as a software engineer7+ years of experience in design, development, documenting, testing, and debugging of new and existing software systems and applications with Java and Spring Boot7+ years of hands-on experience implementing AWS technologies (ECS, SNS, SQS, DynamoDB, S3, CDK/CloudFormation)In-depth knowledge of various web-related technologies (such as Web applications, services, architectures etc.)Experience with AWS Cloud deployment and GitHub Actions workflowsExperience with analytic tools such as ELK Stack, Google Analytics, or AppDynamicsExperience with unit testing frameworks like Junit or MockitoHands-on and proficient excellence in backend development of REST and Pub/Sub Messaging applicationsExperience working with high performance teams in an agile development environment where continuous integration and continuous delivery (CI/CD) are critical.Experience with secure software development life cycle frameworkKnowledge of security principles and familiar with code scanning tools like SonarQube, Veracode or Wiz.Demonstrate knowledge of software engineering best practices such as version control, software packaging and software release managementSelf-motivated with strong communication skills (verbal and written) and the ability to work in a team-oriented environment.Strong analytical and problem-solving skills; attention to detail Regards, Shivam ChauhanIT RecruiterGVR Infotek LLC: 13573 Tabasco Cat Trail, Frisco, TX 75035Email: shivam.chauhan@gvrinfotek.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 08:08:35-05:00",
+        "unique_id": "1929592568563b16",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Axiustek",
+        "job_title": "Data Business System Analyst",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, engineering, statistics, economics, or MBA",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "Databricks",
+                "Logical data modeling",
+                "ETL/ELT tools"
+            ],
+            "primary": [
+                "Data curation",
+                "Data governance",
+                "Data dictionary development",
+                "Technical and business data cataloging",
+                "Data management",
+                "Requirements management",
+                "Metadata management"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "Python",
+                "Databricks",
+                "Logical data modeling",
+                "ETL/ELT tools",
+                "Data curation",
+                "Data governance",
+                "Data dictionary development",
+                "Technical and business data cataloging",
+                "Data management",
+                "Requirements management",
+                "Metadata management"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sriram",
+        "email": "sriram.g@msrtechnologies.com",
+        "jd": "From: sriram, axiustek sriram.g@msrtechnologies.com Reply to: sriram.g@msrtechnologies.com Job Title: Data Business System Analyst Work Location: Plano TX (Remote) Exp : 13+ Job Description Role Overview: This role will be responsible for translating business needs into technical requirements, managing logical data models, and working closely with ingestion and curation teams. This role requires a deep understanding of: Logical data modeling Complex metadata management Developing, managing, and aligning technical data requirements Data curation Data governance About the role: Collaborate with business leaders to define requirements and priorities and to proactively understand and update metric logic and definition Develop technical requirements (e.g., aggregation level, granularity) based on metrics established by business teams Design logical data model and orchestration requirements Own and manage logical data model for the Enterprise Analytics team in tandem with ingestion and curation leads Oversee data catalog entries and enforce data cataloging rules Manage access controls for end data products Manage change requests to the structure, definitions and/or security of identified data objects Communicate with the Business Data System Owner and Business Data Steward on metric updates Act as escalation point for Data Quality Analysts when defined processes are insufficient to resolve issues About you: Hold a Bachelor\u2019s degree in computer science, engineering, statistics, economics, or MBA Bring 3+ years of experience in data engineering or data analysis Have hands-on experience with and understanding of the following: SQL Python or other programming language Databricks or other cloud data management platform Technical and business data cataloging Logical data modeling, including experience designing logical data models ETL/ELT tools such as Apache Airflow Data dictionary development Bring proven experience in data management, requirements management, and metadata management",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:31:51-05:00",
+        "unique_id": "192a063c749c4bce",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

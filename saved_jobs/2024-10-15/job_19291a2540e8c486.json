@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Comerica Bank",
+        "job_title": "Snowflake Database Administrator",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 years",
+            "degree_required": "Bachelor's Degree in computer science, engineering or in a technology related field OR equivalent through a combination of education and/or technology experience OR 12 years of technology experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake database setup",
+                "Data Engineering",
+                "SQL",
+                "AWS cloud technologies",
+                "Data governance"
+            ],
+            "primary": [
+                "BI Engineering",
+                "Data applications",
+                "Informatica",
+                "Python programming",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "ERWIN modeling",
+                "Enterprise data warehouse solutions",
+                "S3 Datalake",
+                "CICD",
+                "Jenkins"
+            ],
+            "all": [
+                "Snowflake database setup",
+                "Data Engineering",
+                "SQL",
+                "AWS cloud technologies",
+                "Data governance",
+                "BI Engineering",
+                "Data applications",
+                "Informatica",
+                "Python programming",
+                "Agile methodologies",
+                "ERWIN modeling",
+                "Enterprise data warehouse solutions",
+                "S3 Datalake",
+                "CICD",
+                "Jenkins"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "hanshika",
+        "email": "hanshika@vyzeinc.com",
+        "jd": "From: hanshika, vyze hanshika@vyzeinc.com Reply to: hanshika@vyzeinc.com Job Description -Please include (candidates with full information will get quicker attention): Title: Snowflake Database AdministratorClient: Comerica BankLocation: Hybrid / on-site 2 days a week in Plano, TX. Must be local or relo (out of pocket from day 1). No exceptions. HEAVY preference to locals in this group. NO West Coast candidates (PST) will be considered.(at least two days on site per week) Position Qualifications:Bachelor's Degree in computer science, engineering or in a technology related field OR equivalent through a combination of education and/or technology experience OR 12 years of technology experience 8 years of experience in Data Engineering, BI Engineering or related field in architecting and developing end-to-end scalable data applications 8 years of experience Snowflake database setup, administration, ERWIN modeling, designing, implementing enterprise data warehouse solutions with strong SQL query capabilities 8 years of experience implementing data governance, security, PII data handling, monitoring & alerting unauthorized data access, changes 6 years of experience in onboarding new data tools, configuring, integrating Snowflake with Informatica, BI, Analytical tools and with OKTA, SailPoint, CyberArk 8 years of experience managing compute & storage, applying best practices for schema, table, DDL creations, querying, evaluating load operations & performance 6 years of working knowledge of different databases (e.g., SQL & NoSQL), S3 Datalake, CICD, Jenkins and AWS cloud technologies; leveraging SQL or Python programming languages 6 years of experience developing strong collaborative relationships with key business, technology and data teams 6 years of experience in working with data engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes and testingLicenses/Certificates:Snowflake SnowPro, Advance Architect Certification is a must Amazon Web Services (AWS) Solution Architect or Certified Data Analytics",
+        "source": "Email",
+        "date_posted": "2024-10-15 13:47:33-05:00",
+        "unique_id": "19291a2540e8c486",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

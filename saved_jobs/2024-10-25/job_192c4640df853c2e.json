@@ -1,0 +1,91 @@
+[
+    {
+        "company": "HCL",
+        "job_title": "Data Architect",
+        "location": "El Segundo, CA, USA",
+        "full_location": {
+            "city": "El Segundo",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Google Big Query",
+                "Google Cloud Platform",
+                "Python Programming",
+                "Big Data technologies"
+            ],
+            "primary": [
+                "Google Data Products",
+                "PySpark",
+                "Pandas",
+                "Airflow",
+                "DBT"
+            ],
+            "secondary": [
+                "CICD",
+                "SQL",
+                "NoSQL",
+                "Data Integration",
+                "Data Transformation",
+                "Data Quality",
+                "Data Lineage",
+                "Automation",
+                "E2E Data Engineering",
+                "Usability testing",
+                "Data visualization"
+            ],
+            "all": [
+                "Data Engineering",
+                "Google Big Query",
+                "Google Cloud Platform",
+                "Python Programming",
+                "Big Data technologies",
+                "Google Data Products",
+                "PySpark",
+                "Pandas",
+                "Airflow",
+                "DBT",
+                "CICD",
+                "SQL",
+                "NoSQL",
+                "Data Integration",
+                "Data Transformation",
+                "Data Quality",
+                "Data Lineage",
+                "Automation",
+                "E2E Data Engineering",
+                "Usability testing",
+                "Data visualization"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rajesh",
+        "email": "rajesh@info-ways.com",
+        "jd": "From: rajesh, infoways rajesh@info-ways.com Reply to: rajesh@info-ways.com Hi , Hope you are doing great. We have an urgent requirement for the below position with our IT Client /HCL Kindly reply back to this email or call me to discuss further.(609-858-0846)Job Title: Data ArchitectLocation: El Segundo, CA (Onsite role from day 1, need local profiles)Duration: 12+ MonthJob Description:Has worked in the past as an Architect. Professional experience in Data Engineering using Google Big Query (GBQ) and Google Cloud Platform (GCP) data sets and building data pipelines. Hands on and deep experience working with Google Data Products (e.g. BigQuery, Dataflow, Dataproc, Dataprep, Cloud Composer, Airflow, DAG etc.). Python Programming Expert PySpark, PandasExperience in Airflow (Create DAG, Configure the variables in Airflow, Scheduling) Big Data technologies and solutions (Spark, Hadoop, Hive, MapReduce) and multiple scripting and languages (YAML, Python). Experience in DBT to create the lineage in GCP. \u2013 Optional Worked in Dev-Sec-Ops (CICD) environment.Design and develop the ETL ELT framework using BigQuery, Expertise in Big Query concepts like Nested Queries, Clustering, Partitioning, etc.Experience in Data Integration, Data Transformation, Data Quality and Data Lineage tools. Should be able to automate the data load from Big Query using APIs or scripting language.E2E Data Engineering and Lifecycle (including non-functional requirements and operations) management. E2E Solution Design skills \u2013 Prototyping, Usability testing and data visualization literacy. Experience with SQL and NoSQL modern data stores.",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:20:35-05:00",
+        "unique_id": "192c4640df853c2e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

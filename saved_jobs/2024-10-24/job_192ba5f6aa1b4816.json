@@ -1,0 +1,54 @@
+[
+    {
+        "company": "Wagner Weber",
+        "job_title": "Oracle Migration consultant",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle",
+                "SQL"
+            ],
+            "primary": [
+                "Informix"
+            ],
+            "secondary": [],
+            "all": [
+                "Oracle",
+                "SQL",
+                "Informix"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Praveen Kumar",
+        "email": "praveenk@largeton.us",
+        "jd": "From: Praveen Kumar, Largeton inc praveenk@largeton.us Reply to: praveenk@largeton.us Title- Oracle Migration consultantClient- Wagner WeberLocation- 100% Remote EST Duration- 6+ Months Visa- No H1B/opt/cpt Our long-standing client is seeking a consultant to assist on the migration from Informix to Oracle 12. This person needs to have extensive experience with Oracle, strong SQL skills, and worked on at least one migration from Informix I need a consultant to migrate Informix to Oracle 12. Large client, 100% remote as long as they can work in the Eastern US time zone.",
+        "source": "Email",
+        "date_posted": "2024-10-23 11:06:34-05:00",
+        "unique_id": "192ba5f6aa1b4816",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

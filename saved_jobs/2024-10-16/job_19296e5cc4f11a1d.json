@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Paramount software solutions",
+        "job_title": "Enterprise Architect",
+        "location": "Louisville, CO, USA",
+        "full_location": {
+            "city": "Louisville",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Senior-level, 7-15 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Modeling Tools",
+                "Oracle SQL Developer Data Modeler",
+                "Enterprise Architect",
+                "Oracle Database Architecture",
+                "PostgreSQL"
+            ],
+            "primary": [
+                "Performance Tuning",
+                "Query Optimization",
+                "Workload Management",
+                "PL/SQL",
+                "Indexing Strategies"
+            ],
+            "secondary": [
+                "Cloud-based Database Solutions",
+                "Linux",
+                "Windows",
+                "Oracle Security Features",
+                "RMAN",
+                "Data Guard"
+            ],
+            "all": [
+                "Data Modeling Tools",
+                "Oracle SQL Developer Data Modeler",
+                "Enterprise Architect",
+                "Oracle Database Architecture",
+                "PostgreSQL",
+                "Performance Tuning",
+                "Query Optimization",
+                "Workload Management",
+                "PL/SQL",
+                "Indexing Strategies",
+                "Cloud-based Database Solutions",
+                "Linux",
+                "Windows",
+                "Oracle Security Features",
+                "RMAN",
+                "Data Guard"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Padmapriya",
+        "email": "padma@paramountsoft.net",
+        "jd": "From: Padmapriya, Paramount software solutions padma@paramountsoft.net Reply to: padma@paramountsoft.net Position: Enterprise ArchitectLocation: Louisville, CO (Only Locals)Duration: 12+ months contractMUST HAVE:\u00b7PROFICIENCY IN USING DATA MODELING TOOLS (E.G., ENTERPRISE ARCHITECT, ORACLE SQL DEVELOPER DATA MODELER, PGMODELER) TO CREATE LOGICAL AND PHYSICAL DATA MODELS. \u00b7EXPERTISE IN TRANSLATING LOGICAL MODELS INTO PHYSICAL DATABASE DESIGNS FOR BOTH ORACLE AND POSTGRESQL, FOCUSING ON PERFORMANCE, SCALABILITY, AND SECURITY. \u00b7PROFICIENCY IN ORACLE DATABASE ARCHITECTURE AND ADMINISTRATION, INCLUDING INSTALLATION, CONFIGURATION, AND UPGRADES. \u00b7EXPERIENCE IN INDEXING STRATEGIES, PARTITIONING, AND DATA DISTRIBUTION FOR OPTIMAL PERFORMANCE. \u00b7STRONG SKILLS IN PERFORMANCE TUNING, QUERY OPTIMIZATION, AND WORKLOAD MANAGEMENT FOR BOTH ORACLE AND POSTGRESQL DATABASES. \u00b7PROFICIENT IN WRITING AND OPTIMIZING COMPLEX SQL QUERIES AND PL/SQL CODE. \u00b7KNOWLEDGE OF ORACLE FEATURES LIKE TABLESPACES, PARTITIONS, AND MATERIALIZED VIEWS. \u00b7EXPERIENCE WITH RMAN, AND DATA GUARD FOR BACKUP AND RECOVERY. GOOD TO HAVE:\u00b7EXPERIENCE WITH PG_DUMP, PG_RESTORE, AND WAL ARCHIVING FOR POSTGRESQL. \u00b7EXPERIENCE WITH CLOUD-BASED DATABASE SOLUTIONS, PARTICULARLY IN ORACLE CLOUD AND POSTGRESQL ON PLATFORMS LIKE AWS, AZURE, OR GOOGLE CLOUD. \u00b7GOOD UNDERSTANDING OF LINUX AND WINDOWS PLATFORMS. \u00b7FAMILIARITY WITH ORACLE SECURITY FEATURES AND BEST PRACTICES. \u00b7PROFICIENT IN PL/SQL FOR WRITING STORED PROCEDURES, TRIGGERS, AND SCRIPTS. \u00b7EXPERIENCE LEVEL: SENIOR LEVEL, 7- 15 YEARS OF EXPERIENCE IN ORACLE DBA",
+        "source": "Email",
+        "date_posted": "2024-10-16 14:19:23-05:00",
+        "unique_id": "19296e5cc4f11a1d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

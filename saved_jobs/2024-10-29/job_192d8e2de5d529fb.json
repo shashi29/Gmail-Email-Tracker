@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Keyinfotek",
+        "job_title": "Data Production Support Analyst",
+        "location": "Woburn, MA, USA",
+        "full_location": {
+            "city": "Woburn",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Information Technology, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Healthcare",
+                "ETL Tools",
+                "Production Support",
+                "SQL"
+            ],
+            "primary": [
+                "Informatica",
+                "Talend",
+                "SSIS",
+                "relational databases",
+                "data warehousing"
+            ],
+            "secondary": [
+                "Python",
+                "Shell",
+                "AWS Glue",
+                "Azure Data Factory",
+                "Tableau",
+                "Power BI",
+                "Agile methodologies"
+            ],
+            "all": [
+                "GCP",
+                "Healthcare",
+                "ETL Tools",
+                "Production Support",
+                "SQL",
+                "Informatica",
+                "Talend",
+                "SSIS",
+                "relational databases",
+                "data warehousing",
+                "Python",
+                "Shell",
+                "AWS Glue",
+                "Azure Data Factory",
+                "Tableau",
+                "Power BI",
+                "Agile methodologies"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Monika Pandey",
+        "email": "monika@keyinfotek.com",
+        "jd": "From: Monika Pandey, keyinfotek monika@keyinfotek.com Reply to: monika@keyinfotek.com Hello, Hope you are doing great!!GC\\USC/GC EAD NOT WORKABLE WITH EMPLOYER Job Title: Data Production Support AnalystLocation: Woburn, MA (Locals Preferred)Domain : Healthcare Must Have \"GCP ,Healthcare, ETL Tools, Production Support, SQL\" Job Summary:We are seeking an experienced ETL Production Support Analyst to join our team in Woburn, MA. The ideal candidate will have 8+ years of experience in ETL processes and data production support. You will be responsible for monitoring, troubleshooting, and maintaining our ETL systems to ensure data integrity and availability for business operations. Key Responsibilities:Monitor daily ETL jobs and workflows to ensure successful execution and data processing.Troubleshoot and resolve production issues related to ETL processes, databases, and data quality.Analyze, identify, and document root causes of ETL job failures, and implement preventive measures.Collaborate with data engineers and developers to optimize ETL processes and improve performance.Provide timely support and communication to stakeholders regarding ETL job status and incidents.Conduct regular audits of data to ensure accuracy, completeness, and adherence to data governance standards.Maintain and update documentation related to ETL workflows, operational procedures, and best practices.Participate in the deployment and implementation of new data integration solutions.Assist in user training and support for data-related queries and tools. Qualifications:Bachelor\u2019s degree in computer science, Information Technology, or a related field.8+ years of experience in ETL production support, data integration, or data management.Proficient in ETL tools (e.g., Informatica, Talend, SSIS) and SQL.Strong understanding of relational databases and data warehousing concepts.Experience with data quality and data governance practices.Excellent troubleshooting and problem-solving skills.Strong communication skills and the ability to work collaboratively in a team environment.Familiarity with scripting languages (e.g., Python, Shell) is a plus. Preferred Skills:Knowledge of cloud-based ETL solutions (e.g., AWS Glue, Azure Data Factory).Experience with data visualization tools (e.g., Tableau, Power BI).Understanding of Agile methodologies and project management frameworks.",
+        "source": "Email",
+        "date_posted": "2024-10-29 09:51:42-05:00",
+        "unique_id": "192d8e2de5d529fb",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

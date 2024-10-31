@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Tanisha Systems",
+        "job_title": "Cloud Development Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Software Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft Azure",
+                "Java",
+                "Spring Boot"
+            ],
+            "primary": [
+                "Cloud application development",
+                "Azure Functions",
+                "Azure App Services",
+                "Azure DevOps",
+                "SQL",
+                "NoSQL",
+                "RESTful APIs",
+                "Microservices architecture",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Azure Developer Associate",
+                "Docker",
+                "Kubernetes",
+                "Angular",
+                "React"
+            ],
+            "all": [
+                "Microsoft Azure",
+                "Java",
+                "Spring Boot",
+                "Cloud application development",
+                "Azure Functions",
+                "Azure App Services",
+                "Azure DevOps",
+                "SQL",
+                "NoSQL",
+                "RESTful APIs",
+                "Microservices architecture",
+                "Agile methodologies",
+                "Azure Developer Associate",
+                "Docker",
+                "Kubernetes",
+                "Angular",
+                "React"
+            ],
+            "with_experience": [
+                "Microsoft Azure",
+                "Java",
+                "Cloud application development"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abhishek Yadav",
+        "email": "abhishek.yadav@tanishasystems.com",
+        "jd": "Hello , This is Abhishek Yadav from Tanisha Systems . I am hiring for below urgent role in Dallas TX. Title : : Cloud Development EngineerLocation : Dallas TXType-: Contract Exp. 10+ Years Job descriptionKey Responsibilities:\u2022Design, develop, and maintain cloud applications on Microsoft Azure using Java.\u2022Collaborate with cross-functional teams to define, design, and implement new features.\u2022Optimize applications for maximum speed and scalability.\u2022Ensure application security and compliance with best practices.\u2022Monitor and troubleshoot application performance and reliability.\u2022Implement CI/CD pipelines for efficient deployment and integration.\u2022Participate in code reviews and maintain documentation for development processes.\u2022Stay up to date with emerging technologies and industry trends in cloud computing. Qualifications:\u2022Bachelor\u2019s degree in computer science, Software Engineering, or a related field.\u2022Proven experience in cloud application development, particularly with Azure.\u2022Strong proficiency in Java and related frameworks (e.g., Spring Boot).\u2022Experience with cloud services (e.g., Azure Functions, Azure App Services, Azure DevOps).\u2022Familiarity with database technologies (e.g., SQL, NoSQL).\u2022Knowledge of RESTful APIs and microservices architecture.\u2022Understanding of Agile methodologies and best practices in software development.\u2022Excellent problem-solving skills and attention to detail.\u2022Strong communication and teamwork abilities. Preferred Qualifications:\u2022Certifications in Azure (e.g., Azure Developer Associate).\u2022Experience with containerization technologies (e.g., Docker, Kubernetes).\u2022Familiarity with frontend technologies (e.g., Angular, React) is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-21 17:47:20-05:00",
+        "unique_id": "192b1b83191df73c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

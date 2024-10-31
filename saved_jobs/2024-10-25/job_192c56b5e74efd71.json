@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Siriinfo",
+        "job_title": "MongoDB Database Administrator",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 & Above",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MongoDB",
+                "Linux",
+                "Python",
+                "Shell Scripting"
+            ],
+            "primary": [
+                "Replica Set",
+                "Sharded Clusters",
+                "Ops Manager",
+                "X509 Authentication",
+                "TLS Authentication",
+                "Backup/Restore Automation",
+                "Performance Tuning"
+            ],
+            "secondary": [
+                "Data Migration",
+                "SSL Key Configuration",
+                "Change Stream",
+                "Query Plan Architecture",
+                "Hash Based Sharding",
+                "Range Based Sharding",
+                "AWS"
+            ],
+            "all": [
+                "MongoDB",
+                "Linux",
+                "Python",
+                "Shell Scripting",
+                "Replica Set",
+                "Sharded Clusters",
+                "Ops Manager",
+                "X509 Authentication",
+                "TLS Authentication",
+                "Backup/Restore Automation",
+                "Performance Tuning",
+                "Data Migration",
+                "SSL Key Configuration",
+                "Change Stream",
+                "Query Plan Architecture",
+                "Hash Based Sharding",
+                "Range Based Sharding",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jessica",
+        "email": "jessica@siriinfo.com",
+        "jd": "Greetings, We have the below requirement with our client. Kindly go through the JD below and let me know your interest Role name: Database Administrator Dallas, TX Duration : Contract Role Description: MongoDB Database Administrator ? Configure Mongodb replica set and sharded clusters as per the application requirement. ? Mongodb BRS & Ops-Mgr setup and onboard replica sets & sharded clusters on to Ops-Mgr. ? Mongodb security enhancement using X509 and TLS authentication to comply with Apple security standards. ? Automate backup/restore/monitoring jobs using python and shell scripting. DBA requirement ? Should have designed, installed & configured multi node MongoDB sharded cluster & replica sets on Linux Platforms. ? Adding / removing replica and shard nodes in Mongodb Cluster as needed. Created Text Index for querying specific documents with string content. ? Good knowledge of a shard key and making sure of even distribution of data across multiple shards. ? Converted replicaset to sharded cluster because of data size growth and better query rate planning. ? Worked on Upgrade/migrations of repicaSet and Sharded cluster from 4.0 to 4.xx ? Deploying, migrating data, monitoring, analyzing, and tuning MongoDB. ? In-depth knowledge of Ops Manager and Ops manager Upgrade. ? Knowledge about Groups and Project in Ops Manager ? Knowledge about Authentication and Authorisation and X509 authentication ? Should have Configured SSL key files to implement security across all mongod instances. ? Extensive knowledge of Mongo replication architecture and change stream. ? Documenting MongoDB installation, operations, security, auditing multiple environments. ? Should have knowledge about Query plan architecture and performance tuning at host and DB level. ? Knowledge Range based sharding and Hash based sharding/ Indexing ? Migration of Mongo cluster to AWS. Competencies: Digital : Mongo DB Experience (Years): 10 & Above Best Regards, Jessica (Bhargavi Jalthar) | Sr Technical Recruiter | Email: jessica@siriinfo.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:08:13-05:00",
+        "unique_id": "192c56b5e74efd71",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

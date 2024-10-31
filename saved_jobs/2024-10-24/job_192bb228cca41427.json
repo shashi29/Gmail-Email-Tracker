@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Crea services LLC",
+        "job_title": "SQL Database Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Data Modeling"
+            ],
+            "primary": [
+                "Qick Sight",
+                "Kafka"
+            ],
+            "secondary": [
+                "Cloud technologies (Quicksight, Redshift, S3, RDS, Kafka streaming, Glue, Lambda)",
+                "Reporting tools (PowerBI, Cognos, Tableau)"
+            ],
+            "all": [
+                "SQL",
+                "Data Modeling",
+                "Qick Sight",
+                "Kafka",
+                "Cloud technologies (Quicksight, Redshift, S3, RDS, Kafka streaming, Glue, Lambda)",
+                "Reporting tools (PowerBI, Cognos, Tableau)"
+            ],
+            "with_experience": [
+                "SQL",
+                "Data Modeling"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Mukesh Kumar",
+        "email": "mkumar@creaservices.net",
+        "jd": "From: Mukesh, Crea services.LLC mkumar@creaservices.net Reply to: mkumar@creaservices.net Hi Hope this email finds you in good cheer!!!This is Mukesh from Crea services LLC and we have below Job opening with our Direct Customer, So please let me know your interest and we can discuss further, so please help with your contact number along with your updated resume and please suggest your availability to connect. Role: SQL Database DeveloperLocation: NYC NY Important Pointers: SQL, Data Modeling - Json, Qick Sight and Kafka Strong SQL Development skill \u2013 mustStrong data modelling skills \u2013 mustCloud technologies (Quicksight, Redshift, S3, RDS, Kafka streaming, Glue, Lambda)\u2013 nice to haveReporting tools (PowerBI, Cognos, Tableau) \u2013 nice to have Regards,Mukesh KumarTalent Acquisition Crea Services LLC E-mail: mkumar@creaservices.netVisit us: https://www.creaservices.net/",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:35:48-05:00",
+        "unique_id": "192bb228cca41427",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

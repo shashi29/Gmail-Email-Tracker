@@ -1,0 +1,82 @@
+[
+    {
+        "company": "RAPS Consulting Inc.",
+        "job_title": "Sr. Snowflake Data Engineer",
+        "location": "Nashville, TN, USA",
+        "full_location": {
+            "city": "Nashville",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "AWS",
+                "Python",
+                "ETL"
+            ],
+            "primary": [
+                "Cloud migrations",
+                "Data pipelines",
+                "Data warehousing",
+                "CI/CD",
+                "Automated testing",
+                "Performance Engineering"
+            ],
+            "secondary": [
+                "Git",
+                "Bamboo",
+                "Confluence",
+                "Jira",
+                "Problem solving",
+                "Troubleshooting",
+                "Communication skills"
+            ],
+            "all": [
+                "Snowflake",
+                "AWS",
+                "Python",
+                "ETL",
+                "Cloud migrations",
+                "Data pipelines",
+                "Data warehousing",
+                "CI/CD",
+                "Automated testing",
+                "Performance Engineering",
+                "Git",
+                "Bamboo",
+                "Confluence",
+                "Jira",
+                "Problem solving",
+                "Troubleshooting",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Jyoti Maurya",
+        "email": "jyoti.m@rapscorp.com",
+        "jd": "Role: Sr. Snowflake Data Engineer\n\nExp: 12+\n\nLocation- Nashville, TN\n\nHybrid: 2-3 days WFO\n\nJob Description\n\nExperienced Data engineer responsible for developing, overseeing, organizing, storing, and analyzing data and data systems.\n\nResponsible for Cloud migrations for data pipelines using AWS and Snowflake\n\nParticipate in all aspects of the software development lifecycle for AWS and Snowflake solutions, including planning, requirements, development, testing, and quality assurance.\n\nWork in tandem with our engineering team to identify and implement the most optimal cloud-based solutions.\n\nTroubleshoot incidents, identify root causes, fix and document problems, and implement preventive measures.\n\nWorking experience on Snowflake Platform\n\nWorking Cloud knowledge on AWS (Certification preferred)\n\nWorking Snowflake knowledge with Designing data warehouses\n\nStrong hands-on experience in Python with ETL concepts\n\nGood understanding on Metadata and data lineage\n\nAble to demonstrate experience with software engineering practices including CI/CD, Automated testing, and Performance Engineering.\n\nGood understanding and exposure on any Git, Bamboo, Confluence and Jira.\n\nGood problem solving and troubleshooting skills.\n\nTeam player, collaborative approach, and excellent communication skills\n\nCandidate should be good in communication and articulation.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:50:00-05:00",
+        "unique_id": "192ddd0b55046e0b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "company": "GSK Solutions Inc",
+        "job_title": "Azure Full Stack .Net Developer (Hybrid)",
+        "location": "Hartford, CT, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                ".NET",
+                "JavaScript",
+                "TypeScript"
+            ],
+            "primary": [
+                "Azure architecture",
+                "Application Development",
+                "Web Applications",
+                "Code Reviews",
+                "Stakeholder Communication"
+            ],
+            "secondary": [
+                "Agile methodologies",
+                "DevOps practices",
+                "CI/CD pipelines",
+                "SQL Server",
+                "Azure SQL",
+                "Front-end frameworks",
+                "Angular",
+                "React"
+            ],
+            "all": [
+                "Azure",
+                ".NET",
+                "JavaScript",
+                "TypeScript",
+                "Azure architecture",
+                "Application Development",
+                "Web Applications",
+                "Code Reviews",
+                "Stakeholder Communication",
+                "Agile methodologies",
+                "DevOps practices",
+                "CI/CD pipelines",
+                "SQL Server",
+                "Azure SQL",
+                "Front-end frameworks",
+                "Angular",
+                "React"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "nithya",
+        "email": "nithya@gsksolutions.com",
+        "jd": "Job Title: Azure Full Stack .Net Developer (Hybrid)\nLocation: Hartford, CT\nDuration: 12 Months\nClient: State of Connecticut\n\nJob Description:\nOEC is seeking a skilled Application Developer with a strong background in .NET and Azure to join our team. The ideal candidate will have experience in developing applications using JavaScript and TypeScript, and a solid understanding of Azure architecture and deployment strategies.\n\nKey Responsibilities:\n- Design, develop, and maintain scalable web applications using .NET, JavaScript, and TypeScript.\n- Implement Azure services and solutions for application deployment and architecture.\n- Collaborate with cross-functional teams to define, design, and ship new features.\n- Troubleshoot and debug applications, ensuring high performance and responsiveness.\n- Participate in code reviews and contribute to team knowledge sharing.\n- Communicate effectively with stakeholders to gather requirements and provide project updates.\n\nQualifications:\n- Proven experience as an Application Developer with a focus on .NET technologies.\n- Strong proficiency in JavaScript and TypeScript.\n- Demonstrated experience with Azure architecture and deployment processes.\n- Familiarity with front-end frameworks and libraries (e.g., Angular, React) is a plus.\n- Excellent problem-solving skills and attention to detail.\n- Strong communication skills, with the ability to articulate technical concepts to non-technical stakeholders.\n\nPreferred Skills:\n- Experience with Agile development methodologies.\n- Knowledge of DevOps practices and CI/CD pipelines.\n- Familiarity with database technologies such as SQL Server or Azure SQL.\n\nWorking Conditions:\n- Hybrid work model requiring in-office presence one day a week.\n- Collaborative team environment.",
+        "source": "Email",
+        "date_posted": "2024-10-30 16:24:56-05:00",
+        "unique_id": "192df713396c84e8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

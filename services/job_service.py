@@ -482,29 +482,69 @@ class JobInformation(BaseModel):
         )
     )
 
+    # jd: str = Field(
+    #     default="",
+    #     description=(
+    #         "Extract the complete job description using this process:\n"
+    #         "1. Identify the start and end of the actual job description within the email content.\n"
+    #         "2. Include all relevant information about the job, such as:\n"
+    #         "   - Job title and company name\n"
+    #         "   - Location and work arrangement (remote/onsite/hybrid)\n"
+    #         "   - Responsibilities and requirements\n"
+    #         "   - Qualifications and skills needed\n"
+    #         "   - Employment type and duration\n"
+    #         "   - Compensation and benefits information (if provided)\n"
+    #         "   - Application instructions\n"
+    #         "3. Do not include:\n"
+    #         "   - Email headers or footers\n"
+    #         "   - Personal messages from the sender\n"
+    #         "   - Recruiter contact information (unless it's part of the application process)\n"
+    #         "   - Confidentiality disclaimers or email signatures\n"
+    #         "4. If the job description is in a different language, include it as-is without translation.\n"
+    #         "5. If the job description seems incomplete, include only what is provided without adding assumptions.\n"
+    #         "Note: The goal is to capture the complete, unaltered job description as it appears in the original posting."
+    #     )
+    # )
     jd: str = Field(
-        default="",
-        description=(
-            "Extract the complete job description using this process:\n"
-            "1. Identify the start and end of the actual job description within the email content.\n"
-            "2. Include all relevant information about the job, such as:\n"
-            "   - Job title and company name\n"
-            "   - Location and work arrangement (remote/onsite/hybrid)\n"
-            "   - Responsibilities and requirements\n"
-            "   - Qualifications and skills needed\n"
-            "   - Employment type and duration\n"
-            "   - Compensation and benefits information (if provided)\n"
-            "   - Application instructions\n"
-            "3. Do not include:\n"
-            "   - Email headers or footers\n"
-            "   - Personal messages from the sender\n"
-            "   - Recruiter contact information (unless it's part of the application process)\n"
-            "   - Confidentiality disclaimers or email signatures\n"
-            "4. If the job description is in a different language, include it as-is without translation.\n"
-            "5. If the job description seems incomplete, include only what is provided without adding assumptions.\n"
-            "Note: The goal is to capture the complete, unaltered job description as it appears in the original posting."
-        )
+    default="",
+    description=(
+        "Extract and format the complete job description using these guidelines:\n\n"
+        "CORE INFORMATION:\n"
+        "- Job Title & Company Name\n"
+        "- Location & Work Arrangement (Remote/Hybrid/Onsite)\n"
+        "- Employment Type & Duration\n\n"
+        
+        "CONTENT TO EXTRACT:\n"
+        "1. Role Overview\n"
+        "2. Primary Responsibilities\n"
+        "3. Required Qualifications\n"
+        "   - Education requirements\n"
+        "   - Experience level\n"
+        "   - Technical skills\n"
+        "   - Soft skills\n"
+        "4. Compensation & Benefits (if provided)\n"
+        "5. Application Instructions\n\n"
+        
+        "EXTRACTION RULES:\n"
+        "- Start from role introduction and end at application instructions\n"
+        "- Do not include email headers, footers, signatures, or disclaimers\n"
+        "- Exclude personal messages and recruiter details (unless part of application process)\n\n"
+        
+        "SPECIAL HANDLING:\n"
+        "- For incomplete descriptions: Extract only provided information without assumptions\n"
+        "- For multiple positions: Create separate, clearly divided sections\n"
+        "- For non-English content: Keep original language without translation\n\n"
+        
+        "FORMAT REQUIREMENTS:\n"
+        "- Use clear section headers\n"
+        "- Maintain consistent formatting\n"
+        "- Use appropriate line breaks between sections\n"
+        "- Ensure readable hierarchy in content structure\n\n"
+        
+        "Note: The goal is to produce a clean, well-structured job description that contains all relevant information while excluding any email-specific content."
     )
+    )
+
 
 class JobResponse(BaseModel):
     status: int = Field(default=200, description="The status code of the response") 
@@ -590,3 +630,60 @@ class JobDetailsExtractorService:
         
         return job_response["data"]
     
+
+    def classify_job(self, subject, description):
+        logger.info("Extracting job details")
+        job_response = self.chain.invoke({
+            "subject": subject,
+            "description": description
+        })
+        return job_response
+
+if __name__ == "__main__":
+    classifier = JobDetailsExtractorService()
+    
+    subject = "Lead Performance Engineer - FL"
+    description = """From:
+
+		                                   Hima Teja,
+
+		                                   Msysinc                                            
+
+									       resume@msysinc.com
+
+									       Reply to: Â Â resume@msysinc.com
+
+	
+
+										
+
+								
+
+  						    
+
+						  
+
+                                                
+
+      						
+
+							
+
+								Title:Â Infrastructure Administrator/Architect - HybridLocation:Â Lansing, MI, United StatesLength:Â Long termRestriction:Â W2 or C2CSend resume to:Â teja@msysinc.comÂ Description:*** Very long term project initial PO for 1 year and usually the project goes for 3/5 years with this customer ***Â Â *** Hybrid ***Â 2 days a week onsite******Â  Candidates MUST be local to greater Lansing area (commutable distance) or relocate. ***Â Position Summary:Coordinate and integrate system data models and design to promote data sharing, eliminate redundancy, and provide for the efficient and effective use of the states data resources.Â Coordinate with and provide technical advice to the Project Manager to develop project plan.Coordinate with data stewards to develop, communicate, and enforce Data Classification policies and standards.Â Create and maintain the metadata repository. Including developing and maintaining a formal description of the data, data structures, and data flow diagrams.Â Create, maintain, and verify system level design.Â Â Define and enforce data standards, procedures, and guidelines to ensure data integrity, dependability, quality, and usability through the use of appropriate security, verification, and data management practices.Develop an Information Architecture Model supporting, and consistent with, Enterprise Information Management.Develop and maintain the statewide data model for to ensure integrated use across all applications.Develop and manage configuration management standards, processes, and policies.Document application controls needed to meet security standards.Ensure data integration with internal organizations and with external business and IT communities.Evaluate and recommend software fixes to resolve problems.Facilitate/lead team members for any application environment consolidation, migration, or integration efforts.Gather, organize, and track requirements and issues related to IT solutions.Lead in implementation, for IT solutions.Make recommendations to the application developers on software integration for existing software.Perform development of a data management strategy, to ensure data security and appropriate data retention.Prepare for and provide an organized and professionally facilitated environment for SDT sessions.Â Provide data modeling and design guidance including identification of data entities, data dependencies and data relationships.Recommend solutions based on TIA of proposed infrastructure changes to ensure feasibility and cost effectiveness.Review Enterprise Architecture Solution Patterns/Reference Models for specific agency application system.Â  Analyze EA Solution Assessments cataloged in EA SA Library for similar system design guidelines.Revise and validate project management documents, by applying DTMB PMM and SEM to IT solutions.Revise and validate technical designs, specifications, and diagrams.Verify the architectural integrity of the application environment.Skill Description:(8/10 or more Required/Desired/Nice to Have skills in Bullet Points identified by their ranking)Over 3+ years of Network Administrion experience.Over 5+ RHEL experienceOver 5+ years of Windows Server experience.Over 3+ years of SQL experience.Over 5+ years of experience creating, updating and maintaining systems documentation.Experience using Architect tools like Visio / LucidChart / Draw.io.Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Experience with Administering/architecting IIS webserver / Apache / WAF.Â  Â  Â  Â  Â  Â  Â Exposure to Application Architecture.Familiarity with AppServer like Weblogic / Websphere / JBoss.Architecting redundant and scalable Database deployment for Oracle / MSSQL.Â Experience with Securing Network / Web Application / Database.Â Exposure on any one of the Programming languages like C# / Java / Python / Bash / PowerShell.Experience with CI/CD tools like Ansible, Jenkins, SonarQube, Artefactory, Veracode.Design and architecting for both native / hybrid cloud on AWS / Azure / GoogleCloud deployments.Â Exposure to IaaS / PaaS / SaaS deployments / setup.Knowledge on IaaC Terraform / CloudFormation.Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Architecting Container Orchestration K8s / OpenShift.Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Cloudflare experience.Â  Â Â  Â  Â  Â  Â  Â  Â  Â Â Â Â Candidate will be asked to demonstrate knowledge during interviewÂ  must be technically well rounded on all skillsets indicated.Â 
+
+							
+
+        					
+
+      						
+
+      							
+
+      								 
+
+									
+
+										 Sign-Up for your account with PROHIRES POWERHOUSE Recruiting Portal to broadcast requiremen"""
+    
+    result = classifier.classify_job(subject, description)
+    print(result)

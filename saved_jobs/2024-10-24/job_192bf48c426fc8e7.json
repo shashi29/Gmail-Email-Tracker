@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Exaways",
+        "job_title": "Python Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "1-5 years",
+            "degree_required": "Bachelor's Degree in Computer Science or related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Database technologies",
+                "Cloud technologies",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Unit testing",
+                "Distributed systems",
+                "Technical leadership"
+            ],
+            "secondary": [
+                "C",
+                "PHP",
+                "AWS (EKS, Lambda, RDS, Aurora, Dynamo)"
+            ],
+            "all": [
+                "Python",
+                "Database technologies",
+                "Cloud technologies",
+                "Kubernetes",
+                "Unit testing",
+                "Distributed systems",
+                "Technical leadership",
+                "C",
+                "PHP",
+                "AWS (EKS, Lambda, RDS, Aurora, Dynamo)"
+            ],
+            "with_experience": [
+                "Python (1-5 years)",
+                "Database technologies",
+                "Cloud technologies"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Aravindh",
+        "email": "aravindh.k@exaways.com",
+        "jd": "From: Aravindh, Exaways aravindh.k@exaways.com Reply to: aravindh.k@exaways.com \u25cf Help translate product requirements into user stories and technical solutions\u25cf Deliver highly available and scalable services in a production environment\u25cf Mentor other engineers, support the technological culture, and help grow theteam\u25cf Write, test, and deploy efficient, scalable code to production that impactsmillions of individuals\u25cf Communicate with project leads, product managers, and other softwaredevelopers\u25cf Participating in code and design reviews\u25cf Becoming domain experts on aspects of the payment processing industryWhat you\u2019ll need:\u25cf Bachelor's Degree in Computer Science or related field.\u25cf 1-5 years of programming experience in Python.\u25cf Hands-on experience with self-testing code (unit tests) and building systems.\u25cf Emerging ability to lead and influence a team's technical direction\u25cf Hands-on experience with database and cloud technologies\u25cf Emerging ability to design resilient software components within a distributedsystem.\u25cf Our core stack is Python, migrating from system software in C, and legacyPHP in some places; as part of our move to the cloud, we\u2019re runningKubernetes, and AWS technologies like EKS/Lambda/RDS/Aurora/Dynamo",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:46:45-05:00",
+        "unique_id": "192bf48c426fc8e7",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

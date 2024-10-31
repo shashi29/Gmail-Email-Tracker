@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Magicforce",
+        "job_title": "GCP Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1+ Year",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "StreamSets",
+                "Azure Data Factory",
+                ".NET",
+                "Python",
+                "Kafka",
+                "Snowflake",
+                "MongoDB",
+                "FHIR"
+            ],
+            "primary": [
+                "API Gateway management",
+                "ETL tools",
+                "Healthcare interoperability",
+                "Data pipelines",
+                "Event streaming services"
+            ],
+            "secondary": [
+                "Healthcare payor systems",
+                "HIPAA",
+                "HL7 V2/V3",
+                "ADT",
+                "CCDA"
+            ],
+            "all": [
+                "GCP",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "StreamSets",
+                "Azure Data Factory",
+                ".NET",
+                "Python",
+                "Kafka",
+                "Snowflake",
+                "MongoDB",
+                "FHIR",
+                "API Gateway management",
+                "ETL tools",
+                "Healthcare interoperability",
+                "Data pipelines",
+                "Event streaming services",
+                "Healthcare payor systems",
+                "HIPAA",
+                "HL7 V2/V3",
+                "ADT",
+                "CCDA"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Praveen Kumar",
+        "email": "praveen@magicforce.us",
+        "jd": "From: Praveen Kumar, Magicforce praveen@magicforce.us Reply to: praveen@magicforce.us Job Title: GCP Data EngineerLocation: RemoteDuration: 1+ YearJob Description:Mandatory skills:\u2022Expertise in working with multiple cloud infrastructures, including 50% on GCP, 25% on Azure, and 25% on-premises setups.\u2022Strong understanding of container orchestration K8s, Docker\u2022Proven experience with StreamSets, Azure Data Factory, and related ETL tools including Databricks\u2022Proficiency in managing API development primarily using .NET and familiarity with Python.\u2022API Gateway management (e.g., Apigee, Datapower).\u2022Hands-on experience with streaming technologies like Kafka and StreamSets.\u2022Expertise in databases such as Snowflake, MongoDB, and FHIR servers (Firely, Azure FHIR).\u2022Understanding of Firely and Azure FHIR services.Good to have skills:Familiarity with healthcare payor systems and regulatory standards such as HIPAA etc. Knowledge of Programming languages such Dot Net, Python and standards such as, HL7 V2/V3, ADT, FHIR, and CCDA. Experience with other cloud services related to GCP and Azure ecosystems.Responsibilities: -We are seeking a highly skilled and experienced Lead Data\\Cloud Engineer to join our healthcare interoperability platform team. The ideal candidate will possess a strong background in data engineering, cloud infrastructure (primarily GCP and Azure), ETL processes, and API development. This role requires expertise in managing and optimizing data pipelines and working seamlessly across multiple cloud and on-premises infrastructures.The Lead Data\\Cloud Engineer will play a pivotal role in designing and implementing a robust, scalable, and secure data infrastructure to support interoperability solutions in the healthcare domain, interacting with numerous internal and external applications, ensuring compliance Healthcare standards such as CDEX, UDAP and integrating applications using relevant healthcare protocols such as FHIR, CCDA, HL7 etc.\u2022Design, build, and maintain scalable data pipelines using StreamSets, Azure Data Factory, and possibly related services on GCP.\u2022Work seamlessly across a multi-cloud environment, with 50% of infrastructure on GCP, 25% on Azure, and 25% on-premises.\u2022Manage and optimize API development within the .NET environment, and to a lesser extent, Python.\u2022Develop and maintain event streaming services using Kafka and StreamSets.\u2022Administer and work with databases including Snowflake, MongoDB, and FHIR servers (Firely and Azure FHIR).\u2022Ensure compliance with healthcare data standards such as UDAP, CDEX, FHIR, HL7, and ADT.\u2022Collaborate with cross-functional teams to gather requirements and deliver tailored data solutions that meet business and healthcare regulatory needs.\u2022Implement API Gateways using tools like Apigee and Datapower.\u2022Provide technical leadership and mentorship to junior data engineers.\u2022Monitor, troubleshoot, and optimize the performance and scalability of data solutions.\u2022Stay updated with the latest trends and technologies in healthcare interoperability and cloud services",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:41:23-05:00",
+        "unique_id": "192908c08ffd0f9d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

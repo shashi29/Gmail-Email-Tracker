@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Cloud Think Tech Inc.",
+        "job_title": "Databricks / Python Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor's degree in computer science, computer engineering, a related field, or equivalent experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Python",
+                "SQL",
+                "PySpark",
+                "Azure Data Factory"
+            ],
+            "primary": [
+                "Apache Spark",
+                "Azure Cloud infrastructure",
+                "ETL tools",
+                "Agile",
+                "TDD",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Snowflake",
+                "graph databases",
+                "Kafka",
+                "Elastic Search"
+            ],
+            "all": [
+                "Databricks",
+                "Python",
+                "SQL",
+                "PySpark",
+                "Azure Data Factory",
+                "Apache Spark",
+                "Azure Cloud infrastructure",
+                "ETL tools",
+                "Agile",
+                "TDD",
+                "CI/CD",
+                "Snowflake",
+                "graph databases",
+                "Kafka",
+                "Elastic Search"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Saurabh Rai",
+        "email": "saurabh@cloudthinktech.com",
+        "jd": "From: Saurabh Rai, Cloud Think Tech Inc. saurabh@cloudthinktech.com Reply to: saurabh@cloudthinktech.com ONLY USC and GCOfficial Title/Assigned Title: Databricks / Python EngineerDirect Hire/Contract/Contract to hire: Contract (12 months) Job Description Databricks / Python EngineerWe are looking for a savvy Databricks / Python Engineer to join our growing team of analytics experts. The person will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will develop and support a broad range of software capabilities including building data pipelines, managing the ETL/ELT processes, receiving, and delivering data through various interfaces, and processing significant amounts of data related to railcar movements, railcar liability, and financial calculations. The right candidate will be excited by the prospect of optimizing or even re-designing our company\u2019s data architecture to support our next generation of products and data initiatives.Databricks / Python Engineer ResponsibilitiesTo perform this job successfully an individual must be able to perform the following essential duties satisfactorily. Other duties may be assigned to address business needs and changing business practices.Participate as a member of an Agile team developing Data Engineering solutions.Engage in requirements gathering and technical design discussions to meet business needs.Design and develop generic, scalable data pipelines in Azure Data factory and Databricks with python for on-prem and cloud data sources.Assemble large, complex sets of data that meet non-functional and functional business requirements.Leverage your curiosity for solving unstructured data problems and ability to manipulate and optimize large data sets to advance business problem-solving.Contribute to documentation, testing and cross-training of other team members.Work closely with others to assist and resolve production issues.Databricks / Python Engineer QualificationsBachelor's degree in computer science, computer engineering, a related field, or equivalent experience.5+ years of data engineering or equivalent experience.5+ years of hands-on experience in developing and deploying data architecture strategies or engineering practices.5+ years of experience with complex SQL queries and knowledge of database technologies.Expert-level coding experience with PySpark and Python.Expert-level technical experience with Apache Spark / Azure Databricks.Proficient in using and designing solutions on Azure Cloud infrastructure (particularly Azure Data Factory) and Azure DevOps.Proficient with core business intelligence and data warehousing technology.Proficient designing and developing data integration solutions using ETL tools such as Azure Data Factory and/or SSIS.Proficient with software development practices such as Agile, TDD, and CI/CD.Ability to collaborate and communicate professionally, both verbally and in writing, at all levels of the organization, particularly bridging conversations between data and business stakeholders.Preferred QualificationsExperience with Snowflake.Experience with graph databases or graph libraries.Kafka or other streaming technologies.Elastic Search.Experience in the rail or other commodities driven industry.",
+        "source": "Email",
+        "date_posted": "2024-10-21 15:34:55-05:00",
+        "unique_id": "192b126682b20710",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

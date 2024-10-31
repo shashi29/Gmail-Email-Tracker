@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Yochana IT Solutions",
+        "job_title": "SQL DBA with MarkLogic",
+        "location": "Branchville, NJ, USA",
+        "full_location": {
+            "city": "Branchville",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "Padmavathi Vindeepu",
+            "email": "padmavathi@yochana.com"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "MarkLogic",
+                "Netezza"
+            ],
+            "primary": [
+                "Database Design",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Data Integrity",
+                "Backup and Recovery",
+                "Automation",
+                "Collaboration",
+                "XQuery Optimization",
+                "Data Management"
+            ],
+            "secondary": [
+                "Security Management",
+                "User Roles",
+                "ETL Operations"
+            ],
+            "all": [
+                "SQL",
+                "MarkLogic",
+                "Netezza",
+                "Database Design",
+                "Performance Tuning",
+                "Troubleshooting",
+                "Data Integrity",
+                "Backup and Recovery",
+                "Automation",
+                "Collaboration",
+                "XQuery Optimization",
+                "Data Management",
+                "Security Management",
+                "User Roles",
+                "ETL Operations"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "jd": "Hello,\nI hope you are doing great.\nThis is Padmavathi from Yochana IT Solutions, we have an urgent requirement with one of our clients, please go through the requirement below and let me know your interest. You can forward this opportunity to your friends or colleagues; so that we can help someone who may be desperately looking for opportunities. I sincerely appreciate your time.\n\nTitle : SQL DBA with MarkLogic\nLocation : Branchville, NJ (Hybrid)(Local preferred)\n\nAn L3 role typically involves advanced-level responsibilities, including resolving complex issues, overseeing system stability, and providing expert guidance. Here's a breakdown based on specifications for SQL (70%), MarkLogic (20%):\n\n1. SQL Database Design and Optimization:\n   - Designing efficient database schemas, indexing strategies, and query optimization to improve performance.\n   - Performance Tuning: Monitoring and optimizing the performance of SQL queries, stored procedures, and overall database health.\n   - Troubleshooting: Handling escalated issues from L2 support, including complex SQL errors, deadlocks, and data inconsistencies.\n   - Data Integrity and Security: Implementing security measures, such as access controls and encryption, ensuring data integrity and compliance with standards.\n   - Backup and Recovery: Managing and maintaining database backups, ensuring disaster recovery processes are in place.\n   - Automation: Creating and maintaining scripts for database tasks, including backups, monitoring, and alerts.\n   - Collaboration: Working with development teams to optimize database interactions and provide guidance on best practices.\n\n2. MarkLogic Database Administration:\n   - Managing the MarkLogic NoSQL database, including installation, configuration, and upgrading.\n   - Query Optimization: Optimizing XQuery and search performance in MarkLogic, ensuring efficient data retrieval.\n   - Data Management: Managing document-based data structures, indexing, and retrieval, ensuring the system handles large-scale data efficiently.\n   - Troubleshooting and Maintenance: Handling escalated MarkLogic-specific issues, including performance bottlenecks and system failures.\n   - Security: Managing security features like user roles, permissions, and encryption in MarkLogic.\n\n3. Netezza System Administration:\n   - Administering the Netezza appliance, including system health checks, upgrades, and maintenance.\n   - Performance Tuning: Optimizing Netezza-specific SQL queries, particularly those involving large datasets.\n   - Troubleshooting: Handling escalated issues specific to the Netezza environment, such as performance lags or database errors.\n   - Data Load Management: Overseeing data load processes to ensure efficient ETL operations.\n\nAcross these platforms, L3 support will involve advanced troubleshooting, handling escalations, and ensuring overall system performance, reliability, and security. Additionally, the L3 professional would likely be responsible for mentoring junior team members and staying up-to-date with evolving technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:23:47-05:00",
+        "unique_id": "192de0f844e2d5a8",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Vyzeinc",
+        "job_title": "Python Developer with Cloud Experience",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Azure Cloud",
+                "Pytest",
+                "Ansible Automation Platform",
+                "Terraform"
+            ],
+            "primary": [
+                "Automated Testing",
+                "Infrastructure as Code",
+                "Troubleshooting",
+                "Azure Services",
+                "Documentation"
+            ],
+            "secondary": [
+                "Azure Solutions Architect",
+                "Azure DevOps Engineer",
+                "Ansible Automation Platform",
+                "Azure Gov experience",
+                "OpenSearch"
+            ],
+            "all": [
+                "Python",
+                "Azure Cloud",
+                "Pytest",
+                "Ansible Automation Platform",
+                "Terraform",
+                "Automated Testing",
+                "Infrastructure as Code",
+                "Troubleshooting",
+                "Azure Services",
+                "Documentation",
+                "Azure Solutions Architect",
+                "Azure DevOps Engineer",
+                "Ansible Automation Platform",
+                "Azure Gov experience",
+                "OpenSearch"
+            ],
+            "with_experience": [
+                "Python (5+ years)",
+                "Azure Cloud",
+                "Pytest",
+                "Ansible Automation Platform",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Aditya Tiwari",
+        "email": "aditya.tiwari@vyzeinc.com",
+        "jd": "From: Aditya Tiwari, Vyzeinc aditya.tiwari@vyzeinc.com Reply to: aditya.tiwari@vyzeinc.com Python Developer with Cloud Experience.. Duration : 6+ Months Location : Remote (EST or CST)Visa : US Citizen ONLYStart : ASAPCandidates are encouraged to have any of the \u201cPreferred Skills\u201d, but the experience testing their own code and using Pytest is the top requirement (outside of developing in an Azure cloud environment). About the role: The Azure Platform Engineering team is responsible developing and implementing policies and updates to the Azure infrastructure that make it possible for applications across the organization to work in-sync with Azure. To improve those efforts and broaden their capabilities, they are looking to bring in a Python Developer to make key upgrades to the Azure platform. This resource will work hands-on with the PyTest framework and use their coding expertise to develop automated testing. Requirements: 5+ years of experience as a Python Developer in an Azure Cloud EnvironmentHands-on experience with the Python Pytest framework for developing automated testingHands-on experience with the Ansible Automation Platform experience (AAP) to prepare code for deploymentDevelopment experience with Terraform for Infrastructure as CodeAbility to read, troubleshoot, and improve existing Python codeExperience with Azure cloud services and architectures Preferred Skills: Certifications: Azure Solutions Architect, Azure DevOps Engineer, Ansible Automation PlatformAzure Gov experienceExperience with OpenSearch tool Responsibilities: Troubleshoot and optimize Python code used in the deployment processWriting tests in the PyTest frameworkManage the end-to-end release process for Azure Platform and application team landing zonesQuickly learn and master the current release process (Ansible, Terraform, Python), while continuously identifying areas for improvementDevelop, maintain, and enhance the current Ansible playbooks for automated deploymentsDevelop, maintain, and enhance Terraform code used in the deploymentCreate and maintain comprehensive documentation for all release procedures and actions takenParticipate in on-call rotations to support production deployments and troubleshoot issues Warm regardsAditya TiwariTechnical Recruiter VYZE INCAddress:24718 Tribe Square #306, Dulles VA 20166Email: aditya.tiwari@vyzeinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-18 11:38:08-05:00",
+        "unique_id": "192a126e48ac455c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

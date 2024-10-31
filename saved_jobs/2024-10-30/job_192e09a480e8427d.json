@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Cloudingest",
+        "job_title": "Oracle DBA with SAP backgroung",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle",
+                "SAP",
+                "MS SQL Server",
+                "DB2",
+                "Teradata"
+            ],
+            "primary": [
+                "Database installation",
+                "Database configuration",
+                "Backup and recovery",
+                "Performance tuning",
+                "RAC administration",
+                "Database security"
+            ],
+            "secondary": [
+                "AIX",
+                "Linux",
+                "UNIX",
+                "Shell scripting",
+                "SQL troubleshooting",
+                "Query optimization",
+                "Database audit",
+                "SOX controls"
+            ],
+            "all": [
+                "Oracle",
+                "SAP",
+                "MS SQL Server",
+                "DB2",
+                "Teradata",
+                "Database installation",
+                "Database configuration",
+                "Backup and recovery",
+                "Performance tuning",
+                "RAC administration",
+                "Database security",
+                "AIX",
+                "Linux",
+                "UNIX",
+                "Shell scripting",
+                "SQL troubleshooting",
+                "Query optimization",
+                "Database audit",
+                "SOX controls"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Manohar",
+        "email": "manohar@cloudingest.com",
+        "jd": "Title: Oracle DBA with SAP backgroung\nLocation: Remote\nExperience: 15+ years\n\nRoles and Responsibilities\nDesigns, develops, and supports applications using products like Oracle, MS SQL Server, DB2 and Teradata would fall under this role. Basic tasks include Installation and configuration of Databases, back up, restoring databases, setting up High Availability, Disaster recovery, performance tuning, RAC administration etc.\n\nAdminister and troubleshoot complex Oracle database systems in SAP environment.\nProvide Development and Production support for SAP Oracle databases monitoring and maintenance using SAP BR Tools.\nResponsible for installing/upgrading and maintaining the database software, building storage structures, setting up user accounts, troubleshooting, producing backups, and regularly managing database security.\nMonitor and optimize performance of the database, plan for backup and recovery of the database, and allocate system storage and plan future storage needs.\nTroubleshoot and resolve database-related issues to contribute to continuous improvements.\nSQL troubleshooting, tuning and query optimization.\nDevelop, implement, and manage database security policies and procedures to guarantee a seamless and successful flow of activities.\nAdvanced understanding of database backup and recovery and performance monitoring requirements.\nKnowledge of Oracle Real Application Clusters (RAC), ASM, OEM and Active Data Guard.\nLarge table Partitioning, table re-organization and performing objects optimization.\nDatabase, schema and table refreshes from production to staging environment.\nAIX/Linux/UNIX experience, shell scripting for setup monitoring alerts, system health check.\nWork closely with Development team members to guarantee database operation and integrity.\nCreate database-related scripts and programs to support development and production environments.\nDR drill activities, restore point creations.\nResponsible for database Audit tasks and SOX controls.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:28:10-05:00",
+        "unique_id": "192e09a480e8427d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

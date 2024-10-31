@@ -1,0 +1,58 @@
+[
+    {
+        "company": "ItechUS",
+        "job_title": "Sr Java Full Stack Developer",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's in Computer Science or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices"
+            ],
+            "primary": [
+                "Angular",
+                "React"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Angular",
+                "React"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mahender",
+        "email": "mahender@itechus.net",
+        "jd": "From: Mahender, ItechUS mahender@itechus.net Reply to: mahender@itechus.net Sr Java Full Stack DeveloperLocation: McLean, VA (Onsite) \u2013 Please share the local profiles Only Duration: 12 months Description: \u2022 10+ years \u2022 Spring boot and Microservices\u2022 Angular or React Required Education: At least a bachelor\u2019s degree( or equivalent experience) in Computer Science, Software/Electronics engineering, Information Systems, or closely related field is required.",
+        "source": "Email",
+        "date_posted": "2024-10-14 14:27:51-05:00",
+        "unique_id": "1928cf5984437611",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

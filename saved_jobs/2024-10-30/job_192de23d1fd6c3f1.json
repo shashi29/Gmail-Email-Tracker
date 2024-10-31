@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Capgemini/LPL",
+        "job_title": ".Net Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ASP.Net Core",
+                "C#",
+                "Angular",
+                "AWS Lambda",
+                "AWS RDS Postgres",
+                "AWS EKS Cluster",
+                "CI/CD"
+            ],
+            "primary": [],
+            "secondary": [
+                "Good communication and interpersonal skills"
+            ],
+            "all": [
+                "ASP.Net Core",
+                "C#",
+                "Angular",
+                "AWS Lambda",
+                "AWS RDS Postgres",
+                "AWS EKS Cluster",
+                "CI/CD",
+                "Good communication and interpersonal skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Krish Kumar",
+        "email": "krish@codersamerica.com",
+        "jd": "Position: .Net Developer\n\nLocation: Charlotte, NC\n\nDuration: Long term\n\nClient: Capgemini/LPL\n\nJob Description:\nRequired Skillset:\n- ASP.Net Core Web API: Extensive experience in designing and developing RESTful APIs using ASP.Net Core.\n- C#.Net: Strong proficiency in C# and .Net framework, with a deep understanding of object-oriented programming principles.\n- Angular: Proficient in Angular for front-end development, with a solid understanding of TypeScript, HTML, and CSS.\n- AWS Lambda: Experience in building and deploying serverless applications using AWS Lambda.\n- AWS RDS Postgres: Proficiency in managing and optimizing PostgreSQL databases in AWS RDS.\n- AWS EKS Cluster: Hands-on experience with Kubernetes and managing containerized applications in AWS EKS.\n- CI/CD: Experience with continuous integration and continuous deployment practices and tools.\n\n* Good communication and interpersonal skills.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:21:54-05:00",
+        "unique_id": "192de23d1fd6c3f1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

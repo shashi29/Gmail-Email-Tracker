@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Agama Consulting Group",
+        "job_title": "Sr. Data Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PySpark",
+                "Scala",
+                "GCP",
+                "Airflow"
+            ],
+            "primary": [
+                "Spark",
+                "DataProc",
+                "Composer",
+                "BQ",
+                "Monitoring",
+                "Alerts"
+            ],
+            "secondary": [
+                "Automation of Pipelines",
+                "Grafana"
+            ],
+            "all": [
+                "PySpark",
+                "Scala",
+                "GCP",
+                "Airflow",
+                "Spark",
+                "DataProc",
+                "Composer",
+                "BQ",
+                "Monitoring",
+                "Alerts",
+                "Automation of Pipelines",
+                "Grafana"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Deepsikha",
+        "email": "deepsikha@agamaamerica.com",
+        "jd": "From: Deepsikha, Agama Consulting Group deepsikha@agamaamerica.com Reply to: deepsikha@agamaamerica.com HI,Hope you are doing well.Please let me know your interest in the below role-Role: Sr. Data EngineerLocation: Charlotte, NC 28203 (2 days Onsite a week, locals)Duration: 12 months contractVisa: No H1B,No CPT & NO TNInterview: In-PersonLinkedIn ProfileResume must be in 6 pages MAXListing the ResponsibilitiesPySParkScalaAutomation of PipelinesAirflow/AutosysSparkMonitoring/AlertsGCP DataProc/Composer/BQData modelling Must haves:10+ years of Data Engineering8+ years of PySpark/Scala7 years of Scala5+ years of experience hosting application on GCPScala, PySpark, Spark, GCP (DataProc/Composer/BQ), Airflow, Grafana Thank you,Deepsikha Deepsikha@agamaamerica.comAgama Consulting Group | Irving, Texas 75062",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:14:51-05:00",
+        "unique_id": "192c5da68f61f427",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

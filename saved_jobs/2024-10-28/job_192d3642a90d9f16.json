@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Yochana IT Solutions",
+        "job_title": "GCP Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Python",
+                "PySpark",
+                "SQL"
+            ],
+            "primary": [
+                "Kafka",
+                "Shell scripting",
+                "Data warehouse",
+                "Distributed data platforms",
+                "Data lake",
+                "CI/CD pipeline"
+            ],
+            "secondary": [
+                "Database definition",
+                "Schema design",
+                "Looker Views",
+                "Models"
+            ],
+            "all": [
+                "GCP",
+                "Python",
+                "PySpark",
+                "SQL",
+                "Kafka",
+                "Shell scripting",
+                "Data warehouse",
+                "Distributed data platforms",
+                "Data lake",
+                "CI/CD pipeline",
+                "Database definition",
+                "Schema design",
+                "Looker Views",
+                "Models"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Malavika",
+        "email": "malavika@yochana.com",
+        "jd": "From: Malavika, Yochana malavika@yochana.com Reply to: malavika@yochana.com Hi,This is Malavika from Yochana IT Solutions, I Recently found your resume in one of our Job portal and We are looking for GCP Data Engineer(Onsite)\u201dwith one of our client, I have included the job information below, If you are interested, please share your updated resume. Role: GCP Data Engineer Location: Remote (C2C)Note: Need Financial domain experience and local to CA or near by locationJob Description:GCP cloud platform \u2013 GCS, Big Query, Streaming (pub/sub), data process and data flowPython, PYSpark, Kafka, SQL, shell scripting & Stored processData warehouse, distributed data platforms and data lakeDatabase definition, schema design, Looker Views, ModelsCI/CD pipelineProven track record in scripting code in Python, PySpark and SQL Thanks & Regards,Malavika,Resource Specialist,Yochana IT Solutions INC,Farmington Hills, MI,malavika@yochana.com Join the Referral Revolution of Yochana by Sharing, Earning, and Empowering! Ask us about our rewarding referral program.Note: If you are not interested in receiving our e-mails then please reply with subject line",
+        "source": "Email",
+        "date_posted": "2024-10-28 08:15:09-05:00",
+        "unique_id": "192d3642a90d9f16",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

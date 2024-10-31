@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Senior Python Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 month contract to hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "Azure Databricks",
+                "Azure Functions",
+                "Unit Tests"
+            ],
+            "primary": [
+                "Containerization",
+                "Azure App Service",
+                "Azure Containers",
+                "Agile methodologies"
+            ],
+            "secondary": [
+                "Documentation",
+                "User authentication",
+                "Authorization",
+                "Collaboration",
+                "Communication"
+            ],
+            "all": [
+                "Python",
+                "Django",
+                "Azure Databricks",
+                "Azure Functions",
+                "Unit Tests",
+                "Containerization",
+                "Azure App Service",
+                "Azure Containers",
+                "Agile methodologies",
+                "Documentation",
+                "User authentication",
+                "Authorization",
+                "Collaboration",
+                "Communication"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "jatin parashar",
+        "email": "jparashar@vyzeinc.com",
+        "jd": "From: jatin parashar, Vyze Inc jparashar@vyzeinc.com Reply to: jparashar@vyzeinc.com Job Description Title: Senior Python Developer with DjangoDuration: 6 month contract to hire MOI: F2FLocation: Charlotte, NC or Jersey City, NJ | only Local | Hybrid Minimum 11+ CandidateResponsibilities\u2022 Develop highly scalable applications in Python/Django framework.\u2022 Experience in Azure Databricks workspace environment to create notebooks, integrate with external repos, setup jobs and working with Delta Lake Storage\u2022 Create and deploy applications in azure environment with various interconnected azure components (Functions, App Service, Containers etc.).\u2022 Identify and fix bottlenecks that may arise from inefficient code.\u2022 Knowledge of user authentication and authorization between multiple systems, servers and environments.\u2022 Ensure that programs are written to the highest standards (e.g., Unit Tests) and technical specifications.\u2022 Documentation of the key aspects of the project.\u2022 Ability to collaborate on projects and work independently when required.\u2022 Preferable: Containerization of the application using AKS/AROQualifications\u2022 10+ years of prior experience as a developer in the required technologies\u2022 Solid organizational skills, ability to multi-task across different projects\u2022 Experience with Agile methodologies\u2022 Skilled at independently researching topics using all means available to discover relevant information.\u2022 Ability to work in a team environment.\u2022 Excellent verbal and written communication skills\u2022 Self-starter with ability to multi-task and to maintain momentum.",
+        "source": "Email",
+        "date_posted": "2024-10-17 10:38:42-05:00",
+        "unique_id": "1929b4349666ce47",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

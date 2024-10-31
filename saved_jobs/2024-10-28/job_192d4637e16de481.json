@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Data Business System Analyst",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "Databricks",
+                "Logical data modeling",
+                "ETL/ELT tools"
+            ],
+            "primary": [
+                "Data cataloging",
+                "Data management",
+                "Requirements management",
+                "Metadata management"
+            ],
+            "secondary": [
+                "Apache Airflow",
+                "Scala",
+                "Java"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "Databricks",
+                "Logical data modeling",
+                "ETL/ELT tools",
+                "Data cataloging",
+                "Data management",
+                "Requirements management",
+                "Metadata management",
+                "Apache Airflow",
+                "Scala",
+                "Java"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "saravanaraj",
+        "email": "saravanaraj@smartitframe.com",
+        "jd": "From: saravanaraj, Smartitframe saravanaraj@smartitframe.com Reply to: saravanaraj@smartitframe.com Hi , Greeting from Smart IT Frame, Below is the great opportunity. Please have a look, if you are interested, please drop me your updated resume along with your contact information ASAP. In case you are not available please feel free to pass on this email to your friends or colleagues who might be interested. Role : Data Business System AnalystLocation: 100% Remote - EST work hoursDuration: Long term JD: Work Mode: Job DescriptionCollaborate with business leaders to define requirements and priorities and to proactively understand and update metric logic and definitionDevelop technical requirements (e.g., aggregation level, granularity) based on metrics established by business teamsDesign logical data model and orchestration requirementsOwn and manage logical data model for the Enterprise Analytics team in tandem with ingestion and curation leadsOversee data catalog entries and enforce data cataloging rulesManage access controls for end data productsManage change requests to the structure, definitions and/or security of identified data objectsCommunicate with the Business Data System Owner and Business Data Steward on metric updatesAct as escalation point for Data Quality Analysts when defined processes are insufficient to resolve issuesBring 3+ years of experience in data engineering or data analysisHave hands-on experience with and understanding of the following:SQLPython or other programming languageDatabricks or other cloud data management platformTechnical and business data catalogingLogical data modeling, including experience designing logical data modelsETL/ELT tools such as Apache AirflowData dictionary developmentBring proven experience in data management, requirements management, and metadata management Skills: Databricks-SparkSQL-Scala/Python/Java",
+        "source": "Email",
+        "date_posted": "2024-10-28 11:12:46-05:00",
+        "unique_id": "192d4637e16de481",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

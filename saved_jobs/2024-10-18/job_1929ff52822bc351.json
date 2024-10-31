@@ -1,0 +1,78 @@
+[
+    {
+        "company": "WinWire",
+        "job_title": "Senior Technical Lead with AWS Cloud",
+        "location": "Alameda, CA, USA",
+        "full_location": {
+            "city": "Alameda",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud",
+                "API Design",
+                "API Development",
+                "AWS API Gateway",
+                "AWS Lambda"
+            ],
+            "primary": [
+                "Python",
+                "Okta",
+                "CSRF",
+                "Access tokens",
+                "AWS well architected framework"
+            ],
+            "secondary": [
+                "Team bonding",
+                "Collaboration",
+                "Communication skills",
+                "Performance tuning",
+                "Security measures"
+            ],
+            "all": [
+                "AWS Cloud",
+                "API Design",
+                "API Development",
+                "AWS API Gateway",
+                "AWS Lambda",
+                "Python",
+                "Okta",
+                "CSRF",
+                "Access tokens",
+                "AWS well architected framework",
+                "Team bonding",
+                "Collaboration",
+                "Communication skills",
+                "Performance tuning",
+                "Security measures"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "pankaj",
+        "email": "pankaj@heliogic.com",
+        "jd": "From: pankaj, heliogic pankaj@heliogic.com Reply to: pankaj@heliogic.com API Architect / Senior Technical Lead with AWS CloudDirect-Hire with WinWireAlameda, CA 94502 (Onsite)As an API / Solutions Architect, you will be responsible for designing, developing, and maintaining complex API solutions that meet the requirements as well as adhere to established architectural principles, standards, and patterns. Collaborate closely with cloud engineering platform team to work on API, DevOps tools and with software developers, system architects, product managers, stakeholders, to ensure APIs are robust, scalable, and secure. 5 years AWS Cloud experience and AWS API Gateway, AWS Lambda. Able to write AWS Lambda functions using Python. Team bonding and strong collaboration, communication skills. Key Responsibilities:API Design and Development \u2013\u2013 Lead the design, development of APIs that enable integration between various AWS components; Define API standards, best practices and guidelines to ensure consistency across APIsArchitectural Guidance \u2013\u2013 Provide reviews on present AWS architecture implementation; Provide technical leadership and guidance on API architecture, design decisions, and implementation strategies; Collaborate with solution architects and development teams to integrate API solutions into larger systems or platformsTechnologies and Frameworks \u2013\u2013 Use of Okta for authentication make use of CSRF and Access tokens; Knowledge of AWS well architected framework pillarsPerformance and Scalability \u2013\u2013 Design APIs with a focus on performance, scalability, reliability and security; Conduct performance tuning and optimization of APIs to handle high traffic and large volumes of data.Security & Compliance \u2013\u2013 Implement security measures such as authentication, authorization, encryption, and data protection mechanisms in APIs; Understand AWS SSO API working and cross role working across accountsContinuous Improvement \u2013\u2013 Stay updated on emerging technologies, industry trends, and best practices related to APIs and integration; Drive initiatives for continuous improvement of API development processes, tools, and methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-18 08:30:43-05:00",
+        "unique_id": "1929ff52822bc351",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Vyzeinc",
+        "job_title": "Full Stack Java Engineer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Springboot",
+                "Microservices"
+            ],
+            "primary": [
+                "Front-end development",
+                "Back-end development",
+                "Payment/online banking software",
+                "Communication skills",
+                "Mobile development"
+            ],
+            "secondary": [
+                "Private equity"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Springboot",
+                "Microservices",
+                "Front-end development",
+                "Back-end development",
+                "Payment/online banking software",
+                "Communication skills",
+                "Mobile development",
+                "Private equity"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Roshan",
+        "email": "roshan@vyzeinc.com",
+        "jd": "Job Description -Position: Full Stack Java EngineerLocation: New York City, NYC ( Only Local )Interview: MS Teams video Project Length: 12+ monthsRequired Skillsets:Must have at least 12 years of professional experience using the below skills:At least 8 years of experience in Java developmentMust have at least 8 years of AWS experienceEspecially strong in Springboot and Microservices)Must be excellent in front-end languages and developmentMust be excellent in back-end languages and developmentStrong experience working with a payment/online banking related software project/applicationStrong experience working at banking companiesGreat communication skillsExperience working with mobile development team Experience with private equity",
+        "source": "Email",
+        "date_posted": "2024-10-25 23:32:01-05:00",
+        "unique_id": "192c7389a83b23e9",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

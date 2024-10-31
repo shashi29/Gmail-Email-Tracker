@@ -1,0 +1,101 @@
+[
+    {
+        "company": "HCL",
+        "job_title": "AWS Cloud Architect",
+        "location": "Oregon, USA",
+        "full_location": {
+            "city": "Oregon",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS services",
+                "Snowflake administration",
+                "AWS security best practices",
+                "MLOps tools",
+                "Scripting (Python, Bash)"
+            ],
+            "primary": [
+                "IAM",
+                "EC2",
+                "S3",
+                "RDS",
+                "SageMaker",
+                "Terraform",
+                "CloudFormation",
+                "CI/CD pipelines",
+                "Git",
+                "Jenkins",
+                "GitLab CI"
+            ],
+            "secondary": [
+                "Docker",
+                "Kubernetes",
+                "Monitoring tools",
+                "LLM Ops",
+                "Problem-solving",
+                "Critical thinking",
+                "Collaboration"
+            ],
+            "all": [
+                "AWS services",
+                "Snowflake administration",
+                "AWS security best practices",
+                "MLOps tools",
+                "Scripting (Python, Bash)",
+                "IAM",
+                "EC2",
+                "S3",
+                "RDS",
+                "SageMaker",
+                "Terraform",
+                "CloudFormation",
+                "CI/CD pipelines",
+                "Git",
+                "Jenkins",
+                "GitLab CI",
+                "Docker",
+                "Kubernetes",
+                "Monitoring tools",
+                "LLM Ops",
+                "Problem-solving",
+                "Critical thinking",
+                "Collaboration"
+            ],
+            "with_experience": [
+                "AWS services",
+                "Snowflake administration",
+                "AWS security best practices",
+                "MLOps tools"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Prashant",
+        "email": "prashant@intellectt.com",
+        "jd": "Hi,AWS Cloud ArchitectOregonOnsite Contract Role (Local Highly Preferable)Working with HCLNEED PP NO. FOR ALL CANDIDATE || NO GC AFTER 2020Job Description:Key Responsibilities:Architect, design, and develop solutions for product or sustenance delivery, ensuring alignment with client needs and industry standards.Manage and optimize AWS cloud infrastructure and Snowflake data warehouse environments, ensuring security, performance, scalability, and reliability.Implement and maintain AWS IAM security policies, best practices, and compliance standards.Conduct regular vulnerability assessments and manage patching processes for cloud and data environments.Design and implement MLOps pipelines to streamline model development, deployment, and monitoring for efficiency.Develop automation scripts and workflows to enhance cloud operations and data processes, improving productivity and reliability.Troubleshoot and resolve complex issues across AWS, Snowflake, and machine learning environments.Collaborate with data scientists, engineers, and cross-functional teams to enhance machine learning model deployment and performance.Develop and implement disaster recovery and business continuity plans, ensuring minimal downtime and risk.Train and mentor team members to ensure technical proficiency, knowledge of new technologies, and risk mitigation.Prepare and deliver technical solutions based on domain expertise, ensuring client satisfaction and solution quality.Required Skills and Qualifications:Proven experience as an AWS Cloud Administrator and Snowflake Administrator.In-depth knowledge of AWS services, including IAM, EC2, S3, RDS, and SageMaker.Strong understanding of Snowflake architecture and administration.Expertise in AWS security best practices, vulnerability management, and patching in cloud environments.Proficiency in MLOps tools and practices (e.g., MLflow, Kubeflow, Amazon SageMaker).Strong scripting and automation skills (Python, Bash) and familiarity with Infrastructure as Code (IaC) tools like Terraform or CloudFormation.Experience with CI/CD pipelines and version control systems (e.g., Git, Jenkins, GitLab CI).Excellent problem-solving, critical thinking, and troubleshooting skills.Strong communication and collaboration abilities with cross-functional teams.Relevant certifications (e.g., AWS Certified Solutions Architect, Snowflake SnowPro Core).Preferred Qualifications:Familiarity with containerization technologies like Docker and Kubernetes.Experience with monitoring and observability tools.Experience with LLM Ops (Large Language Models Operations) is a plus.Additional Responsibilities:Ensure continuous knowledge upgrades by working with new technologies to meet quality standards and client requirements.Mitigate delivery risks through proper training and team development.Gather and analyze client specifications to deliver tailored solutions.",
+        "source": "Email",
+        "date_posted": "2024-10-11 10:02:33-05:00",
+        "unique_id": "1927c5913deb972a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

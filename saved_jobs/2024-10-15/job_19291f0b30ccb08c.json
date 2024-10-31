@@ -1,0 +1,76 @@
+[
+    {
+        "company": "TCS",
+        "job_title": "Oracle Pl/Sql Developer",
+        "location": "Irvine, CA, USA",
+        "full_location": {
+            "city": "Irvine",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "9+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "SQL",
+                "Database Design",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "Oracle Explain Plan",
+                "SQL Trace",
+                "Data Manipulation",
+                "Testing",
+                "Debugging"
+            ],
+            "secondary": [
+                "Documentation",
+                "Collaboration",
+                "Security Management",
+                "Integration",
+                "Continuous Learning"
+            ],
+            "all": [
+                "PL/SQL",
+                "SQL",
+                "Database Design",
+                "Performance Tuning",
+                "Oracle Explain Plan",
+                "SQL Trace",
+                "Data Manipulation",
+                "Testing",
+                "Debugging",
+                "Documentation",
+                "Collaboration",
+                "Security Management",
+                "Integration",
+                "Continuous Learning"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pavan Yantrapati",
+        "email": "pavan.y@itechus.net",
+        "jd": "Hello,Hope you are doing Good !!Please find the below requirement for Oracle Pl/SQL Developer. Would you be interested please share me updated resume to proceed further. Position: Oracle Pl/Sql DeveloperLocation: Irvine, CA (Onsite) Duration: 9+ months Contract Client: TCS Roles and Responsibilities:Database Design and Development:- Design and implement database structures, including tables, views, and indexes.Develop PL/SQL procedures, functions, and packages to encapsulate business logic.Performance Tuning:Optimize SQL queries and PL/SQL code for performance.Analyse and resolve performance issues using tools like Oracle Explain Plan and SQL Trace.Data Manipulation:Write complex SQL queries to retrieve, insert, update, and delete data.Use PL/SQL to automate data processing tasks.Testing and Debugging:Conduct unit testing of PL/SQL code to ensure functionality and reliability.Debug and troubleshoot PL/SQL programs, identifying and fixing issues.Documentation:Maintain comprehensive documentation of database designs, PL/SQL code, and procedures.Create user manuals and technical documentation for future reference.Collaboration:Work closely with database administrators, application developers, and business analysts to gather requirements.Participate in code reviews and provide constructive feedback to peers.Maintenance and Support:Monitor database performance and make recommendations for improvements.Provide support for production issues and assist in system upgrades.Security Management:Implement security measures to protect sensitive data and ensure compliance with regulations.Manage user roles and permissions within the database.Integration:Integrate with other systems and applications, ensuring smooth data flow and communication.Use tools and technologies such as Oracle Forms, Oracle Reports, or APEX for front-end development.Continuous Learning:Stay updated with the latest Oracle technologies and PL/SQL features. Participate in training sessions and workshops to enhance skills.",
+        "source": "Email",
+        "date_posted": "2024-10-15 15:13:09-05:00",
+        "unique_id": "19291f0b30ccb08c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

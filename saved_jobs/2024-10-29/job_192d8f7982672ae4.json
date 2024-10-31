@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Involgix Inc",
+        "job_title": "Lead / Sr. Big Data Engineer",
+        "location": "Ashburn, VA, USA",
+        "full_location": {
+            "city": "Ashburn",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Hadoop",
+                "Spark",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "Scala",
+                "GCP",
+                "Batch Streaming",
+                "Real-time streaming data pipelines",
+                "Tech Lead"
+            ],
+            "secondary": [
+                "Hadoop fundamental concepts",
+                "CI/CD"
+            ],
+            "all": [
+                "Hadoop",
+                "Spark",
+                "Python",
+                "SQL",
+                "Scala",
+                "GCP",
+                "Batch Streaming",
+                "Real-time streaming data pipelines",
+                "Tech Lead",
+                "Hadoop fundamental concepts",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Albert",
+        "email": "albert@involgix.com",
+        "jd": "From: Albert, Involgix Inc albert@involgix.com Reply to: albert@involgix.com Position: Lead / Sr. Big Data Engineer Hiring Type: Contract Note: Need to take Onsite Interview locations: Ashburn, VA Irving, Texas Alpharetta, Georgia Boston, Massachusetts Job Description: Big data expert with 9+ years\u2019 experience in Hadoop Big data ecosystem Spark - Batch Streaming (Python, Scala) Experience in cloud environment specially GCP Experience in developing both batch and real-time streaming data pipelines Have experience as a Tech Lead for data engineering projects Python Scripting Expertise in SQL Good to have: Hadoop fundamental concepts CI/CD",
+        "source": "Email",
+        "date_posted": "2024-10-29 09:45:15-05:00",
+        "unique_id": "192d8f7982672ae4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

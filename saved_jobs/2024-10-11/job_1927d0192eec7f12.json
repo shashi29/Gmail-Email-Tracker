@@ -1,0 +1,91 @@
+[
+    {
+        "company": "GAC Solutions",
+        "job_title": "Sr Python Full stack developer",
+        "location": "Texas City, TX, USA",
+        "full_location": {
+            "city": "Texas City",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "React",
+                "Angular",
+                "Vue",
+                "Django",
+                "Flask",
+                "FastAPI"
+            ],
+            "primary": [
+                "AI/ML models",
+                "Generative AI models",
+                "CI/CD pipelines",
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Git"
+            ],
+            "secondary": [
+                "Infrastructure as code (IaC)",
+                "Ansible",
+                "Code reviews",
+                "Collaborative development workflows"
+            ],
+            "all": [
+                "Python",
+                "React",
+                "Angular",
+                "Vue",
+                "Django",
+                "Flask",
+                "FastAPI",
+                "AI/ML models",
+                "Generative AI models",
+                "CI/CD pipelines",
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Git",
+                "Infrastructure as code (IaC)",
+                "Ansible",
+                "Code reviews",
+                "Collaborative development workflows"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kiran Nagani",
+        "email": "kiran@gacsol.com",
+        "jd": "Hello,Hope you are doing well, This is Kiran from \u201cGAC Solutions\u201d . I have an excellent job opportunity with one of our clients. Please find the job description below. Role: Sr Python Full stack developerLocation: Texas City, TX \u2013 HybridDuration: 6+ Months Job description: Design, develop, and maintain responsive and dynamic web applications using Python and modern front-end frameworks (e.g., React, Angular, Vue).Implement robust back-end services and RESTful APIs using Python (Django, Flask, FastAPI).Build reusable, testable, and efficient code for both front-end and back-end systems.Develop, deploy, and manage AI/ML models, including Generative AI models (GPT, DALL-E, etc.), to solve business problems.Work with data scientists to integrate AI/ML models into production environments.Fine-tune models, manage version control, and monitor performance in production systems.Develop and maintain CI/CD pipelines for automating model deployment and web application releases.Implement DevOps best practices for infrastructure as code (IaC) using tools like Docker, Kubernetes, and Terraform.Manage cloud infrastructure (AWS, GCP, Azure) for AI/ML model hosting and application deployment.Monitor system performance and automate scaling strategies using DevOps tools.Work closely with cross-functional teams, including data scientists, ML engineers, and UI/UX designers, to ensure seamless integration of AI/ML solutions.Participate in code reviews and contribute to best practices in development and deployment.Familiarity with containerization, orchestration, and infrastructure automation tools (Terraform, Ansible).Understanding of version control systems (Git) and collaborative development workflows.Bachelor\u2019s or Master\u2019s degree in Computer Science, Engineering, or related field.8+ years of experience in full stack development using Python and front-end frameworks (React, Angular, Vue, etc.).",
+        "source": "Email",
+        "date_posted": "2024-10-11 13:39:22-05:00",
+        "unique_id": "1927d0192eec7f12",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

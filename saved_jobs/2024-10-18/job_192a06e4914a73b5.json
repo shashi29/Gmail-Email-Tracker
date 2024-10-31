@@ -1,0 +1,58 @@
+[
+    {
+        "company": "Propelsys",
+        "job_title": "Technical Project Manager",
+        "location": "Louisville, KY, USA",
+        "full_location": {
+            "city": "Louisville",
+            "state": "KY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Python",
+                "Exceptional Communication skills"
+            ],
+            "primary": [
+                "Healthcare"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Python",
+                "Exceptional Communication skills",
+                "Healthcare"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Asha Jyothi",
+        "email": "asha@propelsys.com",
+        "jd": "From: Asha Jyothi, Propelsys asha@propelsys.com Reply to: asha@propelsys.com Role: Technical Project Manager(Azure)Location: Louisville, KY(Hybrid) Highlighted skills neededLooking for a Technical Project Manager who has good experience working primarily on Azure projects.Exceptional Communication skills is a must haveHealthcare is a must have. Job Description:We are seeking an experienced IT Project Manager with a strong background in Azure services, specifically Azure Data Factory (ADF), Azure Databricks, and Python, to join our team.The ideal candidate will have significant experience in the healthcare data engineering space, managing projects that involve complex data integration and analytics.The successful candidate will be responsible for leading and managing projects, ensuring successful delivery within scope, timeline, and budget, while also facilitating agile practices and methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-18 10:45:08-05:00",
+        "unique_id": "192a06e4914a73b5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

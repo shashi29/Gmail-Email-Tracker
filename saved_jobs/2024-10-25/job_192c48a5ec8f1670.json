@@ -1,0 +1,112 @@
+[
+    {
+        "company": "Sydata Inc",
+        "job_title": "Lead Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "San Diego",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "$65/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "GCP cloud platform",
+                "Python",
+                "PySpark",
+                "SQL",
+                "Kafka"
+            ],
+            "primary": [
+                "Data warehouse",
+                "Distributed data platforms",
+                "Data lake",
+                "CI/CD pipeline",
+                "Data ingestion",
+                "Data quality",
+                "Data transformation",
+                "Data reconciliation"
+            ],
+            "secondary": [
+                "Shell scripting",
+                "Stored procedures",
+                "Database definition",
+                "Schema design",
+                "Looker Views",
+                "Models",
+                "Technical design documentation",
+                "Performance tuning",
+                "Project management",
+                "Cross-functional team coordination",
+                "Code reviews",
+                "Quality assurance processes",
+                "Technical guidance"
+            ],
+            "all": [
+                "GCP cloud platform",
+                "GCS",
+                "Big Query",
+                "Streaming (pub/sub)",
+                "Data proc",
+                "Data flow",
+                "Python",
+                "PySpark",
+                "Kafka",
+                "SQL",
+                "Shell scripting",
+                "Stored procedures",
+                "Data warehouse",
+                "Distributed data platforms",
+                "Data lake",
+                "Database definition",
+                "Schema design",
+                "Looker Views",
+                "Models",
+                "CI/CD pipeline",
+                "Data ingestion",
+                "Data quality",
+                "Data transformation",
+                "Data reconciliation",
+                "Technical design documentation",
+                "Performance tuning",
+                "Project management",
+                "Cross-functional team coordination",
+                "Code reviews",
+                "Quality assurance processes",
+                "Technical guidance"
+            ],
+            "with_experience": [
+                "GCP cloud platform",
+                "Python (15+ years)",
+                "PySpark (15+ years)",
+                "SQL (15+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Shobhana Kulhade",
+        "email": "shobhana@sydatainc.com",
+        "jd": "Immediate need Lead Data Engineer with using GCP cloud Platform Remote Role Lead Data Engineer with using GCP cloud Platform.Remote Role6+ MonthsRate $65/hr on C2C Skills:GCP cloud platform \u2013 GCS, Big Query, Streaming (pub/sub), data proc and data flowPython, PYSpark, Kafka, SQL, shell scripting & Stored procsData warehouse, distributed data platforms and data lakeDatabase definition, schema design, Looker Views, ModelsCI/CD pipelineProven track record in scripting code in Python, PySpark and SQL Job Description : Should have overall 15+ years with Lead skillAbility to design and develop a high performance data pipeline framework from scratch Data ingestion across systemsData quality and curationData transformation and efficient data storageData reconciliation, monitoring and controlsSupport reporting model and other downstream application needsSkill in technical design documentation, data modeling and performance tuning applicationsLead and manage a team of data engineers, contribute towards code reviews, and guide the team in designing and developing convoluted data pipelines adhering to the defined standards.Be hands on, performs POCs on the open source licensed tools in the market and share recommendations.Provide technical leadership and contribute to the definition, development, integration, test, documentation and support across multiple platforms (GCP, Python, HANA)Establish a consistent project management framework and develop processes to deliver high quality software, in rapid iterations, for the business partners in multiple geographiesParticipate in a team that designs, develops, troubleshoots, and debugs software programs for databases, applications, tools etc.Experience in balancing production platform stability, feature delivery and reduction of technical debt across a broad landscape of technologies.Skill in the following platform, tools and technologiesGCP cloud platform GCS, Big Query, Streaming (pubsub), data proc and data flow Python, PySpark, Kafka, SQL, shell scripting Stored procsData warehouse, distributed data platforms and data lakeDatabase definition, schema design, Looker Views, Models CICD pipeline Proven track record in scripting code in Python, PySpark and SQLExcellent structured thinking skills, with the ability to break down multi-dimensional problemsAbility to navigate ambiguity and work in a fast-moving environment with multiple stakeholders Good communication skills and ability to coordinate and work with cross functional teams. To be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity. To conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization , implementation of best practices and coding standards to ensure succeful delivery of complex projects. To ensure process compliance in the assigned module, and participate in technical discussionsorreview as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations). To collaborate with stakeholders to define project scope, objectives, deliverables and accordingly prepare and submit status reports for minimizing exposure and closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:02:26-05:00",
+        "unique_id": "192c48a5ec8f1670",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

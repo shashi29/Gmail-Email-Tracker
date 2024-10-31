@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Vyze1 inc",
+        "job_title": "Fullstack Java Developer",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Fullstack",
+                "Angular",
+                "React",
+                "Hibernate",
+                "RESTful Webservices",
+                "Microservices",
+                "JSON"
+            ],
+            "primary": [
+                "MongoDB",
+                "GIT",
+                "Jenkins",
+                "Docker",
+                "Agile environment",
+                "Spring services"
+            ],
+            "secondary": [],
+            "all": [
+                "Fullstack",
+                "Angular",
+                "React",
+                "Hibernate",
+                "RESTful Webservices",
+                "Microservices",
+                "JSON",
+                "MongoDB",
+                "GIT",
+                "Jenkins",
+                "Docker",
+                "Agile environment",
+                "Spring services"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sam",
+        "email": "slenka@vyzeinc.com",
+        "jd": "From: Sam, Vyze1 inc slenka@vyzeinc.com Reply to: slenka@vyzeinc.com Job Description -Title: Fullstack Java DeveloperLocation: Parsippany NJ (Must already be local & able to work hybrid 2-3days/wk)Visa: USC/GC ONLY Require F2F INTERVIEW MUST HAVE:-NEED SOMEONE WITH PRIOR ADP WORKING EXPERIENCE AS THEY WILL MOVE TO THE TOP OF THE LIST & LIKELY GET THE JOB- Fullstack (70% Backend | 30% Frontend)- Large enterprise application design experience (big companies)- Angular, React, Hibernate- RESTful Webservices, Microservices, JSON- MongoDB, GIT, Jenkins, Docker (CI/CD) -Agile environment- Spring services",
+        "source": "Email",
+        "date_posted": "2024-10-23 16:37:52-05:00",
+        "unique_id": "192bba51f8f04140",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

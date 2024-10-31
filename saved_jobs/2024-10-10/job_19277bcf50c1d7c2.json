@@ -1,0 +1,77 @@
+[
+    {
+        "company": "ERP MARK",
+        "job_title": "Sr. Data Engineer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Services",
+                "Databricks",
+                "SQL",
+                "Snowflake"
+            ],
+            "primary": [
+                "Python",
+                "Azure Data Factory",
+                "GitLab",
+                "Data Modeling",
+                "Data Analysis",
+                "Test Automation"
+            ],
+            "secondary": [
+                "CI/CD Pipeline",
+                "DevOps practices",
+                "Agile fundamentals",
+                "Jira"
+            ],
+            "all": [
+                "Azure Services",
+                "Databricks",
+                "SQL",
+                "Snowflake",
+                "Python",
+                "Azure Data Factory",
+                "GitLab",
+                "Data Modeling",
+                "Data Analysis",
+                "Test Automation",
+                "CI/CD Pipeline",
+                "DevOps practices",
+                "Agile fundamentals",
+                "Jira"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Asha",
+        "email": "asha@erpmark.com",
+        "jd": "From: Asha, ERP MARK asha@erpmark.com Reply to: asha@erpmark.com Job Title: Sr. Data engineers/architects strong in Azure Services, Databricks, SQL and SnowflakeLocation: TX, Atlanta, GA (Onsite 3 days) - RemoteDuration: Contract Job Description: Skill Set Rating Azure ServicesAzure DataBricksPythonAzure Data FactoryGitLabData ModelingData AnalysisTest AutomationSQLSnowflake We are looking for a Sr. Data Engineer/Data Architect who is self-driven, can lead a team of Data engineers working on an Onshore-Offshore model collaborating with customer SMEs. Job responsibilities - \u2022 Design, build and deploy efficient & reliable data pipelines to move and transform data\u2022 Optimize existing pipelines and maintenance of all source-related data pipelines\u2022 Support on-call shift as needed to support the team\u2022 Build and Deploy extensive data quality checks to ensure high quality of data\u2022 Build high-performance scalable data warehouses and data products\u2022 Partner with leadership, engineers, product managers and data scientists to understand data needs.\u2022 Improve existing data movement frameworks and add more features\u2022 Extreme focus on automation\u2022 Expert level SQL skills\u2022 Data Modeling\u2022 CI/CD Pipeline and DevOps practices\u2022 Agile fundamentals\u2022 Prior use of Jira and GitLab",
+        "source": "Email",
+        "date_posted": "2024-10-10 13:06:17-05:00",
+        "unique_id": "19277bcf50c1d7c2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

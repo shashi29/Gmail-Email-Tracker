@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Key Infotek",
+        "job_title": "Sr. PostgreSQL DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PostgreSQL",
+                "Aurora",
+                "Dynamo DB",
+                "SQL Server",
+                "Azure Synapse",
+                "Redshift"
+            ],
+            "primary": [
+                "Database Operations",
+                "Database Performance Tuning",
+                "High Availability",
+                "Data Replication",
+                "Agile/Scrum"
+            ],
+            "secondary": [
+                "Documentation",
+                "Troubleshooting",
+                "Software Patches",
+                "On-call Rotation"
+            ],
+            "all": [
+                "PostgreSQL",
+                "Aurora",
+                "Dynamo DB",
+                "SQL Server",
+                "Azure Synapse",
+                "Redshift",
+                "Database Operations",
+                "Database Performance Tuning",
+                "High Availability",
+                "Data Replication",
+                "Agile/Scrum",
+                "Documentation",
+                "Troubleshooting",
+                "Software Patches",
+                "On-call Rotation"
+            ],
+            "with_experience": [
+                "PostgreSQL",
+                "Aurora",
+                "Dynamo DB"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ashi",
+        "email": "ashi@keyinfotek.com",
+        "jd": "From: Ashi, Key Infotek ashi@keyinfotek.com Reply to: ashi@keyinfotek.com Location: Remote \u2022. Design and Setup DR for cloud databases - Aurora PostgreSQL Global, Dynamo DB etc..\u2022 Setup the data replication from/to PostgreSQL/Aurora to Data Lake, Sqlserver, Azure Synapse, Redshift etc.Prioritize work based on the project needs and work effectively with minimum supervision. \u2022 Manage, Monitor, Troubleshoot Database Operations, Optimize database performance, tuning.\u2022 Implement high availability, replication, and cluster on databases.\u2022 Database refreshes in on-prem and cloud.\u2022 Support application release deployment and perform data fixes.\u2022 Working with the application team to rewrite the Stored Procedures. \u2022 Troubleshooting performance issues in real time.\u2022 Work in a globally distributed team in an Agile/Scrum approach\u2022 Provide routine status reports to leadership and escalate as necessary.\u2022 Maintain Service Levels and department goals for problem resolution. \u2022 Follow security stands and effectively manage software patches and upgrades.\u2022 Utilize best practices, standard procedures.\u2022 Write and maintain clear documentation.\u2022 Ensure 24x7 availability for critical database systems hosted \u201con premise\u201d and on AWS & Azure Cloud.\u2022 Be available to participate in 24x7 on-call rotation for the team.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:37:01-05:00",
+        "unique_id": "192b047b478a30e0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

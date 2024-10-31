@@ -1,0 +1,77 @@
+[
+    {
+        "company": "kk soft tech",
+        "job_title": "Sr. Cloud Architect \u2013 DBA",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Database automation in AWS",
+                "RDS",
+                "Oracle",
+                "Postgres",
+                "Database management"
+            ],
+            "primary": [
+                "High performance database solutions",
+                "Data standards",
+                "Capacity planning",
+                "Data life-cycle management",
+                "Automation processes"
+            ],
+            "secondary": [
+                "Troubleshooting",
+                "Documentation",
+                "Mentoring",
+                "Performance tuning",
+                "Disaster recovery"
+            ],
+            "all": [
+                "Database automation in AWS",
+                "RDS",
+                "Oracle",
+                "Postgres",
+                "Database management",
+                "High performance database solutions",
+                "Data standards",
+                "Capacity planning",
+                "Data life-cycle management",
+                "Automation processes",
+                "Troubleshooting",
+                "Documentation",
+                "Mentoring",
+                "Performance tuning",
+                "Disaster recovery"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sushant kumar",
+        "email": "sushant.s@kksoftwareassociates.com",
+        "jd": "From: sushant kumar, kk soft tech sushant.s@kksoftwareassociates.com Reply to: sushant.s@kksoftwareassociates.com Sr. Cloud Architect \u2013 DBA Location: Atlanta/GADay 1 Onsite Who are we looking for?Qualifications:-Database automation in AWS with RDS . Preferable: Oracle /Postgres*Creating and maintaining high performance, scalable, and stable database solutions.Work with customer, deployment squads, and product management to identify and document use case scenarios.Lead on all data solution aspects including setting data standards and providing your deep technical expertise todevelopment teams for best practices, systems, and architectures.Design databases solutions that are highly available and meet disaster recovery requirements.Design effective data store solutions that account for effective capacity planning, data tiering, and data life-cycle managementDesign, Develop and maintain automated systems for process for AWS Cloud based products and services.Troubleshoot issues with automations and ensure efficient solutions.Collaborate with team members for effective and efficient automations.Evaluate existing automation process and identify area of improvement.Monitor and validate performance and functionality of the automated processes to ensure the objectives of automation are met.Develop and maintain documentation for the automated processes and ensure knowledge transfer.Mentor other team members on new technologies and automation process.Work with QA to create detailed test plans and needed tooling to account targeted performance for production volume dataEnsure the successful delivery of solutions, training, and documentation, internally and with customersRecommend solutions to improve new and existing database systems.Participate in code reviews and create documentation for engineering and cross-functional practices.Work with cross-functional teams to ensure end-to-end technical and business viability.Learn new database technologies as necessary.Responsibilities :The Database Administrator is responsible for data analysis and database management. Database Administrators typically are involved in maintenance, enhancement, designing of data dictionaries, physical and logical database models, and performance tuning. Database Administrators are also responsible for understanding, configuring, and managing database administration tools. Provides database support for business applications and schedules back up jobs for user databases. -Provides access control (password resets /account creation/deletion) and checks IP compliance (violation report review, compliance updates and compliance set ups). Performs data purging and data replication activities. -Researches on connectivity issues and recurring errors in Application database. Responds to database s and takes appropriate actions. -Provides escalation Level 1 and 2 Technical 24x7 support. -Performs database creations. Performs performance tuning and troubleshooting for database. -Performs application database maintenance and provides technical assistance to users. -Manages database account access and database object changes. -Ensures that monitoring and s are properly in place to meet monitoring requirements. -Performs application database and OS scripting.Reviews Information Protection compliance reports and notifications for individual databases and internal processes (including compliance updates and compliance set ups). -Performs data purging and data replication activities-Performs database recovery from logs, hot & cold backups, Export/Imports and Disaster Recovery. -Performs database creation decommissioning and database updates/migrations to a higher/lower version or cross platform migrations. Also involved in database, schema, and object refresh activities. -Monitors and reports existing database Instance, Database, Server activities for CPU, Memory, and Cach, logs performance, and recommends effective resource utilization/emergency recovery proceduresProvides Escalation Level 2 Technical 24x7 support. -Performs Business Continuity/Disaster Recovery activities during Business Continuity Plan events. Plans, schedules, and implements operating system software installs and patches (including 3rd party tools) using change management and release management processes. -Implements database security and auditing features and periodic reviews. Conducts root cause analysis for repeated incidents. -Performs heterogeneous database interface deployment and support for various data interfaces with applications, Middleware interface and functionality deployment with database architecture. Plans and develops processes for database updates and migrations to a higher/lower version or cross platform migrations. Also, involved in database, schema and object refresh activities. Develops capacity planning processes that include monitoring of existing database Instance, Database, Server activities for CPU, Memory, Cache, Logs performance and recommends effective utilization of resources and emergency recovery procedures. -Conducts team training and responsible for resource management. -Provides escalation Level 2 and 3 Technical 24x7 support. Provides Business Continuity Planning/Disaster Recovery support. -Researches new technologies to address operations reliability and compliance. -implement's and performs configuration management of database cluster and replications..",
+        "source": "Email",
+        "date_posted": "2024-10-16 08:21:45-05:00",
+        "unique_id": "19295b57ee70f953",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

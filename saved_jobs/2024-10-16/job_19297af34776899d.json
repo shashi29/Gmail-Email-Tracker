@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Java Lead with Camunda",
+        "location": "Nashville, TN, USA",
+        "full_location": {
+            "city": "Nashville",
+            "state": "TN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Camunda",
+                "Spring",
+                "Hibernate"
+            ],
+            "primary": [
+                "React",
+                "PostgreSQL",
+                "CI/CD",
+                "Git",
+                "Unix/Linux"
+            ],
+            "secondary": [
+                "Advanced Java Concepts"
+            ],
+            "all": [
+                "Java",
+                "Camunda",
+                "Spring",
+                "Hibernate",
+                "React",
+                "PostgreSQL",
+                "CI/CD",
+                "Git",
+                "Unix/Linux",
+                "Advanced Java Concepts"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sawan Kumar",
+        "email": "sawan@smartitframe.com",
+        "jd": "From: Sawan Kumar, Smart IT Frame sawan@smartitframe.com Reply to: sawan@smartitframe.com Job Position: Java Lead with Camunda Job Location: Nashville, TN 12 months contract Job Description : Java Developer Resources: Strong programming skills in Java with proficiency in Camunda Experience with Java frameworks such as Spring and Hibernate Familiarity with web development frameworks (React) Familiarity with distributed storage systems like PostgreSQL Familiarity with continuous integration and continuous deployment (CI/CD) pipelines especially using Git Working knowledge of Unix/Linux experience Advanced Java Concepts Must have in Java : Camunda, Spring Boot, ReactJS, PostgreSQL",
+        "source": "Email",
+        "date_posted": "2024-10-16 17:00:19-05:00",
+        "unique_id": "19297af34776899d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "ETL Glue Developer",
+        "location": "North Palm Beach, FL, USA",
+        "full_location": {
+            "city": "North Palm Beach",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10-12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Glue ETL",
+                "Database and SQL",
+                "AWS"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "AWS Glue ETL",
+                "Database and SQL",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sarath Kumar",
+        "email": "sarathkumar@centraprise.com",
+        "jd": "Hello, Hiring for ETL Glue Developer\nLocation : First 2 weeks onsite client location and then every month 1 week client location (700 Universe Blvd North Palm Beach, FL 33408)\nRequired Skills: Database and SQL, AWS Glue ETL, AWS\nJob summary: We are seeking a highly skilled ETL Glue Developer/Engineer with 10 to 12 years of experience to join our team. The ideal candidate will have expertise in AWS, Database and SQL, and AWS Glue ETL. The candidate will be responsible for developing and maintaining data solutions that support our companys objectives and contribute to impactful societal outcomes.\nResponsibilities\nDevelop and maintain geospatial data solutions using AWS services to support company objectives. Oversee the integration of geospatial data into existing databases and ensure data accuracy and consistency. Provide expertise in SQL to query and manipulate geospatial data for various applications. Utilize AWS Glue ETL to automate data extraction, transformation, and loading processes. Collaborate with cross-functional teams to understand data requirements and deliver solutions. Implement best practices for data management, including data security and privacy. Conduct regular data quality assessments and implement improvements as needed. Create and maintain documentation for data processes and workflows. Monitor and optimize the performance of geospatial data systems. Provide technical support and troubleshooting for data-related issues. Stay updated with the latest trends and technologies in data and AWS services. Contribute to the development of data-driven insights that support decision-making processes. Ensure compliance with industry standards and regulations for data management.\nQualifications: Possess a strong background in AWS services, including AWS Glue ETL.",
+        "source": "Email",
+        "date_posted": "2024-10-16 15:34:29-05:00",
+        "unique_id": "192972a8d9500f5a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

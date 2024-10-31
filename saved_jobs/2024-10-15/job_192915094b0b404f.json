@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Intelligenzit",
+        "job_title": "PEGA LSA",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PEGA",
+                "J2EE",
+                "XML",
+                "JAVA"
+            ],
+            "primary": [
+                "JavaScript",
+                "CSS",
+                "HTML5",
+                "PRPC architecture",
+                "service interfaces"
+            ],
+            "secondary": [
+                "troubleshooting",
+                "functional design",
+                "class hierarchy",
+                "object models",
+                "test strategy",
+                "best practices"
+            ],
+            "all": [
+                "PEGA",
+                "J2EE",
+                "XML",
+                "JAVA",
+                "JavaScript",
+                "CSS",
+                "HTML5",
+                "PRPC architecture",
+                "service interfaces",
+                "troubleshooting",
+                "functional design",
+                "class hierarchy",
+                "object models",
+                "test strategy",
+                "best practices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Aruna Kumari",
+        "email": "aruna.kumari@intelligenzit.com",
+        "jd": "From: Aruna kumari, Intelligenzit aruna.kumari@intelligenzit.com Reply to: aruna.kumari@intelligenzit.com Job Title \u2013 PEGA LSALocation \u2013 Dallas, TX (only locals to TX)Duration \u2013 Contract Job Description Certified LSAMin 8+ years of Exp in implementing PEGA projectsExperience in designing and architecting PEGA solutionsEngage with customer SME / Architect and understand pain areas / project requirementsExpert knowledge of the PRPC architecture, security model, and service interfaces.Experience in full PRPC implementation cycleExperience in with J2EE, XML, and JAVA. Knowledge of web technologies including JavaScript, CSS, HTML5, and XML.Create functional Design, Construct Class Hierarchy and Object Models, Define Test StrategyDerive and enforce best practices in PEGA architecture / design / codingAbility to troubleshoot complex software issues.",
+        "source": "Email",
+        "date_posted": "2024-10-15 12:18:15-05:00",
+        "unique_id": "192915094b0b404f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "PEGA Developer"
+    }
+]

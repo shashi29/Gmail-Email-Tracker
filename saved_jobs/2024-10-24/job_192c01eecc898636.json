@@ -1,0 +1,71 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": ".Net Developer with Azure Power Bi exp",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                ".NET Core",
+                "Azure",
+                "SQL Server",
+                "Power BI"
+            ],
+            "primary": [
+                "SSIS",
+                "ADF",
+                "ADO CI/CD"
+            ],
+            "secondary": [
+                "Big Data",
+                "Hadoop",
+                "Spark",
+                "HD Insights"
+            ],
+            "all": [
+                ".NET",
+                ".NET Core",
+                "Azure",
+                "SQL Server",
+                "Power BI",
+                "SSIS",
+                "ADF",
+                "ADO CI/CD",
+                "Big Data",
+                "Hadoop",
+                "Spark",
+                "HD Insights"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rajiv",
+        "email": "rajiv.kumar@testingxperts.com",
+        "jd": "From: Rajiv, testingxperts rajiv.kumar@testingxperts.com Reply to: rajiv.kumar@testingxperts.com Role - .Net Developer with Azure Power Bi exp(Fully Remote)Number of role - 1Location \u2013 USA RemoteJDStrong experience developing .net/. Net Core based API servicesStrong experience deploying applications to Azure using ADO CI/cdStrong Microsoft BI analytics experience with SQL Server/Azure SQL, Power BI and SSIS/ADFGood to have experience or knowledge of Big Data, Hadoop, Spark, HD Insights",
+        "source": "Email",
+        "date_posted": "2024-10-24 14:26:13-05:00",
+        "unique_id": "192c01eecc898636",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

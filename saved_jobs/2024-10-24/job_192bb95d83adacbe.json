@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Vyzeinc",
+        "job_title": "Sr. Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "SQL"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Kafka",
+                "Redis",
+                "PostgreSQL",
+                "S3"
+            ],
+            "secondary": [
+                "TypeScript",
+                "Vue3",
+                "Angular"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "SQL",
+                "Spring Boot",
+                "Kafka",
+                "Redis",
+                "PostgreSQL",
+                "S3",
+                "TypeScript",
+                "Vue3",
+                "Angular"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Roshan",
+        "email": "roshan@vyzeinc.com",
+        "jd": "From: Roshan, Vyzeinc roshan@vyzeinc.com Reply to: roshan@vyzeinc.com Please share a Java developer with experience in Spring, API, and Distributed Systems at roshan@vyzeinc.comJob Title: Sr. Java Developer - Spring/API/Distributed SystemsLocation: New York, NY (Need Local)Duration: 12+ monthsMOI: SkypeJob Description:The company aims to transform how legal professionals conduct research and provide analytics to better serve clients. Our Data Sandbox & Infra team builds scalable, performant systems that store, organize, and categorize large volumes of data. The project involves migrating legacy applications from Oracle to Object Storage systems, ensuring data integrity throughout the transition.Key Responsibilities:Refactor existing code and manage data migrationsBuild APIs and services using Java, Spring Boot, and KafkaCollaborate with cross-functional teams to design data pipelinesTroubleshoot technical issues around performance and scalabilityTechnologies Used:Java, Spring, Spring BootKafka, Redis, PostgreSQL, S3Required Experience:4+ years in software engineering with data-intensive applicationsExpertise in Java, Spring Framework, and SQLPrior experience with microservices and distributed systemsPreferred Experience:Refactoring and replacing legacy applicationsSmooth data migration projectsUI development using TypeScript, Vue3, or AngularPlease send profiles to: roshan@vyzeinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-23 17:18:19-05:00",
+        "unique_id": "192bb95d83adacbe",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Java Full Stack Lead",
+        "location": "McLean, VA, USA",
+        "full_location": {
+            "city": "McLean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "MongoDB"
+            ],
+            "primary": [
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFormation",
+                "API Gateway",
+                "DynamoDB",
+                "CloudWatch",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "CodePipeline",
+                "CodeBuild",
+                "CodeDeploy",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray",
+                "Step Functions",
+                "EBS"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "AWS",
+                "Microservices",
+                "MongoDB",
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudFormation",
+                "API Gateway",
+                "DynamoDB",
+                "CloudWatch",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "CodePipeline",
+                "CodeBuild",
+                "CodeDeploy",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray",
+                "Step Functions",
+                "EBS"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "Manish Kumar",
+        "email": "manish.kumar@scalable-systems.com",
+        "jd": "From: Manish Kumar, Scalable Systems manish.kumar@scalable-systems.com Reply to: manish.kumar@scalable-systems.com Position: Java Full Stack Lead Location: McLean, VAShould be very good in AWS services - EC2, S3, EMR, Lambda, Cloud watch and more.? Java with Microservice ()? Mongo DB experience.? ? ? Design, develop, and deploy web applications using AWS services such as EC2, S3, Lambda, and DynamoDB? Develop and maintain serverless architectures using AWS services such as API Gateway, CloudFormation, and CloudWatch? Create and maintain automated deployment pipelines using AWS CodePipeline and CodeBuild? Design and develop RESTful APIs using AWS API Gateway and Lambda? Develop and maintain automated testing frameworks using AWS services such as CodeBuild and CodeDeploy? Design and develop cloud-native applications using AWS services such as ECS, EKS, and Fargate? Develop and maintain cloud infrastructure using AWS services such as CloudFormation and CloudWatch? Monitor and troubleshoot application performance using AWS services such as CloudWatch and X-Ray? Develop and maintain security best practices for AWS services such as IAM, KMS, and CloudTrail? Develop and maintain CI/CD pipelines using AWS services such as CodePipeline and CodeBuild? Design and develop serverless applications using AWS services such as Lambda and Step Functions? Develop and maintain automated backup and disaster recovery solutions using AWS services such as EBS and S3 Best Regards Manish Kumar Phone - +17327883626 Email ID: manish.kumar@scalable-systems.com Scalable Systems | Inspiring Innovation Big Data | Analytics | Integration | Intelligence www.scalable-systems.com",
+        "source": "Email",
+        "date_posted": "2024-10-17 17:18:27-05:00",
+        "unique_id": "1929cb00f5f08eea",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

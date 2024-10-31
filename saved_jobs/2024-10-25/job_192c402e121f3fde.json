@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Convex Tech Inc",
+        "job_title": ".Net Developer with Argo",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York city",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12-month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Argo",
+                ".Net",
+                "C#"
+            ],
+            "primary": [
+                "Network configuration",
+                "Excellent verbal and written communication skills",
+                "Good time management and organizational skills"
+            ],
+            "secondary": [],
+            "all": [
+                "Argo",
+                ".Net",
+                "C#",
+                "Network configuration",
+                "Excellent verbal and written communication skills",
+                "Good time management and organizational skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Hemant Rawat",
+        "email": "hemant@convextech.com",
+        "jd": "From: Hemant Rawat, convextech hemant@convextech.com Reply to: hemant@convextech.com Title: .Net Developer with ArgoLocation:. New York city, NY (onsite )Duration: 12-month contract .Visa :. USC/GC only. NOTE: DON\u2019T Submit JNTU candidates.JOB DescriptionArgo Developer with 5 years of experience developing in Argo Traditional Client..NetMust have current knowledge in Argo version 6 Development.Must have experience in all aspects of supporting components within Argo Framework.Network configurationExcellent verbal and written communication skills.C# DevelopmentGood time management and organizational skills.",
+        "source": "Email",
+        "date_posted": "2024-10-25 08:33:41-05:00",
+        "unique_id": "192c402e121f3fde",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

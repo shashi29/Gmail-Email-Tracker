@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Largeton INC",
+        "job_title": "Sr. Python Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Highly experienced in Python",
+            "degree_required": "Bachelor\u2019s Degree in Computer Science, Computer/ Software Engineering or similar.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Mongo DB"
+            ],
+            "primary": [
+                "Java",
+                "Devops",
+                "Kafka",
+                "Elasticsearch",
+                "KDB/Q"
+            ],
+            "secondary": [
+                "Agile Methodologies",
+                "Tornado",
+                "Django",
+                "Data Cache"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Mongo DB",
+                "Java",
+                "Devops",
+                "Kafka",
+                "Elasticsearch",
+                "KDB/Q",
+                "Agile Methodologies",
+                "Tornado",
+                "Django",
+                "Data Cache"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Gaurav Kumar",
+        "email": "gaurav.kumar@largeton.us",
+        "jd": "From: Gaurav Kumar, Largeton INC gaurav.kumar@largeton.us Reply to: gaurav.kumar@largeton.us Title: Sr. Python Developer Banking or finance domain exp. Reuired Location: NYC -onsite 5 days a week in office- local with DL only Visa: No h1b/cpt Duration: 12 months MOI: vide0 SQL, Mongo DB, Java, Devops, Kafka, Elasticsearch, KDB/Q Focus point, skills. Sr. Python Developer with Tornado Skills Django Data Cache-in Description: The Portfolio Central team is looking for a highly motivated individual to expand a Portfolio Optimization tool to the Munis Desk. The tool will allow users to provide a list of parameters, inputs, and guidelines to result in the creation of list of bonds optimized for different objectives. The portfolio objectives will be defined within the tool. The tool application will provide Sales and Trading users with the ability of customize and/or create portfolios on behalf of clients by means of an iterative process. Job Responsibilities Designing highly scalable Core and Web applications using best practices. Developing high performance middle tier systems Developing REST services Interact with Business to understand complex business requirements. Translate complex business requirements into robust technical implementation Developing application codes and unit tests Ensuring high performance of applications and providing support. Skills Bachelor\u2019s Degree in Computer Science, Computer/ Software Engineering or similar. Highly experienced in Python Experience in Java preferred. Highly experienced in database technologies: SQL, Mongo DB. Knowledge of Agile Methodologies and Devops practices Knowledge of Kafka, Elasticsearch, KDB/Q preferred.",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:34:10-05:00",
+        "unique_id": "192b00e824cffa05",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Talent Junction",
+        "job_title": "Cloud Developer",
+        "location": "Santa Clara, CA, USA",
+        "full_location": {
+            "city": "Santa Clara",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Kubernetes",
+                "Cloud Architecture"
+            ],
+            "primary": [
+                "Spring Cloud",
+                "RabbitMQ",
+                "Kafka",
+                "NATS",
+                "Redis",
+                "Memcached",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Openstack"
+            ],
+            "secondary": [
+                "OAuth",
+                "OpenID",
+                "SAML",
+                "Critical Thinking",
+                "Problem Solving",
+                "Communication",
+                "Interpersonal Skills"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Kubernetes",
+                "Cloud Architecture",
+                "Spring Cloud",
+                "RabbitMQ",
+                "Kafka",
+                "NATS",
+                "Redis",
+                "Memcached",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Openstack",
+                "OAuth",
+                "OpenID",
+                "SAML",
+                "Critical Thinking",
+                "Problem Solving",
+                "Communication",
+                "Interpersonal Skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naman",
+        "email": "naman@talent-junction.com",
+        "jd": "Hello, Please share profile for below role.Title - Cloud Developer (Java Developer not workable)Linkedin URL is must.Role: Cloud-DeveloperLocation: Santa Clara, CA (Onsite) Job Description: \u202215+ years of experience in software development. (Springboot, SpringCloud)\u2022Deep understanding of software engineering principles and process along with the ability to apply this knowledge to execute projects and optimize development strategies\u2022Strong skills in critical thinking, decision making, problem-solving, and attention to details\u2022Experience with building Cloud vendor agnostic SaaS product.\u2022Experience in Java, Spring boot microservices, deployed as containers in Kubernetes ecosystem.\u2022In depth understanding of micro services architectures, technological familiarity with public/private/hybrid cloud, Openstack, GCE, Kubernetes, AWS\u2022Have deep understanding of building API's/services:\u2022That are built on top of MQ's - RabbitMQ, Kafka, NATS etc.\u2022That uses cache like Redis, Memcached to improve the performance of the platform\u2022That scales to millions of users in a cloud environment like Private cloud, GCP, AWS, Azure, etc.\u2022Good to have OAuth, OpenID, SAML based authentication experience.\u2022Strong written and oral communication and interpersonal skill\u2022In general, the successful candidate needs to be multi-faceted, a clear communicator, identifying risks and clearly communicating inwards as well as upwards. You must be able to work with Geographically diversified teams.Work with a team of engineers to define and evolve the architecture and underlying system design to build the scalable platform of the future. You are highly technical and know how to simplify and articulate designs.Making decisions on cloud characteristics, architecture, scaled services.Partner with product managers, product owners and various stake holders to define problems and explore solutions.Design the new workflows, identify gaps, build efficient flows.Produce software artifacts, write code, deliver high quality software for production consumption.Solicit feedback from a wide range of stakeholders. Provide helpful feedback to other designers.Experience in Java, Spring boot microservices, deployed as containers in Kubernetes ecosystem.\u2022In depth understanding of micro services architectures, technological familiarity with public/private/hybrid cloud, Openstack, GCE, Kubernetes, AWS\u2022Have deep understanding of building API's/services:\u2022That are built on top of MQ's - RabbitMQ, Kafka, NATS etc.",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:10:12-05:00",
+        "unique_id": "192a12a08c33eb49",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

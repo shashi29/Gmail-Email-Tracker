@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Arthur Grand Technologies",
+        "job_title": "AWS Cloud Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Go",
+                "Apache Kafka",
+                "AWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS Fargate, MFTS, SQS/SNS, S3, Route53)"
+            ],
+            "primary": [
+                "Spring Boot",
+                "RESTful API technologies",
+                "Microservices",
+                "DevOps tools (Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, Sonar Qube)",
+                "Infrastructure-as-Code (IaC)",
+                "Environment-as-Code (EaC)",
+                "CloudFormation",
+                "Terraform"
+            ],
+            "secondary": [
+                "Shell scripts",
+                "Gradle",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "Go",
+                "Apache Kafka",
+                "AWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS Fargate, MFTS, SQS/SNS, S3, Route53)",
+                "Spring Boot",
+                "RESTful API technologies",
+                "Microservices",
+                "DevOps tools (Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, Sonar Qube)",
+                "Infrastructure-as-Code (IaC)",
+                "Environment-as-Code (EaC)",
+                "CloudFormation",
+                "Terraform",
+                "Shell scripts",
+                "Gradle",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Teamafrin",
+        "email": "teamafrin@arthurgrand.com",
+        "jd": "From: Team Afrin, Arthur Grand Technologies teamafrin@arthurgrand.com Reply to: teamafrin@arthurgrand.com Position: AWS Cloud EngineerLocation: Plano, TX (Day 1 Onsite)Duration: Contract Mandatory Skills:Java, Python, Go, Apache KafkaJava, Spring Boot, RESTful API technologies/MicroservicesAWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS Fargate, MFTS, SQS/SNS, S3 and Route53) Detailed Job Description:Formal training or certification on software engineering concepts and 10+ years applied experienceHands-on practical experience delivering system design, application development, testing, and operational stabilityAdvanced in one or more programming language(s) - Java, Python, GoA strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practicesDesign and building web environments on AWS, which includes working with services like EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53Advanced in modern technologies such as: Java version 8+, Spring Boot, Restful Microservices, AWS or Cloud Foundry, Kubernetes.Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar QubeExperience and knowledge of writing Infrastructure-as-Code (IaC) and Environment-as-Code (EaC), using tools like CloudFormation or TerraformExperience with high volume, SLA critical applications, and building upon messaging and or event-driven architecturesDeep understanding of financial industry and their IT systems Nice to Have:IaC, EaC & CI/CD, Shell scripts, Gradle, Maven, Jenkins, SpinnakerSplunk, Datadog, Dynatrace. CloudWatch or GrafanaAWS, Terraform & JulAt Arthur Grand Technologies, we value our employees & contractors and strive to provide them with challenging, interesting work, market-relevant benefits, and opportunities for professional growth. If you have the necessary qualifications, and are excited to join a dynamic team, please send your resume to Teamafrin@arthurgrand.com for immediate consideration.Thank you for considering Arthur Grand Technologies. We look forward to hearing from you soon.Best regards,Teamafrin Teamafrin @arthurgrand.comArthur Grand Technologies Incwww.arthurgrand.comArthur Grand Technologies is an Equal Opportunity Employer (including disability/vets)",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:57:26-05:00",
+        "unique_id": "1927c5d67bc3f7d2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Status Neo",
+        "job_title": "Data Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$65/h on C2C"
+        },
+        "skills": {
+            "core": [
+                "ETL tools",
+                "GCP",
+                "Airflow",
+                "Data Modeling",
+                "Python",
+                "GBQ",
+                "SQL"
+            ],
+            "primary": [
+                "Collibra",
+                "Ascend",
+                "Vertex AI",
+                "DBT",
+                "Docker",
+                "GitLab",
+                "Machine Learning",
+                "Oracle",
+                "DB2"
+            ],
+            "secondary": [],
+            "all": [
+                "ETL tools",
+                "GCP",
+                "Airflow",
+                "Data Modeling",
+                "Python",
+                "GBQ",
+                "SQL",
+                "Collibra",
+                "Ascend",
+                "Vertex AI",
+                "DBT",
+                "Docker",
+                "GitLab",
+                "Machine Learning",
+                "Oracle",
+                "DB2"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "jai",
+        "email": "jai@spearstaffing.com",
+        "jd": "From: jai, spear staffing jai@spearstaffing.com Reply to: jai@spearstaffing.com Role: Data Architect100% remote (southern California.)Client: Status NeoRate$65/h on C2C Must Have:\u2022 Any ETL tools, GCP, Airflow, Data Modeling, Python, GBQ, SQL\u2022 Collibra, Ascend, Vertex AI, DBT, Docker, GitLab, Machine Learning, Oracle, DB2 1. Architect and implement scalable, high-performance data warehouse and medallion architectures for analytics and reporting needs.2. Develop or understand the conceptual, logical, and physical data models for both structured and unstructured data, ensuring alignment with business requirements.3. Lead the development of ETL/ELT frameworks and processes to integrate data from various sources into the warehouse and medallion layers.4. Design and implement robust data integration pipelines using tools like GCP Cloud Composer, Airflow, and Informatica.5. Develop and optimize ETL/ELT processes to integrate data from multiple sources into the data warehouse.6. Ensure data integrity, security, and compliance by implementing governance policies, encryption, and access controls.7. Optimize database performance through query tuning, indexing, and storage strategies for maximum efficiency.8. Work closely with data engineers, analysts, and business stakeholders to align architecture with business needs.9. Implement data validation, cleansing, and quality control processes to ensure reliable and accurate data.",
+        "source": "Email",
+        "date_posted": "2024-10-15 13:32:45-05:00",
+        "unique_id": "192920cfa4376e1a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

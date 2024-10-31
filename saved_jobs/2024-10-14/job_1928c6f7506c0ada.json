@@ -1,0 +1,94 @@
+[
+    {
+        "company": "VizonInc",
+        "job_title": "Advanced Data Architect",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "4+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Synapse Analytics",
+                "Azure SQL",
+                "Dedicated SQL Pools",
+                "Data Architecture Design",
+                "T-SQL"
+            ],
+            "primary": [
+                "Data Integration",
+                "ETL Processes",
+                "Data Governance",
+                "Cloud Computing",
+                "Python",
+                "Scala"
+            ],
+            "secondary": [
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "Analytical Skills",
+                "Problem-Solving",
+                "Communication",
+                "Customer Service",
+                "Decision Making",
+                "Flexibility",
+                "Interpersonal Skills",
+                "Leadership",
+                "Team Building"
+            ],
+            "all": [
+                "Azure Synapse Analytics",
+                "Azure SQL",
+                "Dedicated SQL Pools",
+                "Data Architecture Design",
+                "T-SQL",
+                "Data Integration",
+                "ETL Processes",
+                "Data Governance",
+                "Cloud Computing",
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "Analytical Skills",
+                "Problem-Solving",
+                "Communication",
+                "Customer Service",
+                "Decision Making",
+                "Flexibility",
+                "Interpersonal Skills",
+                "Leadership",
+                "Team Building"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kuldeep Sharma",
+        "email": "kuldeep@vizoninc.com",
+        "jd": "From: Kuldeep Sharma, VizonInc kuldeep@vizoninc.com Reply to: kuldeep@vizoninc.com Job Description -Advanced Data Architect Location: Tallahassee, FL Work Mode: OnsiteJob Description: Primary Job Duties and TasksThe activities these candidates will be tasked with include, but are not limited to the following:\u2022 Work with stakeholders and development team to determine project scope and vision, gather and prioritize collected requirements.\u2022 Designing and Implementing Data Architectures: Develop comprehensive data architectures that support the organization\u2019s business goals, using Azure Synapse Analytics, Azure SQL, and other Azure data services.\u2022 Managing Dedicated SQL Pools: Efficiently manage and optimize Dedicated SQL Pools in Synapse to handle large-scale data warehousing and analytics workloads.\u2022 Database Design and Management: Design, implement, and manage databases using Azure SQL and Azure Managed Instance, ensuring high performance, availability, and security.\u2022 Data Integration and ETL Processes: Develop and manage ETL (Extract, Transform, Load) processes using Synapse Pipelines, ensuring efficient data flow from various sources to the data warehouse.\u2022 Data Governance and Cataloging: Implement data governance practices and manage the data catalog to ensure data quality, consistency, and accessibility.\u2022 Building and Maintaining Data Models: Create and maintain data models that accurately represent the data landscape, ensuring they are scalable and optimized for performance.\u2022 Ensuring Data Security and Compliance: Implement and oversee data security measures, ensuring compliance with legal and regulatory standards.\u2022 Maintain procedures manuals and system documentation.\u2022 Research software solutions to support recommendations, analyzing current and future technology trends.These positions are to provide technical guidance and expertise in supporting the department in developing, architecting, and maintaining data, data mappings, and monitoring high-volume complex data transfer processes.Specific Knowledge, Skills, and Abilities (KSAs)The submitted candidate must be able to apply common knowledge, skills, and abilities in the following areas:Minimum Required KSAs:\u2022 4+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance.\u2022 5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.\u2022 4+ years of experience in data architecture design principles, methodologies, and best practices.\u2022 3+ years of experience in data governance principles and compliance requirements related to data security and privacy.\u2022 3+ years of experience in integrating data from various sources and managing large data pipelines.\u2022 2+ years of experience in cloud computing concepts, particularly in Microsoft Azure, including storage solutions and compute capabilities.\u2022 1+ years of Experience with programming languages such as Python or Scala.\u2022 1+ years of experience in Salesforce, Message MQ, and MuleSoft\u2022 Strong analytical and problem-solving skills to address complex data challenges.\u2022 Ability to design and implement robust, scalable, and efficient data architectures.\u2022 Ability to provide excellent customer support; meticulous quality of work and work product.General Knowledge, Skills and Abilities (KSAs)The submitted candidate(s) must be able to apply common knowledge, skills, and abilities in the following areas:1. Communication: Able to clearly convey information, in both written and verbal formats, to individuals or groups in a wide variety of settings (i.e.; project team meetings, management presentations, etc.). Must have the ability to effectively listen and process information provided by others.2. Customer Service: Works well with clients and customers (i.e.; business office, public, or other agencies). Able to assess the needs of the customer, provide information or assistance to satisfy expectations or resolve a problem.3. Decision Making: Makes sound, well-informed, and objective decisions.4. Flexibility: Is open to change, new processes (or process improvement), and new information. Has the ability to adapt in response to new information, changing conditions, or unexpected obstacles. Ability to receive and give constructive criticism and maintain effective work relationships with others.5. Interpersonal: Shows friendliness, courtesy, understanding, and politeness to others.6. Leadership: Motivates, encourages, and challenges others. Can adapt leadership styles in a variety of situations.7. Problem-Solving: Able to identify, evaluate, and use sound judgment to generate and evaluate alternative actions, and make recommendations as accordingly.8. Team Building: Encourages, inspires, and guides others toward accomplishing the common goal.Education and CertificationsEducation: Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience. (Required)Certifications: Microsoft Dynamics 365 Certification (Desired) and MS Dynamics Power Platform Certifications (Desired)",
+        "source": "Email",
+        "date_posted": "2024-10-14 13:33:50-05:00",
+        "unique_id": "1928c6f7506c0ada",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

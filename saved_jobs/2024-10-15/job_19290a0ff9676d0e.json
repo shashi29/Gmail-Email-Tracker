@@ -1,0 +1,90 @@
+[
+    {
+        "company": "TTDATA LLC",
+        "job_title": ".NET Solutions Architect",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science/Engineering/MIS, Math or related field, or equivalent experience",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 Months CTH",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET 3.5/4",
+                "C#",
+                "ASP.NET",
+                "SQL Server",
+                "Entity Framework",
+                "MVC"
+            ],
+            "primary": [
+                "WCF RIA services",
+                "Unit testing using nUnit",
+                "UML",
+                "CSS",
+                "JavaScript",
+                "REST web services",
+                "Windows Workflow Foundation",
+                "Test-driven development"
+            ],
+            "secondary": [
+                "Integrating websites with 3rd party APIs",
+                "TDD / BDD",
+                "Testing frameworks",
+                "Source Control (SVN, TFS)",
+                "Release Management",
+                "Power BI and Analytics",
+                "AWS CI/CD"
+            ],
+            "all": [
+                ".NET 3.5/4",
+                "C#",
+                "ASP.NET",
+                "SQL Server",
+                "Entity Framework",
+                "MVC",
+                "WCF RIA services",
+                "Unit testing using nUnit",
+                "UML",
+                "CSS",
+                "JavaScript",
+                "REST web services",
+                "Windows Workflow Foundation",
+                "Test-driven development",
+                "Integrating websites with 3rd party APIs",
+                "TDD / BDD",
+                "Testing frameworks",
+                "Source Control (SVN, TFS)",
+                "Release Management",
+                "Power BI and Analytics",
+                "AWS CI/CD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Balaji",
+        "email": "balaji@ttdatas.com",
+        "jd": "From: Balaji, TTDATA LLC balaji@ttdatas.com Reply to: balaji@ttdatas.com Please find below 2 openings and share some suitable profiles to mani@ttdatas.com Title: .NET Solutions ArchitectLocation: NYC, NY(Onsite)Duration: 6 Months CTHKey Competencies: \u00a7 Hands on experience in Object Oriented analysis and design using common design patterns \u00a7 Hands on experience in designing and developing applications using .NET 3.5/4 development using C# and ASP.NET \u00a7 Competence in SQL Server \u00a7 Competence in Object Oriented design and development techniques \u00a7 Working knowledge in Entity Framework, MVC \u00a7 Working knowledge in Microsoft WCF RIA services \u00a7 Knowledge in Unit testing using nUnit or similar \u00a7 Competence in UML \u2013 Sequence diagrams, Class diagrams, etc \u00a7 Working Knowledge in requirements analysis or business analysis techniques \u00a7 Working knowledge in CSS, Java scripting \u00a7 Experience in REST web services \u00a7 Experience in Microsoft windows workflow foundations \u00a7 Experience with test-driven development \u00a7 Client-focused, working independently and simultaneously across multiple projects \u00a7 Capture and documentation of customer requirements and transformation into software design specifications / user stories \u00a7 Writes structured well-documented code to deliver scalable software solutions \u00a7 Good communication, able to write clear and concise documentation for technical and nontechnical audiences \u00a7 Team player with effective time management \u00a7 Strong problem-solving skills and attention to detail \u00a7 Ability to peer review and provide feedback on others work \u00a7 Consistently technically abreast of existing, new and emerging technologies to complement solutions \u00a7 Willing to be flexible with shift Key Activities \u00a7 Creating detailed technical design documentation & estimates \u00a7 Implementing unit tests \u00a7 Develop code as per the specifications and coding standards \u00a7 Ensure all code passes unit testing with appropriate code coverage \u00a7 Peer reviews of other team members\u2019 code \u00a7 Provide feedback on process to refine where necessary \u00a7 Liaise with Architects, Testers and any other project stakeholders both verbally and in writing \u00a7 Technical support Key Technologies Experience in the following technologies is required: \u00a7 Microsoft .NET 3.5/4 \u00a7 C# \u00a7 ASP.NET \u00a7 VB .NET \u00a7 Relational Databases like MS SQL Server \u00a7 Web frameworks like MVC \u00a7 ASP.NET Core and Web API Experience in the following technologies is desirable: \u00a7 Integrating websites with 3rd party APIs (REST/SOAP) \u00a7 TDD / BDD (e.g. Cucumber) \u00a7 Testing frameworks \u00a7 Source Control (SVN, TFS) \u00a7 Release Management \u00a7 Power BI and Analytics \u00a7 AWS continuous integration and continuous delivery (CI/CD)",
+        "source": "Email",
+        "date_posted": "2024-10-15 09:05:47-05:00",
+        "unique_id": "19290a0ff9676d0e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

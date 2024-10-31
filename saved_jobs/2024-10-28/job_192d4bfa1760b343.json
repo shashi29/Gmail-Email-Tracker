@@ -1,0 +1,75 @@
+[
+    {
+        "company": "People Technologies Inc",
+        "job_title": "Python developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's Degree in Computer Science or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python"
+            ],
+            "primary": [
+                "self-testing code",
+                "database technologies",
+                "cloud technologies",
+                "Kubernetes",
+                "AWS"
+            ],
+            "secondary": [
+                "C",
+                "PHP",
+                "EKS",
+                "Lambda",
+                "RDS",
+                "Aurora",
+                "Dynamo"
+            ],
+            "all": [
+                "Python",
+                "self-testing code",
+                "database technologies",
+                "cloud technologies",
+                "Kubernetes",
+                "AWS",
+                "C",
+                "PHP",
+                "EKS",
+                "Lambda",
+                "RDS",
+                "Aurora",
+                "Dynamo"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Nitish Kumare",
+        "email": "nitish@epeopletech.com",
+        "jd": "Hi, Greetings!!We have an urgent opening with \u201cPython developer\u201d and I have sent you job description, please go through it and let me know your comfort with it and also send me your updated resume ASAP Job Title: Python developerLocation: RemoteDuration: Long Term Contract Job Description:Bachelor's Degree in Computer Science or related field.Programming experience in Python. Hands-on experience with self-testing code (unit tests) and building systems. Emerging ability to lead and influence a team's technical direction.Hands-on experience with database and cloud technologies.Emerging ability to design resilient software components within a distributed system. Our core stack is Python, migrating from system software in C, and legacy PHP in some places; as part of our move to the cloud, we\u2019re running Kubernetes, and AWS technologies like EKS/Lambda/RDS/Aurora/Dynamo. In considering candidates, time is of the essence, so please respond quickly. Thanks and Regards,Nitish KumarePeople Technologies Inc255 Baldwin Road, Suite 205,Parsippany, NJ 07054Email- nitish@epeopletech.comLinkedin- https://www.linkedin.com/in/nitish-kumar-2b5635259/http://www.epeopletech.com",
+        "source": "Email",
+        "date_posted": "2024-10-28 14:34:41-05:00",
+        "unique_id": "192d4bfa1760b343",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

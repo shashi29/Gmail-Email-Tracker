@@ -1,0 +1,82 @@
+[
+    {
+        "company": "CDI Solutions Inc",
+        "job_title": "Lead -GCP Technical Developer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "ETL",
+                "BI",
+                "Big Data Stack",
+                "Hadoop",
+                "Hive",
+                "Spark",
+                "SQL"
+            ],
+            "primary": [
+                "Python",
+                "Scala",
+                "Shell Scripting",
+                "Data Analysis",
+                "Google Cloud Platform",
+                "DataFlow",
+                "DataProc",
+                "PubSub"
+            ],
+            "secondary": [
+                "Excellent Communication Skills"
+            ],
+            "all": [
+                "Data Engineering",
+                "ETL",
+                "BI",
+                "Big Data Stack",
+                "Hadoop",
+                "Hive",
+                "Spark",
+                "SQL",
+                "Python",
+                "Scala",
+                "Shell Scripting",
+                "Data Analysis",
+                "Google Cloud Platform",
+                "DataFlow",
+                "DataProc",
+                "PubSub",
+                "Excellent Communication Skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Anil",
+        "email": "anil@cdisolutionsinc.com",
+        "jd": "Hi,\n\nTitle : Lead -GCP Technical Developer\n\nExperience : 10+Years\n\nLocation: Austin,TX/San Jose,CA\n\nDuration: 12+Months\n\nNeed Only On W-2\n\n9+ Years of Industry Work Experience in Data Engineering / ETL / BI\n\u2022 5+ Years of experience in Big Data Stack \u2013 Hadoop, Hive, Spark (Python or Scala) along with basic shell-scripting and basic Python scripting\n\u2022 Very strong skills in SQL.\n\u2022 Should have bend of mind in understanding business data, product line, end to end flow of data, nature of data etc. from Business Perspective.\n\u2022 Experience extracting data from a variety of sources, and a desire to expand those skills (working knowledge in SQL and Spark is mandatory)\n\u2022 Excellent Data Analysis skills. Must be comfortable with querying and analyzing large amount of data on Hadoop HDFS using Hive and Spark.\n\u2022 Preferably, the candidate must have experience building applications using Google Cloud Platform-related frameworks such as DataFlow/DataProc/PubSub.\n\u2022 Excellent Communication Skills to Understand and Pass on Required.",
+        "source": "Email",
+        "date_posted": "2024-10-30 07:36:24-05:00",
+        "unique_id": "192dd946aa9b017b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Python Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "Database Solutions"
+            ],
+            "primary": [
+                "CloudWatch",
+                "Terraform"
+            ],
+            "secondary": [
+                "Code Reviews",
+                "Monitoring",
+                "Logging",
+                "Alerting"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "Database Solutions",
+                "CloudWatch",
+                "Terraform",
+                "Code Reviews",
+                "Monitoring",
+                "Logging",
+                "Alerting"
+            ],
+            "with_experience": [
+                "Python (6-7 years)",
+                "AWS (6-7 years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "From: rajkumar, NITYA Software Solutions Inc. rajkumar.v@nityainc.com Reply to: rajkumar.v@nityainc.com Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: Python Developer6-7 Years of AWS Experience: Develop, test, and maintain Python applications and scripts.Must have a strong programming acumen.Design, implement, and maintain scalable and efficient database solutions.Monitor and troubleshoot applications and databases using AWS CloudWatch and other monitoring tools.Collaborate with cross-functional teams to define, design, and implement new features and enhancements.Optimize and refactor existing code and database queries to improve performance and scalability.Participate in code reviews to maintain code quality and share knowledge with team members.Ensure high availability and reliability of applications by implementing best practices in monitoring, logging, and alerting.Experience in working on Terraform is preferred.Thank you,RajkumarEMAIL ID:rajkumar.v@nityainc.comNITYA Software Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-16 06:36:52-05:00",
+        "unique_id": "192953e5dcd41f37",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

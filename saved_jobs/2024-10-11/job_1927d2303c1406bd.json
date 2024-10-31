@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Siri InfoSolutions inc",
+        "job_title": "Database Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Proven experience as a Database Developer or similar role.",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "database management systems",
+                "data modeling",
+                "database design",
+                "performance tuning"
+            ],
+            "primary": [
+                "MySQL",
+                "PostgreSQL",
+                "SQL Server",
+                "Oracle",
+                "data migration",
+                "backup and recovery",
+                "security management",
+                "troubleshooting"
+            ],
+            "secondary": [
+                "cloud database solutions",
+                "ETL processes",
+                "Python",
+                "Java"
+            ],
+            "all": [
+                "SQL",
+                "database management systems",
+                "data modeling",
+                "database design",
+                "performance tuning",
+                "MySQL",
+                "PostgreSQL",
+                "SQL Server",
+                "Oracle",
+                "data migration",
+                "backup and recovery",
+                "security management",
+                "troubleshooting",
+                "cloud database solutions",
+                "ETL processes",
+                "Python",
+                "Java"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Ganesh Kathila",
+        "email": "ganesh.k@siriinfo.com",
+        "jd": "From: Ganesh Kathila, Siri InfoSolutions inc ganesh.k@siriinfo.com Reply to: ganesh.k@siriinfo.com Job Title: Database Developer- Location: Atlanta, GA Job Summary:We are seeking a skilled Database Developer to join our dynamic team. The ideal candidate will be responsible for designing, developing, and maintaining our database systems, ensuring optimal performance and data integrity. You will collaborate with cross-functional teams to support application development and drive data-related initiatives.Key Responsibilities:Database Design & Implementation: Design and implement database structures based on business requirements and best practices.SQL Development: Develop, optimize, and maintain SQL queries for data retrieval, manipulation, and reporting.Performance Tuning: Monitor database performance and implement tuning strategies to enhance efficiency and speed.Data Migration: Plan and execute data migration processes, ensuring accuracy and minimal downtime.Backup & Recovery: Establish and maintain effective backup and recovery solutions to safeguard data integrity.Security Management: Implement database security measures, including user access controls and encryption protocols.Collaboration: Work closely with application developers, data analysts, and other stakeholders to integrate database solutions into applications.Documentation: Maintain comprehensive documentation for database architecture, processes, and standards.Troubleshooting: Identify and resolve database issues, including performance bottlenecks and data anomalies.Continuous Improvement: Stay current with industry trends and technologies to recommend enhancements to existing systems.Qualifications:Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.Proven experience as a Database Developer or similar role.Proficiency in SQL and database management systems (e.g., MySQL, PostgreSQL, SQL Server, Oracle).Experience with data modeling and design principles.Strong analytical and problem-solving skills.Familiarity with data security and compliance standards.Excellent communication and collaboration skills.Preferred Qualifications:Experience with cloud database solutions (e.g., AWS RDS, Azure SQL).Knowledge of ETL processes and tools.Familiarity with programming languages such as Python or Java.",
+        "source": "Email",
+        "date_posted": "2024-10-11 12:45:38-05:00",
+        "unique_id": "1927d2303c1406bd",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

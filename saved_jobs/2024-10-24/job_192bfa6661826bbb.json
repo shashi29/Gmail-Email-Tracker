@@ -1,0 +1,58 @@
+[
+    {
+        "company": "Smart Folks",
+        "job_title": "PostgreSQL DBA Architect",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "PostgreSQL",
+                "DynamoDB"
+            ],
+            "primary": [
+                "AWS DMS",
+                "Qlik"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "PostgreSQL",
+                "DynamoDB",
+                "AWS DMS",
+                "Qlik"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Raghu",
+        "email": "raghu@smartfolksinc.com",
+        "jd": "From: Raghu, Smart Folks raghu@smartfolksinc.com Reply to: raghu@smartfolksinc.com Hi,I have an opening for \"Postgres DBA\" for \"Plano TX, 75024\" (Day 1 onsite) Job Title: PostgreSQL DBA ArchitectWork Location: Plano, TX 75024Contract duration (in months)* 6Must Have Skills (Top 3 technical skills only) *1. AWS2. PostgreSQL3. DynamoDBNice to have skills (Top 2 only)1. AWS DMS2. QlikDetailed Job Description:1. Hands on experience working in Database Design2. Hands on experience in AWS RDBMS Database Services such as PostgreSQL, DynamoDB, etc3. Should have done Data migration from different Data sources using various tools.4. Adhoc Report generation from Database, as required for Business users5. Should have done Data Sync between Old and new Databases during Prod implementation.Top 3 responsibilities you would expect the Subcon to shoulder and execute*:1. Work with Infosys team and finalize the Database design, create Physical data model in DB, review it with Enterprise Architects in TMNA2. Implement the Data migration activities through AWS DMS Qlik3. Implementation of Data sync related activities between old and new database for identified use cases.",
+        "source": "Email",
+        "date_posted": "2024-10-24 11:51:42-05:00",
+        "unique_id": "192bfa6661826bbb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Vkore",
+        "job_title": "Java Backend developer with Kafka and Spring boot",
+        "location": "St Louis, MO, USA",
+        "full_location": {
+            "city": "St Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Kafka",
+                "Spring boot"
+            ],
+            "primary": [
+                "Python",
+                "Scala",
+                "Distributed systems",
+                "Data streaming concepts",
+                "Messaging patterns"
+            ],
+            "secondary": [
+                "Kafka Streams",
+                "Kafka Connect",
+                "Confluent Platform",
+                "Monitoring tools",
+                "Debugging tools"
+            ],
+            "all": [
+                "Java",
+                "Kafka",
+                "Spring boot",
+                "Python",
+                "Scala",
+                "Distributed systems",
+                "Data streaming concepts",
+                "Messaging patterns",
+                "Kafka Streams",
+                "Kafka Connect",
+                "Confluent Platform",
+                "Monitoring tools",
+                "Debugging tools"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Sonu",
+        "email": "sonu@vkoresolutions.com",
+        "jd": "From: Sonu, Vkore sonu@vkoresolutions.com Reply to: sonu@vkoresolutions.com Hi,Hope you are doing well. Please find the job description below: Role: Java Developer Strong with Kafka and Spring bootLocation: St Louis MOF2F interview Experience:Strong experience with Apache Kafka, including setup, configuration, and management of Kafka clusters.Proven track record in building and maintaining high-performance Kafka-based applications and data pipelines.Experience with Kafka ecosystem tools such as Kafka Streams, Kafka Connect, and Confluent Platform. Skills:Proficiency in programming languages commonly used with Kafka, such as Java, Python, or Scala.Solid understanding of distributed systems, data streaming concepts, and messaging patterns.Experience with monitoring and debugging Kafka issues using tools like Kafka Manager, Prometheus, or Grafana. Education:Bachelor\u2019s degree in Computer Science, Engineering, or a related field.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:00:29-05:00",
+        "unique_id": "192b0263bd940966",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

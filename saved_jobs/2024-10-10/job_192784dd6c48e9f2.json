@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Talent Groups",
+        "job_title": "Java Developer",
+        "location": "Madison, WI, USA",
+        "full_location": {
+            "city": "Madison",
+            "state": "WI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months with possible extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Version control systems",
+                "JavaScript",
+                "Continuous integration systems"
+            ],
+            "primary": [],
+            "secondary": [
+                "Experience creating and maintaining documentation",
+                "Experience developing standards, policies, and procedures",
+                "Support experience with development tools",
+                "Familiarity with ticketing software"
+            ],
+            "all": [
+                "Java",
+                "Version control systems",
+                "JavaScript",
+                "Continuous integration systems",
+                "Experience creating and maintaining documentation",
+                "Experience developing standards, policies, and procedures",
+                "Support experience with development tools",
+                "Familiarity with ticketing software"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Bala",
+        "email": "bala.s@talentgroups.com",
+        "jd": "From: Bala, Talent Groups bala.s@talentgroups.com Reply to: bala.s@talentgroups.com Hi,Hope you are doing good.This is Bala from Talent Groups. This email is regarding a job opportunity for the Java Developer role.The below is the JD for Your reference. Job Role: Java DeveloperLocation: Madison, Wisconsin 53705(Onsite or Hybrid or Remote): Hybrid (Need only locals to Wisconsin).(Relocation Allowed or Relocation not Allowed): Relocation not Allowed.Contract Duration: 12+ months with possible extension. Full Job Description:Top Skills & Experience (4+ years):Java software development toolsVersion control systems (e.g., GitHub)JavaScript development toolsContinuous integration systems Nice to Have:Experience creating and maintaining documentation for application development toolsExperience developing standards, policies, and procedures for software tools/frameworksSupport experience with development tools, help desk, or team lead rolesFamiliarity with ticketing software for handling customer requests Job Description:The candidate will support development tools used in the software lifecycle, ensuring quality and consistency across systems. Responsibilities include providing technical guidance, consulting to maintain cost-effective development tools, and staying up-to-date with best practices and emerging technologies. The role involves troubleshooting complex issues, maintaining setup documentation, and collaborating to develop policies and procedures. Strong communication skills and the ability to prioritize and multitask independently are essential. Thanks,BalaTalent GroupsBala.s@talentgroups.com",
+        "source": "Email",
+        "date_posted": "2024-10-10 15:44:32-05:00",
+        "unique_id": "192784dd6c48e9f2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

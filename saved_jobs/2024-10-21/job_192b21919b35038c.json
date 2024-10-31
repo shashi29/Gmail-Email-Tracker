@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "Azure Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "Sacramento",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "part-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Architect",
+                "Azure Solutions Architect Certification",
+                "Azure Functions",
+                "Azure App Services",
+                "Azure DevOps"
+            ],
+            "primary": [
+                "Azure certs",
+                "CI/CD Pipelines",
+                "Azure DevOps",
+                "Jenkins"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure Architect",
+                "Azure Solutions Architect Certification",
+                "Azure Functions",
+                "Azure App Services",
+                "Azure DevOps",
+                "Azure certs",
+                "CI/CD Pipelines",
+                "Azure DevOps",
+                "Jenkins"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "sangya kumari nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title: Azure ArchitectLocation: Remote role,Sacramento , CA ( part-time role)Visa: CITIZEN,GC EAD,GREEN CARD,H4 EADMOI: Skype NEED: Azure certs are always preferred, and focus on Azure related projects in .NETAchieved AZ-305: Azure Solutions Architect Certification .Achieved AZ-204 Developing Solutions for Microsoft Azure.Familiarity with Azure services like Azure Functions, Azure App Services, and Azure DevOps.CI/CD Pipelines: Experience with tools like Azure DevOps and Jenkins.",
+        "source": "Email",
+        "date_posted": "2024-10-21 21:05:24-05:00",
+        "unique_id": "192b21919b35038c",
+        "emp_type": [
+            "part-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

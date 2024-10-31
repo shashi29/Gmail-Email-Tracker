@@ -1,0 +1,105 @@
+[
+    {
+        "company": "Inteletech Global Inc",
+        "job_title": "Azure Data Architect",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's or Master's Degree in Computer Science, Information Systems, or other related field or equivalent work experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$90-100/hr"
+        },
+        "skills": {
+            "core": [
+                "Synapse Analytics",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML T-SQL",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Python",
+                "Scala"
+            ],
+            "primary": [
+                "Dedicated SQL Pools",
+                "data integration",
+                "ETL processes",
+                "data security",
+                "data catalog"
+            ],
+            "secondary": [
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "analytical skills",
+                "problem-solving skills",
+                "customer support",
+                "quality of work"
+            ],
+            "all": [
+                "Synapse Analytics",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML T-SQL",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Python",
+                "Scala",
+                "Dedicated SQL Pools",
+                "data integration",
+                "ETL processes",
+                "data security",
+                "data catalog",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "analytical skills",
+                "problem-solving skills",
+                "customer support",
+                "quality of work"
+            ],
+            "with_experience": [
+                "Synapse Analytics (12+ years)",
+                "Azure SQL Database (12+ years)",
+                "Azure Managed Instance (12+ years)",
+                "DDL (10+ years)",
+                "DML T-SQL (10+ years)",
+                "data architecture design principles (10+ years)",
+                "data governance principles (5+ years)",
+                "cloud computing concepts (5+ years)",
+                "Python (3+ years)",
+                "Scala (3+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ravi",
+        "email": "ravi@inteletechglobal.com",
+        "jd": "From: Ravi, Inteletech Global Inc ravi@inteletechglobal.com Reply to: ravi@inteletechglobal.com Role : Azure Data Architect, Tallahassee, FL (Onsite)Rate : $90-100/hr Job DetailsRequired Experience:12+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance.10+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.10+ years of experience in data architecture design principles, methodologies, and best practices.5+ years of experience in data governance principles and compliance requirements related to data security and privacy.5+ years of experience in integrating data from various sources and managing large data pipelines.5+ years of experience in cloud computing concepts, particularly in Microsoft Azure, including storage solutions and compute capabilities.3+ years of Experience with programming languages such as Python or Scala.3+ years of experience in Salesforce, Message MQ, and MuleSoft Strong analytical and problem-solving skills to address complex data challenges.Ability to design and implement robust, scalable, and efficient data architectures.Ability to provide excellent customer support; meticulous quality of work and work productResponsibilities:Work with stakeholders and development team to determine project scope and vision, gather and prioritize collected requirements.Design and Implement Data Architectures: Develop comprehensive data architectures that support the organization s business goals, using Azure Synapse Analytics, Azure SQL, and other Azure data services.Manage Dedicated SQL Pools: Efficiently manage and optimize Dedicated SQL Pools in Synapse to handle large-scale data warehousing and analytics workloads.Database Design and Management: Design, implement, and manage databases using Azure SQL and Azure Managed Instance, ensuring high performance, availability, and security.Data Integration and ETL Processes: Develop and manage ETL (Extract, Transform, Load) processes using Synapse Pipelines, ensuring efficient data flow from various sources to the data warehouse. Data Governance and Cataloguing: Implement data governance practices and manage the data catalog to ensure data quality, consistency, and accessibility.Build and Maintain Data Models: Create and maintain data models that accurately represent the data landscape, ensuring they are scalable and optimized for performance.Ensure Data Security and Compliance: Implement and oversee data security measures, ensuring compliance with legal and regulatory standards.Maintain procedures manuals and system documentation.Research software solutions to support recommendations, analysing current and future technology trends.Required Education and Certifications:Bachelor s or Master s Degree in Computer Science, Information Systems, or other related field. or equivalent work experience.Microsoft Dynamics 365 CertificationMS Dynamics Power Platform Certifications",
+        "source": "Email",
+        "date_posted": "2024-10-16 12:44:44-05:00",
+        "unique_id": "192968f2684a3457",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

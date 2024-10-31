@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Cygnus Professionals",
+        "job_title": "Databricks DevOps",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "PySpark",
+                "Python",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Azure Storage"
+            ],
+            "primary": [
+                "Data Modeling",
+                "Healthcare Domain & Data knowledge",
+                "CI/CD",
+                "DevOps",
+                "GIT",
+                "Productionizing data pipelines"
+            ],
+            "secondary": [
+                "Testing automation using Pytest",
+                "Data engineering",
+                "Batch and streaming ingestion",
+                "Structured and unstructured data management"
+            ],
+            "all": [
+                "SQL",
+                "PySpark",
+                "Python",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Azure Storage",
+                "Data Modeling",
+                "Healthcare Domain & Data knowledge",
+                "CI/CD",
+                "DevOps",
+                "GIT",
+                "Productionizing data pipelines",
+                "Testing automation using Pytest",
+                "Data engineering",
+                "Batch and streaming ingestion",
+                "Structured and unstructured data management"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Syed Zameer Ahmed",
+        "email": "ahmed@cygnuspro.com",
+        "jd": "From: Syed Zameer Ahmed, Cygnus Professionals ahmed@cygnuspro.com Reply to: ahmed@cygnuspro.com Job Title: Databricks DevOpsLocation: (Remote Role)Duration: Long-term ContractJob Description:Handled data engineering projects for batch and streaming ingestion. Structured and unstructured data management - 5+YearExpert SQL Developer with Data Modeling experience - 5+YearPySpark, Python - 3+YearAzure Data Factory, Azure Databricks, Azure Storage - 3+YearHealthcare Domain & Data knowledge - 3+YearCI/CD, DevOps, GIT, Productionizing data pipelines - 2+YearTesting automation using Pytest or other frameworks - 2+Year.If you are interested, please share me a copy of your resume along with following details ASAP.Required Details:Full Name:Current Location:Expected Rate: Work Authorization:Best Regards, Syed Zameer AhmedE: ahmed@cygnuspro.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:41:23-05:00",
+        "unique_id": "192bf1e3e4f14be0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

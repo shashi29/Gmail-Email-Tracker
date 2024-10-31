@@ -1,0 +1,49 @@
+[
+    {
+        "company": "itechus",
+        "job_title": "Azure Data Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Azure AD"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Azure",
+                "Azure AD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "vinod Kumar",
+        "email": "vinod.b@itechus.net",
+        "jd": "Role: Azure Data Engineer Duration: Long Term Location: Dallas, TX And Plano, TX JD: Role Description: AD / Azure AD Engineer Microsoft Azure",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:49:18-05:00",
+        "unique_id": "192d9179c66d086d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

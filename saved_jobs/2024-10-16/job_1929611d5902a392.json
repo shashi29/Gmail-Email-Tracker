@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Nam Info Inc",
+        "job_title": "Full Stack Java Developer with Banking Domain",
+        "location": "NY, NJ, USA",
+        "full_location": {
+            "city": "Cranbury",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "14+ Years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Angular",
+                "NodeJS"
+            ],
+            "primary": [
+                "micro-service based architecture",
+                "containerized based architecture",
+                "API Gateway",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx"
+            ],
+            "secondary": [
+                "Junit version upgrade",
+                "refactoring",
+                "multi-layer architecture"
+            ],
+            "all": [
+                "Java",
+                "Springboot",
+                "Angular",
+                "NodeJS",
+                "micro-service based architecture",
+                "containerized based architecture",
+                "API Gateway",
+                "Angular 12+",
+                "Angular Material",
+                "RxJS",
+                "NgRx",
+                "Junit version upgrade",
+                "refactoring",
+                "multi-layer architecture"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Dhanasri",
+        "email": "dhanasri@nam-it.com",
+        "jd": "Hello Partners,Hope you are doing good!!!Please find the Job description. Kindly share resumes along with contact details and send it to dhanasri@nam-it.com. Job Title: Full Stack Java Developer with Banking DomainLocation: NY, NJ - Locals ONLY Hybrid (3 days from office)Job Type: Long Term ContractExperience: 14+ YearsJob Description / RequirementsStrong experience in Java, Springboot, Angular, NodeJS, etc.Experience working as a full stack DeveloperExperience in Java, Spring Boot, Junit version upgrade and refactoring Strong understanding on micro-service based architecture Good experience with containerized based architecture like Openshift.Good understanding on multi-layer architecture API Gateway Angular 12+, Angular Material or equivalent, RxJS or equivalent, NgRx or any redux/flux style pattern.",
+        "source": "Email",
+        "date_posted": "2024-10-16 10:24:55-05:00",
+        "unique_id": "1929611d5902a392",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

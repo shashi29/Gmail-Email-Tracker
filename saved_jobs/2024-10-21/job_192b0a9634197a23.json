@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "Senior SQL Server DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Bachelor's Degree in Business Administration, Computer Science, Mathematics, Engineering or related field with programming and database systems coursework or equivalent database administration experience",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft SQL 2016",
+                "Database Administration",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "SQL Server Integration Services (SSIS)",
+                "SQL Server Reporting Services (SSRS)",
+                "SQL Server Analysis Services (SSAS)",
+                "Database Partitioning",
+                "Windows Server"
+            ],
+            "secondary": [
+                "Active Directory",
+                "Visual Studio",
+                "Team Foundation Server",
+                "Automation",
+                "NIST Compliance"
+            ],
+            "all": [
+                "Microsoft SQL 2016",
+                "Database Administration",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "Performance Tuning",
+                "SQL Server Integration Services (SSIS)",
+                "SQL Server Reporting Services (SSRS)",
+                "SQL Server Analysis Services (SSAS)",
+                "Database Partitioning",
+                "Windows Server",
+                "Active Directory",
+                "Visual Studio",
+                "Team Foundation Server",
+                "Automation",
+                "NIST Compliance"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "Job Description \u2013Title: Senior SQL Server DBA experience in Microsoft SQL 2016 and higher / pv will call and video call just to verify candidates Visa: U.S. Citizen Only Location: Remote Required location candidate :: AZ, AK, AR, CO, FL, HI, IA, ID, IL, KS, LA, MD, MN, MO, MT, NE, NV, NM, NC, ND, OK, OR, SC, SD, TN, TX, UT, VA/DC, WA, WI, WY Duration: 6+months \u2013 C2H MOI: skype Client: Triwest Our customer in north Phoenix is seeking an experienced Sr. Database Administrator for their Microsoft SQL Server environment. This role is responsible for management and performance optimization of production SQL Server databases, management of access controls and security configuration, management of job schedules, and deployment of code changes. As a senior level DBA this role functions as a Subject Matter Expert on database technologies for the organization. Some of your job requirements will: Administer and support MS SQL Server instances (primarily MS SQL Server 2016+) .Implement, and maintain adherence to, accepted security standards. Review, maintain, troubleshoot, and manage databases and database servers. Define indexing strategies, DBMS configuration optimization, and other configurations as necessary to ensure high levels of performance, stability, and availability for critical production databases. Function as a Subject Matter Expert on database development and support. Define and support backup, recovery, and restoration processes for databases and data using enterprise backup solutions. Mentor junior DBAs. Participate in release management processes for code deployment. Contribute to definition of enterprise standards regarding to SQL database solutions. Education & Experience: Required: 4+ years as a SQL Database Administrator with progressively higher-level experience leading to a Senior Database Administrator role or equivalent. Experience implementing and managing High Availability (HA) and Disaster Recovery (DR) for SQL Server. Experience in implementing SQL 2016 Availability Groups. Experience with all facets of the SQL Server Services group: Database Services, Reporting services, Integration Services. Experience with SQL Server 2012, through current versions. Experience with database partitioning and mirroring. Experience working with Windows server, including Active Directory integration for SQL Server. Experience following the Software Development Life Cycle. Knowledge of Visual Studio 2017 through current versions and the use of code management and promotion methodologies for T-SQL and SSIS base solutions. Bachelor's Degree in Business Administration, Computer Science, Mathematics, Engineering or related field with programming and database systems coursework or equivalent database administration experience. Preferred: SQL 2016 and higher SSAS and SSRS Knowledge of SQL 2014 Always On Team Foundation Server 2012 ActiveBatch Automation Key Responsibilities: Responsible for managing Microsoft SQL database platforms to include performance tuning, monitoring, and troubleshooting. Proactive monitoring for performance issues. Lead solution definition for determining the most effective resolutions to performance issues. Define and adjust indexing strategies as part of performance management for the environment. Maintains SQL databases in development, Quality Assurance, and production environments. Install and configure new SQL Servers. Designs, recommends, and promotes implementation of required database structures. Apply data modeling techniques to ensure development and implementation support efforts meet integration and performance expectations .Assist developers with complex query tuning and schema refinement. Ensure all database servers are backed up in a way that meets the business\u2019s Recovery Point Objectives (RPO). Test backups to ensure we can meet the business\u2019 Recovery Time Objectives (RTO). Performs security related functions based on NIST compliance, including automated scan reviews and remediation of vulnerabilities. Acts as a technical resource for application and data users, data administrators and others. Serves as point of contact with technical peers for the resolution of infrastructure-related issues. Ensures compliance with company HIPAA, privacy, and government security policies. Provides technical support and guidance for applications programming in support of all aspects of database systems. Monitors and enforces standards for all database platforms. Creates databases, table spaces, tables, indexes, triggers, procedures, SQL Reports, and all other objects. Support integration of SQL Server Integration Service packages. Administer both internal and external facing SQL Reporting Services implementation in development, testing and production. Defines the content and structure of the database (schema) and advises users on efficient techniques for extracting data. Consults with development groups concerning the impact new applications will have on the database. Maintains accurate and up-to-date database system documentation. Support all phases of testing. Correct errors and make necessary database modifications. Applies patches and application upgrades. Performs other duties as assigned. Competencies: Technical Skills: Advanced knowledge of database design, development, and maintenance practices and principles, with specific experience in Microsoft SQL 2016 and higher. Strong knowledge of SQL Server database service, SSIS, and familiarity with SSRS and SSAS. Advanced knowledge in database procedures, tools, and utilities for maintaining and optimizing databases; strong understanding of database structure, application servers, and application infrastructure. Understanding and experience implementing NIST security standards utilizing DOD STIGS.",
+        "source": "Email",
+        "date_posted": "2024-10-21 13:09:18-05:00",
+        "unique_id": "192b0a9634197a23",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

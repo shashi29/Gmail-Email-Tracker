@@ -1,0 +1,64 @@
+[
+    {
+        "company": "HCL Global Systems Inc",
+        "job_title": "Full Stack Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring boot",
+                "React",
+                "Node.js"
+            ],
+            "primary": [],
+            "secondary": [
+                "AWS EMR",
+                "SageMaker"
+            ],
+            "all": [
+                "Java",
+                "Spring boot",
+                "React",
+                "Node.js",
+                "AWS EMR",
+                "SageMaker"
+            ],
+            "with_experience": [
+                "Java",
+                "Spring boot",
+                "React",
+                "Node.js"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Deepak",
+        "email": "deepak@hclglobal.com",
+        "jd": "From: Deepak, HCL Global Systems Inc deepak@hclglobal.com Reply to: deepak@hclglobal.com Mandatory Skil:Java, Spring boot, react is, node.jsExperience in building Distributed computing or grid computing systems.Understanding of AWS EMR or Sage maker would be nice to have.",
+        "source": "Email",
+        "date_posted": "2024-10-21 08:46:36-05:00",
+        "unique_id": "192af92b9c08f953",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

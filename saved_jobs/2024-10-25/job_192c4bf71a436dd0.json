@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": "Project Manager",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Project Management",
+                "SQL",
+                "Big Data",
+                "Data Analytics"
+            ],
+            "primary": [],
+            "secondary": [
+                "Spark",
+                "Scala"
+            ],
+            "all": [
+                "Project Management",
+                "SQL",
+                "Big Data",
+                "Data Analytics",
+                "Spark",
+                "Scala"
+            ],
+            "with_experience": [
+                "Project Management",
+                "SQL",
+                "Big Data"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Mounika",
+        "email": "mounikaj@brillius.com",
+        "jd": "From: mounika, brillius mounikaj@brillius.com Reply to: mounikaj@brillius.com Role name: Project Manager - BigdataSunnyvale, CARole Description: Data Analytics, Big Data, Project ManagementEssential Skills: Project Management ExperienceMust have Experience in SQLBig Data Experience is a MustShould have Excellent Data Analytics SkillsDesirable Skills: Spark, ScalaKeywords: Data Analytics, Big Data, Project Management",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:02:16-05:00",
+        "unique_id": "192c4bf71a436dd0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

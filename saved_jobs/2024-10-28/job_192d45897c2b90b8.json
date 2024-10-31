@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Stellar Consulting Solutions",
+        "job_title": "Sr. Java Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months contract (Possible extensions)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java 17",
+                "REST API",
+                "Spring Boot",
+                "Kafka",
+                "MongoDB"
+            ],
+            "primary": [
+                "CICD",
+                "GitHub",
+                "Jenkins",
+                "Urban Code Deploy",
+                "Harness"
+            ],
+            "secondary": [
+                "Microservices",
+                "Analytical skills",
+                "Debugging"
+            ],
+            "all": [
+                "Java 17",
+                "REST API",
+                "Spring Boot",
+                "Kafka",
+                "MongoDB",
+                "CICD",
+                "GitHub",
+                "Jenkins",
+                "Urban Code Deploy",
+                "Harness",
+                "Microservices",
+                "Analytical skills",
+                "Debugging"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhishek Pathak",
+        "email": "abhishek.pathak@stellarconsulting.com",
+        "jd": "From: Abhishek Pathak, Stellar Consulting Solutions abhishek.pathak@stellarconsulting.com Reply to: abhishek.pathak@stellarconsulting.com Note: Local to AZ or NC.Note: Available for F2F Interview.Job Title: Sr. Java DeveloperDuration: 6 months Contract (Possible extensions)Location: Phoenix, AZ/Charlotte, NC (Hybrid 3 days/week in office)Exp.: 10 yearsJob Description/Responsibilities\u2022 Candidate should be ready to work from client office for atleast 3 days a week.\u2022 Proficiency in Java 17 with experience in Writing REST API, backend logic (batch jobs / Kafka processors) using spring boot\u2022 Exposure to Non-Relational DB like MongoDB.\u2022 Hands on experience on kafka is must\u2022 Proficient in using and adopting CICD Devops tools like GitHub, Jenkins, Urban Code Deploy/Harness etc.\u2022 Candidate should be able to work as individual contributor\u2022 Candidate should have exposure in microservice applications\u2022 Associate should have good analytical skills, should be able to debug the application and understand the concepts.",
+        "source": "Email",
+        "date_posted": "2024-10-28 11:21:15-05:00",
+        "unique_id": "192d45897c2b90b8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

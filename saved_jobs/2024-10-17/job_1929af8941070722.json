@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Smart Tech Link",
+        "job_title": "Java Consultant",
+        "location": "Pleasanton, CA, USA",
+        "full_location": {
+            "city": "Pleasanton",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "RESTful API design",
+                "relational databases",
+                "NoSQL databases"
+            ],
+            "primary": [
+                "cloud platforms",
+                "containerization technologies",
+                "microservices architecture",
+                "problem-solving skills"
+            ],
+            "secondary": [
+                "AWS",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "attention to detail"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "RESTful API design",
+                "relational databases",
+                "NoSQL databases",
+                "cloud platforms",
+                "containerization technologies",
+                "microservices architecture",
+                "problem-solving skills",
+                "AWS",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "attention to detail"
+            ],
+            "with_experience": [
+                "Java (10+ years)",
+                "Spring Boot"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Daniel Livingston",
+        "email": "daniel.l@smarttechlink.com",
+        "jd": "From: Daniel Livingston, Smart Tech Link daniel.l@smarttechlink.com Reply to: daniel.l@smarttechlink.com Hi,We do have a priority requirement with one of our clients. Kindly review and let me know if you have any questions. Java ConsultantPleasanton, CAMandatory Skills:Proficient in RESTful API design and development.Experience with relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB).Familiarity with cloud platforms (e.g., AWS, Azure) and containerization technologies (e.g., Docker, Kubernetes) is a plus.Strong understanding of microservices architecture and design patterns.Excellent problem-solving skills and attention to detail. 10+ years of experience in Design, develop, and maintain robust, scalable, and high-performance applications using Java and Spring Boot.Collaborate with cross-functional teams to gather requirements and translate them into technical specifications.Optimize existing applications for maximum speed and scalability.Implement best practices for software development, including coding standards, testing, and documentation. Conduct code reviews and mentor junior developers, fostering a culture of continuous learning and improvement.Troubleshoot and resolve production issues, ensuring minimal downtime and impact on users. Stay updated with emerging technologies and industry trends, and integrate them into development practices as appropriate. Participate in architecture discussions and contribute to the design of system components.Thanks & Regards Daniel LivingstonSr Technical RecruiterDaniel.l@smarttechlink.com | www.smarttechlink.com |LinkedIn",
+        "source": "Email",
+        "date_posted": "2024-10-17 09:16:35-05:00",
+        "unique_id": "1929af8941070722",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

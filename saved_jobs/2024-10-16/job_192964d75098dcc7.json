@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Spar Information System",
+        "job_title": "Sr. Azure Data Architect",
+        "location": "Frisco, TX, USA",
+        "full_location": {
+            "city": "Frisco",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$70/hr on C2C",
+            "job_code": "",
+            "contact_person": "Felix Ahmed",
+            "email": "felix.a@sparinfosys.com"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Data Modeling",
+                "CI/CD Pipeline",
+                "DevOps practices"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Architecture",
+                "Automation",
+                "Agile fundamentals",
+                "Jira",
+                "GitLab"
+            ],
+            "secondary": [
+                "Data pipelines",
+                "Data quality checks",
+                "Data warehouses",
+                "Data products"
+            ],
+            "all": [
+                "SQL",
+                "Data Modeling",
+                "CI/CD Pipeline",
+                "DevOps practices",
+                "Data Engineering",
+                "Data Architecture",
+                "Automation",
+                "Agile fundamentals",
+                "Jira",
+                "GitLab",
+                "Data pipelines",
+                "Data quality checks",
+                "Data warehouses",
+                "Data products"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "jd": "From: Felix Ahmed, Spar information system felix.a@sparinfosys.com Reply to: felix.a@sparinfosys.com Its backfill role - Need Data Architect local to TX,WA,GA,KS !! Sr. Azure Data ArchitectLocation : - Frisco, TX, Bellevue, WA, KS, Atlanta, GA (Onsite 3 days)Rate : $ 70/hr on C2CSr. Data Engineer/Data Architect who is self driven, can lead a team of Data engineers working on an Onshore-Offshore model collaborating with customer SMEs.Job responsibilities -\u2022 Design, build and deploy efficient & reliable data pipelines to move and transform data\u2022 Optimize existing pipelines and maintenance of all source-related data pipelines\u2022 Support on-call shift as needed to support the team\u2022 Build and Deploy extensive data quality checks to ensure high quality of data\u2022 Build high-performance scalable data warehouses and data products\u2022 Partner with leadership, engineers, product managers and data scientists to understand data needs.\u2022 Improve existing data movement frameworks and add more features\u2022 Extreme focus on automation\u2022 Expert level SQL skills\u2022 Data Modeling\u2022 CI/CD Pipeline and DevOps practices\u2022 Agile fundamentals\u2022 Prior use of Jira and GitLabRegardsFelix AhmedFelix.a@sparinfosys.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 11:31:54-05:00",
+        "unique_id": "192964d75098dcc7",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

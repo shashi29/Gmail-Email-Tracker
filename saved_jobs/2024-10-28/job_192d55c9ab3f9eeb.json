@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Konane Solutions LLC",
+        "job_title": "SQL DBA with AWS RedShift",
+        "location": "Ewing, NJ, USA",
+        "full_location": {
+            "city": "Ewing",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server DBA",
+                "AWS Redshift"
+            ],
+            "primary": [
+                "AWS",
+                "Cloud DW Redshift",
+                "Kafka",
+                "RDS",
+                "PostgreSQL",
+                "MS SQL Server"
+            ],
+            "secondary": [
+                "AWS Data Eng Assoc",
+                "AWS DB Specialty",
+                "AWS Data Analytics"
+            ],
+            "all": [
+                "SQL Server DBA",
+                "AWS Redshift",
+                "AWS",
+                "Cloud DW Redshift",
+                "Kafka",
+                "RDS",
+                "PostgreSQL",
+                "MS SQL Server",
+                "AWS Data Eng Assoc",
+                "AWS DB Specialty",
+                "AWS Data Analytics"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sandeep",
+        "email": "sandeep@konanesolutions.com",
+        "jd": "From: Sandeep, Konane Solutions LLC sandeep@konanesolutions.com Reply to: sandeep@konanesolutions.com Job Role: SQL DBA with AWS RedShiftLocation: Ewing, NJ (Locals- Hybrid)Duration: 6+ Months Strictly Only USC/ H4 EAD/ L2 EADRequired Skills:MUST have SQL Server DBA expertise migrating to AWS RedshiftAWS expertise with Cloud DW Redshift, Kafka, RDS, PostgreSQL, MS SQL ServerProject is in POC state, once complete then will be FT in supporting the projectProject is a Client initiative, DW project, have current SQL Server DB trying to convert to AWS Redshift DW. Modernizing the data warehouseCurrently 80% cloud, 20% on prem - Within AWS ecosystem moving from SQL to RedshiftTop skills - Redshift is primary, MS SQL Server (Source DB, and some other apps running, still need to be supported), AWS hands on, Lake formation, S3, DMS (data migration service). Some are new techAWS Data Eng Assoc, AWS DB Specialty, AWS Data Analytics - these certs would be preferred If you are interested in this job position mentioned, please respond with your resume in MS word format with these details. Candidate Full Legal Name Phone Number Email LinkedIn Profile Best Marketing Rate Work Authorization (Please Attach) Current Employer Details: ------------------Best Regards,SandeepSr. Technical RecruiterPhone: 732-576-0102Email: sandeep@konanesolutions.comKonane Solutions LLC",
+        "source": "Email",
+        "date_posted": "2024-10-28 13:36:45-05:00",
+        "unique_id": "192d55c9ab3f9eeb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

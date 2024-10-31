@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Humana",
+        "job_title": "Technical Project Manager",
+        "location": "Louisville, KY, USA",
+        "full_location": {
+            "city": "Louisville",
+            "state": "KY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Python"
+            ],
+            "primary": [
+                "Technical Project Management",
+                "Healthcare",
+                "Communication skills"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure Data Factory",
+                "Azure Databricks",
+                "Python",
+                "Technical Project Management",
+                "Healthcare",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ashwini Sithar",
+        "email": "ashwini@propelsys.com",
+        "jd": "HiHope you are doing well We have urgent requirements with our Implementation partner for the below requirement Technical Project ManagerLouisville KY \u2013 HybridContractHumana Highlighted skills neededLooking for a Technical Project Manager who has good experience working primarily on Azure projects.Exceptional Communication skills is a must haveHealthcare is a must have. Job Description:We are seeking an experienced IT Project Manager with a strong background in Azure services, specifically Azure Data Factory (ADF), Azure Databricks, and Python, to join our team.The ideal candidate will have significant experience in the healthcare data engineering space, managing projects that involve complex data integration and analytics.The successful candidate will be responsible for leading and managing projects, ensuring successful delivery within scope, timeline, and budget, while also facilitating agile practices and methodologies",
+        "source": "Email",
+        "date_posted": "2024-10-18 11:22:11-05:00",
+        "unique_id": "192a0903481f6dbb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

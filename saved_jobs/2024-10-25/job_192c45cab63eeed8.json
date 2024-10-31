@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Maintec Technologies",
+        "job_title": "Python Fullstack Developer",
+        "location": "Mc Lean, VA, USA",
+        "full_location": {
+            "city": "Mc Lean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Node.js",
+                "REST",
+                "GraphQL",
+                "AWS",
+                "PostgreSQL",
+                "NoSQL",
+                "DynamoDB",
+                "Snowflake",
+                "Jenkins",
+                "CI/CD",
+                "Docker"
+            ],
+            "primary": [
+                "React",
+                "JavaScript",
+                "TypeScript",
+                "Unit Testing",
+                "Functional Testing",
+                "Performance Testing",
+                "Integration Testing"
+            ],
+            "secondary": [
+                "Scripting",
+                "Machine Learning",
+                "SRE Principles",
+                "Monitoring Tools",
+                "Splunk",
+                "New Relic"
+            ],
+            "all": [
+                "Python",
+                "Node.js",
+                "REST",
+                "GraphQL",
+                "AWS",
+                "PostgreSQL",
+                "NoSQL",
+                "DynamoDB",
+                "Snowflake",
+                "Jenkins",
+                "CI/CD",
+                "Docker",
+                "React",
+                "JavaScript",
+                "TypeScript",
+                "Unit Testing",
+                "Functional Testing",
+                "Performance Testing",
+                "Integration Testing",
+                "Scripting",
+                "Machine Learning",
+                "SRE Principles",
+                "Monitoring Tools",
+                "Splunk",
+                "New Relic"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nahid Sultana",
+        "email": "sultana@maintec.com",
+        "jd": "From: Nahid Sultana, Maintec Technologies sultana@maintec.com Reply to: sultana@maintec.com Role: Python Fullstack DeveloperLocation: Mc Lean, VA (Day 1 onsite)Long Term Contract Programming Languages(backend) : Python, nodejs / API Design: REST, GraphQL / Cloud: AWS (Lamda, Fargate, Aurora, S3, SQS, SNS) / UI Frameworks:React (nice to have) / Database: PostgreSQL, NoSQL (DynamoDB), Snowflake / DevOps: Jenkins, CI/CD, Docker / Testing: Experience w/unit, functional (behave, mocha), performance, and integration test automation.* Programming Languages(frontend) :Javascript/typescript / UI Frameworks:React / Cloud: AWS (Lamda, Fargate) / / DevOps: Jenkins, CI/CD, Docker / Testing: Experience w/unit, functional (playwright), performance, and integration test automation.* Drive automation, scripting, machine learning, and self healing, SRE Principles* Familiarity utilizing REST APIs and Microservices architecture.* Hands-on experience with monitoring tools like Splunk and new relic",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:12:30-05:00",
+        "unique_id": "192c45cab63eeed8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

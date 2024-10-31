@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Pinaka Staffing",
+        "job_title": "Sr. Python Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s Degree in Computer Science, Computer/ Software Engineering or similar.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Mongo DB"
+            ],
+            "primary": [
+                "Java",
+                "Devops",
+                "Kafka",
+                "Elasticsearch",
+                "KDB/Q"
+            ],
+            "secondary": [
+                "Agile Methodologies"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Mongo DB",
+                "Java",
+                "Devops",
+                "Kafka",
+                "Elasticsearch",
+                "KDB/Q",
+                "Agile Methodologies"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivi Chaudhary",
+        "email": "shivani@pinakastaffing.com",
+        "jd": "From: shivani, pinaka staffing shivani@pinakastaffing.com Reply to: shivani@pinakastaffing.com Focus point, skills. Sr. Python Developer with Tornado SkillsDjangoData Cache-ing Title: SR. Python Developer, SQL, Mongo DB, Java, Devops, Kafka, Elasticsearch, KDB/Q -NYCLocation- NYC (Need Local candidate only ) Description: 5 days a week in office The Portfolio Central team is looking for a highly motivated individual to expand a Portfolio Optimization tool to the Munis Desk.The tool will allow users to provide a list of parameters, inputs, and guidelines to result in the creation of list of bonds optimized for different objectives.The portfolio objectives will be defined within the tool.The tool application will provide Sales and Trading users with the ability of customize and/or create portfolios on behalf of clients by means of an iterative process.Job Responsibilities Designing highly scalable Core and Web applications using best practices.Developing high performance middle tier systemsDeveloping REST servicesInteract with Business to understand complex business requirements.Translate complex business requirements into robust technical implementationDeveloping application codes and unit testsEnsuring high performance of applications and providing support. Skills Bachelor\u2019s Degree in Computer Science, Computer/ Software Engineering or similar.Highly experienced in PythonExperience in Java preferred.Highly experienced in database technologies: SQL, Mongo DB.Knowledge of Agile Methodologies and Devops practicesKnowledge of Kafka, Elasticsearch, KDB/Q preferred.",
+        "source": "Email",
+        "date_posted": "2024-10-21 15:04:02-05:00",
+        "unique_id": "192b146ea9af40c5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

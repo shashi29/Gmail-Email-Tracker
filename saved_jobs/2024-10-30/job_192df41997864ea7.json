@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Yochana IT Solutions Inc.",
+        "job_title": "MDM BSA",
+        "location": "San Jose, CA, USA",
+        "full_location": {
+            "city": "San Jose",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Experience working on enterprise data projects",
+                "Strong analytical and problem solving skills",
+                "Experience in programming and SQL",
+                "Hands on experience on data modeling",
+                "Excellent communication skills"
+            ],
+            "primary": [
+                "Deep knowledge of master data management concepts",
+                "Implementation experience with tools like Reltio, SAP MDG or Informatica MDM",
+                "Visualization expertise in tools like Tableau, Power BI, Looker"
+            ],
+            "secondary": [
+                "Ability to operate in a complex environment of multiple projects and stakeholders"
+            ],
+            "all": [
+                "Experience working on enterprise data projects",
+                "Strong analytical and problem solving skills",
+                "Experience in programming and SQL",
+                "Hands on experience on data modeling",
+                "Excellent communication skills",
+                "Deep knowledge of master data management concepts",
+                "Implementation experience with tools like Reltio, SAP MDG or Informatica MDM",
+                "Visualization expertise in tools like Tableau, Power BI, Looker",
+                "Ability to operate in a complex environment of multiple projects and stakeholders"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pallavi Boola",
+        "email": "pallavi@yochana.com",
+        "jd": "Job Role: MDM BSA\nJob Location: San Jose, CA / Austin, TX / NYC, NY Onsite\nProject Duration: 6-12 Months\n\nJob Description:\nResponsibilities\n- Partner with the teams to design, develop and deliver data, analytics and master data management systems supporting various Google business processes (finance, legal, marketing, sales etc)\n- Document Business/Functional requirements\n- Participate in implementation projects (e.g., requirements documentation, use case development, functional design, test documentation/execution, UAT support, and production support).\n- Partner with technical teams to develop, deliver and test the systems\n- Participate and provide updates in project status meeting, scrum and planning meetings\n\nMinimum skills:\n- Experience working on enterprise data projects (data warehouses/master data management, others)\n- Strong analytical and problem solving skills\n- Experience in programming and SQL\n- Hands on experience on data modeling (Conceptual, logical and physical)\n- Excellent communication skills with a demonstrated track record of effectively partnering with engineering, business, and operations teams\n\nPreferred skill:\n- Deep knowledge of master data management concepts\n- Implementation experience with tools like Reltio, SAP MDG or Informatica MDM\n- Visualization expertise in tools like Tableau, Power BI, Looker etc\n- Ability to operate in a complex environment of multiple projects and stakeholders and to participate in several projects simultaneously.",
+        "source": "Email",
+        "date_posted": "2024-10-30 14:54:54-05:00",
+        "unique_id": "192df41997864ea7",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

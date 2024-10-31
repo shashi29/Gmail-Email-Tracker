@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Metasys Inc",
+        "job_title": "Senior Java Backend Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "11/04/2024 - 11/03/2025",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Cassandra"
+            ],
+            "primary": [
+                "Apache Kafka",
+                "Azure Cloud",
+                "Kubernetes",
+                "Docker",
+                "Git"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Cassandra",
+                "Apache Kafka",
+                "Azure Cloud",
+                "Kubernetes",
+                "Docker",
+                "Git"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abishek Balasubramaniyan",
+        "email": "abalasubramaniyan@metasysinc.com",
+        "jd": "Hi Please do not share non local candidates Looking for Local candidates only.Only Backend candidates required. Java 11 required and Cassandra is required Job Title: Senior Java Backend DeveloperJob Location: Plano, TX (onsite)Job Duration: 11/04/2024 - 11/03/2025 Job Description Requires 8+ years of experience in developing Java applications and 5+ years of experience in developing backend web applications.Expert in Java (11+) programming language, Spring Framework & Libraries, and Spock Unit testing.Strong understanding of Cassandra database for handling large volumes of data, including table design and query patterns.Deep understanding of Apache Kafka for asynchronous message processing.Proven development experience in supporting large volume, low latency transactions.Good knowledge of Azure Cloud environments, Kubernetes, Docker, and Git.",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:20:25-05:00",
+        "unique_id": "1927c14815df2ff7",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

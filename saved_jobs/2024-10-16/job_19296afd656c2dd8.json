@@ -1,0 +1,85 @@
+[
+    {
+        "company": "KPG99",
+        "job_title": "AWS Cloud Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2 years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS elemental services",
+                "Cloud architecture",
+                "AWS tools (EC2, S3, RDS, Lambda)",
+                "Infrastructure as Code (IaC)",
+                "AWS CloudFormation",
+                "Terraform"
+            ],
+            "primary": [
+                "Media Package",
+                "Media Connect",
+                "Media Live",
+                "CloudFront",
+                "DRM services",
+                "JPEG XS",
+                "Grafana",
+                "Scripting languages (Python, Bash)",
+                "CI/CD tools"
+            ],
+            "secondary": [
+                "Containerization technologies (Docker, Kubernetes)",
+                "Networking concepts and services within AWS",
+                "DevOps practices and tools"
+            ],
+            "all": [
+                "AWS elemental services",
+                "Cloud architecture",
+                "AWS tools (EC2, S3, RDS, Lambda)",
+                "Infrastructure as Code (IaC)",
+                "AWS CloudFormation",
+                "Terraform",
+                "Media Package",
+                "Media Connect",
+                "Media Live",
+                "CloudFront",
+                "DRM services",
+                "JPEG XS",
+                "Grafana",
+                "Scripting languages (Python, Bash)",
+                "CI/CD tools",
+                "Containerization technologies (Docker, Kubernetes)",
+                "Networking concepts and services within AWS",
+                "DevOps practices and tools"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vaishali Tyagi",
+        "email": "vaishali@kpgtech.com",
+        "jd": "From: Vaishali Tyagi, KPG99 vaishali@kpgtech.com Reply to: vaishali@kpgtech.com Duration : 6+ months contract USC & GC Only Job Description: This needs to be an experienced person with Media exp, all the skills are must and need to have at least 2 years with a Media and working on those skills. Over Cloud exp 8 years. Seeking an expert in the following: \u00b7 AWS elemental services, in particular: Media Package version 1 to version 2 upgrades and media package in general \u00b7 Media ConnectMedia LiveCloudFrontDRM services, \u00b7 preferably audio/visual world\u00b7 JPEG XS\u00b7 grafana experience AWS Cloud Engineer to design, implement, and manage cloud infrastructure. The ideal candidate will have a strong background in AWS services, cloud architecture, and best practices for security and scalability. Key Responsibilities: Cloud Architecture Design: Develop and maintain cloud architecture that meets business needs while ensuring high availability, security, and scalability.Deployment and Management: Deploy, manage, and optimize cloud services using AWS tools like EC2, S3, RDS, Lambda, and more.Automation: Implement Infrastructure as Code (IaC) using tools like AWS CloudFormation or Terraform to automate deployments.Monitoring and Performance: Monitor cloud infrastructure and applications for performance and availability, using tools like AWS CloudWatch and AWS CloudTrail.Security: Ensure security best practices are followed, including IAM roles, security groups, and data encryption.Troubleshooting: Diagnose and resolve cloud-related issues promptly to minimize downtime and disruption.Collaboration: Work with development teams to ensure cloud architecture supports application needs and assists in migration strategies.Documentation: Maintain comprehensive documentation of cloud architecture, processes, and configurations. Qualifications: \u00b7 Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.\u00b7 Experience with AWS services and cloud architecture principles.\u00b7 Proficiency in scripting languages such as Python, Bash, or similar.\u00b7 Familiarity with CI/CD tools and methodologies.\u00b7 Strong problem-solving skills and attention to detail.\u00b7 AWS certification (e.g., AWS Certified Solutions Architect, AWS Certified Developer) is a plus. Preferred Skills: \u00b7 Experience with containerization technologies like Docker and Kubernetes.\u00b7 Knowledge of networking concepts and services within AWS.\u00b7 Familiarity with DevOps practices and tools.",
+        "source": "Email",
+        "date_posted": "2024-10-16 13:20:26-05:00",
+        "unique_id": "19296afd656c2dd8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

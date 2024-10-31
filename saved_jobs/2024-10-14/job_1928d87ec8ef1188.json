@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Teksalt",
+        "job_title": "Azure Data Engineer (Only Senior Candidates)",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's Degree (required) or Master's Degree (preferred) in Computer Science, Information Systems, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "06 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Data Engineering",
+                "Python",
+                "SQL",
+                "DevSecOps"
+            ],
+            "primary": [
+                "ADLS",
+                "ADF",
+                "Databricks",
+                "Synapse Analytics",
+                "Kafka",
+                "MLOps",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Insurance Industry knowledge",
+                "API Strategies",
+                "Infrastructure as Code",
+                "Event driven messaging applications",
+                "Meta Data Management",
+                "Machine Learning",
+                "Data version control"
+            ],
+            "all": [
+                "Azure",
+                "Data Engineering",
+                "Python",
+                "SQL",
+                "DevSecOps",
+                "ADLS",
+                "ADF",
+                "Databricks",
+                "Synapse Analytics",
+                "Kafka",
+                "MLOps",
+                "CI/CD",
+                "Insurance Industry knowledge",
+                "API Strategies",
+                "Infrastructure as Code",
+                "Event driven messaging applications",
+                "Meta Data Management",
+                "Machine Learning",
+                "Data version control"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rajeshwar Kumar",
+        "email": "rajeshwar.kumar@teksalt.com",
+        "jd": "From: rajesh, Teksalt rajeshwar.kumar@teksalt.com Reply to: rajeshwar.kumar@teksalt.com Job Role: Azure Data Engineer (Only Senior Candidates)Location: Jersey City, NJ (Onsite)Duration: 06 month Job Description:Bachelor's Degree (required) or Master's Degree (preferred) in Computer Science, Information Systems, or a related field- 10+ years of overall technology experience strategizing, engineering, configuring and implementing software solutions and services- 5+ years in the data engineering space with deep experience delivering enhanced analytic and data access capabilities- Domain knowledge of the Insurance Industry (preferably P&C) and value chain as well as the technologies and solutions relevant to this industry is desired- Hands-on knowledge of current technology standards/trends coupled with a desire to continually expand personal knowledge/skills- Ability and interest in mentoring technical staff and raising our collective technical competencies- Ability to establish and maintain relationships with other business and technology leaders- Strong written and verbal communication skills coupled with the ability to tailor communication to all levels of an organization- Open-minded with proven ability to work collaboratively with others in team environment- Strong understanding of IT environments, technologies in relation to business needs- Demonstrate strong ability to work in a team environment and foster cross-team collaboration- Experience executing technology modernization initiatives including migration to cloud native and API Strategies- Strong grasp of value creation and business capability models- Deep experience architecting data and analytics capabilities within a complex multi-national organization that meet requirements for availability, resiliency, stability, scalability, and security.- Current experience with Azure, APIs, accelerators, DevSecOps, Infrastructure as Code, Containers and Event driven messaging applications (Kafka, MQ)- Experience in Azure Cloud technologies like ADLS, ADF, Databricks, Synapse Analytics is a huge plus- Proficient use of tools, techniques, and manipulation including programming languages (Python, PySpark, SQL etc.), and an understanding of data engineering practices- Experience implementing, developing and integrating Data Management Capabilities (Meta Data, MDM, Reference Data)- Deep understand on the advanced analytics techniques using ML and AI- Experience with the MLOps Tools like mlFlow, DVC (data version control) and other MLOps frameworks- Experience in developing and maintaining CI/CD pipelines for automated deployment of ML models using Azure Devops and databricks webhooks.- Experience in designing & managing data pipeline using ADF, Databricks and delta lake to ensure reliable data flow for model training and scheduling automated retraining.- Experience in implementing model monitoring solution to track ML performance, detect data drift and setting up alerts for proactive maintenance and troubleshooting.",
+        "source": "Email",
+        "date_posted": "2024-10-14 15:49:19-05:00",
+        "unique_id": "1928d87ec8ef1188",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Morgan Stanley",
+        "job_title": "Technical Project Manager",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Project Management",
+                "Business Analysis",
+                "Software Development Life Cycle (SDLC)",
+                "Agile Scrum",
+                "Waterfall methodologies"
+            ],
+            "primary": [
+                "Technical Writing",
+                "Data and Business Process Flow Modeling",
+                "Functional Specifications Document (FSD)",
+                "Systems Requirements",
+                "Use Case Specifications",
+                "User Stories",
+                "JIRA",
+                "Fibonacci User Points"
+            ],
+            "secondary": [
+                "Wealth Management",
+                "Asset Management",
+                "3rd party vendor solutions",
+                "Integrations",
+                "Interpersonal skills",
+                "Communication skills"
+            ],
+            "all": [
+                "Project Management",
+                "Business Analysis",
+                "Software Development Life Cycle (SDLC)",
+                "Agile Scrum",
+                "Waterfall methodologies",
+                "Technical Writing",
+                "Data and Business Process Flow Modeling",
+                "Functional Specifications Document (FSD)",
+                "Systems Requirements",
+                "Use Case Specifications",
+                "User Stories",
+                "JIRA",
+                "Fibonacci User Points",
+                "Wealth Management",
+                "Asset Management",
+                "3rd party vendor solutions",
+                "Integrations",
+                "Interpersonal skills",
+                "Communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Laxmivijay",
+        "email": "laxmi.v@procorpsystems.com",
+        "jd": "From: Laxmivijay, Procorp Systems laxmi.v@procorpsystems.com Reply to: laxmi.v@procorpsystems.com Title: Technical Project Manager Location: NYC NY (Onsite) We are looking to hire a talented Project Manager / Technical Business Analyst having 10+ years of experience to join the Wealth Management Product Technology team at Morgan Stanley. The team is responsible for maintaining and building systems for the Home Loans business. The Home Loans Technology platform depends on multiple internal and 3rd party vendor systems that offer unique services in support of mortgage origination and servicing. Home Loans Technology, partnering with the Home Loans Business Change Mgmt, manages the Vendor & Risk Management team to reduce Risk of our internal, vendor & third-party systems; to execute on a comprehensive workflow and oversight model; and to ensure transparency across multiple Technology, Risk, Business & US Banks stakeholders.The role of Project Manager / Technical Business Analyst is to lead the Vendor & Risk Management team within Technology in onboarding of systems into the firm, providing ongoing maintenance and risk management of systems, and decommissioning systems.ResponsibilitiesOnboard new vendors for MS Home Loans by conducting vendor assessment/reviews, including information security, architecture, data lifecycle management, BCP, etc.Ensure vendors implement secure technology solutions, per MS policy (ex: Cloud migrations, Material Changes to architecture or PII Data)Manage incidents, such as Cyber Security & Production outages, including appropriate communication to stakeholders and adherence to SLAsIdentify risks and plan mitigationsOversee vendor decommission and offboarding, including managing data securityInteract with business, technology, operations to conduct Business Analysis documentation of current and future state solutionsAssist in the coordination and preparation of key meetings that are required for stakeholders to close critical projects and assessmentsWork with global / regional counterparts to provide synergies between regions and ensure the collaboration is intact.Document work into stories and manage JIRA board for prioritizationDetail the stories with examples and scenarios for clear development / QA understandingTake the story to definition of ready (DoR) for the squad to discuss in refinement and planning sessionsPrepare material for sprint review with business and other stakeholdersContribute to domain competence within the squadRequired SkillsAt least 10+ years of hand-on Project Management and Business Analyst experienceExtensive experience in Software Development Life Cycle (SDLC) - Verification and Validation, Agile Scrum and Waterfall methodologies used for the design, development, testing, and maintenance of software.Comprehensive knowledge in Technical and Business Writing, Data and Business Process Flow Modeling.Proficient in writing Functional Specifications Document (FSD), Systems Requirements and Use Case SpecificationsExpertise in producing detailed User Stories in JIRA and using Fibonacci User Points for estimation to prioritize and manage Product Backlog and Sprint BacklogProfessional approach of interaction with Product OwnersExpertise in facilitating meetings: Grooming, Sprint Planning, Daily Standup, Sprint Review and Sprint RetroAbility to handle complex information with accuracy and attention to detailStrong interpersonal and communication skills, building and maintaining relationships, self-motivated with the ability to prioritize, meet deadlines, and manage changing prioritiesGood to have skillsExperience in wealth management or Asset management domainsExperience of working with 3rd party vendor solutions and integrations",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:08:11-05:00",
+        "unique_id": "192d3fdaa6d561bb",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Heliogic",
+        "job_title": "Cloud Solutions Architect with Adtech Experience",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "AWS",
+                "Adtech Experience",
+                "Cloud Architecture",
+                "Cost Optimization"
+            ],
+            "primary": [
+                "GKE",
+                "Compute Engine",
+                "Networking Components",
+                "Cloud Migration",
+                "FinOps"
+            ],
+            "secondary": [
+                "Event-driven Architectures",
+                "Serverless Architectures",
+                "Multi-cloud Architectures",
+                "Cloud Cost Management Tools",
+                "Infrastructure as Code (IaC)"
+            ],
+            "all": [
+                "GCP",
+                "AWS",
+                "Adtech Experience",
+                "Cloud Architecture",
+                "Cost Optimization",
+                "GKE",
+                "Compute Engine",
+                "Networking Components",
+                "Cloud Migration",
+                "FinOps",
+                "Event-driven Architectures",
+                "Serverless Architectures",
+                "Multi-cloud Architectures",
+                "Cloud Cost Management Tools",
+                "Infrastructure as Code (IaC)"
+            ],
+            "with_experience": [
+                "GCP (10+ years)",
+                "AWS (5+ years)",
+                "Cloud Architecture (12+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Abhishek",
+        "email": "abhi@heliogic.com",
+        "jd": "From: Abhishek, Heliogic abhi@heliogic.com Reply to: abhi@heliogic.com Title : Cloud Solutions Architect with Adtech ExperienceLocation : RemoteLong term ContractMust have : Adtech ExperienceExp 12+ only We are seeking a highly experienced GCP Principal Architect to assess, optimize, and guide cloud infrastructure. The ideal candidate will have a deep understanding of both GCP and AWS, with a focus on cost optimization, architectural best practices, and innovative solutions in the Ad Exchange and FinOps domains.Key ResponsibilitiesConduct a comprehensive assessment of our client product and infrastructure, which has been operational for more than 10 years and recently migrated from AWS to GCP.Perform detailed architectural reviews to identify optimization opportunities for resource utilization and cost reduction.Provide expert guidance on GCP best practices, focusing on GKE, virtual instances, and networking components.Develop strategies to address challenges such as GCP preemptible VM availability and associated cost increases.Identify components suitable for event-driven or serverless architectures to optimize costs and performance.Serve as the go-to expert for all GCP-related questions, providing solutions and guidance to the team.Lead FinOps initiatives to ensure cost-effective cloud operations without compromising performance or reliability.Collaborate with the highly experienced team to implement cutting-edge cloud solutions.Required Qualifications10+ years of experience in cloud architecture, with at least 5 years focused on GCP.Deep expertise in GCP services, especially GKE, Compute Engine, and networking components.Strong background in AWS, with experience in cloud migration projects.Proven track record in optimizing cloud resources and reducing costs in large-scale environments.Expert-level knowledge of cloud architectural patterns, including event-driven and serverless architectures.Experience in the Ad Exchange domain, with a focus on high-performance, scalable systems.Strong background in FinOps principles and practices.Excellent problem-solving skills and ability to provide innovative solutions to complex challenges.Outstanding communication skills, able to explain complex technical concepts to both technical and non-technical stakeholders.Required CertificationsGoogle Cloud Certified - Professional Cloud ArchitectGoogle Cloud Certified - Professional Cloud DevOps EngineerPreferred QualificationsExperience with multi-cloud architectures and hybrid cloud solutions.Familiarity with cloud cost management tools and techniques.Knowledge of container orchestration technologies beyond GKE (e.g., Amazon EKS, Azure AKS).Experience with cloud automation and Infrastructure as Code (IaC) tools.Background in performance tuning and optimization of cloud-native applications.",
+        "source": "Email",
+        "date_posted": "2024-10-21 07:35:49-05:00",
+        "unique_id": "192af3ca83f21c85",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

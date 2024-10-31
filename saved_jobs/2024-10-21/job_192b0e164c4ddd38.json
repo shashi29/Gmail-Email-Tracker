@@ -1,0 +1,73 @@
+[
+    {
+        "company": "HCL",
+        "job_title": "GCP Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1 Year",
+            "rate": "$58/HR on C2C max"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Composer",
+                "DataFlow",
+                "DataProc",
+                "Apache Beam",
+                "Hadoop",
+                "BigQuery"
+            ],
+            "primary": [
+                "Java",
+                "Python",
+                "Unix",
+                "PLSQL"
+            ],
+            "secondary": [
+                "process automation",
+                "application development"
+            ],
+            "all": [
+                "Google Cloud Composer",
+                "DataFlow",
+                "DataProc",
+                "Apache Beam",
+                "Hadoop",
+                "BigQuery",
+                "Java",
+                "Python",
+                "Unix",
+                "PLSQL",
+                "process automation",
+                "application development"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Nekesh",
+        "email": "nekesh@inherenttech.com",
+        "jd": "From: Nekesh, Inherent Technologies nekesh@inherenttech.com Reply to: nekesh@inherenttech.com PASSPORT NUMBER REQUIREDREMOTE JOBNO OPTEXP. 10+ REQUIREDRATE\u201458$/HR ON C2C MAXGreetings from Inherent Technologies! Hope this email finds you in the best of your health,My name is Nekesh and I'm an IT recruiter at Inherent Technologies. I came across your resume on one of the job boards and wanted to check if you are available for a new role. Look forward to talking to you Position: GCP Data Engineer Location: RemoteDuration: 1 Years Phone & SkypeClient: HCLImmediate Interview JD-Cloud Data Engineer with experience in designing (min 5 years) , building, and optimizing data pipelines. Experience with Google Cloud Composer, DataFlow, DataProc clusters, Apache beam, Hadoop, Bigquery. Experience in process automation and application development using Java, Python,Unix and PLSQL.Hands-on experience with Database CDC ingestion",
+        "source": "Email",
+        "date_posted": "2024-10-21 15:22:03-05:00",
+        "unique_id": "192b0e164c4ddd38",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

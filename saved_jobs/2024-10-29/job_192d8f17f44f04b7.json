@@ -1,0 +1,82 @@
+[
+    {
+        "company": "CBS LLC",
+        "job_title": "SQL Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL development",
+                "data modeling",
+                "database design",
+                "database performance tuning",
+                "investment banking financial reporting"
+            ],
+            "primary": [
+                "complex SQL scripts",
+                "stored procedures",
+                "packages",
+                "functions",
+                "data integration processes",
+                "cloud-based tools",
+                "Reporting tool quick sight",
+                "Kafka"
+            ],
+            "secondary": [
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "interpersonal skills"
+            ],
+            "all": [
+                "SQL development",
+                "data modeling",
+                "database design",
+                "database performance tuning",
+                "investment banking financial reporting",
+                "complex SQL scripts",
+                "stored procedures",
+                "packages",
+                "functions",
+                "data integration processes",
+                "cloud-based tools",
+                "Reporting tool quick sight",
+                "Kafka",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "interpersonal skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Upama",
+        "email": "upama@cbsllc.us",
+        "jd": "From: Upama, CBS LLC upama@cbsllc.us Reply to: upama@cbsllc.us SQL Developer-New York, NY HybridLocation: New York, NY (Hybrid \u2013 3 days/week onsite) Job Description:As a SQL Developer, you will play a critical role in designing, developing, and optimizing database solutions that support our investment banking operations. You will work closely with cross-functional teams to ensure that our data architecture meets business needs and regulatory requirements, particularly in the realm of financial reporting. Key Responsibilities:Design, develop, and optimize complex SQL scripts, stored procedures, packages, and functions.Develop and maintain conceptual, logical, and physical data models that support business requirements and regulatory standards.Implement and manage data integration processes using cloud-based tools and services.Utilize your expertise in investment banking to ensure that financial reporting requirements are met efficiently and accurately.Collaborate with stakeholders to understand reporting needs and translate them into technical specifications.Optimize database performance and troubleshoot issues to ensure high availability and reliability.Stay updated with emerging technologies and best practices to improve data management processes.Document data models, integration processes, and reporting methodologies for future reference. Required Skills and Qualifications:10+ years of experience in database development.Extensive experience with SQL development.Proven experience in data modeling and database design.Experience in investment banking financial reporting is required.Experienced in Reporting tool quick sight.Experienced in messaging (near real time) data proceeding tools like Kafka, other tools are fine.Strong analytical and problem-solving skills.Excellent understanding of database management systems (DBMS).Proficient in database performance tuning and optimization.Ability to work in a fast-paced, dynamic environment.Strong communication and interpersonal skills.We can offer you:A highly competitive compensation and benefits packageA multinational organization with 55 offices in 20 countries and the possibility to work abroadLaptop and a mobile phone10 days of paid annual leave (plus sick leave and national holidays)Maternity & Paternity leave plansA comprehensive insurance plan including: medical, dental, vision, life insurance, and long-/short-term disability (plans vary by region)Retirement savings plansA higher education certification policyCommuter benefits (varies by region)Extensive training opportunities, focused on skills, substantive knowledge, and personal developmentOn-demand Udemy for Business for all Synechron employees with free access to more than 5000 curated coursesCoaching opportunities with experienced colleagues from our Financial Innovation Labs (FinLabs) and Center of Excellences (CoE) groupsCutting edge projects at the world\u2019s leading tier-one banks, financial institutions and insurance firmsA flat and approachable organizationA truly diverse, fun-loving and global work culture.",
+        "source": "Email",
+        "date_posted": "2024-10-29 10:07:40-05:00",
+        "unique_id": "192d8f17f44f04b7",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

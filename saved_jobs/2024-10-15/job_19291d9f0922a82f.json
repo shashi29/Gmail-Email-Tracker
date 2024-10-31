@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "Azure Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "14 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory",
+                "Azure Synapse Analytics",
+                "Microsoft Fabric",
+                "ETL processes",
+                "data integration solutions"
+            ],
+            "primary": [
+                "data lakes",
+                "data warehouses",
+                "databases",
+                "data modeling",
+                "Power BI"
+            ],
+            "secondary": [
+                "machine learning",
+                "AI",
+                "Azure Machine Learning",
+                "DevOps practices",
+                "CI/CD pipelines"
+            ],
+            "all": [
+                "Azure Data Factory",
+                "Azure Synapse Analytics",
+                "Microsoft Fabric",
+                "ETL processes",
+                "data integration solutions",
+                "data lakes",
+                "data warehouses",
+                "databases",
+                "data modeling",
+                "Power BI",
+                "machine learning",
+                "AI",
+                "Azure Machine Learning",
+                "DevOps practices",
+                "CI/CD pipelines"
+            ],
+            "with_experience": [
+                "Azure Data Factory",
+                "Azure Synapse Analytics",
+                "Microsoft Fabric",
+                "ETL processes",
+                "data integration solutions"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "bharathi",
+        "email": "bharathi@vysystems.com",
+        "jd": "As an Azure/Fabric Data Engineer/Analyst, you will be responsible for designing, developing, and optimizing data pipelines, architectures, and analytics solutions on Microsoft Azure and Microsoft Fabric platforms. Your role will involve working with large datasets, designing ETL processes, and implementing data integration solutions to ensure high-quality, reliable, and scalable data management. You will collaborate with cross-functional teams to extract, transform, and load (ETL) data, implement data warehouses, and deliver insights through advanced analytics and visualizations.Key Responsibilities:- Design, develop, and maintain efficient data pipelines and ETL processes using Azure Data Factory, Azure Synapse Analytics, and Microsoft Fabric.- Implement data integration solutions across multiple sources, ensuring data quality, consistency, and security.- Develop and maintain scalable data storage solutions, including data lakes, data warehouses, and databases using Azure services.- Build and optimize data models for performance, reliability, and analytics use cases.- Collaborate with data analysts, data scientists, and business stakeholders to understand requirements and deliver actionable insights through advanced data visualization tools such as Power BI.- Ensure best practices in data governance, security, and privacy are adhered to throughout the data lifecycle.- Perform data profiling, data cleansing, and troubleshooting to ensure high-quality data is available for reporting and analytics.- Explore and implement machine learning models and predictive analytics solutions in collaboration with data science teams.- Stay updated with new technologies and best practices in Azure and cloud-based data engineering and analytics.Preferred Qualifications:- Experience with machine learning, AI, or advanced analytics using Azure Machine Learning or similar platforms.- Microsoft Certified: Azure Data Engineer Associate or equivalent certifications.- Experience with DevOps practices and CI/CD pipelines in data engineering.",
+        "source": "Email",
+        "date_posted": "2024-10-15 14:48:17-05:00",
+        "unique_id": "19291d9f0922a82f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

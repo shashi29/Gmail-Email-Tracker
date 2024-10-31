@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vyze",
+        "job_title": "Java Backend Developer (Java)",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Object-Oriented Design",
+                "CICD"
+            ],
+            "primary": [
+                "Event Driven Architecture",
+                "RDBMS",
+                "No SQL",
+                "Cloud frameworks",
+                "Agile"
+            ],
+            "secondary": [
+                "Technical Mentoring",
+                "Communication",
+                "Teamwork",
+                "Proofs-of-concept",
+                "Coding Best Practices"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Object-Oriented Design",
+                "CICD",
+                "Event Driven Architecture",
+                "RDBMS",
+                "No SQL",
+                "Cloud frameworks",
+                "Agile",
+                "Technical Mentoring",
+                "Communication",
+                "Teamwork",
+                "Proofs-of-concept",
+                "Coding Best Practices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Priya",
+        "email": "ppundhir@vyzeinc.com",
+        "jd": "From: priya, Vyze ppundhir@vyzeinc.com Reply to: ppundhir@vyzeinc.com Job Description -JOB TITLE: Java Backend Developer (Java)Duration: 6+ MonthLocation: New York, NY \u2013 OnsiteVisa: GC / USC/GC EAD/H4 EADMOI: Skype Need a candidate with at least 15 Years of experience MUST HAVE: The Role\u2022 Senior Developer with adequate skills and experience delivering design/code of high quality\u2022 Drive design and development in Java 8 and above using Object Oriented SOLID principles and patterns towards creating reusable and scalable microservices leveraging technologies such as Spring Boot Framework, and Event Driven Architecture.\u2022 Develop in a CICD environment leveraging any one of the Cloud frameworks.\u2022 Leverage the appropriate persistence mechanisms such as RDBMS, No SQL etc based on needs\u2022 Implement Coding Best Practices. Implement Code Quality gates as per the program norms.\u2022 Perform various Proofs-of-concept depending on the business needs\u2022 Coordinate with various groups to ensure success of the projects\u2022 Exhibit teamwork aligned completely with the Agile environment\u2022 Provide technical mentoring/training for junior developers based on the needsAll About You\u2022 Passionate about technology, with strong Object-Oriented Design & Programming skills\u2022 In depth knowledge on product development\u2022 Strong expertise in Java and Spring Boot. Experience working on Event Driven Architecture would be an advantage.\u2022 Experience in Online / Real Time Systems development\u2022 Experience in CI and CD\u2022 Experience in Cloud based development is desirable\u2022 Strong Communicator\u2022 Quick grasping and learning abilities\u2022 Technical Mentoring Skills",
+        "source": "Email",
+        "date_posted": "2024-10-23 15:01:42-05:00",
+        "unique_id": "192bb19784eebfcb",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

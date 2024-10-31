@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Atlantis",
+        "job_title": "Application Developer with AWS",
+        "location": "Redmond, WA, USA",
+        "full_location": {
+            "city": "Redmond",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "API development",
+                "Systems integration"
+            ],
+            "primary": [
+                "AWS",
+                "Troubleshooting",
+                "Test driven mindset"
+            ],
+            "secondary": [
+                "JSON",
+                "Backend development",
+                "Code design"
+            ],
+            "all": [
+                "Java",
+                "API development",
+                "Systems integration",
+                "AWS",
+                "Troubleshooting",
+                "Test driven mindset",
+                "JSON",
+                "Backend development",
+                "Code design"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ram",
+        "email": "ram.a@atlantisitgroup.com",
+        "jd": "From: Ram, Atlantis ram.a@atlantisitgroup.com Reply to: ram.a@atlantisitgroup.com Title: Application Developer with AWS Visa: Green Card and Citizen Duration: 12+ Months Location: Redmond, WATroubleshoot/java, some reference architecture, development, review system flow diagrams, integrated front end with backend APIs, understand API calls/JSON connections, + troubleshoot codeBackend java, API development experience (server, backend, etc.)Very strong Java expertiseUnderstand Problem stmt, systems integration and code design , test driven mindsetAbility to manage coding and SI design work for backend APIs5 years\u2019 experience at least.",
+        "source": "Email",
+        "date_posted": "2024-10-17 13:30:31-05:00",
+        "unique_id": "1929bdf626093815",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

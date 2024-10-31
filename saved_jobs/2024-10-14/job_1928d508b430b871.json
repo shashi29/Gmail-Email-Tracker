@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Vyze",
+        "job_title": "Lead Java Application",
+        "location": "Albany, NY, USA",
+        "full_location": {
+            "city": "Albany",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "React",
+                "Angular"
+            ],
+            "primary": [
+                "RESTful APIs",
+                "Web Services",
+                "JavaScript",
+                "Hibernate",
+                "Cloud and DevOps Architecture"
+            ],
+            "secondary": [
+                "Pivotal Cloud Foundry",
+                "PostgreSQL",
+                "NoSQL DBs",
+                "HTML5",
+                "CSS"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "React",
+                "Angular",
+                "RESTful APIs",
+                "Web Services",
+                "JavaScript",
+                "Hibernate",
+                "Cloud and DevOps Architecture",
+                "Pivotal Cloud Foundry",
+                "PostgreSQL",
+                "NoSQL DBs",
+                "HTML5",
+                "CSS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "priya",
+        "email": "ppundhir@vyzeinc.com",
+        "jd": "Job Description -Job Title: Lead Java ApplicationLocation: Albany, NY (Onsite) Need Local Duration: 12 months Visa: USC/GCClient: MOI: VideoLead Java Developer with UI. Having 12+ years of experience Job Overview:As a Lead Application Architect specializing in Java, Microservices and React/Angular, you will play a pivotal role in designing and implementing scalable, resilient, and high-performance software solutions. You will provide technical leadership and guidance to development teams, driving architectural decisions, and ensuring adherence to best practices and industry standards. The ideal candidate will have a deep understanding of Java development, Spring Boot framework, microservices architecture, and cloud technologies, along with strong problem-solving and communication skills.Role:\u2022 Design secure, reliable, high availability, scalable solutions for the Product.\u2022 Define, plan, and support execution of the technology strategy for one or more products.\u2022 Collaborate closely with the global Solution Architecture & Engineering team to define principles and best practices.\u2022 Support development teams and work with stakeholders, promoting agile development.\u2022 Create a culture of technical excellence and ceaseless improvement.\u2022 Research, create and evaluate technical solution alternatives for the business needs using current and upcoming technologies and frameworks.\u2022 Drive the overall Software Implementation for the Product using your deep expertise in microservices-based architectures for the fintech industry.\u2022 Partner with senior technical and product leaders for the platform on how to deliver on your designs.\u2022 Collaborate with the development teams, operations, and product owners.\u2022 Provide technical leadership and mentorship to development teams.\u2022 Represent as the primary architect and technical advocate with other groups within the program.Technologies:\u2022 Java, J2EE, micro services, RESTful APIs, React, Angular, Web Services, JavaScript\u2022 Framework - Spring (Spring Boot, Spring Data, Spring Batch, Spring REST, Spring Cloud, AOP), Hibernate\u2022 API tooling and design best practices\u2022 Cloud and DevOps Architecture, especially via Pivotal Cloud Foundry\u2022 Databases \u2013 PostgreSQL / NoSQL DBsAll about you:\u2022 More than 10 years of rich product engineering experience designing scalable software solutions.\u2022 You have an exceptional foundation in Computer Science fundamentals, web applications & services, and microservices-based software architecture.\u2022 You have architected & designed high transaction volume, financial (banking, payment) systems that operate at global scale and extreme up-time requirements.\u2022 You have experience with web technologies including HTML5, CSS, JavaScript, and front-end frameworks such as React, Angular.\u2022 You have extensive experience in designing and building global-scale, back-end micro services using Java, Spring, Spring Boot.\u2022 You have a deep understanding of storage technologies such as PostgreSQL or SQL Server, and how to effectively leverage them at massive scale.\u2022 You have deep experience with cloud-native technologies and best practices, such as PCF, Kubernetes, Azure & AWS.\u2022 You enjoy working in an Agile environment focused on continuous improvement.\u2022 You have a strong desire to collaborate and provide mentorship to technology teams.\u2022 You enjoy working with product leaders to inform and support options for delivering highly capable solutions that meet market demands.\u2022 You desire to be hands-on building prototypes to solve complex business problems.\u2022 You have excellent communication skills with both technical and non-technical people.\u2022 You are a relentless self-starter who works quickly and efficiently to support product and technical objectives.",
+        "source": "Email",
+        "date_posted": "2024-10-14 15:04:10-05:00",
+        "unique_id": "1928d508b430b871",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

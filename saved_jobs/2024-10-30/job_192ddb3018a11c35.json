@@ -1,0 +1,119 @@
+[
+    {
+        "company": "ZealHire Inc",
+        "job_title": "SQL Server DBA with Anyone certification of MCTS or MCITPs or MVP",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ Years",
+            "degree_required": "Bachelor's",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MS SQL Server Administration",
+                "Performance Tuning and Optimization",
+                "SQL Server installation and configuration",
+                "Complex SQL queries",
+                "T-SQL"
+            ],
+            "primary": [
+                "Azure",
+                "AWS cloud computing",
+                "Backups and restores",
+                "Disaster Recovery Options",
+                "Database mirroring",
+                "Database Replication",
+                "PowerShell",
+                "Python",
+                "SQL Server Analysis Services",
+                "Integration Services",
+                "Reporting Services",
+                "Microservices",
+                "REST",
+                "JVM",
+                "NodeJS",
+                "Java",
+                "J2EE",
+                "Javascript",
+                "YAML",
+                "JSON",
+                "Windows server",
+                "Active Directory",
+                "Networking"
+            ],
+            "secondary": [
+                "MCTS",
+                "MCITP",
+                "MVP certifications",
+                "SSIS",
+                "Alteryx",
+                "SSRS",
+                "Power BI"
+            ],
+            "all": [
+                "MS SQL Server Administration",
+                "Performance Tuning and Optimization",
+                "SQL Server installation and configuration",
+                "Complex SQL queries",
+                "T-SQL",
+                "Azure",
+                "AWS cloud computing",
+                "Backups and restores",
+                "Disaster Recovery Options",
+                "Database mirroring",
+                "Database Replication",
+                "PowerShell",
+                "Python",
+                "SQL Server Analysis Services",
+                "Integration Services",
+                "Reporting Services",
+                "Microservices",
+                "REST",
+                "JVM",
+                "NodeJS",
+                "Java",
+                "J2EE",
+                "Javascript",
+                "YAML",
+                "JSON",
+                "Windows server",
+                "Active Directory",
+                "Networking",
+                "MCTS",
+                "MCITP",
+                "MVP certifications",
+                "SSIS",
+                "Alteryx",
+                "SSRS",
+                "Power BI"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Avinash Kumar",
+        "email": "avinash@zealhire.com",
+        "jd": "Position: SQL Server DBA with Anyone certification of MCTS/MCITPs/MVP\nLocation: Remote (Need Only EST/CST candidate)\nDesired years of experience: 8+ Years\nVisa required: USC/GC\n\nProject Summary\nThe successful candidate will be responsible for the development and sustainment of the SQL Server Warehouse, ensuring its operational readiness (security, health, and performance), assisting in executing data loads, and performing data modeling in support of multiple development teams. Must be effective working independently as well as collaboratively.\n\nEssential Functions\nThe SQL Server DBA will be responsible for the implementation, configuration, maintenance, and performance of critical SQL Server RDBMS systems, to ensure the availability and consistent performance of our corporate applications. They will also support the deployment processes for both Data Engineering & Analytics and Software Engineering Teams.\n\nTop Five Skills Required\n3+ years MS SQL Server Administration experience required.\nExperience with Performance Tuning and Optimization for a large-scale data warehouse.\nExperience installing and configuring new SQL Servers (preferably SQL Server 2016/2017 and above), some experience in Azure or AWS cloud computing is preferred.\nExperience with backups, restores, security audits/access control, recovery models, Disaster Recovery Options (DR), database shrink operations, DBCC commands, Clustering, Database mirroring, database Replication.\nExperience in writing complex SQL queries for data retrieval and manipulation. Understanding of Stored Procedures, Triggers, Functions, Indexes, Views is a must.\nUnderstanding of T-SQL along with deep understanding of at least one scripting language such as PowerShell, or Python.\nExperience in deploying and monitoring SQL Server Analysis Services, Integration Services, and Reporting Services environments.\nPerformance Tuning including query rewrites, index changes, server configuration changes and or hardware scaling.\nTo support software engineering deployments, knowledge of Microservices, REST, JVM (Java - Spring, Spring Boot, Hibernate), NodeJS is a must.\nUnderstanding of Java, J2EE, Javascript, Python, YAML, JSON programming.\nExperience working with Windows server, including Active Directory and some understanding of networking such as firewalls etc.\nExperience with SSIS/Alteryx, SSRS, and Power BI.\n\nNice to have skills\nMCTS, MCITP, and/or MVP certifications a plus.\n\nEducation\nBachelor's",
+        "source": "Email",
+        "date_posted": "2024-10-30 07:55:28-05:00",
+        "unique_id": "192ddb3018a11c35",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

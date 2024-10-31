@@ -1,0 +1,70 @@
+[
+    {
+        "company": "WISE EQUATION SOLUTION INC",
+        "job_title": "Java Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "React",
+                "AWS"
+            ],
+            "primary": [
+                "Spring",
+                "Hibernate",
+                "Docker",
+                "Microservices",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Debugging",
+                "Communication"
+            ],
+            "all": [
+                "Java",
+                "React",
+                "AWS",
+                "Spring",
+                "Hibernate",
+                "Docker",
+                "Microservices",
+                "CI/CD",
+                "Problem-solving",
+                "Debugging",
+                "Communication"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Himanshu Pandey",
+        "email": "himanshu@wiseq.net",
+        "jd": "From: Himanshu Pandey, WISE EQUATION SOLUTION INC himanshu@wiseq.net Reply to: himanshu@wiseq.net Job Title: Java DeveloperLocation: Chicago, IL (3 days onsite, 2 days remote)Job Description:We are seeking a skilled Java Developer to join our dynamic team in Chicago, IL. The ideal candidate will have hands-on experience in Java development, proficiency in React for front-end work, and familiarity with AWS cloud services. This is a hybrid role, with 3 days onsite and 2 days remote per week. Candidates must be located nearby to facilitate onsite work and must be authorized to work in the U.S. without sponsorship. Key Responsibilities:Design, develop, and maintain scalable Java-based applications.Build responsive and interactive user interfaces using React.Develop, test, and deploy applications in an AWS environment, utilizing cloud services for performance and scalability.Collaborate with cross-functional teams to define, design, and ship new features.Participate in code reviews, testing, and debugging to ensure the highest quality of code.Continuously explore and implement new technologies to improve development efficiency. Must-Have Skills:Java: Strong experience with Java programming, including knowledge of frameworks such as Spring or Hibernate.React: Proficiency in front-end development with React, including creating components, state management, and integrating with back-end services.AWS: Experience with AWS cloud services, including deployment, management, and monitoring of applications on AWS.Preferred Qualifications:Familiarity with containerization technologies like Docker.Experience with microservices architecture.Knowledge of CI/CD pipelines.Strong problem-solving and debugging skills.Excellent communication skills and ability to work in a team-oriented environment. Thanks & RegardsMR. HP (Himasnhu Pandey)Sr. Technical Recruiter.Desk-512 957 8275Ext-187Email: himanshu@WiseQ.net",
+        "source": "Email",
+        "date_posted": "2024-10-16 15:51:02-05:00",
+        "unique_id": "1929739b3d8cf136",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

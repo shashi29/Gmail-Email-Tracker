@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Rurisoft technologies",
+        "job_title": ".NET Microservices Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "Microservices",
+                "Cloud-native development",
+                "CI/CD",
+                "Python",
+                "Typescript"
+            ],
+            "primary": [
+                "Distributed software patterns",
+                "Object-oriented design",
+                "Azure cloud platform",
+                "CQRS",
+                "Event-driven architecture",
+                "Kafka"
+            ],
+            "secondary": [
+                "Monitoring",
+                "Alerting",
+                "Observability",
+                "Domain-Driven Design",
+                "SaaS"
+            ],
+            "all": [
+                ".NET",
+                "Microservices",
+                "Cloud-native development",
+                "CI/CD",
+                "Python",
+                "Typescript",
+                "Distributed software patterns",
+                "Object-oriented design",
+                "Azure cloud platform",
+                "CQRS",
+                "Event-driven architecture",
+                "Kafka",
+                "Monitoring",
+                "Alerting",
+                "Observability",
+                "Domain-Driven Design",
+                "SaaS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "suma",
+        "email": "suma@rurisoft.com",
+        "jd": "From: suma, Rurisoft technologies suma@rurisoft.com Reply to: suma@rurisoft.com .NET Microservices DeveloperLocation : Dallas TX (On-site) Knowledge and skills required: Net API Microservices Expert of scalable, resilient, modern, cloud-native microservice development with .NET, Python, or TypescriptExpert in distributed software patterns, such as DDD, microservices, serverless, and event-driven architectureExpert in Object-oriented design, .NET developmentExpert in CI/CD technologies to deliver software to customers with full automationExperience in Cloud platforms and cloud-native architectures, including ServerlessExperience with Azure cloud platform and its various servicesExperience with CQRS, event-driven architecture, and KafkaExperience building monitoring, alerting, and observability for maintaining high customer SLAs for SaaS delivered productsExperience decomposing monolithic applications using Domain-Driven Design into microservicesExcels in the ability to lead, teach, and guide modern software-development practices across Product Development, operating independently with guidance",
+        "source": "Email",
+        "date_posted": "2024-10-29 08:18:36-05:00",
+        "unique_id": "192d88da564912a6",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

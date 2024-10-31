@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Teamware Solutions",
+        "job_title": "Cloud Engineer",
+        "location": "Las Vegas, NV, USA",
+        "full_location": {
+            "city": "Las Vegas",
+            "state": "NV",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Cloud Computing",
+                "Infrastructure Design"
+            ],
+            "primary": [
+                "C2S Elastic Compute Cloud (EC2)",
+                "RDS",
+                "EMR",
+                "LAMBDA",
+                "VPC",
+                "S3",
+                "Cloud DevOps"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "Cloud Computing",
+                "Infrastructure Design",
+                "C2S Elastic Compute Cloud (EC2)",
+                "RDS",
+                "EMR",
+                "LAMBDA",
+                "VPC",
+                "S3",
+                "Cloud DevOps"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bharath",
+        "email": "bharath.n@twsol.com",
+        "jd": "Hi This is Bharath from Teamware solutions.Hope you are doing well.This email is regarding a job opportunity, Hope I reached the perfect candidate.______________________________________________________________________________________Below is the Job Description for your referenceCloud EngineerLas Vegas, NV/ Los AngelesOnsite - contract positionCloud Engineer will be responsible for driving and executing infrastructure design.driving and executing infrastructure design engagement for on-prem and cloud architecture using AWS. Lead the deployment and operation of C2S Elastic Compute Cloud (EC2) , RDS, EMR, LAMBDA, VPC, S3, and other cloud related infrastructure components.Digital : Cloud DevOps, Digital : Amazon Web Service(AWS) Cloud Computing.If you're okay with that please share you most updated resume to my below email address.email: bharath.n@twsol.comRegards,BharathExecutive - Talent acquisition Teamware Solutions Inc |8951 Cypress Waters Blvd, Suite #1092, Dallas Texas 75019email: bharath.n@twsol.com",
+        "source": "Email",
+        "date_posted": "2024-10-10 08:29:40-05:00",
+        "unique_id": "19276dea3fb8cb2d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

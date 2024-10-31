@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Infosys",
+        "job_title": "Java Developer",
+        "location": "Tampa, FL, USA",
+        "full_location": {
+            "city": "Tampa",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "RESTful APIs",
+                "Software Development"
+            ],
+            "primary": [
+                "Debugging",
+                "Code Reviews",
+                "Application Performance Optimization"
+            ],
+            "secondary": [
+                "Documentation",
+                "Collaboration",
+                "Emerging Technologies"
+            ],
+            "all": [
+                "Java",
+                "RESTful APIs",
+                "Software Development",
+                "Debugging",
+                "Code Reviews",
+                "Application Performance Optimization",
+                "Documentation",
+                "Collaboration",
+                "Emerging Technologies"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shivangi Tripathi",
+        "email": "shivangi.tripathi@synkriom.com",
+        "jd": "Hi, Kindly go through the JD Develop, test, and deploy high-quality Java applications in a timely manner. Collaborate with product managers, designers, and other developers to understand requirements and deliver technical solutions. Write clean, maintainable, and efficient code following best practices and coding standards. Troubleshoot, debug, and resolve software defects and technical issues. Participate in code reviews to ensure code quality and consistency. Implement RESTful APIs and integrate third-party services and APIs as needed. Optimize application performance and scalability by analyzing and improving existing code and architecture. Maintain accurate documentation of software design, code, and processes. Stay up-to-date with emerging technologies and industry trends related to Java development.",
+        "source": "Email",
+        "date_posted": "2024-10-14 13:55:19-05:00",
+        "unique_id": "1928c83235bb1ff6",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

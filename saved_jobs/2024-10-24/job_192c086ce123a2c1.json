@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "AWS Cloud SRE",
+        "location": "Pleasonton, CA, USA",
+        "full_location": {
+            "city": "Pleasonton",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Terraform",
+                "Kubernetes",
+                "AWS Services",
+                "CI/CD"
+            ],
+            "primary": [
+                "Docker",
+                "ArgoCD",
+                "GitHub",
+                "Jenkins",
+                "Bash Scripting"
+            ],
+            "secondary": [
+                "Helm Charts",
+                "Cloud Formation",
+                "Chef",
+                "Puppet",
+                "Ansible"
+            ],
+            "all": [
+                "Python",
+                "Terraform",
+                "Kubernetes",
+                "AWS Services",
+                "CI/CD",
+                "Docker",
+                "ArgoCD",
+                "GitHub",
+                "Jenkins",
+                "Bash Scripting",
+                "Helm Charts",
+                "Cloud Formation",
+                "Chef",
+                "Puppet",
+                "Ansible"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kaushik",
+        "email": "kaushik@vysystems.com",
+        "jd": "From: Kaushik, vysystems kaushik@vysystems.com Reply to: kaushik@vysystems.com Skills :(15+ years of Exp)Python , Terraform , Kubernetes , AWS Services , CI/CD setup , SRE , ArgoCD1 Core AWS services EC2, S3, EBS, ELB, Route53, VPC, Architecture, etc., Mandatory2 Automation / Infra-as-Code Terraform Mandatory3 DevOps Hands-on experience in CI/CD technologies - eg: Argo CD(preferred), and Argo Workflow (preferred), Jenkins. Github etc Mandatory4 Scripting Languages Python, Bash Scripting MandatoryAWS DevOps /SRE Engineer:Responsibilities & Desired Skills :\u2022 Looking for a Kubernetes Developer Profile\u2022 Docker Build and Management experience\u2022 Hands on Experience with Python (experience with wheels module will be added advantage)\u2022 Self-Driven Associate, who know how to overcome the blockers\u2022 POD Navigation & Debugging\u2022 Helm Charts (umbrella Template)\u2022 Provide stable cloud environment with proven experience in cloud engineering anda deep understanding of AWS and/or GCP services and offerings.\u2022 Develop processes and pipelines with hands-on experience in CI/CD technologies - eg: Argo CD(preferred), and Argo Workflow (preferred), Chef or Puppet, Ansible, Jenkins. Gitlab etc.\u2022 5 + Years with Python and 5 + years with AWS\u2022 Strong understanding of AWS foundation - VPC, Compute, Storage, Network & Security\u2022 Ability to provision infrastructure using Cloud Formation or Terraform\u2022 Hands on knowledge of Python and Shell Scripting\u2022 Good Administration skills in Linux and/or WindowsSkill Level1 Core AWS services EC2, S3, EBS, ELB, Route53, VPC, Architecture, etc., Mandatory2 Automation / Infra-as-Code Terraform Mandatory3 DevOps Hands-on experience in CI/CD technologies - eg: Argo CD(preferred), and Argo Workflow (preferred), Jenkins. Github etc Mandatory4 Scripting Languages Python, Bash Scripting Mandatory",
+        "source": "Email",
+        "date_posted": "2024-10-24 16:18:42-05:00",
+        "unique_id": "192c086ce123a2c1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

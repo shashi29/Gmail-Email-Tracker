@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Yochana IT",
+        "job_title": "ML-Ops Engineer",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Longterm Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP model deployment experience",
+                "Python",
+                "ML-Ops",
+                "Pytorch",
+                "TensorFlow"
+            ],
+            "primary": [
+                "Cron jobs",
+                "Shell scripts",
+                "CI/CD pipeline",
+                "Terraform",
+                "Ansible",
+                "Spark",
+                "PySpark",
+                "LLMs optimization",
+                "Data pipelines creation",
+                "Prompt engineering",
+                "AI tools in GCP like Vertex AI",
+                "Jupyter Lab"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP model deployment experience",
+                "Python",
+                "ML-Ops",
+                "Pytorch",
+                "TensorFlow",
+                "Cron jobs",
+                "Shell scripts",
+                "CI/CD pipeline",
+                "Terraform",
+                "Ansible",
+                "Spark",
+                "PySpark",
+                "LLMs optimization",
+                "Data pipelines creation",
+                "Prompt engineering",
+                "AI tools in GCP like Vertex AI",
+                "Jupyter Lab"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Chandra Sekhar Prathipati",
+        "email": "chandra@yochana.com",
+        "jd": "Job Title: ML-Ops Engineer\nLocation: Irving, TX or Basking Ridge, NJ or Tampa, FL (hybrid role)\nDuration: Longterm Contract\n\nMandatory skillset: Customer is stringent on GCP model deployment experience.\n- Cron jobs\n- Shell scripts\n- Deploy models\n- Python\n- CI/CD pipeline: Terraform, Ansible\n- Spark/PySpark hands-on experience\n\nExperience candidate in ML-Ops, mainly to optimize multiple ML models and create efficient ML models?\n- Hands-on with LLMs and optimize LLMs.\n- Experience on GCP services.\n- Extensive hands-on Pytorch and TensorFlow. Which to use? In what scenarios?\n- GPU efficient usage and optimization of resources.\n- Hands-on on different ML models creation.\n- How to tune different parameters in ML models? And in LLMs?\n- Exposure to create data pipelines in ML is also required.\n- Exposure to prompt engineering as well.\n- Exposure to AI tools in GCP like Vertex AI, etc. required.\n- Hands-on in Jupyter Lab required.\n\nCustomer is looking for someone who can independently work & solve different problems from downstream applications and efficiently use the ML-Ops, AI/ML Models LMS and optimize them.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:36:33-05:00",
+        "unique_id": "192ddc466bfef479",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

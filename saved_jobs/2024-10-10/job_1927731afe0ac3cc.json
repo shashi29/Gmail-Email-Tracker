@@ -1,0 +1,98 @@
+[
+    {
+        "company": "Parin Technologies",
+        "job_title": ".NET Developer",
+        "location": "Manhattan, NY, USA",
+        "full_location": {
+            "city": "Manhattan",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "ASP.NET",
+                "MVC",
+                "Web API",
+                "WCF Services",
+                "Windows Services"
+            ],
+            "primary": [
+                "Microsoft SQL Server",
+                "SSRS",
+                "jQuery",
+                "Angular",
+                ".Net Core 3.0+",
+                "Microsoft Visual Studio 2019/2022",
+                "Microsoft SQL Management Studio",
+                "GitLab",
+                "Microsoft Azure DevOps"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET",
+                "C#",
+                "ASP.NET",
+                "MVC",
+                "Web API",
+                "WCF Services",
+                "Windows Services",
+                "Microsoft SQL Server",
+                "SSRS",
+                "jQuery",
+                "Angular",
+                ".Net Core 3.0+",
+                "Microsoft Visual Studio 2019/2022",
+                "Microsoft SQL Management Studio",
+                "GitLab",
+                "Microsoft Azure DevOps"
+            ],
+            "with_experience": [
+                ".NET",
+                "C#",
+                "ASP.NET",
+                "MVC",
+                "Web API",
+                "WCF Services",
+                "Windows Services",
+                "Microsoft SQL Server",
+                "SSRS",
+                "jQuery",
+                "Angular",
+                ".Net Core 3.0+",
+                "Microsoft Visual Studio 2019/2022",
+                "Microsoft SQL Management Studio",
+                "GitLab",
+                "Microsoft Azure DevOps"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Niki",
+        "email": "niki@parintec.com",
+        "jd": "From: Niki, Parin Technologies niki@parintec.com Reply to: niki@parintec.com Title: .NET DeveloperLocation: Manhattan, NYONSITE work Candidate must have minimum of 10 years\u2019 experience in application development \u2022 Hands-on experience working with .NET technologies (C#, ASP.NET, MVC, Web API, WCF Services, Windows Services);\u2022 Hands-on experience in Microsoft SQL Server, creating data definitions and complex database objects and stored procedures\u2022 Hands-on experience to develop reports using Microsoft SSRS\u2022 developing web applications using jQuery/Angular and .Net Core 3.0+ along with other web development frameworks/tools.\u2022 Experience with Microsoft Visual Studio 2019/2022, Microsoft SQL Management Studio.\u2022 Experience to use source control tools on GitLab and Microsoft Azure DevOps serve",
+        "source": "Email",
+        "date_posted": "2024-10-10 10:20:51-05:00",
+        "unique_id": "1927731afe0ac3cc",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

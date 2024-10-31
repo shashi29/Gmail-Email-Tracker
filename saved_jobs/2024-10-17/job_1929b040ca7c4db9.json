@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Triwave Solutions Inc",
+        "job_title": ".net Core Developer",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract through June + Extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                ".NET Core",
+                "C#",
+                "ASP.NET",
+                "SQL"
+            ],
+            "primary": [
+                "MVC",
+                "Web API",
+                "Blazor",
+                "T-SQL",
+                "Data mapping",
+                "Application architecture",
+                "Data integration",
+                "Data analysis"
+            ],
+            "secondary": [
+                "DevOps",
+                "CI/CD",
+                "Azure DevOps",
+                "GitHub",
+                "Customer support"
+            ],
+            "all": [
+                ".NET",
+                ".NET Core",
+                "C#",
+                "ASP.NET",
+                "SQL",
+                "MVC",
+                "Web API",
+                "Blazor",
+                "T-SQL",
+                "Data mapping",
+                "Application architecture",
+                "Data integration",
+                "Data analysis",
+                "DevOps",
+                "CI/CD",
+                "Azure DevOps",
+                "GitHub",
+                "Customer support"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Priyanka Verma",
+        "email": "priyanka@triwavesolutions.com",
+        "jd": "From: priyanka verma, Triwave Solutions Inc priyanka@triwavesolutions.com Reply to: priyanka@triwavesolutions.com Position ResponsibilitiesJob Title: .net Core DeveloperJob Location: Tallahassee, FL (on-site)Job Duration: Contract through June + ExtensionJob Overview: Collaborate with business analysts, project managers, and stakeholders to understand the functional and non-functional requirements of the application.Translate business requirements into architectural designs that align with business goals.Design the overall system architecture and define how different components of the interact.Design, develop, and implement software applications using the .NET framework and C#.Utilize ASP.NET (or ASP.NET Core) for web application development, including MVC, Web API, and Blazor for client-side and server-side programming.Develop and optimize SQL queries, stored procedures, and functions.Develop user interfaces and ensure the front end is responsive, accessible, and user friendly.Review code, architecture, and design to ensure they meet the standards.Analyze and optimize the performance of the application.Design strategies for scaling the application efficiently as user demand grows.Ensure the application adheres to security best practices and compliance requirements.Implement DevOps practices such as continuous integration and continuous delivery (CI/CD) via Azure DevOps and GitHub repositories.Required Experience: 5+ years of experience in .NET/.NET core application development (recent experience preferred)5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.3+ years of experience with application design, including Data mapping.3+ years of experience in application architecture and data integration.3+ years of analyzing and interpreting large datasets, including cleaning, transforming, and visualizing data.3+ years of Experience in testing high-volume of complex data integration processes.1+ years of Experience using BlazorFamiliarity with system catalog views, and Azure CloudAbility to provide excellent customer support; meticulous quality of work and work product.",
+        "source": "Email",
+        "date_posted": "2024-10-17 09:26:25-05:00",
+        "unique_id": "1929b040ca7c4db9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

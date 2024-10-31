@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": "Senior Database Developer",
+        "location": "Longmont, CO, USA",
+        "full_location": {
+            "city": "Longmont",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "13+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "MSBI",
+                "T-SQL",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "SSIS",
+                "Database Automation",
+                "Enterprise Reporting",
+                "Power BI",
+                "MongoDB"
+            ],
+            "secondary": [
+                "Excellent written and verbal communication skills"
+            ],
+            "all": [
+                "SQL Server",
+                "MSBI",
+                "T-SQL",
+                "Performance Tuning",
+                "SSIS",
+                "Database Automation",
+                "Enterprise Reporting",
+                "Power BI",
+                "MongoDB",
+                "Excellent written and verbal communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dimiour Jerry",
+        "email": "jerry.swaminathan@dimiour.io",
+        "jd": "From: Jerry, Dimiour jerry.swaminathan@dimiour.io Reply to: jerry.swaminathan@dimiour.io Role : Senior Database DeveloperLocation : Longmont, CO and Sacramento, CA - OnsiteLong Term ContractJD Minimum of 13+ years of hands-on experience in SQL Server and MSBI (SSIS/SSAS)Strong knowledge on writing complex T-Sql queries, Stored procedures, Functions, Triggers and Database objects.Expertise in Performance Tuning, Database activity automation and Enterprise Reporting solutions.Write complex queries for applications and business intelligence reportingHandle common database procedures such as upgrade, backup, recovery, migration, etcInstall and configure SQL server in a server4 + years of hands-on experience in SSISExperience developing Power BI models and dashboardsExperience in MSSQL and MongoDB is plusExcellent written and verbal communication skills",
+        "source": "Email",
+        "date_posted": "2024-10-21 14:59:07-05:00",
+        "unique_id": "192b0ccf8d62926c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

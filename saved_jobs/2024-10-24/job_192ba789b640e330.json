@@ -1,0 +1,71 @@
+[
+    {
+        "company": "TechRakers",
+        "job_title": "Expert Data Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Expert-level",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Snowflake",
+                "Apache Kafka",
+                "Data warehousing",
+                "ETL tools",
+                "Agile development methodology"
+            ],
+            "primary": [
+                "Analytical skills",
+                "Problem-solving skills",
+                "Secure development life cycle knowledge"
+            ],
+            "secondary": [
+                "Onsite-offshore setup experience",
+                "Goal-oriented attitude",
+                "Focus on delivery"
+            ],
+            "all": [
+                "Python",
+                "Snowflake",
+                "Apache Kafka",
+                "Data warehousing",
+                "ETL tools",
+                "Agile development methodology",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Secure development life cycle knowledge",
+                "Onsite-offshore setup experience",
+                "Goal-oriented attitude",
+                "Focus on delivery"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Zara",
+        "email": "zararaza@techrakers.com",
+        "jd": "From: Zara, TechRakers zararaza@techrakers.com Reply to: zararaza@techrakers.com Expert Data Engineer Local to Chicago,ILThis is hybrid in Chicago. Candidates must be local to Chicago (not open to relo candidates). This is an expert level role.Top Skills' DetailsQualifications (must haves):> Knowledge of Python, Snowflake, Apache Kafka, Data warehousing, ETL tools and Agile development methodology> Knowledge of full secure development life cycle> Analytical and problem-solving skills> A positive goal-oriented attitude with a focus on delivery. Experience working in onsite-offshore setup",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:06:45-05:00",
+        "unique_id": "192ba789b640e330",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

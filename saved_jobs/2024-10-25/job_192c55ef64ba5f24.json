@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Convex Tech Inc.",
+        "job_title": "Senior Azure Data Analytics Administrator",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure cloud administration",
+                "Azure Synapse Analytics",
+                "Azure Data Factory",
+                "Power BI administration",
+                "Data visualization"
+            ],
+            "primary": [
+                "Azure Data Lake",
+                "Azure SQL Database",
+                "Azure Blob Storage",
+                "SQL",
+                "Python",
+                "Azure Functions"
+            ],
+            "secondary": [
+                "Data governance",
+                "Compliance standards",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills",
+                "Organizational skills",
+                "Attention to detail",
+                "Azure Data Engineer certification",
+                "Azure Administrator certification"
+            ],
+            "all": [
+                "Azure cloud administration",
+                "Azure Synapse Analytics",
+                "Azure Data Factory",
+                "Power BI administration",
+                "Data visualization",
+                "Azure Data Lake",
+                "Azure SQL Database",
+                "Azure Blob Storage",
+                "SQL",
+                "Python",
+                "Azure Functions",
+                "Data governance",
+                "Compliance standards",
+                "Analytical skills",
+                "Problem-solving skills",
+                "Communication skills",
+                "Organizational skills",
+                "Attention to detail",
+                "Azure Data Engineer certification",
+                "Azure Administrator certification"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sanjay Sunar",
+        "email": "sanjay@convextech.com",
+        "jd": "From: Sanjay Sunar, convextech sanjay@convextech.com Reply to: sanjay@convextech.com Position: Senior Azure Data Analytics Administrator Location: Remote Travel: up to 20% withing US Central Time Zone (travel expenses reimbursed) Duration:6-12MonthsVisa: NO H1B/CPT Interview: Phone/Skype/Teams Job Description: Responsible for administering and optimizing Azure resources to ensure efficient deployment and scalability of cloud solutions.Monitor Azure environments for performance, security, and compliance, making necessary adjustments as needed. YInvolve designing and managing data integration solutions using Azure Data Factory to facilitate ETL processes, collaborating closely with data engineers and data scientists to implement robust data pipelines that support analytics initiatives.Implement and maintain Azure Synapse Analytics to support large-scale data warehousing and real-time analytics solutions, utilizing its capabilities to analyze complex datasets and derive actionable insights. Manage Power BI environments, overseeing user access, workspace configuration, and report/dashboard deployment, while ensuring data accuracy and relevance through effective data model creation and maintenance.Collaborate with cross-functional teams is essential, as you will gather requirements and provide tailored data solutions. Document processes and workflows to ensure knowledge sharing and adherence to best practices. Troubleshoot technical issues related to Azure services and data analytics tools, providing support and guidance to end-users regarding data-related queries and Power BI usage.Job Requirements:A minimum of 5 years of experience in Azure cloud administration and data analytics is required, along with proven expertise in Azure Synapse Analytics and Azure Data Factory.A strong background in Power BI administration and data visualization is also essential.Technical skills include in-depth knowledge of Azure services such as Azure Data Lake, Azure SQL Database, and Azure Blob Storage, as well as familiarity with programming languages like SQL, Python, or Azure Functions for data manipulation.Experience with data governance and compliance standards in a cloud environment is important.Strong analytical and problem-solving skills are necessary to translate business requirements into technical solutions, along with excellent communication skills for effective collaboration with diverse stakeholders. Organizational skills and attention to detail are crucial for managing multiple projects. Relevant Azure certifications (e.g., Azure Data Engineer, Azure Administrator) are highly desirable.This position is ideal for a proactive and analytical individual passionate about leveraging data to drive business insights and enhance decision-making processes.",
+        "source": "Email",
+        "date_posted": "2024-10-25 14:54:39-05:00",
+        "unique_id": "192c55ef64ba5f24",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

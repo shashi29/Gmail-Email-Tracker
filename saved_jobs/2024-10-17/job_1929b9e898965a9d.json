@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Stacknexus",
+        "job_title": "Python Software Engineer/ Python Full Stack Developer / Python Data Engineer",
+        "location": "Mclean, VA, USA",
+        "full_location": {
+            "city": "Mclean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4 years",
+            "degree_required": "Bachelor\u2019s Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "10 months with possible extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "ETL pipelines",
+                "GraphQL",
+                "API Development",
+                "AWS- EMR",
+                "Fargate"
+            ],
+            "primary": [
+                "Front-end web framework",
+                "Relational Databases",
+                "NoSQL Databases"
+            ],
+            "secondary": [
+                "Java",
+                "Scala",
+                "Go",
+                "Node.js",
+                "Django",
+                "Javascript",
+                "PHP",
+                "Microsoft Azure",
+                "Google Cloud"
+            ],
+            "all": [
+                "Python",
+                "ETL pipelines",
+                "GraphQL",
+                "API Development",
+                "AWS- EMR",
+                "Fargate",
+                "Front-end web framework",
+                "Relational Databases",
+                "NoSQL Databases",
+                "Java",
+                "Scala",
+                "Go",
+                "Node.js",
+                "Django",
+                "Javascript",
+                "PHP",
+                "Microsoft Azure",
+                "Google Cloud"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Avinash",
+        "email": "avinash.rongala@stacknexus.io",
+        "jd": "From: Avinash, Stacknexus avinash.rongala@stacknexus.io Reply to: avinash.rongala@stacknexus.io Position: Python Software Engineer/ Python Full Stack Developer / Python Data EngineerLocation: Mclean, VA (Hybrid Onsite from Day1)Duration: 10 months with possible extensionRequired Skills:PythonETL pipelinesGraphQLAPI DevelopmentAWS- EMR, FargateFront-end web frameworkPrevious Capital One experience highly PreferredResponsibilities:Dynamic full stack engineer to integrate with a fast paced agile software development team. Develop multithreaded applications that integrate with Relational Databases, NoSQL Databases, and GraphQL. Create and utilize existing API's for CRUD and restful interactions. Leverage streaming data sources for data processing and ETL jobs. Willingness to challenge the status quo and ensure the solutions delivered really do solve the problem we've been asked to address. Basic Qualifications:Bachelor\u2019s DegreeAt least 4 years of professional software engineering experience At least 3+ years working with a primary coding language like Python or Java. Familiarity with relational database designs (STAR schema principals, etc.) and front-end web framework (one of: Django, Javascript, PHP, Node.js).At least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud) Preferred Qualifications:Master's Degree7+ years of experience in at least one of the following: Java, Scala, Python, Go, or Node.js3+ years of experience with AWS, GCP, Azure, or another cloud service4+ years of experience in open source frameworks2+ years of experience in Agile practices",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:19:41-05:00",
+        "unique_id": "1929b9e898965a9d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

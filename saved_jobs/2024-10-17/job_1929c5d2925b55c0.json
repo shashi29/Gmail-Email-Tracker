@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Millennium Infotech",
+        "job_title": "Data Scientist (Big Data Engineer)",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "SAS Viya",
+                "ETL",
+                "SQL",
+                "Python",
+                "R"
+            ],
+            "primary": [
+                "Data Analytics",
+                "Business Intelligence",
+                "AWS Glue",
+                "Lambda",
+                "Database Management",
+                "Data Warehousing"
+            ],
+            "secondary": [],
+            "all": [
+                "Snowflake",
+                "SAS Viya",
+                "ETL",
+                "SQL",
+                "Python",
+                "R",
+                "Data Analytics",
+                "Business Intelligence",
+                "AWS Glue",
+                "Lambda",
+                "Database Management",
+                "Data Warehousing"
+            ],
+            "with_experience": [
+                "Snowflake (8+ years)",
+                "SAS Viya (8+ years)",
+                "ETL (8+ years)",
+                "SQL (4+ years)",
+                "Python (4+ years)",
+                "R (4+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "bala",
+        "email": "bala@mitiweb.com",
+        "jd": "From: bala, Millennium Infotech bala@mitiweb.com Reply to: bala@mitiweb.com Hi Professional,We are looking for Data Scientist (Big Data Engineer) at Austin, Texas.The candidate should have atleast 10+ years of experience with the requirements below.The below skill sets should be match with the resume.Responsibilities will include:Data Conversion and Reporting Support for System Modernization EffortsData Transformation and Integration: Prepare and optimize data for migration to Snowflake and SAS Viya platforms, ensuring seamless integration and functionality by creating data transformation processes using ETL, SQL, Python, and R.Develop Federal and State Reports: Build comprehensive reports that meet federal and state requirements using Snowflake and SAS Viya, ensuring accuracy and compliance.Scrum Team Collaboration: Work as a member of an agile team to deliver new features and functions, delivering best-in-class value-based technology solutions.Data Quality Management: Develop and implement databases, ETL processes, data collection systems, and data quality strategies that optimize statistical efficiency, accuracy, and quality.Problem Examination and Resolution: Examine problems within the Data Intelligence space using ETL, Lambda, and Glue, and implement necessary changes to ensure data quality improvement.Data Analytics and Insights: Utilize advanced data analytics techniques to support strategic decision-making, ensuring data integrity, quality, and timeliness of results. II. CANDIDATE SKILLS AND QUALIFICATIONS Minimum Requirements:Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity.YearsRequired/PreferredExperience8RequiredProven experience in data conversion and report building using Snowflake and SAS Viya.8RequiredDemonstrated experience in data transformation processes using ETL, SQL, Python, and R.8RequiredExperience working with data analytics and business intelligence tools.4RequiredExperience working in a Scrum or Agile development environment.4RequiredProficiency in ETL processes and tools such as AWS Glue and Lambda.4RequiredStrong knowledge of database management and data warehousing concepts.4RequiredExpertise in SQL for data querying and manipulation.4RequiredProven experience in data conversion and report building using Snowflake and SAS Viya.4RequiredDemonstrated experience in data transformation processes using ETL, SQL, Python, and R.4RequiredExperience working with data analytics and business intelligence tools.4RequiredExperience working in a Scrum or Agile development environment.4RequiredProficiency in ETL processes and tools such as AWS Glue and Lambda.",
+        "source": "Email",
+        "date_posted": "2024-10-17 15:47:54-05:00",
+        "unique_id": "1929c5d2925b55c0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

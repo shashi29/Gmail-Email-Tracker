@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "AWS Solutions Architect",
+        "location": "Malvern, PA, USA",
+        "full_location": {
+            "city": "Malvern",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Month (likely to be extended multiple years)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Databases",
+                "Serverless AWS",
+                "AWS Certified Solutions Architect"
+            ],
+            "primary": [
+                "Designing data structures",
+                "Designing data solutions",
+                "AWS Data Migration"
+            ],
+            "secondary": [
+                "Designing POCs",
+                "Availability",
+                "Performance",
+                "Scalability",
+                "Consistency",
+                "Concurrency"
+            ],
+            "all": [
+                "AWS Databases",
+                "Serverless AWS",
+                "AWS Certified Solutions Architect",
+                "Designing data structures",
+                "Designing data solutions",
+                "AWS Data Migration",
+                "Designing POCs",
+                "Availability",
+                "Performance",
+                "Scalability",
+                "Consistency",
+                "Concurrency"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sangya Kumari Nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title : AWS Solutions ArchitectLocation: Malvern, PA (onsite day 1 for hybrid model)Duration: 12+ Month (likely to be extended multiple years)Visa: CITIZEN,GC EAD,GREEN CARD,H4 EADMOI: SkypeJOB DETAILS- Techno-functional role as this will be designing the solutions as well as hands-on work (designing POCs)- Designing data structures- Designing data solutions such as availability, performance, scalability, consistency, and concurrency - AWS Databases: RDS, Aurora, Redshift, DynamoDB, etc.- Serverless AWS: Lambda, Glue, Step Functions, etc.- AWS Data Migration- AWS Certified Solutions Architect (preferred)",
+        "source": "Email",
+        "date_posted": "2024-10-21 17:20:14-05:00",
+        "unique_id": "192b14af5dc45503",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

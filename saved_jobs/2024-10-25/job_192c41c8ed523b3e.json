@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Involgix",
+        "job_title": "Business Analyst",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Business Analysis",
+                "Agile Methodology",
+                "Azure DevOps"
+            ],
+            "primary": [
+                "Epics",
+                "Features",
+                "Strong Communication Skills"
+            ],
+            "secondary": [],
+            "all": [
+                "Business Analysis",
+                "Agile Methodology",
+                "Azure DevOps",
+                "Epics",
+                "Features",
+                "Strong Communication Skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Robert",
+        "email": "robert.a@involgix.com",
+        "jd": "From: Robert, involgix robert.a@involgix.com Reply to: robert.a@involgix.com Role: Business AnalystLocation: Chicago, IL - Hybrid NOTE: Must be local to Illinois and must have an experience in Aviation/Aerospace Domain.JD:Need atleast 5+ years of experience as a Business AnalystWorking experience with Epics and Features.Familiar with Agile Methodolgy.Familiar with Azure DevOpsStrong Communication Skills",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:02:28-05:00",
+        "unique_id": "192c41c8ed523b3e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

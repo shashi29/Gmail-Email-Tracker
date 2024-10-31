@@ -1,0 +1,84 @@
+[
+    {
+        "company": "tek Inspiration LLC",
+        "job_title": "Senior Java Developer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Object-oriented programming",
+                "Collections",
+                "Multithreading",
+                "Kafka",
+                "MQs"
+            ],
+            "primary": [
+                "SQL",
+                "Oracle",
+                "MongoDB",
+                "Transaction management",
+                "Data scaling",
+                "Data partitioning",
+                "Heap/memory management",
+                "Performance tuning"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "Object-oriented programming",
+                "Collections",
+                "Multithreading",
+                "Kafka",
+                "MQs",
+                "SQL",
+                "Oracle",
+                "MongoDB",
+                "Transaction management",
+                "Data scaling",
+                "Data partitioning",
+                "Heap/memory management",
+                "Performance tuning"
+            ],
+            "with_experience": [
+                "Core Java",
+                "Object-oriented programming",
+                "Collections",
+                "Multithreading",
+                "Kafka",
+                "MQs"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "sourabh",
+        "email": "sourabh.singh@tekinspirations.com",
+        "jd": "From: sourabh, tek Inspiration LLC sourabh.singh@tekinspirations.com Reply to: sourabh.singh@tekinspirations.com Hi Hope you are Doing Well!!! Position: Senior Java Developer Location: Charlotte, NC (Hybrid) Duration: 12 Months Job Description: 8+ years of experience in Java development, particularly within the banking or financial services domain. Proven experience in developing low latency and high-volume applications. Technical Skills: Strong proficiency in Core Java and object-oriented programming. Hands-on experience with Collections, Multithreading, Kafka, MQs, and other messaging frameworks. Knowledge of database technologies including SQL, Oracle, and MongoDB. Familiarity with transaction management, data scaling, and data partitioning techniques. Understanding of heap/memory management principles and performance tuning.",
+        "source": "Email",
+        "date_posted": "2024-10-25 19:56:53-05:00",
+        "unique_id": "192c673a6e29c7bc",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Tek Inspirations LLC",
+        "job_title": "Enterprise Data Architect",
+        "location": "Trenton, NJ, USA",
+        "full_location": {
+            "city": "Trenton",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months (extendable 1 -2 years)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Architecture",
+                "Data Architecture",
+                "Data Modeling",
+                "Data Governance",
+                "Data Engineering"
+            ],
+            "primary": [
+                "AWS Glue",
+                "AWS Lambda",
+                "AWS S3",
+                "AWS RDS",
+                "Data Quality"
+            ],
+            "secondary": [
+                "NoSQL",
+                "Relational MDM Data Modeling",
+                "Collibra",
+                "Mainframe Technologies",
+                "COBOL"
+            ],
+            "all": [
+                "AWS Architecture",
+                "Data Architecture",
+                "Data Modeling",
+                "Data Governance",
+                "Data Engineering",
+                "AWS Glue",
+                "AWS Lambda",
+                "AWS S3",
+                "AWS RDS",
+                "Data Quality",
+                "NoSQL",
+                "Relational MDM Data Modeling",
+                "Collibra",
+                "Mainframe Technologies",
+                "COBOL"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Shivam Pachauri",
+        "email": "shivam.pachauri@tekinspirations.com",
+        "jd": "Job Description -Job Title: Enterprise Data ArchitectLocation: Trenton, NJ 08625Duration: 12 months (extendable 1 -2 years)RTO: Remote (Only for meeting purpose, Need a local contractor who is available to come into the office for meetings)Interview: Both Phone and In PersonJob Description:Need a Sr Enterprise Architect focusing on building data architecture Frameworks, Standards, and Data Modeling activities defining Conceptual, Logical, Physical Analytical and Canonical models. 15 yrs Hands on Experience of AWS Architecture required SkillsMust have Excellent written and verbal communication skills, meticulous attention to detail, as well as the ability to understand abstract concepts.Enterprise Data Architect is responsible for designing the blueprint for NJDOL's data management framework. Collaborate with NJDOL IT management and other teams to develop a data strategy that meets departmental needs and industry requirements. Create an inventory of the data necessary to build and implement a data architecture. Envision, design data pipelines and how data will flow through the enterprise. Maintain a repository of all data architecture procedures and artifacts. Develop measures that ensure data accuracy, integrity and accessibility. Continually monitor, refine and report data management system performance. He should have strong business and communication skills as well as knowledge to act as a bridge between business operations and IT. of the big data industry. He must work with data engineers to integrate, consolidate, cleanse and structure data for use in analytics applications.The enterprise data architect must have a deep understanding of AWS services and cloud infrastructure. This skill set includes proficiency in AWS core services such as EC2, S3, VPC, and RDS, as well as an understanding of advanced services like AWS Lambda, Amazon ECS, and AWS Outposts. KNOWLEDGE AND EXPERIENCE15+ years of experience in Business/working as a Data Architect, Data Modeler, Data AnalystUnderstand the AWS Cloud Architecture and the basics of its infrastructureHands on Experience and Expertise in using AWS tools: AWS glue, data brew, AWS Lambda, AWS S3, AWS Dynamo DB, AWS RDS, Athena, Redshift, DMSHands on Experience and Expertise in creating and automating Data pipelines using AWS services.Expertise in Data Management PrinciplesExpertise in Master Data Management PrinciplesExpertise in Data Governance ConceptsExpertise in Data Engineering MethodologiesExpertise in Data Modeling, Solution Architecture, Master Data Management (MDM), Gathering and Systems Analysis in State,Proficient in, NoSQL, Relational MDM Data Modeling.Experience in Data Governance with CollibraExperienced in working with different Software Development Methodologies. REQUIRED SKILLSSkillRequired /DesiredAmountof ExperienceData ArchitectureRequired15YearsAWS Cloud ArchitectureRequired10YearsAWS Glue/Athena/Storage/Lambda/Data Brew/RDS/ Redshift, DMSRequired10YearsOperational Data Modeling SkillsRequired15YearsAnalytical Modeling SkillsRequired15YearsData GovernanceRequired10YearsMaster Data ManagementRequired15YearsInformation GovernanceRequired10YearsMetadata ManagementRequired10YearsData CatalogingRequired15YearsData Engineering and ETLRequired15YearsData QualityRequired15YearsExperience writing in explanatory and procedural styles for multiple audiencesRequired15YearsExperience in prioritization and multitaskingRequired5YearsMainframe Technologies including COBOL, DB2, IMS DB/DC, VSAM, JCLDesired5YearsKnowledge of working in Federal, State and Local GovernmentDesired5Years",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:44:52-05:00",
+        "unique_id": "192c51f1259b2612",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

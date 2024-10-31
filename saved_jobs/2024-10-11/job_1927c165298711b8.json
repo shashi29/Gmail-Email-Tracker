@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "SQL DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "SSIS",
+                "SSAS",
+                "SSRS",
+                "Power BI"
+            ],
+            "primary": [
+                "Azure",
+                "PowerShell",
+                "Windows SQL"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL Server",
+                "SSIS",
+                "SSAS",
+                "SSRS",
+                "Power BI",
+                "Azure",
+                "PowerShell",
+                "Windows SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "From: Vinita Singh, Tek Inspirations vinita.singh@tekinspirations.com Reply to: vinita.singh@tekinspirations.com EC- BeazelyTitle - SQL DBADuration - 6+ MonthsLocation- 100% RemoteVisa- HIB, GC-EAD, H4-EAD, OPT-EAD only.MOI - Skype.Please screened candidates before submitting, PV is technical and She will take technical video screening call.Working hour : Mon - Fri 2pm-10pm EST as team is in UK.Top Skills: SQL Server, SSIS, SSAS, SSRS, Power BI, Azure, PowerShell, Windows SQLProject: Migrating versions of SQL, hands on role, migrating databases, backlog work - 40% support work, someone who can think on their feet, should be proactive, good stakeholder skills E: vinita.singh@tekinspirations.com Contact No-+ 469-205-(6817)",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:22:24-05:00",
+        "unique_id": "1927c165298711b8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

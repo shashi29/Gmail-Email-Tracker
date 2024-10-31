@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Comcast",
+        "job_title": "Java Developer",
+        "location": "Philadelphia, PA, USA",
+        "full_location": {
+            "city": "Philadelphia",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "5 years",
+            "degree_required": "Bachelor's in Computer Science",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$50/hr on C2C",
+            "job_code": "",
+            "skills": {
+                "core": [
+                    "Java (Java 1.7/Java 1.8)",
+                    "Spring Framework",
+                    "Jenkins",
+                    "Gradle",
+                    "Github"
+                ],
+                "primary": [
+                    "Javascript",
+                    "DevOps",
+                    "Terraform",
+                    "Ansible"
+                ],
+                "secondary": [
+                    "RESTful services",
+                    "Rabbit MQ",
+                    "JSON",
+                    "Unix Scripting",
+                    "Hadoop",
+                    "SQL (DB2 & SQL databases)"
+                ],
+                "all": [
+                    "Java (Java 1.7/Java 1.8)",
+                    "Spring Framework",
+                    "Jenkins",
+                    "Gradle",
+                    "Github",
+                    "Javascript",
+                    "DevOps",
+                    "Terraform",
+                    "Ansible",
+                    "RESTful services",
+                    "Rabbit MQ",
+                    "JSON",
+                    "Unix Scripting",
+                    "Hadoop",
+                    "SQL (DB2 & SQL databases)"
+                ],
+                "with_experience": [
+                    "Java (5+ years)",
+                    "Spring Framework"
+                ]
+            }
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mahesh Kumar",
+        "email": "mahesh.kumar@panzersolutions.com",
+        "jd": "Greetings from Panzer Solutions! I am a Certified LinkedIn Recruiter, and we have been serving clients and candidates in the industry for over a decade. Please review the requirements below and let me know if you are interested in exploring this opportunity further. Java DeveloperLocation: Onsite --- Philadelphia PARate: $50/hr on C2CClient: Comcast Note: Can Only Submit Consultants local to PA or Nearby States only Must Have: Javascript #1 skill set, DevOps #2 skill set, Terraform or Anseble #3 skill set. Proficiency in the following general areas: Java (Java 1.7/Java 1.8), Spring Framework, Jenkins, Gradle, and Github.Experience with RESTful services, Rabbit MQ, JSON, Unix Scripting, and Hadoop is a plus.Core development experience in large scale enterprise Java applications using Spring Framework.Experience in SQL (DB2 & SQL databases) Designs, develops, and implements web-based Java applications to support business requirements. Follows approved life cycle methodologies, creates design documents, and performs program coding and testing. Resolves technical issues through debugging, research, and investigation. Requires a bachelor's degree in area of specialty and at least 5 years of experience in the field or in a related area. Familiar with standard concepts, practices, and procedures within a particular field. Relies on experience and judgment to plan and accomplish goals. Performs a variety of tasks. Contribute to the Design and develop high quality software for large scale Java/Spring Batch/Hadoop distributed systems by Perform unit and system testing of application code as well as execution of implementation activities.Analyze business requirements, and create technical design documents that are in accordance with the company\u2019s architecture standards.Analyze business requirements, and create technical design documents that are in accordance with the company\u2019s architecture standards.Ensures that expected application performance levels are achieved. Designs, codes, tests, debugs, documents, maintains, and modifies computer programs of high complexity, significance, and risk Performs and/or leads design, coding, testing, implementation, and documentation of solution. Develops basic and detailed program specifications.",
+        "source": "Email",
+        "date_posted": "2024-10-16 20:30:58-05:00",
+        "unique_id": "1929839ffefc388c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "company": "NextEra Energy Resources",
+        "job_title": ".Net Developer with Scada exp",
+        "location": "Juno Beach, FL, USA",
+        "full_location": {
+            "city": "Juno Beach",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "6-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net",
+                "C#",
+                "VB.Net",
+                "ASP.Net",
+                "Web APIs",
+                "RESTFUL services"
+            ],
+            "primary": [
+                "Agular 2+",
+                "API gateways",
+                "RabbitMQ",
+                "AmazonMQ",
+                "NoSQL DBs",
+                "DocumentDB",
+                "PostgreSQL",
+                "API testing frameworks",
+                "SOAP UI",
+                "Postman",
+                "Apache JMeter",
+                "Agile development",
+                "Scrum",
+                "Kanban",
+                "NUnit",
+                "CI/CD",
+                "Bamboo",
+                "Octopus",
+                "Jenkins",
+                "GitHub workflow/actions"
+            ],
+            "secondary": [
+                "Disaster Recovery",
+                "Business Continuity Planning",
+                "SCADA",
+                "CIP"
+            ],
+            "all": [
+                ".Net",
+                "C#",
+                "VB.Net",
+                "ASP.Net",
+                "Web APIs",
+                "RESTFUL services",
+                "Agular 2+",
+                "API gateways",
+                "RabbitMQ",
+                "AmazonMQ",
+                "NoSQL DBs",
+                "DocumentDB",
+                "PostgreSQL",
+                "API testing frameworks",
+                "SOAP UI",
+                "Postman",
+                "Apache JMeter",
+                "Agile development",
+                "Scrum",
+                "Kanban",
+                "NUnit",
+                "CI/CD",
+                "Bamboo",
+                "Octopus",
+                "Jenkins",
+                "GitHub workflow/actions",
+                "Disaster Recovery",
+                "Business Continuity Planning",
+                "SCADA",
+                "CIP"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jaffar",
+        "email": "shaik.jaffar@atvsllc.com",
+        "jd": "HI .Net Developer with Scada expLocation :: Juno Beach,FL Duration :: Contract Job DescriptionIT Real-Time Applications (RT Apps) team is seeking an IT Programmer Analyst to support NextEra Energy Resources Power Marketing (NEER - PMI) SCADA remediation effort.This position will engage in the redesigning and development of automation processors and ISO market APIs with Critical Infrastructure Protection (CIP) related control systems. Redesign and decoupling RT automations with internal systems integration such as SCADA and implement failure alters, and detailed recovery procedures. 7 years of extended background check will be required to clear the CIP requirements test.Requirements\u00b7 Required 6-8 years of .Net development experience with C#, VB.Net, ASP.Net.\u00b7 Required 6-8 years working with Web APIs, C#, Agular 2+, and API gateways and RESTFUL services.\u00b7 Required 4-6 years of experience with queuing and message brokers (RabbitMQ, AmazonMQ).\u00b7 Preferred experience with NoSQL DBs (DocumentDB) and PostgreSQL.\u00b7 Preferred experience working on Disaster Recovery (DR), and Business Continuity Planning (BCP) strategies.\u00b7 Experience with API testing frameworks and tools such as SOAP UI, Postman, and Apache JMeter.\u00b7 Experience working in Agile development (Scrum, Kanban).\u00b7 Experience in writing the NUnit test cases for web APIs\u00b7 CI/CD toolchain Experience (e.g., Bamboo, Octopus, Jenkins), and GitHub workflow/actions.\u00b7 Added advantage if any experience in with SCADA & CIP domains.Job Duties & Responsibilities\u00b7 As an RT Apps developer, you will be responsible to steer the development and decoupling of existing automation processes and API features.\u00b7 Build and support SCADA integrations with multiple internal and external APIs and validate end-to-end connections.\u00b7 Support SCADA operations with time-sensitive market obligations.\u00b7 Analyzes, troubleshoots, and maintain ongoing RT App interfaces.\u00b7 Update .net applications to the core and build an independent service decoupling the current automation framework.\u00b7 Prepare physical and logical system design documents for architectural reviews.\u00b7 Implement security protocols with APIs (authorization tokens, MFA, OAuth, etc).\u00b7 Team player who can work with onshore offsite model and endorses techno-functional knowledge share.",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:31:52-05:00",
+        "unique_id": "192b9efe65981a95",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

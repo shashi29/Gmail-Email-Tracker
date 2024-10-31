@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Exaways",
+        "job_title": "Data Engineer",
+        "location": "Mclean, VA, USA",
+        "full_location": {
+            "city": "Mclean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark SQL",
+                "AWS",
+                "Lambda",
+                "EMR"
+            ],
+            "primary": [
+                "Docker",
+                "ETL",
+                "Databricks",
+                "Glue",
+                "GraphQL"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark SQL",
+                "AWS",
+                "Lambda",
+                "EMR",
+                "Docker",
+                "ETL",
+                "Databricks",
+                "Glue",
+                "GraphQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arthi Mohan",
+        "email": "arthi.deepa@exaways.com",
+        "jd": "From: Arthi Mohan, Exaways arthi.deepa@exaways.com Reply to: arthi.deepa@exaways.com Please share linkedin profile along with resume.Job Description:Must have skillsPython,SQL, Spark SQL,AWS, Lambda, EMR,Docker,ETLDatabricks,Glue,GraphQL",
+        "source": "Email",
+        "date_posted": "2024-10-16 11:49:54-05:00",
+        "unique_id": "1929690d6a5042a8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

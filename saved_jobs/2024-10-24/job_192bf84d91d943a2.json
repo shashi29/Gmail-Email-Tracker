@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Paramount Software Solutions",
+        "job_title": "Senior Data Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5 years",
+            "degree_required": "Bachelor's Degree in Engineering /Computer Science, CIS, or related field (or equivalent work experience in a related field)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Scala",
+                "Python",
+                "Hadoop",
+                "GCP",
+                "Airflow",
+                "Shell Scripts",
+                "Spark"
+            ],
+            "primary": [
+                "Data Ingestion",
+                "Data Curation",
+                "Agile Development",
+                "Big Data Management",
+                "Cloud Computing",
+                "Database Design"
+            ],
+            "secondary": [
+                "Teradata",
+                "Oracle",
+                "Db2",
+                "Hadoop",
+                "SQL",
+                "Business Intelligence",
+                "Data Warehousing",
+                "ETL"
+            ],
+            "all": [
+                "Scala",
+                "Python",
+                "Hadoop",
+                "GCP",
+                "Airflow",
+                "Shell Scripts",
+                "Spark",
+                "Data Ingestion",
+                "Data Curation",
+                "Agile Development",
+                "Big Data Management",
+                "Cloud Computing",
+                "Database Design",
+                "Teradata",
+                "Oracle",
+                "Db2",
+                "Hadoop",
+                "SQL",
+                "Business Intelligence",
+                "Data Warehousing",
+                "ETL"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shruthi",
+        "email": "shruthi@paramountsoft.net",
+        "jd": "From: Shruthi, Paramount software solutions shruthi@paramountsoft.net Reply to: shruthi@paramountsoft.net Title: Sr. Data Engineer Duration: 6 months Location: Hybrid- local to Charlotte, NC Job Description Technical Skills:* Scala* Python* Hadoop* GCP* Airflow* Shell Scripts* Spark Key Responsibilities: Translates complex cross-functional business requirements and functional specifications into logical program designs, code modules, stable application systems, and data solutions; partners with Product Team to understand business needs and functional specifications Collaborates with cross-functional teams to ensure specifications are converted into flexible, scalable, and maintainable solution designs; evaluates project deliverables to ensure they meet specifications and architectural standards Contributes in the design and build of complex data solutions and ensures the architecture blueprint, standards, target state architecture, and strategies are aligned with the requirements. Coordinates, executes, and participates in component integration (CIT) scenarios, systems integration testing (SIT), and user acceptance testing (UAT) to identify application errors and to ensure quality software deployment Participates in all software development end-to-end product lifecycle phases by applying and sharing an in-depth understanding of complex industry methodologies, policies, standards, and controls Develops detailed architecture plans for large scale enterprise architecture projects and drives the plans to fruition Solves complex architecture/design and business problems; solutions are extensible; works to simplify, optimize, remove bottlenecks, etc. Data Engineering Responsibilities Executes the development, maintenance, and enhancements of data ingestion solutions of varying complexity levels across various data sources like DBMS, File systems (structured and unstructured), APIs and Streaming on on-prem and cloud infrastructure; demonstrates strong acumen in Data Ingestion toolsets and nurtures and grows junior members in this capability Builds, tests and enhances data curation pipelines integration data from wide variety of sources like DBMS, File systems, APIs and streaming systems for various KPIs and metrics development with high data quality and integrity Supports the development of feature / inputs for the data models in an Agile manner; Hosts Model Via Rest APIs; ensures non-functional requirements such as logging, authentication, error capturing, and concurrency management are accounted for when model hosting Works with Data Science team to understand mathematical models and algorithms; recommends improvements to analytic methods, techniques, standards, policies and procedures Works to ensure the manipulation and administration of data and systems are secure and in accordance with enterprise governance by staying compliant with industry best practices, enterprise standards, corporate policy and department procedures; handles the manipulation (extract, load, transform), data visualization, and administration of data and systems securely and in accordance with enterprise data governance standards Maintains the health and monitoring of assigned data engineering capabilities that span analytic functions by triaging maintenance issues; ensures high availability of the platform; works with Infrastructure Engineering teams to maintain the data platform; serves as an SME of one or more application BI Engineering Responsibilities Responsible for the development, maintenance, and enhancements of BI solutions of varying complexity levels across different data sources like DBMS, File systems (structured and unstructured) on-prem and cloud infrastructure; creates level metrics and other complex metrics; use custom groups, consolidations, drilling, and complex filters Demonstrates database skill (Teradata/Oracle/Db2/Hadoop) by writing views for business requirements; uses freeform SQLs and pass-through functions; analyzes and finds errors from SQL generation; creates RSD and dashboard Responsible for building, testing and enhancement of BI solutions from a wide variety of sources like Teradata, Hive, Hbase, Google Big Query and File systems; develops solutions with optimized data performance and data security Works with business analysts to understand requirements and create dashboard/dossiers wireframes; makes use of widgets and Vitara charts to make the dashboard/dossiers visually appealing Coordinates and takes necessary actions from DART side for application upgrades (e.g., Teradata, Workday), storage migration, and user management automation; supports such things as Cluster Management and Project Configuration settings Qualifications Bachelor's Degree in Engineering /Computer Science, CIS, or related field (or equivalent work experience in a related field) 5 years of experience in Data or BI Engineering, Data Warehousing/ETL, or Software Engineering 4 years of experience working on project(s) involving the implementation of solutions applying development life cycles (SDLC) Technical Competencies Agile Development Big Data Management and Analytics Cloud Computing Database Design (Physical) Release Management",
+        "source": "Email",
+        "date_posted": "2024-10-24 11:36:45-05:00",
+        "unique_id": "192bf84d91d943a2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

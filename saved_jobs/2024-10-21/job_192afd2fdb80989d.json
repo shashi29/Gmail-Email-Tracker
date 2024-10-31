@@ -1,0 +1,78 @@
+[
+    {
+        "company": "CAGUS",
+        "job_title": "AWS ETL Developer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PySpark",
+                "Python",
+                "AWS Glue",
+                "Databricks"
+            ],
+            "primary": [
+                "ETL workflows",
+                "AWS S3",
+                "Redshift",
+                "performance optimization",
+                "debugging"
+            ],
+            "secondary": [
+                "automation scripts",
+                "AWS Lambda",
+                "Step Functions",
+                "data integrity",
+                "technical documentation",
+                "CI/CD pipelines"
+            ],
+            "all": [
+                "PySpark",
+                "Python",
+                "AWS Glue",
+                "Databricks",
+                "ETL workflows",
+                "AWS S3",
+                "Redshift",
+                "performance optimization",
+                "debugging",
+                "automation scripts",
+                "AWS Lambda",
+                "Step Functions",
+                "data integrity",
+                "technical documentation",
+                "CI/CD pipelines"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Fizal",
+        "email": "fizal.a@cagus.com",
+        "jd": "From: Fizal, CAGUS fizal.a@cagus.com Reply to: fizal.a@cagus.com Role: AWS ETL DeveloperLocation: Houston, TX (Day 1onsite/Local Candidates Only)Duration: ContractJD:Develop and Maintain ETL Pipelines: Design, develop, and implement scalable ETL workflows using PySpark, Python, and AWS Glue, Databricks.Data Transformation and Integration: Extract, transform, and load data from various sources to AWS S3 and Redshift.Performance Optimization: Identify and resolve performance bottlenecks in ETL processes, ensuring optimal performance across large datasets.Debugging & Reverse Engineering: Should be able to debug PySpark programs/Job and reverse Engineer the code.Automation and Monitoring: Implement automation scripts using AWS Lambda, Step Functions to schedule and monitor data pipelines.Data Quality: Ensure data integrity and quality across all stages of the ETL pipeline.Collaboration: Work closely with data architects, analysts, and stakeholders to understand requirements and provide clear communication throughout the project lifecycle.Documentation: Create and maintain technical documentation, including data mapping, workflow designs, and ETL processes.Knowledge of CI/CD pipelines and best practices in deployment automation.",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:24:35-05:00",
+        "unique_id": "192afd2fdb80989d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

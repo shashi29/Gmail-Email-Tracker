@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Vyze1 inc",
+        "job_title": "Software Development Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Software Architecture",
+                "Java",
+                "Spring Boot"
+            ],
+            "primary": [
+                "Cloud Migration",
+                "Unemployment Insurance Systems",
+                "Government Backend Processes"
+            ],
+            "secondary": [
+                "Camunda",
+                "Problem-solving",
+                "Team Collaboration"
+            ],
+            "all": [
+                "Software Architecture",
+                "Java",
+                "Spring Boot",
+                "Cloud Migration",
+                "Unemployment Insurance Systems",
+                "Government Backend Processes",
+                "Camunda",
+                "Problem-solving",
+                "Team Collaboration"
+            ],
+            "with_experience": [
+                "Java",
+                "Spring Boot"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sam",
+        "email": "slenka@vyzeinc.com",
+        "jd": "Job Description -Job Title:Software Development ArchitectLocation: United States (Remote)Position Summary:We are seeking an experienced Software Development Architect with a strong background. The ideal candidate will have a proven track record of leading and owning complex projects, particularly in building Unemployment Insurance backends and managing systems related to Taxes and Wages. This role requires a deep understanding of migrating legacy systems from on-premises solutions to cloud environments, as well as experience transitioning complex government backend systems from mainframe technologies.Key Responsibilities:Design and architect scalable backend solutions for Unemployment Insurance.Collaborate with cross-functional teams to enhance and support systems related to Taxes and Wages.Lead migration projects from mainframe systems to cloud-based architectures.Ensure clear communication of technical concepts and solutions to stakeholders and team members.Provide leadership and mentorship to development teams throughout the software development lifecycle.Participate in strategic planning and technology decision-making.Required Qualifications:Extensive experience in software architecture and development, particularly in enterprise-grade applications.Familiarity with Unemployment Insurance systems and government backend processes.Proven experience in migrating systems from on-premises to cloud environments.Knowledge of Java and Spring Boot frameworks; experience with Camunda for business logic is a plus.Strong problem-solving skills and the ability to work independently as well as collaboratively in a team environment.Must be a U.S. resident.Need these skills:Familiarity with building Unemployment Insurance backendsWorking with Taxes/WagesMigrating off of a mainframe (no COBOL necessary)Moving complex government backend systems from on-prem to cloud",
+        "source": "Email",
+        "date_posted": "2024-10-11 08:09:39-05:00",
+        "unique_id": "1927bd3b5b26bef7",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

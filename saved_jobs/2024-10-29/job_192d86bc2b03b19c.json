@@ -1,0 +1,80 @@
+[
+    {
+        "company": "Wise Equation",
+        "job_title": "AWS Cloud Engineers (L1/L2)",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "1 year+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "primary": [
+                "Configuration Management",
+                "Continuous Integration Tools",
+                "Kubernetes",
+                "Terraform",
+                "UNIX/Linux",
+                "Windows Environment",
+                "Web and Application Servers",
+                "Cloud Monitoring",
+                "DevOps tools"
+            ],
+            "secondary": [
+                "AWS Associate Certification",
+                "AWS SysOps Certification",
+                "AWS Developer Certification"
+            ],
+            "all": [
+                "AWS",
+                "Azure",
+                "GCP",
+                "Configuration Management",
+                "Continuous Integration Tools",
+                "Kubernetes",
+                "Terraform",
+                "UNIX/Linux",
+                "Windows Environment",
+                "Web and Application Servers",
+                "Cloud Monitoring",
+                "DevOps tools",
+                "AWS Associate Certification",
+                "AWS SysOps Certification",
+                "AWS Developer Certification"
+            ]
+        },
+        "job_type": [
+            "remote",
+            "onsite"
+        ],
+        "contact_person": "Abhinav",
+        "email": "abhinav.c@wiseq.net",
+        "jd": "From: abhinav, wise equation abhinav.c@wiseq.net Reply to: abhinav.c@wiseq.net AWS Cloud Engineers (L1/L2). Start date is ASAP and will last for 1 YEAR+. prefer local to Dallas but it\u2019s not a hard requirement. They can be remote if not on site, but some travel may need to occur and in that case expenses would be covered.Must be a USC. Skills (EXPERT/ADVANCED/NONE):AWS Cloud EngineerAzureGCPDescription: We are seeking strong AWS Cloud Engineers with prior Operations experience to join our talented team of Global Cloud Operations. We can support the entire cloud services life cycle for enterprise level organizations, delivering some of the world\u2019s largest automated solutions for secure, hyperscale, cloud infrastructure migration and management. Our solutions allow data-driven businesses to unlock the elasticity and price-performance benefits of Cloud Service Providers (AWS, Azure, GCP, etc) and our experts deliver cloud and as-a-service expertise, extensive security DNA, big data, IoT and predictive analytics and machine learning expertise, so you can expect to work with the coolest technologies every day. Responsibilities\u2022 Work with the customer and architect on maintaining Virtual Private Cloud VPC environments, including compute, storage, database, networking, security etc. in the AWS ecosystem\u2022 Act as Tier 1/2 Support Engineer for the most common & newly announced AWS components and services\u2022 Act as Technical POC for customers.\u2022 Deploy/Manage AWS environments including VPN solutions between regions and subnets\u2022 Manage AWS architecture including the development of machine templates and blueprints\u2022 Deploy and implement systems infrastructure projects and maintaining the Cloud environments based on customer requirements\u2022 Validation to ensure that the environment meets all security and compliance controls\u2022 Leveraging written and verbal communication skills to work directly with customers\u2022 Creating knowledge articles and run books for solutions developed Required Skills & ExperienceOpen to available 24/7 support\u2022 Positive attitude should be able to adapt and work based on business demand.\u2022 Good working knowledge of AWS\u2022 Working knowledge of Configuration Management (Ansible) Continuous Integration Tools (gitlab)\u2022 Prior experience provisioning and spinning up Kubernetes Clusters and managing Kubernetes installations\u2022 Hands on Terraform experience\u2022 Possession of excellent analytical and problem-solving skills\u2022 In depth knowledge of UNIX/Linux and Windows Environment\u2022 End to End configuration & trouble shooting of the web and application servers (Nginx, Apache, Tomcat, IIS)\u2022 Good written and verbal English communication\u2022 Production experience to build scalable systems (load balancers, memcached, master/slave architectures)\u2022 Experience supporting a managed services infrastructure (Public cloud)\u2022 Prior work with Cloud Monitoring and Devops tools (e.g. Dynatrace, ansible, gitlab, terraform, Palo Alto FW)\u2022 Experience with Docker, Kubernetes\u2022 Other tools used in the infrastructure space\u2022 Good to have AWSAssociate/SysOps/Developer Certification course levelMust be US Only Citizen",
+        "source": "Email",
+        "date_posted": "2024-10-29 07:41:35-05:00",
+        "unique_id": "192d86bc2b03b19c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Digital Dhara",
+        "job_title": "GCP Data Engineer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MongoDB",
+                "Java",
+                "Python",
+                "Google Cloud Platform",
+                "BigQuery",
+                "Dataflow"
+            ],
+            "primary": [
+                "Google Cloud SDK",
+                "API Scripting",
+                "Onsite-Offshore coordination",
+                "Test Driven Development",
+                "Agile processes",
+                "DevOps methodologies",
+                "Google Cloud Professional Data Engineer Certification"
+            ],
+            "secondary": [
+                "CI/CD",
+                "GitHub",
+                "Jenkins",
+                "NoSQL Databases",
+                "Retail domain"
+            ],
+            "all": [
+                "MongoDB",
+                "Java",
+                "Python",
+                "Google Cloud Platform",
+                "BigQuery",
+                "Dataflow",
+                "Google Cloud SDK",
+                "API Scripting",
+                "Onsite-Offshore coordination",
+                "Test Driven Development",
+                "Agile processes",
+                "DevOps methodologies",
+                "Google Cloud Professional Data Engineer Certification",
+                "CI/CD",
+                "GitHub",
+                "Jenkins",
+                "NoSQL Databases",
+                "Retail domain"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Sagar Kale",
+        "email": "sagar.k@digitaldhara.com",
+        "jd": "From: Sagar Kale, Digital Dhara sagar.k@digitaldhara.com Reply to: sagar.k@digitaldhara.com Job Title: GCP Data EngineerLocation: Atlanta, GA (Hybrid 3days onsite)Type: ContractJob Description:Strong experience with MongoDB.data setup work to support front end application.Strong Programming experience in Java or PythonExperience in Google Cloud platform (especially BigQuery & Dataflow)Experience with Google Cloud SDK & API ScriptingExperience in Onsite-Offshore coordinationExperience in Test Driven DevelopmentExperience in Agile processes and DevOps methodologies.Google Cloud Professional Data Engineer Certification is an advantage.Google Cloud \u2013 Big Query, Pub/ Sub, Dataflow, Composer DAGs, Cloud storageCI/CD \u2013 GitHub, JenkinsExperience in NoSQL Databases is an added advantage.Experience of Retail domain will be an added advantage.",
+        "source": "Email",
+        "date_posted": "2024-10-21 15:28:13-05:00",
+        "unique_id": "192b0e6afe934837",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

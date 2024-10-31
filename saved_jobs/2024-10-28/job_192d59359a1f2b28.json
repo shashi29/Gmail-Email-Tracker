@@ -1,0 +1,81 @@
+[
+    {
+        "company": "VY Systems",
+        "job_title": "GCP Devops",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform (GCP)",
+                "Infrastructure as Code (IaC)",
+                "Terraform",
+                "GitHub"
+            ],
+            "primary": [
+                "GCP networking services",
+                "Big Query",
+                "Composer",
+                "Vertex AI",
+                "Document AI",
+                "Agent Builder",
+                "DataProc",
+                "Data Catalog",
+                "Notebook"
+            ],
+            "secondary": [
+                "network protocols",
+                "security",
+                "compliance standards",
+                "scripting",
+                "automation tools"
+            ],
+            "all": [
+                "Google Cloud Platform (GCP)",
+                "Infrastructure as Code (IaC)",
+                "Terraform",
+                "GitHub",
+                "GCP networking services",
+                "Big Query",
+                "Composer",
+                "Vertex AI",
+                "Document AI",
+                "Agent Builder",
+                "DataProc",
+                "Data Catalog",
+                "Notebook",
+                "network protocols",
+                "security",
+                "compliance standards",
+                "scripting",
+                "automation tools"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Bharath",
+        "email": "bharath.r@vysystems.com",
+        "jd": "From: Bharath, Vy systems bharath.r@vysystems.com Reply to: bharath.r@vysystems.com Hi,Greetings from VY Systems,I came across your profile in the Job Board. We have a Job Opening for GCP Devops Positions. If you're interested means please reply as soon as possibleJob title:GCP DevopsLocation: New york, NY5+ years of Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education3+ years working with Google Cloud Platform (GCP) and a proven track record of building complex infrastructure programmatically with Infrastructure as Code (IaC) tools2+ years of hands-on experience with IaC tools Terraform and GitHubStrong understanding of GCP networking services, such as Virtual Private Cloud (VPC), Cloud Virtual Private Network (VPN), Cloud Interconnect, Virtual Network (Vnet) and Cloud Load BalancingKnowledge and understanding of Cloud service offerings such as Data, Analytics, AI/ML on GCPDemonstrated experience on at least three of the following key services: Big Query, Composer, Vertex AI, Document AI, Agent Builder, DataProc, Data Catalog, NotebookIn-depth knowledge of network protocols, security, and compliance standardsExperience with scripting and automation tools for network provisioning and configurationKnowledge and understanding of Cloud service offerings on Security, Data Protection and Security policy implementationsBasic understanding of Cloud computing concepts like landing zone and Blueprints Regards,BHARATH- Vy\u200bSystemsEmail ID:bharath.r@vysystems.com",
+        "source": "Email",
+        "date_posted": "2024-10-28 18:01:55-05:00",
+        "unique_id": "192d59359a1f2b28",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

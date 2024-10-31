@@ -1,0 +1,102 @@
+[
+    {
+        "company": "SibiTalent Corp",
+        "job_title": "Data System Engineer",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Bachelor's degree in computer science, computer science engineering, or related field required",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Engineering",
+                "Data Modeling",
+                "ETL Processes",
+                "Data Warehousing",
+                "Data Analytics"
+            ],
+            "primary": [
+                "Python",
+                "Spark",
+                "Shell Scripting",
+                "AWS",
+                "Azure",
+                "NoSQL",
+                "DB2",
+                "SybaseIQ",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Collibra",
+                "Terraform",
+                "Java",
+                "Golang",
+                "Ruby",
+                "Machine Learning Operations",
+                "Agile",
+                "Test-Driven Development",
+                "Kafka",
+                "ELK/Elastic Search"
+            ],
+            "all": [
+                "Data Engineering",
+                "Data Modeling",
+                "ETL Processes",
+                "Data Warehousing",
+                "Data Analytics",
+                "Python",
+                "Spark",
+                "Shell Scripting",
+                "AWS",
+                "Azure",
+                "NoSQL",
+                "DB2",
+                "SybaseIQ",
+                "Snowflake",
+                "Collibra",
+                "Terraform",
+                "Java",
+                "Golang",
+                "Ruby",
+                "Machine Learning Operations",
+                "Agile",
+                "Test-Driven Development",
+                "Kafka",
+                "ELK/Elastic Search"
+            ],
+            "with_experience": [
+                "Python (9+ years)",
+                "Spark (9+ years)",
+                "Shell Scripting (9+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sapna Thakur",
+        "email": "sapnathakur@sibitalent.com",
+        "jd": "From: Sapna Thakur, SibiTalent Corp sapnathakur@sibitalent.com Reply to: sapnathakur@sibitalent.com Data System Engineer, Final interview is onsite,Alpharetta, GA - HybridMust be local to GA and No (H1B/CPT)3 days onsite / 2 days remote per week,Duration :: 12 months Experience :: 9 + years Note \u2013 Final interview is onsiteJD:The Data System Engineer will be responsible for tasks such as data engineering, data modeling, ETL processes, data warehousing, and data analytics & science. Our platform run both on premise and on the cloud (AWS/Azure).Knowledge/Skills:\u2022 Able to establish, modify or maintain data structures and associated components according to design\u2022 Understands and documents business data requirements\u2022 Able to come up with Conceptual and Logical Data Models at Enterprise, Business Unit/Domain Level\u2022 Understands XML/JSON and schema development/reuse, database concepts, database designs, Open Source and NoSQL concepts\u2022 Partners with Sr. Data Engineers and Sr. Data architects to create platform level data models and database designs\u2022 Takes part in reviews of own work and reviews of colleagues' work\u2022 Has working knowledge of the core tools used in the planning, analyzing, designing, building, testing, configuring and maintaining of assigned application(s)\u2022 Able to participate in assigned teams software delivery methodology (Agile, Scrum, Test-Driven Development, Waterfall, etc.) in support of data engineering pipeline development\u2022 Understands infrastructure technologies and components like servers, databases, and networking concepts\u2022 Write code to develop, maintain and optimized batch and event driven for storing, managing, and analyzing large volumes of structured and unstructured data both\u2022 Metadata integration in data pipelines\u2022 Automate build and deployment processes using Jenkins across all environments to enable faster, high-quality releasesQualification:Up to 4 years of software development experience in a professional environment and/or comparable experience such as:\u2022 Understanding of Agile or other rapid application development methods\u2022 Exposure to design and development across one or more database management systems DB2, SybaseIQ, Snowflake as appropriate\u2022 Exposure to methods relating to application and database design, development, and automated testing\u2022 Understanding of big data technology and NOSQL design and development with variety of data stores (document, column family, graph, etc.)\u2022 General knowledge of distributed (multi-tiered) systems, algorithms, and relational & non-relational databases\u2022 Experience with Linux and Python scripting as well as large scale data processing technology such as spark\u2022 Exposure to Big data technology and NOSQL design and coding with variety of data stores (document, column family, graph, etc.)\u2022 Experience with cloud technologies such as AWS and Azure, including deployment, management, and optimization of data analytics & science pipelines\u2022 Nice to have: Collibra, Terraform, Java, Golang, Ruby, Machine Learning Operation deployment\u2022 Bachelors degree in computer science, computer science engineering, or related field required MANAGER NOTESStream data, batch data, manages framework for machine learning for ETS Hiring for a data systems engineer, will work on DevOps Cloud sideMaking sure that the pipeline, the codes that they have are correctThey will work on data movements- could be batch or streaming, be on cloud ?\u2019sExposure to design development? When they do data movement or data hydration, they work with high volume data, DB2, Sybase, Snowflake What\u2019s hydration? Moving data from a source system to datalake, it\u2019ll be used to move data, terabytes of data Which cloud do you prefer most? Right now the platform is in AWS but they will be moving to AzureWhat would be the 3 top skills/forte? 1) Python, Spark, Shell scripting 2) platform in Kafka and ELK/Elastic Search 3) datalake prem, using GLUE, machine learning learning part, using GLUE to move data Previous experience/ what would be an appealing resource? Data engineering \u2013 moving large amounts of data, using Python, have Devops experience, working with Jenkins, creating pipelines and moving the data NoSQL required? They would prefer it, concept that can be taught ETL tools, Java, Golang etc. ? Good to have, this team doesn\u2019t to Golang and Ruby Metadata experience will be enough DB systems- DB2, SybaseIQ, Snowflake? Snowflake will be helpful since its their destination database DevOps- CICS etc? Yes, their team is a liaison to another team either a Jenkins related team or another team Certifications on AWS or Azure? Azure certification would be preferred, certifications are a plus Thanks & RegardsSapna Thakur | Sr. Technical Recruiter",
+        "source": "Email",
+        "date_posted": "2024-10-14 11:52:34-05:00",
+        "unique_id": "1928c2f6f11d1646",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

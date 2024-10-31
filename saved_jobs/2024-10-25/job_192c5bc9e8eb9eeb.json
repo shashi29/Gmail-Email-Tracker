@@ -1,0 +1,61 @@
+[
+    {
+        "company": "ERP MARK",
+        "job_title": "C#/.NET Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#/.NET Development Experience (7+ Years)",
+                "Development in Azure environment",
+                "Azure IoT Hub",
+                "Azure Service Bus and/or Event Hub",
+                "Cosmos DB and/or PostgreSQL",
+                "Azure Serverless Functions",
+                "Azure Kubernetes Service (AKS)"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "C#/.NET Development Experience (7+ Years)",
+                "Development in Azure environment",
+                "Azure IoT Hub",
+                "Azure Service Bus and/or Event Hub",
+                "Cosmos DB and/or PostgreSQL",
+                "Azure Serverless Functions",
+                "Azure Kubernetes Service (AKS)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Asha",
+        "email": "asha@erpmark.com",
+        "jd": "From: Asha, ERP MARK asha@erpmark.com Reply to: asha@erpmark.com Hi, Greetings!Only share Local profiles those who are living in GA location.Non-local profiles are not considerable for this role. Job Title: C#/.NET DeveloperLocation: Atlanta, GA - OnsiteDuration: Contract Job Description:C#/.NET Development Experience (9+ Years) Development in Azure environment Azure Skills Azure IoT Hubo Azure Service Bus and/or Event Hubo Cosmos DB and/or PostgreSQL Azure Serverless Functions Azure Kubernetes Service (AKS) Mandatory AreasMust Have SkillsRequired Skills: C#/.NET Development Experience(7+ Years)Development in Azure environmentAzure Skills Azure IoT HuboAzure Service Bus and/or Event HuboCosmos DB and/or PostgreSQLAzure Serverless FunctionsAzure Kubernetes Service (AKS)Skill 1 \u2013 C#/.NET Development Experience (7+ Years)Skill 2 \u2013 Development in Azure environmentSkill 3 \u2013 Azure IoT HubSkill 4 \u2013 Azure SkillsSkill 5 - Azure Service Bus and/or Event HubSkill 6 - Cosmos DB and/or PostgreSQLSkill 7 - Azure Serverless FunctionsSkill 8 - Azure Kubernetes Service (AKS)",
+        "source": "Email",
+        "date_posted": "2024-10-25 16:36:58-05:00",
+        "unique_id": "192c5bc9e8eb9eeb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

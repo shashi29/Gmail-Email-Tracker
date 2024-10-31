@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Han Staffing",
+        "job_title": "Java Lead",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "React JS",
+                "Kafka",
+                "Microservices"
+            ],
+            "primary": [
+                "AWS",
+                "GCP",
+                "Azure",
+                "Event Driven Architecture",
+                "real time messaging processing"
+            ],
+            "secondary": [
+                "Azure"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "React JS",
+                "Kafka",
+                "Microservices",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Event Driven Architecture",
+                "real time messaging processing",
+                "Python",
+                "Node-js",
+                "Agile practices",
+                "Securities Finance",
+                "Financial Industry domain knowledge"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Abhishek Kumar",
+        "email": "abhishekkumar@hanstaffing.com",
+        "jd": "From: Abhishek Kumar, Han Staffing abhishekkumar@hanstaffing.com Reply to: abhishekkumar@hanstaffing.com Basic Qualifications:Bachelors DegreeAt least 10+ years of professional software engineering experienceAt least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)Event Driven Architecture and real time messaging processing Preferred Qualifications:10+ years of experience in at least one of the following: Java and knowledge in Python and Node-js2+ years of experience with AWS, GCP, Azure, or another cloud service4+ years of experience in open-source frameworks1+ years of people management experience2+ years of experience in Agile practicesSecurities Finance or Financial Industry domain knowledge Mandatory skillsSpring BootReact JSKafkaMicroservices Secondary skills:Azure",
+        "source": "Email",
+        "date_posted": "2024-10-16 06:51:01-05:00",
+        "unique_id": "192954b503e962ea",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

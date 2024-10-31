@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Java Technical Architect",
+        "location": "Princeton, NJ, USA",
+        "full_location": {
+            "city": "Princeton",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": ""
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Solution Designing",
+                "Spring",
+                "Springboot",
+                "API Design"
+            ],
+            "primary": [
+                "C",
+                "C++",
+                "Restful webservices",
+                "Microservices",
+                "Design patterns",
+                "Agile/Scrum Methodologies"
+            ],
+            "secondary": [
+                "Oracle",
+                "PostgresSQL",
+                "Jenkins",
+                "Docker",
+                "AWS",
+                "Kubernetes",
+                "ElastiCache"
+            ],
+            "all": [
+                "Java",
+                "Solution Designing",
+                "Spring",
+                "Springboot",
+                "API Design",
+                "C",
+                "C++",
+                "Restful webservices",
+                "Microservices",
+                "Design patterns",
+                "Agile/Scrum Methodologies",
+                "Oracle",
+                "PostgresSQL",
+                "Jenkins",
+                "Docker",
+                "AWS",
+                "Kubernetes",
+                "ElastiCache"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vishnu",
+        "email": "vishnu.m@siriinfo.com",
+        "jd": "Hello Guys,Hope you are doing Good, Below are the Positions which i have on priority Basis.If you have any suitable resumes, Kindly share resumes to Vishnu.m@siriinfo.comJava Technical ArchitectPrinceton, NJHire type: ContractMin 12+ Years of experienceSolution Designing, Java, C, C++, Spring, Springboot, API Design, Restful webservices, Microservices, Design patterns, Agile/Scrum Methodologies, Oracle, PostgresSQL, Jenkins, Docker, AWS, Kubernetes,ElastiCache",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:13:25-05:00",
+        "unique_id": "1929114af8e22143",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Paramount Software Solutions Inc",
+        "job_title": "Lead Python Engineer",
+        "location": "San Bruno, CA, USA",
+        "full_location": {
+            "city": "San Bruno",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "GenAI"
+            ],
+            "primary": [
+                "Full Stack",
+                "Azure"
+            ],
+            "secondary": [
+                "MS SQL",
+                "PostgreSQL",
+                "Firestore"
+            ],
+            "all": [
+                "Python",
+                "GenAI",
+                "Full Stack",
+                "Azure",
+                "MS SQL",
+                "PostgreSQL",
+                "Firestore"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Lokesh Shiv",
+        "email": "lokesh@paramountsoft.net",
+        "jd": "Lead Python Engineer (GenAI, Full Stack Engineer)Location: San Bruno, CA (Hybrid)Duration: 6+ months Primary Skills: GenAI, PythonJob description:Minimum 10+ Software Engineering experience3-5 years of experience of python if they have experience with another OO language thats great - Full Stack Ex. neededCloud experience - Azure - 2+ - won\u2019t need to do the devops stuff but general artificats of a public cloud - if only just S3 buckets thats not enough but lambda, redshift or other data stores would be helpful.Experience with relational and document data stores such as MS SQL, PostgreSQL, or Firestore - not a must but if they struggle with writing queries that's a problemRelational data store experience Regards,Lokesh ShivDirect: 770 456 5707Email: lokesh@paramountsoft.net",
+        "source": "Email",
+        "date_posted": "2024-10-29 16:28:57-05:00",
+        "unique_id": "192da708461bbd48",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

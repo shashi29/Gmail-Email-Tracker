@@ -1,0 +1,65 @@
+[
+    {
+        "company": "3K Technologies, LLC",
+        "job_title": "Lead Data Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "11-15 Years",
+            "degree_required": "B-Tech",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python Programming",
+                "Pyspark scripting",
+                "Glue",
+                "Snowflake",
+                "AWS Cloud formation",
+                "Airflow",
+                "Informatica"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python Programming",
+                "Pyspark scripting",
+                "Glue",
+                "Snowflake",
+                "AWS Cloud formation",
+                "Airflow",
+                "Informatica"
+            ],
+            "with_experience": [
+                "Python Programming",
+                "Pyspark scripting",
+                "Glue",
+                "Snowflake"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Tarun Kumar",
+        "email": "tarunkumar.b@3ktechnologies.com",
+        "jd": "From: Tarun Kumar, 3Ktechnologies tarunkumar.b@3ktechnologies.com Reply to: tarunkumar.b@3ktechnologies.com Job Role : Lead Data EngineerLocation : Chicago, IL Type : C2CJob Description :Python/Pyspark scripting Glue / lambda Snowflake (sql, stored procs) Airflow or equivalent orchestration AWS Cloud formation Informatica / ETLExperience 11-15 YearsQualification B-TechSkill (Primary): Technical Skills (APPS)-Programming Languages-Python ProgrammingSkillsetCandidate Self Rating (5)Candidate WriteupPython/Pyspark scripting - MANDATORY Glue / lambda - MANDATORY Snowflake/SQL - MANDATORY AWS Cloud formation Airflow or equivalent orchestration Informatica/ Any ETL tool - MANDATORY Thanks & RegardsTarun Kumar.BTechnical Recruiter | Bench Sales Recruiter1114 Cadillac Ct, Milpitas, CA 950353K Technologies, LLC www.3ktechnologies.com tarunkumar.b@3ktechnologies.comAnalytics | BI | Big Data | Cloud |Software Engg.",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:54:37-05:00",
+        "unique_id": "19291048debc2254",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Wiseq",
+        "job_title": "GCP Cloud DevOps Engineer",
+        "location": "Cleveland, OH, USA",
+        "full_location": {
+            "city": "Cleveland",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP IAM",
+                "Prisma Cloud",
+                "Google CSPR"
+            ],
+            "primary": [
+                "GCP Engineer",
+                "security",
+                "compliance"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP IAM",
+                "Prisma Cloud",
+                "Google CSPR",
+                "GCP Engineer",
+                "security",
+                "compliance"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Austin Wiseq",
+        "email": "austin@wiseq.net",
+        "jd": "From: Austin, Wiseq austin@wiseq.net Reply to: austin@wiseq.net Visa - (USC / H4-EAD/ L2 / E3 / TN) Role: GCP Cloud DevOps EngineerLocation Cleavland, OH (Onsite)Duration: Long Term Key Requirements:Proven experience as a GCP Engineer or in a similar role, with a strong focus on security and compliance.Hands-on experience with GCP IAM, Prisma Cloud, and Google CSPR.Experience working collaboratively with Cloud Foundations teams to implement secure cloud solutions.",
+        "source": "Email",
+        "date_posted": "2024-10-17 09:38:38-05:00",
+        "unique_id": "1929b0eb124b1ef0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

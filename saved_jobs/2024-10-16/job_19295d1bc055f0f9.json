@@ -1,0 +1,76 @@
+[
+    {
+        "company": "GAC Solution Inc.",
+        "job_title": "Lead Data Architect (AWS)",
+        "location": "Woodland Hills, CA, USA",
+        "full_location": {
+            "city": "Woodland Hills",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's degree in computer science, engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud Expertise",
+                "Data Warehousing and Modeling",
+                "ETL and Data Pipelines",
+                "Big Data Technologies",
+                "Databases",
+                "Programming"
+            ],
+            "primary": [
+                "AWS certifications",
+                "Data Governance and Security"
+            ],
+            "secondary": [
+                "Hadoop",
+                "Spark",
+                "Hive",
+                "NoSQL databases",
+                "Python",
+                "PySpark"
+            ],
+            "all": [
+                "AWS Cloud Expertise",
+                "Data Warehousing and Modeling",
+                "ETL and Data Pipelines",
+                "Big Data Technologies",
+                "Databases",
+                "Programming",
+                "AWS certifications",
+                "Data Governance and Security",
+                "Hadoop",
+                "Spark",
+                "Hive",
+                "NoSQL databases",
+                "Python",
+                "PySpark"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sukumar",
+        "email": "sukumar@gacsol.com",
+        "jd": "Greetings, My name is Sukumar, and I represent GAC Solution Inc., a staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have excellent domain expertise in all verticals. Repositioning professionals is what we do, and we do it very well. I am reaching out to you today as your profile matches an immediate job opportunity we have with our premier client. Please take a look at the job description below and let me know your interest. Role: Lead Data Architect (AWS) Location: Woodland Hills, CA - Hybrid Contract Job Description: Responsibilities: \u2022 Designing and Implementing Data Solutions: Create blueprints for data storage, processing, and access using AWS services like S3, Glue, EMR, Kinesis by considering factors like performance, scalability, security, and cost-effectiveness. \u2022 Lakehouse and ETL: Component design and build of Lakehouse Solution on AWS using Lambda, EMR and EKS for compute resource and Iceberg and S3 as Storage resource. Design and implement ETL (Extract, Transform, Load) pipelines to move and transform data from various sources into the Lakehouse across Bronze, Silver and Gold layers. \u2022 Data Delivery for Consumption: Design for data access for querying with Athena, Integration of Iceberg Tables in Glue Catalog with Snowflake for Analytics and Reporting \u2022 Big Data Solutions: Working with large datasets and distributed computing using services like EMR (with Spark) to process and Streaming solution with Kinesis, Kafka \u2022 Data Governance and Security: Ensuring data quality, compliance with regulations (like GDPR), and implementing security measures to protect sensitive information. \u2022 Collaboration and Communication: Working with stakeholders (business analysts, data scientists, developers) to understand their needs and translate them into technical solutions. You'll need to explain complex concepts clearly. Skills: \u2022 AWS Cloud Expertise: Deep understanding of core AWS services (S3, EC2, EKS, EMS, VPC, IAM, Glue, Athena ) \u2022 AWS certifications (e.g., Solutions Architect, Big Data Specialty) are highly valued. \u2022 Data Warehousing and Modeling: Strong knowledge of dimensional modeling, schema design, and data warehousing principles. \u2022 ETL and Data Pipelines: Experience with tools and techniques for data extraction, transformation, and loading. \u2022 Big Data Technologies: Familiarity with Hadoop, Spark, Hive, and other big data frameworks. \u2022 Databases: Proficiency in SQL and experience with relational databases are must and nice to have NoSQL databases (like DynamoDB) experience. \u2022 Programming: Python with PySpark hands on coding for automation, and data processing tasks. \u2022 Data Governance and Security: Understanding of data security best practices, access control, and compliance requirements. Qualifications \u2022 Education: A bachelor's degree in computer science, engineering, or a related field is usually expected. \u2022 Experience: 10+ years of experience I would also appreciate it if you could send me an updated resume. Best Regards, Sukumar Sr Technical Recruiter E: sukumar@gacsol.com www.gacsol.com www.muffins.ai \u2018Experts in Digitalization and Platform Engineering - Enterprise 4.0\u2019",
+        "source": "Email",
+        "date_posted": "2024-10-16 09:16:07-05:00",
+        "unique_id": "19295d1bc055f0f9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

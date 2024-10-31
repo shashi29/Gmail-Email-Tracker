@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Siri infosolutions Inc",
+        "job_title": "AWS Data engineer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8 to 10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Lakeformation",
+                "AWS Glue Data Catalog",
+                "AWS EMR",
+                "S3",
+                "Athena",
+                "Lambda",
+                "HDFS",
+                "Hadoop",
+                "Spark",
+                "Hive",
+                "Airflow",
+                "Trino",
+                "Pyspark",
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Terraform",
+                "Jenkins",
+                "Angular"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS Lakeformation",
+                "AWS Glue Data Catalog",
+                "AWS EMR",
+                "S3",
+                "Athena",
+                "Lambda",
+                "HDFS",
+                "Hadoop",
+                "Spark",
+                "Hive",
+                "Airflow",
+                "Trino",
+                "Pyspark",
+                "SQL",
+                "Python",
+                "Data Engineering",
+                "Terraform",
+                "Jenkins",
+                "Angular"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Prateek Kapoor",
+        "email": "prateek.kapoor@siriinfo.com",
+        "jd": "From: Prateek Kapoor, Siri infosolutions Inc prateek.kapoor@siriinfo.com Reply to: prateek.kapoor@siriinfo.com AWS Data engineerNew York NY Important skills:: Data Engineering space with AWS, AWS Lakeformation, AWS Glue Data Catalog, AWS EMR,S3, Athena, Lambda. HDFS, Hadoop, Spark, Hive, Airflow, Trino, Pyspark? 8 to 10 years of experience in Data Engineering space with AWS as primary cloud experience.? Experience in conducting design reviews with Architects and Development Lead? Experience in AWS technologies and services like : AWS Lakeformation, AWS Glue Data Catalog, AWS EMR,S3, Athena, Lambda.? Data Engg Technologies like : HDFS, Hadoop, Spark, Hive, Airflow, Trino, Pyspark? Experience in Designing Ci \\CD pipelines using Terraform and Jenkins? Experience in front end technologies like Angular etc? Experience in Programming language like SQL and Python. Thank youPrateek Kkapoor",
+        "source": "Email",
+        "date_posted": "2024-10-14 06:31:51-05:00",
+        "unique_id": "1928aed24317883b",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

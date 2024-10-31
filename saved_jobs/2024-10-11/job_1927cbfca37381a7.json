@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Tanisha Systems Inc",
+        "job_title": "Python Pyspark with AWS",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "11+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Pipelines",
+                "Relational Datastores",
+                "NoSQL Datastores",
+                "Cloud Object Stores"
+            ],
+            "secondary": [
+                "Infrastructure as Code",
+                "Terraform",
+                "Cloud Certification",
+                "ACID Compliant Formats",
+                "Data Observability Solutions",
+                "Data Governance Frameworks"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS",
+                "Data Engineering",
+                "Data Pipelines",
+                "Relational Datastores",
+                "NoSQL Datastores",
+                "Cloud Object Stores",
+                "Infrastructure as Code",
+                "Terraform",
+                "Cloud Certification",
+                "ACID Compliant Formats",
+                "Data Observability Solutions",
+                "Data Governance Frameworks"
+            ],
+            "with_experience": [
+                "Python (5+ years)",
+                "Data Engineering (11+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Siddharth Tiwari",
+        "email": "siddharth@tanishasystems.com",
+        "jd": "From: Siddharth Tiwari, Tanisha Systems siddharth@tanishasystems.com Reply to: siddharth@tanishasystems.com Hi, My name is Siddharth, and I am recruiter at. Tanisha Systems Inc is a global contingency staffing firm servicing. We have an excellent job opportunity with one of our clients.Title-Python Pyspark with AWSLocation-Plano TX / Wilmington DE Need only Locals 11+ years profile Duties and responsibilities Collaborate with the team to build out features for the data platform and consolidate dataassetsBuild, maintain and optimize data pipelines built using SparkAdvise, consult, and coach other data professionals on standards and practicesWork with the team to define company data assetsMigrate CMS\u2019 data platformsPartner with business analysts and solutions architects to develop technicalarchitectures for strategic enterprise projects and initiativesBuild libraries to standardize how we process dataLoves to teach and learn, and knows that continuous learning is the cornerstone of everysuccessful engineerHas a solid understanding of AWS tools such as EMR or Glue, their pros and cons andis able to intelligently convey such knowledgeImplement automation on applicable processes Mandatory Skills:5+ years of experience in a data engineering positionProficiency is Python (or similar) and SQLStrong experience building data pipelines with SparkStrong verbal & written communicationStrong analytical and problem-solving skillsExperience with relational datastores, NoSQL datastores and cloud object storesExperience building data processing infrastructure in AWSBonus: Experience with infrastructure as code solutions, preferably TerraformBonus: Cloud certificationBonus: Production experience with ACID compliant formats such as Hudi, Iceberg or Delta LakeBonus: Familiar with data observability solutions, data governance frameworks Siddharth TiwariTechnical Recruiter, Tanisha Systems IncPhone: 212-729-6543 Email: Siddharth@tanishasystems.com | Address: 99 Wood Ave South Suite # 308,Iselin, NJ 08830",
+        "source": "Email",
+        "date_posted": "2024-10-11 12:27:31-05:00",
+        "unique_id": "1927cbfca37381a7",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

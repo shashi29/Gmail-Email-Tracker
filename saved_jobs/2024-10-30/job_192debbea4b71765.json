@@ -1,0 +1,73 @@
+[
+    {
+        "company": "State of Indiana",
+        "job_title": ".NET Developer",
+        "location": "Indianapolis, IN, USA",
+        "full_location": {
+            "city": "Indianapolis",
+            "state": "IN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Contract to Hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET Framework",
+                "MVC framework"
+            ],
+            "primary": [
+                "object-oriented techniques",
+                "unit testing",
+                "technical specifications",
+                "requirements analysis",
+                "business processes"
+            ],
+            "secondary": [
+                "SDLC",
+                "debugging",
+                "project management",
+                "independent judgment"
+            ],
+            "all": [
+                "C#",
+                ".NET Framework",
+                "MVC framework",
+                "object-oriented techniques",
+                "unit testing",
+                "technical specifications",
+                "requirements analysis",
+                "business processes",
+                "SDLC",
+                "debugging",
+                "project management",
+                "independent judgment"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Goutham",
+        "email": "goutham@itstrategiesinc.com",
+        "jd": "Client is State of Indiana\nAgency is Dept of Health\nRole is .NET Developer\nWork Location is Indianapolis-Hybrid\nContract to Hire (USCs or GCs)\nInterview is Video\nStart and End Dates: 11/25/24 to 11/06/24\n\nShort Description:\nSenior .NET developer to work building a new CSHCS Web application.\n\nComplete Description:\nLocal candidates only. The manager has indicated the position is a possible contract to hire opportunity for eligible candidates only. Candidates presented must be eligible for full time hire, without requiring sponsorship.\n\nResponsible to analyze existing application at Indiana State Department of Health towards building new Web application. Developer will work with PM, other developers, business analysts, and functional team members on the project activities.\n\nEssential Duties / Responsibilities:\n\u2022 Responsible for complete SDLC for project assignment and participate in full development life cycle including requirements analysis and design.\n\u2022 Working with technical and functional staff on detailed business requirements, understanding business processes and technology, agency standards, federal and state policies to align with project\u2019s goals.\n\u2022 Write technical specifications based on conceptual design and stated business requirements.\n\u2022 Use object-oriented techniques and best practices for design, development, unit testing, and deployment.\n\u2022 Development of code along with unit testing strategy & plans.\n\u2022 Use Microsoft .NET Framework and a supported MVC framework, C# programming language to development of the applications.\n\u2022 Work with Project Manager to ensure project plan is maintained and project milestones are being met.\n\u2022 Work with PM, technical staff, and end user to prototype, refine, test, and debug programs to meet needs of the application.\n\u2022 Have ability to work independently with less guidance and work with ISDH externals partners as needed.\n\u2022 Take agency web applications architecture and business decisions into consideration for design.\n\u2022 Have ability to work independently and under general supervision with latitude for independent judgment.",
+        "source": "Email",
+        "date_posted": "2024-10-30 12:06:35-05:00",
+        "unique_id": "192debbea4b71765",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

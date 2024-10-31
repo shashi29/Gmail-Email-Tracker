@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Deltaclass Technology Solutions",
+        "job_title": "Python Pyspark",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's Degree in Computer Science/Programming or similar is preferred",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Data Pipelines",
+                "Data Warehousing",
+                "Analytical Skills",
+                "Problem Solving"
+            ],
+            "secondary": [
+                "Infrastructure as Code",
+                "Terraform",
+                "Cloud Certification",
+                "Data Governance",
+                "Data Observability"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Spark",
+                "AWS",
+                "Data Engineering",
+                "Data Pipelines",
+                "Data Warehousing",
+                "Analytical Skills",
+                "Problem Solving",
+                "Infrastructure as Code",
+                "Terraform",
+                "Cloud Certification",
+                "Data Governance",
+                "Data Observability"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kevin",
+        "email": "kevin@deltaclasstech.com",
+        "jd": "From: Kevin, Deltaclass Technology Solutions kevin@deltaclasstech.com Reply to: kevin@deltaclasstech.com Position: Python PysparkLocation: Columbus, OHDuration: Long TermExp 8+ Years and only USCJob Description:A Data Engineer at CMS is a software engineer with proficiency in data. The data engineer will build and maintain the CMS data warehouse which is used for both reporting and analytics across the company. The individual works cross functionally with technical and business teams to identify opportunities to better leverage data. The data comes from a variety of sources and it is the responsibility of the data engineer to make sense of the data using cloud based systems (AWS) and provide a reliable and structured format to meet the different business needs at CMS.Duties and responsibilities Collaborate with the team to build out features for the data platform and consolidate data assetsBuild, maintain and optimize data pipelines built using Spark Advise, consult, and coach other data professionals on standards and practicesWork with the team to define company data assets Migrate CMS\u2019 data platform into Chase\u2019s environment Partner with business analysts and solutions architects to develop technical architectures for strategic enterprise projects and initiatives Build libraries to standardize how we process data Loves to teach and learn, and knows that continuous learning is the cornerstone of every successful engineerHas a solid understanding of AWS tools such as EMR or Glue, their pros and cons and is able to intelligently convey such knowledge Implement automation on applicable processesThe ideal candidate 5+ years of experience in a data engineering position Proficiency is Python (or similar) and SQLStrong experience building data pipelines with SparkStrong verbal & written communicationStrong analytical and problem solving skillsExperience with relational datastores, NoSQL datastores and cloud object storesExperience building data processing infrastructure in AWSBonus: Experience with infrastructure as code solutions, preferably TerraformBonus: Cloud certificationBonus: Production experience with ACID compliant formats such as Hudi, Iceberg or Delta LakeBonus: Familiar with data observability solutions, data governance frameworksRequirementsBachelor\u2019s Degree in Computer Science/Programming or similar is preferred",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:35:45-05:00",
+        "unique_id": "192a18e368930950",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

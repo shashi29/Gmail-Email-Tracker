@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Siriinfo",
+        "job_title": "ETL Data Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Bachelor's degree in an IT related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ETL",
+                "IBM DataStage",
+                "SQL",
+                "Data Warehouse",
+                "Data Lake",
+                "Data Mart",
+                "ODS Architecture"
+            ],
+            "primary": [
+                "Data profiling",
+                "Data Quality frameworks",
+                "Streaming frameworks",
+                "Message oriented middleware",
+                "Kafka",
+                "Solace",
+                "UNIX scripting",
+                "FTP"
+            ],
+            "secondary": [
+                "Analytic workflows",
+                "Collaboration",
+                "Problem solving",
+                "Effective communication"
+            ],
+            "all": [
+                "ETL",
+                "IBM DataStage",
+                "SQL",
+                "Data Warehouse",
+                "Data Lake",
+                "Data Mart",
+                "ODS Architecture",
+                "Data profiling",
+                "Data Quality frameworks",
+                "Streaming frameworks",
+                "Message oriented middleware",
+                "Kafka",
+                "Solace",
+                "UNIX scripting",
+                "FTP",
+                "Analytic workflows",
+                "Collaboration",
+                "Problem solving",
+                "Effective communication"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Dushyanth",
+        "email": "dushyanth@siriinfo.com",
+        "jd": "Hi Hiring for ETL Data Engineer at Chicago Il Experience (Years): 8-10Essential Skills: A ETL Data Engineer will function as a mid-level technical resource to participate as a member of a development team building, integrating, and maintaining data solutions for Wealth various operational and reporting systems. Data engineers will provide deep hands-on expertise in modern data architecture and implementation experience in delivering innovative Data products to leverage data as a strategic asset. They will be part of a highly dynamic team on a multiyear journey to build real time Operational and Analytic data repositories. The ETL Developer will be involved in the design, build, unit testing, and deployment of multiple types of ETL approaches spanning traditional ETL (e.g. IBM DataStage) and evolving toward newer technologies. The developer should expect to pull multiple formats of source data including XML, web services, delimited flat files, and other sources.Responsibilities? Responsible for translating functional ETL requirements into a technical design document, coding/building programs to pull data from the source into staging tables, from staging tables into conformance tables using Change Data Capture methodologies, and into dimensional data marts for reporting or outbound interfaces to other consuming systems.? Designs, develops, enhances, debugs, and implements software. Troubleshoots production problems related to software applications.? Addresses problems of systems integration, compatibility, and multiple platforms.? Consults with project teams and end users to identify application requirements.? Performs feasibility analysis on potential future projects to management.? Resolves problems with software and responds to suggestions for improvements and enhancements.? Ensure all changes are properly documented, planned, tested, and approved prior to being moved into production? Must be able to code, debug and test IBM Data stage jobs including complex SQL statements.? Ensure work meets functionality and quality expectations within given timelinesQualifications? Strong Knowledge of:o Data Warehouse, Data Lake , Data Mart and ODS Architectureo Understanding of Relational and Dimensional Data modelingo Ability to design , build and tune scalable data pipelines with appropriate ABC framework is a must haveo Data profiling & DQ frameworkso Exposure to streaming frameworks and Message oriented middleware like Kafka and Solace? The candidate needs to be a self-starter, critical thinker and creative problem solver and needs to have past experience in effectively collaborating with distributed team across different time zones? Effective written and verbal communication skills and intellectual understanding of the spectrum of analytic workflows to turn actionable data sets to value driven insights will make the candidate standout? IBM Datastage Experience. Strong SQL skills.? Experience in UNIX scripting, FTP and basic network principles? Bachelors degree in an IT related field? Minimum 5 years? experience",
+        "source": "Email",
+        "date_posted": "2024-10-14 12:56:48-05:00",
+        "unique_id": "1928c4d8d9d2d2f0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

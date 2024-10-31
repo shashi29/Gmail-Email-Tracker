@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "Data Engineer with Java (Hands on real streaming)",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica Power Center",
+                "ETL development",
+                "data warehousing",
+                "Linux/Unix Shell Scripting",
+                "Oracle database",
+                "advanced SQL"
+            ],
+            "primary": [
+                "data modeling",
+                "ETL Informatica Mappings",
+                "Agile delivery methodology",
+                "Python",
+                "Spark SQL",
+                "Cloud technologies (Azure and/or GCP)",
+                "Kafka"
+            ],
+            "secondary": [],
+            "all": [
+                "Informatica Power Center",
+                "ETL development",
+                "data warehousing",
+                "Linux/Unix Shell Scripting",
+                "data modeling",
+                "ETL Informatica Mappings",
+                "Agile delivery methodology",
+                "Python",
+                "Spark SQL",
+                "Cloud technologies (Azure and/or GCP)",
+                "Kafka",
+                "advanced SQL"
+            ],
+            "with_experience": [
+                "Informatica Power Center",
+                "ETL development",
+                "data warehousing",
+                "Linux/Unix Shell Scripting",
+                "Oracle database",
+                "advanced SQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ramakrishnan",
+        "email": "ramakrishnan@vysystems.com",
+        "jd": "From: Ramakrishnan, Vysystems ramakrishnan@vysystems.com Reply to: ramakrishnan@vysystems.com Senior Software Engineer/Data Engineer 5+ years of experience in building end-to-end business solutions using Informatica Power Center Demonstrated strength in data modeling, ETL development, and data warehousing. \u200e Demonstrated experience with Linux/ Unix Shell Scripting\u200e Strong hands-on development experience in ETL Informatica Mappings/ mapplets, Session, Workflows and events creation.\u200e Expertise in Informatica all mapping transformations like Lookup, Normalizer, Update Strategy, Expression, Filter TX, etc.\u200e Strong experience on star schema data modeling and data warehouse concepts.\u200e Expertise in Oracle database and advanced SQL\u200e Expertise in Agile delivery methodology including Sprint and Kanban\u200e Expertise in Python and Spark SQL Knowledge of Cloud technologies Azure and/or GCP\u200e Knowledge of Kafka",
+        "source": "Email",
+        "date_posted": "2024-10-28 15:10:34-05:00",
+        "unique_id": "192d4e07b2d4c0be",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

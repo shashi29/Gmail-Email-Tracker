@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "Senior SQL Developer",
+        "location": "Miami, FL, USA",
+        "full_location": {
+            "city": "Miami",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8 years +",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Database Architecture",
+                "Azure Cloud",
+                "Azure Data Factory",
+                "SQL",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "Data Modeling",
+                "Database Design",
+                "Optimization for Performance",
+                "Stored Procedures",
+                "ETL Jobs"
+            ],
+            "secondary": [
+                "Analytical Skills",
+                "Organizational Skills",
+                "Troubleshooting",
+                "Communication Skills",
+                "Agile",
+                "Scrum"
+            ],
+            "all": [
+                "Database Architecture",
+                "Azure Cloud",
+                "Azure Data Factory",
+                "SQL",
+                "Performance Tuning",
+                "Data Modeling",
+                "Database Design",
+                "Optimization for Performance",
+                "Stored Procedures",
+                "ETL Jobs",
+                "Analytical Skills",
+                "Organizational Skills",
+                "Troubleshooting",
+                "Communication Skills",
+                "Agile",
+                "Scrum"
+            ],
+            "with_experience": [
+                "SQL (8+ years)",
+                "Azure Cloud",
+                "Azure Data Factory"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Roshan Singh Yadav",
+        "email": "roshan.yadav@tekinspirations.com",
+        "jd": "From: Roshan singh yadav, Tek Inspirations roshan.yadav@tekinspirations.com Reply to: roshan.yadav@tekinspirations.com Hi,Hope you are doing well.Have a look at role. Let me know your view. Job Description - I need the resume to include all the skills requested in the job description. If any skill is missing, I won\u2019t move forward with that candidate. Also, please ensure not to submit anyone with an AWS focus; the client specifically requested candidates with more experience on Azure. Senior SQL DeveloperLocation: Miami, FL \u2013 Hybrid (Need Local) Duration: 12+ months MOI: Skype LinkedIn must have Responsibilities Design, develop and optimize large, complex DB schemas, SQL scripts and objects to meet application functionality and performance requirements.Working cohesively with stakeholders including data, design, product, and executive teams and assisting them with data-related technical issues.Working closely with application developers and business teams at all levels to assist with data-related technical issues and help ensure the successful designing and delivering data driven solutions.Implement processes and procedures for the development and release of products/projects that facilitate high quality and rapid deploymentProvide solutions to promote data integrity in enterprise systems.Participate in code reviews to validate effectiveness and quality of code.Publish documentation and collaborative information using internal tools.Requirements Expertise in Database Architecture in an environment that handles large volume of data.Experience with Azure Cloud & Azure Data FactoryStrong analytical and organizational skills. This job involves analyzing existing databases and the client's needs to develop effective data driven solutions.Demonstrate expertise in performance tuning including both query and server optimization utilizing SQL tools and/or 3rd party solutions.Strong knowledge and experience in data modeling, database design, optimization for performance, SQL, stored procedures.Expertise in understanding complex business needs, analyzing, designing, and developing solutions.Experience in troubleshooting and resolving data related issues.Excellent oral and written communication skills.Expertise in performance tuning especially tuning complex queries, procedure, and indexing strategies.Monitor and perform tuning on complex ETL jobs.Audit/compliance experience in highly regulated environment.Familiar with Continual Improvement processes.Experience 8 years + relational database and SQL experienceMust have experience with Azure Cloud, Azure Data Factory, and other tools within Azure CloudCreativity, curiosity, initiative, and self-management are key attributes candidate embodies.Solid experience (4 years +) in coding complex SQL queries and stored procedures. The ability to explain the details of performance tuning internals of the database.Strong understanding of database development methodologies (Source Control, Continual improvement, Release Management, Agile and Scrum)",
+        "source": "Email",
+        "date_posted": "2024-10-16 12:13:35-05:00",
+        "unique_id": "1929672a2cd48783",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

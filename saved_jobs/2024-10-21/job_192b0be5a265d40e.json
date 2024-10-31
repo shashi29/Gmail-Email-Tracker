@@ -1,0 +1,53 @@
+[
+    {
+        "company": "Synkriom Inc",
+        "job_title": "Data Architect with Data Bricks and Azure",
+        "location": "Oakland, CA, USA",
+        "full_location": {
+            "city": "Oakland",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "9728945",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks workflows",
+                "APIs",
+                "Data Engineering"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Databricks workflows",
+                "APIs",
+                "Data Engineering"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Mohini Devi",
+        "email": "mohini.devi@synkriom.com",
+        "jd": "From: MOHINI DEVI, Synkriom Inc mohini.devi@synkriom.com Reply to: mohini.devi@synkriom.com Hi, Hope you're doing well. Kindly find the job description below and if you are comfortable with the requirement, please share your updated resume. Visa: H1B, USC and GC Requirement ID: 9728945Location: Oakland, CA (Day One Onsite)Implementation: TCS (Contract Position) Role Description: Data processing scheduling and management, in particular ETL.Generating dashboards and visualizations.Managing security, governance, high availability, and disaster recovery.Data discovery, annotation, and exploration. Essential Skills: Databricks workflows, APIs, and Data Engineering.",
+        "source": "Email",
+        "date_posted": "2024-10-21 14:44:52-05:00",
+        "unique_id": "192b0be5a265d40e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

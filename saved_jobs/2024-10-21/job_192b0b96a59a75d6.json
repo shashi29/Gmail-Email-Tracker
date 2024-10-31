@@ -1,0 +1,89 @@
+[
+    {
+        "company": "DS InfoServices",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "AR",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Java",
+                "GCP",
+                "Azure",
+                "AWS"
+            ],
+            "primary": [
+                "Spark",
+                "Pyspark",
+                "HIVE",
+                "CICD",
+                "Automated test frameworks",
+                "DevOps",
+                "XLR",
+                "Jenkins",
+                "Git",
+                "Maven"
+            ],
+            "secondary": [
+                "Strong communication skills",
+                "Analytical skills",
+                "Effective presentation skills",
+                "Familiarity with Agile",
+                "Familiarity with scrum ceremonies"
+            ],
+            "all": [
+                "Python",
+                "Java",
+                "GCP",
+                "Azure",
+                "AWS",
+                "Spark",
+                "Pyspark",
+                "HIVE",
+                "CICD",
+                "Automated test frameworks",
+                "DevOps",
+                "XLR",
+                "Jenkins",
+                "Git",
+                "Maven",
+                "Strong communication skills",
+                "Analytical skills",
+                "Effective presentation skills",
+                "Familiarity with Agile",
+                "Familiarity with scrum ceremonies"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ram",
+        "email": "ram@dsinfoservices.com",
+        "jd": "From: Ram, DS InfoServices ram@dsinfoservices.com Reply to: ram@dsinfoservices.com Hi,Hope you are doing good,Position: Data Engineer Location: AR (Onsite) Duration: Long term ContractOnly W2VISA Type: H4 EAD, USC and GC onlyJob Description:Hands-on experience with public cloud data warehouse (GCP, Azure, AWS).Strong Hands on experience with one or more programming languages (Python or Java).Experience with application design and software development in Big Data (Spark (Pyspark), HIVE) nice to have.Experience with CICD pipelines, Automated test frameworks, DevOps and source code management tools (XLR, Jenkins, Git, Maven).Strong communication and analytical skills including effective presentation skills.Familiarity with Agile & scrum ceremonies.",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:37:09-05:00",
+        "unique_id": "192b0b96a59a75d6",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

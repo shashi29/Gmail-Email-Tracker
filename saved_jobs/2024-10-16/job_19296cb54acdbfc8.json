@@ -1,0 +1,74 @@
+[
+    {
+        "company": "KPG99 INC",
+        "job_title": "QA/Data Analyst",
+        "location": "Woonsocket, RI, USA",
+        "full_location": {
+            "city": "Woonsocket",
+            "state": "RI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months (with potential to convert after 6 months)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Excel",
+                "Data Analysis",
+                "Quality Assurance"
+            ],
+            "primary": [
+                "Google Cloud Platform",
+                "Test Data Management",
+                "Regression Testing",
+                "Functional Testing",
+                "Performance Testing"
+            ],
+            "secondary": [
+                "Python",
+                "Communication",
+                "Scheduler platforms"
+            ],
+            "all": [
+                "SQL",
+                "Excel",
+                "Data Analysis",
+                "Quality Assurance",
+                "Google Cloud Platform",
+                "Test Data Management",
+                "Regression Testing",
+                "Functional Testing",
+                "Performance Testing",
+                "Python",
+                "Communication",
+                "Scheduler platforms"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Kailash Negi",
+        "email": "kn@kpgtech.com",
+        "jd": "From: Kailash Negi, KPG99 kn@kpgtech.com Reply to: kn@kpgtech.com Role : QA/Data AnalystLocation : Woonsocket, RI - local from day 1 and onsite 3 days a weekInterview : Phone and VideoDuration : 6+ Months (with potential to convert after 6 months)GC, USC Must have heavy Data, SQL, and Testing within a Cloud migration project.They will even be coding with SQL Please note: Hybrid onsite 3 days (Tuesday, Wednesday, Thursday)Candidates need to be able to convert without sponsorship Why Open: - Assist with GCP Data Migration Job Summary: Client is seeking a detail-oriented QA Analyst with expertise in SQL programming, Excel, and test data management to support our GCP migration project. The ideal candidate will have a strong background in quality assurance processes, data analysis, and cloud-based solutions, ensuring the accuracy and performance of our applications during and after migration. Key Responsibilities:\u2022 Develop and execute comprehensive test plans, test cases, and test scripts for applications being migrated to Google Cloud Platform (GCP).\u2022 Utilize SQL to validate and verify data integrity, model correctness, and system functionality post-migration.\u2022 Collaborate with development teams to identify and resolve defects and issues related to data migration and application performance.\u2022 Maintain and manage test data in Excel, including creating, updating, and documenting datasets required for testing.\u2022 Perform regression, functional, and performance testing to ensure applications operate seamlessly after migration.\u2022 Document testing results, anomalies, and defects; provide detailed reports and insights to stakeholders.\u2022 Work closely with project managers, business analysts, and other stakeholders to understand requirements and deliver quality assurance across the project lifecycle.\u2022 Participate in code reviews and quality assessments to enhance software quality.\u2022 Stay updated with industry best practices and emerging trends in QA methodologies and cloud technologies. Qualifications:\u00b7 Bachelor\u2019s degree in Computer Science, Information Technology, or related field.\u00b7 Proven experience as a QA Analyst or in a similar role, particularly in cloud migration projects.\u00b7 Strong proficiency in SQL for data validation, querying, and analytics.\u00b7 Advanced knowledge of Excel for data manipulation, reporting, and analysis.\u00b7 Familiarity with Google Cloud Platform and its services (e.g., BigQuery, Cloud Storage) is preferred.\u00b7 Solid understanding of software testing methodologies and best practices.\u00b7 Excellent analytical, problem-solving, and communication skills.\u00b7 Ability to work independently and collaboratively in a fast-paced environment. Must Have:\u2022 SQL- Ability to code- Ability to test code- Ability to understand code - Ability to speak on code \u2022 Excel \u2022 Scheduler platforms\u2022 Communication \u2022 Python \u2013 is a plus!",
+        "source": "Email",
+        "date_posted": "2024-10-16 13:50:28-05:00",
+        "unique_id": "19296cb54acdbfc8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

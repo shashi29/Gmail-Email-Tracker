@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Gacsol",
+        "job_title": "Python / PySpark Developer",
+        "location": "Whippany, NJ, USA",
+        "full_location": {
+            "city": "Whippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "PySpark",
+                "ETL",
+                "Big Data",
+                "SQL"
+            ],
+            "primary": [
+                "Hadoop",
+                "Hive",
+                "HBase",
+                "Kafka",
+                "Spark"
+            ],
+            "secondary": [
+                "Data validation",
+                "Data monitoring",
+                "Error handling",
+                "Data extraction",
+                "Data aggregation",
+                "Reporting"
+            ],
+            "all": [
+                "Python",
+                "PySpark",
+                "ETL",
+                "Big Data",
+                "SQL",
+                "Hadoop",
+                "Hive",
+                "HBase",
+                "Kafka",
+                "Spark",
+                "Data validation",
+                "Data monitoring",
+                "Error handling",
+                "Data extraction",
+                "Data aggregation",
+                "Reporting"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Chintala Rajesh",
+        "email": "rchintala@gacsol.com",
+        "jd": "From: Chintala Rajesh, Gacsol rchintala@gacsol.com Reply to: rchintala@gacsol.com Hi,Hope you are doing well,I am reaching out regarding a below job opportunity Title: Python / PySpark Developer Location: Whippany, NJ (On-Site) Job Summary:We are looking for a highly skilled Python/PySpark Developer with hands-on experience in Big Data technologies to join our dynamic data engineering team. The ideal candidate will have a strong background in building scalable, distributed data processing systems, using PySpark, and working on large datasets. You will collaborate with data scientists, engineers, and other stakeholders to design and implement efficient data pipelines. Key Responsibilities:Develop, optimize, and maintain ETL pipelines using PySpark to process large-scale datasets across distributed environments.Design and implement complex data transformation logic using PySpark and other Big Data tools.Work with various Big Data technologies such as Hadoop, Hive, HBase, Kafka, and Spark to build robust, scalable data systems.Collaborate with data engineers and data scientists to integrate data from multiple sources and create unified datasets.Write efficient, reusable, and scalable Python code to handle both batch and real-time data processing tasks.Ensure data quality, consistency, and reliability by implementing data validation, monitoring, and error handling.Fine-tune and optimize PySpark jobs to improve performance in distributed environments.Manage and maintain data flows in HDFS, ensuring scalability and fault tolerance.Perform data extraction, aggregation, and reporting using SQL and NoSQL databases.Participate in system design discussions and provide recommendations for architecture and performance improvements Thanks,Chintala RajeshTechnical RecruiterE: RChintala@gacsol.com www.Gacsol.com \u2018Experts in Digitalization and Engineering - Enterprise 4.0\u2019",
+        "source": "Email",
+        "date_posted": "2024-10-28 15:36:19-05:00",
+        "unique_id": "192d4f80e3ff6611",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

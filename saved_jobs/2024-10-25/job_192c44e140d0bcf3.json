@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Resource Consultings",
+        "job_title": "Data Engineer (Seamless)",
+        "location": "Cincinnati, OH, USA",
+        "full_location": {
+            "city": "Cincinnati",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 months - Contract to hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python Programming",
+                "Advanced SQL",
+                "Object-oriented programming"
+            ],
+            "primary": [
+                "Azure",
+                "Data Bricks",
+                "CI / CD"
+            ],
+            "secondary": [
+                "Cloud experience",
+                "Cosmos DB",
+                "Synapse",
+                "Git",
+                "TDD process"
+            ],
+            "all": [
+                "Python Programming",
+                "Advanced SQL",
+                "Object-oriented programming",
+                "Azure",
+                "Data Bricks",
+                "CI / CD",
+                "Cloud experience",
+                "Cosmos DB",
+                "Synapse",
+                "Git",
+                "TDD process"
+            ],
+            "with_experience": [
+                "Python Programming",
+                "Advanced SQL",
+                "Object-oriented programming"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kunal Bhatt",
+        "email": "kunal.bhatt@rconsultinginc.com",
+        "jd": "From: Kunal Bhatt, Resource Consultings kunal.bhatt@rconsultinginc.com Reply to: kunal.bhatt@rconsultinginc.com HiHope you are doing wellPlease share the resume at kunal.bhatt@rconsultinginc.comTitle : Data Engineer (Seamless)Duration: 6 months - Contract to hireLocation: Blue Ash, Cincinnati, OH HYBRID LOCALS ONLYVisa :USC/GCLocal candidates only !!! - No relocation cases for now.Python Developers with a data engineering background will be a good fit also. Along with the tech stack - databricks is important.What we are looking for:\u00b7 Looking for self-starter, good coach to others\u00b7 Not a traditional data shop, not a drag and drop type of shop.. built how google/Microsoft/meta is built...\u00b7 Strong Python software engineers solving data related problems... PYTHON IS HEAVILY NEEDED, NOT PYSPARK! Essentially a data centric full stack engineer.\u00b7 This role is going to be doing data engineering, data analysis, and programming..\u00b7 Kind of a jack of all trades.\u00b7 Strong knowledge in object-oriented programming - Must Python Programming - Must Advance SQL Azure \u2013 Azure function, Cosmos DB / Synapse preferable.\u00b7 Consider any cloud experience Data Bricks \u2013 desirable CI / CD Position is local to Cincinnati \u2013 Hybrid work - MustMust haves:\u00b7 Strong knowledge in object-oriented programming - Must\u00b7 Python Programming - Must\u00b7 Advanced SQL\u00b7 Azure \u2013 Azure function, Cosmos db. / Synapse preferable . Consider any cloud experience\u00b7 Data Bricks \u2013 desirable\u00b7 CI / CDNotes from vendor call:\u00b7 Strong knowledge in object-oriented programming - Must\u00b7 Python Programming - Must\u00b7 Advanced SQL (NoSQL DB)\u00b7 Azure \u2013 Azure function, Cosmos db. / Synapse preferable. Consider any cloud experience\u00b7 Data Bricks \u2013 desirable\u00b7 CI / CD - Git, Know how to migrate code to production live. Auto deployments. Understand TDD process\u00b7 Do not want candidates w/ extensive Python coding and not ETL exp (#1 reason why they disqualify candidates)",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:55:53-05:00",
+        "unique_id": "192c44e140d0bcf3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

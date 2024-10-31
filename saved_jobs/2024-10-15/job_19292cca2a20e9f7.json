@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "SQL Server Developer",
+        "location": "Weston, FL, USA",
+        "full_location": {
+            "city": "Weston",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "T-SQL",
+                "SSIS",
+                "SSRS",
+                "Query Optimization"
+            ],
+            "primary": [
+                "Dynamic Queries",
+                "Linked Servers",
+                "Indexing",
+                "Query Plan Analysis",
+                "Database Security"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Attention to Detail",
+                "Collaboration",
+                "Documentation",
+                "Code Reviews"
+            ],
+            "all": [
+                "SQL Server",
+                "T-SQL",
+                "SSIS",
+                "SSRS",
+                "Query Optimization",
+                "Dynamic Queries",
+                "Linked Servers",
+                "Indexing",
+                "Query Plan Analysis",
+                "Database Security",
+                "Problem-solving",
+                "Attention to Detail",
+                "Collaboration",
+                "Documentation",
+                "Code Reviews"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Sangya Kumari Nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title: SQL Server Developer Location: WESTON, FL ( downtown, and 2ndly is they are setting expectation, 5 days a week and flexible, don\u2019t want to hire where at the end Locals OnlyOnsite/Remote: ( setting expectations of 5 days , but open to some flexibility 2/3 but need to come in if they ask)Duration: 6 monthsPosition Type: PERM or C2HVisa: USC and H4EADLinkedIn is mustJob Description:We're seeking a skilled SQL Server Developer to join our team. Your primary focus will be on designing, enhancing, and managing SQL Server databases that form the backbone of various applications and tasks. Your proficiency in crafting intricate T-SQL queries, optimizing them for efficiency, and your adeptness in leveraging advanced T-SQL features such as window functions, grouping, and aggregate functions will be crucial. Your experience with dynamic queries, linked servers, SSIS, and SSRS will also be highly valued. Responsibilities:- Construct, update, and oversee SQL Server databases, encompassing the creation of tables, views, and stored procedures that are instrumental to application functionality.- Showcase advanced T-SQL skills by formulating intricate queries that retrieve and manipulate data with precision.- Enhance query performance by using techniques such as indexing, query plan analysis, and query rewriting.- Collaborate closely with fellow developers to ensure seamless integration of databases with applications, using linked servers to connect disparate data sources.- Translate business requirements into tangible database structures, working collaboratively with cross-functional teams to deliver optimal solutions.- Proactively identify and resolve database performance issues, employing skills in query tuning and optimization.- Develop comprehensive documentation outlining database design, data dictionaries, and essential functional elements like stored procedures, views, and functions.- Utilize SSIS to facilitate efficient data movement, transformation, and integration across diverse data stores.- Harness the power of SSRS to design, maintain, and evolve insightful reports that provide a clear view of critical business data.- Stay updated on the latest advancements in SQL Server tools and methodologies and apply best practices to maintain robust database systems.- Participate in code reviews, offering valuable insights to enhance code quality and efficiency.- Strategically plan database structures that accommodate growth and scalability, ensuring ongoing performance. Qualifications:- Minimum 3 years of experience working as a MS SQL Developer- Proficiency in SQL Server, including mastery of advanced T-SQL scripting with a deep understanding of window functions, grouping, and aggregate functions.- Familiarity with dynamic queries, demonstrating your ability to build adaptable and responsive data retrieval processes.- Experience in employing linked servers to seamlessly access data across different environments.- Proven track record in query optimization, showcasing expertise in techniques like query plan analysis and index optimization.- Experience with SSIS, showcasing your ability to create efficient data movement and transformation solutions.- Proficiency in using SSRS to design impactful reports that present key insights with clarity.- Understanding of database security measures to ensure data integrity and protection.- Strong problem-solving skills and meticulous attention to detail, essential for diagnosing and rectifying complex issues.- Collaborative team player, capable of multitasking in a fast-paced environment.",
+        "source": "Email",
+        "date_posted": "2024-10-15 18:12:16-05:00",
+        "unique_id": "19292cca2a20e9f7",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "company": "Xforia inc",
+        "job_title": "Sr. Java AWS Developer",
+        "location": "New York City, NY, USA",
+        "full_location": {
+            "city": "New York City",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Microservices",
+                "AWS",
+                "Terraform"
+            ],
+            "primary": [
+                "Agile",
+                "J2EE",
+                "Webservices",
+                "PL/SQL",
+                "Object-Oriented Analysis",
+                "Object Oriented Design",
+                "GIT",
+                "Jenkins",
+                "MVC",
+                "Java Design Patterns",
+                "JUnit",
+                "Oracle",
+                "SQL Server",
+                "SQL",
+                "SOAP",
+                "REST",
+                "IntelliJ",
+                "Maven",
+                "Tomcat"
+            ],
+            "secondary": [
+                "Collaboration",
+                "Architecture",
+                "Design",
+                "Business Processes",
+                "Software Development Lifecycle"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Microservices",
+                "AWS",
+                "Terraform",
+                "Agile",
+                "J2EE",
+                "Webservices",
+                "PL/SQL",
+                "Object-Oriented Analysis",
+                "Object Oriented Design",
+                "GIT",
+                "Jenkins",
+                "MVC",
+                "Java Design Patterns",
+                "JUnit",
+                "Oracle",
+                "SQL Server",
+                "SQL",
+                "SOAP",
+                "REST",
+                "IntelliJ",
+                "Maven",
+                "Tomcat",
+                "Collaboration",
+                "Architecture",
+                "Design",
+                "Business Processes",
+                "Software Development Lifecycle"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sai Kirubha",
+        "email": "sai.k@xforia.com",
+        "jd": "Title: Sr. Java AWS Developer\nLocation: New York City, NY | Day 1 Onsite\nDuration: Contract\n\nJob Description:\nMandate skills: Java, Spring boot, Microservices, AWS, Terraform\nExperience in Agile software development methodology and practices with full development lifecycle from inception through implementation.\n\nRequired: Java, J2EE, Spring, Microservice, Webservices, PL/SQL\nWorking knowledge of Object-Oriented Analysis/Object Oriented Design methodologies and life cycles.\nDemonstrated experience with SCM tools such as GIT, Jenkins\nExperience with application development on Java, J2EE, Spring, and MVC, Java Design Patterns and JUnit.\nKnowledge of Relational Databases like Oracle/SQL Server, SQL\nKnowledge of Web service technologies including SOAP/REST.\nStrong working knowledge of IntelliJ, Maven and Tomcat.\nAbility to work collaboratively in teams and develop meaningful relationships to achieve common goals\nKnowledge of architecture, design and business processes\nProficiency in modern programming languages\nExperience in design and build of complex application systems using the new banking architecture including Java/J2EE/Spring technologies.\nProficiency in one or more general purpose programming languages including Java/J2EE/JSP based Web applications/Middleware and Batch systems.\nExperience in design, analysis, development, coding, unit testing, debug and documentation for Java/J2EE systems including Web applications, business services, batch applications, large/complex projects and utilizing Web Services and Java RMI technologies to improve interface/API and significantly enhance integration capability between front-end and back-end systems.\nA fundamental understanding of software skills and the different components of SDLC such as business analysis, development, and maintenance and software improvement is essential.",
+        "source": "Email",
+        "date_posted": "2024-10-30 11:46:38-05:00",
+        "unique_id": "192de726b59dd01e",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

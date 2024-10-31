@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Vy Systems",
+        "job_title": "Cloud Development Engineer (AKS)",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Java",
+                "Python",
+                "Go",
+                "Docker",
+                "Kubernetes",
+                "Azure Storage",
+                "Azure Cosmos DB",
+                "Azure Functions",
+                "Azure Monitor"
+            ],
+            "primary": [
+                "Azure DevOps pipelines"
+            ],
+            "secondary": [
+                "cloud security best practices"
+            ],
+            "all": [
+                "C#",
+                "Java",
+                "Python",
+                "Go",
+                "Docker",
+                "Kubernetes",
+                "Azure Storage",
+                "Azure Cosmos DB",
+                "Azure Functions",
+                "Azure Monitor",
+                "Azure DevOps pipelines",
+                "cloud security best practices"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Bharath",
+        "email": "bharath.r@vysystems.com",
+        "jd": "From: Bharath, Vy systems bharath.r@vysystems.com Reply to: bharath.r@vysystems.com Hi,Looking for Cloud Development Engineer (Azure kubernetes services)Job title: Cloud Development Engineer (AKS)Location:Dallas TXA \"Cloud Developer on AKS\" is a software developer primarily responsible for designing, developing, and deploying cloud-native applications using Microsoft Azure Kubernetes Service (AKS), focusing on building scalable, resilient, and containerized applications within the AKS platform, often requiring expertise in containerization technologies, Kubernetes orchestration, and Azure cloud services.Required Skills:Programming Languages: Proficiency in at least one language like C#, Java, Python, Go.Containerization: Strong understanding of Docker and container orchestration principles.Kubernetes: Extensive knowledge of Kubernetes concepts (pods, deployments, services, ingress controllers).Azure Platform: Familiarity with Azure services like Azure Storage, Azure Cosmos DB, Azure Functions, and Azure Monitor.CI/CD Tools: Experience with Azure DevOps pipelines or similar tools for automated deployments.Cloud Security: Understanding of cloud security best practices and implementation strategies. Regards,BHARATH- Vy\u200bSystemsEmail ID:bharath.r@vysystems.com",
+        "source": "Email",
+        "date_posted": "2024-10-23 15:54:51-05:00",
+        "unique_id": "192bb496e1dbb7ca",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company": "GSK Solutions Inc",
+        "job_title": "Senior SQL DBA",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months+",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server 16",
+                "Database administration",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "Transparent Data Encryption"
+            ],
+            "primary": [
+                "Systems documentation",
+                "Database standards",
+                "Database integrity checks",
+                "Database replication",
+                "Backup environments"
+            ],
+            "secondary": [
+                "Monitoring space allocation",
+                "Patch management",
+                "Capacity changes",
+                "Troubleshooting",
+                "Database jobs"
+            ],
+            "all": [
+                "SQL Server 16",
+                "Database administration",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "Transparent Data Encryption",
+                "Systems documentation",
+                "Database standards",
+                "Database integrity checks",
+                "Database replication",
+                "Backup environments",
+                "Monitoring space allocation",
+                "Patch management",
+                "Capacity changes",
+                "Troubleshooting",
+                "Database jobs"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Kris",
+        "email": "kris@gsksolutions.com",
+        "jd": "From: Kris, GSK Solutions Inc kris@gsksolutions.com Reply to: kris@gsksolutions.com Job Title: Senior SQL DBA (Hybrid)Location: Lansing, MIDuration: 12 Months+Will close to submissions on 10/28 at 10am EST.Interview Process: Virtual Interview via MS Teams video. Please use laptop and be prepared so share screen if asked. Use of headphones is strongly discouraged. Please do NOT use ChatGPT or any other AI assistance during virtual interviews. A screenshot photo of candidate will be required for any interviews as well as a vendor present at beginning of interview to validate candidate. Any second-round interviews will be held in person at the Lansing office.Remote or On-site: Candidates MUST be local to greater Lansing area (commutable distance). We are not interested in candidates who will need to relocate to accept the position. Will need to be onsite starting day 1 for hybrid work schedule which is onsite 2-days a week. NO REMOTE ONLY OPTION. Top Skills & Years of Experience:7+ years of Database administration specifically on SQL Server 16 and upwards.Expertise in HA and DR solutions.Transparent Data Encryption within SQL Server.Over 3+ years of experience creating, updating and maintaining systems documentation. Position JustificationThe position is responsible for providing Infrastructure DBA support for all SQL Server applications and it is replacement for a Senior Level DBA leaving the team. The intention is to fill this position in the gap between the incumbent DBA leaves and the position is backfilled which will take several months. We cannot afford not having a resource for large and complex application that we support and in that there are several Tier 1 level applications that belong in the Bureau of Labs, Cancer Registry etc. Position SummaryAs an Senior-level Database Administrator, the resource, participates in 24x7 software and hardware support for complex applications in several versions of SQL Server, with high availabilty and Disaster Recovery support, following industry and DTMB development standards. Helps develop and/or submit for approval, plans for installation, patch management maintenance, upgrades and support for the Database systems. . Evaluate impacts of change and new technology, recommend solutions to persistent problems, and serves as Agency Services liaison to external consultants. Individual tasks related to the duty:Follow and enforce database standards, policies & procedures. Research and draft guidelines within the boundaries of current policies and standards.Monitor space allocation across databases. perform adjustments in test and development environments as necessary and as prescribed by predefined standards/guidelines.Calculate disk space requirements for existing and/or new installations of existing business needs Modify DBMS parameters based on capacity changes.Configure and execute database integrity checks.Monitor for database integrity checks.Install database base management software for development and test environments.Install database patches and service packs for development and test environments.Monitor and support clustered database environments.Monitor and support database replication and backup environments.Implement the strategy to release unused space or repair fragmentation in test and development environments.Execute (run) scripts provided by Systems Analysts or Database Architect/Designer for creating and modifying database objects (tables, views, constraints, indexes, etc.)Monitor database back-ups to ensure recoverability. Troubleshoot backup errors.Monitor database jobs and scheduled processes in development, test and production environments. Participate in troubleshooting. Monitor database environments (using alert logs, trace files, alert mechanisms, and other tools) for issues and problems with database functionality, connectivity, or downtime.Follow standards and guidelines for database space allocation based on best practices and implementation considerations based on business requirements.",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:38:34-05:00",
+        "unique_id": "192bf1bd0738e824",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

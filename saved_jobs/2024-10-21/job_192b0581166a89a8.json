@@ -1,0 +1,96 @@
+[
+    {
+        "company": "Yochana IT",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "3-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data pipelines",
+                "Dataflow",
+                "Composer",
+                "Airflow",
+                "Gradle",
+                "Maven",
+                "Jenkins",
+                "GitHub Actions",
+                "ETL",
+                "Google Cloud Platform",
+                "Relational Database",
+                "Datawarehouse Databases",
+                "Big Query"
+            ],
+            "primary": [
+                "Bulk Loads",
+                "Streaming load integration",
+                "Communication skills",
+                "Collaboration"
+            ],
+            "secondary": [
+                "Software development",
+                "Database application capabilities",
+                "Unit testing",
+                "Code reviews",
+                "Application optimization",
+                "Application health monitoring",
+                "Root cause analysis",
+                "Security best practices"
+            ],
+            "all": [
+                "Data pipelines",
+                "Dataflow",
+                "Composer",
+                "Airflow",
+                "Gradle",
+                "Maven",
+                "Jenkins",
+                "GitHub Actions",
+                "ETL",
+                "Google Cloud Platform",
+                "Relational Database",
+                "Datawarehouse Databases",
+                "Big Query",
+                "Bulk Loads",
+                "Streaming load integration",
+                "Communication skills",
+                "Collaboration",
+                "Software development",
+                "Database application capabilities",
+                "Unit testing",
+                "Code reviews",
+                "Application optimization",
+                "Application health monitoring",
+                "Root cause analysis",
+                "Security best practices"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Yochana Vijay",
+        "email": "vijay@yochana.com",
+        "jd": "Data Engineer:Dallas, fort worth TxExp : 3-7 YearsRemoteClient visit : 1-2 times Required QualificationsTechnical Skills\u00b7 Overall 3-5 years of professional experience\u00b7 Experience developing Data pipelines using Dataflow. Integrate with Composer/Airflow or any scheduler Components.\u00b7 Build and deploy services using Gradle, Maven, Jenkins, GitHub Actions etc. as part of CI/CD process\u00b7 Knowledge of Data model of OLTP & Datawarehouse.\u00b7 Knowledge of ETL products and working on Structure and Unstructured data.\u00b7 Experience in Bulk Loads and any Streaming load integration is a plus.\u00b7 Experience working in Google Cloud Platform \u2013 o GCP knowledge is preferred for onshore but any one cloud knowledge is mandatory\u00b7 Experience with any Relational Database (Spanner, Oracle, PostgreSQL etc.)\u00b7 Experience with Datawarehouse Databases - Big QuerySoft skills\u00b7 Designing, developing, and implementing custom software and database application capabilities with limited oversight\u00b7 Excellent communication skills \u2013 design-related conversations, ability to build and nurture good relationships and foster an environment for collaboration\u00b7 Acting as a member of the team supporting teammates and collaborating with a do what it takes attitude to ensure project and team successResponsibilities\u00b7 Be part of a team of engineers in developing elegant and high performant code\u00b7 Ensure quality practices \u2013 unit testing, code reviews / leading tests\u00b7 Optimize application for non-functional requirements \u00b7 Build and deploy components as part of CI/CD process\u00b7 Will be responsible for end-to-end application delivery including coordination with required teams for production deployment\u00b7 Continuously monitors application health and KPIs (Key Performance Indicators), support triage of any production issues as and when needed\u00b7 Collaborate in troubleshooting complex data, features, service, platform issues and perform root cause analysis to proactively resolve product and operational issues\u00b7 Be an advocate of security best practices, champion and support the importance of security within engineering",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:54:55-05:00",
+        "unique_id": "192b0581166a89a8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

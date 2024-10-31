@@ -1,0 +1,90 @@
+[
+    {
+        "company": "CCIT INC",
+        "job_title": "GCP Data Migration Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "6+ years",
+            "degree_required": "Bachelor degree in Computer Science, Mathematics or a related technical field or equivalent practical experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Hadoop",
+                "Spark",
+                "Python",
+                "Java"
+            ],
+            "primary": [
+                "Relational Databases",
+                "Big Data technologies",
+                "Identity and Access Management",
+                "Networking",
+                "Storage",
+                "Compute infrastructure",
+                "DevOps",
+                "Continuous integration/delivery",
+                "Containerization",
+                "Google Kubernetes Engine (GKE)"
+            ],
+            "secondary": [
+                "NGINX",
+                "RabbitMQ",
+                "Redis",
+                "Elasticsearch",
+                "Project governance",
+                "Enterprise customer management"
+            ],
+            "all": [
+                "GCP",
+                "Hadoop",
+                "Spark",
+                "Python",
+                "Java",
+                "Relational Databases",
+                "Big Data technologies",
+                "Identity and Access Management",
+                "Networking",
+                "Storage",
+                "Compute infrastructure",
+                "DevOps",
+                "Continuous integration/delivery",
+                "Containerization",
+                "Google Kubernetes Engine (GKE)",
+                "NGINX",
+                "RabbitMQ",
+                "Redis",
+                "Elasticsearch",
+                "Project governance",
+                "Enterprise customer management"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nikhil Pathani",
+        "email": "nikhil@ccitinc.com",
+        "jd": "From: Nikhil, CCIT INC nikhil@ccitinc.com Reply to: nikhil@ccitinc.com Role: GCP Data Migration Engineer Location: Phoenix, AZ \u2013 Needed Local Duration: 12+ Months Contract Note: will have 1 In-Person round at NT office (Phoenix, AZ), please search for person who is doing / had done migration from Data System (Hadoop/Spark) to GCP cloud with experience in Python / Java as programming language. Description: Bachelor degree in Computer Science, Mathematics or a related technical field or equivalent practical experience.6+ years direct experience working in IT InfrastructureExperience with Relational Databases, Big Data technologies : Spark, Hadoop.Should be involved in migrating from Big Data System (Hadoop / Spark) to GCP cloud. Experience with application development concepts and technologies likewise : Python or Java. Experience in understanding a complex customers existing software workload and the ability to define a technical migration roadmap to the Cloud.Experience in Managing large scale Windows/Linux environments.Experience in Identity and Access Management, networking, storage and compute infrastructure (servers, databases, firewalls, load balancers) for architecting / Implementing / maintaining cloud solutions in virtualized environments.Experience in architecting and developing software or infrastructure for scalable and secure distributed systems.Experience in advanced areas of networking, including Linux, software-defined networking, network virtualization, open protocols, application acceleration and load balancing, DNS, virtual private networks and their application to PaaS and IaaS technologiesExperience automating infrastructure provisioning, DevOps, and/or continuous integration/delivery.Understanding of open source server software (such as NGINX, RabbitMQ, Redis, Elasticsearch)Knowledge of containerization and container orchestration technologies such as Google KubernetesEngine (GKE).Customer facing migration experience, including service discovery, assessment, planning, execution, and operations.Demonstrated excellent communication, presentation, and problem-solving skills.Experience in project governance and enterprise customer management. Certification Preference: Google Professional Cloud ArchitectAlternate: Google Professional Cloud Network Engineer, Google Professional Cloud Security EngineerThanks & Regards Nikhil Pathaniikhil@ccitinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 13:29:05-05:00",
+        "unique_id": "19296b7c1ec5f596",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

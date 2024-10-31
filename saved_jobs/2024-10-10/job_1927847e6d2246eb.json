@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "GCP Platform Support",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Kubernetes Engine",
+                "CI/CD",
+                "Python",
+                "JavaScript"
+            ],
+            "primary": [
+                "Windows",
+                "RedHat Linux",
+                "Github",
+                "Jenkins",
+                "DevOps",
+                "Agile",
+                "LAN",
+                "WAN"
+            ],
+            "secondary": [
+                "Problem Management",
+                "Change Management",
+                "Incident Management",
+                "Scripting",
+                "Bash",
+                "Powershell"
+            ],
+            "all": [
+                "GCP",
+                "Kubernetes Engine",
+                "CI/CD",
+                "Python",
+                "JavaScript",
+                "Windows",
+                "RedHat Linux",
+                "Github",
+                "Jenkins",
+                "DevOps",
+                "Agile",
+                "LAN",
+                "WAN",
+                "Problem Management",
+                "Change Management",
+                "Incident Management",
+                "Scripting",
+                "Bash",
+                "Powershell"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sangya Kumari Nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title: GCP Platform SupportLocation: Hybrid, NYC or Burlington County, NJ Hybrid (Need local only)Duration: 6 MonthsVisa: USC/GCMOI: SkypeLinkedIn needed.JOB DESCRIPTIONIn this role, you'll be the Client of our Google Cloud Platform (GCP) environment, focusing on optimizing its health and performance. Your expertise in Kubernetes Engine will be crucial, as you'll oversee the management and security of our containerized applications. This includes ensuring efficient resource allocation and adherence to best practices for container deployments. Additionally, you'll be responsible for monitoring the performance and availability of GCP at a platform level, proactively identifying and resolving any potential issues. Mandatory technical skills include:Strong to expert knowledge of supporting GCP including GKE workloads.Thorough problem-determination skills to troubleshoot and resolve business application issues.Knowledge with OS technologies (Windows, RedHat Linux).Familiar with CI/CD tools such as Github, Jenkins, etc.DevOps and Agile understanding.Working knowledge of Local Area Networks (LAN) and Wide Area Networks (WAN).Comfortable with working in a rapidly changing, technically complex environment.Knowledge of scripting languages and tools such as Python, JavaScript, Powershell, Bash.Comfortable with the Agile methodology.The successful applicant must have a solid understanding of Incident, Change, and Problem Management methodologies as well as solid experience in a large, high-performance production environment.",
+        "source": "Email",
+        "date_posted": "2024-10-10 15:38:03-05:00",
+        "unique_id": "1927847e6d2246eb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

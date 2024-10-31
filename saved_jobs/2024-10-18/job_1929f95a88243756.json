@@ -1,0 +1,79 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "MS SQL Server Azure DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MS SQL Server 2017",
+                "cloud migration",
+                "HA/DR setup",
+                "AOAG setup",
+                "Auto Failover group",
+                "backup and restore technique",
+                "SSRS",
+                "SSIS",
+                "Azure Cloud"
+            ],
+            "primary": [
+                "communication skills",
+                "presentation skills"
+            ],
+            "secondary": [
+                "knowledge on ports",
+                "networks",
+                "Vnets",
+                "Security groups",
+                "firewall"
+            ],
+            "all": [
+                "MS SQL Server 2017",
+                "cloud migration",
+                "HA/DR setup",
+                "AOAG setup",
+                "Auto Failover group",
+                "backup and restore technique",
+                "SSRS",
+                "SSIS",
+                "Azure Cloud",
+                "communication skills",
+                "presentation skills",
+                "knowledge on ports",
+                "networks",
+                "Vnets",
+                "Security groups",
+                "firewall"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "From: rajkumar, NITYA Software Solutions Inc. rajkumar.v@nityainc.com Reply to: rajkumar.v@nityainc.com Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: MS SQL Server Azure DBAGood Knowledge on MS SQL Server 2017 and above database administrationWorking Knowledge of cloud migration and HA/DR set upWorking Knowledge on AOAG set up at Azure CloudWorking knowledge on set up of Auto Failover group on SQL Managed instanceKnowledge on backup and restore techniqueKnowledge on SSRS and SSIS configurationGood knowledge on Azure Cloud (IAS , PAAS , SAAS)Good communication and presentation skillsGood to have: Knowledge on ports , networks , Vnets , Security groups , firewall etc.Thank you,RajkumarEMAIL ID:rajkumar.v@nityainc.comNITYA Software Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-18 06:48:30-05:00",
+        "unique_id": "1929f95a88243756",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

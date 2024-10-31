@@ -1,0 +1,66 @@
+[
+    {
+        "company": "SoniTalent Corp",
+        "job_title": "Database technician",
+        "location": "Mechanicsburg, PA, USA",
+        "full_location": {
+            "city": "Mechanicsburg",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree with an IT-related major or minor; OR Associate\u2019s degree with an IT-related major or minor, PLUS two years of experience in the IT specialty in which to be employed; OR An equivalent combination of education, experience, and/or training may be considered.",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "T-SQL"
+            ],
+            "primary": [
+                "metadata administration",
+                "application security administration",
+                "data analysis",
+                "helpdesk ticket management"
+            ],
+            "secondary": [
+                "entry-level IT responsibilities",
+                "quality assurance",
+                "procedural documentation"
+            ],
+            "all": [
+                "T-SQL",
+                "metadata administration",
+                "application security administration",
+                "data analysis",
+                "helpdesk ticket management",
+                "entry-level IT responsibilities",
+                "quality assurance",
+                "procedural documentation"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Sushmita Soni",
+        "email": "sushmita.soni@sonitalentcorp.com",
+        "jd": "HiHope you are doing well , We are Hiring for Database technician and let me know if you are looking for this role and send me your updated Job TitleDatabase technicianLocation Mechanicsburg, PA (Local) Duration of project 6 monthsRequired visaUSC and GC only Onsite for 6 weeks then telework 2days/ week. Job Description:Position OverviewThis role involves entry-level professional information technology responsibilities. These include overseeing metadata administration, application security administration, and data analysis for case management systems. The position also involves accurately applying county-customized business rules to the data store, using the client's administration screens, in-house tools, and T-SQL for data modifications.Responsibilities:Monitors helpdesk ticket queues and prioritizes tasks based on severity and priority levels.Performs lookup value and metadata entry and maintenance to support the application.Understands the client's Administration screens and uses the application where appropriate.Performs user security change requests using in-house tools and template T-SQL scripts.Utilizes knowledge of T-SQL to perform application metadata and security maintenance activities.Develops and implements data scripts using IDERA Rapid SQL for SAP ASE databases.Performs testing of lookup values, metadata modifications, and application security for quality assurance.Performs metadata analysis to ensure the case management systems function properly.Assists with maintaining procedural documentation for the metadata administration and application security tasks.Assists team members and training staff with the collection and implementation of metadata.Minimum Qualifications:Bachelor\u2019s degree with an IT-related major or minor; ORAssociate\u2019s degree with an IT-related major or minor, PLUS two years of experience in the IT specialty in which to be employed; ORAn equivalent combination of education, experience, and/or training may be considered.Knowledge and understanding of T-SQL fundamentals preferred.",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:11:02-05:00",
+        "unique_id": "192c45b4d40c362b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

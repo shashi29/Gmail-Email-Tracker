@@ -1,0 +1,83 @@
+[
+    {
+        "company": "State Client",
+        "job_title": "Adabas Linux Database Administrator",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum of (10) years of Information Technology experience; Minimum of (5) years of experience as an Adabas Database Administrator",
+            "degree_required": "Bachelor\u2019s degree in computer science, Information Systems, Business Administration, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Adabas",
+                "Linux",
+                "AWS",
+                "Database Administration",
+                "Natural"
+            ],
+            "primary": [
+                "RedHat",
+                "SuSe",
+                "CentOS",
+                "Cloud knowledge",
+                "Software AG products"
+            ],
+            "secondary": [
+                "Microsoft 365",
+                "Excel",
+                "Word",
+                "PowerPoint",
+                "Access",
+                "Visio",
+                "Jira Software"
+            ],
+            "all": [
+                "Adabas",
+                "Linux",
+                "AWS",
+                "Database Administration",
+                "Natural",
+                "RedHat",
+                "SuSe",
+                "CentOS",
+                "Cloud knowledge",
+                "Software AG products",
+                "Microsoft 365",
+                "Excel",
+                "Word",
+                "PowerPoint",
+                "Access",
+                "Visio",
+                "Jira Software"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rahul Mishra",
+        "email": "rmishra@vyzeinc.com",
+        "jd": "From: Rahul Mishra, Vyzeinc rmishra@vyzeinc.com Reply to: rmishra@vyzeinc.com Title: Adabas Linux Database AdministratorDuration: 6+ months Location: This is a Hybrid role working in Quincy, MA. Candidates MUST be local from one of the following States: MA, RI, CT or NHAll submittals must include ID proof of residency of one of these States.Client: State ClientRequirements:POSITION OVERVIEW: MA21 seeks a highly motivated Adabas Linux Database Administrator (DBA) who will support a \u201cLift and Shift\u201d of the on-premises legacy mainframe application to AWS Cloud.The DBA will play an integral role in supporting the cloud rehosting project, maintenance enhancements that may be implemented on the cloud platform, or defect fixes that need to be remediated on the cloud platform to meet the requirements of the business community. The first step in porting operations and systems to a new infrastructure will be to rehost the Natural/Adabas MA21 mainframe system in the AWS cloud. DETAILED LIST OF JOB DUTIES AND RESPONSIBILITIES:Monitor and maintain the stability of Adabas/Natural applications supporting services in the Cloud-based, distributed Linus server environmentExperience supporting Linux operating systems: RedHat (preferred), SuSe, and CentOS. Understanding of Linux operating systems architecture and use of commands and utilities.Fundamental Cloud knowledge, AWS, AzureResponsible for supporting a broad range of Software AG (SAG) and other third-party vendor products to provide a stable technical infrastructureDesign and implement Adabas databases to ensure optimal performance and scalabilityParticipate with database support and provide timely resolution of database-related issuesUnderstanding knowledge of EntireX Communicator (RPC & ACI Protocol)Monitor database performance using tools like Adabas ManagerDevelop and implement backup and recovery procedures using Adabas Backup and Recovery ToolsOptimize database performance through query optimization, indexing, and buffer pool managementMonitor database using Adabas Performance Monitor to identify and resolve performance bottlenecksAdministering the Natural development environmentExperience with Adabas Utilities: Use of utilities like ADAREP, ADABAS, ADASAV, ADAORD, etc. for database maintenance and reporting Security certificate configuration with Software AG products Upgrades, Configuration, and Management Of Software AG Products on Linux, Including: Upgrades, Configuration, and Management Of Software AG Products on Linux, Including: Adabas EntireX Communicator, Adabas Encryption Natural Construct, ConnX Natural One, Entire Net-Work Natural Security, Entire Connection, Predict, Linux shell scripting, Performing database startup and shutdown. Performing and restoring database backups, Performing Adabas File Reorders, Using the Software AG Update Manager to apply updates/fixes, Using administration subsystems, including cron, to schedule system tasksQUALIFICATIONS:Demonstrated proficiency in business modeling, process modeling, and data modelingKnowledge of methods and techniques of computer systems analysis, design, technical terminology, codes, and standard abbreviationsUsing the available system management tools (both console and Web-based System Management)Knowledge of MA HIX or other State Health ExchangeAbility to work with multiple vendorsProficiency in Microsoft 365, Excel, Word, PowerPoint, Access, and VisioExperience with Jira SoftwareEDUCATION AND CERTIFICATIONSBachelor\u2019s degree in computer science, Information Systems, Business Administration, or a related field.Minimum of (10) years of Information Technology experienceMinimum of (5) years of experience as an Adabas Database Administrator Best RegardsRahul Mishra US Technical Recruiter |Vyze Inc.E-Mail: rmishra@vyzeinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:41:02-05:00",
+        "unique_id": "192d9b4d602bd390",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

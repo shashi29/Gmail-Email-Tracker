@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Infinity Quest",
+        "job_title": "Data Engineer",
+        "location": "Bentonville, AR, USA",
+        "full_location": {
+            "city": "Bentonville",
+            "state": "AR",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spark",
+                "Scala",
+                "Python",
+                "GCP",
+                "Tableau"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spark",
+                "Scala",
+                "Python",
+                "GCP",
+                "Tableau"
+            ],
+            "with_experience": [
+                "Java (6+ years)",
+                "Spark (6+ years)",
+                "Scala (6+ years)",
+                "Python (6+ years)",
+                "GCP (6+ years)",
+                "Tableau (6+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Santhosh",
+        "email": "santhosh.a@i-q.co",
+        "jd": "Data Engineer\nBentonville, AR\n\nThe ideal candidate should be an expert in leading projects in developing and testing data pipelines, data analytics efforts, proactive issue identification and resolution and alerting mechanism using traditional, new and emerging technologies. Excellent written and verbal communication skills and ability to liaise with technologists to executives is key to be successful in this role.\n\nJD- 6+ year strong experience working in Java, Spark, Scala- Hands on experience on Python- Strong in GCP- Hands on experience working on Tableau",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:40:01-05:00",
+        "unique_id": "192ddfe81480eee1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

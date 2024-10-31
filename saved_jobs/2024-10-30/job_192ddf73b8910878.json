@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Deloitte",
+        "job_title": "Sr.Net Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$55/hr"
+        },
+        "skills": {
+            "core": [
+                "Kafka",
+                ".NET",
+                "React.js",
+                "microservices architecture"
+            ],
+            "primary": [
+                "cloud platforms",
+                "CI/CD"
+            ],
+            "secondary": [
+                "software design",
+                "security",
+                "testing",
+                "troubleshooting",
+                "debugging"
+            ],
+            "all": [
+                "Kafka",
+                ".NET",
+                "React.js",
+                "microservices architecture",
+                "cloud platforms",
+                "CI/CD",
+                "software design",
+                "security",
+                "testing",
+                "troubleshooting",
+                "debugging"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "pavankumar",
+        "email": "pavankumar@jupitertechnologies.net",
+        "jd": "Role: Sr .Net Developer\nClient: Deloitte\nRate: $55/hr on C2C\nLocation: Remote (Travel once in a month if client req)\n\nNeed Genuine Candidates only\n\nFull-Stack Developer with expertise in Kafka, React.js, .NET, and microservices architecture. This role involves designing and building end-to-end software solutions. You will work with cross-functional teams to deliver seamless, integrated solutions that align with business requirements.\n\nResponsibilities include:\n- Design, develop, and maintain scalable microservices using .NET and other related technologies.\n- Build engaging and dynamic front-end interfaces using React.js, ensuring high-quality user experiences.\n- Develop and integrate real-time data pipelines using Kafka for streaming and messaging services.\n- Write and maintain efficient, reusable, and reliable code, following best practices in software design, security, and testing.\n- Participate in code reviews, troubleshooting, and debugging to optimize application performance.\n- Deploy and manage applications on cloud platforms (Azure) and contribute to CI/CD pipelines.",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:32:04-05:00",
+        "unique_id": "192ddf73b8910878",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

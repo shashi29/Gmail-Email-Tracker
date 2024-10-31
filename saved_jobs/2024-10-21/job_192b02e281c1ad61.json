@@ -1,0 +1,72 @@
+[
+    {
+        "company": "Comcast Corporation",
+        "job_title": "Application Developer",
+        "location": "Philadelphia, PA, USA",
+        "full_location": {
+            "city": "Philadelphia",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8 years",
+            "degree_required": "Bachelor's in a related area",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Application Development",
+                "JavaScript",
+                "Middleware",
+                "Rapid Prototyping",
+                "Multiple Tier Application"
+            ],
+            "primary": [
+                "System Development",
+                "Expert-level implementation skills in building highly scalable services (SOAP and REST)",
+                "Expert-level implementation skills with the Core Spring Framework",
+                "Skilled at building modern REST Web services",
+                "Experience with additional scripting languages such as Python and Ruby"
+            ],
+            "secondary": [
+                "Experience consuming API/web-based services",
+                "Experience with HTTP and TCP/IP"
+            ],
+            "all": [
+                "Application Development",
+                "JavaScript",
+                "Middleware",
+                "Rapid Prototyping",
+                "Multiple Tier Application",
+                "System Development",
+                "Expert-level implementation skills in building highly scalable services (SOAP and REST)",
+                "Expert-level implementation skills with the Core Spring Framework",
+                "Skilled at building modern REST Web services",
+                "Experience with additional scripting languages such as Python and Ruby",
+                "Experience consuming API/web-based services",
+                "Experience with HTTP and TCP/IP"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Fahad Ali",
+        "email": "fahad.ali@panzersolutions.com",
+        "jd": "From: Fahad Ali, Panzer Solutions fahad.ali@panzersolutions.com Reply to: fahad.ali@panzersolutions.com Job Title: Application Developer Duration: Long-term Contract Location: Philadelphia, PA - Onsite Client: Comcast Corporation Top Skills \u2013 MUST HAVE IN THE RESUME! Application Development Rapid Prototyping JavaScript JavaScript \u2013 Advanced Middleware Multiple Tier Application Rapid Prototyping System Development Job Description: Responsibility: Codes software applications to adhere to designs supporting internal business requirements or external customers. Standardizes the quality assurance procedure for software. Oversees testing and develops fixes. Relies on limited experience and judgment to plan and accomplish goals. Performs a variety of tasks. Works under general supervision. Monitor and maintain operational readiness of Middleware Applications including applications hosted in AWS cloud. Identify opportunities for system enhancements that will deliver enhanced functionality and/or simplify system administration. Facilitate and develop plans for application changes (including defects fixes, enhancements and/or configuration changes). Configure and test changes to system including reports, security access, and workflow. Perform/Coordinate configuration changes to the production environment. Work closely with BA/QA team members to create test plans and ensure that issues are properly identified, fixed, and tested. Skills May require a bachelor's degree in a related area and at least 8 years of experience in the field or in a related area. Has knowledge of standard concepts, practices, and procedures within a particular field. Experienced mentor with the ability to work in a collaborative environment and coach other team members on coding practices, design principles, and implementation patterns that lead to high-quality maintainable solutions. Services \u2013 Expert-level implementation skills in building highly scalable services (SOAP and REST) Spring \u2013 Expert-level implementation skills with the Core Spring Framework and including other sub-projects like Spring JMS, Spring Security, Spring Data and Spring Integration. Skilled at building modern REST Web services Experience with additional scripting languages such as Python and Ruby a plus Experience consuming API/web-based services \u2022 Experience with HTTP and TCP/IP a certain degree of creativity and latitude required. Typically reports to a project leader or manager.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:09:09-05:00",
+        "unique_id": "192b02e281c1ad61",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

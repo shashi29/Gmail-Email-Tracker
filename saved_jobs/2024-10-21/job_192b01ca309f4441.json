@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Maintec",
+        "job_title": "DBA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "RDBMS-DB2",
+                "IDMS DBA",
+                "IDMS Programming",
+                "ADS online code"
+            ],
+            "primary": [
+                "CA Endevor",
+                "ASG Replication Suite",
+                "ASG Virtual Database",
+                "CA-7",
+                "CA-11"
+            ],
+            "secondary": [],
+            "all": [
+                "RDBMS-DB2",
+                "IDMS DBA",
+                "IDMS Programming",
+                "ADS online code",
+                "CA Endevor",
+                "ASG Replication Suite",
+                "ASG Virtual Database",
+                "CA-7",
+                "CA-11"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Princy Jain",
+        "email": "princy@maintec.com",
+        "jd": "From: Princy Jain, Maintec princy@maintec.com Reply to: princy@maintec.com Job Title: DBALocation: RemoteMust have skills: RDBMS-DB2Client: HCL Required details-IDMS DBA - Application level DB experience - record structure changes; creating indexes; planning and executing large installs that include database, online, and batch changes; DB monitoring; building/copying CVs, backup/restoresIDMS Programming - IDMS internal security; heavy experience with ADS online code - Dialogs, Maps, and Applications, ADSALIVE and other debuggingOther helpful experience:CA Endevor - administration or at least heavy user experience including problem resolutionASG Replication Suite - probably will be difficult to find, fortunately we rarely perform updatesASG Virtual Database - basic understanding of how it worksCA-7 - CA-11 scheduling tools Description-IDMS DBA - Application level DB experience - record structure changes; creating indexes; planning and executing large installs that include database, online, and batch changes; DB monitoring; building copying CVs, backup restores IDMS Programming - IDMS internal security; heavy experience with ADS online code - Dialogs, Maps, and Applications, ADSALIVE and other debugging Other helpful experience: CA Endeavor - administration or at least heavy user experience including problem resolution ASG Replication Suite - probably will be difficult to find, fortunately we rarely perform updates ASG Virtual Database - basic understanding of how it worksCA-7 - CA-11 scheduling tools",
+        "source": "Email",
+        "date_posted": "2024-10-21 11:49:40-05:00",
+        "unique_id": "192b01ca309f4441",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

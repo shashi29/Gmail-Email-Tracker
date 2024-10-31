@@ -1,0 +1,117 @@
+[
+    {
+        "company": "VDartINC",
+        "job_title": "AWS Data Architect",
+        "location": "Reston, VA, USA",
+        "full_location": {
+            "city": "Reston",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$75/hr on c2c MAX",
+            "job_code": ""
+        },
+        "skills": {
+            "core": [
+                "AWS Services/Architecture",
+                "Python object-oriented programming",
+                "SQL"
+            ],
+            "primary": [
+                "EC2",
+                "EMR",
+                "Glue",
+                "Redshift",
+                "Kinesis",
+                "RDS",
+                "DynamoDB",
+                "Lambda",
+                "SNS",
+                "SQS",
+                "Step Functions",
+                "Beanstalk",
+                "Batch",
+                "ECS",
+                "S3",
+                "EFS",
+                "Glacier",
+                "CloudTrail",
+                "CloudWatch"
+            ],
+            "secondary": [
+                "data strategy",
+                "data integration",
+                "data quality",
+                "data delivery",
+                "enterprise data lakes",
+                "data warehouses",
+                "data marts",
+                "big data",
+                "data models",
+                "data governance",
+                "validation processes",
+                "new technologies"
+            ],
+            "all": [
+                "AWS Services/Architecture",
+                "Python object-oriented programming",
+                "SQL",
+                "EC2",
+                "EMR",
+                "Glue",
+                "Redshift",
+                "Kinesis",
+                "RDS",
+                "DynamoDB",
+                "Lambda",
+                "SNS",
+                "SQS",
+                "Step Functions",
+                "Beanstalk",
+                "Batch",
+                "ECS",
+                "S3",
+                "EFS",
+                "Glacier",
+                "CloudTrail",
+                "CloudWatch",
+                "data strategy",
+                "data integration",
+                "data quality",
+                "data delivery",
+                "enterprise data lakes",
+                "data warehouses",
+                "data marts",
+                "big data",
+                "data models",
+                "data governance",
+                "validation processes",
+                "new technologies"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Myvizhi Sekar",
+        "email": "myvizhi.s@vdartinc.com",
+        "jd": "From: Myvizhi Sekar, VDartINC myvizhi.s@vdartinc.com Reply to: myvizhi.s@vdartinc.com AWS Data ArchitectReston, VA (Hybrid)Contract75/hr on c2c MAXPlease dont share resume thats already presented to Hexaware12+ Advanced knowledge of AWS Services/ArchitectureExperience in AWS such as EC2, EMR, Glue, Redshift, Kinesis, RDS, DynamoDB, Lambda, SNS, SQS, Step Functions, Beanstalk, Batch or ECS, S3, EFS, Glacier, CloudTrail, CloudWatchStrong knowledge in Python object-oriented programmingStrong experience with SQLDevelop and promote data strategy, and interpret and deliver strategic plans to improve data integration, quality, and deliveryExperience with enterprise data lakes, data warehouses, data marts, and big data.Design and implement data models that effectively support business processes and decision-making.Should be able to provide design of the table structures with proper data analysis and mapping capabilities.Design and develop testing processes and direct software application testing, leveraging knowledge of computer science and software development principles and utilizing cloud technologies, automation tools and frameworksEnsure data integrity and quality by developing and implementing data governance and validation processes.Recommends solutions (including new technologies) to improve the existing framework.",
+        "source": "Email",
+        "date_posted": "2024-10-29 18:20:04-05:00",
+        "unique_id": "192dab4499628278",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

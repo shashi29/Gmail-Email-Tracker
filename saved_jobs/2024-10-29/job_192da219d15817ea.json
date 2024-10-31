@@ -1,0 +1,84 @@
+[
+    {
+        "company": "TEK Inspirations LLC",
+        "job_title": "Senior Data Engineer",
+        "location": "Miami, FL, USA",
+        "full_location": {
+            "city": "Miami",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Factory (ADF)",
+                "ETL",
+                "SQL",
+                "Python",
+                "PySpark"
+            ],
+            "primary": [
+                "Data Warehousing & Modeling",
+                "Data modeling (star and snowflake schemas)",
+                "API Integration",
+                "Schema Drift",
+                "Data Lake Gen 2"
+            ],
+            "secondary": [
+                "Power BI",
+                "Delta Lake",
+                "Delta Parquet",
+                "JSON",
+                "Azure Service Bus",
+                "Azure Event Hubs",
+                "Event Grids",
+                "Data Explorer"
+            ],
+            "all": [
+                "Azure Data Factory (ADF)",
+                "ETL",
+                "SQL",
+                "Python",
+                "PySpark",
+                "Data Warehousing & Modeling",
+                "Data modeling (star and snowflake schemas)",
+                "API Integration",
+                "Schema Drift",
+                "Data Lake Gen 2",
+                "Power BI",
+                "Delta Lake",
+                "Delta Parquet",
+                "JSON",
+                "Azure Service Bus",
+                "Azure Event Hubs",
+                "Event Grids",
+                "Data Explorer"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Gagan Shrivastava",
+        "email": "gagan.shrivastava@tekinspirations.com",
+        "jd": "From: Gagan, TEK Inspirations LLC gagan.shrivastava@tekinspirations.com Reply to: gagan.shrivastava@tekinspirations.com Hello,Hope you are doing well! Please have a look on the given JD below. And let me know if you have any candidate for this role. Job Title: Senior Data Engineer Location: Onsite/Miami, FL(5 days)Duration: 12+ MonthsMOI: Skype Must:Need Local onlyLinkedIn profile must have Need 2 Manager professional reference with official email ID, contact number \u2013 PV will verify, email shouldn\u2019t bounce back Need 4-5 page resume Job Description - Data Engineering & ETL:Utilize 10+ years of experience in ETL tools, with at least 5 years dedicated to Azure Data Factory (ADF), to design, code, implement, and manage multiple parallel data pipelines. Additional knowledge about Fabric Pipelines and Data Flows Gen 2 usage is desirable. Data Manipulation:Develop and optimize data fetching, data wrangling, manipulation, and transformation processes, ensuring high-quality data delivery. SQL Proficiency:Leverage a strong SQL background, particularly in T-SQL, to work with Azure SQL Databases, performing complex queries, data transformations and able to perform basic database administration and access control configurations. Python & PySpark:Use Python, especially PySpark notebooks to convert and manage data. Understanding of Spark Streaming and Spark configuration is highly desirable. Hand on usage of Panda Libraries, Literal strings constants, user defined functions using Python. Experience in developing Python-based solutions is essential.Data Warehousing & Modeling: Apply a deep understanding of data warehousing concepts, including data modeling techniques like star and snowflake schemas, SCD Type 2, Change Data Feeds, Change Data Capture. Also demonstrates hands-on experience with Data Lake Gen 2, Delta Lake, Delta Parquet files, JSON files, big data storage layers, optimize and maintain big data storage using Partitioning, V-Order, Optimize, Vacuum and other techniques.Reporting Knowledge: Basic understanding of reporting tools, Semantic Layers, Tabular Models, Direct Lake Mode vs Incremental refreshes with Power BI experience considered a plus.API Integration & Event-Driven Architecture: Develop and manage REST API calls, webhooks, and event-driven architectures using Python. Experience with Azure Service Bus and Azure Event Hubs/ Event Grids/ Data Explorer is desirable.Schema Drift & ETL Architecture: Expertise in managing schema drift within ETL processes, ensuring robust and adaptable data integration solutions. Qualifications:10+ years of experience in ETL tools, with a minimum of 5 years in Azure Data Factory (ADF),Dataflows Gen 2. 8 year USA background is must Strong SQL skills with hand on experience with complex window functions, dynamic Sql, partitions, CDC,CDF particularly in T-SQL, and experience with Azure SQL Database, database administration and setup.Proficiency in Python, specifically with PySpark notebooks, for data processing tasks, configuration of Spark Pools, understanding of spark compute and consumption.Solid understanding of data warehousing concepts, data modeling (star and snowflake schemas), and SCD Type 2, CDC, CDF. Also implementation experience with Delta Lakes and Delta Parquet, JSON, data storage, optimization techniques for Big Data.Familiarity with REST API, webhooks, and event-driven architectures, Data Explorer, Functions Apps, Service Bus .Knowledge of reporting tools, query language, semantic models with a preference for Power BI experience.Ability to manage schema drift in semi structured files and adapt ETL architectures accordingly.Understanding of constructs like Lakehouse, EventHouse, KustoDB, KQL, Data Activator, Reflex is plus Must-Have:ADF, ETL, SSIS, Python& PySpark, SQL, Power Bi, Data Warehousing & Modeling, Data modeling (star and snowflake schemas), APISchema Drift & ETL Architecture:Data Lake Gen 2, Delta Lake, Delta Parquet",
+        "source": "Email",
+        "date_posted": "2024-10-29 15:39:51-05:00",
+        "unique_id": "192da219d15817ea",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "Python Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Pyspark",
+                "Abinitio"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Pyspark",
+                "Abinitio"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sarath Kumar",
+        "email": "sarathkumar@centraprise.com",
+        "jd": "Hello ,Hiring for Pyspark Developer Location: Phoenix, AZ Day 1 OnsiteExperience: 9+ years They should write code from abinitio to pyspark",
+        "source": "Email",
+        "date_posted": "2024-10-16 15:13:23-05:00",
+        "unique_id": "19297173fe2df02d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

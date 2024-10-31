@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Arthur Grand Technologies",
+        "job_title": "AWS Developer Lead",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Go",
+                "Apache Kafka",
+                "AWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS Fargate, MFTS, SQS/SNS, S3, Route53)"
+            ],
+            "primary": [
+                "Spring Boot",
+                "RESTful API technologies",
+                "Microservices",
+                "DevOps tools (Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, Sonar Qube)",
+                "Infrastructure-as-Code (IaC) using CloudFormation or Terraform"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Shell scripts",
+                "Gradle",
+                "Jenkins",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "all": [
+                "Java",
+                "Python",
+                "Go",
+                "Apache Kafka",
+                "AWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS Fargate, MFTS, SQS/SNS, S3, Route53)",
+                "Spring Boot",
+                "RESTful API technologies",
+                "Microservices",
+                "DevOps tools (Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, Sonar Qube)",
+                "Infrastructure-as-Code (IaC) using CloudFormation or Terraform",
+                "CI/CD",
+                "Shell scripts",
+                "Gradle",
+                "Jenkins",
+                "Spinnaker",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Afrah Faiza",
+        "email": "teamafrah@arthurgrand.com",
+        "jd": "From: Afrah, Arthur Grand Techologies teamafrah@arthurgrand.com Reply to: teamafrah@arthurgrand.com Arthur Grand Technologies is currently seeking a highly motivated and Skilled AWS Developer Lead for one of our clients Position: AWS Developer/ LeadLocation: Plano, TX (Day 1 Onsite)Duration: Contract Mandatory Skills:Java, Python, Go, Apache KafkaJava, Spring Boot, RESTful API technologies/MicroservicesAWS (EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS Fargate, MFTS, SQS/SNS, S3 and Route53) Detailed Job Description:Formal training or certification on software engineering concepts and 10+ years applied experienceHands-on practical experience delivering system design, application development, testing, and operational stabilityAdvanced in one or more programming language(s) - Java, Python, GoA strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practicesDesign and building web environments on AWS, which includes working with services like EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53Advanced in modern technologies such as: Java version 8+, Spring Boot, Restful Microservices, AWS or Cloud Foundry, Kubernetes.Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar QubeExperience and knowledge of writing Infrastructure-as-Code (IaC) and Environment-as-Code (EaC), using tools like CloudFormation or TerraformExperience with high volume, SLA critical applications, and building upon messaging and or event-driven architecturesDeep understanding of financial industry and their IT systems Nice to Have:IaC, EaC & CI/CD, Shell scripts, Gradle, Maven, Jenkins, SpinnakerSplunk, Datadog, Dynatrace. CloudWatch or GrafanaAWS, Terraform & Jul Thanks,Afrah FaizaArthur Grand Technologies IncArthur Grand Technologies is an Equal Opportunity Employer (including disability/vets)",
+        "source": "Email",
+        "date_posted": "2024-10-11 08:41:28-05:00",
+        "unique_id": "1927c03a230eeafb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

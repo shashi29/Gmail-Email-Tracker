@@ -1,0 +1,74 @@
+[
+    {
+        "company": "3ktechnologies",
+        "job_title": "SQL Database Administrator (DBA)",
+        "location": "Montgomery, AL, USA",
+        "full_location": {
+            "city": "Montgomery",
+            "state": "AL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field (or equivalent experience)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "T-SQL",
+                "Performance Tuning",
+                "Database Administration",
+                "Automation"
+            ],
+            "primary": [
+                "SSIS",
+                "SSRS",
+                "Clustering",
+                "Replication",
+                "Security Management"
+            ],
+            "secondary": [
+                "Cloud-based SQL databases",
+                "NoSQL databases",
+                "Microsoft SQL Server certifications"
+            ],
+            "all": [
+                "SQL Server",
+                "T-SQL",
+                "Performance Tuning",
+                "Database Administration",
+                "Automation",
+                "SSIS",
+                "SSRS",
+                "Clustering",
+                "Replication",
+                "Security Management",
+                "Cloud-based SQL databases",
+                "NoSQL databases",
+                "Microsoft SQL Server certifications"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen",
+        "email": "naveen.p@3ktechnologies.com",
+        "jd": "From: Naveen, 3ktechnologies naveen.p@3ktechnologies.com Reply to: naveen.p@3ktechnologies.com Job Title: SQL Database Administrator (DBA)Location: Montgomery, ALDuration: Long Term ContractJob Description:We are seeking a highly skilled SQL Database Administrator (DBA) for a long-term project in Montgomery, Alabama. The ideal candidate will be responsible for the performance, integrity, and security of SQL databases, including planning, development, and troubleshooting. You will ensure the availability of databases, perform routine maintenance, and support our development teams in ensuring optimized performance.Key Responsibilities:Database Management: Install, configure, upgrade, and manage SQL Server databases (2016, 2019, or newer versions).Performance Tuning: Monitor database performance, identify inefficiencies, and implement solutions to optimize query performance, indexing, and other tuning methods.Backup and Recovery: Ensure database backups are properly executed, test disaster recovery solutions, and maintain high availability through clustering and replication techniques.Security Management: Implement and maintain database security policies by managing roles, permissions, and auditing database access. Ensure compliance with data security standards.SQL Query Optimization: Collaborate with developers to optimize stored procedures, triggers, and SQL queries for application efficiency.Maintenance & Monitoring: Perform regular maintenance tasks such as updating statistics, rebuilding indexes, and conducting integrity checks.Automation: Develop automation scripts for routine database tasks using tools such as PowerShell and T-SQL.SSIS/SSRS Management: Implement and manage SQL Server Integration Services (SSIS) packages and SQL Server Reporting Services (SSRS) for ETL processes and reporting solutions.Troubleshooting: Proactively troubleshoot and resolve database problems, minimizing downtime and ensuring seamless user experience.Collaboration: Work closely with developers, system administrators, and network teams to integrate database solutions with applications and infrastructure.Required Skills and Experience:Bachelor\u2019s degree in Computer Science, Information Technology, or a related field (or equivalent experience).5+ years of experience as a SQL DBA in managing and optimizing SQL Server environments.Strong experience with SQL Server 2016, 2019, or newer.Hands-on experience with T-SQL, stored procedures, triggers, SSIS, SSRS, and SQL Server Agent.Performance Tuning & Optimization: Expertise in query optimization, index management, performance tuning, and troubleshooting slow queries.Database Administration: Proven expertise in database backups, restores, high availability (HA) and disaster recovery (DR) options such as replication, mirroring, and Always On Availability Groups.Security & Compliance: Experience with managing SQL Server security, including roles, permissions, and auditing for regulatory compliance.Automation: Proficiency in automating database tasks using T-SQL and PowerShell.Clustering & Replication: Knowledge of SQL Server clustering, replication, and database mirroring for maintaining high availability.SSIS/SSRS: Solid experience with SQL Server Integration Services (SSIS) for ETL processes and SQL Server Reporting Services (SSRS) for reporting.Preferred Qualifications:Experience with cloud-based SQL databases (Azure SQL, AWS RDS for SQL Server) is a plus.Familiarity with NoSQL databases is beneficial but not required.Microsoft SQL Server certifications (e.g., MCSA, MCSE) are a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-24 09:17:23-05:00",
+        "unique_id": "192bf04f44ffce1c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

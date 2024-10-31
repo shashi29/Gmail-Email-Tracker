@@ -1,0 +1,59 @@
+[
+    {
+        "company": "iTech US, Inc.",
+        "job_title": "Java Developer",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5 years",
+            "degree_required": "Bachelor's or Master's Degree in Computer Science or in Electronics/ Instrumentation/ Electrical",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Spring boot",
+                "microservices-API",
+                "AWS"
+            ],
+            "primary": [
+                "unit testing",
+                "Continuous Integration"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "Spring boot",
+                "microservices-API",
+                "AWS",
+                "unit testing",
+                "Continuous Integration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sowmyasri Sistla",
+        "email": "sowmya.s@itechus.net",
+        "jd": "From: Sowmyasri, ITECH sowmya.s@itechus.net Reply to: sowmya.s@itechus.net Hi,Greetings from iTech US, Please go through the below requirement and let me know your interest. Position:: Java DeveloperLocation:: Raleigh, NC - OnsiteDuration:: Contract Role Role Description: JD-Java? Develop high performing, scaling and innovative end-to-end applicationsCollaborate with system engineers, frontend developers and software developers to implement solutions that are aligned with and extend shared platforms and solutionsApply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing TechniquesWrite code that meets standards and delivers desired functionality using the technology selected for the projectUnderstand performance parameters and assess application performanceWork on core data structures and algorithms and implement them using language of choice Basic Qualifications:Bachelors or Master?s Degree in Computer Science or in Electronics/ Instrumentation/ Electrical with strong academic credentials.A minimum of 5 years of professional experience in modern Web technologies and large applications Technical Expertise: Utilize established development tools, guidelines and conventions including but not limited to Core Java, Spring boot, microservices-API, AWSPrepare and maintain code for various Java applications and resolve any defects in systems.Enhance existing systems by analyzing business objectives, preparing an action plan and identifying areas for modification and improvementManage defect tracking system and resolve all issues and prepare update for systems.Monitor everyday activities of system and provide require support.Experience with unit testing/ Unit testing tools/ Continuous Integration Please share your updated resume along with current location details: Thanks,Sowmyasri SistlaEmail : sowmya.s@itechus.netiTech US, Inc. https://www.linkedin.com/in/sri-s-8795a9168/",
+        "source": "Email",
+        "date_posted": "2024-10-29 08:56:18-05:00",
+        "unique_id": "192d8b02a0203cb0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

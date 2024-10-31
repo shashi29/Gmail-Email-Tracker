@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Analyticssol",
+        "job_title": "Cloud Data Engineer",
+        "location": "Washington, DC, USA",
+        "full_location": {
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Minimum of 2 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "ETL",
+                "SQL",
+                "Databricks"
+            ],
+            "primary": [
+                "Apache Airflow",
+                "Data Lake",
+                "Data Warehousing",
+                "Data Governance",
+                "GitHub"
+            ],
+            "secondary": [
+                "Kubernetes",
+                "Linux",
+                "Agile",
+                "DevSecOps",
+                "Data Streaming"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "ETL",
+                "SQL",
+                "Databricks",
+                "Apache Airflow",
+                "Data Lake",
+                "Data Warehousing",
+                "Data Governance",
+                "GitHub",
+                "Kubernetes",
+                "Linux",
+                "Agile",
+                "DevSecOps",
+                "Data Streaming"
+            ],
+            "with_experience": [
+                "Python (2+ years)",
+                "Databricks (2+ years)",
+                "AWS (2+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vamshi Chary",
+        "email": "vamshi@analyticssol.com",
+        "jd": "From: Vamshi, Analyticssol vamshi@analyticssol.com Reply to: vamshi@analyticssol.com Hi, Hope you are doing great!!please send me an updated copy of your resume and below details.US CITIZENS OnlyPosition:Cloud Data EngineerLocation:Washington, DCDuration:Full time Job Description: Leading engineering teams, including task management and personnel management.Working in or managing data-centric teams in the government or other highly regulated environments.Strong understanding of data lake, data lakehouse, and data warehousing architectures in a cloud-based environment.Proficiency in Python for data manipulation, scripting, and automation.In-depth knowledge of AWS services relevant to data engineering (e.g., S3, EC2, DMS, DataSync, SageMaker, Glue, RDS, Lambda, Elasticsearch).Understanding of data integration patterns and technologies.Proficiency designing and building flexible and scalable ETL processes and data pipelines using Python and/or PySpark and SQL.Proficiency in data pipeline automation and workflow management tools like Apache Airflow or AWS Step Functions.Knowledge of data quality management and data governance principles.Strong problem-solving and troubleshooting skills related to data management challenges.Experience managing code in GitHub or other similar tools.Minimum of 2 years of experience in hands-on experience with Databricks including data ingestion, transformation, analysis, and optimization.Experience designing, deploying, securing, sustaining, and maintaining applications and services in a cloud environment (e.g., AWS, Azure) using infrastructure as code.Experience with database administration, optimization, and data extraction.Experience using containerization technology such as Kubernetes or Mesos.Minimum of 1 year of experience in hands-on experience migrating from an on-premise data platform(s) to a modern cloud environment (e.g., AWS, Azure, GCP).Linux/RHEL server & bash/shell scripting experience in on-prem or cloud environment.Previous experience with large-scale data migrations and cloud-based data platform implementations.Prior experience with Databricks Unity Metastore / Catalog.Familiarity with advanced SQL techniques for performance optimization and data analysis.Knowledge of data streaming and real-time data processing frameworks such as Spark Structured Streaming.Experience with data lakes and big data technologies (e.g., Apache Spark, Citus).Familiarity with serverless computing and event-driven architectures in AWS.Certifications in AWS, Databricks, or related technologies.Experience working in Agile or DevSecOps environments and using related tools for collaboration and version control. * Good communication and interpersonal skills. If you are interested in this job position mentioned please respond with your resume in MS word format with these details. Full Name:Current Location:Contact No (Cell Number):Email ID:Skype id:Linkedin id:Visa Status:Availability:Currently on Project (Y/N):Open to relocate:Total Exp:US Exp:Rate:--Thanks, Vamshi CharySr IT RecruiterEmail id:vamshi@analyticssol.comwww.analyticssol.com",
+        "source": "Email",
+        "date_posted": "2024-10-18 17:41:27-05:00",
+        "unique_id": "192a25fcfc8adef9",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Talentgroups",
+        "job_title": "Java lead",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Spring Boot",
+                "Spring MVC",
+                "Hibernate"
+            ],
+            "primary": [
+                "Microservices architecture",
+                "REST APIs",
+                "Distributed systems",
+                "Cloud platforms (AWS, Azure, or Google Cloud)",
+                "Containerization (Docker, Kubernetes)",
+                "SQL databases (e.g., MySQL, PostgreSQL)",
+                "NoSQL databases (e.g., MongoDB)",
+                "CI/CD tools (e.g., Jenkins, Git)",
+                "Automated testing"
+            ],
+            "secondary": [
+                "Frontend technologies (Angular or React)",
+                "Message brokers (Kafka or RabbitMQ)",
+                "Agile/Scrum methodologies"
+            ],
+            "all": [
+                "Core Java",
+                "Spring Boot",
+                "Spring MVC",
+                "Hibernate",
+                "Microservices architecture",
+                "REST APIs",
+                "Distributed systems",
+                "Cloud platforms (AWS, Azure, or Google Cloud)",
+                "Containerization (Docker, Kubernetes)",
+                "SQL databases (e.g., MySQL, PostgreSQL)",
+                "NoSQL databases (e.g., MongoDB)",
+                "CI/CD tools (e.g., Jenkins, Git)",
+                "Automated testing",
+                "Frontend technologies (Angular or React)",
+                "Message brokers (Kafka or RabbitMQ)",
+                "Agile/Scrum methodologies"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shiva Manish",
+        "email": "shivamanish.b@talentgroups.com",
+        "jd": "From: Shivamanish, Talentgroups shivamanish.b@talentgroups.com Reply to: shivamanish.b@talentgroups.com This is Shiva Manish I have an excellent job opportunity with one of our premier clients. Since it is an urgent business requirement your prompt response is appreciated.Title: Java leadLocation :Chicago, IL-Need only locals Java Lead Developer with over 10 years of experience to lead our development team in designing and implementing high-performance applications. This role requires technical expertise in Java, along with leadership skills to mentor the team, ensure high code quality, and collaborate closely with cross-functional teams.Key Responsibilities:\u2022 Lead the architecture, design, and development of complex Java-based applications.\u2022 Collaborate with stakeholders to gather requirements, define scope, and plan projects.\u2022 Mentor and guide junior developers, conducting code reviews and ensuring adherence to best practices.\u2022 Develop and implement microservices, REST APIs, and backend components.\u2022 Manage end-to-end delivery of assigned projects, ensuring quality and timely delivery.\u2022 Optimize application performance, scalability, and reliability.\u2022 Troubleshoot, debug, and resolve issues promptly.\u2022 Coordinate with DevOps and QA teams to streamline CI/CD processes and testing.Required Skills and Experience:\u2022 Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.\u2022 10+ years of professional Java development experience.\u2022 Strong expertise in Core Java, Spring Boot, Spring MVC, and Hibernate.\u2022 Proven experience with microservices architecture, REST APIs, and distributed systems.\u2022 Familiarity with cloud platforms (AWS, Azure, or Google Cloud) and containerization (Docker, Kubernetes).\u2022 Proficient in SQL databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB).\u2022 Hands-on experience with CI/CD tools (e.g., Jenkins, Git) and automated testing.\u2022 Excellent problem-solving, analytical, and communication skills.Preferred Skills:\u2022 Experience with frontend technologies like Angular or React.\u2022 Knowledge of message brokers like Kafka or RabbitMQ.\u2022 Experience with Agile/Scrum methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:49:14-05:00",
+        "unique_id": "192c59449d59ac22",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

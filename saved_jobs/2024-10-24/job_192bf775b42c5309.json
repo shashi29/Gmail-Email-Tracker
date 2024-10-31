@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Headwaytek",
+        "job_title": "Cloud Storage Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "GCP",
+                "Terraform"
+            ],
+            "primary": [
+                "Infrastructure as Code",
+                "Cloud Storage Solutions",
+                "Automation",
+                "Data Governance",
+                "Disaster Recovery"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Networking Concepts",
+                "Backup Solutions",
+                "Monitoring Tools",
+                "Hybrid Cloud Solutions"
+            ],
+            "all": [
+                "Azure",
+                "GCP",
+                "Terraform",
+                "Infrastructure as Code",
+                "Cloud Storage Solutions",
+                "Automation",
+                "Data Governance",
+                "Disaster Recovery",
+                "CI/CD",
+                "Networking Concepts",
+                "Backup Solutions",
+                "Monitoring Tools",
+                "Hybrid Cloud Solutions",
+                "Azure Blob Storage",
+                "Azure Files",
+                "Azure Disks",
+                "Azure NetApp Files",
+                "Google Cloud Storage",
+                "Persistent Disks",
+                "Filestore",
+                "Nearline/Coldline storage tiers",
+                "SAN",
+                "NAS",
+                "NFS",
+                "iSCSI",
+                "VPCs",
+                "Subnets",
+                "Peering",
+                "Firewalls",
+                "KMS",
+                "Azure Backup",
+                "GCP Backup and DR",
+                "Prometheus",
+                "Performance Metrics",
+                "Audit Logging",
+                "Access Controls",
+                "Microsoft Certified: Azure Solutions Architect Expert",
+                "Google Professional Cloud Architect"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Madhu",
+        "email": "madhusudhan.b@headwaytek.com",
+        "jd": "From: madhu, headwaytek madhusudhan.b@headwaytek.com Reply to: madhusudhan.b@headwaytek.com Role: Cloud Storage EngineerLocation: Plano, TX (Preferred) / Pleasanton, CA (Alternative) - Hybrid ModeExperience: 8-10yrsKeySkills: Azure, GCP(strong), IaC Job Description:We are seeking an experienced Cloud Storage Engineer to join our team and take ownership of enabling end-to-end self-service capabilities for our storage area portfolio. The ideal candidate will have deep technical expertise in both on-premise and cloud-based storage solutions across Azure and Google Cloud Platform (GCP). Strong knowledge in infrastructure automation, particularly using Terraform, is required to drive efficiency and scalability. Key Responsibilities:Design, implement, and manage cloud storage solutions across Azure and GCP, ensuring optimal performance, scalability, and cost-effectiveness.Develop and implement self-service storage capabilities, enabling teams to provision and manage storage resources without intervention.Automate the provisioning, management, and monitoring of storage resources using Infrastructure as Code (IaC) tools like Terraform.Ensure data availability, durability, and redundancy using industry-standard best practices, leveraging cloud-native storage features such as GCP Cloud Storage Buckets and Azure Blob Storage.Manage storage tiering and lifecycle management strategies for data across cold, warm, and hot storage to optimize costs and performance.Integrate storage services with backup, disaster recovery (DR), and business continuity plans, ensuring high availability of critical data and seamless failover processes.Collaborate with cloud architects, security teams, and DevOps engineers to ensure storage aligns with security, compliance, and governance policies.Monitor, analyze, and troubleshoot performance bottlenecks and resolve issues related to latency, IOPS, and throughput.Provide technical leadership and mentorship to junior engineers in cloud storage solutions and best practices.Ensure compliance with data governance standards, including encryption at rest, data retention policies, and access control. Technical Skills & Expertise:Cloud PlatformsAzure Storage Services: Expertise in Azure Blob Storage, Azure Files, Azure Disks, and Azure NetApp Files.GCP Storage Services: Experience with Google Cloud Storage, Persistent Disks, Filestore, and Nearline/Coldline storage tiers.Automation & Infrastructure as Code:Proficiency in Terraform for automating the provisioning of cloud storage and infrastructure components.Knowledge of CI/CD pipelines and integrating storage automation into DevOps workflows using tools like Jenkins or GitLab.Storage Protocols & Technologies:Strong understanding of SAN (Storage Area Network), NAS (Network Attached Storage), NFS, iSCSI, and other native storage technologies.Familiarity with object storage concepts, block storage, and file storage architectures.Cloud Networking & Security:Solid knowledge of networking concepts such as VPCs, Subnets, Peering, and firewalls for cloud storage deployments.Experience with data encryption at rest and in transit, using KMS (Key Management Services) in both Azure and GCP.Backup & Disaster Recovery (DR):Proficient in setting up cloud-based backup solutions like Azure Backup, GCP Backup and DR and integrating with third-party tools.Experience designing disaster recovery plans with multi-region failover and snapshot management.Monitoring & Optimization:Familiarity with cloud monitoring tools such as Azure Monitor, GCP Cloud Monitoring, and Prometheus for real-time storage performance tracking.Expertise in tuning performance metrics such as IOPS, throughput, and latency to optimize cloud storage efficiency.Compliance & Data Governance:Implementing policies for data retention, audit logging, and access controls in cloud environments.Preferred Skills & Certifications:Azure certifications such as Microsoft Certified: Azure Solutions Architect ExpertGoogle Cloud certifications such as Google Professional Cloud ArchitectKnowledge of hybrid cloud storage solutions integrating on-premise systems with cloud storage services.",
+        "source": "Email",
+        "date_posted": "2024-10-24 11:20:37-05:00",
+        "unique_id": "192bf775b42c5309",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

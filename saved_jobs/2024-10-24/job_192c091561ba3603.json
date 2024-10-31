@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Cloud Ingest",
+        "job_title": "AWS Databricks Data Engineer Lead",
+        "location": "Hartford, CT, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS Cloud infrastructure",
+                "Databricks",
+                "Snowflake",
+                "Agile methodologies"
+            ],
+            "primary": [
+                "AWS Glue",
+                "S3",
+                "IAM",
+                "Airflow",
+                "JIRA",
+                "Git",
+                "Bitbucket",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "CICD",
+                "Monitoring tools",
+                "Data migration"
+            ],
+            "all": [
+                "Python",
+                "AWS Cloud infrastructure",
+                "Databricks",
+                "Snowflake",
+                "Agile methodologies",
+                "AWS Glue",
+                "S3",
+                "IAM",
+                "Airflow",
+                "JIRA",
+                "Git",
+                "Bitbucket",
+                "Kubernetes",
+                "CICD",
+                "Monitoring tools",
+                "Data migration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Tahajuddin",
+        "email": "tahajuddin@cloudingest.com",
+        "jd": "From: Cloud Ingest, Cloud Ingest tahajuddin@cloudingest.com Reply to: tahajuddin@cloudingest.com Job Title: AWS Databricks Data Engineer LeadLocation: Hartford, CTRemote Work: PartialVisa: H4EAD & USC onlyNo H1B, GC & GC EAD pleaseRequirements:Strong python skillsAWS Cloud infrastructure knowledge commonly used AWS Glue S3 IAM AirflowExperience with building data pipelines using Databricks on AWSKnowledge and Handson SnowflakeExperience in Agile methodologies and Atlassian tools like JIRAExpertise in using version control tools like Git BitbucketExperience on CICD using Kubernetes GIT and Monitoring and ing toolsExperience on data migration from OnPrem databases to AWS Cloud on S3",
+        "source": "Email",
+        "date_posted": "2024-10-24 15:57:59-05:00",
+        "unique_id": "192c091561ba3603",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

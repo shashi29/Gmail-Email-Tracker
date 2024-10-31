@@ -1,0 +1,59 @@
+[
+    {
+        "company": "Techrooted Inc.",
+        "job_title": "Python Developer",
+        "location": "Oakland, CA, USA",
+        "full_location": {
+            "city": "Oakland",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Investment systems knowledge",
+                "AWS services"
+            ],
+            "primary": [
+                "GitHub"
+            ],
+            "secondary": [
+                "AWS certification"
+            ],
+            "all": [
+                "Python",
+                "Investment systems knowledge",
+                "AWS services",
+                "GitHub",
+                "AWS certification"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Amandeep Kaur",
+        "email": "amandeep@techrooted.com",
+        "jd": "Hi, This is Aman, Technical Recruiter at Techrooted, we have an excellent job opportunity for you. Please let me know if you are interested then share your updated resume along with your contact details so that we can proceed further. Python DeveloperLocation: Oakland CA (LOCALS to Oakland CA or 100 miles distance ONLY who can go onsite for 3 days/week; HYBRID)USC GC only Solid LinkedIn profile is must Need Python Developer with Investment system experience (Trading, securities etc) Local to Oakland CA only Mention Current & exact Location , Visa and LinkedIn profile while sharing the profile; otherwise i will not consider it. Job Description:This person will work with the client Personalized Indexing portfolio management team to design and build automations to improve the team's efficiency. Automate the collection of data needed for portfolio managers to make decisions. Determine when a local solution (e.g. scripts) is the right answer versus building a more robust enhancement into existing systems. Duties and responsibilities would include full-stack software development for the Vanguard Personalized Indexing portfolio managers. This contractor would work with the Oakland based portfolio management team to understand their workflow and develop applications which focus on time savings through automation, cost savings through optimization, and risk mitigation. Must haves:Investment systems knowledge (trading, securities, etc)Ability to effectively communicate with portfolio managers, work closely with them to rapidly build solutionsPython strongly preferredKnowledge of AWS services like lambdas, ECS and AWS infrastructure GitHub Preferred:AWS certification Knowledge of investment systems strongly preferred.",
+        "source": "Email",
+        "date_posted": "2024-10-24 13:38:20-05:00",
+        "unique_id": "192c021735eed420",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Avance",
+        "job_title": "Lead Data Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python/Pyspark scripting",
+                "Glue",
+                "lambda",
+                "Snowflake/SQL",
+                "Informatica"
+            ],
+            "primary": [
+                "AWS Cloud formation",
+                "Airflow",
+                "ETL tool"
+            ],
+            "secondary": [],
+            "all": [
+                "Python/Pyspark scripting",
+                "Glue",
+                "lambda",
+                "Snowflake/SQL",
+                "AWS Cloud formation",
+                "Airflow",
+                "Informatica",
+                "ETL tool"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bhavya Rapelli",
+        "email": "bhavya.r@avanceservices.com",
+        "jd": "From: Bhavya Rapelli, Avance bhavya.r@avanceservices.com Reply to: bhavya.r@avanceservices.com .Lead Data EngineerLocation is Chicago, IL - 3 days onsite. Local preferred Coding test will be part of evaluationSubmit along with Skill matrix. Will not consider without Skill Matrix Add skill matrix as First Page in resume itself for the ease of reading. SkillsetCandidate Self Rating (5)Candidate WriteupPython/Pyspark scripting - MANDATORY Glue / lambda - MANDATORY Snowflake/SQL - MANDATORY AWS Cloud formation Airflow or equivalent orchestration Informatica/ Any ETL tool - MANDATORY Removal Date",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:43:34-05:00",
+        "unique_id": "192771a402eaae0d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

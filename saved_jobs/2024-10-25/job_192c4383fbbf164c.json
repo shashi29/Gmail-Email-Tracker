@@ -1,0 +1,76 @@
+[
+    {
+        "company": "Sita Consulting Services",
+        "job_title": "Database Administrator 5 - SQL Server",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "136430",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server 2016",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "Transparent Data Encryption"
+            ],
+            "primary": [
+                "Database Administration",
+                "Database Management Software",
+                "Database Integrity Checks",
+                "Database Replication",
+                "Backup Processes"
+            ],
+            "secondary": [
+                "Monitoring Tools",
+                "Capacity Planning",
+                "Database Standards",
+                "Documentation"
+            ],
+            "all": [
+                "SQL Server 2016",
+                "High Availability (HA)",
+                "Disaster Recovery (DR)",
+                "Transparent Data Encryption",
+                "Database Administration",
+                "Database Management Software",
+                "Database Integrity Checks",
+                "Database Replication",
+                "Backup Processes",
+                "Monitoring Tools",
+                "Capacity Planning",
+                "Database Standards",
+                "Documentation"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Shashank",
+        "email": "shashank@scstech.us",
+        "jd": "From: Shashank, Sita Consulting Services shashank@scstech.us Reply to: shashank@scstech.us Job Title: Database Administrator 5 - SQL Server Submission Deadline: October 28 at 10 AM EST Interview ProcessInterviews will be conducted virtually via MS Teams. Candidates are required to use a laptop and may be asked to share their screens.Please refrain from using headphones during the interview. The use of AI tools (e.g., ChatGPT) during interviews is strictly prohibited.A screenshot photo of the candidate will be required for interviews, along with a vendor present at the beginning to validate the candidate.Any second-round interviews will be held in person at the Lansing office.LocationCandidates must be local to the greater Lansing area (commutable distance). We are not considering candidates who need to relocate for this position.Onsite work is required starting day one for a hybrid work schedule (onsite 2 days a week). NO remote-only options available. Position OverviewThe State of Michigan is seeking a skilled Database Administrator 5 to provide Infrastructure DBA support for SQL Server applications. This position is essential to bridge the gap created by the departure of a Senior Level DBA, ensuring continuous support for several Tier 1 applications, including those in the Bureau of Labs and Cancer Registry.Position JustificationThis role is crucial for providing Infrastructure DBA support for all SQL Server applications. It is a replacement for a Senior Level DBA leaving the team. The intention is to fill this position during the transition period until the incumbent DBA is backfilled, which may take several months. Maintaining this resource is vital due to the large and complex applications supported, including several Tier 1 applications within the Bureau of Labs and Cancer Registry.Position SummaryAs a Senior-level Database Administrator, the resource will participate in 24/7 software and hardware support for complex applications across various SQL Server versions, ensuring high availability and disaster recovery. The role includes developing and submitting plans for installation, patch management, maintenance, upgrades, and database system support. The DBA will evaluate the impact of changes and new technologies, recommend solutions to persistent problems, and serve as the Agency Services liaison to external consultants.Key ResponsibilitiesProvide 24/7 support for complex SQL Server applications, ensuring high availability and disaster recovery.Develop and submit plans for installation, patch management, maintenance, upgrades, and support for database systems.Evaluate the impact of changes and new technologies; recommend solutions to persistent problems.Act as a liaison between Agency Services and external consultants.Individual DutiesFollow and enforce database standards, policies, and procedures; research and draft guidelines within existing policies.Monitor space allocation across databases and perform necessary adjustments in test and development environments.Calculate disk space requirements for existing and new installations.Modify DBMS parameters based on capacity changes.Configure and execute database integrity checks and monitor their outcomes.Install database management software and apply patches/service packs for development and test environments.Support clustered database environments and manage database replication and backup processes.Implement strategies to release unused space or repair fragmentation in test and development environments.Execute scripts provided by Systems Analysts or Database Architect/Designer for creating and modifying database objects (tables, views, constraints, indexes, etc.).Monitor database backups to ensure recoverability and troubleshoot backup errors.Monitor database jobs and scheduled processes in development, test, and production environments; participate in troubleshooting.Maintain database functionality, connectivity, and uptime using various monitoring tools.Required Skills and Experience7+ years of database administration experience, specifically with SQL Server 2016 and later.Expertise in high availability (HA) and disaster recovery (DR) solutions.Proficiency in Transparent Data Encryption within SQL Server.3+ years of experience in creating, updating, and maintaining systems documentation.",
+        "source": "Email",
+        "date_posted": "2024-10-25 08:59:30-05:00",
+        "unique_id": "192c4383fbbf164c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

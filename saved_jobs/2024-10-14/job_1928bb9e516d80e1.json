@@ -1,0 +1,82 @@
+[
+    {
+        "company": "STM Consulting",
+        "job_title": "Application Developer",
+        "location": "Hartford, CT, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Microsoft Certification \u2013 Mandatory",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "8 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "VB.NET",
+                "Java/J2EE",
+                "API development",
+                "Microsoft Power Platform (Power Apps, Power Pages, Portals)",
+                "SQL"
+            ],
+            "primary": [
+                "Integrated Development Environments (IDEs)",
+                "Software Development Life Cycle (SDLC)",
+                "Agile methodologies",
+                "Waterfall methodologies"
+            ],
+            "secondary": [
+                "Best practices in systems deployment",
+                "Testing",
+                "Operations",
+                "Administration",
+                "Disaster recovery"
+            ],
+            "all": [
+                "VB.NET",
+                "Java/J2EE",
+                "API development",
+                "Microsoft Power Platform (Power Apps, Power Pages, Portals)",
+                "SQL",
+                "Integrated Development Environments (IDEs)",
+                "Software Development Life Cycle (SDLC)",
+                "Agile methodologies",
+                "Waterfall methodologies",
+                "Best practices in systems deployment",
+                "Testing",
+                "Operations",
+                "Administration",
+                "Disaster recovery",
+                "Microsoft Certification"
+            ],
+            "with_experience": [
+                "Microsoft Power Platform (Power Apps, Power Pages, Portals)",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Prashant Singh",
+        "email": "prashant.singh@consultstm.com",
+        "jd": "Hello Trust you are doing well I have this excellent job opportunity. Please find the detailed job description below for insight and help me with your latest resume to take it further for interview Position: Application Developer Location: Hartford, CT 06105 (Hybrid - Prefer Local candidates only.) Duration: 8 Months Legacy System Conversion: Assist in converting legacy .NET applications to the Microsoft Power Platform, ensuring smooth integration with Power Apps, Power Pages, and portals while maintaining full functionality and performance. Legacy Application Support: Provide ongoing maintenance and support for existing .NET legacy applications, addressing technical issues, performing updates, and ensuring continued operation and performance. API Integration: Develop and implement robust API integration solutions to connect external applications and systems, ensuring secure and efficient data exchange across platforms. Data Model Design: Collaborate with database administrators (DBAs) to design efficient data models, optimize queries, and maintain data integrity across both legacy systems and new Power Platform applications. SDLC Proficiency: Exhibit expertise in the Software Development Life Cycle (SDLC), with experience in both waterfall and agile methodologies, ensuring timely project delivery and alignment with project goals. Development Standards: Follow established development practices, proactively identifying opportunities for process improvements to enhance overall development quality and efficiency. Technical Expertise: \u00b7 Proficiency in programming languages such as VB.NET, Java/J2EE, and API development. \u00b7 Strong experience with Microsoft Power Platform (Power Apps, Power Pages, Portals). \u2013 Mandatory. \u00b7 Hands-on experience in setting up Integrated Development Environments (IDEs) and writing unit and feature tests. \u00b7 Ability to run and optimize SQL queries, contributing to both development and testing efforts. \u2013 Mandatory. \u00b7 Best Practices & Operational Knowledge: Demonstrated knowledge of best practices in systems deployment, testing, operations, administration, and disaster recovery. \u00b7 Microsoft Certification \u2013 Mandatory.",
+        "source": "Email",
+        "date_posted": "2024-10-14 10:15:30-05:00",
+        "unique_id": "1928bb9e516d80e1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

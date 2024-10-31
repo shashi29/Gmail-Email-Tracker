@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Walmart",
+        "job_title": "Sr. Big Data Engineer",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "JD: Sr. Big Data Engineer",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Month Contract, potential conversions",
+            "rate": "$60/hr C2C"
+        },
+        "skills": {
+            "core": [
+                "Scala",
+                "Spark",
+                "SQL"
+            ],
+            "primary": [
+                "Python",
+                "CI/CD",
+                "Jenkins",
+                "Airflow",
+                "Data warehousing"
+            ],
+            "secondary": [
+                "Programming design patterns",
+                "System design",
+                "Data processing",
+                "Data manipulation",
+                "SCD types",
+                "GCP"
+            ],
+            "all": [
+                "Scala",
+                "Spark",
+                "SQL",
+                "Python",
+                "CI/CD",
+                "Jenkins",
+                "Airflow",
+                "Data warehousing",
+                "Programming design patterns",
+                "System design",
+                "Data processing",
+                "Data manipulation",
+                "SCD types",
+                "GCP"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Mohd Niyaz",
+        "email": "mniyaz@sibitalent.com",
+        "jd": "From: Mohd Niyaz, sibitalent Corp mniyaz@sibitalent.com Reply to: mniyaz@sibitalent.com Candidate Qualifications: USC or GC ONLY! Strong Scala, Spark, SQLMust pass Glider test!Rate for Sunnyvale: $60/hr C2CJD: Sr. Big Data Engineer WalmartSunnyvale, CA Hybrid6+ Month Contract, potential conversions Skills\u2022 Professional hand-on experience in Scala/Python.\u2022 Professional hand-on experience in Sql and QueryOptimization.\u2022 Experience in programming design patterns.\u2022 Experience in system design.\u2022 Should have Experience with CI/CD tool like Jenkins etc. \u2022 Should have Experience with Orchestration tools likeAirflow/ Automic etc.\u2022 Should have hand-on experience in Data processing and Data manipulation skills like Data warehousing concepts, SCD types etc.\u2022 Atleast one cloud exposure (GCP is preferred). Thanks and Regards,Mohd NiyazEmail : mniyaz@sibitalent.comLinkedin ID:- linkedin.com/in/mohd-niyaz-362667220Web: www.sibitalent.com101 E. Park Blvd., Suite 600Plano, TX - 75074",
+        "source": "Email",
+        "date_posted": "2024-10-28 17:13:55-05:00",
+        "unique_id": "192d5738d2c6953a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

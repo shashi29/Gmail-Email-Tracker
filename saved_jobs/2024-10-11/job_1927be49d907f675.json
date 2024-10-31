@@ -1,0 +1,76 @@
+[
+    {
+        "company": "ProCorp Systems Inc",
+        "job_title": "Python PySpark with AWS",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Spark",
+                "PySpark"
+            ],
+            "primary": [
+                "Scala",
+                "AWS",
+                "HDFS",
+                "S3",
+                "Cassandra",
+                "DynamoDB"
+            ],
+            "secondary": [
+                "Functional programming",
+                "Cloud-native applications",
+                "Serverless approaches",
+                "SQL databases",
+                "Distributed systems"
+            ],
+            "all": [
+                "Python",
+                "Spark",
+                "PySpark",
+                "Scala",
+                "AWS",
+                "HDFS",
+                "S3",
+                "Cassandra",
+                "DynamoDB",
+                "Functional programming",
+                "Cloud-native applications",
+                "Serverless approaches",
+                "SQL databases",
+                "Distributed systems"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Laxmivijay",
+        "email": "laxmi.v@procorpsystems.com",
+        "jd": "HelloHope you\u2019re doing well! Job Role: Python PySpark with AWSLocation: Plano TX / Wilmington DE- OnsiteExperience: 12+ Years Please share candidate LinkedIn and Visa Status.Duties and responsibilities Job Responsibilities:Develop and maintain data platforms using Python, Spark, and PySpark.Handle migration to PySpark on AWS.Design and implement data pipelines.Work with AWS and Big Data.Produce unit tests for Spark transformations and helper methods.Create Scala/Spark jobs for data transformation and aggregation.Write Scala doc-style documentation for code.Optimize Spark queries for performance.Integrate with SQL databases (e.g., Microsoft, Oracle, Postgres, MySQL).Understand distributed systems concepts (CAP theorem, partitioning, replication, consistency, and consensus). Skills:Proficiency in Python, Scala (with a focus on functional programming), and Spark.Familiarity with Spark APIs, including RDD, DataFrame, MLlib, GraphX, and Streaming.Experience working with HDFS, S3, Cassandra, and/or DynamoDB.Deep understanding of distributed systems.Experience with building or maintaining cloud-native applications.Familiarity with serverless approaches using AWS Lambda is a plus Thanks & RegardsLaxmivijayUS IT Technical Recruiter.ProCorp Systems Inc2222 W Spring Creek Pkwy, STE 202,Plano,Texas 75023Mail: laxmi.v@procorpsystems.comLinkedIn: https://www.linkedin.com/in/laxmi-vijay-a5aa47231/\ud83c\udf10 -> https://procorpsystems.co/",
+        "source": "Email",
+        "date_posted": "2024-10-11 08:27:25-05:00",
+        "unique_id": "1927be49d907f675",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

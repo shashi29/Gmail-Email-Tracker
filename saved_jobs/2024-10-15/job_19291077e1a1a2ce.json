@@ -1,0 +1,74 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "PL/SQL Developer",
+        "location": "Irvine, CA, USA",
+        "full_location": {
+            "city": "Irvine",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "SQL",
+                "Database Design",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "Oracle",
+                "Data Manipulation",
+                "Testing",
+                "Debugging",
+                "Documentation"
+            ],
+            "secondary": [
+                "Collaboration",
+                "Security Management",
+                "Integration",
+                "Continuous Learning"
+            ],
+            "all": [
+                "PL/SQL",
+                "SQL",
+                "Database Design",
+                "Performance Tuning",
+                "Oracle",
+                "Data Manipulation",
+                "Testing",
+                "Debugging",
+                "Documentation",
+                "Collaboration",
+                "Security Management",
+                "Integration",
+                "Continuous Learning"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Venkat Gayam",
+        "email": "venkat.g@itechus.net",
+        "jd": "Greetings from iTech US Inc.! We have an urgent requirement for you and the details are as follows\u2026 Job Title: PL/SQL Developer Location: Irvine CA/ loa Angels CA (Hybrid & Day1 onsite) Duration: 6+ Months (Implementation/Prime Vendor Partner: TCS) Job Details: Need Strong profile on PL/SQL Developer with 8+yrs IT exp. Job Description: Roles and Responsibilities: Database Design and Development:- Design and implement database structures, including tables, views, and indexes.- Develop PL/SQL procedures, functions, and packages to encapsulate business logic. Performance Tuning:- Optimize SQL queries and PL/SQL code for performance.- Analyze and resolve performance issues using tools like Oracle Explain Plan and SQL Trace. Data Manipulation:- Write complex SQL queries to retrieve, insert, update, and delete data.- Use PL/SQL to automate data processing tasks. Testing and Debugging:- Conduct unit testing of PL/SQL code to ensure functionality and reliability.- Debug and troubleshoot PL/SQL programs, identifying and fixing issues. Documentation:- Maintain comprehensive documentation of database designs, PL/SQL code, and procedures.- Create user manuals and technical documentation for future reference. Collaboration:- Work closely with database administrators, application developers, and business analysts to gather requirements.- Participate in code reviews and provide constructive feedback to peers. Maintenance and Support:- Monitor database performance and make recommendations for improvements.- Provide support for production issues and assist in system upgrades. Security Management:- Implement security measures to protect sensitive data and ensure compliance with regulations.- Manage user roles and permissions within the database. Integration:- Integrate with other systems and applications, ensuring smooth data flow and communication.- Use tools and technologies such as Oracle Forms, Oracle Reports, or APEX for front-end development. Continuous Learning: Stay updated with the latest Oracle technologies and PL/SQL features. Participate in training sessions and workshops to enhance skills.",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:58:13-05:00",
+        "unique_id": "19291077e1a1a2ce",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "company": "ICS",
+        "job_title": "Python Architect",
+        "location": "San Diego, CA, USA",
+        "full_location": {
+            "city": "San Diego",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Locust",
+                "Performance Testing",
+                "APM",
+                "Datadog"
+            ],
+            "primary": [
+                "Enterprise and Project Performance Test strategies",
+                "Framework development",
+                "Collaboration with Development and Product teams",
+                "Workload modeling",
+                "Load Testing",
+                "Stress Testing",
+                "Endurance Testing",
+                "Test result analysis",
+                "Distributed Cache",
+                "Load Balancers",
+                "Database systems",
+                "Project planning",
+                "Problem-solving",
+                "Communication skills"
+            ],
+            "secondary": [
+                "Automated Performance Testing in CI/CD",
+                "Production monitoring dashboards",
+                "Microservices",
+                "Containerization",
+                "Docker",
+                "Kubernetes",
+                "Application architecture concepts",
+                "Chaos Engineering"
+            ],
+            "all": [
+                "Python",
+                "Locust",
+                "Performance Testing",
+                "APM",
+                "Datadog",
+                "Enterprise and Project Performance Test strategies",
+                "Framework development",
+                "Collaboration with Development and Product teams",
+                "Workload modeling",
+                "Load Testing",
+                "Stress Testing",
+                "Endurance Testing",
+                "Test result analysis",
+                "Distributed Cache",
+                "Load Balancers",
+                "Database systems",
+                "Project planning",
+                "Problem-solving",
+                "Communication skills",
+                "Automated Performance Testing in CI/CD",
+                "Production monitoring dashboards",
+                "Microservices",
+                "Containerization",
+                "Docker",
+                "Kubernetes",
+                "Application architecture concepts",
+                "Chaos Engineering"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sunil",
+        "email": "sunil@icsglobalsoft.com",
+        "jd": "From: sunil, ICS sunil@icsglobalsoft.com Reply to: sunil@icsglobalsoft.com Role: Python Architect Location: San Deigo, CA (Onsite)Duration: long TermMandatory Skills:\uf0d8 Ability to develop Enterprise and Project Performance Test strategies\uf0d8 Strong Python/ Locust tool skills\uf0d8 Proven ability to develop frameworks preferably performance testing frameworks\uf0d8 Collaborate with Development, Product owners, solution architects, business teams\uf0d8 Good understanding of Performance Testing and Engineering lifecycle, including scoping and workload modeling\uf0d8 Conduct performance tests \u2013 Load, Stress, Endurance etc\uf0d8 Ability to analyze test results and provide performance improvement recommendations\uf0d8 Demonstrated experience with APM, preferably Datadog\uf0d8 Working knowledge of distributed Cache, Load Balancers, Database systems\uf0d8 Good project planning skills\uf0d8 Be able to identify improvement areas and implement for delivery excellence \uf0d8 Strong problem-solving skills\uf0d8 Strong written and verbal communication skills\uf0d8 Interest in learning new tools and technologiesGood to have skills\uf0d8 Design and implement automated Performance Testing in the CI/CD pipeline.\uf0d8 Experienced in setting up Production monitoring dashboards based on business and IT goals\uf0d8 Experience with micros servers based on architecture and containerization-based deployments like Docker, Kubernetes\uf0d8 Knowledge of application architecture concepts, including topology, protocols, components, and principles would be advantageous\uf0d8 Chaos Engineering",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:06:56-05:00",
+        "unique_id": "192d9cc8c14cc04c",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

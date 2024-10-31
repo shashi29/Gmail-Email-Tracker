@@ -1,0 +1,69 @@
+[
+    {
+        "company": "InfoTech Spectrum Inc.",
+        "job_title": "Snowflake Developer ll",
+        "location": "Woonsocket, RI, USA",
+        "full_location": {
+            "city": "Woonsocket",
+            "state": "RI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2-4 years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "SQL",
+                "ETL Tools"
+            ],
+            "primary": [
+                "Google Cloud Platform",
+                "Data Management",
+                "Data Migration"
+            ],
+            "secondary": [
+                "Communication",
+                "Project Management Tools",
+                "Adaptable",
+                "Articulate data information"
+            ],
+            "all": [
+                "Snowflake",
+                "SQL",
+                "ETL Tools",
+                "Google Cloud Platform",
+                "Data Management",
+                "Data Migration",
+                "Communication",
+                "Project Management Tools",
+                "Adaptable",
+                "Articulate data information"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Minu Roy",
+        "email": "minu.roy@infotechspectrum.com",
+        "jd": "Role:- Snowflake Developer\nLocation:- Woonsocket, RI (Candidate must be Local and be onsite 3 days a week in Rhode Island)(USC, H4 EAD Only)\nJob Description:As a Snowflake Developer you will be focused on day to day initiatives that will further assist with a future GCP Data Migration. Day to day will be supporting the current system (Snowflake) and assist with new product development throughout the healthcare aspect of CVS. You will play a vital role in the structure of the current team while some of the current team members will shift over to the focusing on the GCP Migration.\nKey Responsibilities:\nDevelop and optimize ETL processes for data extraction, transformation, and loading into Snowflake.\nWrite and refine SQL queries to ensure efficient data processing and performance within Snowflake.\nAssist in data mapping, profiling, and cleansing to maintain data quality.\nProvide support and training to team members on Snowflake and data management practices.\nPreform efficient data management by scaling data storage and making computing tasks separate.\nStay updated on Snowflake features to leverage the best tools for data management.\nCollaborate with data engineering and analytics teams to design and implement the migration of data to Snowflake on GCP.\nDocument migration workflows, including data flow diagrams, transformation logic, and best practices.\nQualifications:\nBachelor\u2019s degree in Computer Science, Information Technology, or a related field.\n2-4 years of experience in Snowflake development and data management.\nProficiency in SQL and Snowflake-specific features (e.g., Snowpipe, Streams, Tasks).\nFamiliarity with Google Cloud Platform services (e.g., BigQuery, Cloud Storage) is a plus.\nExperience with ETL tools (e.g., Informatica, Talend) and cloud migration methodologies.\nStrong analytical skills and attention to detail.\nExcellent communication and collaboration abilities.\nTechnical Skills:\nSnowflake \u2013 Must Have\nRally\nSQL\nETL Tools\nProject Management Tools\nSoft Skills:\nCommunication\nArticulate data information\nAdaptable\nCan work independently and on a team",
+        "source": "Email",
+        "date_posted": "2024-10-10 14:58:28-05:00",
+        "unique_id": "192787fee725deae",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

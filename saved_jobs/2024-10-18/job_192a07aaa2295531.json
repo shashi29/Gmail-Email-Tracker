@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Softcom",
+        "job_title": "Java Developer with Splunk",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Splunk"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Spring Cloud Netflix",
+                "Spring Hibernate",
+                "Spring Data",
+                "Kafka",
+                "Junit",
+                "TestNG",
+                "Mockito",
+                "AWS",
+                "NoSQL",
+                "MongoDB",
+                "Cassandra",
+                "DocumentDB",
+                "OAuth 2.0",
+                "OpenID Connect",
+                "Kubernetes",
+                "Docker"
+            ],
+            "secondary": [
+                "Good communication",
+                "Excellent coding skill"
+            ],
+            "all": [
+                "Java",
+                "Splunk",
+                "Spring Boot",
+                "Spring Cloud Netflix",
+                "Spring Hibernate",
+                "Spring Data",
+                "Kafka",
+                "Junit",
+                "TestNG",
+                "Mockito",
+                "AWS",
+                "NoSQL",
+                "MongoDB",
+                "Cassandra",
+                "DocumentDB",
+                "OAuth 2.0",
+                "OpenID Connect",
+                "Kubernetes",
+                "Docker",
+                "Good communication",
+                "Excellent coding skill"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Maroju",
+        "email": "maroju@softcomsystems.com",
+        "jd": "From: Maroju, Softcom maroju@softcomsystems.com Reply to: maroju@softcomsystems.com Role: Java Developer with SplunkLocation: Phoenix,AZJob Details:Must Have SkillsJavaSplunkNice to have skillsGood communicationExcellent coding skillDetailed Job Description:Ability to use Spring Boot, Spring Cloud Netflix, Spring Hibernate/Spring Data for creating Java based microservices Hands on developing using messaging components - Kafka Consumer/Producer development, Unit test automation using frameworks like Junit, TestNG and Mockito Ability to create OpenAPI specification and use it for top-down and bottom-up generation of code/specification Working knowledge of Jenkins, Maven/Gradle and Git Hands on experience in developing, deploying & monitoring applications & packages in AWS Hands on experience in developing microservices with any NoSQL (MongoDB, Cassandra, DocumentDB etc.) with a good understanding of data sharding and read/write optimizations Working knowledge on OAuth 2.0 grant types and OpenID Connect to secure microservices Understanding on container technology and container orchestration platforms (Kubernetes/PCF). Ability to comprehend how the microservices are packaged and deployed into any one of the platforms. (For example: Docker File, K8s Deployment & Config Maps etc.) Hands on experience working with Microservice Patterns (circuit breaker, service discovery, service registration, Api gateway)",
+        "source": "Email",
+        "date_posted": "2024-10-18 10:58:39-05:00",
+        "unique_id": "192a07aaa2295531",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

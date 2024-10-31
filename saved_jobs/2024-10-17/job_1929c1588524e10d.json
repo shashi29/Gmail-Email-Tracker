@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Vysystems",
+        "job_title": "Sr.GCP Cloud Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "GCP Services",
+                "Google Cloud Compute Engine",
+                "GCP",
+                "GCP Cloud Solutions",
+                "GCP Design & Architect",
+                "GCP Cloud Build"
+            ],
+            "primary": [
+                "Troubleshooting",
+                "Cloud API\u2019s and integration",
+                "Front end development and debugging techniques"
+            ],
+            "secondary": [
+                "SaaS platforms",
+                "Cloud concepts of Architecture and Best practices",
+                "Load balancing",
+                "Deployment manager",
+                "TF",
+                "GCP Cloud Solution Architect certification",
+                "GCP Associate Cloud Engineer certification"
+            ],
+            "all": [
+                "Terraform",
+                "GCP Services",
+                "Google Cloud Compute Engine",
+                "GCP",
+                "GCP Cloud Solutions",
+                "GCP Design & Architect",
+                "GCP Cloud Build",
+                "Troubleshooting",
+                "Cloud API\u2019s and integration",
+                "Front end development and debugging techniques",
+                "SaaS platforms",
+                "Cloud concepts of Architecture and Best practices",
+                "Load balancing",
+                "Deployment manager",
+                "TF",
+                "GCP Cloud Solution Architect certification",
+                "GCP Associate Cloud Engineer certification"
+            ],
+            "with_experience": [
+                "GCP Services",
+                "Cloud API\u2019s and integration",
+                "Front end development and debugging techniques"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Karthick Raja",
+        "email": "karthick.raja@vysystems.com",
+        "jd": "From: Kaushik, vysystems karthick.raja@vysystems.com Reply to: karthick.raja@vysystems.com Required Skills: Terraform, GCP Services, Google Cloud Compute Engine, GCP, GCP Cloud Solutions, GCP Design & Architect, GCP Cloud BuildTop Qualifications: (candidates should be excellent in Troubleshooting Scenarios in each of these skills)1. GCP services such as GCE, GKE, IAM, GCS , pub-sub and other commonly used services & Troubleshooting2. Cloud API\u2019s and integration3. Front end development and debugging techniquesJob summary:Should have hands-on experience of managing GCP services such as GCE, GKE, IAM, GCS , pub-sub and other commonly used services beforeUnderstanding of usage of Cloud API\u2019s and integrationSMEs need experience building apps for various API calls (usage reporting, Pub/Sub, etc.)Knowledge of Front end development and debugging techniquesGeneral understanding of SaaS platforms / architectures and deployment types to support partner queriesPreferably have a GCP Cloud Solution Architect certificationRole/Responsibilities:\u2022 SMEs need experience building apps for various API calls (usage reporting, Pub/Sub, etc.)\u2022 Knowledge of Front end development and debugging techniques\u2022 General understanding of SaaS platforms / architectures and deployment types to support partner queries\u2022 Preferably have a GCP Cloud Solution Architect certification\u2022 Understanding of core cloud concepts of Architecture and Best practices\u2022 Exposure to common services such as GCE, GKE, IAM, GCS, PUB SUB and Service accounts\u2022 Understanding of APIs and usage\u2022 Concepts of Load balancing, Deployment manager and TF will be helpful\u2022 Expertise level can be lower than L2 with a potential to groom\u2022 Preferably have GCP Associate Cloud Engineer certification",
+        "source": "Email",
+        "date_posted": "2024-10-17 14:29:40-05:00",
+        "unique_id": "1929c1588524e10d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

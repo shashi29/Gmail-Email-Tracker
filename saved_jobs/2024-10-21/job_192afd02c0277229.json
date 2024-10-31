@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Nexwave",
+        "job_title": "Sr Python Developer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Java"
+            ],
+            "primary": [
+                "GitHub Integration",
+                "Tool Development",
+                "Integration using Python and Java"
+            ],
+            "secondary": [
+                "Web Development",
+                "API Development",
+                "RESTful services",
+                "Testing",
+                "Debugging",
+                "Unit Testing",
+                "Test Automation"
+            ],
+            "all": [
+                "Python",
+                "Java",
+                "GitHub Integration",
+                "Tool Development",
+                "Integration using Python and Java",
+                "Web Development",
+                "API Development",
+                "RESTful services",
+                "Testing",
+                "Debugging",
+                "Unit Testing",
+                "Test Automation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "mahesh",
+        "email": "pmahesh@nexwaveinc.com",
+        "jd": "Role : Sr Python Developer with Java & AWS\nLocation: Plano, TX ( Onsite from Day 1 )\nDuration : 12 Months\nExp Req : 10+\nPrimary Skills:Programming Languages:Proficiency in Python and Java\nExperience with tool development and integration using these languages\nGitHub Integration:Experience with integrating tools and applications with GitHub\nUnderstanding of GitHub APIs and workflows\nSecondary Skills:Web Development:Familiarity with web frameworks and development practices in Python\nKnowledge of API development and RESTful services\nTesting and Debugging:Strong debugging and troubleshooting skills\nExperience with unit testing and test automation",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:22:15-05:00",
+        "unique_id": "192afd02c0277229",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "company": "ascendmindsllc",
+        "job_title": "Python Architect",
+        "location": "CA, USA",
+        "full_location": {
+            "city": "",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Cloud Infrastructure",
+                "Data Architecture",
+                "Automation"
+            ],
+            "primary": [
+                "AWS",
+                "Azure",
+                "Google Cloud",
+                "PySpark",
+                "Docker",
+                "Kafka",
+                "MongoDB",
+                "Terraform",
+                "CloudFormation",
+                "Ansible",
+                "Apache Airflow",
+                "Jenkins"
+            ],
+            "secondary": [
+                "Bash",
+                "Java",
+                "Hadoop",
+                "Spark",
+                "Kubernetes"
+            ],
+            "all": [
+                "Python",
+                "Cloud Infrastructure",
+                "Data Architecture",
+                "Automation",
+                "AWS",
+                "Azure",
+                "Google Cloud",
+                "PySpark",
+                "Docker",
+                "Kafka",
+                "MongoDB",
+                "Terraform",
+                "CloudFormation",
+                "Ansible",
+                "Apache Airflow",
+                "Jenkins",
+                "Bash",
+                "Java",
+                "Hadoop",
+                "Spark",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Bhargav",
+        "email": "recruitment1@ascendmindsllc.com",
+        "jd": "From: Bhargav, ascendmindsllc recruitment1@ascendmindsllc.com Reply to: recruitment1@ascendmindsllc.com Job DescriptionPython Test ArchitectLocation: CAKey Responsibilities:Design, build, and maintain scalable cloud data architectures and automated solutions that support data ingestion, processing, and storage.Develop automation frameworks and tools for deploying and managing cloud infrastructure and data services.Collaborate with data engineers, DevOps teams, and data scientists to implement end-to-end data pipelines and workflows.Ensure automation of data quality, security, and governance processes, enabling seamless integration across cloud environments.Drive the implementation of cloud best practices, including monitoring, disaster recovery, security, and cost optimization.Lead efforts in automating testing, deployment, and monitoring of data infrastructure.Evaluate and recommend tools and technologies to improve automation processes for cloud data platforms.Provide technical leadership, mentoring, and knowledge sharing within the team.Qualifications:Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.7+ years of experience in data architecture, cloud infrastructure, and automation.Hands-on experience with cloud platforms like AWS, Azure, or Google Cloud, with deep expertise in services such as AWS Lambda, S3, RDS, EMR, Azure Data Factory, Databricks, etc.Hands-on experience in Python, PySpark, PyTest, DockerStrong knowledge in Kafka and MongoDBStrong knowledge of infrastructure-as-code (IaC) tools such as Terraform, CloudFormation, or Ansible.Proven expertise in automating data pipelines using tools like Apache Airflow, Jenkins, or similar CI/CD tools.Proficiency in scripting and programming languages (e.g., Python, Bash, Java).Experience with big data technologies such as Hadoop, Spark, or Kafka.Strong knowledge of DevOps methodologies and containerization tools (e.g., Docker, Kubernetes).Deep understanding of data security, privacy, and compliance in cloud environments.Excellent problem-solving and communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-29 11:42:57-05:00",
+        "unique_id": "192da40c69319040",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

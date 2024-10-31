@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Eminence Technology Solutions LLC",
+        "job_title": "Senior Java Developer",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Hibernate",
+                "REST API",
+                "Kafka"
+            ],
+            "primary": [
+                "Tomcat",
+                "Azure Cosmos DB",
+                "Agile",
+                "Selenium",
+                "Mockito",
+                "JUnit",
+                "TestNG",
+                "Mocha",
+                "Chai",
+                "SonarQube",
+                "Git",
+                "Jenkins",
+                "Splunk",
+                "JMeter"
+            ],
+            "secondary": [
+                "Reactive programming",
+                "Adaptive programming",
+                "End-to-End Migration",
+                "Unit Testing",
+                "Automation Testing",
+                "Defect Reporting",
+                "Continuous Integration",
+                "Continuous Delivery"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Hibernate",
+                "REST API",
+                "Kafka",
+                "Tomcat",
+                "Azure Cosmos DB",
+                "Agile",
+                "Selenium",
+                "Mockito",
+                "JUnit",
+                "TestNG",
+                "Mocha",
+                "Chai",
+                "SonarQube",
+                "Git",
+                "Jenkins",
+                "Splunk",
+                "JMeter",
+                "Reactive programming",
+                "Adaptive programming",
+                "End-to-End Migration",
+                "Unit Testing",
+                "Automation Testing",
+                "Defect Reporting",
+                "Continuous Integration",
+                "Continuous Delivery"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Peter",
+        "email": "peter@eminencets.com",
+        "jd": "From: peter, Eminence Technology Solutions LLC peter@eminencets.com Reply to: peter@eminencets.com Position: Senior Java Developer Location: Sunnyvale, CA Duration: 12+ Months please share me only Local to Sunnyvale, CA profiles, and 10 plus Expwe are not Acepting Non -local profiles please dont share Description:* Design, build and maintain REST API services using technologies such as Java, Spring, Hibernate, Tomcat and data stores to enable user interaction with large volume datasets.\u2022 Build highly scalable, low latency, fault-tolerant, and high-performance architecture solutions for customer facing web and mobile applications.\u2022 Participate in software development life cycle (SDLC) phases including sprint planning, estimating, design, development, testing, and deployment within an Agile development environment.\u2022 Build customer facing software application features and platform libraries.\u2022 Engage in End-to-End Migration of back-end services and database platform from Oracle DB to Azure Cosmos DB.\u2022 Leverage Reactive and Adaptive programming to handle change feeds from Azure Cosmos DB by creating robust reactive listeners and stored procedures.\u2022 Build data communication between back-end systems using Kafka.\u2022 Develop Unit and Automation Testing Frameworks, Test Suites, and Stubs/Mocks using Selenium, Mockito, JUnit, TestNG, Mocha, and Chai to thoroughly test the software applications for all possible positive and negative use case scenarios and achieve 100% code coverage.\u2022 Troubleshooting open issues and bug-fixes. Enhancing design to prevent re-occurrence of defects. Use JIRA for Defect Reporting and Tracking.\u2022 Run SonarQube on applications to measure continuous code quality by reporting code smells and vulnerabilities.\u2022 Use Git Version Control System for coordinating work with the team. Integrate applications with Jenkins to set up Continuous Integration and Continuous Delivery Environments (CI/CD).\u2022 Work on Splunk dashboard/queries to monitor application and system health and debug production issues.\u2022 Use JMeter to load test software functional behavior and measure performance.\u2022 Provide required Demos to Business stakeholders on software features and take required feedback for improvements.\u2022 Provide inputs to relevant stakeholders for creation of project plans and ensure adherence to the project against approved milestones and timelines.",
+        "source": "Email",
+        "date_posted": "2024-10-24 15:09:05-05:00",
+        "unique_id": "192c0cf9693ed190",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

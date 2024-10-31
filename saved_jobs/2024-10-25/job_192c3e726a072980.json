@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Han Staffing",
+        "job_title": "Java FSD Lead",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "React JS",
+                "Kafka",
+                "Microservices"
+            ],
+            "primary": [
+                "Python",
+                "Node-js",
+                "AWS",
+                "GCP",
+                "Azure",
+                "open-source frameworks",
+                "Agile practices"
+            ],
+            "secondary": [
+                "Securities Finance",
+                "Financial Industry domain knowledge"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "React JS",
+                "Kafka",
+                "Microservices",
+                "Python",
+                "Node-js",
+                "AWS",
+                "GCP",
+                "Azure",
+                "open-source frameworks",
+                "Agile practices",
+                "Securities Finance",
+                "Financial Industry domain knowledge"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Danish Mujeeb",
+        "email": "danish@hanstaffing.com",
+        "jd": "From: Danish Mujeeb, Han Staffing danish@hanstaffing.com Reply to: danish@hanstaffing.com Job Title: Java FSD LeadLocation: Chicago, IL - Days 1 OnsiteDuration: Long Term Contract Job Description:What you will doLead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems to create solutions to deliver new capabilities in Securities Finance spaceLooking for resource who has worked on large scale enterprise applications and leading team.Basic Qualifications:Bachelors DegreeAt least 10+ years of professional software engineering experienceAt least 1 year experience with cloud computing (AWS, Microsoft Azure, Google Cloud)Event Driven Architecture and real time messaging processingPreferred Qualifications:10+ years of experience in at least one of the following: Java and knowledge in Python and Node-js2+ years of experience with AWS, GCP, Azure, or another cloud service4+ years of experience in open-source frameworks1+ years of people management experience2+ years of experience in Agile practicesSecurities Finance or Financial Industry domain knowledgeMandatory skills:Spring BootReact JSKafkaMicroservices Secondary skills:Azure",
+        "source": "Email",
+        "date_posted": "2024-10-25 08:04:10-05:00",
+        "unique_id": "192c3e726a072980",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

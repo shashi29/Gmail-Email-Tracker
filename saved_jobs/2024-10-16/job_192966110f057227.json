@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Innozatech LLC",
+        "job_title": ".Net Developer",
+        "location": "Hartford, CT, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft .NET Certification",
+                "Power Platform Development Certification",
+                "API Integration",
+                "Data Model Design",
+                "SDLC Proficiency"
+            ],
+            "primary": [
+                "VB.NET",
+                "Java/J2EE",
+                "Microsoft Power Platform",
+                "SQL"
+            ],
+            "secondary": [
+                "Legacy System Conversion",
+                "Legacy Application Support",
+                "Development Standards",
+                "Best Practices & Operational Knowledge",
+                "Communication & Leadership",
+                "Operating systems",
+                "Databases",
+                "Application servers",
+                "Network protocols"
+            ],
+            "all": [
+                "Microsoft .NET Certification",
+                "Power Platform Development Certification",
+                "API Integration",
+                "Data Model Design",
+                "SDLC Proficiency",
+                "VB.NET",
+                "Java/J2EE",
+                "Microsoft Power Platform",
+                "SQL",
+                "Legacy System Conversion",
+                "Legacy Application Support",
+                "Development Standards",
+                "Best Practices & Operational Knowledge",
+                "Communication & Leadership",
+                "Operating systems",
+                "Databases",
+                "Application servers",
+                "Network protocols"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Irfan",
+        "email": "irfan@innozatech.com",
+        "jd": "From: Irfan, Innozatech LLC irfan@innozatech.com Reply to: irfan@innozatech.com Microsoft .NET Certification: Candidates must possess a valid certification in Microsoft .NET development, demonstrating expertise in building, deploying, and maintaining applications using the .NET framework. This certification ensures proficiency in various .NET technologies and best practices for software development.\u00b7Power Platform Development Certification: A certification in Microsoft Power Platform development is required, verifying the candidate's ability to create custom business solutions using Power Apps, Power Automate, Power BI, and Power Virtual Agents. This certification reflects the ability to develop and integrate low-code/no-code solutions that enhance organizational workflows.\u00b7Legacy System Conversion: Assist in converting legacy .NET applications to the Microsoft Power Platform, ensuring smooth integration with Power Apps, Power Pages, and portals while maintaining full functionality and performance.\u00b7Legacy Application Support: Provide ongoing maintenance and support for existing .NET legacy applications, addressing technical issues, performing updates, and ensuring continued operation and performance.\u00b7API Integration: Develop and implement robust API integration solutions to connect external applications and systems, ensuring secure and efficient data exchange across platforms.\u00b7Data Model Design: Collaborate with database administrators (DBAs) to design efficient data models, optimize queries, and maintain data integrity across both legacy systems and new Power Platform applications.\u00b7SDLC Proficiency: Exhibit expertise in the Software Development Life Cycle (SDLC), with experience in both waterfall and agile methodologies, ensuring timely project delivery and alignment with project goals.\u00b7Development Standards: Follow established development practices, proactively identifying opportunities for process improvements to enhance overall development quality and efficiency.Technical Expertise:Proficiency in programming languages such as VB.NET, Java/J2EE, and API development.Strong experience with Microsoft Power Platform (Power Apps, Power Pages, Portals).Hands-on experience in setting up Integrated Development Environments (IDEs) and writing unit and feature tests.Ability to run and optimize SQL queries, contributing to both development and testing efforts.Best Practices & Operational Knowledge: Demonstrated knowledge of best practices in systems deployment, testing, operations, administration, and disaster recovery.Communication & Leadership: Strong verbal and written communication skills, with the ability to manage tasks proactively and work independently.Additional Qualifications: Experience in operating systems, databases, application servers, programming languages, and network protocols is a plus. Relevant technical certifications or additional training in these areas is highly desirable.",
+        "source": "Email",
+        "date_posted": "2024-10-16 11:54:24-05:00",
+        "unique_id": "192966110f057227",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

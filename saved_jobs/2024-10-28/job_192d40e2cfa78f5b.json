@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Rohatech LLC",
+        "job_title": "Big Data Developer with GCP",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud",
+                "Apache Spark",
+                "Java",
+                "Python",
+                "Scala"
+            ],
+            "primary": [
+                "Big data tools",
+                "Data modeling",
+                "Data warehousing",
+                "ETL processes"
+            ],
+            "secondary": [
+                "Machine learning",
+                "Data science",
+                "Analytics",
+                "Containerization",
+                "Serverless computing",
+                "Certification in Google Cloud",
+                "Certification in big data technologies"
+            ],
+            "all": [
+                "Google Cloud",
+                "Apache Spark",
+                "Java",
+                "Python",
+                "Scala",
+                "Big data tools",
+                "Data modeling",
+                "Data warehousing",
+                "ETL processes",
+                "Machine learning",
+                "Data science",
+                "Analytics",
+                "Containerization",
+                "Serverless computing",
+                "Certification in Google Cloud",
+                "Certification in big data technologies"
+            ],
+            "with_experience": [
+                "Google Cloud (5+ years)",
+                "Apache Spark (5+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Yogesh",
+        "email": "yogesh@rohatech.com",
+        "jd": "From: Yogesh, Rohatech LLC yogesh@rohatech.com Reply to: yogesh@rohatech.com Big Data Engineer with GCPJob SummaryDesign, develop, and deploy scalable software solutions using Google Cloud, Apache Spark, and big data tools.Requirements- 10+ years of experience in software development- Strong proficiency in programming languages (Java, Python, Scala, etc.)- Hands-on 5+ years of experience with Google Cloud, Apache Spark, and big data tools- Understanding of data modeling, data warehousing, and ETL processesNice to Have- Experience with machine learning, data science, or analytics- Knowledge of containerization and serverless computing- Certification in Google Cloud or big data technologies",
+        "source": "Email",
+        "date_posted": "2024-10-28 11:20:51-05:00",
+        "unique_id": "192d40e2cfa78f5b",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

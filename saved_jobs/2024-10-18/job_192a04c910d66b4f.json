@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Technical Project Manager",
+        "location": "Bellevue, WA, USA",
+        "full_location": {
+            "city": "Bellevue",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10-15 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Operations and Application Support",
+                "Project Management",
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Application Support",
+                "AWS Cloud",
+                "Infrastructure Analysis & Monitoring",
+                "Customer Management"
+            ],
+            "primary": [
+                "CI/CD",
+                "DevOps Tools",
+                "Scripting/Coding Background",
+                "Kubernetes",
+                "GraphDB",
+                "Siebel"
+            ],
+            "secondary": [],
+            "all": [
+                "Operations and Application Support",
+                "Project Management",
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Application Support",
+                "AWS Cloud",
+                "Infrastructure Analysis & Monitoring",
+                "Customer Management",
+                "CI/CD",
+                "DevOps Tools",
+                "Scripting/Coding Background",
+                "Kubernetes",
+                "GraphDB",
+                "Siebel"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Santhosh Sivan",
+        "email": "santhosh@smartitframe.com",
+        "jd": "From: Santhosh Sivan, Smart IT Frame santhosh@smartitframe.com Reply to: santhosh@smartitframe.com Hi All,Hope you are doing well....! Role : Technical Project ManagerLocation : Bellevue,WA (Onsite Hybrid)Mode : Contract Client Job Title: Technical Project Manager (24/7 Support)Mandatory Skills:Operations and Application Support Project ManagementJavaSpring Boot Microservices Application SupportAWS CloudInfrastructure Analysis & MonitoringCustomer ManagementOptional Skills:CI/CD DevOps ToolsScripting/Coding BackgroundKubernetesGraphDBSiebelJob Description:Experience Required: 10-15 years in total.Role Overview:Manage Operations and Support teams for a large cloud-based application.Analyze, identify, troubleshoot, and rectify application/infrastructure issues.Technical Skills:Strong knowledge of telemetry & monitoring tools (e.g., Splunk, AppDynamics, Grafana, CloudWatch).Own and manage major incidents in production and lower environments as defined by customers.Proficient in Java-based applications, Microservices, REST APIs, and Cloud technologies.Preferred Experience:Experience with Siebel CRM and customer-facing application platforms and infrastructure.Understanding of GraphDB and GraphQL technologies.Metrics and Compliance:Track and ensure compliance with metrics such as SLA, MTTR, MTTA, and MTBF for the application.Identify improvement areas and drive automation and transformation initiatives.Collaboration and Communication:Collaborate with onshore and offshore teams to ensure application support activities are completed within SLAs.Communicate project status, issues, and risks to all stakeholders, cross-functional teams, and managers.Additional Qualities:Passion for learning and adapting to new technologies as per project needs.Experience in client-facing roles with excellent communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:15:47-05:00",
+        "unique_id": "192a04c910d66b4f",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

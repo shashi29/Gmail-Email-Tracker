@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Tek Inspirations",
+        "job_title": "Senior Database Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 Month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PostgreSQL",
+                "SQL Server",
+                "AWS",
+                "Hasura",
+                "GIT"
+            ],
+            "primary": [
+                "Database Engineering",
+                "Database Design",
+                "Performance Optimization",
+                "Data Security",
+                "SQL Programming"
+            ],
+            "secondary": [
+                "Data Warehouse",
+                "Data Lake",
+                "ETL",
+                "AWS Aurora",
+                "NoSQL"
+            ],
+            "all": [
+                "PostgreSQL",
+                "SQL Server",
+                "AWS",
+                "Hasura",
+                "GIT",
+                "Database Engineering",
+                "Database Design",
+                "Performance Optimization",
+                "Data Security",
+                "SQL Programming",
+                "Data Warehouse",
+                "Data Lake",
+                "ETL",
+                "AWS Aurora",
+                "NoSQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "Job Description -Title: Senior Database Engineer\nDuration: 6 Month contract\nLocation: Remote ( Candidate should be local to Texas)\nVisa: USC/GCMOI: Phone then video\nResume should be short not more than 5 pages.\nNeeding someone with experience working with Postgres, SQL Server, Hasura, and AWS.\nIdeally, at least 10 years of database engineering/development experience.\nEssential Responsibilities: Manage and optimize PostgreSQL and SQL Server databases for performance and efficiency. Creating Hasura API\u2019s to be used as the DAL (Data Access Layer). GIT Experience including GIT Actions/Automation Implement and maintain cloud-based database solutions, primarily on AWS. Develop and optimize SQL queries, stored procedures and functions. Ensure database security Collaborate with cross-functional teams to integrate database technology within our infrastructure. Provide technical support and guidance on database design and architecture.\nQualifications: Minimum of 10 years of experience as a Database Engineer or a similar role. Strong experience with PostgreSQL Proven experience with AWS cloud services related to database management. In-depth understanding of SQL and database programming. Experience with GIT automation. Experience using Hasura and creating API\u2019s. Experience with database design, tuning, and performance optimization. Familiarity with data security, backup, and recovery methods. Other areas of expertise would be Data Warehouse and Data Lake for reporting and experience with Migrations from on Prem to AWS. Excellent problem-solving and analytical skills. Strong communication and collaboration abilities.\nPreferred Skills: Experience with other database technologies and NoSQL databases. ETL Experience in AWS. AWS Aurora highly preferred. If the candidate is strong enough on Postgres, organization, teamwork, the team can teach a good candidate Hasura. Nice to have skills: SQL Server is a nice to have. AWS ETL tools are also a great to have but not required.",
+        "source": "Email",
+        "date_posted": "2024-10-14 12:49:59-05:00",
+        "unique_id": "1928c4751f9b07e1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

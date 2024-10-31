@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Senior Java Developer (Capital One Only)",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Any visa type accepted",
+            "notice_period": "Not specified",
+            "duration": "4 months with possible extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Angular",
+                "AWS"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Python",
+                "Angular",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vyzeinc Roshan",
+        "email": "roshan@vyzeinc.com",
+        "jd": "Job Title: Senior Java Developer (Capital One Only)\nLocation: Hybrid (NYC, McLean/Richmond, VA, or Plano, TX) \u2014 Remote work is not an option, but relocation candidates are acceptable.\nVisa: Any visa type accepted.\nContract Length: 4 months with possible extensions.\n\nRequirements:\nMust Have Skills:\n- Python\n- Java\n- Angular (JavaScript)\n- AWS\n\nKey Responsibilities:\n- Collaborate closely with teams to support upcoming initiatives.\n- Work with server-driven UI, managing content dynamically via backend systems.\n- Lead serverless migration efforts (migrating Java-based apps from ECS to AWS Lambdas using Python).\n- Participate in on-site work at one of the following locations:\n  - NYC (Flatiron, 19th Street)\n  - McLean, VA\n  - Richmond, VA\n  - Plano, TX\n\nImportant Submission Requirements:\n- Capital One Former Employees Only \u2013 Non-formers will not be submitted.\n- SSN and Date of Birth are required for submission.",
+        "source": "Email",
+        "date_posted": "2024-10-30 10:04:15-05:00",
+        "unique_id": "192de41bfc2e5b4a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

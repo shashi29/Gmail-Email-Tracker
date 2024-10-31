@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Mphasis",
+        "job_title": "Data Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party",
+                "contract"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spark",
+                "AWS",
+                "Snowflake"
+            ],
+            "primary": [
+                "ETL",
+                "Data Processing",
+                "Data Pipelines",
+                "SQL",
+                "NoSQL"
+            ],
+            "secondary": [
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ],
+            "all": [
+                "Java",
+                "Spark",
+                "AWS",
+                "Snowflake",
+                "ETL",
+                "Data Processing",
+                "Data Pipelines",
+                "SQL",
+                "NoSQL",
+                "CICD",
+                "Jules",
+                "Spinnaker"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Khushank Chauhan",
+        "email": "khushank@sourceinfotech.com",
+        "jd": "From: KhushankChauhan, Source Infotech khushank@sourceinfotech.com Reply to: khushank@sourceinfotech.com Data Engineer(JAVA, Spark, Snowflake) -- C2C-- Location : Plano, TX Local OnlyUSC or H4EAD or L2Client:MphasisJob Description:Must Have skill : Java Spark and AWSSnowflake \u2013 Preferably Good knowledge/ Experience.Design, develop, and maintain scalable data pipelines using Apache Spark and Java.Implement data processing workflows and ETL processes to ingest, transform, and store large volumes of data.Collaborate with data scientists, analysts, and other stakeholders to understand data requirements and deliverhigh-quality data solutions.Optimize and tune data processing jobs for performance and cost-efficiency.Ensure data quality, integrity, and security across all data pipelines and storage solutions.Develop and maintain data models, schemas, and documentation.Monitor and troubleshoot data pipeline issues, ensuring high availability and reliability.Hands-on experience with AWS services, including S3, EMR, Lambda, and Glue. SnowflakeExperience with SQL and NoSQL databases.CICd/ Jules /Spinnaker",
+        "source": "Email",
+        "date_posted": "2024-10-23 16:04:34-05:00",
+        "unique_id": "192bb52537cc4000",
+        "emp_type": [
+            "third party",
+            "contract"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

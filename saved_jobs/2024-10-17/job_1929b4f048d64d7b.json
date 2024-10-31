@@ -1,0 +1,68 @@
+[
+    {
+        "company": "Scalable Systems",
+        "job_title": "Senior Lead Databricks Developer",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Scala",
+                "Data Engineering",
+                "Data Warehousing",
+                "ETL"
+            ],
+            "primary": [
+                "Delta Tables",
+                "SQL Server",
+                "Oracle",
+                "Cloud Platforms (Azure)"
+            ],
+            "secondary": [
+                "Hadoop (Optional)"
+            ],
+            "all": [
+                "Databricks",
+                "Scala",
+                "Data Engineering",
+                "Data Warehousing",
+                "ETL",
+                "Delta Tables",
+                "SQL Server",
+                "Oracle",
+                "Cloud Platforms (Azure)",
+                "Hadoop (Optional)"
+            ],
+            "with_experience": [
+                "Databricks (5+ years)",
+                "Scala (5+ years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Ayush Yadav",
+        "email": "ayush.yadav@scalable-systems.com",
+        "jd": "From: ayush, Scalable Systems ayush.yadav@scalable-systems.com Reply to: ayush.yadav@scalable-systems.com Senior Lead Databricks DeveloperLocation: Quincy, MAExperience: Prior experience with migrations from SQL Server/Oracle to Databricks is highly preferred.Skills: Databricks, Scala, Data Engineering, Data Warehousing, ETL, Delta Tables, SQL Server, Oracle, Cloud Platforms (Azure), Hadoop (Optional).Key Responsibilities:Databricks Development:Design, develop, and maintain Databricks-based data pipelines, ETL processes, and data transformations using Scala.Optimize Databricks workloads for performance and scalability.Collaborate with data analysts and scientists to understand data requirements and translate them into technical solutions.Data Engineering:Implement data ingestion strategies from various sources (e.g., databases, files, APIs).Transform and enrich data to meet business requirements.Ensure data quality and integrity throughout the data pipeline.Data Warehousing:Design and implement data warehouses and data marts using Databricks.Understand and apply ETL concepts and SCD types.Work with Delta tables for efficient data management and versioning.Database Technologies:Experience with SQL Server and Oracle databases.Ability to migrate data from these databases to Databricks.Technical Skills:Programming: Proficiency in Scala for Databricks development.Data Engineering: Strong understanding of data engineering principles, ETL processes, and data warehousing concepts.Databricks: Extensive experience with Databricks platform, including Delta tables, Spark SQL, and Databricks SQL.Cloud Platforms: Familiarity with cloud platforms (e.g., Azure) is a plus.Hadoop (Optional): Experience with Hadoop ecosystem (e.g., HDFS, MapReduce) is a bonus.Qualifications:Bachelor's degree in Computer Science, Engineering, or a related field.5+ years of experience in data engineering or software development.Proven experience with Databricks and Scala.Strong understanding of data warehousing concepts and ETL processes.Excellent problem-solving and analytical skills.Ability to work independently and as part of a team.Strong communication skills, both written and verbal.Keywords: Senior Databricks Developer, Lead Databricks Developer, Databricks, Scala, Data Engineering, Data Warehousing, ETL, Delta Tables, SQL Server, Oracle, Cloud Platforms, Hadoop.",
+        "source": "Email",
+        "date_posted": "2024-10-17 10:52:50-05:00",
+        "unique_id": "1929b4f048d64d7b",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

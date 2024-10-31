@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Capital One",
+        "job_title": "Senior Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Any visa works",
+            "notice_period": "Not specified",
+            "duration": "4 months with possible extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "Angular",
+                "AWS"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Python",
+                "Angular",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Priya",
+        "email": "ppundhir@vyzeinc.com",
+        "jd": "From: priya, Vyze ppundhir@vyzeinc.com Reply to: ppundhir@vyzeinc.com Job Description -JOB TITLE : Senior Java Developer. ( I need Only Capital One. send me only cap one former. Nonformers will not be submitted.)Location: You must work hybrid in NYC, McLean/Richmond VA, or Plano TX. Remote work is not an option, but relocation candidates are fine.Visa: Any visa works Contract Length: 4 months with possible extensions Capital One. send me only cap one former. Nonformers will not be submitted.Must have - Python, Java, Angular (Javascript) & AWSCollaborative developer supporting upcoming initiativesServer-driven UI (driving what the website shows using the backend)Serverless migration (Java server-based app (ECS) to serverless apps to Lambdas using Python)Must sit onsite in NYC (Flatiron, 19th street), McLean, VA, Richmond, VA, or Plano, TXNeed SSN , DOB !",
+        "source": "Email",
+        "date_posted": "2024-10-29 11:24:59-05:00",
+        "unique_id": "192d996d93fb605c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

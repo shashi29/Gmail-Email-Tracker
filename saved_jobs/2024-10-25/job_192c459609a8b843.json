@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Charter Communications",
+        "job_title": "Redshift Developer",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months (extensions every 6 months)",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Amazon Redshift",
+                "ETL-based data integration",
+                "data warehousing"
+            ],
+            "primary": [
+                "10+ years of relevant experience",
+                "advanced proficiency in SQL",
+                "able to perform in a focused, independent work environment",
+                "extensive expertise with Amazon Redshift",
+                "strong background in ETL-based data integration",
+                "comprehensive experience in data warehousing"
+            ],
+            "secondary": [
+                "hands-on experience with Hadoop-to-Redshift migrations",
+                "industry experience in the cable or telecommunications sector"
+            ],
+            "all": [
+                "SQL",
+                "Amazon Redshift",
+                "ETL-based data integration",
+                "data warehousing",
+                "10+ years of relevant experience",
+                "advanced proficiency in SQL",
+                "able to perform in a focused, independent work environment",
+                "extensive expertise with Amazon Redshift",
+                "strong background in ETL-based data integration",
+                "comprehensive experience in data warehousing",
+                "hands-on experience with Hadoop-to-Redshift migrations",
+                "industry experience in the cable or telecommunications sector"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Ashok",
+        "email": "ashok@ba-itconsult.com",
+        "jd": "From: Ashok, Biztegy Analytics, Inc ashok@ba-itconsult.com Reply to: ashok@ba-itconsult.com Hi, \ufeffJob Title: Redshift DeveloperCompany: Charter CommunicationsDuration: contract, 6+ months (extensions every 6 months)Work Location: 4 days onsite, 1 day remoteSt. Louis, MO (Client preferred location) Charlotte, NCProject Overview: The team is migrating from a Hadoop environment to Redshift, requiring expertise to support this transition and ensure a smooth data integration process.Must Have Skills:10+ years of relevant experienceAdvanced proficiency in SQLAble to perform in a focused, independent work environmentExtensive expertise with Amazon RedshiftStrong background in ETL-based data integrationComprehensive experience in data warehousingNice to Have Skills:Hands-on experience with Hadoop-to-Redshift migrationsIndustry experience in the cable or telecommunications sector",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:08:37-05:00",
+        "unique_id": "192c459609a8b843",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

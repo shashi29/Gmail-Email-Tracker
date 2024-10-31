@@ -1,0 +1,74 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": "Java Developer",
+        "location": "Waltham, MA, USA",
+        "full_location": {
+            "city": "Waltham",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spring Boot Microservices",
+                "Spring/Core Java/J2EE",
+                "Junit",
+                "DB Concepts",
+                "Application Server",
+                "Deployment Tools/Container Env",
+                "Design/Documentation Skills",
+                "JSON/XML"
+            ],
+            "primary": [
+                "GraphQL",
+                "Onsite/Offshore Team Coordination skills",
+                "Agile SDLC",
+                "Jira"
+            ],
+            "secondary": [
+                "Very good problem-solving skills"
+            ],
+            "all": [
+                "Spring Boot Microservices",
+                "Spring/Core Java/J2EE",
+                "Junit",
+                "DB Concepts",
+                "Application Server",
+                "Deployment Tools/Container Env",
+                "Design/Documentation Skills",
+                "JSON/XML",
+                "GraphQL",
+                "Onsite/Offshore Team Coordination skills",
+                "Agile SDLC",
+                "Jira",
+                "Very good problem-solving skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen Kumar",
+        "email": "naveen.t@itechus.net",
+        "jd": "From: Naveen Kumar, iTechUS naveen.t@itechus.net Reply to: naveen.t@itechus.net Hi,My name is Naveen Kumar, and I represent iTech US Inc. iTech is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have job opening for the below role. Role: Java DeveloperLocation: Waltham, MA (Only Locals)Duration: ContractExperience: 10+ yearsC2C: Yes, Only H1B Role Description:Responsibilities:Design and implement enterprise level microservices using the spring boot framework.Analyzing and assessing user issues and working with other team members to perform systems review and problem solving in a timely and accurate fashion.Working in a fast-paced and team-oriented environment.- onsite- offshore coordination- guide the offshore team and review workImplementing unit test coverage.Identifying and resolving bugs.Ensuring the design criteria are satisfied.Producing well-written documentation for each microservice.Disseminating and sharing knowledge.Creating and deploying microservices using the Spring Boot framework.Adhering to the whole Software Development Life Cycle.Interconnecting microservices with databases.Utilizing Event Driven Design (i.e., Kafka).Create solutions that are high-quality, scalable, and maintainable, with an emphasis on backend systems and related technologiesCarry out unit and integration testsInterconnecting microservices with databasesDemonstrate strong design and programming skills using JSON, Web Services, XML, XSLT, PL/SQL in Unix and Windows environments.Qualifications:Spring Boot Microservices 5-10 yrsSpring/Core Java/J2EE 5-10 yrsJunit (or any other Unit testing framework) 5-10 yrsDB Concepts (RDBMS and/or NoSQL) 3-5 yrsApplication Server(Tomcat, WAS, etc.) 3+ yrsDeployment Tools/ Container Env ? (Kubernetes, Docker, Rancher, etc.) 3+ yrsDesign/Documentation Skills 3-5 yrsGood understanding of JSON/XML 3-5 yrsGraphQL 1-5 yearsOnsite/Offshore Team Coordination skills 2+ yrsWorking experience on Agile SDLC and Jira (Or similar tool) 2+ yrsVery good problem-solving skills Thanks & RegardsNaveen KumariTechUS, Inc",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:32:50-05:00",
+        "unique_id": "192c4704f0c0c747",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

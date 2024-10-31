@@ -1,0 +1,50 @@
+[
+    {
+        "company": "megatrendz",
+        "job_title": "GCP Architect and Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python"
+            ],
+            "primary": [
+                "JSON"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "JSON"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "gaurav",
+        "email": "gaurav@megatrendz.com",
+        "jd": "From: gaurav, megatrendz gaurav@megatrendz.com Reply to: gaurav@megatrendz.com Role: GCP Architect and Developer Duration: LOng term Location: Remote Skills: Python JSON",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:04:56-05:00",
+        "unique_id": "19290ec301ce267d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

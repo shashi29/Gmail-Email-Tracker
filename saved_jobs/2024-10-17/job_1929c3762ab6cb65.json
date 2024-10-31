@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Resource Logistics, Inc.",
+        "job_title": "Data Architect",
+        "location": "El Segundo, CA, USA",
+        "full_location": {
+            "city": "El Segundo",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Big Query",
+                "Google Cloud Platform",
+                "Python",
+                "PySpark",
+                "Airflow"
+            ],
+            "primary": [
+                "Data Engineering",
+                "Big Data technologies",
+                "SQL",
+                "NoSQL",
+                "DBT"
+            ],
+            "secondary": [
+                "Data Integration",
+                "Data Transformation",
+                "Data Quality",
+                "Data Lineage",
+                "Dev-Sec-Ops",
+                "CICD",
+                "ETL",
+                "ELT",
+                "Data visualization"
+            ],
+            "all": [
+                "Google Big Query",
+                "Google Cloud Platform",
+                "Python",
+                "PySpark",
+                "Airflow",
+                "Data Engineering",
+                "Big Data technologies",
+                "SQL",
+                "NoSQL",
+                "DBT",
+                "Data Integration",
+                "Data Transformation",
+                "Data Quality",
+                "Data Lineage",
+                "Dev-Sec-Ops",
+                "CICD",
+                "ETL",
+                "ELT",
+                "Data visualization"
+            ],
+            "with_experience": [
+                "Google Big Query",
+                "Python",
+                "Airflow"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vipul Dubey",
+        "email": "vipul.dubey@resource-logistics.com",
+        "jd": "From: Vipul dubey, Resource logistics vipul.dubey@resource-logistics.com Reply to: vipul.dubey@resource-logistics.com LOCAL ONLY CA Job Title: Data ArchitectLocation: El Segundo, CA (Onsite role from day 1, need local profiles) Job Description:Has worked in the past as an Architect. Professional experience in Data Engineering using Google Big Query (GBQ) and Google Cloud Platform (GCP) data sets and building data pipelines. Hands on and deep experience working with Google Data Products (e.g. BigQuery, Dataflow, Dataproc, Dataprep, Cloud Composer, Airflow, DAG etc.). Python Programming Expert PySpark, PandasExperience in Airflow (Create DAG, Configure the variables in Airflow, Scheduling) Big Data technologies and solutions (Spark, Hadoop, Hive, MapReduce) and multiple scripting and languages (YAML, Python). Experience in DBT to create the lineage in GCP. \u2013 Optional Worked in Dev-Sec-Ops (CICD) environment.Design and develop the ETL ELT framework using BigQuery, Expertise in Big Query concepts like Nested Queries, Clustering, Partitioning, etc.Experience in Data Integration, Data Transformation, Data Quality and Data Lineage tools. Should be able to automate the data load from Big Query using APIs or scripting language.E2E Data Engineering and Lifecycle (including non-functional requirements and operations) management. E2E Solution Design skills \u2013 Prototyping, Usability testing and data visualization literacy. Experience with SQL and NoSQL modern data stores.",
+        "source": "Email",
+        "date_posted": "2024-10-17 15:06:38-05:00",
+        "unique_id": "1929c3762ab6cb65",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "company": "Kroger",
+        "job_title": "Java Back End",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java"
+            ],
+            "primary": [
+                "Kafka",
+                "Azure"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Kafka",
+                "Azure"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "pavankumar",
+        "email": "pavankumar@jupitertechnologies.net",
+        "jd": "From: pavankumar, jupitertechnologies pavankumar@jupitertechnologies.net Reply to: pavankumar@jupitertechnologies.net Role: Java Back EndSkills : Java, Kafka, AzureLocation : NC/GA (Relocation is Fine)Need 10+years experienceClient : KrogerNote : Please share purely backend Profiles Only.Please share resumes to pavankumar@jupitertechnologies.net",
+        "source": "Email",
+        "date_posted": "2024-10-28 13:35:57-05:00",
+        "unique_id": "192d489db95ac688",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

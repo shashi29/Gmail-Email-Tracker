@@ -1,0 +1,75 @@
+[
+    {
+        "company": "G & S Tachyon, Inc.",
+        "job_title": "Senior .Net Developer",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "70125004",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET 4.8 framework",
+                "ASP.NET",
+                "C#",
+                "Visual Studio",
+                "Oracle (PL/SQL, Stored Procedures, Database Management, Performance Tuning)"
+            ],
+            "primary": [
+                "SCRUM/Agile methodologies",
+                "DevOps practices including CI/CD pipelines, automation, and deployment processes",
+                "Hibernate and Entity Framework for Object-Relational Mapping (ORM)",
+                "Crystal Reports for generating and maintaining reports in financial systems",
+                "Bitbucket for version control",
+                "Communication Skills",
+                "Technical Documentation",
+                "Familiarity with Project-Specific Tools such as JIRA, TEMPO, Bitbucket, Confluence"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET 4.8 framework",
+                "ASP.NET",
+                "C#",
+                "Visual Studio",
+                "Oracle (PL/SQL, Stored Procedures, Database Management, Performance Tuning)",
+                "SCRUM/Agile methodologies",
+                "DevOps practices including CI/CD pipelines, automation, and deployment processes",
+                "Hibernate and Entity Framework for Object-Relational Mapping (ORM)",
+                "Crystal Reports for generating and maintaining reports in financial systems",
+                "Bitbucket for version control",
+                "Communication Skills",
+                "Technical Documentation",
+                "Familiarity with Project-Specific Tools such as JIRA, TEMPO, Bitbucket, Confluence"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Aliya",
+        "email": "aliya@gstachyon.com",
+        "jd": "From: Aliya, G & S Tachyon, Inc. aliya@gstachyon.com Reply to: aliya@gstachyon.com Senior .Net DeveloperLocation: Austin TexasClient : Texas Education Agency (TEA)Job ID : 70125004NOTE : Position Will be Remote in TexasNOTE : Candidates Must Previously Worked with Texas Education Agency (TEA) or Any Other State Department of Education Client is Must JD :Software Development Life CycleSCRUM/Agile methodologiesDevOps practices including CI/CD pipelines, automation, and deployment processes.NET 4.8 framework, ASP.NET, C#, Visual StudioHibernate and Entity Framework for Object-Relational Mapping (ORM)Oracle (PL/SQL, Stored Procedures, Database Management, Performance Tuning)Crystal Reports for generating and maintaining reports in financial systemsBitbucket for version controlCommunication SkillsTechnical DocumentationFamiliarity with Project-Specific Tools such as JIRA, TEMPO, Bitbucket, Confluence etc.",
+        "source": "Email",
+        "date_posted": "2024-10-21 09:44:32-05:00",
+        "unique_id": "192afaefddb654d0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

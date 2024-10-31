@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Stellar Consulting Solutions LLC",
+        "job_title": "SQL Data base Administrator",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in computer or information sciences or similar field preferred",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "$40/hr on C2C"
+        },
+        "skills": {
+            "core": [
+                "Microsoft SQL Server",
+                "T-SQL programming",
+                "Database Design",
+                "SQL Statement Tuning"
+            ],
+            "primary": [
+                "Integration Services",
+                "Reporting Services",
+                "Analysis Services",
+                "Cloud Database Services",
+                "AWS",
+                "Azure",
+                "PowerShell",
+                "Python"
+            ],
+            "secondary": [
+                "Oracle",
+                "MySQL",
+                "PostgreSQL",
+                "Datadog",
+                "Terraform"
+            ],
+            "all": [
+                "Microsoft SQL Server",
+                "T-SQL programming",
+                "Database Design",
+                "SQL Statement Tuning",
+                "Integration Services",
+                "Reporting Services",
+                "Analysis Services",
+                "Cloud Database Services",
+                "AWS",
+                "Azure",
+                "PowerShell",
+                "Python",
+                "Oracle",
+                "MySQL",
+                "PostgreSQL",
+                "Datadog",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Krishna Singh",
+        "email": "krishna.singh@stellarconsulting.com",
+        "jd": "From: Krishna Singh, Stellar Consulting Solutions LLC krishna.singh@stellarconsulting.com Reply to: krishna.singh@stellarconsulting.com Hello, Hope you are doing good. This is Krishna Singh from Stellar Consulting Solutions. We have an excellent long term contractual, please let me know if you are interested with the below requirement and share the updated resume. Job Title: SQL Data base AdministratorLocation: Chicago, Illinois or Atlanta, GeorgiaRate: $40/hr on C2C Responsibilities:You are good at managing and operating Microsoft SQL Server database instances; optimizingconfiguration settings, performing database backups & restores, developing and running optimization tasks, composing automation scripts for repetitive tasks, etc.You have experience with the most recent releases of SQL Server including the related products of Integration Services, Reporting Services, and Analysis Services. You have excellent communication skills, work well in a team, and are dedicated to providing outstanding customer service.Able to work independently with minimal supervisionIndividually execute and deliver on day-to-day activitiesPerform research of viable technical and/or non-technical solutionsShare knowledge with the TeamLeverage internal networks in role and viewed by stakeholders as skilled specialist. Qualifications we seek in you: Minimum Qualifications / Skills Bachelor's degree in computer or information sciences or similar field preferredYou bring to us experience in managing SQL Server databases, T-SQL programming, knowledge of third form normalization design principals and indexing best practices. We would welcome experience in Oracle and/or other DBMSs to help support RtB Preferred Qualifications/ Skills Solid MS SQL Server DBA experience (SQL 2012-2019Strong Database Design skillsExpertise in SQL Statement TuningExperience with native transactional Data ReplicationExperience in configuring Always-On Availability Groups (incl. Windows Clustering)Experience with deploying and managing Cloud Database Services (AWS/Azure preferred) like AWS DynamoDB, AWS RDS, Azure SQL, Azure Cosmos DBExperience with Cloud automation deployment (e.g., Terraform for SQL RDS)Good understanding of networking concepts in cloud (VPCs, Subnets, Security Groups, etc)Strong T-SQL Programming capabilitiesPowerShell and/ or Python scripting capabilitiesFamiliarity with Oracle Database technology (versions 11g, 12c, 18c, and 19c) a plusFamiliarity with Datadog as a monitoring and analytics toolFamiliarity with MySQL and PostgreSQL a plusMaintain database securityMaintain Server and DB AuditingExcellent troubleshooting and problem-solving abilities Krishna SinghTechnical Recruiter at Stellar Consulting Solutions, LLC Phone: +1 (678) 661 3750Email: krishna.singh@stellarconsulting.comLinkedIn: https://www.linkedin.com/in/krishnaitrecruiter/",
+        "source": "Email",
+        "date_posted": "2024-10-16 08:09:07-05:00",
+        "unique_id": "1929592d5c4193bf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

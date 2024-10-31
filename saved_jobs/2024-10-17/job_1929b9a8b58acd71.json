@@ -1,0 +1,81 @@
+[
+    {
+        "company": "KPG99 Inc",
+        "job_title": "DATA ENGINEER",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Collibra Data Quality (DQ)",
+                "Google Cloud",
+                "Python",
+                "Spark",
+                "BigQuery"
+            ],
+            "primary": [
+                "Google Data Flow",
+                "Data Proc",
+                "Composer",
+                "Pub/Sub",
+                "GCS",
+                "Cloud function"
+            ],
+            "secondary": [
+                "SQL",
+                "Stored Procedures",
+                "GitHub",
+                "Jenkins",
+                "Unix/Linux shell scripts"
+            ],
+            "all": [
+                "Collibra Data Quality (DQ)",
+                "Google Cloud",
+                "Python",
+                "Spark",
+                "BigQuery",
+                "Google Data Flow",
+                "Data Proc",
+                "Composer",
+                "Pub/Sub",
+                "GCS",
+                "Cloud function",
+                "SQL",
+                "Stored Procedures",
+                "GitHub",
+                "Jenkins",
+                "Unix/Linux shell scripts"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Jyoti Mittal",
+        "email": "jyotim@kpgtech.com",
+        "jd": "From: Jyoti Mittal, KPG99 Inc jyotim@kpgtech.com Reply to: jyotim@kpgtech.com Hi,My name is Jyoti and I represent KPG99 INC. We work with clients across the USA. I have a very urgent role. If interested then please share with me your updated resume along with below information. NEED INDEPENDENT OR W2 CANDIDATE POSITIONData EngineerLOCATIONRemoteDURATIONLong TermINTERVIEW TYPEVideoVISA USCREQUIRED SKILLS2 absolute must-haves are recent experience in Collibra Data Quality (DQ) and Google Cloud. JD below. Will move quick \ud83d\ude0a POSITION SUMMARY:The GCP Data Engineer is responsible for Analysis, Design, Development, Testing and Deployment support for new framework, enhance existing framework that enables the data platform data pipelines. This position is required to perform independently in a highly dynamic and fast paced environment. The person will work alongside Architects, engineers, analysts and PMs to deliver scalable robust innovative technical solutions. This position plays a key role in building real-time and batch data ingestion, egress frameworks, streaming analytics framework and support AI platform. The person must have similar experience in a prior job. RESPONSIBILITIESBuild frameworks for large-scale data processing evaluating appropriate emerging technologies, and approaches that will power data-driven capabilities across the Enterprise.Develops data solutions on Google Cloud Platform leveraging Google Data Flow, Data Proc, Composer, Pub/Sub, BigQuery, GCS, Cloud function, define workflows, scheduled and event driven workloads to ingest data from internal/external partners, data distribution channels, etc. Build features using Python in Spark, leveraging GCP\u2019s Spark Engine (Dataproc), SQL/GSQL on Google BQ.Build and maintain scalable data pipelines to handle high-volume data (e.g., 150 million rows).Collaborate with cross-functional technologists across the organization to gather requirements, solve new problems and deliver quality results.Coordinate with offshore engineers to get projects/tasks completed. Develops and executes test plans to validate the implementation and performance of frameworks and recommend performance improvements.Supports the operations of the deployed solutions, investigates complex issues and assists with the resolution and implementation of preventive measures.REQUIREMENTS FOR CONSIDERATION: Bachelor\u2019s degree in Computer Science, Engineering, or a related field.8+ years of experience in data engineering, with a focus on GCP technologies.Proficiency in Google Cloud Platform leveraging Google Data Flow, Data Proc, Composer, Pub/Sub, BigQuery, GCS, Cloud function, define workflows, scheduled and event driven workloads processing. Hands-on experience and solid knowledge in building and maintaining end-to-end data pipelines using Python and Spark (GCP Dataproc) or any other GCP servicesStrong experience with BigQuery including SQL and Stored Procedures.Experience with high-volume data processing (GB-level).Previous experience working in a similar role with GCP Services is a must.Experience in data quality, continuous integrations build and deployment processes using GitHub, Jenkins and Unix/Linux shell scripts.Proactive and able to catch issues before failures.Possess a strong work ethic; takes pride in producing a quality product and a strong team playerWork with production support and project consultants in an onshore / offshore modelSupport off-hours platform issues and code deployments as needed Thanks & Regards,Jyoti Mittal| Technical Recruiter | KPG99,INC jyotim@kpgtech.com | http://www.kpg99.com/3240 E State St EXT, Hamilton, NJ 08619An E- Verified Company Certified Minority Owned BusinessNote: KPG99 does not endorse undesired email. If you do not want to receive our mails, please reply with",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:15:20-05:00",
+        "unique_id": "1929b9a8b58acd71",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Steneral Consulting Inc.",
+        "job_title": "Java Full stack Developer",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor's degree in computer science engineering or a related discipline, or equivalent work experience required",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular 18",
+                "CSS/SCSS",
+                "Spring",
+                "Spring Boot",
+                "Spring Security",
+                "Spring Data JPA",
+                "Spring REST",
+                "Spring MVC",
+                "Spring Batch",
+                "Hibernate"
+            ],
+            "primary": [
+                "GIT",
+                "CICD",
+                "Webservices",
+                "REST",
+                "SOAP",
+                "Swagger"
+            ],
+            "secondary": [
+                "Agile Methodology",
+                "cross-platform interoperability"
+            ],
+            "all": [
+                "Angular 18",
+                "CSS/SCSS",
+                "Spring",
+                "Spring Boot",
+                "Spring Security",
+                "Spring Data JPA",
+                "Spring REST",
+                "Spring MVC",
+                "Spring Batch",
+                "Hibernate",
+                "GIT",
+                "CICD",
+                "Webservices",
+                "REST",
+                "SOAP",
+                "Swagger",
+                "Agile Methodology",
+                "cross-platform interoperability"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Anshu Chaudhary",
+        "email": "anshu@steneral.com",
+        "jd": "Java Full stack Developer Hybrid in Pittsburgh and contract to hire 12 months GC/USC Only Need someone with local DLLocals Developer provides application software development services or technical support in situations of moderate complexity. May also be responsible for requirements gathering and BRD/SRD preparation. Has thorough knowledge of the Software Development Life Cycle. Conducts reviews of the test Plan and test Data. Writes new programs of moderate complexity and scope, working with basic application system designs and specifications, utilizing BNY Mellon's standard development methodology, procedures and techniques. Designs and codes programs, and creates test transactions and runs tests to find errors and revise programs. Prepares the final and detailed versions of system modification requirements, ensures turnovers are done on time and correctly. Interfaces with architects to design, code, test and implement application programs. Conducts analysis of organizational needs and goals for the development and implementation of application systems. Proposes innovative, creative technology solutions. Contributes to the achievement of related teams' objectives. Bachelor's degree in computer science engineering or similar Required Skills/Experience: Experience in software development required; should have thorough knowledge of the software development cycle. Experience designing and developing standard User Interfaces with Angular 18. Job holder must be knowledgeable about cross-platform interoperability (multiple platforms i.e. NT, Intranet, etc.), major tools in a toolkit for a specific platform and features of multiple toolkits. Experience working in a team run by the Agile Methodology. Education Requirement: Bachelor's degree in computer science engineering or a related discipline, or equivalent work experience required Software Skills Required (if applicable): - 5+ years of experience in Angular Development (Angular 18) - Experienced in CSS/SCSS - Basic use of Spring, Spring Boot, Spring Security, Spring Data JPA, Spring REST, Spring MVC, Spring Batch, Hibernate - GIT CICD - Webservices, REST, SOAP, Swagger - Required Certifications (if applicable):",
+        "source": "Email",
+        "date_posted": "2024-10-18 15:16:42-05:00",
+        "unique_id": "192a1f1d1849fcbf",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "company": "Georgia Department of Human Services (DHS)",
+        "job_title": "Senior Java developer (Only Locals)",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "749887",
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Microservices Architecture",
+                "RESTful Web Services",
+                "Database Management"
+            ],
+            "primary": [
+                "Java 17+",
+                "Node 16+",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "Java Server Pages",
+                "CI/CD: GitHub Actions",
+                "Key Cloak Integration",
+                "Scripting Languages",
+                "Security & Identity Management"
+            ],
+            "secondary": [
+                "Agile Methodologies",
+                "JUnit",
+                "TestNG",
+                "Mockito",
+                "GitHub",
+                "Maven",
+                "NPM",
+                "Amazon Web Services",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular 17+",
+                "IntelliJ",
+                "Eclipse",
+                "Teradata Retail Data Model (RDM)"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Microservices Architecture",
+                "RESTful Web Services",
+                "Database Management",
+                "Java 17+",
+                "Node 16+",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "Java Server Pages",
+                "CI/CD: GitHub Actions",
+                "Key Cloak Integration",
+                "Scripting Languages",
+                "Security & Identity Management",
+                "Agile Methodologies",
+                "JUnit",
+                "TestNG",
+                "Mockito",
+                "GitHub",
+                "Maven",
+                "NPM",
+                "Amazon Web Services",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular 17+",
+                "IntelliJ",
+                "Eclipse",
+                "Teradata Retail Data Model (RDM)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Harsh Tiwari",
+        "email": "harsh.tiwari@technocraftsol.com",
+        "jd": "From: Harsh Tiwari, Technocraft solutions harsh.tiwari@technocraftsol.com Reply to: harsh.tiwari@technocraftsol.com Job Title: Senior Java developer (Only Locals)Job ID: 749887 (Hybrid)Location: Atlanta, GA (DHS) GA Local Candidate Duration: 7+ Months NOTE***HYBRID work option: However, the selected candidate must be available to report onsite as directed by the client. Do you accept this requirement? Skills:Experience in Java and modern technologies. Required 7 YearsJava (Java 17+) features such as records, sealed classes, switch expressions, pattern matching, and enhanced performance improvements. Highly desired 1 YearsNode 16+ Highly desired 1 YearsServiceNow, Splunk, Dynatrace Highly desired 1 YearsSpring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Batch) Highly desired 1 YearsMicroservices Architecture (Designing, developing, and deploying microservices) Highly desired 1 YearsJava Server Pages (creating dynamic web pages and integrating with back-end logic) Highly desired 1 YearsDatabase Management (PostgreSQL, Oracle and experience with ORM tools like Hibernate) Highly desired 1 YearsRESTful Web Services (API development, consumption, and integration) Highly desired 1 YearsCI/CD: GitHub Actions Highly desired 1 YearsKey Cloak Integration: Integrate Key Cloak with Java-based applications and services for API authentication Highly desired 1 YearsScripting Languages: Proficiency in one or more scripting languages, such as Bash, or PowerShell, Python Highly desired 1 YearsSecurity & Identity Management: Experience with OAuth 2.0, JWT tokens, and SAML/SSO integration for authentication and authorization Highly desired 1 Years Description:The Georgia Department of Human Services (DHS), Office of Information Technology, is seeking a qualified candidate for a contractor staffing position for a Senior Software Developer on Georgia\u2019s Child Welfare technical team in Atlanta, Georgia. Job Responsibilities\u00b7Develop and maintain Java-based applications using core Java and advanced Java (Java 17).\u00b7Design and implement microservices using Spring Boot and other relevant frameworks.\u00b7Build and consume RESTful APIs and web services.\u00b7Integrate with databases, ensuring performance optimization (e.g., SQL databases like PostgreSQL, Oracle).\u00b7Write unit and integration tests using JUnit, TestNG, Mockito, or other testing frameworks.\u00b7Develop SQL queries and analyze data to support application development and production issues.\u00b7Implement object-oriented design principles and patterns for scalable and maintainable codebases.\u00b7Ensure adherence to clean code principles and write reusable, modular code.\u00b7Troubleshoot and debug Java applications, ensuring optimal performance and security.\u00b7Participate in code reviews and provide constructive feedback to peers.\u00b7Follow Agile methodologies (Scrum) and participate in sprints, daily stand-ups.\u00b7Use version control systems like GitHub for source code management.\u00b7Implement and manage CI/CD pipelines using GitHub Actions.\u00b7Collaborate with DevOps teams for cloud deployment and infrastructure management (AWS).\u00b7Design, configure, and implement Spring Batch jobs for processing large datasets and scheduling tasks.\u00b7Implement dynamic web pages and views using JSP (Java Server Pages).\u00b7Design and implement authentication and authorization mechanisms using Key Cloak for identity and access management, ensuring secure communication through OAuth2.0 and JWT tokens.\u00b7Leverage SAML/SSO integration for single sign-on and authentication.",
+        "source": "Email",
+        "date_posted": "2024-10-24 17:18:14-05:00",
+        "unique_id": "192c13fc340893ec",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

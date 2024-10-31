@@ -1,0 +1,71 @@
+[
+    {
+        "company": "TEK Inspirations",
+        "job_title": "Sr. DBA",
+        "location": "Trenton, NJ, USA",
+        "full_location": {
+            "city": "Trenton",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "9+ month contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ETL",
+                "MS SQL Server",
+                "Oracle",
+                "scripting",
+                "data lake systems"
+            ],
+            "primary": [
+                "cloud platforms",
+                "Azure",
+                "data migration",
+                "DB Troubleshooting",
+                "performance tuning"
+            ],
+            "secondary": [],
+            "all": [
+                "ETL",
+                "MS SQL Server",
+                "Oracle",
+                "scripting",
+                "data lake systems",
+                "cloud platforms",
+                "Azure",
+                "data migration",
+                "DB Troubleshooting",
+                "performance tuning"
+            ],
+            "with_experience": [
+                "MS SQL Server (7 years)",
+                "DB Troubleshooting (7 years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vaibhav Raghuvanshi",
+        "email": "vaibhav.raghuvanshi@tekinspirations.com",
+        "jd": "From: Vaibhav Raghuvanshi, TEK Inspirations vaibhav.raghuvanshi@tekinspirations.com Reply to: vaibhav.raghuvanshi@tekinspirations.com Hi,Hope you are doing great!!!Please share suitable profile and mention JOB LinkedIn Mandatory, Locals only so submit candidates who are ready for onsite interview.Job Title: Sr. DBALocation: Trenton, NJ - Hybrid (3 days onsite/wk. \u2013 Local candidates only)Duration: 9+ month contractExp: 8+ including what is mentioned in JDPosition OverviewWe are looking for a Sr. Database Administrator to maintain, enhance, design, and administer data dictionaries, as well as physical and logical database models.Ability to design and develop secure data lake systems, migrate data on MS SQL platforms, understand and interpret Oracle scripts, build scalable and secure systems. Understanding of legacy architecture, system dependencies and data relationships is key Must-Have's:Strong experience with ETL and migrations, predominantly with MS SQL Server and some Oracle backgroundTeam Lead experienceFamiliarity with cloud platforms, particularly Azure and data migration, on-prem to cloudVery strong scripting skillsAbility to design and develop secure data lake systems, migrate data on MS SQL platforms, understand and interpret Oracle scripts, build scalable and secure systems7 years with SQL Server 2016 and above7 years DB Troubleshooting, performance and tuningResponsibilities:Maintains, enhances, designs, and administers data dictionaries, as well as physical and logical database modelsCollaborate with different teams both inside and outside of the department to understand and assimilate dataDesign and develop secure data lake systems, migrate data on MS SQL platforms, understand and interpret Oracle scripts, build scalable and secure systemsRegards,Vaibhav",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:51:13-05:00",
+        "unique_id": "192bb2e8c025d0b2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

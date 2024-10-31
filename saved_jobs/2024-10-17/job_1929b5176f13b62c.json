@@ -1,0 +1,88 @@
+[
+    {
+        "company": "Intelligenz IT",
+        "job_title": "Data Infrastructure & Governance Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Minimum 10 years",
+            "degree_required": "BE/Btech",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Infrastructure Architect",
+                "AWS",
+                "Infrastructure as Code",
+                "Data Governance",
+                "Data Security"
+            ],
+            "primary": [
+                "DBT",
+                "Airflow",
+                "S3",
+                "Athena",
+                "Glue",
+                "RDS",
+                "Terraform",
+                "GitHub"
+            ],
+            "secondary": [
+                "Good communication skills",
+                "Team bonding and collaboration",
+                "Good attitude"
+            ],
+            "all": [
+                "Data Infrastructure Architect",
+                "AWS",
+                "Infrastructure as Code",
+                "Data Governance",
+                "Data Security",
+                "DBT",
+                "Airflow",
+                "S3",
+                "Athena",
+                "Glue",
+                "RDS",
+                "Terraform",
+                "GitHub",
+                "Good communication skills",
+                "Team bonding and collaboration",
+                "Good attitude"
+            ],
+            "with_experience": [
+                "Data Infrastructure Architect (5+ years)",
+                "AWS (10+ years)",
+                "Infrastructure as Code (10+ years)",
+                "Data Governance (hands-on experience)",
+                "Data Security (hands-on experience)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Mohit Jaiswal",
+        "email": "mohit.jaiswal@intelligenzit.com",
+        "jd": "From: Mohit Jaiswal, Intelligenz IT mohit.jaiswal@intelligenzit.com Reply to: mohit.jaiswal@intelligenzit.com Hi,I hope you and your family are doing well.I have a good position for you with my client. This point of time I don't know whether you are looking for a new job or not. But just thought if I can share the details and then confirm from you about your interest level for the opportunity. If you are interested and an available consultant, send me your most updated resumes in word format and contact details.Job Title: Data Infrastructure & Governance ArchitectLocation: 100% Remote Work Duration: Long term contractEducational Qualification*BE/BtechJD/Description of Role*Develop Architecture, high-level design for enhancing cloud data platform capabilities in the areas like Machine Learning, Data Lifecycle Management with focus on Data Archival, Data Governance utilities & best practices.Develop prototypes for new & complex use cases in data engineering using tools like DBT, Airflow, S3, Athena, Glue, RDS by leveraging engineering best practices like Infrastructure as Code, SQL as code.Work with data engineering teams to identify opportunities for improving developer efficiency, implementing data security & data quality measures.Work with data governance teams across various functions to define data security policies, data governance processes and utilities.Continuously refine data lake architecture on AWS for cost efficiency, enhanced security, user experience, resiliency, and alignment with industry best practicesPrimary (Must have skills)*Total IT 15 YearsMinimum 5 years of experience as Data Infrastructure architect with AWS tech stackMinimum 10 years of experience in data infrastructure, AWS infrastructure as code, data integration with programmingWorked on Data Governance and Data Security related projects with hands-on experience.Worked on Infrastructure as code tools such as Terraform, Used GitHub tool as infra pipeline and for CI/CDExperience in building custom applications, search portals, monitoring & observability solutions using AWS Cloud native technology stack.Knowledge of Data Mesh/ Data Fabric with exposure to various architecture frameworksSecondary Skills (Good To have)* Soft skills/other skills (If any) Good communication skillsTeam bonding and collaborationGood attitudeRegards,Mohit JaiswalIntelligenz ITWork : 646-502-7441",
+        "source": "Email",
+        "date_posted": "2024-10-17 10:55:30-05:00",
+        "unique_id": "1929b5176f13b62c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

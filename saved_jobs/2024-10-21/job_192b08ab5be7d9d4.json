@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Yochana IT",
+        "job_title": "Senior Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "Databricks",
+                "pyspark",
+                "AWS"
+            ],
+            "primary": [
+                "Terraform",
+                "GitLab CICD",
+                "Query tuning",
+                "performance optimization",
+                "data warehousing",
+                "Snowflake",
+                "Spark SQL"
+            ],
+            "secondary": [
+                "cloud-based data services",
+                "healthcare clients",
+                "FHIR"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Databricks",
+                "pyspark",
+                "AWS",
+                "Terraform",
+                "GitLab CICD",
+                "Query tuning",
+                "performance optimization",
+                "data warehousing",
+                "Snowflake",
+                "Spark SQL",
+                "cloud-based data services",
+                "healthcare clients",
+                "FHIR"
+            ],
+            "with_experience": [
+                "Python (12+ years)",
+                "SQL (12+ years)",
+                "Databricks (12+ years)",
+                "pyspark (12+ years)",
+                "AWS (12+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Yochana Vijay",
+        "email": "vijay@yochana.com",
+        "jd": "From: Vijay, Yochana IT vijay@yochana.com Reply to: vijay@yochana.com Senior Data Engineer Remote Job Description : We are currently seeking for a Senior Data Engineer with Minimum of 12 years of experience Proficient with Python and SQLBuild and manage efficient ETL pipelines using Databricks workflows or other orchestration frameworkFamiliarity with both structured and semi[1]structured data and ingesting and processing this data using pysparkFundamental AWS services (S3, SQS) or similar services for other cloudsTerraform and GitLab CICD \u2022 Query tuning and performance optimization in SQL and/or SparkSQLFamiliarity with data warehousing (snowflake or similar)Spark SQL \u2022 AWS, Databricks, SnowflakeExperience working for a cloud-based data services provider to large healthcare clients.FHIR experienceAdditional information:Work with clients & implementation team and understand the data distribution requirements \u2022 Perform data analysis and data mapping required to produce client output. \u2022 Build the data distribution extracts and scripts \u2022 Optimize the performance of the data extract script Thank youVIjay@yochana.com",
+        "source": "Email",
+        "date_posted": "2024-10-21 13:49:27-05:00",
+        "unique_id": "192b08ab5be7d9d4",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "company": "United Airlines",
+        "job_title": "Scrum Master",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Scrum",
+                ".NET",
+                "Agile methodology"
+            ],
+            "primary": [
+                "Jira",
+                "Azure DevOps",
+                "Kanban"
+            ],
+            "secondary": [
+                "Excellent communication",
+                "Problem-solving",
+                "Certified ScrumMaster (CSM)",
+                "Professional Scrum Master (PSM)"
+            ],
+            "all": [
+                "Scrum",
+                ".NET",
+                "Agile methodology",
+                "Jira",
+                "Azure DevOps",
+                "Kanban",
+                "Excellent communication",
+                "Problem-solving",
+                "Certified ScrumMaster (CSM)",
+                "Professional Scrum Master (PSM)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "santhosh",
+        "email": "santhosh@whiztekcorp.com",
+        "jd": "From: santhosh, Whiztek Corp santhosh@whiztekcorp.com Reply to: santhosh@whiztekcorp.com Job Title: Scrum MasterClient Name: United AirlinesLocation: Houston, TXWork Mode: Hybrid - 2 days/week Note: Local to Houston, TX only Job Overview:We are looking for a Senior Scrum Master with 10+ years of experience, specializing in .NET applications, to join our team in Houston, TX. In this hybrid role (2 days onsite), you\u2019ll drive Agile practices, ensure smooth delivery, and collaborate closely with development teams to enhance .NET solutions. Key Responsibilities:Lead Scrum ceremonies and Agile processesFacilitate collaboration between product, development, and stakeholdersTrack progress, manage risks, and remove blockersDrive continuous improvement and Agile best practices Qualifications:10+ years of experience as a Scrum Master, ideally with .NET teamsStrong Agile methodology knowledge (Scrum, Kanban)Proficient in Agile tools (Jira, Azure DevOps)Excellent communication and problem-solving skillsCertified ScrumMaster (CSM) or Professional Scrum Master (PSM) preferred",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:37:11-05:00",
+        "unique_id": "192b9f4980aa14ff",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Scrum Master"
+    }
+]

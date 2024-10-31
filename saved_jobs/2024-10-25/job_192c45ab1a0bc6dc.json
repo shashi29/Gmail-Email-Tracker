@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": ".Net developer",
+        "location": "Yulan, NY, USA",
+        "full_location": {
+            "city": "Yulan",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Computer Science, Software Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET technologies",
+                "ASP.NET",
+                "C#",
+                ".NET Core",
+                "HTML5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "primary": [
+                "UI/UX development",
+                "RESTful APIs",
+                "Bootstrap",
+                "jQuery",
+                "Git",
+                "agile development methodologies"
+            ],
+            "secondary": [
+                "Miro",
+                "Sketch",
+                "InVision",
+                "wireframes",
+                "user flows",
+                "customer journeys",
+                "problem-solving",
+                "communication skills",
+                "attention to detail"
+            ],
+            "all": [
+                ".NET technologies",
+                "ASP.NET",
+                "C#",
+                ".NET Core",
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "UI/UX development",
+                "RESTful APIs",
+                "Bootstrap",
+                "jQuery",
+                "Git",
+                "agile development methodologies",
+                "Miro",
+                "Sketch",
+                "InVision",
+                "wireframes",
+                "user flows",
+                "customer journeys",
+                "problem-solving",
+                "communication skills",
+                "attention to detail"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vishnu",
+        "email": "vishnu.m@siriinfo.com",
+        "jd": "Hello Guys,Hope you are doing Good, Below are the Positions which i have on priority Basis.If you have any suitable resumes, Kindly share resumes to Vishnu.m@siriinfo.com.Net developerLocation: Yulan, NYHire Type: ContractBachelors degree in Computer Science, Software Engineering, or a related field? Proven experience in UI/UX development with a strong portfolio showcasing successful projectsHigh degree of proficiency in .NET technologies and frameworks (such as ASP.NET, C#, .NET Core)? Expertise in Web standards (with and without frameworks) (versions 2 and above), HTML5, CSS3, and JavaScriptExperience with front-end libraries and tools (e.g., Bootstrap, jQuery)Knowledge of RESTful APIs and integration with back-end servicesFamiliarity with version control systems (e.g., Git) and agile development methodologies? UI Design PortfolioProficient in prototyping tools such as Miro, Sketch, or InVisionExperience creating wireframes, user flows, customer journeys, and other UX deliverablesStrong problem-solving skills and an ability to work collaboratively in a team-oriented environmentExcellent communication skills and attention to detail",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:10:12-05:00",
+        "unique_id": "192c45ab1a0bc6dc",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

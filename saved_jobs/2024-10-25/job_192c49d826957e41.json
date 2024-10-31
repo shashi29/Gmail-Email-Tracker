@@ -1,0 +1,74 @@
+[
+    {
+        "company": "TestingXperts",
+        "job_title": "Sr Software Engineer",
+        "location": "Metropark, NJ, USA",
+        "full_location": {
+            "city": "Metropark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "DevOps"
+            ],
+            "primary": [
+                "Docker",
+                "Gitlab",
+                "Kubernetes",
+                "Containerization"
+            ],
+            "secondary": [
+                "CI/CD",
+                "Helm Charts",
+                "Jira",
+                "Excellent written and oral communications skills",
+                "Investigating issues",
+                "Team collaboration"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "DevOps",
+                "Docker",
+                "Gitlab",
+                "Kubernetes",
+                "Containerization",
+                "CI/CD",
+                "Helm Charts",
+                "Jira",
+                "Excellent written and oral communications skills",
+                "Investigating issues",
+                "Team collaboration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rajiv Kumar",
+        "email": "rajiv.kumar@testingxperts.com",
+        "jd": "From: Rajiv, testingxperts rajiv.kumar@testingxperts.com Reply to: rajiv.kumar@testingxperts.com weekly twice office is mandate so look for locals.Sr Software Engineer Location: Metropark, NJ or NYC (Hybrid)Essentially the candidate must be good in Development and DevOps.Key skills :Programming (50%) \u2013 C#, .NETDevOps, Docker, Gitlab, Kubernetes, Containerization (50%) JD :Experience with programming. Should be able to work on an existing codeC#, .Net, Docker, Gitlab, Kubernetes, Helm Charts, ContainerizationEnd to end design ,development, testing and deployment of an app.Build automation, CI/CD and DevOps.A good balance of someone who can independently spear head implementations and a team memberMust be good with investigating an issue and responding to the customerExcellent written and oral communications skillsDemonstrate ability to communicate to nontechnical audience on technical issues.In-depth knowledge of programming for diverse operating systems and platforms using development toolsProficiency with project tracking software, such as JiraExperience working as part of a development team",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:23:21-05:00",
+        "unique_id": "192c49d826957e41",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

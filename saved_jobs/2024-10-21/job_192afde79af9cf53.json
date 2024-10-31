@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Smart Source Technologies",
+        "job_title": "Data Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$85/hr"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Big Data",
+                "ETL",
+                "Python",
+                "SQL"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Big Data",
+                "ETL",
+                "Python",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Salil",
+        "email": "salil.s@smartsourcetec.com",
+        "jd": "From: Salil, Smart Source Technologies salil.s@smartsourcetec.com Reply to: salil.s@smartsourcetec.com Data ArchitectRate : $85/hr C2CPosition is Fully Remote.Paspport number must be share.No JNTU / GITAM / Osmania passouts.Must have Linkedin with photoSkills:-Strong recent experience in GCP & Big Data QueryExperience on ETL tools Python SQL",
+        "source": "Email",
+        "date_posted": "2024-10-21 10:37:19-05:00",
+        "unique_id": "192afde79af9cf53",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

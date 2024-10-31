@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Samson Software Solutions",
+        "job_title": "Lead Data engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "14+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Pyspark",
+                "Glue",
+                "Lambda",
+                "Snowflake",
+                "Airflow",
+                "AWS",
+                "Informatica"
+            ],
+            "primary": [
+                "Data pipelines",
+                "Data models",
+                "Data governance",
+                "ETL workflows",
+                "DevOps",
+                "DataOps",
+                "CI/CD"
+            ],
+            "secondary": [
+                "Machine learning",
+                "Performance tuning",
+                "Technical design documents",
+                "Project documentation"
+            ],
+            "all": [
+                "Python",
+                "Pyspark",
+                "Glue",
+                "Lambda",
+                "Snowflake",
+                "Airflow",
+                "AWS",
+                "Informatica",
+                "Data pipelines",
+                "Data models",
+                "Data governance",
+                "ETL workflows",
+                "DevOps",
+                "DataOps",
+                "CI/CD",
+                "Machine learning",
+                "Performance tuning",
+                "Technical design documents",
+                "Project documentation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ashish Awasthi",
+        "email": "ashish.awasthi@samsonsoft.com",
+        "jd": "From: Ashish Awasthi, Samson software solutions ashish.awasthi@samsonsoft.com Reply to: ashish.awasthi@samsonsoft.com Position: Lead Data engineerLocation: Chicago, IL- onsiteJob Description : Need solid hands-on candidates. Coding test will be part of evaluationNeed 14+ years of Exp.MUST HAVE:Python/Pyspark scriptingGlue / lambdaSnowflake (sql, stored procs)Airflow or equivalent orchestrationAWS Cloud fomationInformatica/ETLDescription:Design and implement data pipelines to extract, transform, and load data from various sources into a data warehouseDevelop and maintain data models and schemas to support business intelligence and analytics applicationsOptimize data storage and retrieval systems for performance and scalabilityCollaborate with data scientists and analysts to develop and deploy machine learning models and algorithmsImplement data governance policies and procedures to ensure data quality, security, and complianceManage and monitor data processing and storage infrastructure, including cloud-based platforms such as AWSDevelop and maintain ETL workflows using toolsDesign and implement data integration solutions for thirdparty applications and servicesConduct performance tuning and optimization of database systems and queriesMentor and train junior data engineers and other team members on best practices and emerging technologies in data engineering.Building and managing DevOps & DataOps CI/CD pipelines and automated deploymentsDebugging and resolving issues with cloud service configuration, integration, performance, security standards, scalability.Prepare technical design documents and SLA agreementsEnsure the delivery of thorough project documentation.Introduce best practices and provide necessary support from the Center of Excellence as needed.Manage the identification, evaluation, mitigation, and reporting of project risks.Set quality standards and perform regular quality reviews.Ensure that project issues and challenges are resolved promptly in collaboration with the client.Thanks & Regards, Ashish Awasthi | US IT Recruiter Samson Software Solutions Inc. Email: ashish.awasthi@samsonsoft.com",
+        "source": "Email",
+        "date_posted": "2024-10-23 08:59:46-05:00",
+        "unique_id": "192b9cff444339bd",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

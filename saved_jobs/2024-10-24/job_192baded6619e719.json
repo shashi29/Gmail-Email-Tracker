@@ -1,0 +1,101 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": "Lead Software Engineer",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spring Boot",
+                "Microservices",
+                "React",
+                "Java"
+            ],
+            "primary": [
+                "PMP",
+                "Git",
+                "Docker",
+                "DevOps tools",
+                "Design Patterns",
+                "Security Best Practices",
+                "Python",
+                "Groovy",
+                "AWS",
+                "API Gateway",
+                "R53",
+                "EC2",
+                "ECS",
+                "ECR",
+                "IoT",
+                "CFTs",
+                "CloudWatch",
+                "RDS",
+                "DynamoDB",
+                "SNS",
+                "SQS",
+                "Lambda",
+                "S3"
+            ],
+            "secondary": [],
+            "all": [
+                "Spring Boot",
+                "Microservices",
+                "React",
+                "Java",
+                "PMP",
+                "Git",
+                "Docker",
+                "DevOps tools",
+                "Design Patterns",
+                "Security Best Practices",
+                "Python",
+                "Groovy",
+                "AWS",
+                "API Gateway",
+                "R53",
+                "EC2",
+                "ECS",
+                "ECR",
+                "IoT",
+                "CFTs",
+                "CloudWatch",
+                "RDS",
+                "DynamoDB",
+                "SNS",
+                "SQS",
+                "Lambda",
+                "S3"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Dimiour Midunsathyaa",
+        "email": "midunsathyaa.subramanian@dimiour.io",
+        "jd": "From: Midunsathyaa, Dimiour midunsathyaa.subramanian@dimiour.io Reply to: midunsathyaa.subramanian@dimiour.io Role Title: Lead Software EngineerLocation: St. Louis, MO [Onsite]Duration: Long Term Contract Mandatory Skills looking for: Spring Boot, Microservices, React, PMP Experience and Qualifications:Needed Min 12+ experienced candidate.Strong experience in developing services and applications in JavaRecent experience in developing and managing highly available distributed applications using toolkits such as Spring Boot, Git, Docker, DevOps tools.Good understanding of various Design Patterns in building highly available, highly scalable distributed applications connecting a large volume of devices, serving millions of users.Good understanding of Security Best Practices to implement security at various levels to protect the devices &amp; data.Must have Programming / Scripting Knowledge such as Java, Python, Groovy, etc.Expert level technical knowledge in developing cloud native applications \u2013 covering infrastructure, platform and software as services.AWS Technical knowledge in \u2013 API Gateway, R53, EC2, ECS, ECR, IoT, CFTs, CloudWatch, RDS/ DynamoDB, SNS/SQS, Lambda, S3 etc.Developing and designing REST APIs using JSON, other messaging protocols.",
+        "source": "Email",
+        "date_posted": "2024-10-23 13:58:20-05:00",
+        "unique_id": "192baded6619e719",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

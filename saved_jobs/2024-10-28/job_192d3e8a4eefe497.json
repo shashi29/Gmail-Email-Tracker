@@ -1,0 +1,75 @@
+[
+    {
+        "company": "VBeyond Corporation",
+        "job_title": "Cloud Development Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Java",
+                "Python",
+                "Go",
+                "Docker",
+                "Kubernetes",
+                "Azure Storage",
+                "Azure Cosmos DB",
+                "Azure Functions",
+                "Azure Monitor",
+                "Azure DevOps"
+            ],
+            "primary": [
+                "Cloud Security",
+                "Infrastructure as Code (IaC)",
+                "Terraform"
+            ],
+            "secondary": [],
+            "all": [
+                "C#",
+                "Java",
+                "Python",
+                "Go",
+                "Docker",
+                "Kubernetes",
+                "Azure Storage",
+                "Azure Cosmos DB",
+                "Azure Functions",
+                "Azure Monitor",
+                "Azure DevOps",
+                "Cloud Security",
+                "Infrastructure as Code (IaC)",
+                "Terraform"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arpit Gupta",
+        "email": "arpitg@vbeyond.com",
+        "jd": "Dear My name is Arpit gupta and I represent VBeyond Corporation, a global recruitment firm with 18+ years of industry experience. We specialize in sourcing and placing highly skilled talent to meet the unique needs of our clients. Our client is seeking a Cloud Development Engineer an (Onsite) position in Dallas TX Please share if you have any suitable candidate for this role \u2013Role \u2013 Cloud Development EngineerLocation \u2013 Dallas TXJob Description:Cloud Development engineer will be responsible for designing, developing, and deploying cloud-native applications using Microsoft Azure Kubernetes Service (AKS), focusing on building scalable, resilient, and containerized applications within the AKS platform, often requiring expertise in containerization technologies, Kubernetes orchestration, and Azure cloud services. Key responsibilities will include: Application Design and Development: Architecting cloud-native applications leveraging AKS for containerized deployments. Writing clean, maintainable code for microservices using languages like .NET, Java, Python, Go, etc. Integrating with other Azure services like Azure Storage, Azure Cosmos DB, Azure Functions, and Azure API Management. Containerization and Kubernetes: Building Docker images for applications and optimizing container configurations. Defining Kubernetes deployments, services, and ingress controllers to manage application scaling and networking. Utilizing Kubernetes features like Helm charts for application packaging and deployment. CI/CD Pipeline Management: Setting up automated build, test, and deployment pipelines using Azure DevOps or similar tools. Implementing continuous monitoring and alerting to identify potential issues in production.Infrastructure Management: Managing AKS clusters, including scaling, security configurations, and resource optimization. Provisioning and managing Azure network resources for application connectivity. Leveraging Infrastructure as Code (IaC) tools like Terraform to manage cloud infrastructure. Performance Optimization and Troubleshooting: Analyzing application performance metrics and identifying bottlenecks. Debugging issues within Kubernetes deployments and troubleshooting network connectivity. Required Skills: Programming Languages: Proficiency in at least one language like C#, Java, Python, Go. Containerization: Strong understanding of Docker and container orchestration principles. Kubernetes: Extensive knowledge of Kubernetes concepts (pods, deployments, services, ingress controllers). Azure Platform: Familiarity with Azure services like Azure Storage, Azure Cosmos DB, Azure Functions, and Azure Monitor. CI/CD Tools: Experience with Azure DevOps pipelines or similar tools for automated deployments. Cloud Security: Understanding of cloud security best practices and implementation strategies.",
+        "source": "Email",
+        "date_posted": "2024-10-28 10:38:51-05:00",
+        "unique_id": "192d3e8a4eefe497",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

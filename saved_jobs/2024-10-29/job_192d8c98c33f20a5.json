@@ -1,0 +1,130 @@
+[
+    {
+        "company": "Vyzeinc",
+        "job_title": "Data Integration Engineer",
+        "location": "Coral Gables, FL, USA",
+        "full_location": {
+            "city": "Coral Gables",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Contract to hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data engineering",
+                "ETL development",
+                "Azure SQL Database",
+                "Azure Synapse",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "SQL",
+                "Python"
+            ],
+            "primary": [
+                "Microsoft Fabric",
+                "Data integration",
+                "Real-time analytics",
+                "Data lakes",
+                "Lakehouses",
+                "Delta lake tables",
+                "Azure DevOps",
+                "CI/CD",
+                "Data visualization",
+                "Reporting",
+                "Advanced analytics",
+                "Infrastructure as Code",
+                "Terraform",
+                "Biceps",
+                "ARM",
+                "Ansible",
+                "Docker",
+                "Kubernetes",
+                "ACR",
+                "ACI",
+                "Container apps",
+                "CLI",
+                "PowerShell"
+            ],
+            "secondary": [
+                "Machine learning workflows",
+                "Data science capabilities",
+                "Copilot integration",
+                "OpenAI services",
+                "AI solutions",
+                "Data preparation",
+                "Real-time data processing pipelines",
+                "REST APIs",
+                "User-facing applications"
+            ],
+            "all": [
+                "Data engineering",
+                "ETL development",
+                "Azure SQL Database",
+                "Azure Synapse",
+                "Azure Data Factory",
+                "Azure Databricks",
+                "SQL",
+                "Python",
+                "Microsoft Fabric",
+                "Data integration",
+                "Real-time analytics",
+                "Data lakes",
+                "Lakehouses",
+                "Delta lake tables",
+                "Azure DevOps",
+                "CI/CD",
+                "Data visualization",
+                "Reporting",
+                "Advanced analytics",
+                "Infrastructure as Code",
+                "Terraform",
+                "Biceps",
+                "ARM",
+                "Ansible",
+                "Docker",
+                "Kubernetes",
+                "ACR",
+                "ACI",
+                "Container apps",
+                "CLI",
+                "PowerShell",
+                "Machine learning workflows",
+                "Data science capabilities",
+                "Copilot integration",
+                "OpenAI services",
+                "AI solutions",
+                "Data preparation",
+                "Real-time data processing pipelines",
+                "REST APIs",
+                "User-facing applications"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "remote"
+        ],
+        "contact_person": "Rajeev",
+        "email": "rajeeve@vyzeinc.com",
+        "jd": "From: Rajeev, Vyzeinc rajeev@vyzeinc.com Reply to: rajeev@vyzeinc.com Data Integration EngineerLocation: Prefer local to Coral Gables, but flexible on it Length: contract to hire LinkedIn with picture is must USC and H4EAD onlyNotes *We are looking for a candidate with Data engineering and ETL development background. The candidate must have a handson experience on azure SQL database, Azure Synpase, Azure Data factory, Azure Databricks , Powerbi and fundamental knowledge on core azure services like key vault , storage account etc. The candidate will be working on Microsoft Fabric once they join the team.* Please find the updated job description for Azure Data integration Engineer that mostly primarily focuses on Microsoft Fabric[strongly preferred] and AI[good to have]: Design , implement and manage data solutions within Microsoft fabric analytics platformHands-on experience in developing end to end data solutions using Microsoft components such as data engineering , data integration, real-time analyticsHands-on experience managing data lakes, Lakehouses, delta lake tables within Microsoft fabricExpert in data transformation and processing using SQL ,python or any related programming languageAzure DevOps and managing CI/CD solutions with especial emphasis on fabric pipelinesOptimize data models., queries and ETL processes to ensure high performance and scalabilityImplement and manage data connectors to bring data into Microsoft fabric\u2019s unified platformProvide support for data visualization , reporting and advanced analytics capabilitiesHands-on experience on Designing and developing data pipelines using Azure data factory , Azure Synapse , ADLS, DataBricks and other ETL solutionsAutomate infrastructure deployment using IAC- knowledge on terraform, biceps, ARM, ansible and other toolsHands on experience on docker , Kubernetes, ACR, ACI ,container appsProficient in CLI and PowerShellProvision, configure, manage and monitor storage accounts, key vaults, function apps, logic apps , app services ,, databases , and messaging services Preferable(good to have) Skills:Knowledge of machine learning workflows and ability to integrate data science capabilities within Microsoft fabricKnowledge in leveraging copilot integration with azure data services and OpenAI servicesDesign ,Create and deploy AI and Machine Learning solutions using Microsoft azure AI services and resourcesKnowledge on cleaning and preparing data from various azure data sources for training and deploying AI modelsDevelop end to end AI solutions such as real-time data processing pipelines , Rest Apis and user-facing applications",
+        "source": "Email",
+        "date_posted": "2024-10-29 09:24:02-05:00",
+        "unique_id": "192d8c98c33f20a5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "company": "1 Point System",
+        "job_title": "Senior Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "8 to 10 years",
+            "degree_required": "US Degree that they did not get online",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "AWS",
+                "Kafka",
+                "SQL"
+            ],
+            "primary": [
+                "Microservices",
+                "Salesforce CRM",
+                "Tableau CRM",
+                "Cognos",
+                "PowerBI",
+                "Mulesoft",
+                "StreamSets",
+                "Databricks",
+                "TDD",
+                "BDD"
+            ],
+            "secondary": [
+                "Data Engineering",
+                "Agile",
+                "Leadership",
+                "Quality Assurance"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "AWS",
+                "Kafka",
+                "SQL",
+                "Microservices",
+                "Salesforce CRM",
+                "Tableau CRM",
+                "Cognos",
+                "PowerBI",
+                "Mulesoft",
+                "StreamSets",
+                "Databricks",
+                "TDD",
+                "BDD",
+                "Data Engineering",
+                "Agile",
+                "Leadership",
+                "Quality Assurance"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shalu Tiwari",
+        "email": "shalu.tiwari@1pointsys.com",
+        "jd": "Senior Java Developer- 2 Openings - 3 days a week onsiteLocal OnlyHeavy financial experienceLinkedIn with photo2-3 zooms They must have a US Degree that they did not get on line that they did on site at the campus Send your best 2 so take a minute to find the right one Need a Java Engineer with strong experience in the data engineering space to help build and integrate data-driven intelligent solutions into the business processes. This role will involve a close collaboration with the team of data specialists, application developers and product managers. Required skills:\u00b7 8 to 10 years of experience working with Java\u00b7 Design, develop and deliver Java-based APIs and Microservices using Spring Boot, AWS and Streaming technologies like Kafka.\u00b7 Experience in working with SQL building stored procedures, functions, and data warehousing solutions\u00b7 Experience with Salesforce CRM Eco-System\u00b7 Exposure to Business Intelligence tools like Tableau CRM, Cognos, PowerBI, etc.\u00b7 Exposure to ETL and Data Engineering tools like Mulesoft, StreamSets & Databricks\u00b7 Experience in developing TDD/BDD unit-tests and work with Quality Assurance team members on defect triage and resolution\u00b7 Must have experience working in the Financial Services and Investment Banking domain\u00b7 Proactively participates in Agile ceremonies like sprint Planning, Backlog Grooming, etc., and experience in working with virtual teams\u00b7 Leadership skills in mentoring team members, resolving technical challenges and performing code reviews in a peer programming environment",
+        "source": "Email",
+        "date_posted": "2024-10-24 10:07:25-05:00",
+        "unique_id": "192bf34ffad914fe",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Smart IT Frame",
+        "job_title": "Lead Data Engineer",
+        "location": "Hartford, CT, USA",
+        "full_location": {
+            "city": "Hartford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's degree or equivalent training with data tools techniques and manipulation",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Glue",
+                "Databricks",
+                "Python"
+            ],
+            "primary": [
+                "Spark",
+                "Snowflake"
+            ],
+            "secondary": [
+                "Agile methodologies",
+                "Atlassian tools",
+                "JIRA",
+                "Git",
+                "Bitbucket",
+                "Kubernetes",
+                "CICD",
+                "Monitoring tools"
+            ],
+            "all": [
+                "AWS Glue",
+                "Databricks",
+                "Python",
+                "Spark",
+                "Snowflake",
+                "Agile methodologies",
+                "Atlassian tools",
+                "JIRA",
+                "Git",
+                "Bitbucket",
+                "Kubernetes",
+                "CICD",
+                "Monitoring tools",
+                "AWS Cloud",
+                "S3",
+                "IAM",
+                "Airflow",
+                "Data migration",
+                "OnPrem databases",
+                "SQL",
+                "ETL methods",
+                "Dimensional data models",
+                "Data warehouses",
+                "Relational databases"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sharmi",
+        "email": "sharmi@smartitframe.com",
+        "jd": "Dear, Greetings from Smart IT Frame, Hope you are doing well!!! Smart IT Frame specializes in enabling you with your most critical line of resources. Whether it\u2019s for permanent staffing, contract staffing, contract-to-hire or executive search, we understand the importance of delivering the most suitable talent; on time and within budget. With our Core focus in emerging technologies, we have provided global technology workforce solutions in North America, Canada & India. We take pride in delivering specialized talent, superior performance, and seamless execution to meet the challenging business needs of customers worldwide Role: AWS Databricks Data Engineer LeadLocation: Hartford CTContract Must Have: AWS Glue, Databricks, PythonGood to have: Spark, SnowflakeOverviewData Engineering team constructs pipelines that contextualize and provide easy access to data by the entire enterprise As a Data Engineer you will play a key role in growing and transforming analytics landscapeLooking for Data Engineer lead having experience on building ingestion solutions to integrate 3rd party data using databricks Strong python skillsAWS Cloud infrastructure knowledge commonly used AWS Glue S3 IAM AirflowExperience with building data pipelines using Databricks on AWSKnowledge and Handson SnowflakeExperience in Agile methodologies and Atlassian tools like JIRAExpertise in using version control tools like Git BitbucketExperience on CICD using Kubernetes GIT and Monitoring and ing toolsExperience on data migration from OnPrem databases to AWS Cloud on S3 Roles responsibilitiesActs as a single point of contact for databricks projects for customerProvides innovative and costeffective solution using AWS databricks pythonDevelops solutions to meet business needs that reflect a clear understanding of the objectives practices and procedures of the corporation department and business unitAs a leader in the Cloud Engineering you will be responsible for the overseeing developmentLearnadapt quickly to new Technologies as per the business needDevelop a team of Operations Excellence building tools and capabilities that the Development teams leverage to maintain high levels of performance scalability security and availabilityUnderstand where to obtain information needed to make the appropriate decisionsDemonstrate ability to break down a problem to manageable pieces and implement effective timely solutionsIdentify the problem versus the symptomsDevelop solutions to meet business needs that reflect a clear understanding of the objectives practices and procedures of the corporation department and business unit SkillsThe Candidate must have 3-5 yrs of experience in Databricks AWS PythonHands on experience on AWS Cloud platform especially S3 Glue LamdaExperience on spark scriptingHas working knowledge on migrating relational and dimensional databases on AWS Cloud platformRelevent experience with ETL methods and with retrieving data from dimensional data models and data warehousesStrong experience with relational databases and data access methods especially SQLKnowledge of Amazon AWS architecture and design Minimum QualificationsBachelors degree or equivalent training with data tools techniques and manipulationFour years of data engineering or equivalent experience SkillsDatabricks-SparkSQL-Scala/Python",
+        "source": "Email",
+        "date_posted": "2024-10-25 12:23:57-05:00",
+        "unique_id": "192c4d4ff5d9b950",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

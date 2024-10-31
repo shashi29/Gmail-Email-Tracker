@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Facets Developer (.NET with SQL)",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "SQL",
+                "Facets",
+                ".NET"
+            ],
+            "primary": [
+                "Facets customization development",
+                "PL/SQL",
+                "Healthcare Terminology",
+                "Database design",
+                "System testing"
+            ],
+            "secondary": [
+                "Agile development",
+                "Code review",
+                "Unit testing",
+                "Release management",
+                "Systems optimization",
+                "Environmental validation",
+                "Issue resolution",
+                "EDI transactions (835 and 837)"
+            ],
+            "all": [
+                "C#",
+                "SQL",
+                "Facets",
+                ".NET",
+                "Facets customization development",
+                "PL/SQL",
+                "Healthcare Terminology",
+                "Database design",
+                "System testing",
+                "Agile development",
+                "Code review",
+                "Unit testing",
+                "Release management",
+                "Systems optimization",
+                "Environmental validation",
+                "Issue resolution",
+                "EDI transactions (835 and 837)"
+            ],
+            "with_experience": [
+                "Facets (recent experience)",
+                "C# (with health insurance implementation experience)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rohit Kumar Bid",
+        "email": "rbid@vyzeinc.com",
+        "jd": "From: Rohit Kumar Bid, Vyze Inc rbid@vyzeinc.com Reply to: rbid@vyzeinc.com Title: Facets Developer (.NET with SQL) || We\u2019re looking on finding someone with health insurance (payer) implementation experience.Location: RemoteVisa: USC only MUST BE US CITIZENTriZetto Facets experience must be recent Manager notes: We\u2019re looking on finding someone with health insurance (payer) implementation experience.Description: \u2022 Facets Developer \u2013 C# and SQL for agile development for a Facets implementation role. This Developer position will participate in a team environment for the delivery and code for a Facets testing and implementation. Responsible for programming, debugging and testing of applications in a development environment. Generally responsible for database design and system testing. Experience with: \u2022 Facets customization development, working with extensions, integrations and / or data conversions. \u2022 Good understanding of Facets data model and Facets batch \u2022 .Net, C#, and SQL Server ROLE & RESPONSIBILITIES \u2022 Strong healthcare domain knowledge (Healthcare Terminology). \u2022 Work experience in design develop solutions for inbound and outbound interfaces using PL/SQL and C#.NET. \u2022 Code review and unit testing \u2022 Release management best practices systems optimization environmental validation and issue resolution. \u2022 Good understanding of the Facets Data Model and work experience in building Facets extension \u2022 Familiar with the Core Facets batch jobs and EDI transactions (835 and 837). \u2022 Understand functional specs and create a detailed technical design (technical Design document). \u2022 Hands-on knowledge with SQL Server, Facets,\u2022 Support defect remediation, QA and release management procedures",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:32:53-05:00",
+        "unique_id": "192c45e2b051e1cb",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

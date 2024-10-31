@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Quantum World Technologies Inc",
+        "job_title": "Data engineer with snowflake",
+        "location": "Stamford, CT, USA",
+        "full_location": {
+            "city": "Stamford",
+            "state": "CT",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Public cloud data warehouse (GCP, Azure, AWS)",
+                "MapR",
+                "Python",
+                "Java",
+                "Big Data (Spark(Pyspark), HIVE)",
+                "CICD pipelines",
+                "Automated test frameworks",
+                "DevOps",
+                "Source code management tools (XLR, Jenkins, Git, Maven)"
+            ],
+            "primary": [
+                "Banking Domain",
+                "GCP certification",
+                "Strong communication skills",
+                "Analytical skills",
+                "Effective presentation skills",
+                "Familiarity with Agile & scrum ceremonies"
+            ],
+            "secondary": [],
+            "all": [
+                "Snowflake",
+                "Public cloud data warehouse (GCP, Azure, AWS)",
+                "MapR",
+                "Python",
+                "Java",
+                "Big Data (Spark(Pyspark), HIVE)",
+                "CICD pipelines",
+                "Automated test frameworks",
+                "DevOps",
+                "Source code management tools (XLR, Jenkins, Git, Maven)",
+                "Banking Domain",
+                "GCP certification",
+                "Strong communication skills",
+                "Analytical skills",
+                "Effective presentation skills",
+                "Familiarity with Agile & scrum ceremonies"
+            ],
+            "with_experience": [
+                "Python",
+                "Java",
+                "Big Data (Spark(Pyspark), HIVE)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nitish Kumar",
+        "email": "nitish.kumar@quantumworldit.com",
+        "jd": "HelloHope you are doing well today!!!Position: Data engineer with snowflakeLocation: Stamford CT (Onsite) Only Local with Valid DLDuration: Long term Contract Job Description:Mandatory: Banking DomainHands-on experience with public cloud data warehouse (GCP, Azure, AWS). GCP certification will be very good to have. MapR experience is mustStrong Hands on experience with one or more programming languages ( Python or Java).Hands-on expertise with application design and software development in Big Data (Spark(Pyspark), HIVE). Experience with CICD pipelines, Automated test frameworks, DevOps and source code management tools (XLR, Jenkins, Git, Maven).Strong communication and analytical skills including effective presentation skills.Familiarity with Agile & scrum ceremonies.",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:46:00-05:00",
+        "unique_id": "192a1890f59cc8fe",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

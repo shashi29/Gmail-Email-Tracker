@@ -1,0 +1,95 @@
+[
+    {
+        "company": "iTechUS Inc",
+        "job_title": "Java FullStack Developer",
+        "location": "Mc Lean, VA, USA",
+        "full_location": {
+            "city": "Mc Lean",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS services",
+                "Java",
+                "Microservices",
+                "MongoDB"
+            ],
+            "primary": [
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudWatch",
+                "DynamoDB",
+                "API Gateway",
+                "CloudFormation",
+                "CodePipeline",
+                "CodeBuild",
+                "RESTful APIs",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS services",
+                "Java",
+                "Microservices",
+                "MongoDB",
+                "EC2",
+                "S3",
+                "Lambda",
+                "CloudWatch",
+                "DynamoDB",
+                "API Gateway",
+                "CloudFormation",
+                "CodePipeline",
+                "CodeBuild",
+                "RESTful APIs",
+                "ECS",
+                "EKS",
+                "Fargate",
+                "IAM",
+                "KMS",
+                "CloudTrail",
+                "X-Ray"
+            ],
+            "with_experience": [
+                "AWS services",
+                "Java",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Prem",
+        "email": "prem@itechus.net",
+        "jd": "From: Prem, iTechUS Inc prem@itechus.net Reply to: prem@itechus.net Title: Java FullStack DeveloperLocation: Mc Lean, VA (Onsite from Day 1)Duration: 6+ Months Contract In-Person Interview Must be Local and Passport No. is Mandatory Required Skills: Should be very good in AWS services - EC2, S3, EMR, Lambda, Cloud watch and more.Java with Microservice ()Mongo DB experience.Design, develop, and deploy web applications using AWS services such as EC2, S3, Lambda, and DynamoDBDevelop and maintain serverless architectures using AWS services such as API Gateway, CloudFormation, and CloudWatchCreate and maintain automated deployment pipelines using AWS Code Pipeline and CodeBuildDesign and develop RESTful APIs using AWS API Gateway and LambdaDevelop and maintain automated testing frameworks using AWS services such as CodeBuild and CodeDeployDesign and develop cloud-native applications using AWS services such as ECS, EKS, and FargateDevelop and maintain cloud infrastructure using AWS services such as CloudFormation and CloudWatchMonitor and troubleshoot application performance using AWS services such as CloudWatch and X-RayDevelop and maintain security best practices for AWS services such as IAM, KMS, and CloudTrailDevelop and maintain CI/CD pipelines using AWS services such as CodePipeline and CodeBuildDesign and develop serverless applications using AWS services such as Lambda and Step FunctionsDevelop and maintain automated backup and disaster recovery solutions using AWS services such as EBS and S3 Thanks, Prem iTechUS Inc",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:39:40-05:00",
+        "unique_id": "192b4afbad80ad79",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

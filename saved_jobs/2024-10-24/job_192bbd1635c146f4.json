@@ -1,0 +1,104 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": ".Net Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "Tampa",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10-15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET Core",
+                "ASP.NET Core Web API",
+                "Angular",
+                "Typescript",
+                "MS SQL"
+            ],
+            "primary": [
+                "REST",
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Entity Framework",
+                "LINQ",
+                "GIT",
+                "Azure DevOps"
+            ],
+            "secondary": [
+                "Agile methodologies",
+                "Bootstrap",
+                "Material",
+                "Dependency Injection",
+                "Middleware",
+                "Routing",
+                "Caching",
+                "Logging",
+                "Application design patterns",
+                "CI/CD",
+                "Azure technologies"
+            ],
+            "all": [
+                ".NET Core",
+                "ASP.NET Core Web API",
+                "Angular",
+                "Typescript",
+                "MS SQL",
+                "REST",
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Entity Framework",
+                "LINQ",
+                "GIT",
+                "Azure DevOps",
+                "Agile methodologies",
+                "Bootstrap",
+                "Material",
+                "Dependency Injection",
+                "Middleware",
+                "Routing",
+                "Caching",
+                "Logging",
+                "Application design patterns",
+                "CI/CD",
+                "Azure technologies"
+            ],
+            "with_experience": [
+                ".NET Core",
+                "ASP.NET Core Web API",
+                "Angular",
+                "Typescript",
+                "MS SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vishnu",
+        "email": "vishnu.m@siriinfo.com",
+        "jd": "Hello Guys,Hope you are doing Good, Below are the Positions which i have on priority Basis.If you have any suitable resumes, Kindly share resumes to Vishnu.m@siriinfo.com.Net ArchitectLocation: Tampa FL/ RemoteHire Type: Contract10-15+ Years for .Net Core Experience with Cloud Experience 2. Strong expertise in developing modern SPA applications using Microsoft stack, Angular and Agile methodologies(5+ years)3. Strong expertise in developing Angular(not AngularJS) applications using Typescript( 5+ years)4. Strong expertise in ES6, HTML5/CSS 3/JavaScript(5+ years) 5. Strong expertise with CSS framework directed at responsive, mobile-first front-end web development such as Bootstrap and Material.( 5+) 6. Strong expertise in .NET Core, ASP.NET Core Web API, REST (5+ years)7. Strong expertise with modern ASP.NET Core WebAPI framework concepts such as Dependency Injection(Services), Middleware, Routing, Caching, Logging and hosting(Kestrel, HTTP.sys, IIS) (5+ years)8. Strong expertise with application design patterns and principles such as SOLID, CQRS, Meditor, 9. Strong expertise developing data-driven applications using MS SQL, T-SQL, ADO.NET, Entity Framework and LINQ.10. Experienced in working with GIT repository.11. Prior experience with .NET Framework 5.x, ASP.NET MVC, WebAPI and WCF are good to have. 12. Good to have Azure DevOps knowledge. 13. Good to have experience with Azure technologies such as IaaS, PaaS, App Service, Storage, Function App, Service Bus, Logic Apps, Etc)14. CI/CD, MS Azure including the PaaS offerings like Logic Apps.15. Must Have in common: Experience with Azure DevOps (or a similar tool) for code, test, and PBI management.",
+        "source": "Email",
+        "date_posted": "2024-10-23 16:55:43-05:00",
+        "unique_id": "192bbd1635c146f4",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

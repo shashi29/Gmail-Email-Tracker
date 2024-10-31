@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Sunray Enterprise, Inc.",
+        "job_title": "Sr. Database Engineer",
+        "location": "Overland Park, KS, USA",
+        "full_location": {
+            "city": "Overland Park",
+            "state": "KS",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "LONG TERM",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle RDBMS",
+                "PL/SQL",
+                "GoldenGate",
+                "AWS RDS",
+                "Git",
+                "CI/CD"
+            ],
+            "primary": [
+                "Database Migration",
+                "Database Security Management",
+                "Disaster Recovery",
+                "Database Design",
+                "Performance Monitoring",
+                "Database Optimization"
+            ],
+            "secondary": [
+                "noSQL",
+                "Graph DB",
+                "ETL tools",
+                "scripting",
+                "communication"
+            ],
+            "all": [
+                "Oracle RDBMS",
+                "PL/SQL",
+                "GoldenGate",
+                "AWS RDS",
+                "Git",
+                "CI/CD",
+                "Database Migration",
+                "Database Security Management",
+                "Disaster Recovery",
+                "Database Design",
+                "Performance Monitoring",
+                "Database Optimization",
+                "noSQL",
+                "Graph DB",
+                "ETL tools",
+                "scripting",
+                "communication"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Manoj Rathee",
+        "email": "manoj@sunraycorp.com",
+        "jd": "From: Manoj Rathee, Sunray Enterprise, Inc. manoj@sunraycorp.com Reply to: manoj@sunraycorp.com Hi Dear,I hope my mail finds you in good health and doing well!We currently have the JOB POSITION listed below available.Kindly go through the job description and share your latest updated RESUME, visa copy, and photo ID so that I can submit the profile to the client.Job Position :- Sr. Database EngineerLocations :- Overland Park, KS (day1 onsite - 3 day work from office)Duration :- LONG TERMJob Description:-Note: Prior experience with T-Mobile is preferredResponsibilities\u2022 Hands-on driver for Database Migration to Cloud: Oversee the migration of databases to the cloud, ensuring minimal downtime and data integrity.\u2022 Database Security Management: Implement and maintain robust security measures to protect sensitive data and ensure compliance with industry standards and regulations. Perform regular security scans on all databases to ensure compliance with security standards and policies. Ensure security defects are resolved within SLA.\u2022 Disaster Recovery: Develop and maintain comprehensive disaster recovery plans to ensure data integrity and availability in case of system failures or disasters. Own and drive disaster recovery (DR) plans (for db) and ensure recovery time objectives (RTO) and recovery point objectives (RPO) are met for all databases.\u2022 Database Design: Design databases for high availability, scalability, and performance that meet platform SLIs.\u2022 Collaboration with Development Teams: Work closely with software development teams to integrate databases with applications and ensure efficient data flow.\u2022 Performance Monitoring and Tuning: Continuously monitor database performance and implement tuning measures to optimize query execution and resource utilization. Obtain and analyze Automatic Workload Repository (AWR) reports to identify performance bottlenecks and suggest tuning improvements. Conduct thorough SQL code reviews, optimize queries for performance, and implement best practices.\u2022 Test Data Management: Introduce and maintain automated processes to simplify non-production environment (NPE) test data management.\u2022 Database Optimization:\u2022 Implement data archival and cleanup strategies.\u2022 Work with dev teams on identifying and cleanup of deprecated/unused users, objects and schemas to simplify the databases.\u2022 Evaluate and propose alternative technologies to simplify the database footprint.\u2022 Task Automation Develop automation scripts for routine database tasks. Actively integrate with CI/CD pipelines where possible.Skillso At least 5-6 years of hands-on Oracle RDBMS experience including developing, designing and managing databases independently; Experience in data migration and noSQL esp. Graph DB is good to have.o At least 2-3 years of PL/SQL programming, performing reviews and performance tuning.o At least 1\u20132-year experience in using GoldenGate for data replication.o At least 1-2 years of experience in creating, managing AWS RDS and integration with application platforms, and IAM role management.o Experience in ETL tools is good to have.o At least 3-4 years of scripting (shell, py, go or similar higher-level programming lang)o Must have on experience with Git & CICD tools, able to navigate and work independently.o Communication - Good communication and articulation skills that adapt to different stakeholders and audienceHope to hear from you soon !!!",
+        "source": "Email",
+        "date_posted": "2024-10-25 08:59:22-05:00",
+        "unique_id": "192c419b15a77278",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

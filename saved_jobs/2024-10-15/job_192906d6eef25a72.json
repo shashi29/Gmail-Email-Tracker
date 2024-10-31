@@ -1,0 +1,73 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Sr Cloud Platform Engineer",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in computer science or related relevant experience",
+            "visa_sponsorship": "Prefer USC/GC Perm residents",
+            "notice_period": "Not specified",
+            "duration": "Long term contract with option to convert",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Terraform",
+                "AWS",
+                "Python",
+                "Bash"
+            ],
+            "primary": [
+                "CI/CD",
+                "Gitlab",
+                "Serverless",
+                "Event-driven solutions",
+                "Technical documentation"
+            ],
+            "secondary": [
+                "Linux administration",
+                "Strategic thinking",
+                "Software development lifecycle (SDLC)"
+            ],
+            "all": [
+                "Terraform",
+                "AWS",
+                "Python",
+                "Bash",
+                "CI/CD",
+                "Gitlab",
+                "Serverless",
+                "Event-driven solutions",
+                "Technical documentation",
+                "Linux administration",
+                "Strategic thinking",
+                "Software development lifecycle (SDLC)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rajeev",
+        "email": "rajeev@vyzeinc.com",
+        "jd": "From: Rajeev, Vyzeinc rajeev@vyzeinc.com Reply to: rajeev@vyzeinc.com Sr Cloud Platform Engineer (Terraform) i want a terraform, AWS and scripting expert who lives in charlotteLocation Hybrid Charlotte, NC( send me someone who is 100 percent in Charlotte NC )Long term contract with option to convert if they are USC/GC perm residentsAny visa (prefer USC/GC Perm residents)2 interviews( 1 Video and 1 F2F)5 Page Max resume , Linkedin with project description , education details find me terraform expertssomeone with a certification and recent terraform exp at the expert level**DO NOT SEND ME DEVOPS PEOPLE** ,I don't want heavy automation and deployment people i want someone who has a strong background in Terraform, AWS and Python/Bash scripting that will be used by diff teams/departmentsMUST HAVE heavy experience with Terraform (building reusable modules that will be used across the entire enterprise), AWS of course, and Python scripting skills. They aren't just writing simple scripts that are used1 time, but large scale things that can be reused by very different groups. Senior Cloud Platform EngineerSeeking an innovative and passionate individual who can provide significant contributions in the design, coding, testing, support and debugging of software & enhancements to existing software specifically focused on Public Cloud solutions.The candidate will be responsible for designing, implementing, and maintaining infrastructure as code solutions and tools for our cloud-based systems and applications. The candidate will work closely with cross-functional teams to ensure that our cloud infrastructure adheres to industry best practices and regulatory compliance standards. Experience:\u00b7 Preferable Certifications: AWS Certified Solutions Architect Professional, AWS Certified DevOps Engineer, or relevant certifications\u00b7 Bachelor\u2019s degree in computer science or related relevant experience\u00b7 Expert knowledge of application and AWS (cloud) architecture and related technologies\u00b7 Proficiency designing and building custom, reusable Terraform modules\u00b7 Strong CI/CD process experience with tools such as Gitlab\u00b7 Experience implementing serverless and event-driven solutions\u00b7 Comfortable building solutions as an individual and as a leader of others concurrently\u00b7 Excellent technical documentation capabilities (e.g., data models, process diagrams, high-level designs)\u00b7 Strategic thinking abilities and an enterprise-wide perspective\u00b7 Strong grasp of software development lifecycle (SDLC) concepts\u00b7 Automation & Scripting (Python, Bash, etc)\u00b7 Familiarity with administration of Linux operating systems is a plus",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:10:08-05:00",
+        "unique_id": "192906d6eef25a72",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

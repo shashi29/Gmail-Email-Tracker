@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Quest Global",
+        "job_title": "Technical Lead / Lead C# Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET framework",
+                "TCP messaging",
+                "server/client protocol"
+            ],
+            "primary": [
+                "MS SQL",
+                "Nhibernate",
+                "RabbitMQ",
+                "Socket communication",
+                "Agile development methodologies"
+            ],
+            "secondary": [
+                "Good communication skills",
+                "Problem-solving skills",
+                "Collaborative mindset",
+                "Attention to detail",
+                "Ability to prioritize tasks"
+            ],
+            "all": [
+                "C#",
+                ".NET framework",
+                "TCP messaging",
+                "server/client protocol",
+                "MS SQL",
+                "Nhibernate",
+                "RabbitMQ",
+                "Socket communication",
+                "Agile development methodologies",
+                "Good communication skills",
+                "Problem-solving skills",
+                "Collaborative mindset",
+                "Attention to detail",
+                "Ability to prioritize tasks"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Tushar Chauhan",
+        "email": "tushar@ccitinc.com",
+        "jd": "Hello,Please find the job description of Technical Lead / Lead C# Developer.Job Title: Technical Lead / Lead C# DeveloperDuration: 6 months (Contract to Hire)Location: Onsite (Atlanta, GA)Job Requirements10+years experience in developing software solutions using C# programming language. The ideal candidate should have a strong understanding of object-oriented programming principles and be proficient in using .NET framework.Knowledge in TCP messaging, server/client protocol is required.Travel to end customer site for commissioning is expected as part of this role. Upto 20% of time expected for customer site travel.In this role, you will be responsible for designing, coding, testing, and debugging software applications. You will collaborate with cross-functional teams to analyze user requirements and translate them into functional software.Additionally, you will be involved in troubleshooting and resolving software defects and issues. The successful candidate should have excellent problem-solving skills and be able to work independently as well as in a team environment.Prior experience in the Warehouse Automation or Material Handling industry would be a plus. Join our team at Quest Global and contribute to the development of cutting-edge software solutions. Work ExperienceC# Development10+years experienceKnowledge in TCP messaging, server/client protocol needed.C#, .Net core rev3.x, MS SQL over Nhibernate, RabbitMQSocket communication; TCP/IP messagingGood communication skillsExperience in developing software solutions for the Warehouse Automation industryStrong understanding of industry standards and best practicesAbility to work in a fast-paced and dynamic environmentExcellent problem-solving and analytical skillsCollaborative mindset and ability to work well in a teamPassion for learning and staying updated with the latest technologiesAttention to detail and ability to deliver high-quality workAbility to prioritize tasks and meet deadlinesExperience with Agile development methodologies",
+        "source": "Email",
+        "date_posted": "2024-10-29 09:17:56-05:00",
+        "unique_id": "192d8c3f937c7e6d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

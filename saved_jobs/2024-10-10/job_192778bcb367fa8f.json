@@ -1,0 +1,62 @@
+[
+    {
+        "company": "IT Americainc",
+        "job_title": "Python Developer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "ReactJS",
+                "API Integration"
+            ],
+            "primary": [
+                "CI/CD",
+                "PGP",
+                "KMS"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "AWS",
+                "ReactJS",
+                "API Integration",
+                "CI/CD",
+                "PGP",
+                "KMS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Naren",
+        "email": "naren@itamerica.com",
+        "jd": "From: Naren, IT Americainc naren@itamerica.com Reply to: naren@itamerica.com Role: Python DeveloperHybrid - Richmond or McLean, VA or Plano TXSkills:\u2022 In-depth knowledge Python, AWS\u2022 ReactJS\u2022 API Integration\u2022 Preferred: CI/CD, PGP, KMSJob Description:\u2022 Design, create and maintain applications and software using Python, ReactJS, Rest APIs\u2022 Code using correct, concise, and clean programming language concepts\u2022 Responsible for maintaining the platform by performing YBYO job duties\u2022 Collaborating with developers, business analysts and project managers\u2022 Frequent application testing and software analysis\u2022 Play an integral part in the design and the developmental process of projects\u2022 7+ years of experience",
+        "source": "Email",
+        "date_posted": "2024-10-10 10:52:45-05:00",
+        "unique_id": "192778bcb367fa8f",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

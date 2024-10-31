@@ -1,0 +1,87 @@
+[
+    {
+        "company": "IT America",
+        "job_title": "Senior Java Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5 years",
+            "degree_required": "Bachelor's or Master's Degree in Computer Science or in Electronics/ Instrumentation/ Electrical",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Microservices",
+                "Springboot",
+                "AWS"
+            ],
+            "primary": [
+                "Digital",
+                "SDLC",
+                "Lean",
+                "Agile",
+                "XP",
+                "CI",
+                "Software and Product Security",
+                "Scalability",
+                "Documentation Practices",
+                "Refactoring",
+                "Testing Techniques"
+            ],
+            "secondary": [
+                "Unit testing",
+                "Unit testing tools",
+                "Continuous Integration"
+            ],
+            "all": [
+                "Core Java",
+                "Microservices",
+                "Springboot",
+                "AWS",
+                "Digital",
+                "SDLC",
+                "Lean",
+                "Agile",
+                "XP",
+                "CI",
+                "Software and Product Security",
+                "Scalability",
+                "Documentation Practices",
+                "Refactoring",
+                "Testing Techniques",
+                "Unit testing",
+                "Unit testing tools",
+                "Continuous Integration"
+            ],
+            "with_experience": [
+                "Core Java (5+ years)",
+                "Microservices",
+                "Springboot",
+                "AWS"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Kavyasree",
+        "email": "kavyasree@itamerica.com",
+        "jd": "From: kavyasree, IT America kavyasree@itamerica.com Reply to: kavyasree@itamerica.com Competencies:Digital : Microservices, Core JavaExperience (Years):8-10Essential Skills:JD-Java? Develop high performing, scaling and innovative end-to-end applications? Collaborate with system engineers, frontend developers and software developers to implement solutions that are aligned with and extend shared platforms and solutions? Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques? Write code that meets standards and delivers desired functionality using the technology selected for the project? Understand performance parameters and assess application performance? Work on core data structures and algorithms and implement them using language of choiceBasic Qualifications:? Bachelors or Master?s Degree in Computer Science or in Electronics/ Instrumentation/ Electrical with strong academic credentials.? A minimum of 5 years of professional experience in modern Web technologies and large applicationsTechnical Expertise: ? Utilize established development tools, guidelines and conventions including but not limited to Core Java, Springboot, microservices-API, AWS? Prepare and maintain code for various Java applications and resolve any defects in systems.? Enhance existing systems by analyzing business objectives, preparing an actionplan and identifying areas for modification and improvement? Manage defect tracking system and resolve all issues and prepare update for systems.? Monitor everyday activities of system and provide require support.? Experience with unit testing/ Unit testing tools/ Continuous Integration",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:29:57-05:00",
+        "unique_id": "192d9e19c39d9282",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

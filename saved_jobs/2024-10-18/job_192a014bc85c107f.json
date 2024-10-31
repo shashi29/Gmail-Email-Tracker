@@ -1,0 +1,107 @@
+[
+    {
+        "company": "Procorp systems",
+        "job_title": "Java Full Stack Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "DOE"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "J2EE",
+                "Rest APIs",
+                "Microservices",
+                "Angular",
+                "React"
+            ],
+            "primary": [
+                "CI/CD",
+                "Jenkins",
+                "Junit",
+                "Mockito",
+                "SQL",
+                "No-SQL",
+                "Agile",
+                "Jira",
+                "Git",
+                "Kafka",
+                "Kubernetes",
+                "Cloud AWS",
+                "EKS",
+                "Amazon Aurora PostgreSQL",
+                "Dynamo DB",
+                "S3",
+                "IAM",
+                "Route 53",
+                "ELB",
+                "SNS",
+                "SQS",
+                "Managed Streaming for Apache Kafka (MSK)",
+                "Cloud Watch"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "J2EE",
+                "Rest APIs",
+                "Microservices",
+                "Angular",
+                "React",
+                "CI/CD",
+                "Jenkins",
+                "Junit",
+                "Mockito",
+                "SQL",
+                "No-SQL",
+                "Agile",
+                "Jira",
+                "Git",
+                "Kafka",
+                "Kubernetes",
+                "Cloud AWS",
+                "EKS",
+                "Amazon Aurora PostgreSQL",
+                "Dynamo DB",
+                "S3",
+                "IAM",
+                "Route 53",
+                "ELB",
+                "SNS",
+                "SQS",
+                "Managed Streaming for Apache Kafka (MSK)",
+                "Cloud Watch"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vardhan",
+        "email": "vardhan@procorpsystems.com",
+        "jd": "From: Vardhan, Procorp systems vardhan@procorpsystems.com Reply to: vardhan@procorpsystems.com Hello,Hope you are doing well, Note: Must Need To Onsite From Day 1 & Need Only Local Candidates. Title: Java Full Stack Developer with AWSLocation: New York, NYDuration: 12 MonthsRate: DOE Job Description: An FSD/FSPE has an \u201cend to end product\u201d mindset - design, implementation, testing and deployment, and adds an additional skill (s) on top of traditional front/back-end developer roleDesign and developer application using Core JavaDesign and developer application using J2EE. Experience in J2EE design patternsCreate/consume Rest APIs & MicroservicesExperience with Angular/ReactExperience with CI/CD, JenkinsExperience with Junit/MockitoExperience with database (SQL/No-SQL_Experience with Agile, Jira, GitExperience with Kafka/KubernetesExperience with Cloud AWS \u2013 EKS, Amazon Aurora PostgreSQL, Dynamo DB, S3, IAM, Route 53, ELB, SNS, SQS, Managed Streaming for Apache Kafka (MSK), Cloud Watch.",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:07:18-05:00",
+        "unique_id": "192a014bc85c107f",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

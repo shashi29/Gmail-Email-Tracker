@@ -1,0 +1,63 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": "Python Developer with ML, AI",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Numpy",
+                "Pandas"
+            ],
+            "primary": [
+                "AI",
+                "ML"
+            ],
+            "secondary": [
+                "collaboration",
+                "communication"
+            ],
+            "all": [
+                "Python",
+                "Numpy",
+                "Pandas",
+                "AI",
+                "ML",
+                "collaboration",
+                "communication"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen Kumar",
+        "email": "naveen.t@itechus.net",
+        "jd": "Hi,My name is Naveen Kumar, and I represent iTech US Inc. iTech is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have job opening for the below role. Role: Python Developer with ML, AILocation: Phoenix, AZ (Only Locals)Duration: ContractExperience: 10+ yearsC2C: Yes, Only H1B Role Description:Key Responsibilities:Good Python coding skills.Experience in various Python libraries such as Numpy, Pandas.Good to have AI and ML experience.Good collaboration and communication skills Thanks & RegardsNaveen Kumar",
+        "source": "Email",
+        "date_posted": "2024-10-23 08:52:34-05:00",
+        "unique_id": "192b9c9d55a1a433",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

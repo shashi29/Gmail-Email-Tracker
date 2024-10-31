@@ -1,0 +1,73 @@
+[
+    {
+        "company": "HHSC (Health and Human Services Commission)",
+        "job_title": "Oracle Database Administrator",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle database design",
+                "Performance tuning",
+                "Data analysis",
+                "Technical design documentation",
+                "Agile methodology"
+            ],
+            "primary": [
+                "Multi-tier system/application development",
+                "Oracle Stored Procedures",
+                "Oracle Functions"
+            ],
+            "secondary": [
+                "Jira",
+                "Oracle Certification",
+                "Data warehouse applications",
+                "Database reporting features"
+            ],
+            "all": [
+                "Oracle database design",
+                "Performance tuning",
+                "Data analysis",
+                "Technical design documentation",
+                "Agile methodology",
+                "Multi-tier system/application development",
+                "Oracle Stored Procedures",
+                "Oracle Functions",
+                "Jira",
+                "Oracle Certification",
+                "Data warehouse applications",
+                "Database reporting features"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "Job Description -Position: Oracle Database Administrator - RemoteClient: HHSC (Health and Human Services Commission) TXLocation: Austin, TX JOB DESCRIPTION:This Database Administrator contractor position is part of the Administrative Applications Production Data Services team and will be working on the development and implementation of modifications and enhancements to the Financial Data Warehouse. This position will perform the duties of database development and will perform advanced database development tasks for databases used by an application with complex data models, workflows, and reports. May be required to create new logical and physical data models. The role will involve working with Oracle databases. The candidate will optimize database performance during and after migration, identify and resolve performance bottlenecks, and implement monitoring solutions to track database health and performance metrics. This position will develop new views, tables and PL/SQL code to be used by the customer of the Financial Data Warehouse application. Will work on activities including, but not limited to the design, development, and testing of new tables, views, PL/SQL stored procedures and functions, and necessary loaders to support the project news. Will develop and test Linux shell scripts to invoke database calls. Will develop and test scheduled jobs and shell scripts. May perform performance tuning of new and existing tables, views, PL/SQL code. The role will involve working closely with the team to create and maintain logical and physical data models, with a primary focus on Oracle. This role will require knowledge of Oracle Stored Procedures and Functions. Minimum Requirements:Candidates that do not meet or exceed the minimum stated requirements (skills/experience) will be displayed to customers but may not be chosen for this opportunity. YearsRequired/PreferredExperience6RequiredExperience in Oracle database design, analysis, and performance tuning6RequiredExperience in Oracle database structures and data analysis6RequiredExperience designing enterprise applications and/or services6RequiredExperience creating technical and functional design documentation6RequiredExperience within software development lifecycle using Agile methodology \u2013 (Scrum, for example)6RequiredExperience with multi-tier system/application development \u2013 (SOA, Microservices, 3-Tier applications, for example)1PreferredJira experience1PreferredOracle Certification1PreferredExperience with data warehouse applications and/or database reporting features Need Only 1 strong profile Linkedin and Local TX DL is must with the submission, Please do no submit without these details.",
+        "source": "Email",
+        "date_posted": "2024-10-14 16:37:23-05:00",
+        "unique_id": "1928d866bb3f2404",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "company": "DMS VISIONS INC",
+        "job_title": "Sr. Backend Developer",
+        "location": "Reston, VA, USA",
+        "full_location": {
+            "city": "Reston",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "Contract to Hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "OAUTH",
+                "CI/CD",
+                "Jenkins"
+            ],
+            "primary": [
+                "EKS Clusters",
+                "Forgerock IAM",
+                "tokenization",
+                "Terraform",
+                "REST",
+                "SOAP",
+                "PostgreSQL"
+            ],
+            "secondary": [
+                "Agile",
+                "Test Driven Development",
+                "JUnit",
+                "Karma",
+                "Mockito",
+                "cloud native solutions",
+                "JWT",
+                "OpenID",
+                "SAML"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "OAUTH",
+                "CI/CD",
+                "Jenkins",
+                "EKS Clusters",
+                "Forgerock IAM",
+                "tokenization",
+                "Terraform",
+                "REST",
+                "SOAP",
+                "PostgreSQL",
+                "Agile",
+                "Test Driven Development",
+                "JUnit",
+                "Karma",
+                "Mockito",
+                "cloud native solutions",
+                "JWT",
+                "OpenID",
+                "SAML"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vikas Chaudhary",
+        "email": "vikas@dmsvisions.com",
+        "jd": "Hi,Hope you are doing well,Please find the job description given below and let me know your interest.Position: Sr. Backend DeveloperLocation: Reston , VA - Hybrid Duration : Contract to HireClient : Insurance DomainVisa :Only USC or GC (If GC Before 85 born candidates only)-Will be working 3 days hybrid in any of the locations: Must CURRENTLY live in/near Chicago, Jacksonville, FL, Birmingham, AL, Alpharetta, GA or Dallas, TXAdditional Requirements: -Insurance Industry experience-5+ years Java/Spring-OAUTH, security tokens, CI/CD Jenkins or comparable, EKS Clusters, Forgerock IAM, tokenization, IAC- Terraform automated pipelines Project background: Client is looking to build Agent Portal and Customer Portal for P&C Business. As part of this effort looking to hire employees with digital experience.Sr. Backend DeveloperAs a Backend Developer , you will provide technical consulting for application software development and computing technologies, with a strong focus on developing highly performant and scalable applications that ensure an excellent user experience. You will primarily work on agent-facing applications, ensuring they are easy to use and meet the needs of our agents. you will collaborate with a team of experts passionate about innovative and result-driven technologies, continuously learning and growing together.At least 5 years of professional software development experience, with a strong background in back-end development and Open API on agent-facing applications and familiarity with the auto insurance industry.Software development experience (core language/framework: Java/Spring) in an Agile environment using Test Driven Development methodologyWorked with various project methodologies (Agile and waterfall).Proficiency with the latest version of Spring Boot framework.Experience with developing/consuming Web Services (REST, SOAP) and APIs with exposure to auto insurance industry standard models.Experience with Data (SQL or similar query language) and data constructs (XML, JSON) and Databases such as PostgreSQL.Experience with unit test framework (JUnit, Karma, Mockito etc.)Experience with design, development, and deployment of cloud native solutions such as Lambda, API Gateway, EKS, cloud data platforms is a plus.Experience with JWT, OAuth, OpenID, and SAML.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:34:29-05:00",
+        "unique_id": "192b0455b415ff8a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

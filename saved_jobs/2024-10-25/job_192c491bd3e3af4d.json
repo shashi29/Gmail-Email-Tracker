@@ -1,0 +1,103 @@
+[
+    {
+        "company": "iTech US, Inc.",
+        "job_title": "Java Full stack Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "ReactJS",
+                "SQL",
+                "NoSQL"
+            ],
+            "primary": [
+                "Azure",
+                "Kubernetes",
+                "REST APIs",
+                "Continuous integration",
+                "Test automation"
+            ],
+            "secondary": [
+                "Pivotal Cloud Foundry",
+                "JIRA",
+                "Bitbucket",
+                "GitHub",
+                "Confluence",
+                "JUnit",
+                "Jasmine",
+                "Jest",
+                "Kafka",
+                "Solace",
+                "Oracle",
+                "Liquibase",
+                "Layer7 API Developer Portal"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "ReactJS",
+                "SQL",
+                "NoSQL",
+                "Azure",
+                "Kubernetes",
+                "REST APIs",
+                "Continuous integration",
+                "Test automation",
+                "Pivotal Cloud Foundry",
+                "JIRA",
+                "Bitbucket",
+                "GitHub",
+                "Confluence",
+                "JUnit",
+                "Jasmine",
+                "Jest",
+                "Kafka",
+                "Solace",
+                "Oracle",
+                "Liquibase",
+                "Layer7 API Developer Portal"
+            ],
+            "with_experience": [
+                "Java (8+ years)",
+                "Microservices",
+                "Spring Boot",
+                "ReactJS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sowmyasri Sistla",
+        "email": "sowmya.s@itechus.net",
+        "jd": "Hi,Greetings from iTech US, Please go through the below requirement and let me know your interest. Java Full stack DeveloperChicago(Downtown), IL (Day One Onsite) Preferred local Must got for F2F12 Months Must : Azure & ReactJSJob Description: 8+ years development experience using Java, Microservices, SpringBoot, SQL and NoSQL databasesStrong understanding of enterprise architecture and development patterns and best practicesDesign and develop cloud native applications using Java, Spring Cloud and other frameworks running on Microsoft AzureMoving applications from Pivotal Cloud Foundry (Tanzu Application Service) to AzureManage Layer7 API Developer Portal for API ManagementBuild and support Development Accelerators that integrate Application development best practices and patterns by working closely with Northern Trust Developer community.Ensure that the applications delivered are aligned with Enterprise Architecture standards and patterns along with meeting non-functional requirements.Provide guidance and mentor Application developers in Digital Shared Services team and other teams.Strong understanding of REST APIs and how to use them in practice.Strong experience deploying and hosting applications in containers and Kubernetes.Experience in Single Page Applications using React/ReduxStrong Experience with continuous integration and collaboration tools like Azure DevOps, JIRA, Bitbucket, GitHub and Confluence.Strong Experience with unit testing and test automation tools and frameworks like JUnit, Jasmine, Jest etc.Knowledge of the financial services industryExperience with PaaS such a Pivotal Cloud Foundry, AKS a plusTechnical Skills: Spring Boot Microservices / Java / ReactJS / Kafka / Solace / Oracle / Liquibase / Layer7 API Developer Portal/ Kubernetes / Pivotal Cloud Foundry / Azure.",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:10:29-05:00",
+        "unique_id": "192c491bd3e3af4d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

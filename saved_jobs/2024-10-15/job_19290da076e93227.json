@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Softcom Systems",
+        "job_title": "SQL DBA",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "AWS",
+                "SQL Server migration"
+            ],
+            "primary": [
+                "DAG setup"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "AWS",
+                "SQL Server migration",
+                "DAG setup"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manasa.N",
+        "email": "manasa@softcomsystems.com",
+        "jd": "Hi, Hope you are doing well. We are looking for SQL DBA \u2013 New York, NY, USA (Onsite) Only Locals (NY OR NJ) \u2013 Contract one of our Clients. If you are available and interested then please give me a call back at Desk: 609-333-9000 EX: 64 or you can E-Mail me at manasa@softcomsystems.com Role: SQL DBA Location: New York, NY, USA (Onsite) 5 Days a week Duration: Contract Need only New York or New Jersey Locals and Experience in DAG Job Description: SQL server DBA who has experience of handling sql server on AWS Database administrator certifications from Microsoft or a reputed organization Hands on System engineer who can manage extra-large databases with high availability, Realtime replication from OLTP and OLAP using distributed database Ability to troubleshoot sql server issues not limited but covering system locks, fragmentation, index reorganization and rebuild, system logs issues, replication delays, ghost records Experience in handling swl server migration from on Prem to AWS and from old SQL server version to new SQL server version. Expert in DAG setup and troubleshooting of DAG related issues. Primary Skills: SQL, AWS, SQL Server migration, . Expert in DAG setup",
+        "source": "Email",
+        "date_posted": "2024-10-15 10:08:40-05:00",
+        "unique_id": "19290da076e93227",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

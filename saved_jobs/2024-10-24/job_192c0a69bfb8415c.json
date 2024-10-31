@@ -1,0 +1,61 @@
+[
+    {
+        "company": "Appian Infotech",
+        "job_title": "AWS Cloud Expert & Storage Expert",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Cloud Architecture",
+                "Lustre architecture",
+                "AWS FSx for ONTAP"
+            ],
+            "primary": [
+                "Strong knowledge of Lustre architecture and configurations",
+                "Proficiency in AWS services, particularly AWS FSx for ONTAP",
+                "Familiarity with data management tools and practices"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS Cloud Architecture",
+                "Lustre architecture",
+                "AWS FSx for ONTAP",
+                "Strong knowledge of Lustre architecture and configurations",
+                "Proficiency in AWS services, particularly AWS FSx for ONTAP",
+                "Familiarity with data management tools and practices"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Abhishek Choudhary",
+        "email": "abhishek.c@appianinfotech.com",
+        "jd": "From: Abhishek Choudhary, Appian Infotech abhishek.c@appianinfotech.com Reply to: abhishek.c@appianinfotech.com Job Title: AWS Cloud Expert & Storage Expert Location: REMOTEDuration: Long term Contract W2_C2C Architecture Design:Design and implement the architecture for Lustre file systems and AWS FSx for ONTAP, ensuring scalability, reliability, and high performance to meet analytical workload demands.Lustre File System Management:Configure, maintain, and optimize Lustre file systems to support high-performance data access and storage for analytical applications.AWS FSx for ONTAP Integration:Design and implement the integration of AWS FSx for ONTAP into the existing statistical computing environment, ensuring compatibility and performance requirements are met.Data Migration Planning:Develop and execute comprehensive migration plans for transitioning data from Lustre file systems to AWS FSx for ONTAP, minimizing downtime and ensuring data integrity.Performance Optimization Monitoring:Continuously monitor the performance of both Lustre and AWS FSx for ONTAP systems, identifying and implementing solutions to enhance efficiency and response times. Technical Skills:\u00b7 AWS Cloud Architecture \u00b7 Strong knowledge of Lustre architecture and configurations.\u00b7 Proficiency in AWS services, particularly AWS FSx for ONTAP.\u00b7 Familiarity with data management tools and practices. Thanks & Regards Abhishek Choudhary(Technical Recruiter)Appian Infotech Inc.Email- abhishek.c@appianinfotech.comLinkedIn: https://www.linkedin.com/in/abhishek-c-778a3a193/Website - www.appianinfotech.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 16:54:46-05:00",
+        "unique_id": "192c0a69bfb8415c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

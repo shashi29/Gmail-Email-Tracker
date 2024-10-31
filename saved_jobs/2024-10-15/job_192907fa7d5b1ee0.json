@@ -1,0 +1,78 @@
+[
+    {
+        "company": "iTech US Inc.",
+        "job_title": "Oracle PL/SQL Developer",
+        "location": "Irvine, CA, USA",
+        "full_location": {
+            "city": "Irvine",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "SQL",
+                "Database Design",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "Oracle Database",
+                "Data Manipulation",
+                "Testing",
+                "Debugging",
+                "Documentation"
+            ],
+            "secondary": [
+                "Collaboration",
+                "Maintenance",
+                "Support",
+                "Security Management",
+                "Integration",
+                "Continuous Learning"
+            ],
+            "all": [
+                "PL/SQL",
+                "SQL",
+                "Database Design",
+                "Performance Tuning",
+                "Oracle Database",
+                "Data Manipulation",
+                "Testing",
+                "Debugging",
+                "Documentation",
+                "Collaboration",
+                "Maintenance",
+                "Support",
+                "Security Management",
+                "Integration",
+                "Continuous Learning"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Naveen Kumar",
+        "email": "naveen.t@itechus.net",
+        "jd": "From: Naveen Kumar, iTechUS naveen.t@itechus.net Reply to: naveen.t@itechus.net Hi,My name is Naveen Kumar, and I represent iTech US Inc. iTech is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. We have job opening for the below role. Role: Oracle PL/SQL DeveloperLocation: Irvine, CA (Only Locals)Duration: ContractExperience: 10+ yearsC2C: Yes, Only H1B Role Description:Database Design and Development:Design and implement database structures, including tables, views, and indexes.Develop PL/SQL procedures, functions, and packages to encapsulate business logic. Performance Tuning:Optimize SQL queries and PL/SQL code for performance.Analyze and resolve performance issues using tools like Oracle Explain Plan and SQL Trace. Data Manipulation:Write complex SQL queries to retrieve, insert, update, and delete data.Use PL/SQL to automate data processing tasks. Testing and Debugging:Conduct unit testing of PL/SQL code to ensure functionality and reliability.Debug and troubleshoot PL/SQL programs, identifying and fixing issues. Documentation:Maintain comprehensive documentation of database designs, PL/SQL code, and procedures.Create user manuals and technical documentation for future reference. Collaboration:Work closely with database administrators, application developers, and business analysts to gather requirements.Participate in code reviews and provide constructive feedback to peers. Maintenance and Support:Monitor database performance and make recommendations for improvements.Provide support for production issues and assist in system upgrades. Security Management:Implement security measures to protect sensitive data and ensure compliance with regulations.Manage user roles and permissions within the database. Integration:Integrate with other systems and applications, ensuring smooth data flow and communication.Use tools and technologies such as Oracle Forms, Oracle Reports, or APEX for front-end development. Continuous Learning: Stay updated with the latest Oracle technologies and PL/SQL features. Participate in training sessions and workshops to enhance skills. Thanks & RegardsNaveen Kumar",
+        "source": "Email",
+        "date_posted": "2024-10-15 08:09:46-05:00",
+        "unique_id": "192907fa7d5b1ee0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

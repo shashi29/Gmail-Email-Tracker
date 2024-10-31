@@ -1,0 +1,65 @@
+[
+    {
+        "company": "Siri Info Solutions",
+        "job_title": "Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "ForgeRock CIAM",
+                "Java",
+                "JavaScript",
+                "Groovy",
+                "OAuth 2.0",
+                "SAML",
+                "AWS Cloud services"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "ForgeRock CIAM",
+                "Java",
+                "JavaScript",
+                "Groovy",
+                "OAuth 2.0",
+                "SAML",
+                "AWS Cloud services"
+            ],
+            "with_experience": [
+                "Java (8-10 years)",
+                "JavaScript (8-10 years)",
+                "Groovy (8-10 years)",
+                "OAuth 2.0 (8-10 years)",
+                "SAML (8-10 years)",
+                "AWS Cloud services (8-10 years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Sonu Sharma",
+        "email": "sonu.sharma@siriinfo.com",
+        "jd": "From: Sonu Sharma, Siri Info Solutions sonu.sharma@siriinfo.com Reply to: sonu.sharma@siriinfo.com Role name:DeveloperRole Description:ForgeRock Development SPOC of PearsonCompetencies:Forgerock Access Management, Foundation : JavaScriptExperience (Years):8-10Essential Skills:Hands-on experience in ForgeRock CIAM environment.- Hands-on experience in programming languages like Java/Java Script/Groovy. Java is preferred.- Experience in designing and implementing User journeys.- Experience in OAuth 2.0 and SAML integrations.- Experience in working with AWS Cloud services.- Performing analysis and debugging to fix reported IssuesDesirable Skills:Hands-on experience in ForgeRock CIAM environment.- Hands-on experience in programming languages like Java/Java Script/Groovy. Java is preferred.- Experience in designing and implementing User journeys.- Experience in OAuth 2.0 and SAML integrations.- Experience in working with AWS Cloud services.- Performing analysis and debugging to fix reported IssuesCountry:United StatesBranch | City | Location:TCS - Dallas, TX~TCS - Raleigh, NCDallas~North DurhamDallas, AR~North Durham, NC",
+        "source": "Email",
+        "date_posted": "2024-10-11 15:18:27-05:00",
+        "unique_id": "1927d5c49a772128",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "company": "Yochana IT Solutions Inc.",
+        "job_title": "Data Engineer",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Apache Spark",
+                "Airflow",
+                "Scala",
+                "Python",
+                "AWS"
+            ],
+            "primary": [
+                "CI/CD"
+            ],
+            "secondary": [],
+            "all": [
+                "Apache Spark",
+                "Airflow",
+                "Scala",
+                "Python",
+                "AWS",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Pallavi Boola",
+        "email": "pallavi@yochana.com",
+        "jd": "Hello,I\u2019m a Technical Recruiter with Yochana Solutions Inc., a national IT staffing solutions provider with 14+ years of experience delivering value to leading companies across the U.S.A. and Canada,I'm currently staffing for Data Engineer \u2013 St. Louis, MO [Onsite], Below you will find the job description, if you are qualified and interested, please send me your Updated Word Document Resume.I'm very sorry if this position is not an ideal fit, We'll keep you in mind for other suitable positions and referrals would be appreciated.Thank you so much for your attention and participation.Job Role: Data EngineerJob Location: St. Louis, MO [Onsite]Project Duration: 6-12 MonthsJob Description: Apache SparkAirflowScalaPythonAWSCI/CD Regards, Pallavi BoolaRESOURCE SPECIALIST Contact- 2482373189Yochana IT Solutions Inc. 23000 Commerce Dr, Farmington hills, MI-48335 pallavi@yochana.com || www.yochana.com",
+        "source": "Email",
+        "date_posted": "2024-10-10 11:07:15-05:00",
+        "unique_id": "1927754081bf01fd",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

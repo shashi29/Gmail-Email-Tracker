@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Webster Tech Solutions INC",
+        "job_title": "Full Stack Developer",
+        "location": "Cedar Rapids, IA, USA",
+        "full_location": {
+            "city": "Cedar Rapids",
+            "state": "IA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Angular",
+                "Java",
+                "Spring Boot"
+            ],
+            "primary": [
+                "NestJS",
+                "Terraform",
+                "AWS",
+                "Jenkins",
+                "GitHub",
+                "Jira"
+            ],
+            "secondary": [],
+            "all": [
+                "Angular",
+                "Java",
+                "Spring Boot",
+                "NestJS",
+                "Terraform",
+                "AWS",
+                "Jenkins",
+                "GitHub",
+                "Jira"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rahman, Webster",
+        "email": "rahman@webstertechsolutions.com",
+        "jd": "From: Rahman, Webster Tech Solutions INC rahman@webstertechsolutions.com Reply to: rahman@webstertechsolutions.com Position: Full Stack Developer (Ex. Employee of the Transamerica will highly Preffered)Location: Cedar Rapids, IA \u2013 (Remote is fine) Note: Ex Money Services resource who has worked for TransAmerica will be highly preferred Key Skills - Angular, Java, Spring Boot Job Description: At least 10+ years of Information Technology experience.Tech skills \u2013 Angular, NestJS, Stringboot/Spring Framework, TerraForm, AWS, Jenkins, GitHub, JiraProvide User Interface and User Experience Design and Development for our productsComplete development stories from requirement with minimal guidanceCoordinate with other developers to implement application changes.Provide support of all environment through productionAssist Product Owner with user interface and user experience design",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:34:38-05:00",
+        "unique_id": "192bb005a8411860",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

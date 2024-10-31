@@ -1,0 +1,96 @@
+[
+    {
+        "company": "ICS Global Soft",
+        "job_title": "Python Architect (Development)",
+        "location": "San Deigo, CA, USA",
+        "full_location": {
+            "city": "San Deigo",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Locust",
+                "Performance Testing",
+                "APM",
+                "Datadog"
+            ],
+            "primary": [
+                "Enterprise and Project Performance Test strategies",
+                "Framework development",
+                "Collaboration with Development and Product teams",
+                "Performance Testing lifecycle",
+                "Test result analysis"
+            ],
+            "secondary": [
+                "Distributed Cache",
+                "Load Balancers",
+                "Database systems",
+                "Project planning",
+                "Problem-solving",
+                "Written and verbal communication",
+                "Learning new tools and technologies",
+                "Automated Performance Testing in CI/CD",
+                "Production monitoring dashboards",
+                "Microservices",
+                "Docker",
+                "Kubernetes",
+                "Application architecture concepts",
+                "Chaos Engineering"
+            ],
+            "all": [
+                "Python",
+                "Locust",
+                "Performance Testing",
+                "APM",
+                "Datadog",
+                "Enterprise and Project Performance Test strategies",
+                "Framework development",
+                "Collaboration with Development and Product teams",
+                "Performance Testing lifecycle",
+                "Test result analysis",
+                "Distributed Cache",
+                "Load Balancers",
+                "Database systems",
+                "Project planning",
+                "Problem-solving",
+                "Written and verbal communication",
+                "Learning new tools and technologies",
+                "Automated Performance Testing in CI/CD",
+                "Production monitoring dashboards",
+                "Microservices",
+                "Docker",
+                "Kubernetes",
+                "Application architecture concepts",
+                "Chaos Engineering"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ram",
+        "email": "ram@icsglobalsoft.com",
+        "jd": "Hello ,Hope you are doing well.This is Ram from ICS Global Soft. Kindly find the below job description and let me know your availability. Role: Python Architect (Development)Location: San Deigo, CA (Onsite)Duration: Long-term Mandatory SkillsAbility to develop Enterprise and Project Performance Test strategiesStrong Python/ Locust tool skillsProven ability to develop frameworks preferably performance testing frameworksCollaborate with Development, Product owners, solution architects, business teamsGood understanding of Performance Testing and Engineering lifecycle, including scoping and workload modelingConduct performance tests \u2013 Load, Stress, Endurance etcAbility to analyze test results and provide performance improvement recommendationsDemonstrated experience with APM, preferably DatadogWorking knowledge of distributed Cache, Load Balancers, Database systemsGood project planning skillsBe able to identify improvement areas and implement for delivery excellence Strong problem-solving skillsStrong written and verbal communication skillsInterest in learning new tools and technologies Good to have skillsDesign and implement automated Performance Testing in the CI/CD pipeline.Experienced in setting up Production monitoring dashboards based on business and IT goalsExperience with micros servers based on architecture and containerization-based deployments like Docker, KubernetesKnowledge of application architecture concepts, including topology, protocols, components, and principles would be advantageousChaos Engineering",
+        "source": "Email",
+        "date_posted": "2024-10-29 14:30:37-05:00",
+        "unique_id": "192d9e239a959d22",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

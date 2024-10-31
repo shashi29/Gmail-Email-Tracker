@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Abidi Solutions",
+        "job_title": "Java Application Support Engineer",
+        "location": "Sorrento Valley, CA, USA",
+        "full_location": {
+            "city": "Sorrento Valley",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12-month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "MSSQL",
+                "Oracle",
+                "Windows",
+                "UNIX"
+            ],
+            "primary": [
+                "Application Administration",
+                "DevOps",
+                "Ansible",
+                "Git",
+                "Jenkins",
+                "Kubernetes",
+                "Python",
+                "Shell Scripting"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "MSSQL",
+                "Oracle",
+                "Windows",
+                "UNIX",
+                "Application Administration",
+                "DevOps",
+                "Ansible",
+                "Git",
+                "Jenkins",
+                "Kubernetes",
+                "Python",
+                "Shell Scripting"
+            ],
+            "with_experience": [
+                "Java (5+ years)",
+                "MSSQL (5+ years)",
+                "Oracle (5+ years)",
+                "Windows (5+ years)",
+                "UNIX (5+ years)",
+                "DevOps tools (3+ years)",
+                "Python (3+ years)",
+                "Shell Scripting (3+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Shaik Mohammed",
+        "email": "smohammed@abidisolutions.com",
+        "jd": "From: shaik mohammed, www.abidisolutions.com smohammed@abidisolutions.com Reply to: smohammed@abidisolutions.com Role: Java Application Support EngineerLocation: HYBRID - Sorrento Valley, CAVisa: Only Citizen and Green card Duration: 12-month (Only USC & GC) Must Haves5+ years of application administration experience (specifically Java-based apps and MSSQL/Oracle databases)5+ years of experience deploying java-based enterprise apps in a well-architected framework ensuring good security, monitoring, high availability, etc.5+ years of experience installing, deploying, and configuring applications on Windows and UNIX servers3+ years of experience creating and editing python or shell scripts to automate development3+ years of experience using DevOps tools like Ansible, Git, Jenkins, Kubernetes to write playbooks, automate batching, and automate the installation and deployment process",
+        "source": "Email",
+        "date_posted": "2024-10-11 12:03:45-05:00",
+        "unique_id": "1927ccac86eb8c83",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

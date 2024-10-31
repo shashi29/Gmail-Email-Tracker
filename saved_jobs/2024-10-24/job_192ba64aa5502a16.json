@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Source Infotech Inc",
+        "job_title": "Sr Data Modeler",
+        "location": "Mount Laurel, NJ, USA",
+        "full_location": {
+            "city": "Mount Laurel",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "12+ Years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Information Systems, or a related field (Master\u2019s degree preferred)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Modeling",
+                "Data Vault",
+                "Azure Data Services"
+            ],
+            "primary": [
+                "Azure SQL",
+                "Azure Data Lake",
+                "Azure Synapse"
+            ],
+            "secondary": [
+                "Databricks",
+                "Data analysis and modeling tools",
+                "Power Designer",
+                "ERWin",
+                "ER/Studio"
+            ],
+            "all": [
+                "Data Modeling",
+                "Data Vault",
+                "Azure Data Services",
+                "Azure SQL",
+                "Azure Data Lake",
+                "Azure Synapse",
+                "Databricks",
+                "Data analysis and modeling tools",
+                "Power Designer",
+                "ERWin",
+                "ER/Studio"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Abhisek Kumar",
+        "email": "abhisek.k@sourceinfotech.com",
+        "jd": "From: abhisek, source infotech inc abhisek.k@sourceinfotech.com Reply to: abhisek.k@sourceinfotech.com Role: Sr Data ModelerLocation: Mount Laurel, NJ (Hybrid)Visa: H4-EAD, GC, GC-EAD, USCExperience: 12 + YearsDomain: Banking (Must)Primary Skills: Data Modeling, Data Vault, Azure Data Services (Azure SQL, Azure Data Lake & Azure Synapse)Job Description:We are seeking a skilled Sr. Data Modeler to join our team and contribute to the design and implementation of scalable and efficient data models. The ideal candidate will have experience with Data Vault techniques, proficiency in Cloud Azure, and good working knowledge with Databricks.Responsibilities:Data Modeling:\u2022Design and develop data models using Data Vault methodologies to ensure robust, scalable, and flexible data architectures.\u2022Create and maintain conceptual, logical, and physical data models to support business requirements.\u2022Collaborate with stakeholders to understand data requirements and translate them into effective data models.\u2022Implement best practices for data modeling, including normalization, denormalization, and data integration.Data Vault Implementation:\u2022Utilize Data Vault techniques to build enterprise data lake and lake house and integrate disparate data sources.\u2022Design and implement Hubs, Links, and Satellites to ensure comprehensive data capture and historical tracking.\u2022Optimize data vault models for performance and scalability.Cloud Azure:\u2022Design and deploy data models on Azure Data Services, including Azure SQL Database, Azure Data Lake, and Azure Synapse Analytics.\u2022Ensure data security, compliance, and best practices in Azure environments.\u2022Collaboration and Communication:\u2022Work closely with data engineers, data scientists, and business analysts to understand data needs and ensure data model alignment.\u2022Provide technical guidance and support on data modeling best practices and Data Vault principles.\u2022Document data models, data flows, and integration processes clearly and comprehensively. Data Modelling tools Azure:\u2022Data analysis and modeling tools (e.g. Power Designer, ERWin, ER/Studio)Requirements:\u2022 Bachelor\u2019s degree in Computer Science, Information Systems, or a related field (Master\u2019s degree preferred).\u2022Proven experience in data modeling, with a strong focus on Data Vault techniques.\u2022Proficiency in Cloud Azure services, including Azure Data Lake, Azure SQL Database, and Azure Synapse Analytics.\u2022Understanding / Knowledge with Databricks and its ecosystem.\u2022Strong understanding of data warehousing concepts, Data Lake house, ETL processes, and data integration techniques.\u2022 Excellent analytical and problem-solving skills with attention to detail.\u2022Strong communication and collaboration skills to work effectively with cross-functional teams.\u2022Relevant certifications in Azure and Databricks are a plus. Preferred Qualifications:\u2022Experience with additional cloud platforms (e.g., AWS, Google Cloud) is a plus.\u2022Knowledge of data governance and data quality principles.\u2022 Experience with BI tools such as Power BI, Tableau, or Looker.",
+        "source": "Email",
+        "date_posted": "2024-10-23 11:44:22-05:00",
+        "unique_id": "192ba64aa5502a16",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

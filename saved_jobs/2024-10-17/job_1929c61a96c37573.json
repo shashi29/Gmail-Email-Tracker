@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Amex",
+        "job_title": "AWS Database Specialist",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in computer science, Information Technology, or a related field (or equivalent experience)",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS database services",
+                "SQL",
+                "NoSQL databases",
+                "database performance tuning",
+                "database security best practices"
+            ],
+            "primary": [
+                "AWS Certified Database Specialty",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills"
+            ],
+            "secondary": [
+                "collaborative skills"
+            ],
+            "all": [
+                "AWS database services",
+                "SQL",
+                "NoSQL databases",
+                "database performance tuning",
+                "database security best practices",
+                "AWS Certified Database Specialty",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "collaborative skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Vinita Singh",
+        "email": "vinita.singh@tekinspirations.com",
+        "jd": "Job Description -Client: Amex Role: AWS Database SpecialistLocation: Phoenix, AZ \u2013 Hybrid ( look for locals ) Visa: No H1B / opt / cpt (CITIZEN,GREEN CARD,GC EAD,H4 EAD Only)Main challenge for this role is they are looking for non-indian candidates, there team is filled with Indians and they are looking for diversity nowResume should not be more than 4 pages \u2022 Bachelor's degree in computer science, Information Technology, or a related field (or equivalent experience). \u2022 Proven experience with AWS database services and management. \u2022 AWS Certified Database Specialty or related certification. \u2022 Strong knowledge of SQL and NoSQL databases. \u2022 Experience with database performance tuning and optimization techniques. \u2022 Familiarity with database security best practices and compliance standards. \u2022 Excellent analytical and problem-solving skills. \u2022 Strong communication skills, with the ability to work collaboratively in a team environment.",
+        "source": "Email",
+        "date_posted": "2024-10-17 15:52:49-05:00",
+        "unique_id": "1929c61a96c37573",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

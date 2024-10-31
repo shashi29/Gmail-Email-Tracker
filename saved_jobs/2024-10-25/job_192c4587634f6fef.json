@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Intell tech Solution LLC",
+        "job_title": "Full Stack .NET Core Technical Lead with Angular",
+        "location": "Pittsburgh, PA, USA",
+        "full_location": {
+            "city": "Pittsburgh",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Permanent",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                ".NET Core",
+                "Angular",
+                "Azure",
+                "CosmosDB"
+            ],
+            "primary": [
+                "SQL Server",
+                "Entity Framework",
+                "Dapper",
+                "ServiceBus"
+            ],
+            "secondary": [
+                "DevOps practices",
+                "Technical documentation",
+                "Unit tests",
+                "Integration tests",
+                "End-to-end tests"
+            ],
+            "all": [
+                ".NET",
+                ".NET Core",
+                "Angular",
+                "Azure",
+                "CosmosDB",
+                "SQL Server",
+                "Entity Framework",
+                "Dapper",
+                "ServiceBus",
+                "DevOps practices",
+                "Technical documentation",
+                "Unit tests",
+                "Integration tests",
+                "End-to-end tests"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "P Sankar",
+        "email": "pbsankar@intellecttechsolutions.com",
+        "jd": "From: Sankar, intellecttechsolutions pbsankar@intellecttechsolutions.com Reply to: pbsankar@intellecttechsolutions.com Full Stack .NET Core Technical Lead with Angular - On-site Locaton : Dallas / Pittsburgh Looking for GC profiles who can work on a W-2 basis. Looking to fill 2 .net Fullstack role with .net core and Angular experience in Pittsburgh or Dallas, Inperson interview required in Pittsburgh. This is a onsite role.Job Overview:We are looking for a skilled and experienced Full Stack Engineer with over 10 years of experience, local to Pittsburgh, to join our dynamic team. As a key member of our technology department, you will primarily work as an individual contributor, writing code for assigned user stories while also expected to perform your own design and development. You will play a crucial role in developing and maintaining robust mortgage processing applications, with a strong background in both frontend and backend development. Roles and Responsibilities:Designed, developed, and maintained both frontend and backend components of mortgage processing applications, with a focus on Angular (7+ years, including Angular 13+) for the frontend.Utilize your in-depth knowledge and experience with .NET Core to build scalable and high-performance applications, particularly in building REST APIs.Collaborate with cross-functional teams to integrate applications with Azure services and CosmosDB (3+ years), ensuring seamless functionality and optimal performance.Implement database solutions using SQL Server and ensure proficiency in writing advanced queries.Work with ORM tools like Entity Framework and Dapper to manage data efficiently.Handle messaging technologies with a preference for ServiceBus (5+ years experience).Conduct thorough code reviews and implement optimization techniques to enhance application performance and maintainability.Work closely with product managers, UI/UX designers, and other stakeholders to understand requirements and deliver solutions that meet business needs.Create and maintain comprehensive technical documentation for developed applications, APIs, and systems.Develop and execute unit tests, integration tests, and end-to-end tests to ensure the reliability and robustness of the applications.Provide support for production issues, troubleshoot problems, and implement effective solutions promptly. Qualifications:Bachelor\u2019s degree in Computer Science, Engineering, or a related field.Proven experience as a Full Stack Developer with a focus on .NET technologies.Strong expertise in .NET, .NET Core, Angular, Azure, CosmosDB, and messaging technologies like ServiceBus.Familiarity with DevOps practices and tools for continuous integration and deployment.Excellent problem-solving and debugging skills.Ability to work effectively in a fast-paced and dynamic environment.",
+        "source": "Email",
+        "date_posted": "2024-10-25 09:37:50-05:00",
+        "unique_id": "192c4587634f6fef",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

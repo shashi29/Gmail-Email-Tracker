@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Maintec",
+        "job_title": "Data Lead / Architect",
+        "location": "New Holland, PA, USA",
+        "full_location": {
+            "city": "New Holland",
+            "state": "PA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "14+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": "",
+            "contact_person": "Arun Kumar",
+            "email": "arun.p@maintec.com"
+        },
+        "skills": {
+            "core": [
+                "Microsoft Azure Data Services",
+                "Azure SQL",
+                "Azure Data Lake",
+                "Azure Data Factory",
+                "SQL Server",
+                "SQL Server Integration Services (SSIS)"
+            ],
+            "primary": [
+                "Power BI",
+                "Data modeling",
+                "ETL/ELT design",
+                "Data governance",
+                "Data security",
+                "Data quality frameworks"
+            ],
+            "secondary": [
+                "Industry standards",
+                "Best practices",
+                "Complex data architectures",
+                "Communication skills",
+                "P&C Insurance domain"
+            ],
+            "all": [
+                "Microsoft Azure Data Services",
+                "Azure SQL",
+                "Azure Data Lake",
+                "Azure Data Factory",
+                "SQL Server",
+                "SQL Server Integration Services (SSIS)",
+                "Power BI",
+                "Data modeling",
+                "ETL/ELT design",
+                "Data governance",
+                "Data security",
+                "Data quality frameworks",
+                "Industry standards",
+                "Best practices",
+                "Complex data architectures",
+                "Communication skills",
+                "P&C Insurance domain"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "jd": "From: Arun, Maintec arun.p@maintec.com Reply to: arun.p@maintec.com Hi ,We have a position open for our client , please have a look into the job description below and share me your updated resume Job Title : Data Lead / Architect Location : New Holland, PA Job Description :14+ years\u2019 experience with strong expertise in Microsoft Azure Data Services: Azure SQL, Azure Data Lake, Azure Data Factory, MS Fabric.Proficiency with SQL Server and SQL Server Integration Services (SSIS).Familiarity with Power BI for building data models and reports.Hands-on experience in data modeling, ETL/ELT design, and implementation.Experience in implementing data governance, data security, and data quality frameworks.Knowledge of industry standards and best practices related to data management.Strong ability to design and troubleshoot complex data architectures.Strong communication skills to interact with both technical and non-technical stakeholders.Experience in P&C Insurance domain is a desirable Thank You & Regards, Arun Kumar / Lead US IT Recruiter",
+        "source": "Email",
+        "date_posted": "2024-10-28 07:45:14-05:00",
+        "unique_id": "192d348c827a6da0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

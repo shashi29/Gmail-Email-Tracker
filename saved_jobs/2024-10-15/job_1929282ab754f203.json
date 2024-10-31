@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Samson Software Solutions",
+        "job_title": "Data Architect (Finance Domain)",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data management",
+                "Data governance",
+                "Data engineering",
+                "AWS services",
+                "Database modeling"
+            ],
+            "primary": [
+                "Data acquisition",
+                "Data ingestion",
+                "Data processing",
+                "Data publishing",
+                "High-level design"
+            ],
+            "secondary": [
+                "DevOps",
+                "DataOps",
+                "Data quality",
+                "Security compliance",
+                "Researching data acquisition opportunities"
+            ],
+            "all": [
+                "Data management",
+                "Data governance",
+                "Data engineering",
+                "AWS services",
+                "Database modeling",
+                "Data acquisition",
+                "Data ingestion",
+                "Data processing",
+                "Data publishing",
+                "High-level design",
+                "DevOps",
+                "DataOps",
+                "Data quality",
+                "Security compliance",
+                "Researching data acquisition opportunities"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ashish Awasthi",
+        "email": "ashish.awasthi@samsonsoft.com",
+        "jd": "* Responsible for ensuring that the data management and governance frameworks are in place and adhered to\n* Responsible for Architecting Data engineering pipelines including data acquisition, Ingestion, management, processing, publishing by leveraging various AWS services\n* Responsible for developing and optimizing database models to store and retrieve company information\n* Responsible for determining strategic data requirements, creating high-level designs according to these requirements\n* Responsible for guiding and resolving issues with AWS service configuration, performance, security compliance, data quality issues and data retrieval.\n* Prepare Architecture and high-level design documents for the data engineering pipelines\n* Designing DevOps & DataOps pipelines and resolve issues during implementation and execution.\n* Responsible for researching data acquisition opportunities",
+        "source": "Email",
+        "date_posted": "2024-10-15 14:32:04-05:00",
+        "unique_id": "1929282ab754f203",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

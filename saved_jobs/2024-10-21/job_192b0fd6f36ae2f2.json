@@ -1,0 +1,90 @@
+[
+    {
+        "company": "Webster Tech Solutions INC",
+        "job_title": "Data Architect with AWS & Snowflake",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Quality",
+                "Data Governance",
+                "Security",
+                "Data Optimisation",
+                "Data Migration"
+            ],
+            "primary": [
+                "AWS",
+                "Snowflake",
+                "Data Lake",
+                "Data Warehouse",
+                "Data Transformation",
+                "Data Security",
+                "Performance Optimization"
+            ],
+            "secondary": [
+                "Batch Processing",
+                "Streaming",
+                "API",
+                "Message Queues",
+                "Real-time Data",
+                "Structured Data",
+                "Semi-structured Data",
+                "Unstructured Data",
+                "Presentation Skills"
+            ],
+            "all": [
+                "Data Quality",
+                "Data Governance",
+                "Security",
+                "Data Optimisation",
+                "Data Migration",
+                "AWS",
+                "Snowflake",
+                "Data Lake",
+                "Data Warehouse",
+                "Data Transformation",
+                "Data Security",
+                "Performance Optimization",
+                "Batch Processing",
+                "Streaming",
+                "API",
+                "Message Queues",
+                "Real-time Data",
+                "Structured Data",
+                "Semi-structured Data",
+                "Unstructured Data",
+                "Presentation Skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Webster Rahman",
+        "email": "rahman@webstertechsolutions.com",
+        "jd": "From: Rahman, Webster Tech Solutions INC rahman@webstertechsolutions.com Reply to: rahman@webstertechsolutions.com Position: Data Architect with AWS & Snowflake Location: Chicago IL \u2013 (Day 1 onsite) Note: Banking or Finance Domain experience is MUST Required Skills: Data Quality, Data Governance, Security, data optimisation, data migration etc. Job Description: Finance Domain Data expertise. Ability to Model data in Data Lake and Data warehouse for Analytical use cases. Ability to understand and negotiate solution with Business teams/Business Analysts. Ability to architect and Design Data Storage, Data Transformation, Data Security, Data Quality and Performance optimization techniques in AWS and Snowflake. Ability to architect and solution data pipelines for batch, streaming, API, Message Queues and real time sources. Ability to work with structured, semi structured and unstructured data. Ability to create clear and impactful Presentations based on audience. Detail Job Description: Responsible for ensuring that the data management and governance frameworks are in place and adhered to Responsible for Architecting Data engineering pipelines including data acquisition, Ingestion, management, processing, publishing by leveraging various AWS services Responsible for developing and optimizing database models to store and retrieve company information Responsible for determining strategic data requirements, creating high-level designs according to these requirements Responsible for guiding and resolving issues with AWS service configuration, performance, security compliance, data quality issues and data retrieval. Prepare Architecture and high-level design documents for the data engineering pipelines Designing DevOps & DataOps pipelines and resolve issues during implementation and execution. Responsible for researching data acquisition opportunities.",
+        "source": "Email",
+        "date_posted": "2024-10-21 15:55:33-05:00",
+        "unique_id": "192b0fd6f36ae2f2",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

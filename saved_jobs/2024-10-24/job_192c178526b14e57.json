@@ -1,0 +1,66 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Security Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "CI/CD",
+                "Azure Functions",
+                "Event Hub",
+                "APIM",
+                "Key Vault"
+            ],
+            "primary": [
+                "Integration approaches",
+                "Scalability",
+                "Maintainability",
+                "Usability",
+                "Performance"
+            ],
+            "secondary": [],
+            "all": [
+                "Azure",
+                "CI/CD",
+                "Azure Functions",
+                "Event Hub",
+                "APIM",
+                "Key Vault",
+                "Integration approaches",
+                "Scalability",
+                "Maintainability",
+                "Usability",
+                "Performance"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "Hi,I hope you are doing well.I am Raj from NITYA Software Solutions Inc.I've included below the job description, please let me know if you are interested, and reply with one updated resume, which I've expected.Role: Security Engineer Design and develop integration approaches for various Azure resourcesCollaborate with architects, designers, and enterprise framework teamsDevelop and unit test componentsImplement CI/CD pipelines and deploy applications to Microsoft AzureIntegrate applications using Azure Functions, Event Hub, APIM, and Key VaultEnsure scalability, maintainability, usability, and performance are integrated into each solutionThank you,RajkumarEMAIL ID:rajkumar.v@nityainc.comNITYA Software Solutions Inc.",
+        "source": "Email",
+        "date_posted": "2024-10-24 20:06:42-05:00",
+        "unique_id": "192c178526b14e57",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

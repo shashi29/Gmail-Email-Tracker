@@ -1,0 +1,70 @@
+[
+    {
+        "company": "Synkriom Inc",
+        "job_title": "Senior ETL Engineer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica Intelligent Cloud Services (IICS)",
+                "Google BigQuery",
+                "Service Reliability Engineering (SRE)"
+            ],
+            "primary": [
+                "Data Engineering",
+                "ETL Development",
+                "Database Design",
+                "Integration Processes"
+            ],
+            "secondary": [
+                "Performance Tuning",
+                "Enterprise Integration Framework",
+                "Data Mapping",
+                "Data Traceability Standards"
+            ],
+            "all": [
+                "Informatica Intelligent Cloud Services (IICS)",
+                "Google BigQuery",
+                "Service Reliability Engineering (SRE)",
+                "Data Engineering",
+                "ETL Development",
+                "Database Design",
+                "Integration Processes",
+                "Performance Tuning",
+                "Enterprise Integration Framework",
+                "Data Mapping",
+                "Data Traceability Standards"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Satyajit Biswal",
+        "email": "satyajit.biswal@synkriom.com",
+        "jd": "From: satyajit biswal, synkriom inc satyajit.biswal@synkriom.com Reply to: satyajit.biswal@synkriom.com Job Title: Senior ETL EngineerRole Description: The Senior ETL Engineer is responsible for designing, developing, and implementing integration processes for the Enterprise Data Lake, Data Warehouse, and various applications. This role involves analyzing requirements and existing resources to create efficient database and integration designs that align with company IT standards. The engineer collaborates with project and business analyst leads to clarify technical requirements and participates in all phases of the integration development lifecycle, including unit testing, quality assurance (QA), and ongoing support. Additionally, this position includes providing production support as needed.Competencies:Digital: Google Data EngineeringDigital: Site Reliability Engineering (SRE)Experience:10+ years of experience in data engineering or ETL development.Essential Skills:4+ years of experience with Informatica Intelligent Cloud Services (IICS)2+ years of experience with Google BigQuery (mandatory for initial fulfillment)Hands-on experience in Service Reliability Engineering (SRE) with application support experience.Desirable Skills:Proficient in analyzing, designing, developing, and performance tuning ETL processes.Experience in creating an enterprise integration framework and contributing to data mapping, integration, and data traceability standards across business functions.",
+        "source": "Email",
+        "date_posted": "2024-10-29 09:06:52-05:00",
+        "unique_id": "192d8b9d4b0c9f8d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

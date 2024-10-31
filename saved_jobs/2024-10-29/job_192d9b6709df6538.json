@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Vyze",
+        "job_title": "JBOSS / Java App Server Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "JBOSS",
+                "Java App Server",
+                "VMWare"
+            ],
+            "primary": [
+                "Ansible",
+                "Puppet",
+                "Terraform",
+                "PowerShell",
+                "Python",
+                "UNIX Shell Scripting",
+                "Linux",
+                "Windows"
+            ],
+            "secondary": [
+                "Operating System hardening",
+                "Compute virtualization",
+                "Pure Storage"
+            ],
+            "all": [
+                "JBOSS",
+                "Java App Server",
+                "VMWare",
+                "Ansible",
+                "Puppet",
+                "Terraform",
+                "PowerShell",
+                "Python",
+                "UNIX Shell Scripting",
+                "Linux",
+                "Windows",
+                "Operating System hardening",
+                "Compute virtualization",
+                "Pure Storage"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Priya",
+        "email": "ppundhir@vyzeinc.com",
+        "jd": "From: priya, Vyze ppundhir@vyzeinc.com Reply to: ppundhir@vyzeinc.com Job Description -Job title: JBOSS / Java App Server EngineerVisa: USC, GC or EAD-GC Duration: 6 Months Location: REMOTE Must have LinkedIn profileOnly two best profiles Must have experience in VMWareJBOSS / Java App Server Engineer for a Data Center Consolidation project. Automation of infrastructure delivery with configuration orchestration and management solutions (e.g. Ansible, Puppet, Terraform).Understanding of coding practices and developing in a preferred scripting language (e.g. PowerShell, Python, UNIX Shell Scripting).Experience with Operating System hardening practices as well as methodologies for templating deployments from a set of standardized images.Linux and Windows systems engineering principles.Java application server (e.g. JBOSS EAP, Tomcat) implementation.Compute virtualization for both in-house developed and commercial off the shelf software leveraging VMware\u2019s technology stack and converged storage solutions utilizing Pure Storage.",
+        "source": "Email",
+        "date_posted": "2024-10-29 12:37:10-05:00",
+        "unique_id": "192d9b6709df6538",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

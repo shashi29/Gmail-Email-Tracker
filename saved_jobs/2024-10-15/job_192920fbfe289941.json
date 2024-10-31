@@ -1,0 +1,63 @@
+[
+    {
+        "company": "Avance",
+        "job_title": "Java Lead Developer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Spring Boot"
+            ],
+            "primary": [
+                "React JS",
+                "Automation testing",
+                "Kafka"
+            ],
+            "secondary": [
+                "Java Script",
+                "React framewrok"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "React JS",
+                "Automation testing",
+                "Java Script",
+                "React framewrok",
+                "Kafka"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Bhavya Rapelli",
+        "email": "bhavya.r@avanceservices.com",
+        "jd": "From: Bhavya Rapelli, Avance bhavya.r@avanceservices.com Reply to: bhavya.r@avanceservices.com Java Lead / DeveloperPhoenix, AZ, Expereince 12+Java, Microservices, Spring Boot, React JS Engineer II (Full Stack) SkillMandatoryProficiency Level (1-5)Java Script/Microservices Springboot, React/React JS Automation testing React framewrok Kafka",
+        "source": "Email",
+        "date_posted": "2024-10-15 13:28:39-05:00",
+        "unique_id": "192920fbfe289941",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

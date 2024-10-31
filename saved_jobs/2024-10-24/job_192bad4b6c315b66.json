@@ -1,0 +1,81 @@
+[
+    {
+        "company": "TCS",
+        "job_title": "Java Developer with web crawling",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "$50-55/hr. on C2C"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Web Crawling",
+                "SQL",
+                "REST API",
+                "Oracle"
+            ],
+            "primary": [
+                "Java Spring",
+                "JPA",
+                "Hibernate",
+                "AWS"
+            ],
+            "secondary": [
+                "Test Driven Development",
+                "Continuous Integration",
+                "NoSQL",
+                "Cassandra",
+                "Data Modeling",
+                "Low Latency Service APIs",
+                "Data Aggregation Pipelines"
+            ],
+            "all": [
+                "Java",
+                "Web Crawling",
+                "SQL",
+                "REST API",
+                "Oracle",
+                "Java Spring",
+                "JPA",
+                "Hibernate",
+                "AWS",
+                "Test Driven Development",
+                "Continuous Integration",
+                "NoSQL",
+                "Cassandra",
+                "Data Modeling",
+                "Low Latency Service APIs",
+                "Data Aggregation Pipelines"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rajeev Gupta",
+        "email": "rajeeve.g@mobcoderstaffing.com",
+        "jd": "Must Have Web Crawling Experience. Hi, Hope you are doing well!! We do have Urgent opening for the below position. Please do find the job description below for your reference. Would appreciate if you can share your updated resume along with the expected rate. Job Title: Java Developer with web crawling Location : Sunnyvale CA (Local to Bay Area) Durations: 12+ Months Client: TCS Rate on Contract: $50-55/hr. on C2C Responsibility:- Java and Web Crawling Standard SQL knowledge Experienced in delivering advanced solutions for a multi-tier, distributed web application Experienced in crafting and implementing REST API Proven strong problem solving and debugging skills Experienced in developing applications that utilize relational databases (e.g. Oracle) and other less structured data stores (NoSQL) Ability to articulate the benefits of Test Driven Development, Continuous Integration. Knowledge of data modeling es using Oracle and Cassandra databases. Equally valuable is experience in building low latency service APIs, and data aggregation pipelines. AWS experience Must have Java Spring Oracle REST API JPA, Hibernate",
+        "source": "Email",
+        "date_posted": "2024-10-23 13:47:21-05:00",
+        "unique_id": "192bad4b6c315b66",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

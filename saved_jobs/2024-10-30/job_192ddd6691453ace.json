@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Concordia Plans",
+        "job_title": "Technical Lead (Azure for Concordia Plans)",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Cloud Architecture",
+                "DevOps",
+                "Terraform",
+                "Project Management"
+            ],
+            "primary": [
+                "Azure DevOps",
+                "CI/CD",
+                "Cloud Security",
+                "Coding",
+                "Scripting"
+            ],
+            "secondary": [
+                "Azure Certifications",
+                "Hybrid Cloud",
+                "Database Management",
+                "Agile/Scrum"
+            ],
+            "all": [
+                "Azure",
+                "Cloud Architecture",
+                "DevOps",
+                "Terraform",
+                "Project Management",
+                "Azure DevOps",
+                "CI/CD",
+                "Cloud Security",
+                "Coding",
+                "Scripting",
+                "Azure Certifications",
+                "Hybrid Cloud",
+                "Database Management",
+                "Agile/Scrum"
+            ],
+            "with_experience": [
+                "Azure (5+ years)",
+                "DevOps",
+                "Terraform",
+                "CI/CD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Tushar Chauhan",
+        "email": "tushar@ccitinc.com",
+        "jd": "Position Summary\nWe are seeking an experienced Technical Lead - Azure to spearhead the design, development, and deployment of Azure-based solutions across Concordia Plans. This role will be pivotal in managing cloud transformation initiatives, ensuring high-quality solutions that align with organizational goals. The Technical Lead will work closely with cross-functional teams, including infrastructure, security, and application teams, to build secure, scalable, and efficient cloud-based solutions.\n\nKey Responsibilities\nAzure Cloud Architecture & Design: Lead the design of Azure-based solutions, ensuring they are scalable, resilient, and aligned with best practices and industry standards.\nSolution Implementation: Oversee and actively participate in the development and deployment of cloud-based applications, services, and integrations.\nProject Management: Collaborate with stakeholders to define project scope, timelines, and deliverables, managing resources and tracking project progress to ensure timely delivery.\nCloud Governance & Security: Implement best practices for cloud governance and security, including identity management, data protection, and compliance with industry standards.\nTechnical Leadership: Serve as a technical advisor for the Azure platform, guiding development teams on best practices, reviewing code, and ensuring adherence to design principles.\nPerformance Optimization: Monitor and optimize Azure infrastructure, improving efficiency, scalability, and cost-effectiveness.\nAutomation & DevOps: Promote DevOps methodologies, implement CI/CD pipelines, and automate infrastructure provisioning using tools such as Terraform, Azure DevOps, or ARM templates.\nMentorship: Mentor and coach team members, fostering a culture of continuous improvement and knowledge sharing.\n\nRequired Skills and Experience\nProven Expertise in Azure: 5+ years of experience designing, implementing, and managing solutions in Azure, including proficiency in Azure compute, storage, networking, and database services.\nTechnical Leadership: Demonstrated experience leading technical teams in cloud environments, especially Azure, including code reviews, solution design, and architectural guidance.\nAzure DevOps & Automation: Strong experience with DevOps practices, CI/CD pipelines, and infrastructure automation tools such as Terraform, ARM, or Azure CLI.\nSecurity Best Practices: Strong understanding of cloud security best practices, including Azure security services (Azure AD, Key Vault, Security Center), identity management, and data protection.\nCoding & Scripting: Proficiency in programming languages such as PowerShell, Python, or .NET, with an emphasis on automation and integration.\nProject Management: Excellent project management skills, capable of managing resources, setting priorities, and meeting project deadlines.\nAnalytical & Problem-Solving Skills: Ability to troubleshoot complex issues in cloud environments, applying both analytical and creative approaches to deliver efficient solutions.\nExcellent Communication Skills: Strong verbal and written communication skills, with the ability to communicate technical concepts to non-technical stakeholders and collaborate effectively with cross-functional teams.\n\nPreferred Qualifications\nAzure Certifications: Azure Solutions Architect Expert, Azure DevOps Engineer, or other relevant certifications.\nExperience with Hybrid Cloud Environments: Experience managing hybrid cloud solutions, integrating on-premises systems with cloud environments.\nDatabase Management: Knowledge of Azure SQL, Cosmos DB, or other cloud-native databases.\nExperience in Agile/Scrum Environments: Familiarity with Agile project management frameworks, including Scrum or Kanban.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:56:13-05:00",
+        "unique_id": "192ddd6691453ace",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

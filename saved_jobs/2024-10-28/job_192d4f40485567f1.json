@@ -1,0 +1,97 @@
+[
+    {
+        "company": "Avance Consulting",
+        "job_title": "JAVA AWS with Terraform",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "AWS",
+                "Terraform",
+                "Python",
+                "Go"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Restful Microservices",
+                "Kubernetes",
+                "Docker",
+                "Ansible",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube"
+            ],
+            "secondary": [
+                "SQL",
+                "Node",
+                "Scala",
+                "Open Source RDBMS",
+                "NoSQL databases",
+                "CloudFormation",
+                "Apache Kafka",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ],
+            "all": [
+                "Java",
+                "AWS",
+                "Terraform",
+                "Python",
+                "Go",
+                "Spring Boot",
+                "Restful Microservices",
+                "Kubernetes",
+                "Docker",
+                "Ansible",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "SQL",
+                "Node",
+                "Scala",
+                "Open Source RDBMS",
+                "NoSQL databases",
+                "CloudFormation",
+                "Apache Kafka",
+                "Splunk",
+                "Datadog",
+                "Dynatrace",
+                "CloudWatch",
+                "Grafana"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Roja Madasu",
+        "email": "roja.madasu@avanceservices.com",
+        "jd": "From: Roja Madasu, Avance Consulting roja.madasu@avanceservices.com Reply to: roja.madasu@avanceservices.com Your experience in public cloud migrations of complex systems, anticipating problems, and finding ways to mitigate risk, will be key in leading numerous public cloud initiativesExecutes creative software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problemsOwn end-to-end platform issues & help provide solutions to platform build and performance issues on the AWS Cloud & ensure the deliverables are bug freeDrive, support, and deliver on a strategy to build broad use of Amazon's utility computing web services (e.g., AWS EC2, AWS S3, AWS RDS, AWS CloudFront, AWS EFS, AWS DynamoDB, CloudWatch, EKS, ECS, MFTS, ALB, NLB)Design resilient, secure, and high performing platforms in Public Cloud using JPMC best practicesMeasure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating to continually improveProvide primary operational support and engineering for the public cloud platform and debug and optimize systems and automate routine tasksCollaborate with a cross-functional team to develop real-world solutions and positive user experiences at every interactionDrive Game days, Resiliency tests and Chaos engineering exercisesUtilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and servicesRequired qualifications, capabilities, and skillsFormal training or certification on software engineering concepts and 10+ years applied experienceHands-on practical experience delivering system design, application development, testing, and operational stabilityAdvanced in one or more programming language(s) - Java, Python, GoA strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practicesDesign and building web environments on AWS, which includes working with services like EC2, ALB, NLB, Aurora Postgres, DynamoDB, EKS, ECS fargate, MFTS, SQS/SNS, S3 and Route53Advanced in modern technologies such as: Java version 8+, Spring Boot, Restful Microservices, AWS or Cloud Foundry, Kubernetes.Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar QubeExperience and knowledge of writing Infrastructure-as-Code (IaC) and Environment-as-Code (EaC), using tools like CloudFormation or TerraformExperience with high volume, SLA critical applications, and building upon messaging and or event-driven architecturesDeep understanding of financial industry and their IT systemsPreferred qualifications, capabilities, and skillsExpert in one or more programming language(s) preferably JavaAWS Associate level certification in Developer, Solutions Architect or DevOpsExperience in building the AWS infrastructure like EKS, EC2, ECS, S3, DynamoDB, RDS, MFTS, Route53, ALB, NLBExperience with high volume, mission critical applications, and building upon messaging and or event-driven architectures using Apache KafkaExperience with logging, observability and monitoring tools including Splunk, Datadog, Dynatrace. CloudWatch or GrafanaExperience in automation and continuous delivery methods using Shell scripts, Gradle, Maven, Jenkins, SpinnakerExperience with microservices architecture, high volume, SLA critical applications and their interdependencies with other applications, microservices and databasesExperience developing process, tooling and methods to help improve operational maturity",
+        "source": "Email",
+        "date_posted": "2024-10-28 15:09:16-05:00",
+        "unique_id": "192d4f40485567f1",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

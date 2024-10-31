@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Pransu Tech Solutions",
+        "job_title": "MLOps Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract, start 3 months, should extend and be longterm",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "MLOps",
+                "Databricks",
+                "GCP",
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "Machine Learning",
+                "Big Data",
+                "Spark",
+                "CI/CD",
+                "Bitbucket",
+                "Jenkins"
+            ],
+            "secondary": [
+                "Model Evaluation",
+                "Optimization Techniques",
+                "Data Security",
+                "Production Support",
+                "Dashboard Implementation"
+            ],
+            "all": [
+                "MLOps",
+                "Databricks",
+                "GCP",
+                "Python",
+                "SQL",
+                "Machine Learning",
+                "Big Data",
+                "Spark",
+                "CI/CD",
+                "Bitbucket",
+                "Jenkins",
+                "Model Evaluation",
+                "Optimization Techniques",
+                "Data Security",
+                "Production Support",
+                "Dashboard Implementation"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Tanupriya Singh",
+        "email": "tanupriya@pransutechsolutions.com",
+        "jd": "From: Tanupriya, Pransu tech solutions tanupriya@pransutechsolutions.com Reply to: tanupriya@pransutechsolutions.com KFORCE Needs GCP experience Job Title: MLOps EngineerOnsite Requirement/Remote (Time zone?): RemoteC/CTH/Perm + Duration: Contract, start 3 months, should extend and be longterm Notes:Databricks backgroundProduction SupportDatabricks supportDevelopment in Databricks Position Summary:The Senior ML Ops Engineer is responsible for managing and optimizing machine learning operations and Databricks solutions in a dynamic and fast-paced environment. This role involves collaborating with data engineers, analysts, and data scientists to deliver robust and innovative AI solutions that enhance the Ulta guest experience. The successful candidate will oversee the entire machine learning lifecycle and develop real-time data pipelines on our Databricks Platform on GCP.Key Responsibilities:Collaborate with data scientists and engineers to create a robust AI/ML infrastructure and deployment services for machine learning on Databricks.Develop and maintain MLOps processes that facilitate model development, training, deployment, monitoring, and inference.Deploy machine learning models into production environments, ensuring scalability and reliability.Fine-tune machine learning models using various algorithms and techniques.Supports the operations of the deployed solutions, investigates complex issues and assists with the resolution and implementation of preventive measures.Configure, manage, and optimize Databricks clusters, ensuring performance, scalability, and efficient resource utilization.Implement dashboards and reporting tools to track pipeline performance, cluster usage, and overall system health.Ensure compliance with data security regulations by setting up encryption, access controls, and auditing mechanisms within the Databricks environment.Requirements for Consideration:7-10 years of overall IT experience, with 3-5 years in MLOps and Databricks platform development in cloud environments (GCP preferred).Strong understanding of machine learning algorithms, model evaluation, and optimization techniques.Experience with best-in-class ML operations to monitor and maintain models in production and ensure top quality, stable predictions with high uptime.Proven track record of developing and deploying models on Databricks.Hands-on experience with big data technologies like Spark, BigQuery and Databricks.Experience with CI/CD processes for deploying ML services and applications using tools like Bitbucket, and Jenkins.Proficiency in Python programming language along with experience in SQL. Strong expertise in Databricks resource management, and performance optimization.Experience working on Databricks administrationWillingness to support off-hours production issues and code deployments as necessary, with minimal travel required.",
+        "source": "Email",
+        "date_posted": "2024-10-25 07:46:37-05:00",
+        "unique_id": "192c3eb37c4e1c84",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

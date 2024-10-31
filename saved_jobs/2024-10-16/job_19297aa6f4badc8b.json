@@ -1,0 +1,55 @@
+[
+    {
+        "company": "TTDATA LLC",
+        "job_title": "Sr. Data Engineer",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "11+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Redshift",
+                "Hadoop"
+            ],
+            "primary": [
+                "Data Migration",
+                "Data Engineering"
+            ],
+            "secondary": [],
+            "all": [
+                "AWS Redshift",
+                "Hadoop",
+                "Data Migration",
+                "Data Engineering"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manikandan R",
+        "email": "mani@ttdatas.com",
+        "jd": "From: Manikandan, TTDATA LLC mani@ttdatas.com Reply to: mani@ttdatas.com Role:: Sr. Data Engineer Location:: St. Louis, MO(Onsite from Day-1)Duration : ContractJob Description: Need strong data engineers for migration from on-prem Hadoop to AWS Redshift experience. should be super strong in Redshift and lead it. ThanksManikandan RMani@ttdatas.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 17:04:36-05:00",
+        "unique_id": "19297aa6f4badc8b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

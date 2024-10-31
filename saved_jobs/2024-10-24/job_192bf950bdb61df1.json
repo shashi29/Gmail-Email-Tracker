@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Techstar Group",
+        "job_title": "GCP Data Analyst / Engineer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "BigQuery",
+                "SQL",
+                "data analytics"
+            ],
+            "primary": [
+                "data visualization",
+                "data modeling",
+                "data warehousing"
+            ],
+            "secondary": [
+                "Looker",
+                "stakeholder communication",
+                "data quality"
+            ],
+            "all": [
+                "BigQuery",
+                "SQL",
+                "data analytics",
+                "data visualization",
+                "data modeling",
+                "data warehousing",
+                "Looker",
+                "stakeholder communication",
+                "data quality"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Syed Abdul",
+        "email": "abdul@techstargroup.com",
+        "jd": "From: Abdul, Techstar Group abdul@techstargroup.com Reply to: abdul@techstargroup.com Greeting,Hope you are doing well today.Please find below job descriptions and share suitable profiles with Abdul@techstargroup.com.Job Role: GCP Data Analyst / Engineer with Google BigQueryLocation \u2013 Chicago IL / Onsite Duration - long term Job Description: Seasoned BigQuery Data AnalystWe are seeking a seasoned Data Analyst with a proven track record in leveraging BigQuery to drive data-driven insights and inform strategic decision-making. The ideal candidate will have a strong foundation in data analytics, SQL, and a deep understanding of BigQuery's capabilities. This role will play a pivotal part in extracting meaningful insights from our vast datasets, enabling us to optimize operations, identify trends, and unlock new opportunities. Responsibilities:Data Analysis:Experience working with large-scale datasets and complex data structures.Experience working with data migrated from SAP applications with underlying Oracle databases.Develop and execute complex SQL queries to extract, transform, and analyze large datasets in BigQuery.Conduct in-depth data analysis to identify patterns, trends, and anomalies.Create visualizations (e.g., dashboards, charts) to communicate findings effectively to stakeholders.Proficiency in data visualization tools (e.g., Looker).Data Modeling:Strong understanding of data warehousing and data modeling concepts.Design and implement data models that optimize query performance and data accessibility.Collaborate with data engineers to ensure data quality and consistency.Stakeholder Communication:Clearly communicate findings and recommendations to both technical and non-technical audiences.Build strong relationships with stakeholders to understand their needs and priorities.Thanks & regards,Syed AbdulEmail : abdul@techstargroup.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 11:55:35-05:00",
+        "unique_id": "192bf950bdb61df1",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

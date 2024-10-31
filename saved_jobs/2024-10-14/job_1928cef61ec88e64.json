@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Urbench",
+        "job_title": "Data Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Databricks",
+                "Amazon Snowflake"
+            ],
+            "primary": [
+                "Data pipelines",
+                "Data warehouses",
+                "Data lakes",
+                "Data marts",
+                "Data quality",
+                "Data integrity",
+                "Data security"
+            ],
+            "secondary": [],
+            "all": [
+                "Databricks",
+                "Amazon Snowflake",
+                "Data pipelines",
+                "Data warehouses",
+                "Data lakes",
+                "Data marts",
+                "Data quality",
+                "Data integrity",
+                "Data security"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Simran Rathol",
+        "email": "simran@urbench.com",
+        "jd": "From: simran, Data Engineer simran@urbench.com Reply to: simran@urbench.com Role: Data Engineer with Databricks SkillsLocation: Phoenix, AZLocation: Los Angeles, CA / Dallas, TX (onsite) Skills:As a Data Engineer, you will be responsible for designing, building, and maintaining the data pipelines and architectures that enable our business to make data-driven decisions. You will work closely with our data science team to develop and implement data solutions that meet the needs of our business stakeholders. Key Responsibilities * Design and implement scalable, efficient, and reliable data pipelines * Develop and maintain data warehouses, data lakes, and data marts using technologies such as Amazon Snowflake * Collaborate with data scientists to develop and deploy data models, algorithms, and machine learning pipelines * Ensure data quality, integrity, and security by implementing data validation, data",
+        "source": "Email",
+        "date_posted": "2024-10-14 15:53:33-05:00",
+        "unique_id": "1928cef61ec88e64",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

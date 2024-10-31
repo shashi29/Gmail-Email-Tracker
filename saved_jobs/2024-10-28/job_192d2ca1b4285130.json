@@ -1,0 +1,69 @@
+[
+    {
+        "company": "TechStar Group",
+        "job_title": "Java Architect with Integration & Kafka Experience",
+        "location": "Lewisville, TX, USA",
+        "full_location": {
+            "city": "Lewisville",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "RESTful APIs",
+                "Kafka",
+                "event-driven architecture"
+            ],
+            "primary": [
+                "Confluent Kafka",
+                "GCP-specific integration services"
+            ],
+            "secondary": [
+                "technical documentation",
+                "API governance",
+                "mentoring",
+                "collaboration"
+            ],
+            "all": [
+                "Java",
+                "RESTful APIs",
+                "Kafka",
+                "event-driven architecture",
+                "Confluent Kafka",
+                "GCP-specific integration services",
+                "technical documentation",
+                "API governance",
+                "mentoring",
+                "collaboration"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Syed",
+        "email": "smubasheer@techstargroup.com",
+        "jd": "From: Syed, TechStar Group smubasheer@techstargroup.com Reply to: smubasheer@techstargroup.com Role: Java Architect with Integration & Kafka ExperienceLocation: Hybrid \u2013 Lewisville, TXDuration: Long Term ContractVisa: GC, USC, TN, L2, E3, GC EAD and H4 EAD ONLY.Job description:You\u2019ll be hands-on as we design and implement RESTful APIs and Kafka consumers and producers using Java and following best practices.Deeply understand event-driven architecture (EDA) principles and best practices, leveraging Confluent Kafka as a core technology.Collaborate with engineering teams to apply new patterns and approaches as we build out our platform.Lead the development of Centers of Excellence (COEs) focused on RESTful APIs and event-driven architecture.Mentor and guide junior developers, fostering a culture of knowledge sharing and continuous learning.Stay current with the latest advancements in Java, RESTful APIs, Confluent Kafka, and related technologies, including GCP-specific integration services.Analyze existing systems and identify opportunities for improvement through optimization and automation.Develop and maintain technical documentation for patterns and solutions.Collaborate with stakeholders across the organization to understand business needs and translate them into technical requirements.Assist other architects in enforcing API governance and best practices.",
+        "source": "Email",
+        "date_posted": "2024-10-28 05:26:52-05:00",
+        "unique_id": "192d2ca1b4285130",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "company": "TechRooted Inc.",
+        "job_title": "GCP Cloud Engineer",
+        "location": "Irvine, CA, USA",
+        "full_location": {
+            "city": "Irvine",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Contract to hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Kubernetes",
+                "GCP",
+                "Infrastructure as Code (IaC)",
+                "Cloud-native architecture",
+                "Automation"
+            ],
+            "primary": [
+                "AWS",
+                "Azure",
+                "Event-driven architectures (EDA)",
+                "ETL pipelines",
+                "CI/CD pipelines",
+                "Containerization",
+                "Microservices architecture"
+            ],
+            "secondary": [
+                "Terraform",
+                "Pulumi",
+                "Ansible",
+                "Bash",
+                "Python",
+                "Go",
+                "AI/ML workloads",
+                "Monitoring and observability tools"
+            ],
+            "all": [
+                "Kubernetes",
+                "GCP",
+                "Infrastructure as Code (IaC)",
+                "Cloud-native architecture",
+                "Automation",
+                "AWS",
+                "Azure",
+                "Event-driven architectures (EDA)",
+                "ETL pipelines",
+                "CI/CD pipelines",
+                "Containerization",
+                "Microservices architecture",
+                "Terraform",
+                "Pulumi",
+                "Ansible",
+                "Bash",
+                "Python",
+                "Go",
+                "AI/ML workloads",
+                "Monitoring and observability tools"
+            ],
+            "with_experience": [
+                "Kubernetes (4+ years)",
+                "GCP (4+ years)",
+                "Infrastructure as Code (IaC) (4+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Amandeep Kaur",
+        "email": "amandeep@techrooted.com",
+        "jd": "Hi, This is Aman, Technical Recruiter at Techrooted, we have an excellent job opportunity for you. Please let me know if you are interested then share your updated resume along with your contact details so that we can proceed further. Cloud Engineer\nLocation: Irvine CA or Dallas TX (Need local to Irvine and Dallas area only only who can go onsite for 5 days/week; ONSITE)\nUSC GC\nContract to hire position.\nSolid LinkedIn profile is must. The candidate must have at least 4 years of experience in Kubernetes. This is on-site position 5 days a week. This will be on-site 5 days a week in Irvine, CA and Dallas TX. Job Description:\nMUST have extensive experience in Kubernetes GCP \u2013 must have some We are seeking a highly skilled Cloud Native Engineer with deep expertise in designing and implementing cutting-edge cloud-native solutions for our Innovations organization. The ideal candidate will be responsible for building and managing scalable, distributed systems and applications using cloud-native patterns. They must have experience with Kubernetes, the Cloud Native Computing Foundation (CNCF) ecosystem, and the design of complex workloads, including AI/ML, event-driven architectures (EDA), databases, and data orchestration solutions. This role requires a solid understanding of infrastructure as code (IaC), automation, scripting, and modern DevOps practices.\nKey Responsibilities:\nDesign, implement, and maintain cloud-native deployment solutions for applications, databases, and data orchestration pipelines.\nWork with team to plan, implement, and manage Kubernetes clusters and workloads for scalability, reliability, and security.\nDevelop and manage platform for event-driven architectures (EDA), including streaming data, real-time analytics, and event processing.\nEnable automated deployments of ETL pipelines, data orchestration, and AI/ML workloads, optimizing for cloud environments.\nImplement infrastructure as code (IaC) using tools like Terraform, Pulumi, or CloudFormation to automate infrastructure provisioning.\nCollaborate closely with Development/DevOps team members to create and optimize CI/CD pipelines, develop containerized microservices, and ensure excellent monitoring and observability.\nTroubleshoot, optimize, and automate cloud infrastructure to improve the performance and reliability of systems.\nCreate and maintain detailed technical documentation, including system architecture diagrams, workflows, and operational runbooks.\nStay current with emerging technologies, trends, and best practices in cloud-native computing and infrastructure automation.\nEnsure that all cloud infrastructure complies with industry standards and regulations (e.g., SOC 2, HIPAA, ISO 27001). Implement best practices in cloud security, identity management, and data protection.\nOptimize cloud resources and services to maintain budgetary goals while ensuring performance.\nRequirements:\n5+ years of experience in cloud-native architecture and design, with a strong background in cloud environments such as AWS, Google Cloud, or Azure.\nExtensive experience with Kubernetes and knowledge of the CNCF ecosystem (e.g., Helm, Istio, Envoy, ArgoCD, Grafana, Fluentd, Loki, Prometheus, Longhorn, OPA, Knative, Crossplane, etc.).\nHands-on experience with event-driven architectures (EDA) and event streaming platforms (e.g., Kafka, Flink, Confluent).\nProven experience designing, deploying, and managing ETL pipelines and data orchestration tools (e.g., SSIS, Matillion; Apache Airflow, Prefect, Dagster).\nFamiliarity with AI/ML workloads in the cloud, including designing scalable and efficient AI pipelines. Familiarity with relevant tools for data management, model development, model training, model serving, monitoring & lifecycle management.\nStrong skills in infrastructure as code (IaC) using tools such as Terraform, Pulumi, Ansible, and CloudFormation.\nProficiency in automation and scripting languages such as Bash, Python, or Go.\nSolid understanding of cloud security best practices, including network security, encryption, secrets management, firewalls, WAFs, and identity & access management.\nExperience with CI/CD pipelines, containerization (e.g., Docker), and microservices architecture.\nStrong problem-solving skills and the ability to identify efficient, cost-effective, and scalable cloud-native solutions.\nExcellent communication skills with the ability to work cross-functionally and convey complex technical concepts to both technical and non-technical stakeholders.\nPreferred Qualifications:\nCertifications in AWS, GCP, or Azure cloud environments.\nKnowledge of AI/ML frameworks (e.g., TensorFlow, PyTorch) and integrating them into production workloads.\nExperience with monitoring and observability tools like Grafana, Prometheus, or OpenTelemetry.",
+        "source": "Email",
+        "date_posted": "2024-10-21 16:08:33-05:00",
+        "unique_id": "192b10955bafbdf9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

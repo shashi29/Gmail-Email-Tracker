@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Adventa tech inc",
+        "job_title": "Sr. Back-end Java Developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "JavaScript",
+                "JMS",
+                "JAXB",
+                "JDBC",
+                "EJB",
+                "Hibernate",
+                "Oracle",
+                "REST",
+                "SOAP",
+                "Spring Framework",
+                "Spring Boot"
+            ],
+            "primary": [
+                "Kubernetes",
+                "Azure",
+                "Cloud",
+                "Continuous Integration",
+                "Continuous Deployment"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "JavaScript",
+                "JMS",
+                "JAXB",
+                "JDBC",
+                "EJB",
+                "Hibernate",
+                "Oracle",
+                "REST",
+                "SOAP",
+                "Spring Framework",
+                "Spring Boot",
+                "Kubernetes",
+                "Azure",
+                "Cloud",
+                "Continuous Integration",
+                "Continuous Deployment"
+            ],
+            "with_experience": []
+        },
+        "job_type": [],
+        "contact_person": "banani banojini das",
+        "email": "banani@adventatech.com",
+        "jd": "From: banani banojini das, Adventa tech inc banani@adventatech.com Reply to: banani@adventatech.com Title: Sr. Back-end Java DeveloperDuration: 6 monthsLocation: Dallas, TexasVisa: Asylum,CITIZEN,CPT,E3,EB3EAD,G4,GC EAD,GREEN CARD,H1B,H4 EAD,J2 EAD,L2 EAD,OPT EAD,TN Permit,TPS EADMoi: F2FJob Description - Minimum Requirements for Java backendProficiency and demonstrated experience in the following technologies:J2EE technologies: Java, JavaScript, JMS, JAXB, JDBC, EJBDatabase and persistence frameworks: Hibernate, Oracle, Object/Relational Mapping, Query performance tuningCloud-based development: Kubernetes, Azure, CloudWeb Services: REST/SOAP (JSON/WSDL/XML)Frameworks: Spring Framework, Spring BootProficiency in object-oriented design techniques and principlesExperience in DevOps Toolchain methodologies, including Continuous Integration and Continuous Deployment",
+        "source": "Email",
+        "date_posted": "2024-10-11 08:54:24-05:00",
+        "unique_id": "1927bfcb641b6bf0",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

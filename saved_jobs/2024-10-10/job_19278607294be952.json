@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Java Developer with POS",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "6-8 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6 months contract with possible extension/hire",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java JEE",
+                "design patterns",
+                "Java microservices",
+                "POS development",
+                "Payment integration"
+            ],
+            "primary": [
+                "Java UI technologies",
+                "Angular",
+                "React",
+                "html/css",
+                "SQL",
+                "PLSQL",
+                "Spring boot"
+            ],
+            "secondary": [
+                "Jumpmind experience",
+                "Version control",
+                "Bitbucket",
+                "GitLab",
+                "Build tools",
+                "Maven",
+                "Gradle"
+            ],
+            "all": [
+                "Java JEE",
+                "design patterns",
+                "Java microservices",
+                "POS development",
+                "Payment integration",
+                "Java UI technologies",
+                "Angular",
+                "React",
+                "html/css",
+                "SQL",
+                "PLSQL",
+                "Spring boot",
+                "Jumpmind experience",
+                "Version control",
+                "Bitbucket",
+                "GitLab",
+                "Build tools",
+                "Maven",
+                "Gradle"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Suraj Barik",
+        "email": "sbarik@vyzeinc.com",
+        "jd": "Job Description -Java Developer with POSColumbus, OH Consultant must be onsite.6 months contract with possible extension/hirevisa: GC-EAD,H4EAD for C2C (NEED GENUINE VISA)(GC/USC ONLY W2 can work on referral basis.)Need java developers with POS experience Must haves6 - 8 Years of strong hands-on experience in Java JEE, design patterns, Java microservices POS development background Payment integration 3+ years of experience in Java UI technologies like Angular, React, html/css Strong SQL / PLSQL skills Spring bootJumpmind experience is a plusVersion control: Bitbucket/ GitLabBuild tools: Maven/ GradleRequired skills8+ years of experience in java design patterns, multi-threading concepts, spring boot, spring security Experience working in an Agile environment. Analyze project requirements and prepare high level technical documentation. Experience developing spring boot applications and coordinating with all collaborating teams for functional and technical requirements. Design and develop a Restful APIs in the project as per the requirement along with handling the security using Spring Security. Develop unit tests and integrated tests for the applications Experience with design and development of web-applications for business reporting and monitor systems using monitoring tools like Datadog.",
+        "source": "Email",
+        "date_posted": "2024-10-10 16:04:51-05:00",
+        "unique_id": "19278607294be952",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

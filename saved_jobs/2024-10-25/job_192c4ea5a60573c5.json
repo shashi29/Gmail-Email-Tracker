@@ -1,0 +1,111 @@
+[
+    {
+        "company": "Acies IT Solutions",
+        "job_title": "Datawarehouse Technical Architect",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Warehousing",
+                "Data Architecture",
+                "Data Governance",
+                "ETL Processes",
+                "Data Integration"
+            ],
+            "primary": [
+                "Oracle Data Warehouse",
+                "IBM DataStage",
+                "Azure Synapse Analytics",
+                "Snowflake",
+                "Azure Data Factory",
+                "IBM Information Governance Catalog (IGC)",
+                "Information Knowledge Catalog (IKC)",
+                "Collibra"
+            ],
+            "secondary": [
+                "Data Mining",
+                "Data Modeling",
+                "Data Profiling",
+                "Data Mapping",
+                "Azure Cloud",
+                "Data Bricks",
+                "SOAP",
+                "REST",
+                "IBM Integration Bus (IIB)",
+                "Data Quality Management",
+                "Data Lakes",
+                "Big Data Technologies",
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "Data Privacy Regulations",
+                "Automation",
+                "AI in Data Warehousing"
+            ],
+            "all": [
+                "Data Warehousing",
+                "Data Architecture",
+                "Data Governance",
+                "ETL Processes",
+                "Data Integration",
+                "Oracle Data Warehouse",
+                "IBM DataStage",
+                "Azure Synapse Analytics",
+                "Snowflake",
+                "Azure Data Factory",
+                "IBM Information Governance Catalog (IGC)",
+                "Information Knowledge Catalog (IKC)",
+                "Collibra",
+                "Data Mining",
+                "Data Modeling",
+                "Data Profiling",
+                "Data Mapping",
+                "Azure Cloud",
+                "Data Bricks",
+                "SOAP",
+                "REST",
+                "IBM Integration Bus (IIB)",
+                "Data Quality Management",
+                "Data Lakes",
+                "Big Data Technologies",
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "Data Privacy Regulations",
+                "Automation",
+                "AI in Data Warehousing"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Pavan",
+        "email": "pavanv@aciesit.com",
+        "jd": "From: Pavan, Acies IT Solutions pavanv@aciesit.com Reply to: pavanv@aciesit.com Hi we have a new job opening below. Need who can attend In person interview in Richmond, VA Datawarehouse Technical Architect Richmond, VA - Inperson interview We are seeking an experienced Data Warehouse Technical Architect who will be responsible for supporting and evolving our existing data warehouse technologies, which include Oracle Datawarehouse, IBM DataStage, and MFT. The ideal candidate will also have deep experience in data management and governance tools like IBM Information Governance Catalog (IGC), Information Knowledge Catalog (IKC), or Collibra, ensuring effective data quality management including data quality, data lineage, metadata and master data management.This role also requires expertise in modern cloud data warehouse technologies such as Azure Synapse Analytics or Snowflake or Google Big Query, Azure Data Lake, and Azure Data Factory with the ability to support existing on-premises systems while also collaborating with Enterprise Architecture to create roadmaps that transition the organization to future data technologies.Key Responsibilities:Provide technical oversight and support for existing data warehouse technologies including Oracle Data warehouse and DataStage.Collaborate with Enterprise Architecture teams to define and implement roadmaps for transitioning to modern cloud-based data warehousing solutions.Design, develop, and maintain data governance and management processes using tools like IGC, IKC, or Collibra.Conduct data capacity planning, life cycle, duration, usage requirements, feasibility studies.Ensure the data infrastructure meets the needs of business operations by ensuring data quality, integrity, and security.Work closely with business analysts, developers, business users, architects, and DBAs to ensure the data warehouse supports business goals.Drive initiatives related to data integration, ETL processes, and data migration strategies.Provide leadership and mentorship to the data warehouse team, ensuring best practices in data architecture and engineering are followed.Monitor performance and manage scaling strategies for existing data warehouse environments.Stay up to date with industry trends and innovations in data warehouse and data management technologies, recommending improvements as necessary.Required Skills and Qualifications:15+ years of experience in data warehousing and data architecture.Extensive experience in data mining, large scale data modeling, data profiling, and data mapping.Experience with Azure Cloud, Azure Data Factory, and Data Bricks.Experience with different database platforms and services like SOAP, REST, etc.Strong experience with Oracle, DataStage, and IBM Integration Bus (IIB) for data integration and ETL.Solid experience with data management and governance tools like IBM Information Governance Catalog (IGC), Information Knowledge Catalog (IKC), or Collibra.Expertise with modern cloud data warehouse platforms such as Azure Synapse or Snowflake.Experience in defining and implementing data governance frameworks and ensuring data quality management.Proven experience in designing and implementing scalable data warehouse solutions and strategies.Understanding of ETL processes, data integration strategies, and data migration in both on-premise and cloud environments.Familiarity with data modeling, data lakes, and big data technologies.Strong analytical and problem-solving skills with the ability to balance competing priorities.Experience working in collaboration with Enterprise Architecture teams to create strategic roadmaps for data platforms.Excellent communication and stakeholder management skills, with the ability to work cross-functionally across teams.Preferred Qualifications: Knowledge of big data tools like Hadoop, Spark, and Kafka.Certifications in Oracle, Azure, or Snowflake technologies.Experience with data privacy regulations like GDPR, CCPA, and best practices in data securityExperience with Automation and AI in Data WarehousingPersonal Attributes:\u00b7 Strong written and oral communication skills. Strong presentation and interpersonal skills and Ability to present ideas in user-friendly language.We prefer candidates local to Richmond Area or Ready to move to Richmond. This position is Hybrid In person 2-3 days a week for first 3 months and once a month after that.",
+        "source": "Email",
+        "date_posted": "2024-10-25 11:57:53-05:00",
+        "unique_id": "192c4ea5a60573c5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

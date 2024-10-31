@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Fisec",
+        "job_title": "Java Loyalty Lead Developer",
+        "location": "San Jose, CA, USA",
+        "full_location": {
+            "city": "San Jose",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Loyalty systems"
+            ],
+            "primary": [
+                "GCP"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Loyalty systems",
+                "GCP"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "bala",
+        "email": "bala@fisecglobal.net",
+        "jd": "From: bala, Fisec bala@fisecglobal.net Reply to: bala@fisecglobal.net Title: Java Loyalty Lead DeveloperLocation: San Jose, CA - RemotePosition type: Fulltime/Contract Note: Client is looking for someone who worked on Oracle CrowdTwist loyalty product, as they are using the same loyalty engine. JD:Candidate should have an in-depth knowledge of how a loyalty system works.Has a very good hands-on experience in any Java based loyalty implementation - either in-house or out of market.Has helped any clients in driving in the right direction in choosing , designing, and implementing a loyalty system.Has any experience in analyzing and understanding of existing loyalty implementation.Has knowledge, can think/recommend from Martech perspective , such as non-transactional marketing events.Looking for SME & Tech Lead who will only focus on evaluationTech lead / Candidate will closely work with the current project teamTech lead will work as an individual contributor and will not be involved in any other activity like development/ enhancementOnce evaluation is complete, tech lead will be involved in leading the implementationLooking for an Onsite candidate. Preferred loc CA. The team often work from SF office Required Skills:Good Knowledge in the Loyalty systems and Implementations(any of both inhouse built or market)The candidate must have hands on experience in Java and Spring Boot microservicesHands on Experience in GCP",
+        "source": "Email",
+        "date_posted": "2024-10-14 09:42:45-05:00",
+        "unique_id": "1928b9be9526db2f",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

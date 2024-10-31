@@ -1,0 +1,78 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Database Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-10 years",
+            "degree_required": "BS in Engineering, Computer Science, CIS or MIS",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Oracle database Development",
+                "SQL",
+                "Oracle PL/SQL"
+            ],
+            "primary": [
+                "PL/SQL Packages",
+                "Procedures",
+                "Functions",
+                "Triggers",
+                "Indexes",
+                "Oracle Database Objects",
+                "Data Archiving",
+                "SAP BOBJ reporting"
+            ],
+            "secondary": [
+                "Excellent verbal and written communication skills"
+            ],
+            "all": [
+                "Oracle database Development",
+                "SQL",
+                "Oracle PL/SQL",
+                "PL/SQL Packages",
+                "Procedures",
+                "Functions",
+                "Triggers",
+                "Indexes",
+                "Oracle Database Objects",
+                "Data Archiving",
+                "SAP BOBJ reporting",
+                "Excellent verbal and written communication skills"
+            ],
+            "with_experience": [
+                "Oracle database Development (5-10 years)",
+                "SQL",
+                "Oracle PL/SQL"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rahul Mishra",
+        "email": "rmishra@vyzeinc.com",
+        "jd": "From: Rahul Mishra, Vyzeinc rmishra@vyzeinc.com Reply to: rmishra@vyzeinc.com Job Title: Database DeveloperLocation: : RemoteDuration: 6+months JOB DESCRIPTIONWe are currently seeking a highly motivated Database Developert to support our client \u201consite\u201d in downtown Houston. This role is part of a larger team in which the candidate would be interacting with daily. And participates in all relevant SOX change management activities and is responsible for overall service delivery and customer satisfaction.And will work effectively with a team; maintain ownership for specific system function(s) and/or set of business users, facilitate communications between the business. Candidate will assume some routine administrative tasks and will periodically be expected to make independent decisions. Other responsibilities include, but are not limited to:Design, develop, enhance, and support Gas System Application modules such as TIPS Accounting and gathering, BOBJ reporting, Oracle Database Objects, Data Archiving, and Interfaces to other upstream and downstream systems.Design, develop, enhance, and support PL/SQL Packages, Procedures, Functions, Triggers, and Indexes.Participate in project design, development, test and implementation activities with IT and Business users.Support for IT and User testing and deployment of Vendor Builds and Patches.Work directly with end users and business analysts to understand new/changing business requirements and functional enhancements as requested.Qualifications:BS in Engineering, Computer Science, CIS or MIS.5-10 years of experience in:Oracle database Development & Analysis (SQL and/or Oracle PL/SQL) is required.Design, develop, enhance, and support PL/SQL Packages, Procedures, Functions, Triggers, and Indexes.Oracle Database Objects, Data Archiving, and InterfacesSAP BOBJ reportingPossesses excellent verbal and written communication skills.",
+        "source": "Email",
+        "date_posted": "2024-10-17 11:06:55-05:00",
+        "unique_id": "1929be25e203d7b6",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

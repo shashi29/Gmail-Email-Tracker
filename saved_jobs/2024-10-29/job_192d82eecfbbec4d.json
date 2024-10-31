@@ -1,0 +1,80 @@
+[
+    {
+        "company": "InsourceTechsolutions",
+        "job_title": "PEGA LSA",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "SpringBoot",
+                "Microservices",
+                "REST APIs",
+                "Spring JPA",
+                "GCP",
+                "Docker",
+                "Kubernetes"
+            ],
+            "primary": [
+                "NoSQL databases",
+                "Oracle",
+                "CI/CD pipelines",
+                "design patterns",
+                "GraphQL"
+            ],
+            "secondary": [],
+            "all": [
+                "Core Java",
+                "SpringBoot",
+                "Microservices",
+                "REST APIs",
+                "Spring JPA",
+                "GCP",
+                "Docker",
+                "Kubernetes",
+                "NoSQL databases",
+                "Oracle",
+                "CI/CD pipelines",
+                "design patterns",
+                "GraphQL"
+            ],
+            "with_experience": [
+                "Core Java",
+                "SpringBoot",
+                "Microservices",
+                "REST APIs",
+                "Spring JPA",
+                "GCP",
+                "Docker",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "venkat",
+        "email": "venkatk@insourcetechsolutions.com",
+        "jd": "From: venkat, InsourceTechsolutions venkatk@insourcetechsolutions.com Reply to: venkatk@insourcetechsolutions.com Preferred Skills :Job Description:* Ideal candidate will have 5 \u2013 10 years of experience. Client not interested in 15 or 24 years of experience as these candidates are not hands-on.* Must have hands-on project experience using below skillset:o Core Java, SpringBoot, Microservices / REST APIs, Spring JPAo GCP / Storage managed services such as Spanner, Cloud SQL, NoSQL databases OR on-prem databases such as Oracle\uf0a7 Experience troubleshooting application in the production environment that is deployed on the GCP platform or on-prem environment.\uf0a7 Knowledge with respect to the GCP native architecture & designo Containerization of Java SpringBoot application including packaging, deployment and configuration using Docker and Kubernetes* Knowledge and experience implementing/utilizing CI/CD pipelines.* Knowledge and experience implementing/utilizing popular design patterns for both Java as well as Microservices / REST APIs.* Good to have GraphQL knowledge. Implementation experience is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-29 06:35:08-05:00",
+        "unique_id": "192d82eecfbbec4d",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "PEGA Developer"
+    }
+]

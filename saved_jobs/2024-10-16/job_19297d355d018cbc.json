@@ -1,0 +1,49 @@
+[
+    {
+        "company": "Centraprise",
+        "job_title": "Snowflake DBT Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Snowflake",
+                "DBT"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "SQL",
+                "Snowflake",
+                "DBT"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Dilip Kumar",
+        "email": "dilip.k@centraprise.com",
+        "jd": "From: Dilip Kumar, Centraprise dilip.k@centraprise.com Reply to: dilip.k@centraprise.com Strong Data Engineering / Analysis skills with SQL, Snowflake, DBT",
+        "source": "Email",
+        "date_posted": "2024-10-16 18:38:50-05:00",
+        "unique_id": "19297d355d018cbc",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

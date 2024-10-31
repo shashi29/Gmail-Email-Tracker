@@ -1,0 +1,115 @@
+[
+    {
+        "company": "Anveta, Inc.",
+        "job_title": "Senior Java and Database Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Microservices Architecture",
+                "Database Management",
+                "RESTful Web Services"
+            ],
+            "primary": [
+                "Node.js",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "Java Server Pages",
+                "JUnit",
+                "GitHub",
+                "Maven",
+                "GitHub Actions",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular",
+                "OAuth 2.0",
+                "JWT",
+                "SAML/SSO",
+                "KeyCloak",
+                "Bash",
+                "PowerShell",
+                "Python",
+                "AWS RDS",
+                "SQL",
+                "MySQL",
+                "PostgreSQL",
+                "Oracle",
+                "MongoDB",
+                "Cassandra"
+            ],
+            "secondary": [
+                "Agile methodologies"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Microservices Architecture",
+                "Database Management",
+                "RESTful Web Services",
+                "Node.js",
+                "ServiceNow",
+                "Splunk",
+                "Dynatrace",
+                "Java Server Pages",
+                "JUnit",
+                "GitHub",
+                "Maven",
+                "GitHub Actions",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular",
+                "OAuth 2.0",
+                "JWT",
+                "SAML/SSO",
+                "KeyCloak",
+                "Bash",
+                "PowerShell",
+                "Python",
+                "AWS RDS",
+                "SQL",
+                "MySQL",
+                "PostgreSQL",
+                "Oracle",
+                "MongoDB",
+                "Cassandra",
+                "Agile methodologies"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Charan",
+        "email": "charan@anveta.com",
+        "jd": "From: Charan, Anveta charan@anveta.com Reply to: charan@anveta.com Role: Senior Java and Database Developer Location: 47 Trinity Ave SW, Atlanta, GA 30334 (Hybrid)Note: Locals onlyDuration: 6+ Months Experience and Technical Skills RequiredSeven (7) years of experience in Java and modern technologies.Previous experience usingJava (Java 17+) features such as records, sealed classes, switch expressions, pattern matching, and enhanced performance improvementsNode 16+ServiceNow, Splunk, DynatraceSpring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security, Spring Batch)Microservices Architecture (Designing, developing, and deploying microservices)Java Server Pages (creating dynamic web pages and integrating with back-end logic)Database Management (PostgreSQL, Oracle and experience with ORM tools like Hibernate)RESTful Web Services (API development, consumption, and integration)Thorough understanding of REST, SOAP, Web services and API Communication protocols S/FTP/S, HTTP/S, File I/O etc.Testing: JUnit, TestNG, MockitoVersion Control: GitHubBuild Tools: Maven, NPMCI/CD: GitHub ActionsFrontend Integration: Understanding of HTML, CSS, JavaScript, and Angular 17+Security & Identity Management: Experience with OAuth 2.0, JWT tokens, and SAML/SSO integration for authentication and authorizationKeyCloak Integration: Integrate KeyCloak with Java-based applications and services for API authenticationScripting Languages: Proficiency in one or more scripting languages, such as Bash, or PowerShell, PythonExperience with cloud-based databases (e.g., AWS RDS).Proficiency in SQL and experience with relational databases (e.g., MySQL, PostgreSQL, Oracle).Knowledge of NoSQL databases (e.g., MongoDB, Cassandra) is a plus.Familiarity with agile methodologies.",
+        "source": "Email",
+        "date_posted": "2024-10-25 10:15:06-05:00",
+        "unique_id": "192c45f09e58e993",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

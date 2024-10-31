@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Dimiour",
+        "job_title": "Full Stack Lead",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "NodeJS",
+                "REST API",
+                "Microservices",
+                "Spring Boot"
+            ],
+            "primary": [
+                "OAuth2 Security",
+                "Spring Security",
+                "Spring Data",
+                "Spring MVC",
+                "Java Streams",
+                "Cassandra",
+                "Kafka",
+                "Elastic Search",
+                "MongoDB",
+                "CI/CD",
+                "Docker"
+            ],
+            "secondary": [
+                "troubleshooting",
+                "problem-solving",
+                "development",
+                "support"
+            ],
+            "all": [
+                "Java",
+                "NodeJS",
+                "REST API",
+                "Microservices",
+                "Spring Boot",
+                "OAuth2 Security",
+                "Spring Security",
+                "Spring Data",
+                "Spring MVC",
+                "Java Streams",
+                "Cassandra",
+                "Kafka",
+                "Elastic Search",
+                "MongoDB",
+                "CI/CD",
+                "Docker",
+                "troubleshooting",
+                "problem-solving",
+                "development",
+                "support"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Santhosh",
+        "email": "santhosh.mohan@dimiour.io",
+        "jd": "From: Santhosh, Dimiour santhosh.mohan@dimiour.io Reply to: santhosh.mohan@dimiour.io Role Title: Full Stack Lead Location: St. Louis, MO [Onsite] Duration: Long Term Contract Job Description: Full Stack Lead with Spring Boot Microservices. 10+ years of Java, NodeJS, REST API, Microservices Experience. Strong experience in REST API development with OAuth2 Security.Experience in Spring Security, Spring Data, Spring MVC.Experience in Java Streams, Integrations with Cassandra, Kafka, Elastic Search, MongoDBExperience in troubleshooting, problem-solvingExperience in development/deployment of Systems with Scalability and Performance.Experience in CI/CD, Docker is a must.Ability work on Development and Support roles.",
+        "source": "Email",
+        "date_posted": "2024-10-14 16:39:03-05:00",
+        "unique_id": "1928d1909c80fdc9",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

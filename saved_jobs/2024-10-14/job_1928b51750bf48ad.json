@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Involgix",
+        "job_title": "GCP Data Engineer (with Java background)",
+        "location": "Irving, TX, USA",
+        "full_location": {
+            "city": "Irving",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Java",
+                "Big Query",
+                "SQL Query"
+            ],
+            "primary": [
+                "Data Flow",
+                "Pub Sub",
+                "Data analytics",
+                "KAFKA",
+                "Spark",
+                "Scala"
+            ],
+            "secondary": [],
+            "all": [
+                "GCP",
+                "Java",
+                "Big Query",
+                "SQL Query",
+                "Data Flow",
+                "Pub Sub",
+                "Data analytics",
+                "KAFKA",
+                "Spark",
+                "Scala"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ron Miller",
+        "email": "ron@involgix.com",
+        "jd": "From: Ron Miller, Involgix ron@involgix.com Reply to: ron@involgix.com Position: GCP Data Engineer (with Java background)Location: Irving, TX (Hybrid)Hiring Type: Contract Job Description: Data Flow with Java Background, GCP Overall experience, Big Query, Pub Sub, Data analytics, SQL Query, KAFKASpark, Scala with Java backgroundGCP Hadoop experience Thanks and RegardsRon MillerSr. US IT Recruiter700 Market St, Suite 203, Cedar Park, TX 78613Email: ron@involgix.com",
+        "source": "Email",
+        "date_posted": "2024-10-14 07:58:18-05:00",
+        "unique_id": "1928b51750bf48ad",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

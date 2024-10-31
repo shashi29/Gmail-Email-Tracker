@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Source Mantra",
+        "job_title": "Senior Python Developer",
+        "location": "Fremont, CA, USA",
+        "full_location": {
+            "city": "Fremont",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "Flask",
+                "PySpark",
+                "Data Science algorithms",
+                "REST APIs",
+                "RDBMS",
+                "NoSQL"
+            ],
+            "primary": [
+                "Big Data",
+                "Data munging",
+                "Pandas",
+                "Pyarrow",
+                "Numpy",
+                "scikit-learn"
+            ],
+            "secondary": [
+                "Automated testing",
+                "Reusable code components",
+                "High quality code"
+            ],
+            "all": [
+                "Python",
+                "Django",
+                "Flask",
+                "PySpark",
+                "Data Science algorithms",
+                "Big Data",
+                "Data munging",
+                "Pandas",
+                "Pyarrow",
+                "Numpy",
+                "scikit-learn",
+                "REST APIs",
+                "RDBMS",
+                "NoSQL",
+                "Automated testing",
+                "Reusable code components",
+                "High quality code"
+            ]
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "Venkat",
+        "email": "venkat@sourcemantra.com",
+        "jd": "From: Venkat, Source Mantra venkat@sourcemantra.com Reply to: venkat@sourcemantra.com Please share your resumes to: venkat@sourcemantra.comSenior Python DeveloperFremont CA - Onsite \u2013 Need Locals Only - 3 Days On Site12+ Months ContractNeed Overall 10 Years and above with Linkedin id and PP# Description :-Long term contract and have to go 3 days onsite Advanced Level experience (8+ years) with Python programming language handling Big DataExperience with Django and/or FlaskExperience with PySparkExperience with implementing Data Science algorithms Experience with data munging/wrangling would be good to haveExperience using third-party Python libraries including Pandas, Pyarrow, Numpy, etc.Experience with ML libraries like scikit-learnExperience developing REST APIs involving large volume data setsExperience with RDBMS systems.Experience with NoSQL stores (HBase, Cassandra etc.).Rigor in high quality code, automated testing, and other engineering best practices, ability to write reusable code components.This role requires partnering continuously with many stakeholders and global teams daily to stay focused on common goals. This includes coordinating with internal and external teams (onsite/offshore) as necessary.",
+        "source": "Email",
+        "date_posted": "2024-10-10 11:06:47-05:00",
+        "unique_id": "1927754d91631f07",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

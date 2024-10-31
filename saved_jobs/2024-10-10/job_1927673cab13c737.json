@@ -1,0 +1,57 @@
+[
+    {
+        "company": "Shrive Technologies",
+        "job_title": "AWS Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "10 months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Python",
+                "AWS Glue",
+                "JavaScript",
+                "AWS Amplify"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "AWS",
+                "Python",
+                "AWS Glue",
+                "JavaScript",
+                "AWS Amplify"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Pradeep",
+        "email": "pradeep@shrivetechnologies.com",
+        "jd": "From: Pradeep, Shrive Technologies pradeep@shrivetechnologies.com Reply to: pradeep@shrivetechnologies.com Job title: AWS DeveloperJob location: Austin, TX. 78701 \u2013 Remote jobDuration: 10 months contractNote: Need Pure AWS Developer not Devops engineer with AWSJob Description:Plans, develops, tests, and documents computer programs, applying knowledge of programming techniques and computer systems. Evaluates user request for new or modified program, such as data ETL pipelines (using Python/AWS Glue) or front-end data submission app development (using JavaScript/AWS Amplify).Consults with user to identify current operating procedures and clarify program objectives. Formulates plan outlining steps required to develop program, using methodologies such as structured analysis and design or object-oriented development.Participate the implementation of AWS Data Lake instance by translating program needs into technical requirements, supporting program leads in defining the long-term vision for the project, defining and implementing data governance / identity and access management policies, tracking project expenses, testing and validating new functionality, enabling program staff to use new tools, and regularly interfacing with both internal and external stakeholders. Role includes programming to implement new data feeds via API, maintaining AWS Amplify data upload platform, and implementing and maintaining crawlers and jobs in AWS Glue.",
+        "source": "Email",
+        "date_posted": "2024-10-10 07:06:44-05:00",
+        "unique_id": "1927673cab13c737",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

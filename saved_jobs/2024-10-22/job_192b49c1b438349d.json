@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Biztegy Analytics, Inc",
+        "job_title": "Data Engineer",
+        "location": "San Diego, CA, USA",
+        "full_location": {
+            "city": "San Diego",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1 year contract + likelihood to extend",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS development",
+                "ETL processes",
+                "data warehousing concepts",
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "data modeling"
+            ],
+            "primary": [
+                "AWS services (S3, Redshift, Glue, Athena, Lambda)",
+                "problem-solving skills",
+                "communication skills"
+            ],
+            "secondary": [
+                "data visualization tools (PowerBI or Tableau)",
+                "GIS knowledge",
+                "AWS certifications",
+                "risk-analysis/preventative analysis"
+            ],
+            "all": [
+                "AWS development",
+                "ETL processes",
+                "data warehousing concepts",
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "data modeling",
+                "AWS services (S3, Redshift, Glue, Athena, Lambda)",
+                "problem-solving skills",
+                "communication skills",
+                "data visualization tools (PowerBI or Tableau)",
+                "GIS knowledge",
+                "AWS certifications",
+                "risk-analysis/preventative analysis"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Ashok Kumar",
+        "email": "ashok@ba-itconsult.com",
+        "jd": "From: Ashok, Biztegy Analytics, Inc ashok@ba-itconsult.com Reply to: ashok@ba-itconsult.com Hi, Position Title: Data EngineerTarget Start Date: 11/18 \u2013 2 weeks from interviewJob Duration: 1 year contract + likelihood to extend Hybrid Schedule: Tues/Wed/Thurs Onsite | Mon/Fri RemoteWork Location: CP East - 8680 Balboa Ave, San Diego, California, United States, 92123 Required Qualifications:3-5 years of experience in data engineering, with a focus on AWS development.Familiarity with AWS services related to data processing and storage (e.g., S3, Redshift, Glue, Athena, Lambda).Knowledge of ETL processes and data warehousing concepts.Proficiency in programming languages such as Python, Java, or Scala.Strong experience with SQL and data modeling concepts.Excellent problem-solving skills and the ability to work independently as well as in a team environment.Strong communication skills, with the ability to convey complex technical concepts to non-technical stakeholders.Bachelor\u2019s degree in Computer Science, Engineering, or a related field.Preferred Qualifications:Knowledge of data visualization tools (PowerBI or Tableau)GIS knowledge and experience with geospatial data processing and analysis.AWS certificationsExperience working on risk-analysis/preventative analysis for assets Key Responsibilities:Data Pipeline Development: Creating and managing data pipelines to ingest, process, and store data from various sources (e.g., databases, APIs, and streaming services)Data Storage Solutions: Utilizing AWS services such as Amazon S3, Amazon Redshift, and Amazon RDS to store structured and unstructured data efficiently.ETL Processes: Implementing Extract, Transform, Load (ETL) processes to ensure data is clean, reliable, and readily accessible for analysis.Data Integration: Working with tools like AWS Glue to integrate data from multiple sources and prepare it for analysis.Data Modeling: Designing data models that support analytics and reporting needs, ensuring optimal performance and usability.Performance Optimization: Monitoring and optimizing data workflows and infrastructure to enhance performance, scalability, and cost-efficiency.Collaboration: Collaborating with data scientists, analysts, and other stakeholders to understand data requirements and deliver effective solutions.Documentation: Maintaining documentation of data architecture, processes, and best practices to ensure clarity and knowledge sharing within the team.",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:41:49-05:00",
+        "unique_id": "192b49c1b438349d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

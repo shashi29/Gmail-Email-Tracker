@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Absolute IT",
+        "job_title": "Lead Java Spring Boot Engineer",
+        "location": "Frisco, TX, USA",
+        "full_location": {
+            "city": "Frisco",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "REST APIs",
+                "AWS"
+            ],
+            "primary": [
+                "Spring Data JPA",
+                "Liquibase",
+                "Postgres SQL DB",
+                "Unit and Integration Testing",
+                "Jenkins"
+            ],
+            "secondary": [
+                "Spring AOP",
+                "Spring Core",
+                "AWS (ECS Fargate, Lambda, SQS, AWS API Gateway, ALB, etc)",
+                "JUnit5",
+                "Mockito"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "REST APIs",
+                "AWS",
+                "Spring Data JPA",
+                "Liquibase",
+                "Postgres SQL DB",
+                "Unit and Integration Testing",
+                "Jenkins",
+                "Spring AOP",
+                "Spring Core",
+                "AWS (ECS Fargate, Lambda, SQS, AWS API Gateway, ALB, etc)",
+                "JUnit5",
+                "Mockito"
+            ],
+            "with_experience": [
+                "Java (17 minimum)",
+                "Spring Boot (3)",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Kartik Bhardwaj",
+        "email": "kartik+++++@absoluting.com",
+        "jd": "From: Kartik Bhardwaj, Absolute IT kartik+++++@absoluting.com Reply to: kartik+++++@absoluting.com Title: Lead Java Spring Boot Engineer Location: Frisco TX. Onsite 2x a week preferred as the whole team is there. Locals Only Experience with Luquidbase. Visa: USC and GC OnlyMUSTMust have strong banking experienceleading a teamstrong communicationAWSSpring Data JPAJava (17 minimum), Spring Boot 3, Spring Data JPA, Spring AOP, Spring Core, REST APIs, Liquibase, Postgres SQL DB, AWS (ECS Fargate, Lambda, SQS, AWS API Gateway, ALB, etc), Unit and Integration Testing (Spring boot test, junit5, mockito), Jenkins Top 4: Java (strong skill-set), spring boot, ReST API development, AWSKind Regards,Kartik Bhardwaj | Absolute IT | Recruitment Manager 116 \u2022 Village Blvd \u2022 Suite 200 \u2022 Princeton \u2022 New Jersey \u2022 08540Direct: 609-639 9618Office: 201-228-3009 EXT 127Kartik@absoluting.comwww.absoluting.com",
+        "source": "Email",
+        "date_posted": "2024-10-16 15:59:56-05:00",
+        "unique_id": "1929741db9d0d8c5",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

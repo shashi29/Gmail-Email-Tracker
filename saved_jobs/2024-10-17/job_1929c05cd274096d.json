@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Data Architect",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "onsite",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML T-SQL",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Python",
+                "Scala"
+            ],
+            "primary": [
+                "advanced stored procedure writing",
+                "data integration",
+                "data pipelines",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "analytical skills",
+                "problem-solving skills"
+            ],
+            "secondary": [
+                "Microsoft Dynamics 365 Certification",
+                "MS Dynamics Power Platform Certifications",
+                "customer support",
+                "quality of work"
+            ],
+            "all": [
+                "Synapse Analytics",
+                "Dedicated SQL Pools",
+                "Azure SQL Database",
+                "Azure Managed Instance",
+                "DDL",
+                "DML T-SQL",
+                "data architecture design principles",
+                "data governance principles",
+                "cloud computing concepts",
+                "Python",
+                "Scala",
+                "advanced stored procedure writing",
+                "data integration",
+                "data pipelines",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "analytical skills",
+                "problem-solving skills",
+                "Microsoft Dynamics 365 Certification",
+                "MS Dynamics Power Platform Certifications",
+                "customer support",
+                "quality of work"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "jatin parashar",
+        "email": "jparashar@vyzeinc.com",
+        "jd": "From: jatin parashar, Vyze Inc jparashar@vyzeinc.com Reply to: jparashar@vyzeinc.com Job Description -Job Title : Data ArchitectOnsite :Tallahassee, FL (Local with DL)Please share candidates LinkedIn & Visa copy with Local DL CopySpecific Knowledge, Skills, and Abilities (KSAs)The submitted candidate must be able to apply common knowledge, skills, and abilities in the following areas:\u2022 8+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance.\u2022 8+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.\u2022 +8years of experience in data architecture design principles, methodologies, and best practices.\u2022 4+ years of experience in data governance principles and compliance requirements related to data security and privacy.\u2022 6+ years of experience in integrating data from various sources and managing large data pipelines.\u2022 +4years of experience in cloud computing concepts, particularly in Microsoft Azure, including storage solutions and compute capabilities.\u2022 1+ years of Experience with programming languages such as Python or Scala.\u2022 1+ years of experience in Salesforce, Message MQ, and MuleSoft\u2022 Strong analytical and problem-solving skills to address complex data challenges.\u2022 Ability to design and implement robust, scalable, and efficient data architectures.\u2022 Ability to provide excellent customer support; meticulous quality of work and work product.Education and CertificationsEducation: Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or other related field. Or equivalent work experience. (Required)Certifications: Microsoft Dynamics 365 Certification (Desired) and MS Dynamics Power Platform Certifications (Desired)",
+        "source": "Email",
+        "date_posted": "2024-10-17 14:12:29-05:00",
+        "unique_id": "1929c05cd274096d",
+        "emp_type": [
+            "onsite",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

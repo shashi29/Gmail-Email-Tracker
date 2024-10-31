@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Spar Information Systems",
+        "job_title": "Core Java Developer",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's in Computer Science or related Field, Master's degree is a plus",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Spring Boot",
+                "Fullstack",
+                "Spring Cloud",
+                "Spring Security",
+                "Spring Data",
+                "Batch"
+            ],
+            "primary": [
+                "Databases (Oracle/SQL Server/DB2/MongoDB)",
+                "Data analysis",
+                "Data profiling",
+                "Data lineage",
+                "Agile projects",
+                "Cloud platforms (Azure, AWS, DataBricks)",
+                "Software architecture",
+                "Design methodologies",
+                "Financial services experience"
+            ],
+            "secondary": [
+                "UI/UX feature development"
+            ],
+            "all": [
+                "Core Java",
+                "Spring Boot",
+                "Fullstack",
+                "Spring Cloud",
+                "Spring Security",
+                "Spring Data",
+                "Batch",
+                "Databases (Oracle/SQL Server/DB2/MongoDB)",
+                "Data analysis",
+                "Data profiling",
+                "Data lineage",
+                "Agile projects",
+                "Cloud platforms (Azure, AWS, DataBricks)",
+                "Software architecture",
+                "Design methodologies",
+                "Financial services experience",
+                "UI/UX feature development"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Spar Information Systems",
+        "email": "sneh.lata@sparinfosys.com",
+        "jd": "Core Java Developer\nLocation: NYC, NY\nLong Term\nCore Java developer - full stack with backend development expertise Responsibilities will include: -Define and leads the implementation of strategic solution as well as identify tactical solutions when necessary. leads projects delivery and ensure projects are within scope, time constraints and deliverables are of the highest quality. work with other leads to further technology led transformation agenda.work code that accurately reflects the requirements and design documents. coaches team members to maximize their performance and potential. proactively seeks knowledge through external and internal sources.leverage devops to automate application testing and deployments. Required skills : - Hands on development in core java, spring Boot, Fullstack,Spring cloud, Spring security, Spring Data and Batch. Must have implemented large scale projects in Java platform. Hands on experience on Databases (Oracle/SQL Server/DB2/MongoDB) Proficiency in data analysis,data profiling, and data lineage. Experience in defining solutions with focus on reusability and alignment with firm wide strategy and authoritative sources. Experience working in Agile projects. Experience with Cloud platforms (Azure,AWS,DataBricks, etc)High quality software architecture and design methodologies and patterns, such as SOA, layered architecture and Component based Architecture. Financial services experience. Bachelors in computer science or related Field, Masters degree is a plus. - Experience in developing UI/UX feature is needed.",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:52:54-05:00",
+        "unique_id": "192c590dfebb8a9a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "company": "United Software Group",
+        "job_title": ".Net Full Stack Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "3+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Angular",
+                "SQL Server"
+            ],
+            "primary": [
+                "HTML",
+                "CSS",
+                "Web APIs",
+                "ASP.NET",
+                "JavaScript"
+            ],
+            "secondary": [
+                "MVC",
+                "WebForms",
+                "Problem-solving",
+                "Team collaboration"
+            ],
+            "all": [
+                "C#",
+                "Angular",
+                "SQL Server",
+                "HTML",
+                "CSS",
+                "Web APIs",
+                "ASP.NET",
+                "JavaScript",
+                "MVC",
+                "WebForms",
+                "Problem-solving",
+                "Team collaboration"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Love Kumar",
+        "email": "lovekumar@usgrpinc.com",
+        "jd": "Hi,This is Love Kumar from United Software Group. Hope you are doing well. Please have a look at the job, you may reply to this e-mail directly with resume to get in touch with me..Net Full Stack DeveloperRemote in PST timeContract Duration : 3+ MonthsJob Description: Skills: Should be very strong on front end skills Angular, HTML and CSS. Should be backend skills C# and .Net, and DB skills SQL Server. Qualifications and Skills:\u2022 Proficiency in C# (Mandatory skill) with proven experience in software development using this language. Must have Strong Angular Skills\u2022 Strong knowledge and hands-on experience with SQL Server (Mandatory skill) for database management and operations. \u2022 Expertise in developing and consuming Web APIs (Mandatory skill) for creating scalable services.\u2022 Experience with ASP.NET, including MVC and WebForms, for building dynamic web applications.\u2022 Comprehensive understanding of JavaScript for client-side scripting and interactivity.\u2022 Proficiency in HTML and CSS for building and styling web pages.\u2022 Experience with Angular for building dynamic single-page applications.\u2022 Strong problem-solving skills and the ability to work independently and in a team.Roles and Responsibilities:\u2022 Design, develop, and maintain robust and scalable web applications using the .NET stack.\u2022 Develop and optimize SQL Server stored procedures, functions, and queries to ensure performance and reliability.\u2022 Create and manage Web APIs to facilitate seamless integration between different components and services.\u2022 Collaborate with cross-functional teams to analyze user requirements and implement technical solutions.\u2022 Participate in code reviews to maintain code quality and share best practices with the development team.\u2022 Troubleshoot and debug software issues to ensure optimal performance and functionality.\u2022 Stay up-to-date with the latest industry trends and technologies to continuously improve software solutions.\u2022 Document technical specifications and provide training to other team members as needed.",
+        "source": "Email",
+        "date_posted": "2024-10-17 15:11:49-05:00",
+        "unique_id": "1929c3c20e549131",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

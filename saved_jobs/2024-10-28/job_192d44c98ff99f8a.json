@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Vyze",
+        "job_title": "AI Engineer (Fullstack)",
+        "location": "Newport Beach, CA, USA",
+        "full_location": {
+            "city": "Newport Beach",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, AI, ML, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "JavaScript",
+                "AI",
+                "ML",
+                "LLM"
+            ],
+            "primary": [
+                "Django",
+                "Flask",
+                "Azure",
+                "Docker",
+                "Git"
+            ],
+            "secondary": [
+                "PostgreSQL",
+                "CosmosDB",
+                "MongoDB",
+                "AWS",
+                "HTML5",
+                "CSS3",
+                "Kubernetes"
+            ],
+            "all": [
+                "Python",
+                "JavaScript",
+                "AI",
+                "ML",
+                "LLM",
+                "Django",
+                "Flask",
+                "Azure",
+                "Docker",
+                "Git",
+                "PostgreSQL",
+                "CosmosDB",
+                "MongoDB",
+                "AWS",
+                "HTML5",
+                "CSS3",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "hanshika",
+        "email": "hanshika@vyzeinc.com",
+        "jd": "From: hanshika, vyze hanshika@vyzeinc.com Reply to: hanshika@vyzeinc.com Job Description -NEED LOCAL CANDIDATES FROM Newport Beach, CANEED two candidate only.Job title: AI Engineer (Fullstack)Location: Newport Beach, CANEED LINKEDIN.We are seeking a talented and experienced AI Engineer to join our team. In this role, you will be instrumental in developing our next-generation chatbot using AI and LLM technology. You will work closely with a cross-functional team to design, build, and deploy sophisticated AI applications that understand, interpret, and respond to human language in a way that is both meaningful and relevant. The ideal candidate will have a deep understanding of full-stack technology, with a passion for developing scalable, high-performance applications. You will play a key role in the entire application lifecycle, from concept stage to delivery and post-launch support. Our Tech Stack includes: Python, JavaScript (& based frameworks), Azure, Snowflake, Terraform, Bicep, Azure CLI, CDK, Redis, Docker, Git, Gitlab CI/CD, Database (NoSQL: CosmosDB, MongoDB, DocumentDB) Responsibilities:Design and Development: Architect, design and develop advanced AI models for our LLM application, focusing on natural language understanding (NLU), natural language processing (NLP), and machine learning (ML) algorithmCollaboration: Work closely with product managers, UX/UI designers, and software engineers to integrate AI models into our existing apps, ensuring a seamless and intuitive user experience.Testing: Implement rigorous testing frameworks to evaluate the performance of AI models. Continuously refine and optimize models based on feedback and performance metrics.Innovation: Stay abreast of the latest developments in AI, LLM, NLP, and ML. Conduct research to explore new methodologies, technologies, and tools and apply them into operations and activities.Documentation and Knowledge Sharing: Document AI model development processes, architectures, and best practices. Share knowledge and mentor junior team members in AI technologies and methodologies.Security: Implement responsible AI, security and data protection solutions.UI/UX: Optimize applications for speed and scalability. Requirements:Bachelor's or Master's degree in Computer Science, AI, ML, Engineering, or a related field.7+ years of experience in full-stack development, with a strong focus on Python.Experience building AI/ML applications using LLM, ML technology, using Open AI, Llama or other models.Experience with Python web frameworks (e.g., Django, Flask).Solid understanding of object-oriented programming (OOP) principles.Familiarity with database technologies (e.g. PostgreSQL, CosmosDB, MongoDB).Experience with cloud services (e.g., Azure, AWS).Proficient in front-end technologies, including JavaScript, HTML5, and CSS3.Knowledge of containerization and orchestration technologies (e.g., Docker, Kubernetes).Strong understanding of code versioning tools, such as Git.Excellent problem-solving skills and attention to detail.Strong communication and teamwork skills. Nice to Have:Development Experience deploying Python solutions (e.g., Web Apps, APIs, SPA integrations) to Azure with IaC (e.g., Azure CLI, Azd, Bicep, Powershell/Bash, Oryx).Experience with Azure Machine Learning or AI Stack (e.g., Azure ML Studio, Azure AI Studio).Experience in Asset Management and/or Financial Services",
+        "source": "Email",
+        "date_posted": "2024-10-28 11:29:11-05:00",
+        "unique_id": "192d44c98ff99f8a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

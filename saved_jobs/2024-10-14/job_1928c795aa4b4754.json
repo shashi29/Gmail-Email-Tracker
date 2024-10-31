@@ -1,0 +1,85 @@
+[
+    {
+        "company": "Blue Ocean Ventures",
+        "job_title": "Java Full-stack Developer",
+        "location": "Morris Plains, NJ, USA",
+        "full_location": {
+            "city": "Morris Plains",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring",
+                "Hibernate",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "primary": [
+                "React",
+                "RESTful APIs",
+                "Microservices",
+                "Git"
+            ],
+            "secondary": [
+                "AWS",
+                "Azure",
+                "Google Cloud",
+                "Docker",
+                "Kubernetes",
+                "CI/CD"
+            ],
+            "all": [
+                "Java",
+                "Spring",
+                "Hibernate",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "RESTful APIs",
+                "Microservices",
+                "Git",
+                "AWS",
+                "Azure",
+                "Google Cloud",
+                "Docker",
+                "Kubernetes",
+                "CI/CD"
+            ],
+            "with_experience": [
+                "Java",
+                "Spring",
+                "Hibernate"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Raghu Prasad",
+        "email": "raghu.prasad@blue-oceanventures.com",
+        "jd": "From: Raghu Prasad, Blue ocean Ventures raghu.prasad@blue-oceanventures.com Reply to: raghu.prasad@blue-oceanventures.com Hi, Java Full-stack DeveloperLocation: Morris Plains, NJ (Onsite) Key Responsibilities:Design, develop, and maintain web applications using Java and modern web technologies.Implement responsive user interfaces with HTML, CSS, and JavaScript frameworks (React).Develop and integrate RESTful APIs and microservices using Java frameworks (e.g., Spring Boot).Collaborate with product owners and designers to understand user requirements and translate them into technical specifications.Write clean, maintainable, and efficient code while adhering to coding standards and best practices.Conduct code reviews and provide constructive feedback to team members.Optimize applications for maximum speed and scalability.Troubleshoot and debug applications, identifying and resolving issues promptly. Qualifications:Proven experience as a Full Stack Developer, with a strong focus on Java development.Proficiency in Java and familiarity with Java frameworks (e.g., Spring, Hibernate).Experience with front-end technologies: HTML, CSS, JavaScript, and popular frameworks (Angular, React, or Vue.js).Familiarity with version control systems (e.g., Git).Strong problem-solving skills and attention to detail.Excellent communication and teamwork skills. Preferred Qualifications:Experience with cloud platforms (e.g., AWS, Azure, Google Cloud).Familiarity with containerization technologies (e.g., Docker, Kubernetes).Knowledge of CI/CD tools and practices.",
+        "source": "Email",
+        "date_posted": "2024-10-14 13:44:38-05:00",
+        "unique_id": "1928c795aa4b4754",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

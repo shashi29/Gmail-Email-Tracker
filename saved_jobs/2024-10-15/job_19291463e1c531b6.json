@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Amazon",
+        "job_title": "Python Software Engineer (AWS)",
+        "location": "Sunnyvale, CA, USA",
+        "full_location": {
+            "city": "Sunnyvale",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's degree in computer science or equivalent",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "Web Services",
+                "API development",
+                "Distributed systems"
+            ],
+            "primary": [
+                "Infrastructure concepts",
+                "Object-oriented programming",
+                "Software development life cycle",
+                "Code reviews",
+                "Source control management"
+            ],
+            "secondary": [
+                "AWS Certified Developer",
+                "AWS Certified Solutions Architect",
+                "Infrastructure Automation",
+                "CloudFormation",
+                "CDK",
+                "Linux",
+                "Windows",
+                "Bash scripting",
+                "PowerShell scripting",
+                "ReactJS"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "Web Services",
+                "API development",
+                "Distributed systems",
+                "Infrastructure concepts",
+                "Object-oriented programming",
+                "Software development life cycle",
+                "Code reviews",
+                "Source control management",
+                "AWS Certified Developer",
+                "AWS Certified Solutions Architect",
+                "Infrastructure Automation",
+                "CloudFormation",
+                "CDK",
+                "Linux",
+                "Windows",
+                "Bash scripting",
+                "PowerShell scripting",
+                "ReactJS"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Prashanth",
+        "email": "prashanthn@brillius.com",
+        "jd": "From: Prashanth, Brillius prashanthn@brillius.com Reply to: prashanthn@brillius.com Role - Python Software Engineer (AWS)Location - Sunnyvale, CA, USA - Hybrid roleContract - C2C W2 DESCRIPTIONDesign Technologies Group within Amazon manages various software tools and services for hardware engineering teams within Amazon. These services serve broad areas around High-Performance Compute, Desktop Virtualization, License Management, Simulation Data Management and AI/ML Infrastructure. You will be joining a strong team with a great work environment, with an opportunity to lead the technology and product decisions we make on behalf of these interesting customer challenges.The ideal candidate should have experience in building distributed systems, with strength on infrastructure concepts. In addition to strong technical knowledge, the ideal candidate should thrive in a fast-paced start-up like environment and be passionate about solving ambiguous problems.Key job responsibilities\u2022 Lead design, implementation, testing, and delivery of solutions.\u2022 Participate in code and design reviews.\u2022 Work directly with customers and dependencies to ensure quality delivery.We are open to hiring candidates to work out of one of the following locations: BASIC QUALIFICATIONS\u2022 Bachelor's degree in computer science or equivalent\u2022 8+ years of non-internship professional software development experience.\u2022 6+ years of object-oriented Python programming and Web Services/API development experience.. 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience\u2022 Foundational understanding of core AWS services around Compute, Networking, Storage and SecurityPREFERRED QUALIFICATIONS\u2022 AWS Certifications: AWS Certified Developer or AWS Certified Solutions Architect\u2022 Experience with Infrastructure Automation such as CloudFormation and CDK\u2022 Strong understanding of Linux and Windows based systems with proficiency in Bash and PowerShell scripting\u2022 Familiarity with frontend frameworks like ReactJS",
+        "source": "Email",
+        "date_posted": "2024-10-15 11:35:44-05:00",
+        "unique_id": "19291463e1c531b6",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

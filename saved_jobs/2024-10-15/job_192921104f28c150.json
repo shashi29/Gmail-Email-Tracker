@@ -1,0 +1,80 @@
+[
+    {
+        "company": "3K Technologies, LLC",
+        "job_title": "Infrastructure Solutions Architect Networking (Azure Networking Expertise)",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor\u2019s degree in computer science, Information Technology, or a related field (or equivalent experience)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1 year",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure networking services",
+                "Network Architecture & Design",
+                "Cloud Integration",
+                "Network Security",
+                "Network Troubleshooting"
+            ],
+            "primary": [
+                "Automation & Monitoring",
+                "Performance Optimization",
+                "Documentation",
+                "Mentorship",
+                "Traditional Networking"
+            ],
+            "secondary": [
+                "Azure certifications",
+                "Cisco certifications",
+                "Network automation",
+                "Monitoring Tools",
+                "Soft Skills"
+            ],
+            "all": [
+                "Azure networking services",
+                "Network Architecture & Design",
+                "Cloud Integration",
+                "Network Security",
+                "Network Troubleshooting",
+                "Automation & Monitoring",
+                "Performance Optimization",
+                "Documentation",
+                "Mentorship",
+                "Traditional Networking",
+                "Azure certifications",
+                "Cisco certifications",
+                "Network automation",
+                "Monitoring Tools",
+                "Soft Skills"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Avinash",
+        "email": "avinash.a@3ktechnologies.com",
+        "jd": "From: Avinash, 3ktechnologies avinash.a@3ktechnologies.com Reply to: avinash.a@3ktechnologies.com Job Title: Infrastructure Solutions Architect Networking (Azure Networking Expertise)Hybrid Schedule: 3 days x week in officeLocation: Richmond, VirginiaType: Full-Time \u2013 Contracting position \u2013 duration 1 yearDepartment: IT / Infrastructure \u2013 AV and NetworkingReports to: IT Portfolio Manager \u2013 Networking and AudiovisualsRelies on collaboration with cross-functional teams to deliver advanced network solutions, optimize performance, and contribute to cloud migration strategies, particularly in Microsoft Azure.Job OverviewWe are seeking an experienced Infrastructure Solutions Architect Networking with strong expertise in Azure networking to design, implement, and manage our enterprise network infrastructure. You will play a critical role in ensuring high availability, scalability, and security of both on-premises and cloud-based network systems. This role involves collaboration with cross-functional teams to deliver advanced network solutions, optimize performance, and contribute to cloud migration strategies, particularly in Microsoft Azure. The Infrastructure Solutions Architect Networking contributes to the overall technology roadmap. Key Responsibilities:- Network Architecture & Design: Design, implement, and maintain enterprise network solutions (LAN, WAN, VPN, firewalls) with a special focus on Azure networking services such as Virtual Networks (VNet), Azure Firewall, Network Security Groups (NSGs), and Azure ExpressRoute.- Cloud Integration: Work closely with cloud teams to integrate on-premises network infrastructure with Azure-based environments, ensuring smooth connectivity, security, and optimal performance.- Azure Networking: Manage and optimize Azure networking components, including VNet peering, traffic management, load balancing, and hybrid networking (ExpressRoute, VPN Gateway).- Network Troubleshooting: Diagnose and resolve network issues in both cloud and on-prem environments, ensuring minimal downtime and performance degradation.- Network Security: Implement best practices for network security in hybrid environments, including firewalls, VPNs, security groups, and intrusion detection/prevention systems.- Automation & Monitoring: Automate network configuration and monitoring using tools like Azure Network Watcher, Azure Automation, and PowerShell scripting. Implement proactive monitoring systems to identify potential issues before they affect operations.- Performance Optimization: Monitor and optimize network performance, identifying opportunities for improvement in both cloud and on-premises environments.- Documentation: Maintain detailed and up-to-date documentation of network configurations, procedures, and troubleshooting guides.- Mentorship: Provide guidance and mentorship to peers and help drive continuous improvement in network operations. Required Skills & Qualifications:- Experience: 5+ years in network engineering, with at least 2 years of hands-on experience with Azure networking services.- Education: Bachelor\u2019s degree in computer science, Information Technology, or a related field (or equivalent experience).- Certifications: Azure certifications (such as Azure Network Engineer Associate) and/or relevant Cisco certifications (e.g., CCNA, CCNP) are highly desirable.- Cloud Networking: Strong understanding of Azure networking components (VNet, NSG, Azure Load Balancer, Azure Traffic Manager, ExpressRoute, VPN Gateway).- Traditional Networking: Expertise in configuring and managing enterprise-grade network equipment (e.g. Cisco, Juniper, Palo Alto, etc.), including firewalls, routers, switches, and VPNs.- Security: Solid understanding of network security principles and experience with firewalls, IDS/IPS, and VPN technologies in both cloud and traditional networks.- Automation: Proficiency in network automation and scripting (PowerShell, Python, or similar), ARM templates, Terraform or other scripting tools is a plus- Monitoring Tools: Familiarity with monitoring and diagnostic tools such as Azure Network Watcher, SolarWinds, Wireshark, or equivalent.- Soft Skills: Strong analytical and troubleshooting skills, attention to detail, excellent communication, and the ability to work in a collaborative team environment. Preferred Skills:- Experience with hybrid cloud environments and integrating Azure with other cloud providers (AWS, GCP).- Familiarity with Kubernetes networking and containerized environments.- Experience with SD-WAN technologies.",
+        "source": "Email",
+        "date_posted": "2024-10-15 15:48:27-05:00",
+        "unique_id": "192921104f28c150",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

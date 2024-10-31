@@ -1,0 +1,79 @@
+[
+    {
+        "company": "HCL",
+        "job_title": "Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Warehousing",
+                "Data Modeling",
+                "Azure Storage",
+                "Azure Data Bricks",
+                "SQL",
+                "Stored Procedures",
+                "Azure Synapse",
+                "Data Pipelines",
+                "Azure Data Factory",
+                "Power BI"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Data Warehousing",
+                "Data Modeling",
+                "Azure Storage",
+                "Azure Data Bricks",
+                "SQL",
+                "Stored Procedures",
+                "Azure Synapse",
+                "Data Pipelines",
+                "Azure Data Factory",
+                "Power BI"
+            ],
+            "with_experience": [
+                "Data Warehousing",
+                "Data Modeling",
+                "Azure Storage",
+                "Azure Data Bricks",
+                "SQL",
+                "Stored Procedures",
+                "Azure Synapse",
+                "Data Pipelines",
+                "Azure Data Factory",
+                "Power BI"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rajesh",
+        "email": "rajesh@info-ways.com",
+        "jd": "From: rajesh, infoways rajesh@info-ways.com Reply to: rajesh@info-ways.com Hi , Hope you are doing great. We have an urgent requirement for the below position with our IT Client /HCL Kindly reply back to this email or call me to discuss further.(609-858-0846) Role- Data EngineerLocation- RemoteJob description-Skill Mandatory Data Ware housing, Data ModelingAzure StorageAzure Data BricksSQL, Stored ProceduresAzure SynapseData PipelinesAzure Data FactoryVisualization - Power BI Experience12 Years RajeshInfoWaysPhone#: 609-858-0846Email:rajesh@info-ways.comVisit us at: www.info-ways.comit us at: www.info-ways.com",
+        "source": "Email",
+        "date_posted": "2024-10-14 15:21:23-05:00",
+        "unique_id": "1928d417b1dae296",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

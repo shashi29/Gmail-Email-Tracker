@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Insoursys",
+        "job_title": "Guidewire Sr Data Architect",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Guidewire Insurance Suite",
+                "Guidewire Cloud Data Access (CDA)",
+                "ETL pipelines",
+                "SQL",
+                "Azure"
+            ],
+            "primary": [
+                "Data engineering",
+                "Data modeling",
+                "Data integration",
+                "Data quality",
+                "Performance tuning"
+            ],
+            "secondary": [
+                "Informatica",
+                "PySpark",
+                "APIs",
+                "Microservices",
+                "Git",
+                "CI/CD"
+            ],
+            "all": [
+                "Azure",
+                "Pyspark",
+                "Guidewire",
+                "Guidewire Cloud Data Access (CDA)",
+                "Data engineering",
+                "Data modeling",
+                "ETL pipelines",
+                "SQL",
+                "Performance tuning",
+                "Data integration",
+                "Data quality",
+                "Informatica",
+                "APIs",
+                "Microservices",
+                "Git",
+                "CI/CD"
+            ],
+            "with_experience": [
+                "Guidewire Insurance Suite (3+ years)",
+                "Guidewire Cloud Data Access (CDA) (2+ years)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Tejaswi Athili",
+        "email": "tejaswi_athili@insoursysinc.com",
+        "jd": "Role : Guidewire Sr Data Architect Location: Remote Skills : Azure, Pyspark, Guidewire and Guidewire Cloud Data Access (CDA) Responsibilities:Guidewire CDA Integration: Utilize Guidewire Cloud Data Access (CDA) to extract, transform, and load (ETL) Guidewire data into downstream systems, ensuring data availability for reporting and analytics.Data Pipelines & ETL Development: Design, build, and maintain scalable and efficient ETL pipelines that integrate Guidewire data with data warehouses, data lakes, and other enterprise systems.Data Modeling & Architecture: Work closely with Data Architects to develop, optimize, and manage Guidewire data models and schema, ensuring high performance and scalability.Cloud Integration: Implement cloud-based data engineering solutions using platforms like Azure ensuring smooth integration of Guidewire data with cloud services.Data Quality & Governance: Ensure data integrity, accuracy, and compliance with data governance standards across all Guidewire-related data pipelines and integrations.Performance Tuning & Optimization: Optimize data processing workflows and queries to ensure high performance, minimizing delays in data availability.Collaboration: Collaborate with business analysts, data architects, and other IT teams to translate business requirements into effective data engineering solutions.Automation: Build and maintain automation processes for regular data loads, ensuring reliable data ingestion and processing with minimal manual intervention.Documentation & Best Practices: Maintain clear documentation of data engineering processes, data flows, and pipeline architecture, while adhering to industry best practices. Technical Skills:10+ years of experience in data engineering or a similar role.3+ years of experience with Guidewire Insurance Suite (PolicyCenter, BillingCenter, ClaimCenter).2+ years of hands-on experience with Guidewire Cloud Data Access (CDA) for data extraction and integration.Proven experience in building ETL pipelines and integrating Guidewire data with cloud-based and on-premises systems.Strong SQL and PL/SQL skills for querying and transforming Guidewire data.Proficiency with data integration and ETL tools such as Informatica, PySpark etc.Experience with Azure cloud platforms for data storage, processing, and integration.Familiarity with big data technologies and modern data architecture.Hands-on experience with APIs and microservices for data integration.Knowledge of version control systems (e.g., Git) and CI/CD practices for automating data workflows.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:14:06-05:00",
+        "unique_id": "192b032b287dd53a",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

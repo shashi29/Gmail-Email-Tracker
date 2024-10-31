@@ -1,0 +1,93 @@
+[
+    {
+        "company": "Telus International",
+        "job_title": "Java Developer",
+        "location": "Denver, CO, USA",
+        "full_location": {
+            "city": "Denver",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Core Java",
+                "Kafka",
+                "Microservices",
+                "Spring Boot",
+                "Spring Framework"
+            ],
+            "primary": [
+                "OOPs",
+                "Containers (Docker/Kubernetes)",
+                "Multithreading",
+                "Spring Cloud",
+                "Hibernate"
+            ],
+            "secondary": [
+                "REST",
+                "SOAP",
+                "Relational Databases",
+                "MAVEN",
+                "GRADLE",
+                "Jenkins",
+                "Bamboo",
+                "SVN",
+                "GIT",
+                "Mockito",
+                "PowerMock",
+                "Junit",
+                "Agile/Scrum"
+            ],
+            "all": [
+                "Core Java",
+                "Kafka",
+                "OOPs",
+                "Containers (Docker/Kubernetes)",
+                "Multithreading",
+                "Spring Boot",
+                "Spring Cloud",
+                "Hibernate",
+                "Microservices",
+                "REST",
+                "SOAP",
+                "Relational Databases",
+                "MAVEN",
+                "GRADLE",
+                "Jenkins",
+                "Bamboo",
+                "SVN",
+                "GIT",
+                "Mockito",
+                "PowerMock",
+                "Junit",
+                "Agile/Scrum"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Tushar Chauhan",
+        "email": "tushar@ccitinc.com",
+        "jd": "From: Tushar Chauhan, CCIT tushar@ccitinc.com Reply to: tushar@ccitinc.com Hello,Please share the job Description of Java DeveloperJob Title: Java DeveloperLocation: Onsite (Denver, CO)Duration: Long Term ContractCompany: Telus International Job Overview:We are seeking an experienced Java Developer to join our dynamic team. The ideal candidate will have a strong background in Java development and a passion for building high-performance applications. You will be responsible for designing, developing, and maintaining Java-based applications, ensuring their scalability, security, and reliability.Key Responsibilities:Design, develop, test, and maintain high-quality Java applications.Collaborate with cross-functional teams to define, design, and ship new features.Write clean, maintainable, and efficient code following best practices.Perform code reviews, identify potential issues, and provide constructive feedback.Troubleshoot and debug applications to optimize performance.Participate in the entire application lifecycle, focusing on coding and debugging.Work closely with stakeholders to gather requirements and deliver solutions aligned with business needs.Ensure application security, data protection, and compliance with relevant standards.Keep up-to-date with emerging technologies and apply them to improve applications.Create and maintain technical documentation for reference and reporting.Required Qualifications:Strong experience in Core Java.Strong experience of KafkaStrong understanding of OOPS concepts and design patterns.Strong hands-on experience in microservices development using Spring-Boot.Hands-on experience in Spring Framework hands-on, Spring-MVC, Spring-AOP, Spring-Actuator, Spring-Cloud, Spring-Config, etc.Development of web services must use REST or SOAP.Excellent knowledge of Relational Databases.Good experience in project building tools like MAVEN, GRADLE.Knowledge on automation code build and deploy tools, Jenkins, Bamboo.Knowledge on code subversion tools like SVN, GIT.Unit testing using common frameworks like Mockito, PowerMock, Junit.An experience on agile/scrum will be a plus.Key Skills:Core Java.KafkaOops.Containers (Docker/Kubernetes)Multithreading.Spring Boot.Spring Cloud.Hibernate.Microservices.",
+        "source": "Email",
+        "date_posted": "2024-10-17 08:55:56-05:00",
+        "unique_id": "1929ae66636daee5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

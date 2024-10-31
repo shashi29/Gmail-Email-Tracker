@@ -1,0 +1,49 @@
+[
+    {
+        "company": "Livemindz",
+        "job_title": ".net developer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "redis",
+                "redpanda",
+                ".NET"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "redis",
+                "redpanda",
+                ".NET"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Tejaswini",
+        "email": "tejaswinimannepalli@livemindz.com",
+        "jd": "From: Tejaswini, Livemindz tejaswinimannepalli@livemindz.com Reply to: tejaswinimannepalli@livemindz.com Hi, Hope you are doing well!!Role:redis/redpanda/.NET.Location:Dallas",
+        "source": "Email",
+        "date_posted": "2024-10-18 12:37:15-05:00",
+        "unique_id": "192a1743f78a4404",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

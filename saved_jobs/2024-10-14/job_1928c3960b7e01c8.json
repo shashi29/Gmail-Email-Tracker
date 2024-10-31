@@ -1,0 +1,55 @@
+[
+    {
+        "company": "Client",
+        "job_title": "Java Backend Developer",
+        "location": "St. Louis, MO, USA",
+        "full_location": {
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Design patterns"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Springboot",
+                "Microservices",
+                "Design patterns"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Yochana Clara",
+        "email": "clara@yochana.com",
+        "jd": "From: clara, Yochana clara@yochana.com Reply to: clara@yochana.com Hi Hope you are doing good. I wanted to reach out to you today because we have an open position for a Java Backend Developer with one of our Clients. The client has a strong reputation in the industry for being a top company to work for. The management and staff provide a great work-life balance with many perks for their employees Role Title: Java Backend Developer Hiring Mode: Contract Location: St. Louis, MO [Onsite] Note: LinkedIN Id is mandatory & Local profiles will be preferred Skills MatrixSkill Last UsedExperience in Years/monthRating (10 points)1 = newbie 10 = expertHands on Exp.Yes/NoSpringboot Microservices Design patterns",
+        "source": "Email",
+        "date_posted": "2024-10-14 12:34:45-05:00",
+        "unique_id": "1928c3960b7e01c8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

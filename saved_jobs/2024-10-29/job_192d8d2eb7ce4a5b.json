@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Intelligenz",
+        "job_title": "Snowflake Python Lead",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Python",
+                "Hadoop"
+            ],
+            "primary": [
+                "data integration",
+                "performance tuning",
+                "troubleshooting",
+                "communication",
+                "presentation"
+            ],
+            "secondary": [
+                "data warehouse",
+                "Spark"
+            ],
+            "all": [
+                "Snowflake",
+                "Python",
+                "Hadoop",
+                "data integration",
+                "performance tuning",
+                "troubleshooting",
+                "communication",
+                "presentation",
+                "data warehouse",
+                "Spark"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Mounika",
+        "email": "mounika@intelligenzit.com",
+        "jd": "From: Mounika, Intelligenz mounika@intelligenzit.com Reply to: mounika@intelligenzit.com Snowflake/Python LeadLocation: Alpharetta, GA (Hybrid Onsite \u2013 3 Days/Week)Duration: 6-12 MonthsResponsibilities:Experience in data integration activities including: architecting, designing, coding, and testing phases.Architect the data warehouse and provide guidance to the team in implementation using Snowflake or Hadoop or other big data technologies.Good scripting knowledge techniques using Python.Experience in performance tuning of the snow pipelines and should be able to trouble shoot the issue.Should be able to demonstrate the proposed solution, with excellent communication and presentation skill. Qualifications:Minimum 5+ years of experience in designing and implementing a fully operational solution on Snowflake Data Warehouse or Hadoop.Experience with Python and a major relational database.Should be having good presentation and communication skills, both written and verbal Ability to problem solve and able to convert the requirements to design.Work Experience on optimizing the performance of the Spark jobs.",
+        "source": "Email",
+        "date_posted": "2024-10-29 09:12:36-05:00",
+        "unique_id": "192d8d2eb7ce4a5b",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

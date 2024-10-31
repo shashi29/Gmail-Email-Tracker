@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Xforia inc",
+        "job_title": "Sr. AWS Data Engineer",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL",
+                "Python",
+                "data warehousing"
+            ],
+            "primary": [
+                "AWS data services",
+                "Redshift",
+                "Lambda",
+                "Glue",
+                "S3"
+            ],
+            "secondary": [
+                "machine learning",
+                "Spark",
+                "Hadoop",
+                "Kafka",
+                "SSRS",
+                "Power BI"
+            ],
+            "all": [
+                "SQL",
+                "Python",
+                "data warehousing",
+                "AWS data services",
+                "Redshift",
+                "Lambda",
+                "Glue",
+                "S3",
+                "machine learning",
+                "Spark",
+                "Hadoop",
+                "Kafka",
+                "SSRS",
+                "Power BI"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sai Kirubha",
+        "email": "sai.k@xforia.com",
+        "jd": "From: Sai kirubha, Xforia inc sai.k@xforia.com Reply to: sai.k@xforia.com Title: Sr. AWS Data EngineerLocation: Plano, TX | Day 1 OnsiteDuration: 12+ Months Contract Job Description:Experience with focus on SQL, Python, and data warehousing.Having solid understanding of data warehousing principles and best practices, combined with proficiency in SQL for writing complex queries, stored procedures and performance tuning.Proficiency in Python for data manipulation, scripting, and automation and with hands-on experience with AWS data services such as Redshift, Lambda, Glue, S3, etc.Having Knowledge of machine learning concepts and frameworks and in addition, experience with big data technologies such as Spark, Hadoop, or Kafka and modern reporting software like SSRS & Power BI are preferred.Certified AWS Professional (e.g., AWS Certified Developer - Associate, AWS Certified Solutions Architect). Thanks & Regards, Sai KirubhaTechnical Recruiter99300 Wade Boulevard, Suite 220, Frisco TX 75035 sai.k@xforia.com | www.xforia.com",
+        "source": "Email",
+        "date_posted": "2024-10-28 16:05:45-05:00",
+        "unique_id": "192d51301ddb089c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

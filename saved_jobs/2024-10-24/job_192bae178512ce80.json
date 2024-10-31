@@ -1,0 +1,83 @@
+[
+    {
+        "company": "CCIT INC",
+        "job_title": "Data Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL"
+            ],
+            "primary": [
+                "Kafka",
+                "Pub/Sub",
+                "Cloud experience",
+                "GCP",
+                "Airflow",
+                "Docker",
+                "Kubernetes"
+            ],
+            "secondary": [
+                "Data governance",
+                "cataloging",
+                "metadata management tools",
+                "Collibra",
+                "Dataplex",
+                "Architecture design",
+                "documentation",
+                "Excellent written and verbal communication skills"
+            ],
+            "all": [
+                "Python",
+                "SQL",
+                "Kafka",
+                "Pub/Sub",
+                "Cloud experience",
+                "GCP",
+                "Airflow",
+                "Docker",
+                "Kubernetes",
+                "Data governance",
+                "cataloging",
+                "metadata management tools",
+                "Collibra",
+                "Dataplex",
+                "Architecture design",
+                "documentation",
+                "Excellent written and verbal communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SHAN MOHAMMAD",
+        "email": "shan@ccitinc.com",
+        "jd": "From: SHAN MOHAMMAD, CCIT INC shan@ccitinc.com Reply to: shan@ccitinc.com Role: Data Engineer Location: Phoenix, AZ \u2013 Needed Local : In-PersonDuration: 12+ Months Contract Local Candidate requiredDescription:Python : 4+ yearsSQL: 4+ yearsKafka or Pub/Sub: 2+ yearsCloud experience, preferably GCP: 2+ yearsAirflow: 2+ yearsDocker: 2+ yearsKubernetes: 2+ yearsData governance, cataloging, and metadata management tools: Collibra, Dataplex: 2+ yearsArchitecture design and documentation: 2+ yearsExcellent written and verbal communication skills",
+        "source": "Email",
+        "date_posted": "2024-10-23 14:00:40-05:00",
+        "unique_id": "192bae178512ce80",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

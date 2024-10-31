@@ -1,0 +1,92 @@
+[
+    {
+        "company": "Sunray Enterprise, Inc.",
+        "job_title": "Java Developer(Ex Google)",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Computer Science, Software Engineering, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "TypeScript",
+                "Angular",
+                "Google Cloud Platform (GCP)",
+                "Spanner",
+                "PubSub",
+                "Borg",
+                "Boq",
+                "CNS",
+                "Plx"
+            ],
+            "primary": [
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "monitoring",
+                "logging"
+            ],
+            "secondary": [
+                "cloud-native development methodologies",
+                "problem-solving",
+                "analytical skills",
+                "communication",
+                "collaboration",
+                "passion for learning"
+            ],
+            "all": [
+                "Java",
+                "TypeScript",
+                "Angular",
+                "Google Cloud Platform (GCP)",
+                "Spanner",
+                "PubSub",
+                "Borg",
+                "Boq",
+                "CNS",
+                "Plx",
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "monitoring",
+                "logging",
+                "cloud-native development methodologies",
+                "problem-solving",
+                "analytical skills",
+                "communication",
+                "collaboration",
+                "passion for learning"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Manoj Rathee",
+        "email": "manoj@sunraycorp.com",
+        "jd": "Job Position :- Java Developer (Ex Google)\n\nLocations :- Austin, TX / San Jose, CA (Onsite day 1)\n\nDuration :- Long Term\n\nJob Description:- \n\nQualifications:\nBachelor's degree in Computer Science, Software Engineering, or a related field.\nStrong programming skills in Java, TypeScript, and Angular.\nIn-depth understanding of Google Cloud Platform (GCP) products and services, particularly Spanner, PubSub, Borg, Boq, CNS, and Plx.\nExperience with designing and developing scalable, distributed systems.\nExcellent problem-solving and analytical skills.\nStrong communication and collaboration skills.\nA passion for learning and staying current with new technologies.\n\nPreferred Qualifications:\nExperience with containerization technologies (e.g., Docker, Kubernetes).\nKnowledge of DevOps practices and tools (e.g., CI/CD pipelines, monitoring, logging).\nExperience with cloud-native development methodologies.\n\nResponsibilities:\nDesign, develop, and maintain Java applications, ensuring adherence to best practices and coding standards.\nCollaborate with cross-functional teams to understand business requirements and translate them into technical solutions.\nLeverage Google Cloud Platform (GCP) products and services, such as Spanner, PubSub, Borg, Boq, CNS, and Plx, to build scalable and reliable infrastructure.\nTroubleshoot and resolve technical issues, ensuring the stability and performance of applications.\nStay up-to-date with the latest trends and technologies in the Java ecosystem and cloud computing.",
+        "source": "Email",
+        "date_posted": "2024-10-30 14:43:15-05:00",
+        "unique_id": "192df141def582fa",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

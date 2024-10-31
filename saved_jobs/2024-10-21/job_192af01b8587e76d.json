@@ -1,0 +1,89 @@
+[
+    {
+        "company": "Techgene",
+        "job_title": "Senior Java Programmer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java EE",
+                "Core Java",
+                "OOP Design",
+                "Multi-Threading",
+                "Generics",
+                "Exception Handling",
+                "Collections",
+                "Java Reflection",
+                "Annotation"
+            ],
+            "primary": [
+                "Oracle",
+                "Git Workflows",
+                "CI/CD pipelines",
+                "Azure DevOps",
+                "Selenium",
+                "Cucumber",
+                "Playwright",
+                "JUnit",
+                "IBM SOA products",
+                "Node.js",
+                "Angular"
+            ],
+            "secondary": [],
+            "all": [
+                "Java EE",
+                "Core Java",
+                "OOP Design",
+                "Multi-Threading",
+                "Generics",
+                "Exception Handling",
+                "Collections",
+                "Java Reflection",
+                "Annotation",
+                "Oracle",
+                "Git Workflows",
+                "CI/CD pipelines",
+                "Azure DevOps",
+                "Selenium",
+                "Cucumber",
+                "Playwright",
+                "JUnit",
+                "IBM SOA products",
+                "Node.js",
+                "Angular"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "onsite",
+            "hybrid"
+        ],
+        "contact_person": "venkat",
+        "email": "venkat.k@techgene.com",
+        "jd": "Senior Java Programmer - IN PERSON 600 E Broad St, Richmond, VA 23219 | In personDuration : Long TermHybrid 2 days a week on site requiredIN PERSON INTERVIEWS ONLY! NO ExceptiExtensive practical experience in building enterprise applications using Java EE technologies.Expertise in Core Java concepts, such as OOP Design, Multi-Threading, Generics, Exception Handling, Collections, Java Reflection, Annotation.Understanding of relational database concepts with experience in Oracle.Experience developing with Git Workflows.Experience developing CI/CD pipelines and automation.Experience using Azure DevOps.Experience with Testing Frameworks such as Selenium, Cucumber, Playwright, JUnit and an understanding of Test Left approach to development.Experience with IBM SOA products like IIB/ACE, ODM, WAS, MQ, and ITXExperience with Front End Development using Node.js and Angular",
+        "source": "Email",
+        "date_posted": "2024-10-21 06:40:58-05:00",
+        "unique_id": "192af01b8587e76d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

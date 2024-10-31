@@ -1,0 +1,69 @@
+[
+    {
+        "company": "3B Staffing",
+        "job_title": "SRE",
+        "location": "Sacramento, CA, USA",
+        "full_location": {
+            "city": "Sacramento",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1-2 years",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "J2EE",
+                "Application Production Support",
+                "Site Reliability Engineering",
+                "UI Frameworks"
+            ],
+            "primary": [
+                "Vue",
+                "React",
+                "Angular",
+                "ecommerce domain"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "J2EE",
+                "Application Production Support",
+                "Site Reliability Engineering",
+                "UI Frameworks",
+                "Vue",
+                "React",
+                "Angular",
+                "ecommerce domain"
+            ],
+            "with_experience": [
+                "Java (6-10 years)",
+                "Application Production Support (3+ years)",
+                "UI Frameworks (1+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Aditi Malik",
+        "email": "aditi@3bstaffing.com",
+        "jd": "From: Aditi Malik, 3B Staffing aditi@3bstaffing.com Reply to: aditi@3bstaffing.com SRELocation Preferences: 1. Sacramento, CA; 2. SF Bay AreaLocals OnlyDuration: 1-2 years+ Must be strong SRE\u2019s with Java background. Must have some coding experience, strong preference for consultants that were developers and then transitioned to SRE\u2019s. Must have UI experience with either Vue or React or Angular. 8+ years of experience. Must Have's in the order of preference.1. Typical Java/J2EE experience between 6 and 10 years2. Application Production Support (SRE - Site Reliability Engineering) with 3+ years - Preferably in ecommerce domain3. Hands on experience in any of the UI Frameworks(AngularJS, VueJS etc) - 1+ years",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:24:42-05:00",
+        "unique_id": "192a19a46e2569bd",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

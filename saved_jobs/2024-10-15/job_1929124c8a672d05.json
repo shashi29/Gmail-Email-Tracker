@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Technocraft Solutions",
+        "job_title": "Data Architect",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9-11 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12-18 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Data Architecture",
+                "Data Engineering",
+                "Data Modelling",
+                "Data Governance"
+            ],
+            "primary": [
+                "Data Lake",
+                "Data Warehouse",
+                "Data Pipelines",
+                "Batch Processing",
+                "Streaming Data",
+                "Real-time Data"
+            ],
+            "secondary": [
+                "Presentation Skills",
+                "DevOps",
+                "DataOps",
+                "Data Acquisition",
+                "Data Quality"
+            ],
+            "all": [
+                "AWS",
+                "Data Architecture",
+                "Data Engineering",
+                "Data Modelling",
+                "Data Governance",
+                "Data Lake",
+                "Data Warehouse",
+                "Data Pipelines",
+                "Batch Processing",
+                "Streaming Data",
+                "Real-time Data",
+                "Presentation Skills",
+                "DevOps",
+                "DataOps",
+                "Data Acquisition",
+                "Data Quality"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Pranjali Sikarwar",
+        "email": "pranjali.sikarwar@technocraftsol.com",
+        "jd": "Hello, Hope you are doing well! My name is Pranjali and I'm Technical Recruiter at Technocraft solutions. We provide IT Consulting Services to our customers\u2019 immediate and long-term resource needs. I am contacting you either because your resume has been posted to one of the internet job sites to which we subscribe or you had previously submitted your resume to Technocraft solution. Position: Data Architect Location: Hybrid in Chicago, IL Duration: 12-18 months to start Job Description: As a Data Architect, you will be responsible for ensuring robust data management and governance frameworks, while architecting and optimizing data engineering pipelines utilizing various AWS services. Key responsibilities include: Architecting data pipelines for data acquisition, ingestion, management, processing, and publishing using AWS. Developing and optimizing database models for data storage and retrieval. Designing high-level architectures based on strategic data requirements. Configuring AWS services for performance, security compliance, and data quality. Designing and implementing DevOps & DataOps pipelines. Conducting research on data acquisition opportunities. Key Skills and Experience: 9-11 years of experience as a Data Architect. Expertise in AWS Application Migration and data engineering. Strong understanding of data modelling in Data Lake and Data Warehouse for analytical use cases. Ability to architect and design data pipelines for batch, streaming, and real-time sources. Experience in working with structured, semi-structured, and unstructured data. Excellent presentation skills, tailoring clear and impactful presentations based on the audience.",
+        "source": "Email",
+        "date_posted": "2024-10-15 11:29:12-05:00",
+        "unique_id": "1929124c8a672d05",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

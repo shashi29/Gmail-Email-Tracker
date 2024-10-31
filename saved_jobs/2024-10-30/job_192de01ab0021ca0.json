@@ -1,0 +1,78 @@
+[
+    {
+        "company": "iTech US, Inc.",
+        "job_title": "GCP Data Engineer",
+        "location": "Boston, MA, USA",
+        "full_location": {
+            "city": "Boston",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python Programming",
+                "PySpark",
+                "SQL",
+                "GCP Data Proc",
+                "BigQuery"
+            ],
+            "primary": [
+                "GCP Composer",
+                "Data Pipeline Management",
+                "Data Extraction",
+                "Data Transformation",
+                "Data Loading"
+            ],
+            "secondary": [
+                "Data Analytics",
+                "Data Visualization",
+                "Stakeholder Communication",
+                "Data Infrastructure Support",
+                "Data Profiling"
+            ],
+            "all": [
+                "Python Programming",
+                "PySpark",
+                "SQL",
+                "GCP Data Proc",
+                "BigQuery",
+                "GCP Composer",
+                "Data Pipeline Management",
+                "Data Extraction",
+                "Data Transformation",
+                "Data Loading",
+                "Data Analytics",
+                "Data Visualization",
+                "Stakeholder Communication",
+                "Data Infrastructure Support",
+                "Data Profiling"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Srikanth V",
+        "email": "srikanth.v@itechus.net",
+        "jd": "Role: GCP Data Engineer\nLocation: Boston, MA | Woonsocket, RI(Hybrid) - Local to MA | RI Candidates\nVisa Only H1B with PPnum Mandatory\n\nJob Description:\nTotal IT Experience required 9+ Years\nStrong skills in Python Programming\nStrong Experience in PySpark\nExperience with data pipeline and workflow management tool: GCP Data Proc, Composer and GCS\nSupport and monitor the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, and GCP \u2018big data\u2019 technologies.\nStrong experience in handling window function in SQL\nBigQuery Experience (may not be expert)\nTo work on data engineering solutions to leverage best practices and industry-leading tools and technologies to profile data, develop efficient ingestion, and build semantic data layers\nSupport analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.\nWork with data and analytics experts to strive for greater functionality in our data systems.\nWork with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.\nDeveloping, supporting and monitoring data pipelines.\nWork closely with client to discover needs, collect appropriate data, and deliver valuable data products.\nProvide valuable insights from data sets quickly.\nCommunicate complex findings and ideas in plain language and visualizations that is friendly to business and operational audiences.",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:43:28-05:00",
+        "unique_id": "192de01ab0021ca0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

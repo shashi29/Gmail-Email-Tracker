@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Paramount Software Solutions",
+        "job_title": "Applications Development Analyst (C. Advanced)",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long-Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET",
+                "C#",
+                "ASP.NET",
+                "SQL",
+                "Blazor"
+            ],
+            "primary": [
+                "MVC",
+                "Web API",
+                "DevOps",
+                "Azure DevOps",
+                "GitHub"
+            ],
+            "secondary": [
+                "Data mapping",
+                "Application architecture",
+                "Data integration",
+                "Data visualization",
+                "Customer support"
+            ],
+            "all": [
+                ".NET",
+                "C#",
+                "ASP.NET",
+                "SQL",
+                "Blazor",
+                "MVC",
+                "Web API",
+                "DevOps",
+                "Azure DevOps",
+                "GitHub",
+                "Data mapping",
+                "Application architecture",
+                "Data integration",
+                "Data visualization",
+                "Customer support"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jitendra Singh",
+        "email": "jitendra@paramountsoft.net",
+        "jd": "From: Jitendra Singh, Paramount Software Solutions jitendra@paramountsoft.net Reply to: jitendra@paramountsoft.net Applications Development Analyst (C. Advanced)Tallahassee, FL (Onsite)Long-Term The activities these candidates will be tasked with include, but are not limited to the following:\u00b7Collaborate with business analysts, project managers, and stakeholders to understand the functional and non-functional requirements of the application.\u00b7Translate business requirements into architectural designs that align with business goals.\u00b7Design the overall system architecture, and define how different components of the interact.\u00b7Design, develop, and implement software applications using the .NET framework and C#.\u00b7Utilize ASP.NET (or ASP.NET Core) for web application development, including MVC, Web API, and\u00b7Blazor for client-side and server-side programming.\u00b7Develop and optimize SQL queries, stored procedures, and functions.\u00b7Develop user interfaces and ensure the front end is responsive, accessible, and user-friendly.\u00b7Review code, architecture, and design to ensure they meet the standards.\u00b7Analyze and optimize the performance of the application.\u00b7Design strategies for scaling the application efficiently as user demand grows.\u00b7Ensure the application adheres to security best practices and compliance requirements.\u00b7Implement DevOps practices such as continuous integration and continuous delivery\u00b7(CI/CD) via Azure DevOps and GitHub repositories. This position is to provide technical guidance and expertise in supporting the department in developing, architecting, and maintaining systems, apis, data mappings, and monitoring high-volume complex data integration processes. Minimum Required KSAs:\u00b75+ years of experience in .NET/.NET core application development (recent experience preferred),\u00b75+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling.\u00b73+ years of experience with application design, including Data mapping.\u00b73+ years of experience in application architecture and data integration.\u00b73+ years of analyzing and interpreting large datasets, including cleaning, transforming, and visualizing data.\u00b73+ years of Experience in testing high-volume of complex data integration processes.\u00b71+ years of Experience using Blazor\u00b7Familiarity with system catalog views, and Azure Cloud\u00b7Ability to provide excellent customer support; meticulous quality of work and work product.",
+        "source": "Email",
+        "date_posted": "2024-10-16 15:13:05-05:00",
+        "unique_id": "1929716f77f4a253",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

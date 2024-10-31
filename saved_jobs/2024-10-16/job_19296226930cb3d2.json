@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "Data Architect C. Advanced",
+        "location": "Tallahassee, FL, USA",
+        "full_location": {
+            "city": "Tallahassee",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Synapse Analytics",
+                "Azure SQL",
+                "Data Architecture Design",
+                "T-SQL",
+                "Data Governance"
+            ],
+            "primary": [
+                "Dedicated SQL Pools",
+                "ETL Processes",
+                "Data Integration",
+                "Data Security",
+                "Cloud Computing"
+            ],
+            "secondary": [
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "Analytical Skills",
+                "Problem-Solving Skills"
+            ],
+            "all": [
+                "Azure Synapse Analytics",
+                "Azure SQL",
+                "Data Architecture Design",
+                "T-SQL",
+                "Data Governance",
+                "Dedicated SQL Pools",
+                "ETL Processes",
+                "Data Integration",
+                "Data Security",
+                "Cloud Computing",
+                "Python",
+                "Scala",
+                "Salesforce",
+                "Message MQ",
+                "MuleSoft",
+                "Analytical Skills",
+                "Problem-Solving Skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sangya kumari nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title: Data Architect C. Advanced))Location: Tallahassee, FL. On-site Duration: 6 MonthsVisa: NO/CPT/H1BMOI : videoMust linkd In-Please send max 4-page resume The activities these candidates will be tasked with include, but are not limited to the following: These positions are to provide technical guidance and expertise in supporting the department in developing, architecting, and maintaining data, data mappings, and monitoring high-volume complex data transfer processes. Work with stakeholders and development team to determine project scope and vision, gather and prioritize collected requirements. Designing and Implementing Data Architectures: Develop comprehensive data architectures that support the organization\u2019s business goals, using Azure Synapse Analytics, Azure SQL, and other Azure data services. Managing Dedicated SQL Pools: Efficiently manage and optimize Dedicated SQL Pools in Synapse to handle large-scale data warehousing and analytics workloads. Database Design and Management: Design, implement, and manage databases using Azure SQL and Azure Managed Instance, ensuring high performance, availability, and security. Data Integration and ETL Processes: Develop and manage ETL (Extract, Transform, Load) processes using Synapse Pipelines, ensuring efficient data flow from various sources to the data warehouse. Data Governance and Cataloging: Implement data governance practices and manage the data catalog to ensure data quality, consistency, and accessibility. Building and Maintaining Data Models: Create and maintain data models that accurately represent the data landscape, ensuring they are scalable and optimized for performance. Ensuring Data Security and Compliance: Implement and oversee data security measures, ensuring compliance with legal and regulatory standards. Maintain procedures manuals and system documentation. Research software solutions to support recommendations, analyzing current and future technology trends. Minimum Required KSAs: 4+ years of experience in Synapse Analytics, Dedicated SQL Pools, Azure SQL Database, and Azure Managed Instance. 5+ years of experience in DDL, DML T-SQL skills, advanced stored procedure writing skills, tables, primary keys, foreign keys, constraints, indexes, transactions, process logging, and error handling. 4+ years of experience in data architecture design principles, methodologies, and best practices. 3+ years of experience in data governance principles and compliance requirements related to data security and privacy. 3+ years of experience in integrating data from various sources and managing large data pipelines. 2+ years of experience in cloud computing concepts, particularly in Microsoft Azure, including storage solutions and compute capabilities. 1+ years of Experience with programming languages such as Python or Scala. 1+ years of experience in Salesforce, Message MQ, and MuleSoft Strong analytical and problem-solving skills to address complex data challenges. Ability to design and implement robust, scalable, and efficient data architectures. Ability to provide excellent customer support; meticulous quality of work and work product.",
+        "source": "Email",
+        "date_posted": "2024-10-16 10:43:42-05:00",
+        "unique_id": "19296226930cb3d2",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

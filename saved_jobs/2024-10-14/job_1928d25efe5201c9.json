@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Samson Software Solution",
+        "job_title": "Data Architect",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data management",
+                "Data governance",
+                "AWS services",
+                "Database modeling",
+                "Data engineering pipelines"
+            ],
+            "primary": [
+                "Data acquisition",
+                "Data ingestion",
+                "Data processing",
+                "Data publishing",
+                "Data quality"
+            ],
+            "secondary": [
+                "DevOps",
+                "DataOps",
+                "Architecture documentation",
+                "High-level design"
+            ],
+            "all": [
+                "Data management",
+                "Data governance",
+                "AWS services",
+                "Database modeling",
+                "Data engineering pipelines",
+                "Data acquisition",
+                "Data ingestion",
+                "Data processing",
+                "Data publishing",
+                "Data quality",
+                "DevOps",
+                "DataOps",
+                "Architecture documentation",
+                "High-level design"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vikas Rai",
+        "email": "vikas.rai@samsonsoft.com",
+        "jd": "From: Vikas Rai, Samson Software Solution vikas.rai@samsonsoft.com Reply to: vikas.rai@samsonsoft.com Data ArchitectChicago, IL- Onsite * Responsible for ensuring that the data management and governance frameworks are in place and adhered to* Responsible for Architecting Data engineering pipelines including data acquisition, Ingestion, management, processing, publishing by leveraging various AWS services* Responsible for developing and optimizing database models to store and retrieve company information* Responsible for determining strategic data requirements, creating high-level designs according to these requirements* Responsible for guiding and resolving issues with AWS service configuration, performance, security compliance, data quality issues and data retrieval.* Prepare Architecture and high-level design documents for the data engineering pipelines* Designing DevOps & DataOps pipelines and resolve issues during implementation and execution.* Responsible for researching data acquisition opportunities",
+        "source": "Email",
+        "date_posted": "2024-10-14 15:54:29-05:00",
+        "unique_id": "1928d25efe5201c9",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

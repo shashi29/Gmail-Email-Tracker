@@ -1,0 +1,72 @@
+[
+    {
+        "company": "VDart",
+        "job_title": "Senior Database Developer",
+        "location": "Longmont, CO, USA",
+        "full_location": {
+            "city": "Longmont",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "13+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "MSBI",
+                "T-SQL",
+                "Stored Procedures",
+                "Performance Tuning"
+            ],
+            "primary": [
+                "SSIS",
+                "SSAS",
+                "Database Automation",
+                "Enterprise Reporting",
+                "Power BI"
+            ],
+            "secondary": [
+                "MongoDB",
+                "Excellent written and verbal communication skills"
+            ],
+            "all": [
+                "SQL Server",
+                "MSBI",
+                "T-SQL",
+                "Stored Procedures",
+                "Performance Tuning",
+                "SSIS",
+                "SSAS",
+                "Database Automation",
+                "Enterprise Reporting",
+                "Power BI",
+                "MongoDB",
+                "Excellent written and verbal communication skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Balaji Kumar",
+        "email": "balaji.kumar@dimiour.io",
+        "jd": "From: Balaji K, dimiour.io balaji.kumar@dimiour.io Reply to: balaji.kumar@dimiour.io Hi Hope you are doing well. Greetings from VDart!!!Our Direct client is looking to fill the below position as soon as possible. So, I would like to know if you are looking for this opportunity at this point of time? Let me know your comments. Role : Senior Database DeveloperLocation : Longmont, CO and Sacramento, CA - OnsiteContract Need 13+ yearsJD Minimum of 13+ years of hands-on experience in SQL Server and MSBI (SSIS/SSAS)Strong knowledge on writing complex T-Sql queries, Stored procedures, Functions, Triggers and Database objects.Expertise in Performance Tuning, Database activity automation and Enterprise Reporting solutions.Write complex queries for applications and business intelligence reportingHandle common database procedures such as upgrade, backup, recovery, migration, etcInstall and configure SQL server in a server4 + years of hands-on experience in SSISExperience developing Power BI models and dashboardsExperience in MSSQL and MongoDB is plusExcellent written and verbal communication skills RegardsBalaji KumarTeam Lead",
+        "source": "Email",
+        "date_posted": "2024-10-21 19:09:20-05:00",
+        "unique_id": "192b1aed9db40df3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

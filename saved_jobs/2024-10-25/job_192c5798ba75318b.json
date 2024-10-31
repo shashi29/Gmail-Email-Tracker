@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Resource Logistics",
+        "job_title": "Sr Data Engineer",
+        "location": "Minneapolis, MN, USA",
+        "full_location": {
+            "city": "Minneapolis",
+            "state": "MN",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ Years",
+            "degree_required": "Bachelor's degree in Computer Science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Lake Storage",
+                "Azure Data Factory",
+                "PySpark",
+                "Databricks",
+                "SQL"
+            ],
+            "primary": [
+                "Azure cloud services",
+                "Git",
+                "data warehousing concepts",
+                "relational databases",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "collaboration skills"
+            ],
+            "secondary": [
+                "Azure certifications",
+                "Python",
+                "Snowflake"
+            ],
+            "all": [
+                "Azure Data Lake Storage",
+                "Azure Data Factory",
+                "PySpark",
+                "Databricks",
+                "SQL",
+                "Azure cloud services",
+                "Git",
+                "data warehousing concepts",
+                "relational databases",
+                "analytical skills",
+                "problem-solving skills",
+                "communication skills",
+                "collaboration skills",
+                "Azure certifications",
+                "Python",
+                "Snowflake"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Ammy",
+        "email": "ammy@resource-logistics.com",
+        "jd": "From: Ammy, Resource Logistics ammy@resource-logistics.com Reply to: ammy@resource-logistics.com Role - Sr Data EngineerLocation - Minneapolis, MN(Remote)Job Details:Design, implement, and manage Azure cloud solutions for various projects.Develop and maintain data pipelines using Databricks (PySpark) for data ingestion, processing, and analysis.Configure and manage Azure Data Factory (ADF) to orchestrate data workflows and ETL processes.Implement and optimize Azure Data Lake Storage (ADLS) for efficient data storage and retrieval.Collaborate with cross-functional teams to design and implement data warehouse solutions.Utilize Git for version control and collaboration on codebase.Monitor, troubleshoot, and optimize data processes for performance and reliability.Implement security best practices and manage access controls using Azure Active Directory (AAD).Document technical designs, processes, and procedures.Stay updated with the latest Azure cloud technologies and best practices.Requirements experience and skills :Bachelor's degree in Computer Science, Engineering, or a related field.Proven experience working with Azure cloud services, including Azure Data Lake Storage, Azure Data Factory, and Azure Active Directory.10+ Years of experience required.Strong proficiency in PySpark and experience with Databricks for data engineering and analytics.Hands-on experience with Git for version control and collaboration.Familiarity with data warehousing concepts and technologies.Experience with SQL and relational databases.Strong analytical and problem-solving skills.Excellent communication and collaboration skills.Ability to work effectively in a fast-paced, dynamic environment.Azure certifications (e.g., Azure Administrator, Azure Data Engineer) are a plus.Skills:SnowflakeAzure DatabricksAzure Data FactoryPysparkPythonSQL",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:23:41-05:00",
+        "unique_id": "192c5798ba75318b",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

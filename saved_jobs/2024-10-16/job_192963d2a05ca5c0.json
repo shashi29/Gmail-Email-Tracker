@@ -1,0 +1,56 @@
+[
+    {
+        "company": "Ozin Technologies",
+        "job_title": "Mid-Level Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "12 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "SQL",
+                "AWS services"
+            ],
+            "primary": [
+                "Salesforce"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "SQL",
+                "AWS services",
+                "Salesforce"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Aakash",
+        "email": "aakash.sharma@ozin.ai",
+        "jd": "From: Aakash, Ozin Technologies aakash.sharma@ozin.ai Reply to: aakash.sharma@ozin.ai Title: Mid-Level Data EngineerLocation: Remote Central Time Zone (priority will be given to local candidates still)Duration: 12 MonthsAuth: USC, GC (must be eligible to convert to FTE if client chooses to in the future) Description:This position would be in support of the PrinAM Sales department. We have 2 Salesforce orgs that have dozens of AWS integrations consuming and sourcing data in and out. All our AWS is coded in Python. Day to day will be working on an agile team building data integrations and capabilities that support our sales goals/priorities. Work in a 2-week sprint cadence where they would be expected to execute on stories. Will Get Interview With:Python, SQL, AWS services, Salesforce Interview:Over Teams with hiring manager and 1 other engineer for a technical interview. Possibility of a shorter second round interview after",
+        "source": "Email",
+        "date_posted": "2024-10-16 11:15:11-05:00",
+        "unique_id": "192963d2a05ca5c0",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

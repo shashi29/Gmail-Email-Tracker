@@ -1,0 +1,70 @@
+[
+    {
+        "company": "IT Strategies",
+        "job_title": "AWS Python Developer",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "12+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "GitHub"
+            ],
+            "primary": [
+                "Web Development",
+                "API development",
+                "RESTful services",
+                "Testing",
+                "Debugging"
+            ],
+            "secondary": [
+                "Unit testing",
+                "Test automation"
+            ],
+            "all": [
+                "Python",
+                "GitHub",
+                "Web Development",
+                "API development",
+                "RESTful services",
+                "Testing",
+                "Debugging",
+                "Unit testing",
+                "Test automation"
+            ],
+            "with_experience": [
+                "Python (12+ years)",
+                "GitHub"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Srinath",
+        "email": "srinath@itstrategiesinc.com",
+        "jd": "From: Srinath, IT Strategies srinath@itstrategiesinc.com Reply to: srinath@itstrategiesinc.com Job Title: AWS Python DeveloperLocation: Chicago, IL / Plano, TX(Day1 Onsite)Duration: 6 months Contract Primary Skills:\u2022 Programming Languages:o Proficiency in Pythono Experience with tool development and integration using these languages\u2022 GitHub Integration:o Experience with integrating tools and applications with GitHubo Understanding of GitHub APIs and workflows Secondary Skills:\u2022 Web Development:o Familiarity with web frameworks and development practices in Pythono Knowledge of API development and RESTful services\u2022 Testing and Debugging:o Strong debugging and troubleshooting skillso Experience with unit testing and test automation Roles and Responsibilities:\u2022 Develop and maintain tools and applications using Python\u2022 Integrate tools and applications with GitHub for seamless workflows\u2022 Write clean, efficient, and maintainable code\u2022 Debug and troubleshoot issues in the developed applications\u2022 Collaborate with cross-functional teams to deliver high-quality software",
+        "source": "Email",
+        "date_posted": "2024-10-16 09:28:55-05:00",
+        "unique_id": "19295df2693efd00",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

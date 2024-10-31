@@ -1,0 +1,80 @@
+[
+    {
+        "company": "TTData LLC",
+        "job_title": "Technical Business Analyst",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Alternative Investments",
+                "Capital Market",
+                "Data Modeling",
+                "SQL"
+            ],
+            "primary": [
+                "ER/Studio",
+                "ERwin",
+                "NoSQL",
+                "ETL",
+                "ELT"
+            ],
+            "secondary": [
+                "Data Warehousing",
+                "Data Normalization",
+                "Data Security",
+                "Data Encryption",
+                "Compliance Requirements"
+            ],
+            "all": [
+                "Alternative Investments",
+                "Capital Market",
+                "Data Modeling",
+                "SQL",
+                "ER/Studio",
+                "ERwin",
+                "NoSQL",
+                "ETL",
+                "ELT",
+                "Data Warehousing",
+                "Data Normalization",
+                "Data Security",
+                "Data Encryption",
+                "Compliance Requirements"
+            ],
+            "with_experience": [
+                "SQL (writing complex queries, stored procedures, and functions)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Balaji V",
+        "email": "balaji@ttdatas.com",
+        "jd": "Hi ALL,Greetings from TTData LLC..!! I hope you are doing well. I do have a job opening for Technical Business Analyst position for our client based out at New York, NY (Onsite).Please find the below requirement kindly share me updated profile along with contact details asap.Please let me know how many years of experience in these skills:Alternative Investments - Capital Market -Role:: Technical Business AnalystLocation:: New York, NY (Onsite)Contract Type:: C2H PositionRequirements :Collaborate with SME teams to understand and document existing trading system workflows and processes.Analyze and document requirements for alternative trading processes, ensuring alignment with business goals.Work with technology teams to implement alternative trading processes and ensure system changes meet business needs.Develop and document test procedures and artifacts to support system changes and enhancements.Assist in quality assurance (QA) and user acceptance testing (UAT) with business users to validate system changes.Evaluate the business implications of technology solutions, ensuring they meet the needs of the current business environment.Provide insights and recommendations to optimize trading workflows and support business objectives.Should have Alternate Investment/Investment Banking domain experienceCreate conceptual data models to identify key business entities and visualize their relationships, defining concepts and rules. Design, develop, test, and publish canonical data models in detail. Proficiency in data modeling tools such as ER/Studio, ERwin, or similar. Familiarity with data warehousing concepts, data normalization techniques, and data security, encryption, and compliance requirements in the cloud. Proficiency in SQL, including writing complex queries, stored procedures, and functions. Experience with NoSQL databases and understanding of their data modeling techniques. Present and communicate modeling results and recommendations to internal stakeholders and Development teams, explaining features that may aRect the physical data models. Collaborate with engineers and other stakeholders to gather requirements and translate them into data models. Knowledge of ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) processes. Create comprehensive documentation for data models, data dictionaries, and design specifications.",
+        "source": "Email",
+        "date_posted": "2024-10-14 11:39:49-05:00",
+        "unique_id": "1928c07148332467",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Business Analyst"
+    }
+]

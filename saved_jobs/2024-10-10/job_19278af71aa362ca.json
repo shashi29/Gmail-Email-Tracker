@@ -1,0 +1,91 @@
+[
+    {
+        "company": "SibiTalent Corp",
+        "job_title": "Sr. Data Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ months",
+            "rate": "$55-$60/hr."
+        },
+        "skills": {
+            "core": [
+                "AWS Glue",
+                "AWS Athena",
+                "AWS Lambda",
+                "Apache Hudi",
+                "Python",
+                "PySpark",
+                "SQL",
+                "NoSQL",
+                "Hadoop",
+                "RedShift"
+            ],
+            "primary": [
+                "Data governance",
+                "Data security best practices",
+                "Workflow scheduling tools",
+                "AWS Step Functions",
+                "Control M"
+            ],
+            "secondary": [
+                "Technical documentation",
+                "Data dictionaries",
+                "Metadata",
+                "Pipeline architecture",
+                "Troubleshooting data issues",
+                "Operational support"
+            ],
+            "all": [
+                "AWS Glue",
+                "AWS Athena",
+                "AWS Lambda",
+                "Apache Hudi",
+                "Python",
+                "PySpark",
+                "SQL",
+                "NoSQL",
+                "Hadoop",
+                "RedShift",
+                "Data governance",
+                "Data security best practices",
+                "Workflow scheduling tools",
+                "AWS Step Functions",
+                "Control M",
+                "Technical documentation",
+                "Data dictionaries",
+                "Metadata",
+                "Pipeline architecture",
+                "Troubleshooting data issues",
+                "Operational support"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sapna Thakur",
+        "email": "sapnathakur@sibitalent.com",
+        "jd": "From: Sapna Thakur, SibiTalent Corp sapnathakur@sibitalent.com Reply to: sapnathakur@sibitalent.com Sr. Data Engineer, (In-person Interview),Dallas, TX (and in-office 5 days a week)Visa :: No CPT/No H1B | Rate :: $55-$60/hr. on C2CDuration :: 6+ monthsExperience :: 9+ yearsNote :: Need DL/Visa and LinkedIn and must be localInterview Process: Interview will be conducted on-site with a panel and technical assessment.TOP SKILLS:Although this role will be sitting on-site, they must also be able to use personal workstation or options are available for rent. They are a Microsoft shop.5-8+ years of experience in data engineering or a related role.Seeking an individual with the ability to learn fast, eager to be in a collaborative team environment and work with an offshore team.Design, build, and manage ETL data pipelines using AWS services services, specifically Glue, Athena, and Lambda is a plus.Hands-on experience with Apache Hudi for real-time data management.Strong programming skills in Python and PySpark.Familiarity with SQL and NoSQL databases.Knowledge of data governance and data security best practices.Experience with workflow scheduling tools like AWS Step Functions or Control M.Collaborate with cross-functional teams to meet business objectives.Monitor performance and advise any necessary infrastructure changes. Experience with Hadoop ecosystem is a must.Experience with RedShift is a must.Develop technical documentation including data dictionaries, metadata, and pipeline architecture.Troubleshoot data issues and provide ongoing operational support.",
+        "source": "Email",
+        "date_posted": "2024-10-10 17:31:08-05:00",
+        "unique_id": "19278af71aa362ca",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

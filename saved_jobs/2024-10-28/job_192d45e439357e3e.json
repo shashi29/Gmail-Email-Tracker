@@ -1,0 +1,59 @@
+[
+    {
+        "company": "Kroger",
+        "job_title": "Data Engineer",
+        "location": "Cincinnati, OH, USA",
+        "full_location": {
+            "city": "Cincinnati",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "object oriented programming",
+                "Python Programming"
+            ],
+            "primary": [
+                "Advanced Sql",
+                "Azure",
+                "DataBricks",
+                "CI / CD"
+            ],
+            "secondary": [],
+            "all": [
+                "object oriented programming",
+                "Python Programming",
+                "Advanced Sql",
+                "Azure",
+                "DataBricks",
+                "CI / CD"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "GAURAV VISHWAKARMA",
+        "email": "gaurav@sibitalent.com",
+        "jd": "From: GAURAV, SIBITALENT gaurav@sibitalent.com Reply to: gaurav@sibitalent.com Hi,Hope you are doing well,Data Engineer in Cincinnati, Ohio- hybrid(Need local candidate)Please find the Job details below and kindly revert if you\u2019re interested in learning more about this job.JOB TITLE: Data EngineerLOCATION: Cincinnati, Ohio- hybrid(Need local candidate)Client: KrogerVisa: USC, GC holderMUST HAVE 2 REFERNCES WITH MANAGER'S LINKEDIN.\u2022 Strong knowledge in object oriented programming - Must\u2022 Python Programming - Must\u2022 Advanced Sql\u2022 Azure \u2013 Azure function, Cosmos db / Synapse preferable. Consider any cloud experience\u2022 DataBricks \u2013 desirable\u2022 CI / CDThanks & Regards:GAURAV VISHWAKARMAIT Recruiter (Sibitalent Corp)Office \u2013 101 E. Park Blvd,Suite 600, Plano, TX\u201375074Website:www.sibitalent.com I Phone: 936-297-2002E-Mail: gaurav@sibitalent.comlinkedin.com/in/gaurav-vishwakarma-758b58265",
+        "source": "Email",
+        "date_posted": "2024-10-28 11:18:17-05:00",
+        "unique_id": "192d45e439357e3e",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

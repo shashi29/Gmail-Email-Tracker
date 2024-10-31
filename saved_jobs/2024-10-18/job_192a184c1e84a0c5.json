@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Hcl Global",
+        "job_title": ".NET Developer",
+        "location": "Little Rock, AR, USA",
+        "full_location": {
+            "city": "Little Rock",
+            "state": "AR",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "2 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".Net Core",
+                "Entity Framework core",
+                "C#",
+                "RESTful web APIs",
+                "REACT",
+                "Next JS",
+                "Material UI",
+                "Version Control Systems",
+                "AWS Services",
+                "AWS Lambda"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                ".Net Core",
+                "Entity Framework core",
+                "C#",
+                "RESTful web APIs",
+                "REACT",
+                "Next JS",
+                "Material UI",
+                "Version Control Systems",
+                "AWS Services",
+                "AWS Lambda"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "srikanth",
+        "email": "srikanth.g@hclglobal.com",
+        "jd": "From: srikanth, Hcl Global srikanth.g@hclglobal.com Reply to: srikanth.g@hclglobal.com Full Life Cycle Application DevelopmentRequired2Years .Net Core application development in a cloud-based environmentRequired2YearsEntity Framework core developmentRequired2Years C# application development in .Net FrameworkRequired2YearsDesign and develop RESTful web APIsRequired2Years Application development using REACT, Next JS, Material UIRequired2YearsVersion Control SystemsRequired2Years AWS ServicesRequired1YearsAWS LambdaRequired1Years",
+        "source": "Email",
+        "date_posted": "2024-10-18 14:45:51-05:00",
+        "unique_id": "192a184c1e84a0c5",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

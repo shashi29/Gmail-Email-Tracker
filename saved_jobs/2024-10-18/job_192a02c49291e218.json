@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Synkriom",
+        "job_title": "AWS Data Engineer",
+        "location": "Wilmington, DE, USA",
+        "full_location": {
+            "city": "Wilmington",
+            "state": "DE",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "BS/BA degree or equivalent experience",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spark",
+                "Java",
+                "AWS Glue",
+                "Lambda",
+                "S3",
+                "EMR"
+            ],
+            "primary": [
+                "Python",
+                "Spark SQL",
+                "Lake formation",
+                "Glue ETL",
+                "Glue Catalog",
+                "Athena",
+                "Kinesis",
+                "MSK",
+                "Airflow",
+                "Step Functions",
+                "Event Bridge"
+            ],
+            "secondary": [
+                "Linux Scripting",
+                "Jenkins",
+                "Git",
+                "CI/CD",
+                "JIRA",
+                "TDD"
+            ],
+            "all": [
+                "Spark",
+                "Java",
+                "AWS Glue",
+                "Lambda",
+                "S3",
+                "EMR",
+                "Python",
+                "Spark SQL",
+                "Lake formation",
+                "Glue ETL",
+                "Glue Catalog",
+                "Athena",
+                "Kinesis",
+                "MSK",
+                "Airflow",
+                "Step Functions",
+                "Event Bridge",
+                "Linux Scripting",
+                "Jenkins",
+                "Git",
+                "CI/CD",
+                "JIRA",
+                "TDD"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shivendra",
+        "email": "shivendra.singh@synkriom.com",
+        "jd": "From: Shivendra, Synkriom shivendra.singh@synkriom.com Reply to: shivendra.singh@synkriom.com Position: AWS Data EngineerLocation: Wilmington, DE (Day 1 Onsite is Must)Duration: Contract Passport number is required Need only local candidates. Mandatory Skills: Spark, hands on experience in Java coding, AWS Glue, Lambda, S3, EMR Must Have:\u2022 BS/BA degree or equivalent experience\u2022 General: Strong organizational, problem-solving, and critical thinking skills; Strong documentation skills\u2022 Coding: Proficiency in Python\u2022 Cluster Computing frameworks: Proficiency in Spark and Spark SQL\u2022 AWS Data Services: Proficiency in Lake formation, Glue ETL (or) EMR, S3, Glue Catalog, Athena, Kinesis (or) MSK, Airflow (or) Lambda + Step Functions + Event Bridge\u2022 Data De/Serialization: Expertise in at least 2 of the formats: Parquet, Iceberg, AVRO, JSON-LD\u2022 AWS Data Security: Good Understanding of security concepts such as: Lake formation, IAM, Service roles, Encryption, KMS, Secrets Manager Good to Have:\u2022 Linux Scripting, Jenkins\u2022 DevOps: Git, CI/CD, JIRA, TDD",
+        "source": "Email",
+        "date_posted": "2024-10-18 08:51:37-05:00",
+        "unique_id": "192a02c49291e218",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

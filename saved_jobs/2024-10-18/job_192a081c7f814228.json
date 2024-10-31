@@ -1,0 +1,79 @@
+[
+    {
+        "company": "Sibi Talent",
+        "job_title": "Python Engineer with Network Automation",
+        "location": "Alpharetta, GA, USA",
+        "full_location": {
+            "city": "Alpharetta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Networking protocols",
+                "Ansible Tower",
+                "RESTful API",
+                "Git"
+            ],
+            "primary": [
+                "Perl",
+                "MongoDB",
+                "CI/CD",
+                "Flask",
+                "Django"
+            ],
+            "secondary": [
+                "VLAN",
+                "ACL",
+                "TCP/IP",
+                "Problem-solving skills",
+                "Documentation"
+            ],
+            "all": [
+                "Python",
+                "Networking protocols",
+                "Ansible Tower",
+                "RESTful API",
+                "Git",
+                "Perl",
+                "MongoDB",
+                "CI/CD",
+                "Flask",
+                "Django",
+                "VLAN",
+                "ACL",
+                "TCP/IP",
+                "Problem-solving skills",
+                "Documentation"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sapna Thakur",
+        "email": "sapnathakur@sibitalent.com",
+        "jd": "From: Sapna Thakur, Sibi Talent sapnathakur@sibitalent.com Reply to: sapnathakur@sibitalent.com Python Engineer with Network Automation,Alpharetta, GA (onsite), Need Local to GA only Duration :: 12 months Experience :: 8+ years Interview Process:\u2022 1 st Round Video Conference with Manager Related to candidate projects and Experience\u2022 2 nd Round Pure Technical round ( Panel Interview or with Single Interviewer)\u2022 3 rd Round Onsite Round( Not Mandatory) but highly prefers who can do. Note from Vendor: 5-Days Onsite in Alpharetta, GA. (Only Local Candidates)Reviewed 40+ candidates and interviewed 15+ candidates, but he found all of them are more on Networking side and Lacking on Python or Vice-versa.Looking for a Good Enterprise Python Developer with Networking Experience .Python is used for Workflow Automation, Fetching Data, Building API S, working on building applications using python, Adhoc Script from Scratch.Some of the basic stuff looking unde r Networking : Able to understand Networking background, has knowledge of OSI Layers, Routing, VLAN, Access Control List, Different Routing Protocols, Routing Table and some fundamental knowledge ,DevOps is nice to have.A Pure Python Developer with Network Automation worked previously with Service Providers -- A Good Fit.Good Communication is must for this role for internal communication, as the Team is diversified in various Geographical locations( New York, Portugal, Alpharetta,,...)We are looking for Network Automation engineer to join Automation and Tooling team within networking domain.The team is responsible for the creations of methods and tools to reduce change management complexity, enhance pre/post change validations, and collect network state information covering various protocols.The Network Automation engineer will help the team in its efforts to Client device asset and operational state data through building necessary tooling, and database.Right candidate is someone who owns the problems and is able to demonstrate leadership and responsibility for the delivery of new features as well as working on complex legacy source code.Job Description: Develop and maintain the automation toolset (Python & legacy tools in Perl) for device asset discovery, data collection, and reporting .Enhance existing scripts to improving workflows and network change management incorporating new technologies.Adapt and transform operational and/or functional needs into solutions.Conduct tooling audits to assess proper operational coverage and build remediation changes as required.Collaborate with cross-functional teams to gather requirements and feedback on network automation solutions.Conduct regular assessments to identify opportunities for efficiency improvement and optimization.Required Skills: (RECRUITERS MUST RUN CHECKLIST)Understanding of networking protocols (TCP/IP) and concepts (i.e., VLAN, ACL).Familiarity or prior experience with Ansible Tower or Ansible Automation Platform for managing network devices.Proficiency in scripting languages like Python, for creating new API based services and supporting existing scripts.Understanding of RESTful API principles, HTTP methods, requests and authentication handling, and data serialization.Experience with version control systems like Git (BitBucket/GitHub).Knowledge of software lifecycle principles and practices, integrating automation into a continuous integration and continuous deployment (CI/CD) pipeline.Knowledge of database management systems like MongoDB for storing and retrieving data.Problem-solving skills to identify automation opportunities and optimize existing workflows.Ability to write clear and concise documentation for users and fellow developers. Preferred Skills:\u2022 Experience in frameworks like Flask or Django for building APIs.\u2022 Relevant certifications in Networking (CCNA/CCNP) or RedHat Ansible.",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:53:44-05:00",
+        "unique_id": "192a081c7f814228",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

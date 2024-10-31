@@ -1,0 +1,69 @@
+[
+    {
+        "company": "Altitude Technology Solutions",
+        "job_title": "Snowflake Developer (Azure)",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Proven experience with Snowflake and Azure cloud services.",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Azure",
+                "SQL"
+            ],
+            "primary": [
+                "Data modeling",
+                "ETL processes",
+                "Data integration techniques",
+                "Data warehousing concepts"
+            ],
+            "secondary": [
+                "Problem-solving",
+                "Attention to detail"
+            ],
+            "all": [
+                "Snowflake",
+                "Azure",
+                "SQL",
+                "Data modeling",
+                "ETL processes",
+                "Data integration techniques",
+                "Data warehousing concepts",
+                "Problem-solving",
+                "Attention to detail"
+            ],
+            "with_experience": [
+                "Snowflake",
+                "Azure"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vicky Kumar",
+        "email": "v.kumar@atsitinc.com",
+        "jd": "From: Vicky Kumar, Altitude Technology Solutions v.kumar@atsitinc.com Reply to: v.kumar@atsitinc.com Overview: We are seeking a skilled Snowflake Developer with expertise in Azure to join our data team. In this role, you will design, implement, and optimize data solutions on the Snowflake platform, leveraging Azure cloud services to enhance data processing and analytics.Key Responsibilities:Develop and maintain data pipelines using Snowflake and Azure Data Factory.Design data models and ETL processes to support business intelligence and analytics initiatives.Optimize Snowflake performance and cost management strategies.Collaborate with cross-functional teams to gather requirements and deliver data solutions.Monitor and troubleshoot data issues, ensuring data integrity and availability.Stay updated on industry trends and best practices related to Snowflake and Azure.Qualifications:Proven experience with Snowflake and Azure cloud services.Strong SQL skills and experience in data modeling.Familiarity with ETL tools and data integration techniques.Knowledge of data warehousing concepts and practices.Excellent problem-solving skills and attention to detail. Thanks and Regards, Vicky KumarAltitude Technology Solutions IncEmail : V.kumar@atsitinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 16:51:29-05:00",
+        "unique_id": "192c0dadfa6785e8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

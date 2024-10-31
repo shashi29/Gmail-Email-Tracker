@@ -1,0 +1,94 @@
+[
+    {
+        "company": "cloudsecurityweb.com",
+        "job_title": "DOTNET_Local",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                ".NET Core",
+                "ASP.NET",
+                "Web API",
+                "SQL",
+                "No-SQL"
+            ],
+            "primary": [
+                "JavaScript",
+                "React.js",
+                "Angular",
+                "HTML5",
+                "CSS3",
+                "Azure",
+                "Docker",
+                "Linux",
+                "Nginx/Apache",
+                "Kafka",
+                "Elasticsearch",
+                ".NET",
+                "Java",
+                "Python",
+                "MSSQL",
+                "MongoDB",
+                "MySQL",
+                "Redis",
+                "Memcached",
+                "UI/UX basics"
+            ],
+            "secondary": [],
+            "all": [
+                ".NET Core",
+                "ASP.NET",
+                "Web API",
+                "SQL",
+                "No-SQL",
+                "JavaScript",
+                "React.js",
+                "Angular",
+                "HTML5",
+                "CSS3",
+                "Azure",
+                "Docker",
+                "Linux",
+                "Nginx/Apache",
+                "Kafka",
+                "Elasticsearch",
+                ".NET",
+                "Java",
+                "Python",
+                "MSSQL",
+                "MongoDB",
+                "MySQL",
+                "Redis",
+                "Memcached",
+                "UI/UX basics"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Anji",
+        "email": "danji@cloudsecurityweb.com",
+        "jd": "From: Anji, cloudsecurityweb.com danji@cloudsecurityweb.com Reply to: danji@cloudsecurityweb.com JD:Skills:Backend: .NET Core, ASP.NET, Web API, SQL, No-SQL.Frontend: JavaScript, React.js, Angular, HTML5, CSS3.Cloud & DevOps: Azure, Docker, Linux, Nginx/Apache.Open Source: Kafka, Elasticsearch.Programming: .NET, Java, Python.Databases: MSSQL, MongoDB, MySQL.Other: Redis, Memcached, UI/UX basics.This role requires strong expertise in full-stack development, cloud integration, and agile practices.",
+        "source": "Email",
+        "date_posted": "2024-10-11 09:01:36-05:00",
+        "unique_id": "1927c0369a520fe6",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

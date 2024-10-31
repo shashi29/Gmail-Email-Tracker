@@ -1,0 +1,64 @@
+[
+    {
+        "company": "Magicforce",
+        "job_title": "Azure Developer lead",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "4+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "2+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "API Management",
+                "Logic apps",
+                "Functions apps",
+                "Azure storage(blob)",
+                "Azure secret/certificates",
+                "API Authentication/Authorization"
+            ],
+            "primary": [
+                "Azure with Salesforce Integrations",
+                "Liquid files",
+                "Azure DevOps CI/CD"
+            ],
+            "secondary": [],
+            "all": [
+                "API Management",
+                "Logic apps",
+                "Functions apps",
+                "Azure storage(blob)",
+                "Azure secret/certificates",
+                "API Authentication/Authorization",
+                "Azure with Salesforce Integrations",
+                "Liquid files",
+                "Azure DevOps CI/CD"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Praveen Kumar",
+        "email": "praveen@magicforce.us",
+        "jd": "From: Praveen Kumar, Magicforce praveen@magicforce.us Reply to: praveen@magicforce.us Job Title: Azure DeveloperLocation: RemoteDuration: 2+ monthsJob Description:Mandatory skillsAPI Management, Logic apps, Functions apps, Azure storage(blob), Azure secret/certificates, API Authentication/AuthorizationGood to have skills: -Azure with Salesforce Integrations, Liquid files, Azure DevOps CI/CD4+ years of experience with Azure Integration Services using Logic Apps, API Management and Azure storage (Blob)Knowledge of Azure DevOps CI/CD implementation is good to have.Develop and maintain innovative Azure solutions.The ability to automate tasks and deploy production standard code (continuous integration, API versioning etc.)Create APIM endpoint for every third-party service call from CLS and implement the logic using Logic app. Implement the authentication using token-based service.Establish the connection between CLS and third-party service using azure secret. Also able to test the end point from Postman whenever required.",
+        "source": "Email",
+        "date_posted": "2024-10-25 08:16:29-05:00",
+        "unique_id": "192c4098bed9c2a8",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "Lead Data Engineer",
+        "location": "Scottsdale, AZ, USA",
+        "full_location": {
+            "city": "Scottsdale",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5-7 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "6+ Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "data engineering",
+                "Apache Airflow",
+                "DataProc",
+                "Spark",
+                "CI/CD"
+            ],
+            "primary": [
+                "architecture solutions",
+                "large-scale batch processing",
+                "collaboration with architects",
+                "databases",
+                "SQL",
+                "OOP language",
+                "GCP",
+                "GKE",
+                "Cloud IAM"
+            ],
+            "secondary": [
+                "Map Reduce",
+                "Spark Streaming",
+                "PySpark",
+                "Hive",
+                "HDFS",
+                "Kafka",
+                "Redis",
+                "Sqoop",
+                "Oozie",
+                "IBM Data Sage",
+                "Spring Batch"
+            ],
+            "all": [
+                "data engineering",
+                "Apache Airflow",
+                "DataProc",
+                "Spark",
+                "CI/CD",
+                "architecture solutions",
+                "large-scale batch processing",
+                "collaboration with architects",
+                "databases",
+                "SQL",
+                "OOP language",
+                "GCP",
+                "GKE",
+                "Cloud IAM",
+                "Map Reduce",
+                "Spark Streaming",
+                "PySpark",
+                "Hive",
+                "HDFS",
+                "Kafka",
+                "Redis",
+                "Sqoop",
+                "Oozie",
+                "IBM Data Sage",
+                "Spring Batch"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "sangya kumari nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com JOB TITLE: Lead Data EngineerDuration: 6+ MonthLocation: Scottsdale, AZ (Hybrid)Visa: GC / USC/GC EAD/H4 EADMOI: SkypeLINKEDIN ID , DL AND VISA COPIES ARE MANDATORYMUST HAVE: (LOCAL TO AZ)Required skills: 5-7 years of data engineering experience \u2022 Capable of leading other data engineers \u2022 3+ years of experience with Apache Airflow and/or Composer \u2022 3+ years of experience with DataProc and/or Spark \u2022 5+ years of experience with CI/CD \u2022 Experience producing architecture solutions using Composer and Spark \u2022 Experience in large-scale batch processing with cloud services \u2022 Ability to collaborate with architects to solve problems and provide data engineering solutions \u2022 Familiarity with databases and SQL \u2022 Familiarity with at least one OOP language, Java preferred \u2022 Familliarty with GCP, GKE, and Cloud IAMDesired skills: Map Reduce, Spark Streaming, PySpark, Hive, HDFS, Kafka, Redis, Sqoop, Oozie, IBM Data Sage, Spring Batch",
+        "source": "Email",
+        "date_posted": "2024-10-10 11:02:31-05:00",
+        "unique_id": "19277833d1f8d200",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

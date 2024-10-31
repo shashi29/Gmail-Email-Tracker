@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Siri Info",
+        "job_title": "Developer",
+        "location": "Raleigh, NC, USA",
+        "full_location": {
+            "city": "Raleigh",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8-10 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Database"
+            ],
+            "primary": [
+                "ETL",
+                "Database schema design",
+                "File processing",
+                "Python",
+                "Java"
+            ],
+            "secondary": [
+                "Cloud Computing",
+                "Big application development"
+            ],
+            "all": [
+                "AWS",
+                "Database",
+                "ETL",
+                "Database schema design",
+                "File processing",
+                "Python",
+                "Java",
+                "Cloud Computing",
+                "Big application development"
+            ],
+            "with_experience": [
+                "AWS (8-10 years)",
+                "Database (8-10 years)"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Chandra N",
+        "email": "chandra.n@siriinfo.com",
+        "jd": "From: Chandra N, Siri Info chandra.n@siriinfo.com Reply to: chandra.n@siriinfo.com Role name:Developer at Raleigh, NCRole Description:1) ETL developer who has very strong skill in AWS cloud and Database skill.2) Generating the data from AWS cloud database. (aurora database)3) Should have skill to Design the database schema and structure and create the table based on the requirement.4) Process the files (any format) and convert it into database table.5) Generate different format of file from AWS database table.6) Who has very good understanding of Big application development and should have very strong working background of AWS Database process. 7) Python and Java skillCompetencies:Digital : Amazon Web Service(AWS) Cloud Computing, Database TechnologyExperience (Years):8-10",
+        "source": "Email",
+        "date_posted": "2024-10-16 16:35:03-05:00",
+        "unique_id": "19297620300cbd4f",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

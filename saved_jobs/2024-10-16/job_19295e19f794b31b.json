@@ -1,0 +1,82 @@
+[
+    {
+        "company": "Talentgroups",
+        "job_title": "SQL Data base Administrator",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in computer or information sciences or similar field preferred",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Microsoft SQL Server",
+                "T-SQL programming",
+                "Database Design",
+                "SQL Statement Tuning"
+            ],
+            "primary": [
+                "SQL Server Integration Services",
+                "SQL Server Reporting Services",
+                "SQL Server Analysis Services",
+                "Cloud Database Services",
+                "PowerShell",
+                "Python scripting"
+            ],
+            "secondary": [
+                "Oracle",
+                "MySQL",
+                "PostgreSQL",
+                "Datadog",
+                "Terraform"
+            ],
+            "all": [
+                "Microsoft SQL Server",
+                "T-SQL programming",
+                "Database Design",
+                "SQL Statement Tuning",
+                "SQL Server Integration Services",
+                "SQL Server Reporting Services",
+                "SQL Server Analysis Services",
+                "Cloud Database Services",
+                "PowerShell",
+                "Python scripting",
+                "Oracle",
+                "MySQL",
+                "PostgreSQL",
+                "Datadog",
+                "Terraform"
+            ],
+            "with_experience": [
+                "Microsoft SQL Server",
+                "T-SQL programming"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shiva Manish",
+        "email": "shivamanish.b@talentgroups.com",
+        "jd": "From: Shivamanish, Talentgroups shivamanish.b@talentgroups.com Reply to: shivamanish.b@talentgroups.com This is Shiva Manish I have an excellent job opportunity with one of our premier clients. Since it is an urgent business requirement your prompt response is appreciated.Job Title: SQL Data base AdministratorLocation: Chicago, Illinois or Atlanta, Georgia / Day 1 onsite Responsibilities \u2022 You are good at managing and operating Microsoft SQL Server database instances; optimizingconfiguration settings, performing database backups & restores, developing and running optimization tasks, composing automation scripts for repetitive tasks, etc.\u2022 You have experience with the most recent releases of SQL Server including the related products of Integration Services, Reporting Services, and Analysis Services. You have excellent communication skills, work well in a team, and are dedicated to providing outstanding customer service.\u2022 Able to work independently with minimal supervision\u2022 Individually execute and deliver on day-to-day activities\u2022 Perform research of viable technical and/or non-technical solutions\u2022 Share knowledge with the Team\u2022 Leverage internal networks in role and viewed by stakeholders as skilled specialist. Qualifications we seek in youMinimum Qualifications / Skills \u2022 Bachelor's degree in computer or information sciences or similar field preferred\u2022 You bring to us experience in managing SQL Server databases, T-SQL programming, knowledge of thirdform normalization design principals and indexing best practices. We would welcome experience inOracle and/or other DBMSs to help support RtB Preferred Qualifications/ Skills \u2022 Solid MS SQL Server DBA experience (SQL 2012-2019\u2022 Strong Database Design skills\u2022 Expertise in SQL Statement Tuning\u2022 Experience with native transactional Data Replication\u2022 Experience in configuring Always-On Availability Groups (incl. Windows Clustering)\u2022 Experience with deploying and managing Cloud Database Services (AWS/Azure preferred) like AWS DynamoDB, AWS RDS, Azure SQL, Azure Cosmos DB\u2022 Experience with Cloud automation deployment (e.g., Terraform for SQL RDS)\u2022 Good understanding of networking concepts in cloud (VPCs, Subnets, Security Groups, etc)\u2022 Strong T-SQL Programming capabilities\u2022 PowerShell and/ or Python scripting capabilities\u2022 Familiarity with Oracle Database technology (versions 11g, 12c, 18c, and 19c) a plus\u2022 Familiarity with Datadog as a monitoring and analytics tool\u2022 Familiarity with MySQL and PostgreSQL a plus\u2022 Maintain database security\u2022 Maintain Server and DB Auditing\u2022 Excellent troubleshooting and problem-solving abilities",
+        "source": "Email",
+        "date_posted": "2024-10-16 09:30:11-05:00",
+        "unique_id": "19295e19f794b31b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

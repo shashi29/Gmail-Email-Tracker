@@ -1,0 +1,94 @@
+[
+    {
+        "company": "Wiseq",
+        "job_title": "Azure Data Engineer with Datastage Experience",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "10+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Data Warehousing",
+                "Data Modeling",
+                "SQL",
+                "DataStage"
+            ],
+            "primary": [
+                "Python",
+                "Spark",
+                "Airflow",
+                "Kafka",
+                "Data Governance",
+                "Collibra"
+            ],
+            "secondary": [
+                "PowerBI",
+                "Continuous Integration",
+                "GitHub",
+                "Confluence",
+                "NoSQL",
+                "Oracle",
+                "Postgres",
+                "MongoDB"
+            ],
+            "all": [
+                "Azure",
+                "Data Warehousing",
+                "Data Modeling",
+                "SQL",
+                "DataStage",
+                "Python",
+                "Spark",
+                "Airflow",
+                "Kafka",
+                "Data Governance",
+                "Collibra",
+                "PowerBI",
+                "Continuous Integration",
+                "GitHub",
+                "Confluence",
+                "NoSQL",
+                "Oracle",
+                "Postgres",
+                "MongoDB"
+            ],
+            "with_experience": [
+                "Azure (10+ years)",
+                "Data Warehousing",
+                "Data Modeling",
+                "SQL",
+                "DataStage"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Austin Wiseq",
+        "email": "austin@wiseq.net",
+        "jd": "From: Austin, Wiseq austin@wiseq.net Reply to: austin@wiseq.net Job Title : Azure Data Engineer with Datastage ExperienceLocation : Chicago, IL (Hybrid)Long Term ContractJob Description\uf0d8 Customer belongs to the BI-Analytics, looking for a candidate who is capable of building & deploying data warehouses with Azure platform required with AL/ML capabilities\uf0d8 The candidate will be responsible for designing & building solutions for Analytics applications, analytics group.\uf0d8 This role will cover multiple data technology stacks as well as cloud technologies.Responsibilities\u2022 Work with business owners and IT stakeholders to understand business and functional\u2022 requirements to design data & integration solutions.\u2022 Develop conceptual and physical data models as well as flow diagrams illustrate current and\u2022 future state data architecture.\u2022 Establish good data modelling principles and effective data quality standards.\u2022 Act as subject matter expert on all aspects of the data architecture, including Cloud\u2022 adoption, data orchestration, large data processing, security & scalability.\u2022 Guide and mentor development teams on modern data engineering & design best practices\u2022 You have strong understanding of data modeling techniques and experience in designing\u2022 data models for cloud data warehouses and OLTP applications.\u2022 Evangelize modern data approaches & technologies as well as Cloud architecture across the\u2022 Analytics group.Required Skills\u2022 10+ years of experience building data platforms & application architectures.\u2022 Proven experience building & deploying data warehouses with Azure platform is required with AL/ML capabilities.\u2022 Azure certification is desirable.\u2022 Strong hands-on expertise in database & query performance tuning SQL queries and database best practices with PowerBI Dashboard Exp.\u2022 Full understanding of ETL IBM DataStage concepts and Data Warehousing concepts\u2022 Strong experience with modern data engineering technologies such as python, Spark, Airflow.\u2022 You have experience with Kafka and CDC tools for real-time data synchronization.\u2022 Proven experience in Data modeling using Dimension modelling & Data vault methodologies with Power BI reporting integration experience.\u2022 Strong Data Governance Tooling experience with Collibra.\u2022 Hands-on experience working with relational and NoSQL technologies (such as Oracle, Postgres, Mongo DB, etc.)\u2022 You have experience with continuous integration and collaboration tools like Azure ADO, GitHub and Confluence.\u2022 Experience in financial industry or banking is a plus",
+        "source": "Email",
+        "date_posted": "2024-10-29 11:40:08-05:00",
+        "unique_id": "192d94625b9da8b8",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

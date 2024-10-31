@@ -1,0 +1,126 @@
+[
+    {
+        "company": "Resource Logistics",
+        "job_title": "Azure AI",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "At least 5 years",
+            "degree_required": "Bachelor's Degree in any of Computer Science, Statistics, Data Science or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure AI",
+                "Generative AI",
+                "Deep Learning",
+                "Machine Learning",
+                "LLMOps"
+            ],
+            "primary": [
+                "Python",
+                "R",
+                "Java",
+                "C#",
+                "Azure OpenAI",
+                "Document Intelligence",
+                "AI Search",
+                "Cosmos DB",
+                "App service",
+                "Managed Identities",
+                "Customer Managed Keys",
+                "Azure IaaS and PaaS solutions",
+                "Copilot Studio",
+                "CI/CD Tools",
+                "Bitbucket",
+                "Terraform"
+            ],
+            "secondary": [
+                "Certifications in AI/ML technologies",
+                "Cloud platforms",
+                "Azure AI Engineer Associate (AZ-102)",
+                "Certification in Azure Solutions Architect Expert",
+                "AWS",
+                "Google",
+                "Experience in prompting & finetuning in GPT3.5/Turbo, GPT-4/4o",
+                "Experience in other LLMs",
+                "Experience gathering non-functional requirements",
+                "Performing designed and validated application architecture frameworks",
+                "Executing functional, stress and performance testing",
+                "Strong knowledge of business analysis",
+                "Requirement gathering",
+                "Gap analysis",
+                "Strong communication",
+                "Presentation",
+                "Interpersonal skills",
+                "Power Automate development experience"
+            ],
+            "all": [
+                "Azure AI",
+                "Generative AI",
+                "Deep Learning",
+                "Machine Learning",
+                "LLMOps",
+                "Python",
+                "R",
+                "Java",
+                "C#",
+                "Azure OpenAI",
+                "Document Intelligence",
+                "AI Search",
+                "Cosmos DB",
+                "App service",
+                "Managed Identities",
+                "Customer Managed Keys",
+                "Azure IaaS and PaaS solutions",
+                "Copilot Studio",
+                "CI/CD Tools",
+                "Bitbucket",
+                "Terraform",
+                "Certifications in AI/ML technologies",
+                "Cloud platforms",
+                "Azure AI Engineer Associate (AZ-102)",
+                "Certification in Azure Solutions Architect Expert",
+                "AWS",
+                "Google",
+                "Experience in prompting & finetuning in GPT3.5/Turbo, GPT-4/4o",
+                "Experience in other LLMs",
+                "Experience gathering non-functional requirements",
+                "Performing designed and validated application architecture frameworks",
+                "Executing functional, stress and performance testing",
+                "Strong knowledge of business analysis",
+                "Requirement gathering",
+                "Gap analysis",
+                "Strong communication",
+                "Presentation",
+                "Interpersonal skills",
+                "Power Automate development experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Stutie Sharrma",
+        "email": "stuti@resource-logistics.com",
+        "jd": "From: Stutie Sharrma, Resource Logistics stuti@resource-logistics.com Reply to: stuti@resource-logistics.com Position: Azure AiLocation: Jersey City NJ ResponsibilitiesTranslate the business requirements for AI applications into viable AI solutions within AzureSelect appropriate Azure technologies, considering deployment models and their seamless integration with existing toolsPartner with Enterprise Architecture, Application Development, and Business teams to design pilot projects and develop production-ready solutionsGather feedback from diverse stakeholders to ensure that the technical implementation aligns with both current and future AI requirementsWork closely with security and risk leaders to foresee and mitigate risks, ensuring ethical AI usage and complianceGain an understanding of and contribute to LLM operations, focusing on the infrastructure and operational capabilities required to deploy Azure AI solutionsDevelop tools and capabilities that support data ingestion, feature engineering, data management, and organizationIntegrate security best practices into solutions to facilitate streamlined CI/CD pipelines for deployment and secure software deliveryEstablish the Azure OpenAI service in Microsoft Azure with an architecture tailored to support business teams Preferred Qualifications and SkillsAt least 5 years of experience in implementing cloud-based AI workloads on Azure, delivering production grade solutionsBachelor's Degree in any of Computer Science, Statistics, Data Science or a related fieldAt least 1 year of experience in implementing Azure OpenAI solutionsGenerative AI, Deep Learning, Machine learning, LLMOpsLLM Experience in prompting & finetuning in GPT3.5/Turbo, GPT-4/4o is a must. Experience in other LLMs would be a plus.Certifications in AI/ML technologies and Cloud platforms, such as Azure AI Engineer Associate (AZ-102)Certification in Azure Solutions Architect Expert and other cloud platforms e.g. AWS, Google would be a plus.Programing experience in one of the languages - Python, R, Java, C#Cloud Services Expertise: Azure OpenAI, Document Intelligence, AI Search, Cosmos DB, App service, Managed Identities, Customer Managed Keys, Azure IaaS and PaaS solutions, Copilot StudioExperience in CI/CD Tools Bitbucket, Terraform is a must.Experience gathering non-functional requirements, performing designed and validated application architecture frameworks, and executing functional, stress and performance testingStrong knowledge of business analysis, requirement gathering, and gap analysisStrong communication, presentation, and interpersonal skillsFast learner, individual as well as a team player and can work under pressurePower Automate development experience would be a plus",
+        "source": "Email",
+        "date_posted": "2024-10-18 09:54:12-05:00",
+        "unique_id": "192a040f03d52b1a",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

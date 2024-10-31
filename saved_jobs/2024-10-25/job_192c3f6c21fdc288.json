@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Altitude Technology Solutions",
+        "job_title": "Snowflake Developer (Azure)",
+        "location": "Chicago, IL, USA",
+        "full_location": {
+            "city": "Chicago",
+            "state": "IL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Snowflake",
+                "Azure",
+                "SQL"
+            ],
+            "primary": [
+                "Data Modeling",
+                "ETL",
+                "Data Integration"
+            ],
+            "secondary": [
+                "Data Warehousing",
+                "Problem-solving",
+                "Attention to Detail"
+            ],
+            "all": [
+                "Snowflake",
+                "Azure",
+                "SQL",
+                "Data Modeling",
+                "ETL",
+                "Data Integration",
+                "Data Warehousing",
+                "Problem-solving",
+                "Attention to Detail"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ravinder Sharma",
+        "email": "r.sharma@atsitinc.com",
+        "jd": "From: Ravinder Sharma, ATS inc r.sharma@atsitinc.com Reply to: r.sharma@atsitinc.com Snowflake Developer (Azure) Downtown Chicago Contract Role Overview: We are seeking a skilled Snowflake Developer with expertise in Azure to join our data team. In this role, you will design, implement, and optimize data solutions on the Snowflake platform, leveraging Azure cloud services to enhance data processing and analytics. Key Responsibilities: Develop and maintain data pipelines using Snowflake and Azure Data Factory. Design data models and ETL processes to support business intelligence and analytics initiatives. Optimize Snowflake performance and cost management strategies. Collaborate with cross-functional teams to gather requirements and deliver data solutions. Monitor and troubleshoot data issues, ensuring data integrity and availability. Stay updated on industry trends and best practices related to Snowflake and Azure. Qualifications: Proven experience with Snowflake and Azure cloud services. Strong SQL skills and experience in data modeling. Familiarity with ETL tools and data integration techniques. Knowledge of data warehousing concepts and practices. Excellent problem-solving skills and attention to detail. Regards Ravinder Sharma R.sharma@atsitinc.com Altitude Technology Solutions (ATS) https://www.atsitinc.com/939 N PLUM GROVE RD STE F, SCHAUMBURG, IL 60173",
+        "source": "Email",
+        "date_posted": "2024-10-25 07:58:25-05:00",
+        "unique_id": "192c3f6c21fdc288",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

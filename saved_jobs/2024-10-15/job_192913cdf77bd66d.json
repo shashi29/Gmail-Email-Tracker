@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Hanstaffing",
+        "job_title": "Pega Developer",
+        "location": "Tampa, FL, USA",
+        "full_location": {
+            "city": "Tampa",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$/hr"
+        },
+        "skills": {
+            "core": [
+                "Pega v8+",
+                "Pega PRPC",
+                "Pega BPM",
+                "Java",
+                "SQL"
+            ],
+            "primary": [
+                "Pega rules",
+                "data model",
+                "application architecture",
+                "Agile development methodologies"
+            ],
+            "secondary": [
+                "Pega frameworks",
+                "Customer Service",
+                "Smart Dispute",
+                "web services (REST/SOAP)",
+                "problem-solving skills",
+                "attention to detail",
+                "communication skills",
+                "collaboration skills"
+            ],
+            "all": [
+                "Pega v8+",
+                "Pega PRPC",
+                "Pega BPM",
+                "Java",
+                "SQL",
+                "Pega rules",
+                "data model",
+                "application architecture",
+                "Agile development methodologies",
+                "Pega frameworks",
+                "Customer Service",
+                "Smart Dispute",
+                "web services (REST/SOAP)",
+                "problem-solving skills",
+                "attention to detail",
+                "communication skills",
+                "collaboration skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sana",
+        "email": "sana@hanstaffing.com",
+        "jd": "From: Sana, Hanstaffing sana@hanstaffing.com Reply to: sana@hanstaffing.com Title: Pega DeveloperLocation: Tampa, FL (Day 1 Onsite)--Only local in FloridaRate: $/hr --Contract Job Description:5+ years Pega v8+ development experienceStrong individual contributorSelf-starter, can manage their work with minimal hand-holdingProven experience in Pega development, including Pega PRPC and Pega BPM.Strong understanding of Pega rules, data model, and application architecture.experience with Pega frameworks (e.g., Customer Service, Smart Dispute) is a plus.Proficient in Java, SQL, and web services (REST/SOAP).Familiarity with Agile development methodologies.Excellent problem-solving skills and attention to detail.Strong communication and collaboration skills.",
+        "source": "Email",
+        "date_posted": "2024-10-15 11:56:43-05:00",
+        "unique_id": "192913cdf77bd66d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "PEGA Developer"
+    }
+]

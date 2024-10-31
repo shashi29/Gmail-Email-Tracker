@@ -1,0 +1,77 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Sybase DBA",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Visa sponsorship available",
+            "notice_period": "Not specified",
+            "duration": "6+ Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Sybase ASE",
+                "Sybase IQ",
+                "UNIX",
+                "Linux",
+                "Shell Scripting"
+            ],
+            "primary": [
+                "Production Support",
+                "High Availability",
+                "Disaster Recovery",
+                "SQL performance tuning"
+            ],
+            "secondary": [
+                "Oracle",
+                "MS SQL server",
+                "Database design",
+                "Monitoring",
+                "Alerting"
+            ],
+            "all": [
+                "Production Support",
+                "Sybase ASE",
+                "Sybase IQ",
+                "UNIX",
+                "Linux",
+                "Shell Scripting",
+                "High Availability",
+                "Disaster Recovery",
+                "SQL performance tuning",
+                "Oracle",
+                "MS SQL server",
+                "Database design",
+                "Monitoring",
+                "Alerting"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Rahul Mishra",
+        "email": "rmishra@vyzeinc.com",
+        "jd": "From: Rahul Mishra, Vyzeinc rmishra@vyzeinc.com Reply to: rmishra@vyzeinc.com JOB TITLE: Sybase DBADuration: 6+ MonthLocation: Plano TX Visa: USC/H4 EAD/H1B MOI: SkypePASSPORT NUMBER IS MANDATORYSkills Needed - Production Support Exp., Sybase ASE , Sybase IQ Summary:The Level L1/2 Sybase Administrator is a senior-level position responsible for the design, implementation, and management of databases. This role involves overseeing the database infrastructure, ensuring high availability, performance, and security. The Level 3 DBA provides technical expertise, leads database projects, and collaborates with other IT teams to deliver robust and scalable database services.DBA working experience with Sybase open source and good understanding of other RDBMS such as Sybase, Oracle and MS SQL server.Experience in Production Support with monitoringExperienced in setting up Sybase clusters and supporting HA/DR solutionsStrong skills in UNIX / Linux Shell ScriptingInstall, monitor and maintain software, implement monitoring and alerting.Experience in building high-scalable clusters, failover and hot standby solutions based on Maximum available architectureExperience in architecting, configuring, setting up Enterprise Fail over manager or similar technology for High availability solution.Experience in leading efforts related to system and SQL performance tuning and assisting business process integration with various data sources.Ability to work well with development and infrastructure teams in doing database design, changes and enhancement to new and existing applicationsProven ability to provide High Availability and Disaster Recovery solutions Best RegardsRahul Mishra US Technical Recruiter |Vyze Inc.E-Mail: rmishra@vyzeinc.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 17:30:27-05:00",
+        "unique_id": "192c0c746ed2160a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Vyze Inc",
+        "job_title": "Full Stack Developer",
+        "location": "Richmond, VA, USA",
+        "full_location": {
+            "city": "Richmond",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "14 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Must have existing work authorization",
+            "notice_period": "Not specified",
+            "duration": "08+ months contract with possibly 24 months extension",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#.NET",
+                "Angular",
+                "Blazor",
+                "SQL Server",
+                "Web API"
+            ],
+            "primary": [
+                "JavaScript",
+                "JQuery",
+                "CSS3",
+                "HTML5",
+                "TFS",
+                "Automated Builds",
+                "Agile SDLC"
+            ],
+            "secondary": [
+                "Oracle",
+                "SOAP Services",
+                "Azure Cloud Concepts",
+                "Power BI"
+            ],
+            "all": [
+                "C#.NET",
+                "Angular",
+                "Blazor",
+                "SQL Server",
+                "Web API",
+                "JavaScript",
+                "JQuery",
+                "CSS3",
+                "HTML5",
+                "TFS",
+                "Automated Builds",
+                "Agile SDLC",
+                "Oracle",
+                "SOAP Services",
+                "Azure Cloud Concepts",
+                "Power BI"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rohit Kumar Bid",
+        "email": "rbid@vyzeinc.com",
+        "jd": "From: Rohit Kumar Bid, Vyze Inc rbid@vyzeinc.com Reply to: rbid@vyzeinc.com Job Title: Full Stack Developer Location: Richmond, VA (Hybrid) ( Need Local Candidate ) Duration: 08+ months Contract with possibly 24 months extensionWork Auth. : USC , GC Interview Type: In Person OnlyLong Term Full Stack Developer with 14 years .NET experienceJob Description:VDOT-AMD is seeking a Developer with 14 yrs or more .Net Web application development. Experience and fluency with C#, Angular or Blazor, SQL Server, JQuery, CSS3 and HTML5 experienceVDOT is seeking a Full Stack Senior ERP Developer/Programmer with .Net Applications Development experience who will be responsible for managing, programming, testing, debugging and analyzing complex software requirements to design and develop high quality components using the .NET Core framework. The ERP Developer will be programming the current budget and spend plan tool that is used agency wide for financial and budget management for the Maintenance Program. The Senior Developer is expected to program using best practices, prioritize programming work effectively and write system documentation as required. The successful candidate should have strong programming and communication skills to be effective in both technical and business requirement discussions.Primary responsibilities include:Ability to develop, program and code in .NET Core environment applications and backend services using C#, Web API, Java Script, JQuery, Angular or Blazor and CSS.Design, develop and program using appropriate software design patterns to attain high reusability and maintainability.Write effective unit tests and integration tests to ensure high quality software delivery.In-depth knowledge and skills in programming, system design patterns, tiered architecture, and testing practices.Understanding of key business processes and competitive strategies related to the IT function.Work with project architect, project manager, business owner and system analysts to clarify the requirements and then implement them.Participate in Agile SDLC.Required / Desired Skills:SkillRequired / DesiredAmountof ExperienceC#.NET Development experienceRequired14YearsAngular or Blazor Development experienceRequired5YearsStrong Database development experience using SQL ServerRequired14YearsExperience with Web APIRequired5YearsExperience with CSS3 and HTML5Required5YearsExperience with Source Control using TFSRequired10YearsExperience with Automated Builds using Microsoft Team FoundationRequired5YearsExcellent Troubleshooting skillsRequired12YearsExperience with Agile SDLC best practicesRequired5YearsExperience working in OracleDesired2YearsUnderstanding of SOAP ServicesDesired5YearsFamiliar with Azure Cloud ConceptsNice to have1YearsExperience with Power BINice to have1Years",
+        "source": "Email",
+        "date_posted": "2024-10-18 17:10:32-05:00",
+        "unique_id": "192a20b0c7e0d186",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

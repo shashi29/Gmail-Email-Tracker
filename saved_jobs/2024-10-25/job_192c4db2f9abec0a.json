@@ -1,0 +1,75 @@
+[
+    {
+        "company": "GVR INFOTEK LLC",
+        "job_title": "Java Developer",
+        "location": "Reston, VA, USA",
+        "full_location": {
+            "city": "Reston",
+            "state": "VA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "12+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Framework",
+                "Micro-Services",
+                "Web Services",
+                "AWS"
+            ],
+            "primary": [
+                "IBM MQ",
+                "Spring Integration",
+                "EventBridge",
+                "Lambda",
+                "EKS"
+            ],
+            "secondary": [
+                "Datadog",
+                "Cloudwatch",
+                "Healthcare Experience"
+            ],
+            "all": [
+                "Java",
+                "Spring Framework",
+                "Micro-Services",
+                "Web Services",
+                "AWS",
+                "IBM MQ",
+                "Spring Integration",
+                "EventBridge",
+                "Lambda",
+                "EKS",
+                "Datadog",
+                "Cloudwatch",
+                "Healthcare Experience"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Sakshi Tyagi",
+        "email": "sakshi.tyagi@gvrinfotek.com",
+        "jd": "From: Sakshi Tyagi, GVR INFOTEK LLC sakshi.tyagi@gvrinfotek.com Reply to: sakshi.tyagi@gvrinfotek.com Job Title: Java Developer Duration: : 12 months Visa: Only open to GC or USC Only Location: Candidates must be local to Washington DC MOI: Webex Video Healthcare Exp: Nice to have Experience LEAD Architect and design experience required. 12+ years of Software design and hands on development, 2 years of Team Lead experience, along with 3 years of AWS, Proof of Concept (POC) understanding Consultant must have LinkedIn Candidates must be local to Washington DC, Maryland or West Virginia, or Virginia. You will be required to work onsite in Reston Va. twice per month. Spring, Microservices IBM MQ or MS MQ, AWS/ETS Web Services experience required. Candidates must of application architecture and design experience ..proof of concept etc.. Experience (for SENIOR position): 10+ years of Software design and hands on development, along with 2 years of AWS Education Level: Bachelor's Degree. Must have Technology Stack: (1) Java, Spring Framework, Spring Integration, Micro-Services, Web Services, IBM MQ (2) Hands-on AWS development experience, EventBridge, Lambda, EKS services, ETS, basic knowledge in AWS event driving architecture and designing (3) Monitoring Tools: Datadog or Cloudwatch or similar PROJECT: Migrating MQ applications to AWS, must have MQ and AWS knowledge. Eventbridge Architecture for AWS is required Lambda is required. Amazon Elastic Transcoder (AWS ETS) knowledge - required What are you using AWS ETS service for: packaging applications for AWS deployments Healthcare Exp: Nice to have Frontend development not relevant here, all backend work. Contact at : sakshi.tyagi@gvrinfotek.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 12:30:43-05:00",
+        "unique_id": "192c4db2f9abec0a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

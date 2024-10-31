@@ -1,0 +1,81 @@
+[
+    {
+        "company": "Intellectt Inc.",
+        "job_title": "GCP Lead Data Engineer",
+        "location": "Newark, NJ, USA",
+        "full_location": {
+            "city": "Newark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Month Contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP cloud platform",
+                "Python",
+                "Pyspark",
+                "SQL",
+                "Data modeling"
+            ],
+            "primary": [
+                "Data ingestion",
+                "Data quality and curation",
+                "Data transformation",
+                "Data reconciliation",
+                "Performance tuning"
+            ],
+            "secondary": [
+                "Kafka",
+                "Shell scripting",
+                "Stored procedures",
+                "Data warehouse",
+                "CICD pipeline"
+            ],
+            "all": [
+                "GCP cloud platform",
+                "Python",
+                "Pyspark",
+                "SQL",
+                "Data modeling",
+                "Data ingestion",
+                "Data quality and curation",
+                "Data transformation",
+                "Data reconciliation",
+                "Performance tuning",
+                "Kafka",
+                "Shell scripting",
+                "Stored procedures",
+                "Data warehouse",
+                "CICD pipeline",
+                "Looker Views",
+                "Models"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Prashant Raj",
+        "email": "prashant@intellectt.com",
+        "jd": "Hi,My name is Prashant Raj and I am a Staffing Specialist at Intellectt Inc. I am reaching out to you on an exciting job opportunity with one of our clients.GCP Lead Data EngineerNewark, NJ6+ Month Contract RoleNEED 15+ Year Candidate NEED PASSPORT NUMBER FOR ALL CANDIDATE TO SUBMIT THE PROFILEJob Description:Should have overall 15+ years with Lead skill Ability to design and develop a high-performance data pipeline framework from scratch Data ingestion across systems.Data quality and curation Data transformation and efficient data storage Data reconciliation, monitoring and controls.Support reporting model and other downstream application needs. Skill in technical design documentation, data modeling and performance tuning applications Lead and manage a team of data engineers, contribute towards code reviews, and guide the team in designing and developing convoluted data pipelines adhering to the defined standards. Be hands on, performs POCs on the open-source licensed tools in the market and share recommendations. Provide technical leadership and contribute to the definition, development, integration, test, documentation and support across multiple platforms (GCP, Python, HANA). Establish a consistent project management framework and develop processes to deliver high quality software, in rapid iterations, for the business partners in multiple geographies. Participate in a team that designs, develops, troubleshoots, and debugs software programs for databases, applications, tools etc. Experience in balancing production platform stability, feature delivery and reduction of technical debt across a broad landscape of technologies.Skill in the following platform, tools and technologies GCP cloud platform GCS, Big Query, Streaming (pubsub), data proc and data flow Python, PYSpark, Kafka, SQL, shell scripting Stored procs Data warehouse, distributed data platforms and data lake Database definition, schema design, Looker Views, Models CICD pipeline.Proven track record in scripting code in Python, PySpark and SQL. Excellent structured thinking skills, with the ability to break down multi-dimensional problems. Ability to navigate ambiguity and work in a fast-moving environment with multiple stakeholders.Good communication skills and ability to coordinate and work with cross functional teams.(1.) To be responsible for providing technical guidance to a team of developers, enhancing their technical capabilities and increasing productivity.(2.) To conduct comprehensive code reviews, establish and oversee quality assurance processes, performance optimization , implementation of best practices and coding standards to ensure successful delivery of complex projects.(3.) To ensure process compliance in the assigned module and participate in technical discussions or review as a technical consultant for feasibility study (technical alternatives, best packages, supporting architecture best practices, technical risks, breakdown into components, estimations).(4.) To collaborate with stakeholders to define project scope, objectives, deliverables and accordingly prepare and submit status reports for minimizing exposure and closure of escalations.",
+        "source": "Email",
+        "date_posted": "2024-10-24 13:56:09-05:00",
+        "unique_id": "192c003281ddaaf3",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "company": "ITECS",
+        "job_title": "Full-Stack Developer (GenAI)",
+        "location": "Los Angeles, CA, USA",
+        "full_location": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "LangChain",
+                "FastAPI",
+                "MongoDB",
+                "Postgres"
+            ],
+            "primary": [
+                "vector databases",
+                "GenAI libraries",
+                "RAG framework",
+                "Hugging Face",
+                "OpenAI",
+                "Langgraph",
+                "cloud platforms",
+                "AWS"
+            ],
+            "secondary": [
+                "Milvus",
+                "prompt engineering",
+                "ReactJS",
+                "Next.js",
+                "NodeJS",
+                "scikit-learn",
+                "TensorFlow",
+                "PyTorch",
+                "UI/UX design principles",
+                "RESTful APIs",
+                "API optimization",
+                "performance optimization",
+                "Docker",
+                "Kubernetes"
+            ],
+            "all": [
+                "Python",
+                "LangChain",
+                "FastAPI",
+                "MongoDB",
+                "Postgres",
+                "vector databases",
+                "GenAI libraries",
+                "RAG framework",
+                "Hugging Face",
+                "OpenAI",
+                "Langgraph",
+                "cloud platforms",
+                "AWS",
+                "Milvus",
+                "prompt engineering",
+                "ReactJS",
+                "Next.js",
+                "NodeJS",
+                "scikit-learn",
+                "TensorFlow",
+                "PyTorch",
+                "UI/UX design principles",
+                "RESTful APIs",
+                "API optimization",
+                "performance optimization",
+                "Docker",
+                "Kubernetes"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "SAPNA",
+        "email": "sapna@itecsus.com",
+        "jd": "From: SAPNA, ITECS sapna@itecsus.com Reply to: sapna@itecsus.com Full-Stack Developer (GenAI) Location: Los Angeles, CA/Dallas, TXMandatory Qualifications: \u2022 Python experience \u2022 Expertise with LangChain, FastAPI \u2022 Database integration (MongoDB/Postgres) \u2022 Experience with vector databases and GenAI libraries (RAG framework, Hugging Face, OpenAI) \u2022 Understanding of Langgraph \u2022 Experience with clouds platforms (AWS) Desired Qualifications: \u2022 Experience with Milvus \u2022 Prompt engineering \u2022 ReactJS and Next.js \u2022 NodeJS \u2022 Familiarity with data science libraries (scikit-learn, TensorFlow, PyTorch) \u2022 Understanding of UI/UX design principles \u2022 Experience with RESTful APIs, and API optimization \u2022 Knowledge of performance optimization for both AI models and front-end systems Additional Qualifications: \u2022 Knowledge of deploying AI models in production environments \u2022 Containerization and orchestration tools (Docker, Kubernetes)",
+        "source": "Email",
+        "date_posted": "2024-10-28 03:16:50-05:00",
+        "unique_id": "192d2530ea251f2c",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

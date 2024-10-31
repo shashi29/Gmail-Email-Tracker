@@ -1,0 +1,61 @@
+[
+    {
+        "company": "RCI",
+        "job_title": "SQL Server DBA",
+        "location": "Columbus, OH, USA",
+        "full_location": {
+            "city": "Columbus",
+            "state": "OH",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "9+ years",
+            "degree_required": "4 year college degree or equivalent technical study",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "Database Management"
+            ],
+            "primary": [
+                "Performance Tuning",
+                "Capacity Planning",
+                "Database Design"
+            ],
+            "secondary": [
+                "SQL Server DBA certification"
+            ],
+            "all": [
+                "SQL Server",
+                "Database Management",
+                "Performance Tuning",
+                "Capacity Planning",
+                "Database Design",
+                "SQL Server DBA certification"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "AZAD",
+        "email": "azad@rconsultinginc.com",
+        "jd": "From: AZAD, RCI azad@rconsultinginc.com Reply to: azad@rconsultinginc.com Title : SQL Server DBALocation : Columbus Ohio - RemoteDuration : 6+ MonthYears of Relevant Experience:9+ years\u2019 experiencePreferred Education:4 year college degree or equivalent technical study Job Description:The SQL Server DBA will be responsible for managing Microsoft SQL Server Database environments including on the SQL Server databases virtual machine (VM) servers. They will ensure best practices in database planning, design, configuration, performance and capacity planning and growth ensuring our SQL databases offer the highest reliability and performance possible. They will work with the DBA ITM1 to ensure that team goals and metrics are met. Mandatory skillsSeeking an experienced SQL Server DBA with managing the MS SQL Server environments including the DB VM servers.Certifications or Desired skills if anySQL Server DBA certification is preferred",
+        "source": "Email",
+        "date_posted": "2024-10-14 12:30:46-05:00",
+        "unique_id": "1928c63a785adfee",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

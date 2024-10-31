@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Veridian",
+        "job_title": "Data Engineer",
+        "location": "Warren, NJ, USA",
+        "full_location": {
+            "city": "Warren",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "2-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spark",
+                "Scala",
+                "MongoDB",
+                "PostgreSQL",
+                "AWS",
+                "Apache Kafka",
+                "Java"
+            ],
+            "primary": [
+                "Git",
+                "GitLab",
+                "Agile"
+            ],
+            "secondary": [],
+            "all": [
+                "Spark",
+                "Scala",
+                "MongoDB",
+                "PostgreSQL",
+                "AWS",
+                "Apache Kafka",
+                "Java",
+                "Git",
+                "GitLab",
+                "Agile"
+            ],
+            "with_experience": [
+                "Java (5 years)",
+                "AWS (2 years)",
+                "Apache Kafka (2 years)",
+                "MongoDB (2 years)",
+                "PostgreSQL (2 years)",
+                "Spark (2 years)",
+                "Scala (2 years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Madhavi",
+        "email": "madhavi@veridiants.com",
+        "jd": "Data Engineer will be responsible for the implementation configuration maintenance and performance of critical systems to ensure the availability and consistent performance of our corporate applications This is a handson position requiring solid technical skills as well as excellent interpersonal and communication skillsThe successful candidate will be responsible for the development and successful operation with Here are the skills we are looking for a Data Engineer candidate SparkScala 2 yearsMongoDB 2 yearsPostgreSQL or any relational database experience 2 yearsAWS services like Lambda SNS S3 Batch Jobs Step Functions EC2 ECR etc 2 yearsApache Kafka 2 yearsJava 5 yearsGit GitLab preferredExperience working in an Agile frameworkteam",
+        "source": "Email",
+        "date_posted": "2024-10-17 12:12:53-05:00",
+        "unique_id": "1929c22629e3078e",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

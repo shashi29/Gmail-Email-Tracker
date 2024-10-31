@@ -1,0 +1,75 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "ETL Data Engineer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Informatica Intelligent Cloud Services (IICS)",
+                "Google BigQuery",
+                "Service Reliability Engineering (SRE)"
+            ],
+            "primary": [
+                "ETL",
+                "Data Warehouse",
+                "Data Lake",
+                "Database Design",
+                "Integration Processes"
+            ],
+            "secondary": [
+                "Performance Tuning",
+                "Quality Assurance (QA)",
+                "Production Support",
+                "Data Mapping",
+                "Data Traceability"
+            ],
+            "all": [
+                "Informatica Intelligent Cloud Services (IICS)",
+                "Google BigQuery",
+                "Service Reliability Engineering (SRE)",
+                "ETL",
+                "Data Warehouse",
+                "Data Lake",
+                "Database Design",
+                "Integration Processes",
+                "Performance Tuning",
+                "Quality Assurance (QA)",
+                "Production Support",
+                "Data Mapping",
+                "Data Traceability"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Venkat Gayam",
+        "email": "venkat.g@itechus.net",
+        "jd": "Greetings from iTech US Inc.! We have an urgent requirement for you and the details are as follows\u2026 Job Title: ETL Data Engineer Location: Atlanta GA (Day1 onsite) Duration: 6+ Months (Implementation/Prime Vendor Partner: TCS) Job Details: Need Strong profile on ETL Data Engineer with 8+yrs IT exp. Job Description: ETL Engineer performs design, development and implementation of integration processes for both the Enterprise Data lake, Data Warehouse and Applications Analyzes requirements and existing resources to create efficient database and integration designs that meet company IT standards. Works with project and business analyst leads to develop and clarify in-depth technical requirements. Participates in all phases of the integration development lifecycle, including unit testing, quality assurance (QA) and ongoing support. Helps with Production support as needed Essential Skills: Four or more years\u2019 experience with Informatica Intelligent Cloud Services (IICS) Two or more years of Google BigQuery (For the 1st fulfilment this is a must) Experience in Service Reliability Engineering (SRE) with support hands on knowledge (Some level of Application support experience) Should have at least total 10+Years of experience Desirable Skills: The Data Engineer will analyze, design, develop, performance tuning, test their code as well as others code and support initiatives to build an enterprise integration framework while providing inputs for improving standards for data mapping, integration, and data traceability across the NAPA business functions.",
+        "source": "Email",
+        "date_posted": "2024-10-29 13:52:29-05:00",
+        "unique_id": "192d9bf51d0c3a78",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

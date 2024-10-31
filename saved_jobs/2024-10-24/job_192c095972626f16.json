@@ -1,0 +1,91 @@
+[
+    {
+        "company": "sibitalent.com",
+        "job_title": "AI Data Engineer",
+        "location": "Boca Raton, FL, USA",
+        "full_location": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Python",
+                "SQL",
+                "NoSQL",
+                "AI ETL data pipelines"
+            ],
+            "primary": [
+                "Spring Boot",
+                "Spring AI framework",
+                "Azure AI Service",
+                "Elasticsearch",
+                "Neo4J",
+                "RAG retrieval methods",
+                "data structures",
+                "algorithms",
+                "software design principles",
+                "testing automation",
+                "JUnit",
+                "Mockito",
+                "Postman",
+                "SOAP UI"
+            ],
+            "secondary": [],
+            "all": [
+                "Java",
+                "Python",
+                "SQL",
+                "NoSQL",
+                "AI ETL data pipelines",
+                "Spring Boot",
+                "Spring AI framework",
+                "Azure AI Service",
+                "Elasticsearch",
+                "Neo4J",
+                "RAG retrieval methods",
+                "data structures",
+                "algorithms",
+                "software design principles",
+                "testing automation",
+                "JUnit",
+                "Mockito",
+                "Postman",
+                "SOAP UI"
+            ],
+            "with_experience": [
+                "Java (5+ years)",
+                "Python (5+ years)",
+                "SQL (5+ years)",
+                "NoSQL (5+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid",
+            "remote"
+        ],
+        "contact_person": "Gaurav Nain",
+        "email": "g.nain@sibitalent.com",
+        "jd": "From: Gaurav Nain, sibitalent.com g.nain@sibitalent.com Reply to: g.nain@sibitalent.com Job Title: AI Data EngineerLocation: Boca Raton, FL (hybrid preferred, will consider Remote)Phone + Skype Job Description:\u2022 5+ years of Java (preferred) or Python, with a focus on AI and data engineering projects. \u2022 Prefer experience with Java (11+) and Spring Boot 3+ and Spring AI framework \u2022 Experience in designing and working with SQL (SQL Server, MySQL) & NoSQL Databases (Mongo DB, Elasticsearch). \u2022 Experience in building vector databases (Azure AI Service, Elasticsearch, Neo4J) \u2022 Experience with RAG retrieval methods and best practices. \u2022 Experience in designing and implementing AI ETL data pipelines \u2022 Strong understanding of data structures, algorithms, and software design principles. \u2022 Expertise with developing testing automation including unit and integration testing using frameworks and tools such as JUnit, Mockito and Postman, SOAP UI",
+        "source": "Email",
+        "date_posted": "2024-10-24 16:36:11-05:00",
+        "unique_id": "192c095972626f16",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "company": "resource-logistics inc.",
+        "job_title": "AWS Solution Architect with Iac, Cloud Native, Terraform experience",
+        "location": "Berkeley Heights, NJ, USA",
+        "full_location": {
+            "city": "Berkeley Heights",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Bachelor's degree in Information Science / Information Technology, Computer Science, Engineering, Mathematics, Physics, MCA, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "$68/hr. on C2C"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Infrastructure as Code (IaC)",
+                "Terraform",
+                "Cloud Native",
+                "Ansible"
+            ],
+            "primary": [
+                "Configuration Management",
+                "Containers (EKS or ECS)",
+                "AWS CloudFormation",
+                "AWS Compute (EC2)",
+                "AWS Storage",
+                "Backup & DR",
+                "Monitoring",
+                "Python",
+                "Node.js",
+                "DevOps scripting"
+            ],
+            "secondary": [
+                "CI/CD tools (Jenkins, Team City)",
+                "Chef",
+                "Puppet",
+                "Kubernetes",
+                "Agile delivery framework (Scrum)"
+            ],
+            "all": [
+                "AWS",
+                "Infrastructure as Code (IaC)",
+                "Terraform",
+                "Cloud Native",
+                "Ansible",
+                "Configuration Management",
+                "Containers (EKS or ECS)",
+                "AWS CloudFormation",
+                "AWS Compute (EC2)",
+                "AWS Storage",
+                "Backup & DR",
+                "Monitoring",
+                "Python",
+                "Node.js",
+                "DevOps scripting",
+                "CI/CD tools (Jenkins, Team City)",
+                "Chef",
+                "Puppet",
+                "Kubernetes",
+                "Agile delivery framework (Scrum)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Jasmine",
+        "email": "jasmine.kaur@resource-logistics.com",
+        "jd": "Hi,Please have a look on below mentioned detailed job description and let me know if you\u2019ve any candidature: AWS Solution Architect with Iac, Cloud Native, Terraform experienceBerkeley heights, NJ (onsite role)Rate $68/hr. on C2CExperience:Total Years of experience: 15+ yearsRelevant experience: 5+ yearsMust have strong experience with Iac, Cloud Native, Terraform , Ansible, configuration management, containers (EKS or ECS etc.) and Strong in InfrastructureDescription:AWS Cloud Capability Delivery Unit is looking for experienced customer-focused AWS Cloud Consultant/Engineer with technical depth and architecture skills. In this role, he/she will be responsible for managing and developing the AWS cloud platform. This includes working with the development team to deploy applications, managing and scaling the AWS infrastructure, and ensuring high availability of the platform. The engineer will also work closely with the operations team to troubleshoot and resolve issues with the platform.Specifically, you will be part of customer engaging team of technical PMs and engineers responsible for implementing new custom deployment pipelines and execute POCs and pilot migration projects with modernized approach. Ideally candidates with exposure in Global markets across US, UK, Continental Europe, APAC including Indian market will be preferred.o Position AWS Cloud Engineer/Consultanto Experience - A minimum of 9 12 years hands-on experience in infrastructure delivery, Designing and implementing solutions with proficiency in automation and devOps tools.Roles & Responsibilities: Automate solutions for repeatable problems. Work with clients to transform manual processes and deployments into DevOps automated pipelines using AWS native services. Develop test plan and test cases to demonstrate application/database readiness post migration. Work closely with application teams to ensure business functionality and SLAs are met. Develop innovative solutions to complex business and technology problems. Keeping up to date with market trends and competitive insights and maintain technical skills and knowledge. Advocate new features and solutions to bring operational efficiency and cost reduction. Key focus on Infrastructure as code (IaC) and automation Work with development team to deploy applications to AWS Manage and scale AWS infrastructure Ensure high availability of AWS platform Troubleshoot and resolve issues with AWS platform and applications Identify, troubleshoot and implement solutions to performance, scaling and availability issues across the platform Work with security team to ensure compliance standards are met Assist in provisioning AWS resources - Assist DevMandatory Skills: Bachelor s degree in Information Science / Information Technology, Computer Science, Engineering, Mathematics, Physics, MCA, or a related field. Subject matter level expertise on AWS DevOps, AWS CloudFormation. AWS Compute (EC2) & Storage, Backup & DR, Monitoring Experience in any one programming languages like Python, Node.js etc. Infrastructure automation through DevOps scripting (E.g., shell, PowerShell, Ansible, Terraform, CloudFormation etc) Hands-on experience of automating the build and deployment of AWS resources, using Terraform, at both the platform level (e.g. Landing Zone) and across the compute, storage, network data and security services. CloudFormation deep expertise (cfn hup, cfn init, custom resources, stack sets etc.) From a development background, the individual will have experience of the Software Delivery Life Cycle (SDLC), preferably with hands-on experience working with Python, and be familiar with an agile delivery framework (e.g. Scrum) Strong hands-on experience on CI/CD tools like Jenkins, Team city etc. Configuration management using Ansible and/or Chef/Puppet. Strong verbal and written communication skills, with the ability to work effectively across internal and external organizations. Implementing experience with primary AWS services (EC2, ELB, ECS, RDS, Lambda, API Gateway, Route53 & S3) Experience in Kubernetes",
+        "source": "Email",
+        "date_posted": "2024-10-15 11:39:59-05:00",
+        "unique_id": "192912d8d4256f6a",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

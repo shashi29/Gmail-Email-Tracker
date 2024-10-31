@@ -1,0 +1,111 @@
+[
+    {
+        "company": "Stellar Consulting Solutions",
+        "job_title": "AWS Cloud Engineer",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS EC2",
+                "AWS S3",
+                "AWS RDS",
+                "AWS CloudFront",
+                "AWS EKS",
+                "AWS ECS",
+                "Docker",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Java",
+                "Python",
+                "SQL",
+                "Node",
+                "Go",
+                "Scala",
+                "Ansible",
+                "Artifactory",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "CloudWatch",
+                "Prometheus",
+                "Datadog",
+                "Splunk",
+                "CloudFormation",
+                "Terraform"
+            ],
+            "secondary": [
+                "Open Source RDBMS",
+                "NoSQL databases",
+                "Infrastructure-as-Code (IaC)",
+                "Cost management",
+                "Resiliency tests",
+                "Chaos engineering"
+            ],
+            "all": [
+                "AWS EC2",
+                "AWS S3",
+                "AWS RDS",
+                "AWS CloudFront",
+                "AWS EKS",
+                "AWS ECS",
+                "Docker",
+                "Kubernetes",
+                "Java",
+                "Python",
+                "SQL",
+                "Node",
+                "Go",
+                "Scala",
+                "Ansible",
+                "Artifactory",
+                "GitHub",
+                "Jenkins",
+                "Maven",
+                "Sonar Qube",
+                "CloudWatch",
+                "Prometheus",
+                "Datadog",
+                "Splunk",
+                "CloudFormation",
+                "Terraform",
+                "Open Source RDBMS",
+                "NoSQL databases",
+                "Infrastructure-as-Code (IaC)",
+                "Cost management",
+                "Resiliency tests",
+                "Chaos engineering"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Harjeet Singh (Harry)",
+        "email": "harjeet@stellarconsulting.com",
+        "jd": "From: Harjeet Singh (Harry), Stellar Consulting Solutions harjeet@stellarconsulting.com Reply to: harjeet@stellarconsulting.com Roles and responsibilities\u2022 Drive, support, and deliver on a strategy to build broad use of Amazon's utility computing web services (e.g., AWS EC2, AWS S3, AWS RDS, AWS CloudFront, AWS EPS, CloudWatch, AWS EKS, AWS ECS)\u2022 \ufeff\ufeffDesign resilient, secure, and high performing platforms in Public Cloud using JPMC best practices\u2022 \ufeff\ufeffImprove reliability, quality, and time-to-market of our suite of software solutions moving to public cloud\u2022 \ufeff\ufeffMeasure and optimize system performance, with an eye toward pushing our capabilities forward, getting ahead of customer needs, and innovating to continually improve\u2022 \ufeff\ufeffProvide primary operational support and engineering for the public cloud platform and debug and optimize systems and automate routine tasks\u2022 \ufeff\ufeffCollaborate with a cross-functional team to develop real-world solutions and positive user experiences afravery interaction.\u2022 \ufeff\ufeffDrive work streams to ensure Applications meet strict non-functional requirements for Public Cloud On-boarding\u2022 \ufeff\ufeffDrive Cost management through the effective design and optimization of public cloud platforms and technologies\u2022 \ufeff\ufeffOrganize and run game days, resiliency tests and chaos engineering exercises\u2022 \ufeff\ufeffUtilize programming languages like Java, Python, SQL, Node, Go, and Scala, Open Source RDBMS and NoSQL databases, Container Orchestration services including Docker and Kubernetes, and a variety of AWS tools and servicesRequired qualifications, capabilities, and skills\u2022 Formal training or certification on software engineering concepts and 5+ years applied experience\u2022 8+ years in a technical development or lead role\u2022 Candidates must be certified with AWS Solutions Architect Associate / Professional\u2022 A strong understanding of business technology drivers and their impact on architecture design, performance and monitoring, best practices\u2022 Design and building web environments on AWS, which includes working with services like EC2, ELB, RDS, and S3\u2022 Experience using DevOps tools in a cloud environment, such as Ansible, Artifactory, Docker, GitHub, Jenkins, Kubernetes, Maven, and Sonar Qube\u2022 Experience using monitoring solutions like CloudWatch, Prometheus, Datadog, Splunk\u2022 Knowledge of writing Infrastructure-as-Code (laC), using tools like CloudFormation or Terraform\u2022 Experience with high volume, mission critical applications and their interdependencies with other applications and databases\u2022 Experience with high volume, mission critical applications, and building upon messaging and or event-driven architectures.\u2022 Keen understanding of financial and budget management, control and optimization of Public Cloud expenses Regards, Harjeet Singh (Harry)Sr. Technical Recruiter at Stellar Consulting Solutions, LLCEmail: harjeet@stellarconsulting.com",
+        "source": "Email",
+        "date_posted": "2024-10-14 16:23:52-05:00",
+        "unique_id": "1928d0b1e60f4c92",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

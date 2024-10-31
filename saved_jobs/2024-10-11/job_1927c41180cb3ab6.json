@@ -1,0 +1,83 @@
+[
+    {
+        "company": "GAC Solutions",
+        "job_title": "Senior Azure Data Engineer",
+        "location": "Jersey City, NJ, USA",
+        "full_location": {
+            "city": "Jersey City",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "10+ years",
+            "degree_required": "Bachelor's Degree (required) or Master's Degree (preferred) in Computer Science, Information Systems, or a related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6-12 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure",
+                "Data Engineering",
+                "Python",
+                "SQL",
+                "DevSecOps"
+            ],
+            "primary": [
+                "P&C Insurance",
+                "Data Management Capabilities",
+                "MLOps",
+                "CI/CD",
+                "Databricks"
+            ],
+            "secondary": [
+                "Kafka",
+                "Event driven messaging applications",
+                "Machine Learning",
+                "AI",
+                "Infrastructure as Code"
+            ],
+            "all": [
+                "Azure",
+                "Data Engineering",
+                "Python",
+                "SQL",
+                "DevSecOps",
+                "P&C Insurance",
+                "Data Management Capabilities",
+                "MLOps",
+                "CI/CD",
+                "Databricks",
+                "Kafka",
+                "Event driven messaging applications",
+                "Machine Learning",
+                "AI",
+                "Infrastructure as Code"
+            ],
+            "with_experience": [
+                "Azure (5+ years)",
+                "Data Engineering (5+ years)",
+                "MLOps Tools (5+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Justin Davis",
+        "email": "justin@gacsol.com",
+        "jd": "From: Justin Davis, GAC Solutions justin@gacsol.com Reply to: justin@gacsol.com Hi, I hope you're doing well! Must have experience in P&C (Property and Casualty Insurance)Job Description: Senior Azure Data engineer w/ P&C InsuranceLocation: Jersey City, NJ - Onsite6-12 months Job Description:Bachelor's Degree (required) or Master's Degree (preferred) in Computer Science, Information Systems, or a related field10+ years of overall technology experience strategizing, engineering, configuring and implementing software solutions and services5+ years in the data engineering space with deep experience delivering enhanced analytic and data access capabilitiesDomain knowledge of the Insurance Industry (preferably P&C) and value chain as well as the technologies and solutions relevant to this industry is desiredHands-on knowledge of current technology standards/trends coupled with a desire to continually expand personal knowledge/skillsAbility and interest in mentoring technical staff and raising our collective technical competenciesAbility to establish and maintain relationships with other business and technology leadersStrong written and verbal communication skills coupled with the ability to tailor communication to all levels of an organizationOpen-minded with proven ability to work collaboratively with others in team environmentStrong understanding of IT environments, technologies in relation to business needsDemonstrate strong ability to work in a team environment and foster cross-team collaborationExperience executing technology modernization initiatives including migration to cloud native and API StrategiesStrong grasp of value creation and business capability modelsDeep experience architecting data and analytics capabilities within a complex multi-national organization that meet requirements for availability, resiliency, stability, scalability, and security.Current experience with Azure, APIs, accelerators, DevSecOps, Infrastructure as Code, Containers and Event driven messaging applications (Kafka, MQ) Experience in Azure Cloud technologies like ADLS, ADF, Databricks, Synapse Analytics is a huge plusProficient use of tools, techniques, and manipulation including programming languages (Python, PySpark, SQL etc.), and an understanding of data engineering practicesExperience implementing, developing and integrating Data Management Capabilities (Meta Data, MDM, Reference Data)Deep understand on the advanced analytics techniques using ML and AIExperience with the MLOps Tools like mlFlow, DVC (data version control) and other MLOps frameworksExperience in developing and maintaining CI/CD pipelines for automated deployment of ML models using Azure Devops and databricks webhooks. Experience in designing & managing data pipeline using ADF, Databricks and delta lake to ensure reliable data flow for model training and scheduling automated retraining. Experience in implementing model monitoring solution to track ML performance, detect data drift and setting up alerts for proactive maintenance and troubleshooting.",
+        "source": "Email",
+        "date_posted": "2024-10-11 10:09:08-05:00",
+        "unique_id": "1927c41180cb3ab6",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

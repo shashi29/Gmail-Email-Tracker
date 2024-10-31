@@ -1,0 +1,67 @@
+[
+    {
+        "company": "Intellicept",
+        "job_title": "Java NodeJS Developer",
+        "location": "Woodland Hills, CA, USA",
+        "full_location": {
+            "city": "Woodland Hills",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Node.js",
+                "JavaScript"
+            ],
+            "primary": [
+                "HTML",
+                "CSS"
+            ],
+            "secondary": [],
+            "all": [
+                "Node.js",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "asynchronous programming",
+                "server-side templating",
+                "CSS preprocessors",
+                "front-end technologies",
+                "user authentication",
+                "authorization",
+                "data integration",
+                "scalable application design",
+                "mobile vs. desktop optimization",
+                "automated testing",
+                "unit tests",
+                "Git"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Asim Ahamed",
+        "email": "aahamed@intellicept.com",
+        "jd": "From: Asim Ahamed, Intellicept aahamed@intellicept.com Reply to: aahamed@intellicept.com Java NodeJS DeveloperLocation: WOODLAND HILLS / Hybrid JOB DESCRIPTION:Primary Skill: Node JS, Java scriptSecondary Skill: Java script, HTML, CSS Detailed Skills requirement? Strong proficiency with Node.js & JavaScript.? Understanding the nature of asynchronous programming and its quirks and workarounds.? Good understanding of server-side templating languages & CSS preprocessors.? Basic understanding of front-end technologies, such as HTML5, and CSS3.? User authentication and authorization between multiple systems, servers, and environments.? Integration of multiple data sources and databases into one system.? Understanding fundamental design principles behind a scalable application.? Understanding differences between multiple delivery platforms, such as mobile vs. desktop, and optimizing output to match the specific platform.? Implementing automated testing platforms and unit tests.? Proficient understanding of code versioning tools, such as Git.",
+        "source": "Email",
+        "date_posted": "2024-10-17 14:34:45-05:00",
+        "unique_id": "1929c49b23d24f37",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "company": "ADP",
+        "job_title": "Java Developer",
+        "location": "Parsippany, NJ, USA",
+        "full_location": {
+            "city": "Parsippany",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java Web Application Development",
+                "Spring",
+                "Hibernate",
+                "RESTful APIs",
+                "Microservices",
+                "SQL"
+            ],
+            "primary": [
+                "JSON",
+                "Performance tuning",
+                "Tomcat Apache",
+                "Linux",
+                "MongoDB",
+                "GIT",
+                "Jenkins",
+                "Docker",
+                "BladeLogic",
+                "TDD",
+                "JUnit",
+                "Cucumber",
+                "Agile Development Methodology",
+                "Angular",
+                "React"
+            ],
+            "secondary": [
+                "Dojo"
+            ],
+            "all": [
+                "Java Web Application Development",
+                "Spring",
+                "Hibernate",
+                "RESTful APIs",
+                "Microservices",
+                "SQL",
+                "JSON",
+                "Performance tuning",
+                "Tomcat Apache",
+                "Linux",
+                "MongoDB",
+                "GIT",
+                "Jenkins",
+                "Docker",
+                "BladeLogic",
+                "TDD",
+                "JUnit",
+                "Cucumber",
+                "Agile Development Methodology",
+                "Angular",
+                "React",
+                "Dojo"
+            ],
+            "with_experience": [
+                "Java Web Application Development",
+                "Spring",
+                "Hibernate",
+                "RESTful APIs",
+                "Microservices",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Amit Kumar",
+        "email": "amit.kumar@largeton.us",
+        "jd": "From: Amit Kumar, Largeton INC amit.kumar@largeton.us Reply to: amit.kumar@largeton.us Hey,I hope you are doing good . Job Description Title: Java developerLocation: Parsippany, NJ (Hybrid),local CLient: ADPDuration: 12+monthsneed Ex ADP Linkedin must Key Responsibilities:Develop and enhance programs and data structures that meet business objectives.Participate in all phases of the Software Development Life Cycle (SDLC), including planning, construction, testing, and reviews.Collaborate with cross-functional teams to design, develop, test, and refine software solutions.Troubleshoot and resolve application issues; package, configure, and deploy software as needed.Work closely with Product Managers, Architects, and Analysts to review requirements and design specifications.Contribute to project planning, release management, and IT strategy discussions.Research and introduce new technologies and methodologies to improve processes.Required Skills & Qualifications:Expertise in Java Web Application Development with frameworks like Spring and Hibernate.Strong experience with RESTful APIs, Microservices, and JSON.Backend development experience, including SQL and performance tuning.Familiarity with Tomcat Apache, Linux, and MongoDB.Experience with GIT, Jenkins, Docker, and BladeLogic is a plus.Knowledge of TDD, Junit, and Cucumber for automated testing and continuous integration.Exposure to Agile Development Methodology.Frontend experience with Angular, React, and Hibernate is required.Familiarity with Dojo is a bonus. Regards:Amit Kumar | Technical RecruiterLargeton INC. | Herndon, VA 20171amit.kumar@largeton.us",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:08:11-05:00",
+        "unique_id": "192b02d46b326f96",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

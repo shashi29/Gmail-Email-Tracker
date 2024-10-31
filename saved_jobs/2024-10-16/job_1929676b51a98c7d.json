@@ -1,0 +1,84 @@
+[
+    {
+        "company": "Paramount Software Solutions",
+        "job_title": "Data Architect",
+        "location": "Louisville, CO, USA",
+        "full_location": {
+            "city": "Louisville",
+            "state": "CO",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Senior-level, 10-15 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months contract",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Data Modeling tools",
+                "Oracle DBA",
+                "Oracle database architecture",
+                "PostgreSQL",
+                "SQL"
+            ],
+            "primary": [
+                "Performance tuning",
+                "Query optimization",
+                "Workload management",
+                "PL/SQL",
+                "RMAN",
+                "Data Guard"
+            ],
+            "secondary": [
+                "PG_DUMP",
+                "PG_RESTORE",
+                "WAL archiving",
+                "Cloud-based database solutions",
+                "Linux",
+                "Windows",
+                "Oracle security features"
+            ],
+            "all": [
+                "Data Modeling tools",
+                "Oracle DBA",
+                "Oracle database architecture",
+                "PostgreSQL",
+                "SQL",
+                "Performance tuning",
+                "Query optimization",
+                "Workload management",
+                "PL/SQL",
+                "RMAN",
+                "Data Guard",
+                "PG_DUMP",
+                "PG_RESTORE",
+                "WAL archiving",
+                "Cloud-based database solutions",
+                "Linux",
+                "Windows",
+                "Oracle security features"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ryan",
+        "email": "rajkumar@paramountsoft.net",
+        "jd": "From: Ryan, Paramount Software Solutions rajkumar@paramountsoft.net Reply to: rajkumar@paramountsoft.net Position: Data Architect Location: Louisville, CO (Onsite) Duration: 12+ months contract Experience level: senior level, 10- 15 years of experience in Oracle DBA Must Have: Proficiency in using Data Modeling tools (e.g., Enterprise Architect, Oracle SQL Developer, Data Modeler, pgmodeler) to create logical and physical data models. Expertise in translating logical models into physical database designs for both oracle and PostgreSQL, focusing on performance, scalability, and security. Proficiency in oracle database architecture and administration, including installation, configuration, and upgrades. Experience in indexing strategies, partitioning, and data distribution for optimal performance. Strong skills in performance tuning, query optimization, and workload management for both oracle and PostgreSQL databases. Proficient in writing and optimizing complex SQL queries and PL/SQL code. Knowledge of oracle features like tablespaces, partitions, and materialized views. Experience with RMAN, and Data Guard for Backup and Recovery. Good to Have: Experience with PG_DUMP, PG_RESTORE, and WAL archiving for PostgreSQL. Experience with cloud-based database solutions, particularly in Oracle Cloud and PostgreSQL on platforms like AWS, Azure, or Google Cloud. Good understanding of linux and windows platforms. Familiarity with oracle security features and best practices. Proficient in PL/SQL for writing stored procedures, triggers, and scripts.",
+        "source": "Email",
+        "date_posted": "2024-10-16 12:18:02-05:00",
+        "unique_id": "1929676b51a98c7d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

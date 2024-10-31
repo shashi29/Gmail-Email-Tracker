@@ -1,0 +1,58 @@
+[
+    {
+        "company": "Brillius",
+        "job_title": "Data Engineer",
+        "location": "Phoenix, AZ, USA",
+        "full_location": {
+            "city": "Phoenix",
+            "state": "AZ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "3+ years",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Spark",
+                "Scala",
+                "SQL",
+                "Shell Scripting",
+                "Python",
+                "Ab Initio"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "Spark",
+                "Scala",
+                "SQL",
+                "Shell Scripting",
+                "Python",
+                "Ab Initio"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Prashanth",
+        "email": "prashanthn@brillius.com",
+        "jd": "From: Prashanth, Brillius prashanthn@brillius.com Reply to: prashanthn@brillius.com Job Title: Data Engineer - Ex: Amex MustLocation: Phoenix, AZ - Onsite/Hybrid roileJob Type:Contract Job Summary: We are seeking a skilled Data Engineer to join our team and work on data transformation, ETL processes, and data pipeline design. The ideal candidate will have expertise in Spark, Scala, SQL, Shell scripting, Python, and Ab Initio, as well as strong analytical skills to work on high-impact projects within our data team. Key Responsibilities:Design, develop, and maintain large-scale data processing pipelines using Spark, Scala, and Ab Initio.Develop optimized and robust ETL workflows to handle structured and unstructured data.Perform data analysis, profiling, and quality checks using SQL and Python to ensure data integrity.Collaborate with cross-functional teams to understand data requirements, define data transformation logic, and implement solutions.Write and maintain shell scripts to automate routine data processing and deployment tasks.Troubleshoot and optimize ETL jobs to enhance performance and scalability.Document data processes, workflows, and system architecture for stakeholders.Required Skills:Spark: Proficient in data processing using Spark for large datasets.Scala: Hands-on experience in developing data transformations and pipelines in Scala.SQL: Advanced skills in SQL for data querying, profiling, and quality checks.Shell Scripting: Strong knowledge of Shell scripting for job automation and deployment tasks.Python: Experience with data manipulation and scripting using Python for additional processing needs.Ab Initio: Experience in building and managing ETL workflows in Ab Initio.Qualifications:Bachelor\u2019s degree in Computer Science, Engineering, or a related field.3+ years of experience in data engineering, ETL processes, or similar roles.Proven experience with large-scale data systems, database management, and optimizing data pipelines.Strong problem-solving skills and attention to detail.Excellent communication and teamwork abilities.",
+        "source": "Email",
+        "date_posted": "2024-10-25 13:26:25-05:00",
+        "unique_id": "192c50e2ff0142a1",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

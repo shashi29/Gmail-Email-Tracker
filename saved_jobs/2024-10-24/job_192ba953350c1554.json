@@ -1,0 +1,62 @@
+[
+    {
+        "company": "4 Serve Inc.",
+        "job_title": "SQL DBA",
+        "location": "Lansing, MI, USA",
+        "full_location": {
+            "city": "Lansing",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server 16",
+                "Database administration",
+                "HA solutions",
+                "DR solutions",
+                "Transparent Data Encryption"
+            ],
+            "primary": [
+                "Systems documentation"
+            ],
+            "secondary": [],
+            "all": [
+                "SQL Server 16",
+                "Database administration",
+                "HA solutions",
+                "DR solutions",
+                "Transparent Data Encryption",
+                "Systems documentation"
+            ],
+            "with_experience": [
+                "SQL Server 16 (7+ years)",
+                "HA solutions",
+                "DR solutions",
+                "Transparent Data Encryption"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "shyam",
+        "email": "shyam@4-serveinc.com",
+        "jd": "From: shyam, 4 serve shyam@4-serveinc.com Reply to: shyam@4-serveinc.com SQL DBALocation: Lansing, MI. Candidates MUST be local to the greater Lansing area (commutable distance). Top Skills & Years of experience Required:7+ years of Database administration specifically on SQL Server 16 and upwards.Expertise in HA and DR solutions.Transparent Data Encryption within SQL Server.Over 3+ years of experience creating, updating and maintaining systems documentation.Position Justification The position is responsible for providing Infrastructure DBA support for all SQL Server applications and it is a replacement for a Senior Level DBA leaving theteam. The intention is to fill this position in the gap between the incumbent DBA leaves and the position is backfilled which will take several months. We cannot afford not having a resource for large and complex applications that we support and in that there are several Tier 1 level applications that belong in the Bureau ofLabs, Cancer Registry etc.Position SummaryAs an Senior-level Database Administrator, the resource participates in 24x7 software and hardware support for complex applications in several versions ofSQL Server, with high availability and Disaster Recovery support, following industry and DTMB development standards. Helps develop and/or submit forapproval, plans for installation, patch management maintenance, upgrades and support for the Database systems. . Evaluate impacts of change and new technology, recommend solutions to persistent problems, and serve as Agency Services liaison to external consultants.Individual tasks related to the duty: \u00b7 Follow and enforce database standards, policies & procedures. Research and draft guidelines within the boundaries of current policies and standards.\u00b7 Monitor space allocation across databases. perform adjustments in test and development environments as necessary and as prescribed by predefined standards/guidelines.\u00b7 Calculate disk space requirements for existing and/or new installations of existing business needs \u00b7 Modify DBMS parameters based on capacity changes.\u00b7 Configure and execute database integrity checks.\u00b7 Monitor for database integrity checks\u00b7 Install database base management software for development and test environments.\u00b7 Install database patches and service packs for development and test environments. \u00b7 Monitor and support clustered database environments. \u00b7 Monitor and support database replication and backup environments.\u00b7 Implement the strategy to release unused space or repair fragmentation in test and development environments.\u00b7 Execute (run) scripts provided by Systems Analysts or Database Architect/Designer for creating and modifying database objects (tables, views, constraints, indexes, etc.)\u00b7 Monitor database back-ups to ensure recoverability. Troubleshoot backup errors.\u00b7 Monitor database jobs and scheduled processes in development, test and production environments. Participate in troubleshooting. \u00b7 Monitor database environments (using alert logs, trace files, alert mechanisms, and other tools) for issues and problems with database functionality, connectivity, or downtime.\u00b7 Follow standards and guidelines for database space allocation based on best practices and implementation considerations based on business requirements.Skill Description7+ years of Database administration specifically on SQL Server 16 and upwards.Expertise in HA and DR solutions.Transparent Data Encryption within SQL Server.Over 3+ years of experience creating, updating and maintaining systems documentation.",
+        "source": "Email",
+        "date_posted": "2024-10-23 12:37:59-05:00",
+        "unique_id": "192ba953350c1554",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

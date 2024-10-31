@@ -1,0 +1,74 @@
+[
+    {
+        "company": "Nitya Software Solution",
+        "job_title": "Sr Software Engineer",
+        "location": "Metropark, NJ, USA",
+        "full_location": {
+            "city": "Metropark",
+            "state": "NJ",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                ".NET",
+                "Docker",
+                "Gitlab",
+                "Kubernetes"
+            ],
+            "primary": [
+                "Containerization",
+                "CI/CD",
+                "DevOps"
+            ],
+            "secondary": [
+                "Programming",
+                "Build automation",
+                "Jira",
+                "Excellent written and oral communications skills",
+                "Investigating issues"
+            ],
+            "all": [
+                "C#",
+                ".NET",
+                "Docker",
+                "Gitlab",
+                "Kubernetes",
+                "Containerization",
+                "CI/CD",
+                "DevOps",
+                "Programming",
+                "Build automation",
+                "Jira",
+                "Excellent written and oral communications skills",
+                "Investigating issues"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Nitya",
+        "email": "ryan@nityainc.com",
+        "jd": "From: Nitya, Nitya software solution ryan@nityainc.com Reply to: ryan@nityainc.com\n\nSr Software Engineer\nLocation: Metropark, NJ or NYC (Hybrid)\n\nEssentially the candidate must be good in Development and DevOps.\n\nKey skills :\nProgramming (50%) \u2013 C#, .NET\nDevOps, Docker, Gitlab, Kubernetes, Containerization (50%)\n\nJD :\nExperience with programming. Should be able to work on an existing code\nC#, .Net, Docker, Gitlab, Kubernetes, Helm Charts, Containerization\nEnd to end design, development, testing and deployment of an app.\nBuild automation, CI/CD and DevOps.\nA good balance of someone who can independently spearhead implementations and a team member\nMust be good with investigating an issue and responding to the customer\nExcellent written and oral communications skills\nDemonstrate ability to communicate to nontechnical audience on technical issues.\nIn-depth knowledge of programming for diverse operating systems and platforms using development tools\nProficiency with project tracking software, such as Jira\nExperience working as part of a development team",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:36:31-05:00",
+        "unique_id": "192de1b3536e8d1b",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": ".net developer"
+    }
+]

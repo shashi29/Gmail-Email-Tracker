@@ -1,0 +1,66 @@
+[
+    {
+        "company": "KK Software LLC",
+        "job_title": "Cloud Development Engineer",
+        "location": "Dallas, TX, USA",
+        "full_location": {
+            "city": "Dallas",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "C#",
+                "Java",
+                "Python",
+                "Go",
+                "Docker",
+                "Kubernetes",
+                "Azure"
+            ],
+            "primary": [
+                "Azure DevOps",
+                "Terraform",
+                "Cloud Security"
+            ],
+            "secondary": [],
+            "all": [
+                "C#",
+                "Java",
+                "Python",
+                "Go",
+                "Docker",
+                "Kubernetes",
+                "Azure",
+                "Azure DevOps",
+                "Terraform",
+                "Cloud Security"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Shubham Gautam",
+        "email": "shubham.g@kksoftwareassociates.com",
+        "jd": "From: Shubham Gautam, KK Software LLC shubham.g@kksoftwareassociates.com Reply to: shubham.g@kksoftwareassociates.com Hi Folks,Hope my email finds you well!!I Shubham Gautam, a recruitment associates for KK Software LLC. I have some urgent critical client requirements. So kindly do support me with genuine candidature to build a well relationship and business as well. Cloud Development Engineer Location: Dallas TX - Day 1 Onsite Job Description: Cloud Development engineer will be responsible for designing, developing, and deploying cloud-native applications using Microsoft Azure Kubernetes Service (AKS), focusing on building scalable, resilient, and containerized applications within the AKS platform, often requiring expertise in containerization technologies, Kubernetes orchestration, and Azure cloud services. Key responsibilities will include: Application Design and Development: Architecting cloud-native applications leveraging AKS for containerized deployments. Writing clean, maintainable code for microservices using languages like .NET, Java, Python, Go, etc. Integrating with other Azure services like Azure Storage, Azure Cosmos DB, Azure Functions, and Azure API Management. Containerization and Kubernetes: Building Docker images for applications and optimizing container configurations. Defining Kubernetes deployments, services, and ingress controllers to manage application scaling and networking. Utilizing Kubernetes features like Helm charts for application packaging and deployment. CI/CD Pipeline Management: Setting up automated build, test, and deployment pipelines using Azure DevOps or similar tools. Implementing continuous monitoring and alerting to identify potential issues in production. Infrastructure Management: Managing AKS clusters, including scaling, security configurations, and resource optimization. Provisioning and managing Azure network resources for application connectivity. Leveraging Infrastructure as Code (IaC) tools like Terraform to manage cloud infrastructure. Performance Optimization and Troubleshooting: Analyzing application performance metrics and identifying bottlenecks. Debugging issues within Kubernetes deployments and troubleshooting network connectivity. Required Skills: Programming Languages: Proficiency in at least one language like C#, Java, Python, Go. Containerization: Strong understanding of Docker and container orchestration principles. Kubernetes: Extensive knowledge of Kubernetes concepts (pods, deployments, services, ingress controllers). Azure Platform: Familiarity with Azure services like Azure Storage, Azure Cosmos DB, Azure Functions, and Azure Monitor. CI/CD Tools: Experience with Azure DevOps pipelines or similar tools for automated deployments. Cloud Security: Understanding of cloud security best practices and implementation strategies. Thanks & RegardsShubham GautamSr. Technical RecruiterKK Software Associates LLC8751 Collins-Mckinney PKWY, #1302, Mckinney, TX 75070555 Metro Place North, Suite#100, Dublin, OH-43017Email ID- Shubham.g@kksoftwareassociates.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 17:25:00-05:00",
+        "unique_id": "192c5e89b336b427",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "company": "TEK INSPIRATIONS",
+        "job_title": "Sr. Oracle PL SQL Developer",
+        "location": "Houston, TX, USA",
+        "full_location": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12-24 months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "PL/SQL",
+                "Oracle",
+                "XML",
+                "Python",
+                "JSON"
+            ],
+            "primary": [],
+            "secondary": [],
+            "all": [
+                "PL/SQL",
+                "Oracle",
+                "XML",
+                "Python",
+                "JSON"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Arudhi Singh",
+        "email": "arudhi.singh@tekinspirations.com",
+        "jd": "From: ARUDHI SINGH, TEK INSPIRATIONS arudhi.singh@tekinspirations.com Reply to: arudhi.singh@tekinspirations.com HiiHope you are doing great!!!Job Description -Sr. Oracle PL/SQL DeveloperLocation: Downtown Houston, TX (Onsite)Duration: 24 + Month Must Have:Must HAVE LinkedIn profileNeed Local to Houston candidate only ORACLE APPLICATIONS DEVELOPER:This will be a contract duration of 12-24 months and candidates MUST be willing to work ON-SITE Monday-Friday. Client has made it clear they need candidates who have current core development work with PL/SQL. Client will be looking for a candidate who can do the core development on applications and handle packages, procedures, etc. Candidates MUST be able to discuss where they have done Custom Development WITHOUT using Informatica, Cognos, etc.Please ask your proposed candidate :How long has it been since you did PL/SQL development in Oracle? Give me some examples of where you recently did development with PL/SQL ?( She added \u2013 We are NOT interested in candidates that have only use reports or ETL work as part of this work experience).As they support Web-Based front-end applications , Developers submitted to this role need to have either XML, Python or JSON experience.They had provided us previously a Questionnaire they asked we apply to all prospective candidates. Here below is the Questions along with some of the answers expected. Get their true reply and do not coach them on the answers: 1.What are various Oracle database objects?ANSWER: Table, View, Index, etc.2. What is an integrity constraint?ANSWER: The constraint is used to identify wrong data and generates an error , as to validate data accuracy. 3. What is the difference in a Primary Key and a Unique Key?ANSWER:Primary: Can only have one Primary Key and it cannot store null values.Unique: You can have more than one Unique key in a Table, but it can accept Null values. 4. What are Analytical queries? How they are different from aggregate functions?ANSWER:Analytical queries use Analytical functionsAggregate do Group-By 1 row/ groupAnalytical Functions don\u2019t useGroup-By5. Types of Partitions ANSWER:List, Range , Hash 6. What are ref cursors ANSWER :Type of Dynamic cursor used to return multiple rows , I refer to them as \u201cExplicit Cursors\u201d7. What Web Apps Have You Supported?8. Give Example of Business Logic You Created to Invoke Web Applications?9. Give Example of Complex Batch Processes and Job Schedulers to Automate Data Processing Tasks You Created to Support the Web Apps Functionality? 10. Give examples of Performance Tuning you do that Ensures Web Apps run Smoothly? Regards,Arudhi Singh",
+        "source": "Email",
+        "date_posted": "2024-10-17 17:12:28-05:00",
+        "unique_id": "1929d1b4d40fcbeb",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Oracle DBA"
+    }
+]

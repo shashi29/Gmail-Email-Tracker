@@ -1,0 +1,79 @@
+[
+    {
+        "company": "GAC Solutions Inc",
+        "job_title": "Google Cloud Platform Architect",
+        "location": "Seattle, WA, USA",
+        "full_location": {
+            "city": "Seattle",
+            "state": "WA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "7+ years",
+            "degree_required": "Bachelor's or Master's degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "Long term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Google Cloud Platform",
+                "Cloud Architecture Design",
+                "Infrastructure Management",
+                "Security & Compliance",
+                "Technical Leadership"
+            ],
+            "primary": [
+                "Kubernetes",
+                "Docker",
+                "Terraform",
+                "CI/CD pipeline tools",
+                "Scripting (Python, Bash)"
+            ],
+            "secondary": [
+                "Monitoring and logging tools",
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Collaboration"
+            ],
+            "all": [
+                "Google Cloud Platform",
+                "Cloud Architecture Design",
+                "Infrastructure Management",
+                "Security & Compliance",
+                "Technical Leadership",
+                "Kubernetes",
+                "Docker",
+                "Terraform",
+                "CI/CD pipeline tools",
+                "Scripting (Python, Bash)",
+                "Monitoring and logging tools",
+                "Problem-solving",
+                "Analytical skills",
+                "Communication",
+                "Collaboration"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Nanda Kishore Nimmoju",
+        "email": "nanda@gacsol.com",
+        "jd": "From: Nanda Kishore, GAC Solutions Inc nanda@gacsol.com Reply to: nanda@gacsol.com Hi, hope you\u2019re doing good!! This is Nanda from GAC Solutions. regarding a fantastic job opportunity with our preferred client. So, please go through the below job description & let us know your interest. NOTE: Visa independent consultants only Title : Google Cloud Platform ArchitectLocation : Seattle, WA (or) Beaverton, OR \u2013 OnsiteJob type : long term contract The Google Cloud Platform Architect is responsible for designing, implementing, and managing cloud-based infrastructure on Google Cloud Platform (Google Cloud Platform). This role involves leading architectural decisions for the development, deployment, and operation of scalable, high-performance, and secure cloud environments. The architect will collaborate with cross-functional teams, including software developers, operations engineers, and product managers, to ensure that the cloud infrastructure supports the business's technical and operational needs. Highlights\u2022 Builds the platform components including projects, DevOps, CI CD\u2022 Focuses on platform automation tasks\u2022 Identifies performance and cost related tracking and monitoring\u2022 Security and access controls through the platform Key Responsibilities:1. Cloud Architecture Design:o Develop and design highly scalable, secure, and resilient cloud architectures on Google Cloud Platform.o Define cloud infrastructure strategies, including CI/CD pipeline setup, automation, and disaster recovery.o Ensure that the cloud architecture meets all security, availability, and scalability requirements.o Lead the migration of on-premises systems to Google Cloud Platform, ensuring minimal disruption to services. 2.Technical Leadership:o Provide technical leadership to development and operations teams in best practices for building cloud-native applications.o Guide teams on Google Cloud Platform services, including Compute Engine, Kubernetes Engine, BigQuery, Cloud Functions, App Engine, and more.o Mentor and train internal teams on Google Cloud Platform technologies and frameworks.o Evaluate and recommend third-party solutions and technology partners. 3.Infrastructure Management:o Design and manage cloud infrastructure using infrastructure-as-code tools like Terraform, Deployment Manager, etc.o Monitor and maintain Google Cloud Platform-based environments, optimizing performance, availability, and cost.o Implement network, identity, and access management security policies using Google Cloud Platform tools such as VPC, IAM, and Firewall Rules. 4.Security & Compliance:o Implement best practices for securing cloud environments, ensuring compliance with industry standards (e.g., ISO, PCI, HIPAA).o Lead the configuration of security settings and policies for Google Cloud Platform services, data encryption, and access controls.o Conduct regular security audits and risk assessments to identify vulnerabilities and mitigation strategies. 5.Collaboration & Communication:o Collaborate with stakeholders to understand business requirements and translate them into cloud architecture solutions.o Act as a liaison between technical teams, vendors, and business units.o Provide documentation of cloud architecture, technical decisions, and best practices for internal and external stakeholders. 6.Continuous Improvement:o Stay current with emerging Google Cloud Platform technologies and solutions to ensure the architecture is up-to-date.o Identify opportunities for optimizing cloud architecture and infrastructure to improve performance and reduce costs. Qualifications:Education: Bachelor s or Master s degree in Computer Science, Information Technology, or a related field.Experience: o 7+ years of experience in cloud architecture or related roles, with at least 3 years of hands-on experience in Google Cloud Platform.o Proven experience in designing and implementing cloud infrastructure on Google Cloud Platform, including migration of large-scale systems. Certifications: Google Cloud Platform certifications such as Google Cloud Professional Cloud Architect, Google Cloud Professional DevOps Engineer, or similar. Technical Skills: o Strong knowledge of Google Cloud Platform services (Compute, Storage, Networking, IAM, etc.).o Experience with Kubernetes (GKE) and Docker.o Proficiency in scripting (Python, Bash, etc.) and automation tools like Terraform or Ansible.o Understanding of cloud security, compliance, and governance principles.o Experience with CI/CD pipeline tools like Jenkins, GitLab, or CircleCI.o Familiarity with monitoring and logging tools such as Stackdriver, Prometheus, or Grafana. Soft Skills: o Excellent problem-solving and analytical skills.o Strong communication and collaboration abilities.o Ability to work in fast-paced, dynamic environments and lead multiple projects concurrently. Thanks & Regards!Nanda Kishore Nimmoju",
+        "source": "Email",
+        "date_posted": "2024-10-17 13:37:31-05:00",
+        "unique_id": "1929be5caf5a4772",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

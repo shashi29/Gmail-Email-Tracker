@@ -1,0 +1,66 @@
+[
+    {
+        "company": "1 Point System LLC",
+        "job_title": "Gcp test engineer",
+        "location": "Richardson, TX, USA",
+        "full_location": {
+            "city": "Richardson",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "7+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "Kubernetes"
+            ],
+            "primary": [
+                "GCP",
+                "Azure",
+                "Restful API Services",
+                "JSON"
+            ],
+            "secondary": [
+                "SQL"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Spring Boot",
+                "Kubernetes",
+                "GCP",
+                "Azure",
+                "Restful API Services",
+                "JSON",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Vikas Gupta",
+        "email": "vikas.g@1pointsys.com",
+        "jd": "From: vikas gupta, 1 point system llc vikas.g@1pointsys.com Reply to: vikas.g@1pointsys.com Hi,This side Vikas from 1pointsys. Hope you are doing well, I have a job position for you.Job Title:- Java Developer/ Microservices Location:- Richardson Texas- MUST BE LOCAL Job Description:-\u2022 7+ years of total experience\u2022 3-4 years\u2019 experience Microservice developers\u2022 Must have Java technologies experience\u2022 Must have Microservices experience\u2022 Must have Spring boot experience\u2022 Kubernetes experience is a must\u2022 Cloud experience would be helpful; GCP or Azure\u2022 Restful API Services experience with JSON\u2022 SQL good to have, basic SQL knowledgeBest regardsVikas GuptaTechnical Recruiter\u2013 1Point System llcvikas.g@1pointsys.com || www.1pointsys.com",
+        "source": "Email",
+        "date_posted": "2024-10-24 10:44:26-05:00",
+        "unique_id": "192bf57d7d50301c",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

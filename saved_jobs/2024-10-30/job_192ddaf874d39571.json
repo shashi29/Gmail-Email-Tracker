@@ -1,0 +1,64 @@
+[
+    {
+        "company": "IntegrateUS, LLC",
+        "job_title": "IT Project Manager",
+        "location": "Austin, TX, USA",
+        "full_location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified",
+            "job_code": ""
+        },
+        "skills": {
+            "core": [
+                "communication",
+                "teamwork",
+                "knowledge transfer"
+            ],
+            "primary": [
+                "project management",
+                "stakeholder management",
+                "risk management",
+                "SDLC processes"
+            ],
+            "secondary": [],
+            "all": [
+                "communication",
+                "teamwork",
+                "knowledge transfer",
+                "project management",
+                "stakeholder management",
+                "risk management",
+                "SDLC processes"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Hemanth",
+        "email": "hemanth@integrateus.com",
+        "jd": "Job Title: IT Project Manager\nLocation: Austin, TX, USA\nDue Date: 06-Nov-2024\n\nJob Description:\nWe are seeking a Full-time IT Project Manager contractor or employee to manage projects aligning with HHSC and Texas Project Delivery standards. Key duties include acting as a liaison between stakeholders and project teams, overseeing design and development, ensuring compliance, managing risks and progress, and facilitating SDLC processes. Strong communication, teamwork, and knowledge transfer skills are essential.",
+        "source": "Email",
+        "date_posted": "2024-10-30 08:48:40-05:00",
+        "unique_id": "192ddaf874d39571",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "Project Manager"
+    }
+]

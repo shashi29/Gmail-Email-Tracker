@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Source InfoTech Inc.",
+        "job_title": "Python Developer",
+        "location": "Atlanta, GA, USA",
+        "full_location": {
+            "city": "Atlanta",
+            "state": "GA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "5+ years",
+            "degree_required": "Bachelor's degree in Computer Science, Software Engineering, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "12+ months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "Flask",
+                "Object-oriented programming"
+            ],
+            "primary": [
+                "Cloud (AWS, GCP, or Azure)",
+                "DevOps",
+                "Docker",
+                "Kubernetes",
+                "Openshift",
+                "Machine learning"
+            ],
+            "secondary": [
+                "Event-driven programming",
+                "Messaging",
+                "Stream processing"
+            ],
+            "all": [
+                "Python",
+                "Django",
+                "Flask",
+                "Object-oriented programming",
+                "Cloud (AWS, GCP, or Azure)",
+                "DevOps",
+                "Docker",
+                "Kubernetes",
+                "Openshift",
+                "Machine learning",
+                "Event-driven programming",
+                "Messaging",
+                "Stream processing"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Sunny",
+        "email": "sunny@sourceinfotech.com",
+        "jd": "From: sunny, Source Infotech Inc sunny@sourceinfotech.com Reply to: sunny@sourceinfotech.com Hi,Hope you are all doing well,Please find the details of Requirement,Python DeveloperAtlanta, GA/ Minneapolis, MN- Hybrid12+monthsVisa: GC/USC Interview process: (1) introductory call, (2) technical assessment, and (3) interview with the hiring manager.We are seeking a talented Python Developer to join our dynamic team and contribute to the development of cutting-edge software solutions. The ideal candidate will have a strong foundation in Python programming and a proven track record of delivering high-quality, maintainable applications.ResponsibilitiesDesign, develop, and maintain Python-based applications, adhering to best practices and coding standards.Collaborate with cross-functional teams to understand project requirements and deliver solutions that meet business objectives.Write clean, efficient, and well-documented code.Participate in code reviews and provide constructive feedback to team members.Troubleshoot and resolve technical issues.Stay up-to-date with the latest Python technologies and industry trends.What we are looking forBachelor's degree in Computer Science, Software Engineering, or a related field.Experience as a senior software developer for high-tech products or services5+ years of Python programming experience in a production environmentStrong understanding of object-oriented programming principles and design patterns.Proficiency in Python frameworks and libraries (e.g., Django, Flask).Proven history of solving complex problems both in code and in personNice to haveEvent-driven, messaging, or stream processing experienceExperience with Cloud (AWS, GCP, or Azure) \u2013 AWS preferredDevOps, Docker, Kubernetes, or Openshift experienceMachine learning experience Thanks,SunnyIT RecruiterSource InfoTech Inc.,Email: sunny@sourceinfotech.com",
+        "source": "Email",
+        "date_posted": "2024-10-25 15:39:08-05:00",
+        "unique_id": "192c587af89c5263",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

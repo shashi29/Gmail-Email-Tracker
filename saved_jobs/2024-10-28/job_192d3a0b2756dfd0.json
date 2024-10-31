@@ -1,0 +1,75 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "SQL Server DBA + IBM MQ consultant",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor\u2019s degree in Computer Science, IT, or related field",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6 Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "SQL Server",
+                "IBM MQ"
+            ],
+            "primary": [
+                "ASP.NET MVC",
+                "ASP.NET Core",
+                "C#",
+                "XML parsing",
+                "Python",
+                "PowerShell"
+            ],
+            "secondary": [
+                "Agile SDLC",
+                "DevOps practices",
+                "cloud environments",
+                "Azure",
+                "AWS"
+            ],
+            "all": [
+                "SQL Server",
+                "IBM MQ",
+                "ASP.NET MVC",
+                "ASP.NET Core",
+                "C#",
+                "XML parsing",
+                "Python",
+                "PowerShell",
+                "Agile SDLC",
+                "DevOps practices",
+                "cloud environments",
+                "Azure",
+                "AWS"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "sangya kumari nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Title: SQL Server DBA + IBM MQ consultantLocation: NYC Onsite (Need local with DL)Duration: 6 MonthsVisa: USC/GCMOI: SkypeMust have SQL Server DBA experienceMust have IBM MQ experience (if they only have one, then it\u2019s an automatic rejection)Must currently located in general NYC areaMust be able to work 5-day On-Site.Domain-Financial Services firmJOB DESCRIPTIONServe as the Subject Matter Expert (SME) for IBM MQ.Establish and maintain IBM MQ instances across on-prem and cloud (Azure).Develop and maintain processes for monitoring and upgrading IBM MQ environments.Create MQ Consumers to write to MS SQL Server, handling XML parsing at scale.Provide Level 1 support for IBM MQ-related issues.Collaborate on risk management and ensure compliance with regulatory standards.Proficient in IBM MQ on Windows environments.Experience with ASP.NET MVC / ASP.NET Core, C#, and SQL Server.Strong scripting abilities (Python or PowerShell).Familiarity with capital markets and post-trade workflows.Bachelor\u2019s degree in Computer Science, IT, or related field.Experience working in both on-prem and cloud environments (Azure or AWS experience preferred).Knowledge of Agile SDLC and DevOps practices is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-28 08:45:24-05:00",
+        "unique_id": "192d3a0b2756dfd0",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

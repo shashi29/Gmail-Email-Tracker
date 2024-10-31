@@ -1,0 +1,97 @@
+[
+    {
+        "company": "W3GLOBAL INC",
+        "job_title": "Azure Technical Lead",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Information Systems, Software Engineering, Computer Science, Data Engineering, or related field (Master's preferred)",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Azure Data Lake (ADL)",
+                "ADB",
+                "PySpark",
+                "Python",
+                "MySQL"
+            ],
+            "primary": [
+                "Azure Stack",
+                "Data Lake",
+                "Blob Storage",
+                "Azure Data Factory",
+                "Databricks",
+                "ETL",
+                "ELT",
+                "SQL"
+            ],
+            "secondary": [
+                "DataRobot",
+                "Domino Data Labs",
+                "Salesforce MC",
+                "Veeva CRM",
+                "Snowflake Warehouse",
+                "regression analyses",
+                "hypothesis testing",
+                "ML modeling",
+                "healthcare marketing analytics",
+                "healthcare data claims",
+                "medical coding sets (ICD, HCPCs, NPIs)"
+            ],
+            "all": [
+                "Azure Data Lake (ADL)",
+                "ADB",
+                "PySpark",
+                "Python",
+                "MySQL",
+                "Azure Stack",
+                "Data Lake",
+                "Blob Storage",
+                "Azure Data Factory",
+                "Databricks",
+                "ETL",
+                "ELT",
+                "SQL",
+                "DataRobot",
+                "Domino Data Labs",
+                "Salesforce MC",
+                "Veeva CRM",
+                "Snowflake Warehouse",
+                "regression analyses",
+                "hypothesis testing",
+                "ML modeling",
+                "healthcare marketing analytics",
+                "healthcare data claims",
+                "medical coding sets (ICD, HCPCs, NPIs)"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Benny Wilson",
+        "email": "benny.wilson@w3global.com",
+        "jd": "From: Benny Wilson, W3GLOBAL INC benny.wilson@w3global.com Reply to: benny.wilson@w3global.com HI All,Greetings from W3Global Inc!! Job Title : Azure Technical LeadEmployment Type : Contract, C2CLocation : 100% Remote Job DescriptionMust Skills: Azure Data Lake (ADL), ADB, Py spark, Python, MySQLDescription:Develop and maintain scalable data pipelines using Azure and PySpark. Extract, load, and transform data from various sources into cloud data warehouses. Format and distribute custom data extracts through APIs, SFTPs, and other mediums. Design and optimize data storage solutions based on business needs. Assist in database structure design, schema design, and database testing. Define company data assets, data models, and data quality protocols. Troubleshoot database issues and improve data retrieval times using SQL. Collaborate with technical and non-technical stakeholders across various business units. Facilitate and troubleshoot database connectivity between internal and external resources. Implement and enforce enterprise reference architecture, data governance, and security guidelines.Qualification Requirements:Bachelor's degree in Information Systems, Software Engineering, Computer Science, Data Engineering, or related field (Master s preferred).Experience with Azure Stack (Data Lake, Blob Storage, Azure Data Factory, Databricks) and on-premises Microsoft SQL Server. Proficiency in ETLELT processes, ingesting data into cloud-native data warehouses. Experience with Python, PySpark. Strong verbal and written communication skills.Preferred experience with DataRobot, Domino Data Labs, Salesforce MC, Veeva CRM. Familiarity with Snowflake Warehouse and statistical concepts (e.g., regression analyses, hypothesis testing, ML modeling).Experience with healthcare marketing analytics, healthcare data claims, and medical coding sets (ICD, HCPCs, NPIs).Please let me know your interest and let's keep in touch until we make this happenReferrals appreciated and welcomed. Thanks & Regards,Benny WilsonRecruiterE: benny.wilson@w3global.comA: 1701 Legacy Dr, Suite#1000, Frisco, Texas - 75034",
+        "source": "Email",
+        "date_posted": "2024-10-23 09:15:06-05:00",
+        "unique_id": "192b9dc9364646d5",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

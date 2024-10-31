@@ -1,0 +1,63 @@
+[
+    {
+        "company": "iTech US Inc",
+        "job_title": "Python Developer",
+        "location": "Detroit, MI, USA",
+        "full_location": {
+            "city": "Detroit",
+            "state": "MI",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "experience_required": "8+ years",
+            "degree_required": "Bachelor's Degree",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "Django",
+                "Flask",
+                "Fast API",
+                "Rest API"
+            ],
+            "primary": [
+                "Pytest",
+                "Jenkins",
+                "GCP"
+            ],
+            "secondary": [],
+            "all": [
+                "Python",
+                "Django",
+                "Flask",
+                "Fast API",
+                "Rest API",
+                "Pytest",
+                "Jenkins",
+                "GCP"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Venkat Gayam",
+        "email": "venkat.g@itechus.net",
+        "jd": "From: Venkat Gayam, iTech US Inc\n\nWe have an urgent requirement for you and the details are as follows\u2026\n\nJob Title: Python Developer\nLocation: Detroit MI /Dearborn MI (Day1 onsite)\nDuration: 6+ Months (Implementation/Prime Vendor Partner: TCS)\n\nJob Details:\nNeed Strong profile on Python Developer with 8+yrs IT exp.\n\nJob Description:\n1. Should have at least 3+ years as Python backend development\n2. Any Framework Experience (2+ Yrs): Django, Flask, Fast API\n3. Should have at least 1+ years of working experience on Rest API\n4. Should have at least 2+ years of Application Development Experience\n5. Should have experience on Pytest and Jenkins\n6. Working experience on GCP will add an advantage.\n\nKindly fill the below details as it is required while submitting it to the client:\nFull Name (Legal):\nContact No:\nAlternate Contact No:\nE-mail ID:\nWork Authorization:\nCurrent Location:\nFormer Employee of TCS (Yes/NO):\nRelocation (Y/N):\nLinkedIn URL:\nEducation Details (Specialization/University/Passed out year)\nBachelor's Degree:\nMaster's Degree:",
+        "source": "Email",
+        "date_posted": "2024-10-30 09:17:31-05:00",
+        "unique_id": "192dde9e81c7d12d",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

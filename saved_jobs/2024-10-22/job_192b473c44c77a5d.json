@@ -1,0 +1,91 @@
+[
+    {
+        "company": "Vyze Inc.",
+        "job_title": "Sr. GCP Platform Support",
+        "location": "New York, NY, USA",
+        "full_location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "No visa sponsorship",
+            "notice_period": "Not specified",
+            "duration": "6+ Months",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "GCP",
+                "Kubernetes Engine",
+                "CI/CD",
+                "Python",
+                "JavaScript"
+            ],
+            "primary": [
+                "Windows",
+                "RedHat Linux",
+                "Github",
+                "Jenkins",
+                "DevOps",
+                "Agile",
+                "LAN",
+                "WAN"
+            ],
+            "secondary": [
+                "Incident Management",
+                "Change Management",
+                "Problem Management",
+                "Scripting",
+                "Bash",
+                "Powershell"
+            ],
+            "all": [
+                "GCP",
+                "Kubernetes Engine",
+                "CI/CD",
+                "Python",
+                "JavaScript",
+                "Windows",
+                "RedHat Linux",
+                "Github",
+                "Jenkins",
+                "DevOps",
+                "Agile",
+                "LAN",
+                "WAN",
+                "Incident Management",
+                "Change Management",
+                "Problem Management",
+                "Scripting",
+                "Bash",
+                "Powershell"
+            ],
+            "with_experience": [
+                "GCP",
+                "Kubernetes Engine"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Rajeev",
+        "email": "rajeev@vyzeinc.com",
+        "jd": "From: Rajeev, Vyzeinc rajeev@vyzeinc.com Reply to: rajeev@vyzeinc.com \u00ad\u00ad\u00adSr. GCP Platform Support Location: NYC, NY (Hybrid) Local OnlyDuration: 6+ MonthsVisa\u2019s: Only GC and USCMOI: SkypeClient Domain: Banking Must have LinkedIn I\u2019d In this role, you'll be the guardian of our Google Cloud Platform (GCP) environment, focusing on optimizing its health and performance. Your expertise in Kubernetes Engine will be crucial, as you'll oversee the management and security of our containerized applications. This includes ensuring efficient resource allocation and adherence to best practices for container deployments. Additionally, you'll be responsible for monitoring the performance and availability of GCP at a platform level, proactively identifying and resolving any potential issues. Mandatory technical skills include:Strong to expert knowledge of supporting GCP including GKE workloads.Thorough problem-determination skills to troubleshoot and resolve business application issues. Knowledge with OS technologies (Windows, RedHat Linux).Familiar with CI/CD tools such as Github, Jenkins, etc.DevOps and Agile understanding. Working knowledge of Local Area Networks (LAN) and Wide Area Networks (WAN). Comfortable with working in a rapidly changing, technically complex environment. Knowledge of scripting languages and tools such as Python, JavaScript, Powershell, Bash.Comfortable with the Agile methodology.The successful applicant must have a solid understanding of Incident, Change, and Problem Management methodologies as well as solid experience in a large, high-performance production environment. Responsibilities24/7 On-call support for GCP Public Cloud Operations.Responsible for Development to Production Cloud PaaS/IaaS support and processes. This is to ensure quality, performance, and availability of Public Cloud services.The successful candidate must have demonstrated ability to learn new technologies and processes, resolve incidents, and solving problems by collaborating with others.The candidate will be responsible for providing operational support for platforms and infrastructure hosted on the Public Cloud. The role requires familiarity with ITIL processes (change, incident, and problem) and availability for off-hours escalated support. Provide planning, communication, and reporting of day-to-day ticket metrics and longer term tactical objectives.Level 2 support of the business line Cloud infrastructure including PaaS/IaaS/Containers across all production and test environments.Manage non-standard/complex P1, P2 (Major Incidents), and P3 and P4 incidents and service requests.Ensure customer service satisfaction and enable continuous improvements.Oversee higher complexity operational and preventive maintenance tasks.Manage complex remedial and unscheduled urgent changes.Able to be accessible via a mobile device to support on-call escalations. Drive root cause analysis on repeatable incidents to help prevent issues in the future.Creation of support documentation and scripts.Oversee vendor\u2019s service delivery and escalation.Provide operational consultancy for future-state technologies.Support change management process.Prioritize activities to align with compliance, regulatory requirements, and business objectives. Keep informed of technology solutions initiatives and IT direction to provide strong support to the businesses.",
+        "source": "Email",
+        "date_posted": "2024-10-22 08:03:42-05:00",
+        "unique_id": "192b473c44c77a5d",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "GCP Data Engineer"
+    }
+]

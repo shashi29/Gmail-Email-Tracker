@@ -1,0 +1,136 @@
+[
+    {
+        "company": "HMG America",
+        "job_title": "AWS data architect",
+        "location": "Plano, TX, USA",
+        "full_location": {
+            "city": "Plano",
+            "state": "TX",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS Services/Architecture",
+                "Python object-oriented programming",
+                "SQL"
+            ],
+            "primary": [
+                "EC2",
+                "EMR",
+                "Glue",
+                "Redshift",
+                "Kinesis",
+                "RDS",
+                "DynamoDB",
+                "Lambda",
+                "SNS",
+                "SQS",
+                "Step Functions",
+                "Beanstalk",
+                "Batch",
+                "ECS",
+                "S3",
+                "EFS",
+                "Glacier",
+                "CloudTrail",
+                "CloudWatch"
+            ],
+            "secondary": [
+                "data strategy",
+                "data integration",
+                "data quality",
+                "data delivery",
+                "enterprise data lakes",
+                "data warehouses",
+                "data marts",
+                "big data",
+                "data models",
+                "design of table structures",
+                "data analysis",
+                "data mapping",
+                "testing processes",
+                "software application testing",
+                "cloud technologies",
+                "automation tools",
+                "data governance",
+                "data validation"
+            ],
+            "all": [
+                "AWS Services/Architecture",
+                "Python object-oriented programming",
+                "SQL",
+                "EC2",
+                "EMR",
+                "Glue",
+                "Redshift",
+                "Kinesis",
+                "RDS",
+                "DynamoDB",
+                "Lambda",
+                "SNS",
+                "SQS",
+                "Step Functions",
+                "Beanstalk",
+                "Batch",
+                "ECS",
+                "S3",
+                "EFS",
+                "Glacier",
+                "CloudTrail",
+                "CloudWatch",
+                "data strategy",
+                "data integration",
+                "data quality",
+                "data delivery",
+                "enterprise data lakes",
+                "data warehouses",
+                "data marts",
+                "big data",
+                "data models",
+                "design of table structures",
+                "data analysis",
+                "data mapping",
+                "testing processes",
+                "software application testing",
+                "cloud technologies",
+                "automation tools",
+                "data governance",
+                "data validation"
+            ],
+            "with_experience": [
+                "AWS Services/Architecture",
+                "Python object-oriented programming",
+                "SQL"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Aditya",
+        "email": "aditya.kumar@hmgamerica.com",
+        "jd": "From: Aditya, HMG America aditya.kumar@hmgamerica.com Reply to: aditya.kumar@hmgamerica.com Title: AWS data architect Location: Plano, TX or Reston, VA (2-3 days on-site, Hybrid) Job Description:12+ Advanced knowledge of AWS Services/ArchitectureExperience in AWS such as EC2, EMR, Glue, Redshift, Kinesis, RDS, DynamoDB, Lambda, SNS, SQS, Step Functions, Beanstalk, Batch or ECS, S3, EFS, Glacier, CloudTrail, CloudWatchStrong knowledge in Python object-oriented programmingStrong experience with SQLDevelop and promote data strategy, and interpret and deliver strategic plans to improve data integration, quality, and deliveryExperience with enterprise data lakes, data warehouses, data marts, and big data.Design and implement data models that effectively support business processes and decision-making.Should be able to provide design of the table structures with proper data analysis and mapping capabilities.Design and develop testing processes and direct software application testing, leveraging knowledge of computer science and software development principles and utilizing cloud technologies, automation tools and frameworksEnsure data integrity and quality by developing and implementing data governance and validation processes.Recommends solutions (including new technologies) to improve the existing framework",
+        "source": "Email",
+        "date_posted": "2024-10-10 09:51:06-05:00",
+        "unique_id": "19277148a7701758",
+        "emp_type": [
+            "full-time",
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

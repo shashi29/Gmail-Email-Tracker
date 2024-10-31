@@ -1,0 +1,83 @@
+[
+    {
+        "company": "Compusoft Integrated Solutions",
+        "job_title": "Software Developer (Python/AWS)",
+        "location": "Charlotte, NC, USA",
+        "full_location": {
+            "city": "Charlotte",
+            "state": "NC",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "full-time",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "At least 9 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "1+ year with potential extensions",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Python",
+                "AWS",
+                "API Development",
+                "CI/CD",
+                "Test-driven development"
+            ],
+            "primary": [
+                "Flask",
+                "FastAPI",
+                "Infrastructure as code (Terraform preferred)",
+                "Microservice development patterns",
+                "Agile environment"
+            ],
+            "secondary": [
+                "AI/ML experience/certification",
+                "Experience with Apigee",
+                "Excellent communication skills",
+                "Mentoring and coaching",
+                "Code review"
+            ],
+            "all": [
+                "Python",
+                "AWS",
+                "API Development",
+                "CI/CD",
+                "Test-driven development",
+                "Flask",
+                "FastAPI",
+                "Infrastructure as code (Terraform preferred)",
+                "Microservice development patterns",
+                "Agile environment",
+                "AI/ML experience/certification",
+                "Experience with Apigee",
+                "Excellent communication skills",
+                "Mentoring and coaching",
+                "Code review"
+            ],
+            "with_experience": [
+                "Python (9+ years)",
+                "AWS (5+ years)"
+            ]
+        },
+        "job_type": [
+            "hybrid"
+        ],
+        "contact_person": "Nick B",
+        "email": "nick@compusoft-is.com",
+        "jd": "From: Nick, Compusoft Integrated Solutions nick@compusoft-is.com Reply to: nick@compusoft-is.com Hi, Greetings from Compusoft, Please review the following requirement and let me know if you\u2019re interested. Please send your updated profile with contact details Title: Software Developer (Python/AWS)Work Location: Charlotte, NC (Hybrid-3 days a week)Duration: 1+ year with potential extensionsPassport# is mandate for any visa status except USC Top Skills:** API Development \u2013 Python. Ability to write, test, and debug Python APIs using frameworks such as Flask, and FastAP; ** At least 5 years of AWS experience with a variety of services, in priority order but not limited to: Lambda, ECS, S3, Dynamo DB, API gateway, SQS, IAM, Security Groups.; ** Experience configuring and deploying CI/CD pipelines in Gitlab; ** Test-driven development** AI models. ** Must have excellent communication skills \u2013 both verbal and written, collaborative team player, raise issues early and often, Able to mentor and coach junior team members, able to review others\u2019 code and provide feedback. Tech At least 9 years of experience in Python programming including application service development.Ability to design and build serverless and stateful systems on AWS, that are scalable and highly available.At least 5 years of AWS experience with a variety of services, in priority order but not limited to: Lambda, ECS, S3, Dynamo DB, API gateway, SQS, IAM, Security Groups.Experience with Infrastructure as code (Terraform preferred).Experience configuring and deploying CI/CD pipelines in Gitlab.Experience with microservice development patterns.Experience working in an agile environment.AI/ML experience/certification is a plus.Experience with Apigee is a plus. ThanksNick BCompuSoft Integrated Solutions, Inc.31500 W.13 Mile Road Suite #200Farmington Hills, MI- 48334D: 248-538-9494 Ext:117 nick@compusoft-is.com",
+        "source": "Email",
+        "date_posted": "2024-10-29 07:19:55-05:00",
+        "unique_id": "192d859dd2f65d06",
+        "emp_type": [
+            "full-time",
+            "third party"
+        ],
+        "tag": "Python developer"
+    }
+]

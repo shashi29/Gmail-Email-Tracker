@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Headwaytek",
+        "job_title": "Lead Database Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "experience_required": "Not specified",
+            "degree_required": "Bachelor's degree in Computer Science, Information Technology, or a related field.",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "database management systems (DBMS)",
+                "SQL",
+                "problem-solving skills",
+                "attention to detail"
+            ],
+            "primary": [
+                "Azure IaaS",
+                "database monitoring tools",
+                "basic query optimization techniques",
+                "communication skills"
+            ],
+            "secondary": [
+                "SOX compliance",
+                "HIPAA compliance",
+                "willingness to learn",
+                "teamwork"
+            ],
+            "all": [
+                "database management systems (DBMS)",
+                "SQL",
+                "problem-solving skills",
+                "attention to detail",
+                "Azure IaaS",
+                "database monitoring tools",
+                "basic query optimization techniques",
+                "communication skills",
+                "SOX compliance",
+                "HIPAA compliance",
+                "willingness to learn",
+                "teamwork"
+            ],
+            "with_experience": []
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Rahul Reddy",
+        "email": "rahul@headwaytek.com",
+        "jd": "From: Rahul Reddy, Headwaytek rahul@headwaytek.com Reply to: rahul@headwaytek.com Role: Lead Database EngineerLocation: Remote (Anywhere in Texas) Job Description:We are seeking a dedicated and detail-oriented Lead Database Engineer to join our team. The ideal candidate will be responsible for basic database management tasks, ensuring the smooth operation and maintenance of our database systems. This role involves monitoring, troubleshooting, and supporting various database-related activities to ensure optimal performance and reliability. Key Responsibilities:1. Basic Connectivity Issues: - Investigate and resolve user connection problems. - Ensure database services are running smoothly.2. User Account Management: - Create, delete, or modify user accounts and roles. - Reset passwords and manage access permissions.3. Monitoring and Alerts Handling: - Respond to automated monitoring alerts for performance issues. - Check for high CPU/memory/disk usage and notify L2/L3 teams if needed.4. Backup Monitoring: - Ensure scheduled backups are completed successfully. - Notify the L2 team of any failures or inconsistencies.5. Basic Query Optimization: - Identify slow-running queries. - Provide basic troubleshooting (e.g., missing indexes).6. Service Restarts: - Restart database services when non-responsive or encountering failures.7. Database Space Management: - Monitor database storage and disk space. - Notify L2/L3 teams if space thresholds are crossed.8. Database Status Checks: - Check the health and availability of databases and server resources. - Monitor error logs for critical issues.9. Supporting SOX & HIPAA Audit Requests: - Assist with SOX and HIPAA audit requests by gathering necessary data.10. Incident Ticket Handling: - Triage and escalate complex issues to L2/L3 teams. - Log issues in the ticketing system.11. Basic Performance Troubleshooting: - Investigate basic performance complaints (e.g., slow response times) and escalate if needed.12. Running Routine Scripts: - Execute pre-approved SQL scripts or queries for basic maintenance tasks (e.g., clearing logs).13. Handling Failover Notifications: - Notify higher-level teams in case of database failovers in HA environments.14. Special Requests: - Handle special requests like generating reports, running diagnostics, or performing data extracts under supervision.15. Vulnerability Remediation Support: - Assist with applying security patches and addressing basic vulnerabilities under L2/L3 guidance.16. Supporting Database Migrations: - Support pre-migration tasks and monitor migration processes, escalating issues to L2/L3 as needed.17. Continuous Improvement & Knowledge Management: - Continuously enhance processes and tools while updating knowledge base articles to improve efficiency and streamline issue resolution.18. Facilitating New Deployments for DBs & Managing Deployment Features: - Assist with new deployments for IaaS/On-Prem DBs and handle deployment features. Qualifications:- Bachelor's degree in Computer Science, Information Technology, or a related field.- Basic understanding of database management systems (DBMS).- Knowledge of Azure IaaS and DB- Familiarity with SQL and basic query optimization techniques.- Strong problem-solving skills and attention to detail.- Good communication skills and ability to work in a team environment.Willingness to learn and adapt to new technologies and processes. Preferred Qualifications:- Experience with database monitoring tools.- Basic knowledge of SOX and HIPAA compliance requirements.- Previous experience in a similar role is a plus.",
+        "source": "Email",
+        "date_posted": "2024-10-21 12:45:29-05:00",
+        "unique_id": "192b04f6f61fc873",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "DB Admin"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "company": "Adventa",
+        "job_title": "Junior Data Engineer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "8 Month",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Scala",
+                "ETL",
+                "APIs",
+                "Azure"
+            ],
+            "primary": [
+                "C#",
+                "T-SQL",
+                "DevOps",
+                "Quality Assurance"
+            ],
+            "secondary": [
+                "Data Ingestion",
+                "Data Normalization",
+                "Microservices"
+            ],
+            "all": [
+                "Scala",
+                "ETL",
+                "APIs",
+                "Azure",
+                "C#",
+                "T-SQL",
+                "DevOps",
+                "Quality Assurance",
+                "Data Ingestion",
+                "Data Normalization",
+                "Microservices"
+            ]
+        },
+        "job_type": [
+            "remote"
+        ],
+        "contact_person": "Sangya Kumari Nahak",
+        "email": "sangya@adventatech.com",
+        "jd": "From: sangya kumari nahak, adventa sangya@adventatech.com Reply to: sangya@adventatech.com Position : Junior Data EngineerLocation : RemoteDuration : 8 MonthVisa : anyInterview : VideMust Have:Heavy Scala exp. is Must to have Hands-on coding in Scala for ETL pipelines and building APIs. Must have experience in an Azure environment.Current project must healthcareOne LinkedIn Manager or Lead Reference is Must with submissionLinkedIn with Photo Context:We have our data lake / platform setupNH has tons of raw / unaltered data we receive on a regular basis that makes it's way into the data lakeMany of the data sources are about the same content (e.g. Centrum might receive medical claim information from over a dozen different insurance companies), but each source sends us the data in their own bespoke formatWe're working on an initiative to have all of this data end up in a standard set of database tables (i.e. data normalization) (e.g. take 12x medical claim spreadsheets/csvs that come on a regular basis and produce a single list of ALL claims Role SpecificationsWrite traditional code and server-less functions using the language best suited for the task, which is primarily Scala. May include development with C# and T-SQL.Build APIs, data microservices and ETL pipelines, to share data with internal and external partners and write interfaces to public data sets to enrich our analytics data stores.Participate in building and owning a culture of DevOps and Quality Assurance.Continuously document your code, framework standards, and team processes.Build and support Data Ingestion frameworks deployed in Azure. The work / skills:Overall we're looking for contracting support that would be somewhere between a skilled analyst / junior data engineer.The job would be:input: a document that specifies how the source file format should be manipulated to match our standard formata sample source filea template for how the normalization code/configuration should be setupoutput:a normalization configuration for a given source file format",
+        "source": "Email",
+        "date_posted": "2024-10-25 17:07:59-05:00",
+        "unique_id": "192c5d904e942286",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Azure Data Engineer"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "company": "NITYA Software Solutions Inc.",
+        "job_title": "Lead (JAVA) Developer",
+        "location": "USA",
+        "full_location": {
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "Not specified",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Microservices",
+                "Cloud Computing"
+            ],
+            "primary": [
+                "Client-Server Programming",
+                "Integration",
+                "Graphical User Experience Design",
+                "Unit Testing",
+                "System Testing",
+                "Integration Testing"
+            ],
+            "secondary": [
+                "G.A.P. Analysis",
+                "Functional Specifications",
+                "Design Specifications",
+                "Project Documentation",
+                "Technology Solutions"
+            ],
+            "all": [
+                "Java",
+                "Microservices",
+                "Cloud Computing",
+                "Client-Server Programming",
+                "Integration",
+                "Graphical User Experience Design",
+                "Unit Testing",
+                "System Testing",
+                "Integration Testing",
+                "G.A.P. Analysis",
+                "Functional Specifications",
+                "Design Specifications",
+                "Project Documentation",
+                "Technology Solutions"
+            ]
+        },
+        "job_type": [],
+        "contact_person": "Rajkumar",
+        "email": "rajkumar.v@nityainc.com",
+        "jd": "Role: Lead (JAVA) Developer\n\nIdentify business needs by establishing personal rapport with actual, potential, and internal clients.\n\nDesign, develop, and implement highly scalable client server programs in a cloud environment.\n\nIdentify appropriate microservice implementation and build cloud hosted services.\n\nRecommend alternate approaches, analyze product design impact, and provide sizing estimates.\n\nCollaborate with other cross platform team members to build effective integrations.\n\nParticipate in design sessions and code reviews.\n\nWork with business requirement partners to design, develop, and refine the graphical user experience of an application.\n\nConfirm program operation by conducting unit, system, and integration tests; modifying program sequence and/or codes as necessary.\n\nPrepare project related documentation, G.A.P. analysis, functional specifications, design specifications.\n\nComplete development activities including reports, interfaces, conversions, improvements, and forms during different stages of a project.\n\nIdentify new technologies and solutions to improve existing infrastructure.",
+        "source": "Email",
+        "date_posted": "2024-10-30 16:11:48-05:00",
+        "unique_id": "192df652ebfde525",
+        "emp_type": [
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]

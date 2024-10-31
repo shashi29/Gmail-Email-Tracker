@@ -1,0 +1,87 @@
+[
+    {
+        "company": "Ritwik Infotech Inc",
+        "job_title": "Senior Cloud Engineer",
+        "location": "Quincy, MA, USA",
+        "full_location": {
+            "city": "Quincy",
+            "state": "MA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "job_code": "",
+            "experience_required": "3-5 years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Long Term",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "AWS",
+                "Snowflake",
+                "Cloud Data services",
+                "Database administration",
+                "Data Warehouse applications",
+                "SQL",
+                "PL/SQL",
+                "Linux shell scripting"
+            ],
+            "primary": [
+                "IICS",
+                "GitHub",
+                "Cloud Technologies",
+                "User security",
+                "Server administration"
+            ],
+            "secondary": [
+                "Amazon Web Services (AWS) Certification",
+                "Snowflake certification"
+            ],
+            "all": [
+                "AWS",
+                "Snowflake",
+                "Cloud Data services",
+                "Database administration",
+                "Data Warehouse applications",
+                "SQL",
+                "PL/SQL",
+                "Linux shell scripting",
+                "IICS",
+                "GitHub",
+                "Cloud Technologies",
+                "User security",
+                "Server administration",
+                "Amazon Web Services (AWS) Certification",
+                "Snowflake certification"
+            ],
+            "with_experience": [
+                "AWS (3-5 years)",
+                "Snowflake (5+ years)",
+                "Cloud Data services (3+ years)",
+                "Database administration (5+ years)",
+                "Data Warehouse applications on AWS (5+ years)",
+                "Cloud Technologies (2+ years)"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ritwik Muddukrishna",
+        "email": "muddukrishna@ritwikinfotech.com",
+        "jd": "From: muddukrishna, Ritwik infotech inc muddukrishna@ritwikinfotech.com Reply to: muddukrishna@ritwikinfotech.com Job Title: Senior Cloud Engineer Location: Quincy, Massachusetts (Local) Long Term Contract Position Must have prior public sector working experience must have a valid Driving licence copy from Massachusetts or New England area. QUALIFICATIONS: Minimum experience/skills:\u00b7 3-5 years of experience in implementing and supporting Cloud-based (AWS) data solutions.\u00b7 5+ years of Cloud database platform experience such as Snowflake.\u00b7 3+ years in Cloud Data services such as IICS, AWS and GitHub.\u00b7 5+ years of experience in Database administration and Data Warehouse applications on AWS.\u00b7 Minimum two years of experience with installing and configuring applications using Cloud\u00b7 Technologies (AWS, MS Azure etc.)\u00b7 Experienced in SQL skills and PL/SQL skills.\u00b7 Experience in Linux shell scripting, user security and server administration.\u00b7 Hipaa Preferred experience/skills:\u00b7 Amazon Web Services (AWS) Certification\u00b7 Snowflake certification",
+        "source": "Email",
+        "date_posted": "2024-10-10 13:42:12-05:00",
+        "unique_id": "19277ddd8c557e83",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "AWS Data Engineer"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "company": "Talent Junction LLC",
+        "job_title": "Cloud-Developer",
+        "location": "Santa Clara, CA, USA",
+        "full_location": {
+            "city": "Santa Clara",
+            "state": "CA",
+            "country": "USA"
+        },
+        "job_details": {
+            "employment_type": [
+                "contract",
+                "third party"
+            ],
+            "experience_required": "15+ years",
+            "degree_required": "Not specified",
+            "visa_sponsorship": "Not specified",
+            "notice_period": "Not specified",
+            "duration": "Not specified",
+            "rate": "Not specified"
+        },
+        "skills": {
+            "core": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Kubernetes",
+                "Cloud Computing"
+            ],
+            "primary": [
+                "Spring Cloud",
+                "RabbitMQ",
+                "Kafka",
+                "NATS",
+                "Redis",
+                "Memcached",
+                "API Development",
+                "Critical Thinking",
+                "Problem Solving"
+            ],
+            "secondary": [
+                "OAuth",
+                "OpenID",
+                "SAML",
+                "Interpersonal Skills",
+                "Communication Skills"
+            ],
+            "all": [
+                "Java",
+                "Spring Boot",
+                "Microservices",
+                "Kubernetes",
+                "Cloud Computing",
+                "Spring Cloud",
+                "RabbitMQ",
+                "Kafka",
+                "NATS",
+                "Redis",
+                "Memcached",
+                "API Development",
+                "Critical Thinking",
+                "Problem Solving",
+                "OAuth",
+                "OpenID",
+                "SAML",
+                "Interpersonal Skills",
+                "Communication Skills"
+            ]
+        },
+        "job_type": [
+            "onsite"
+        ],
+        "contact_person": "Ben K",
+        "email": "ben@talent-junction.com",
+        "jd": "From: Ben, Talent Junction ben@talent-junction.com Reply to: ben@talent-junction.com Hello,I hope you\u2019re doing Great\u2026\u2026..!My name is Ben (Technical Recruiter) and I am from Talent Junction LLC. I am reaching out to you about an exciting job opportunity with one of our clients. Talent Junction LLC is a highly recognized provider of professional IT Consulting Services across the USA.Should you have interest, please send a Microsoft word copy of your resume to ben@talent-junction.com Please include the job title, authorization to work, interview/project availability, and contact information along with the details requested below. Remember, if you have the right set of aptitude and attitude, we have just the right job for you\u2026please rush your resume now, we can guarantee immediate interviews. Job Title: Cloud-DeveloperType: ContractLocation: Santa Clara, CA (Onsite)Job Description: \u202215+ years of experience in software development. (Springboot, SpringCloud)\u2022Deep understanding of software engineering principles and process along with the ability to apply this knowledge to execute projects and optimize development strategies\u2022Strong skills in critical thinking, decision making, problem-solving, and attention to details\u2022Experience with building Cloud vendor agnostic SaaS product.\u2022Experience in Java, Spring boot microservices, deployed as containers in Kubernetes ecosystem.\u2022In depth understanding of micro services architectures, technological familiarity with public/private/hybrid cloud, Openstack, GCE, Kubernetes, AWS\u2022Have deep understanding of building API's/services:\u2022That are built on top of MQ's - RabbitMQ, Kafka, NATS etc.\u2022That uses cache like Redis, Memcached to improve the performance of the platform\u2022That scales to millions of users in a cloud environment like Private cloud, GCP, AWS, Azure, etc.\u2022Good to have OAuth, OpenID, SAML based authentication experience.\u2022Strong written and oral communication and interpersonal skill\u2022In general, the successful candidate needs to be multi-faceted, a clear communicator, identifying risks and clearly communicating inwards as well as upwards. You must be able to work with Geographically diversified teams.Work with a team of engineers to define and evolve the architecture and underlying system design to build the scalable platform of the future. You are highly technical and know how to simplify and articulate designs.Making decisions on cloud characteristics, architecture, scaled services.Partner with product managers, product owners and various stake holders to define problems and explore solutions.Design the new workflows, identify gaps, build efficient flows.Produce software artifacts, write code, deliver high quality software for production consumption.Solicit feedback from a wide range of stakeholders. Provide helpful feedback to other designers.Experience in Java, Spring boot microservices, deployed as containers in Kubernetes ecosystem.\u2022In depth understanding of micro services architectures, technological familiarity with public/private/hybrid cloud, Openstack, GCE, Kubernetes, AWS\u2022Have deep understanding of building API's/services:\u2022That are built on top of MQ's - RabbitMQ, Kafka, NATS etc.",
+        "source": "Email",
+        "date_posted": "2024-10-21 13:31:25-05:00",
+        "unique_id": "192b0dee6e78a2ae",
+        "emp_type": [
+            "contract",
+            "third party"
+        ],
+        "tag": "Java developer"
+    }
+]
